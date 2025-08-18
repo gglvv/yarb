@@ -1,47 +1,41 @@
 # 每日安全资讯（2025-08-18）
 
-- Recent Commits to cve:main
-  - [Update Sun Aug 17 11:23:35 UTC 2025](https://github.com/trickest/cve/commit/5ea4e0380c57403ae11e5a4ff249e8c81ced5938)
 - 信息安全知识库
   - [人工智能和数据保护培训课程之使用个人数据的安全AI系统基础知识](https://vipread.com/library/topic/4011)
   - [AI Agents for Offsec with Zero False Positives](https://vipread.com/library/topic/4012)
   - [Hype Cycle for Security Operations, 2025](https://vipread.com/library/topic/4013)
 - SecWiki News
   - [SecWiki News 2025-08-17 Review](http://www.sec-wiki.com/?2025-08-17)
+- Recent Commits to cve:main
+  - [Update Sun Aug 17 11:23:35 UTC 2025](https://github.com/trickest/cve/commit/5ea4e0380c57403ae11e5a4ff249e8c81ced5938)
 - bunnie's blog
   - [Name that Ware, August 2025](https://www.bunniestudios.com/blog/2025/name-that-ware-august-2025/)
   - [Winner, Name that Ware July 2025](https://www.bunniestudios.com/blog/2025/winner-name-that-ware-july-2025/)
-- MaskRay
-  - [LLVM integrated assembler: Improving sections and symbols](https://maskray.me/blog/2025-08-17-llvm-integrated-assembler-improving-sections-and-symbols)
 - Hexacorn
   - [Beyond good ol’ Run key, Part 150](https://www.hexacorn.com/blog/2025/08/17/beyond-good-ol-run-key-part-150/)
-- Reverse Engineering
-  - [DEFCON Game Hacking Village CTF](https://www.reddit.com/r/ReverseEngineering/comments/1msur1a/defcon_game_hacking_village_ctf/)
-  - [Dynamic analysis tools](https://www.reddit.com/r/ReverseEngineering/comments/1msrgrm/dynamic_analysis_tools/)
-  - [🔍 EEPROM + 1-Wire Mystery Puzzle — can you spot the pattern?](https://www.reddit.com/r/ReverseEngineering/comments/1msntoe/eeprom_1wire_mystery_puzzle_can_you_spot_the/)
+- MaskRay
+  - [LLVM integrated assembler: Improving sections and symbols](https://maskray.me/blog/2025-08-17-llvm-integrated-assembler-improving-sections-and-symbols)
 - 奇客Solidot–传递最新科技情报
   - [一种蛋白质在人体中传递衰老信号](https://www.solidot.org/story?sid=82070)
   - [2025 年雨果奖宣布](https://www.solidot.org/story?sid=82069)
   - [FFmpeg 迁移到 Forgejo](https://www.solidot.org/story?sid=82068)
+- dotNet安全矩阵
+  - [.NET内网实战： 剖析 ACL & ACE 与 系统内置账户](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500314&idx=1&sn=45bf90d527b6f155ff3ee7ff68b38d45)
+  - [.NET 安全攻防知识交流社区](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500314&idx=2&sn=737b4b921aa637b68afb508b6ba8ab33)
+  - [.NET 文件监控，实时记录捕获上传的 WebShell](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500314&idx=3&sn=c023ecc808eb93f17c79fff140d3fbe9)
+- 我的安全视界观
+  - [SDL 84/100问：国内是否有做安全基线的厂商或这个方向的专家？](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487072&idx=1&sn=fdf78bd2335a7a94802ab396f1ab60a8)
+- 安全圈
+  - [【安全圈】武汉网警侦破两起黑客案件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071217&idx=1&sn=ec91ff3f474a635ee2df3413e02bbb6d)
+  - [【安全圈】披露两次大规模数据泄露后，美电信巨头赔1.77亿美元和解](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071217&idx=2&sn=bfe35b7a53d00c3fcff96d4b32bce02b)
+  - [【安全圈】Cisco Secure Firewall 管理中心软件 RADIUS 远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071217&idx=3&sn=5a8bb9cfe3a4cd7c3f48d25a74aa349e)
+- 极客公园
+  - [OpenAI估值达5000亿美元；「原道」联手小岛秀夫，推《死亡搁浅》耳机；苹果手表将「大幅重新设计」 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653084941&idx=1&sn=8a2232365ff3c0614dafd74bf4184b7e)
 - 天黑说嘿话
   - [【全网首发】金和OA 0/1/N Day漏洞合集](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484572&idx=1&sn=0453587999820ccbd738fdd3cd30bf3d)
 - 丁爸 情报分析师的工具箱
   - [【资料】死亡算法：AI如何助长以色列在加沙的大规模屠杀](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651151596&idx=1&sn=e7e265b3053da3f0ba3c6cf5a3798314)
   - [【转载】网络犯罪打击治理实战研讨会议题征集正式启动！](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651151596&idx=2&sn=865973f3949072067f9b321e149bbdf0)
-- 安全圈
-  - [【安全圈】武汉网警侦破两起黑客案件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071217&idx=1&sn=ec91ff3f474a635ee2df3413e02bbb6d)
-  - [【安全圈】披露两次大规模数据泄露后，美电信巨头赔1.77亿美元和解](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071217&idx=2&sn=bfe35b7a53d00c3fcff96d4b32bce02b)
-  - [【安全圈】Cisco Secure Firewall 管理中心软件 RADIUS 远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071217&idx=3&sn=5a8bb9cfe3a4cd7c3f48d25a74aa349e)
-- 我的安全视界观
-  - [SDL 84/100问：国内是否有做安全基线的厂商或这个方向的专家？](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487072&idx=1&sn=fdf78bd2335a7a94802ab396f1ab60a8)
-- 极客公园
-  - [OpenAI估值达5000亿美元；「原道」联手小岛秀夫，推《死亡搁浅》耳机；苹果手表将「大幅重新设计」 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653084941&idx=1&sn=8a2232365ff3c0614dafd74bf4184b7e)
-- Over Security - Cybersecurity news aggregator
-  - [A Young Ransomware Group, an Ancient Risk – Securotrop: The Interview](https://www.suspectfile.com/a-young-ransomware-group-an-ancient-risk-securotrop-the-interview/)
-  - [U.S. seizes $2.8 million in crypto from Zeppelin ransomware operator](https://www.bleepingcomputer.com/news/security/us-seizes-28-million-in-crypto-from-zeppelin-ransomware-operator/)
-  - [Google is adding "Projects" feature to Gemini to run research tasks](https://www.bleepingcomputer.com/news/artificial-intelligence/google-is-adding-projects-feature-to-gemini-to-run-research-tasks/)
-  - [Anthropic: Claude can now end conversations to prevent harmful uses](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-claude-can-now-end-conversations-to-prevent-harmful-uses/)
-  - [Aggiornamenti Microsoft agosto 2025, corretta una zero-day: aggiorniamo i sistemi](https://www.cybersecurity360.it/news/aggiornamenti-microsoft-agosto-2025-corretta-una-zero-day-aggiorniamo-i-sistemi/)
 - 迪哥讲事
   - [有关公众号的那些事](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498057&idx=1&sn=a517fae38e32fa55ebc139b5e954f019)
 - 吴鲁加
@@ -50,35 +44,16 @@
   - [Truffe beneficenza post-catastrofi: la guida definitiva 2025](https://www.ictsecuritymagazine.com/notizie/truffe-beneficenza/)
 - Luca Mercatanti
   - [le AI non sanno davvero ciò che dicono](https://luca-mercatanti.com/le-ai-non-sanno-davvero-cio-che-dicono/?utm_source=rss&utm_medium=rss&utm_campaign=le-ai-non-sanno-davvero-cio-che-dicono)
-- dotNet安全矩阵
-  - [.NET内网实战： 剖析 ACL & ACE 与 系统内置账户](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500314&idx=1&sn=45bf90d527b6f155ff3ee7ff68b38d45)
-  - [.NET 安全攻防知识交流社区](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500314&idx=2&sn=737b4b921aa637b68afb508b6ba8ab33)
-  - [.NET 文件监控，实时记录捕获上传的 WebShell](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500314&idx=3&sn=c023ecc808eb93f17c79fff140d3fbe9)
 - blackMORE Ops
   - [What is Reverse Proxy and Why You Need One for Security](https://www.blackmoreops.com/what-is-reverse-proxy-explained/)
-- Information Security
-  - [I need some Insight Please](https://www.reddit.com/r/Information_Security/comments/1msvjb7/i_need_some_insight_please/)
-- Deep Web
-  - [OnionHoster v2.2 – Host any web project as a Tor hidden service in minutes 🚀](https://www.reddit.com/r/deepweb/comments/1mswnqe/onionhoster_v22_host_any_web_project_as_a_tor/)
-  - [Talking at length about dark web murder for hire investigations](https://www.reddit.com/r/deepweb/comments/1mt24im/talking_at_length_about_dark_web_murder_for_hire/)
-- netsecstudents: Subreddit for students studying Network Security and its related subjects
-  - [Aspiring Ethical Hacker From Poor Background, How Do I Start With Just a Tablet?](https://www.reddit.com/r/netsecstudents/comments/1mt1wff/aspiring_ethical_hacker_from_poor_background_how/)
-  - [The Digital Forensics Process: From Acquisition to Courtroom](https://www.reddit.com/r/netsecstudents/comments/1msd82g/the_digital_forensics_process_from_acquisition_to/)
+- Over Security - Cybersecurity news aggregator
+  - [A Young Ransomware Group, an Ancient Risk – Securotrop: The Interview](https://www.suspectfile.com/a-young-ransomware-group-an-ancient-risk-securotrop-the-interview/)
+  - [U.S. seizes $2.8 million in crypto from Zeppelin ransomware operator](https://www.bleepingcomputer.com/news/security/us-seizes-28-million-in-crypto-from-zeppelin-ransomware-operator/)
+  - [Google is adding "Projects" feature to Gemini to run research tasks](https://www.bleepingcomputer.com/news/artificial-intelligence/google-is-adding-projects-feature-to-gemini-to-run-research-tasks/)
+  - [Anthropic: Claude can now end conversations to prevent harmful uses](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-claude-can-now-end-conversations-to-prevent-harmful-uses/)
+  - [Aggiornamenti Microsoft agosto 2025, corretta una zero-day: aggiorniamo i sistemi](https://www.cybersecurity360.it/news/aggiornamenti-microsoft-agosto-2025-corretta-una-zero-day-aggiorniamo-i-sistemi/)
 - Security Affairs
   - [Colt Technology faces multi-day outage after WarLock ransomware attack](https://securityaffairs.com/181247/data-breach/colt-technology-faces-multi-day-outage-after-warlock-ransomware-attack.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 58](https://securityaffairs.com/181233/malware/security-affairs-malware-newsletter-round-58.html)
   - [ERMAC 3.0 Source Code Leak Reveals Expanding Threat](https://securityaffairs.com/181217/uncategorized/ermac-3-0-source-code-leak-reveals-expanding-threat.html)
   - [Security Affairs newsletter Round 537 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/181226/breaking-news/security-affairs-newsletter-round-537-by-pierluigi-paganini-international-edition.html)
-- Technical Information Security Content & Discussion
-  - [How Exposed TeslaMate Instances Leak Sensitive Tesla Data](https://www.reddit.com/r/netsec/comments/1msrpi6/how_exposed_teslamate_instances_leak_sensitive/)
-- Your Open Hacker Community
-  - [i have a drive with 200-2000 bitcoins on it. it was encrypted with 2 images and a password. i have the images and password on a 5 way raid array. currently i images with the password dont work. is there any way to open this...](https://www.reddit.com/r/HowToHack/comments/1msedcx/i_have_a_drive_with_2002000_bitcoins_on_it_it_was/)
-  - [Is there a hacking roadmap? What is the most recommended combination of resources out there?](https://www.reddit.com/r/HowToHack/comments/1mt66zn/is_there_a_hacking_roadmap_what_is_the_most/)
-  - [Is there a way to make a file autorun](https://www.reddit.com/r/HowToHack/comments/1mt2091/is_there_a_way_to_make_a_file_autorun/)
-  - [How to Make My Own WiFi Nerwork](https://www.reddit.com/r/HowToHack/comments/1mszx6f/how_to_make_my_own_wifi_nerwork/)
-  - [School Mac heavily restricted](https://www.reddit.com/r/HowToHack/comments/1mt5c36/school_mac_heavily_restricted/)
-  - [Is it possible to connect to someones bluetooth speaker that is already paired to their own device?](https://www.reddit.com/r/HowToHack/comments/1msuluj/is_it_possible_to_connect_to_someones_bluetooth/)
-  - [Go pro](https://www.reddit.com/r/HowToHack/comments/1msin03/go_pro/)
-- Social Engineering
-  - [How to speak so that people respect you (learned this after years of being ignored)](https://www.reddit.com/r/SocialEngineering/comments/1mt685o/how_to_speak_so_that_people_respect_you_learned/)
-  - [Social Engineering, Drama and Red Teaming](https://www.reddit.com/r/SocialEngineering/comments/1mt3oe8/social_engineering_drama_and_red_teaming/)
