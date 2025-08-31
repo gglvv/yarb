@@ -16,15 +16,15 @@
   - [为平衡能耗和生存演化可能对大脑大小设置了上限](https://www.solidot.org/story?sid=82182)
 - 安全分析与研究
   - [基于Linux Rootkit高级威胁恶意软件技术研究入门指导](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493316&idx=1&sn=06834bfe852c5d213f5ceef58d7d6dd2)
-- 看雪学苑
-  - [68元抢《云安全技术》：不做“亡羊补牢”，要学“防患未然”](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599163&idx=1&sn=a6f2d7fb68a406ad8971e5ff230d371e)
-  - [Win11下利用PsSyscallProviderDispatch进行进程级SSDT HOOK](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599163&idx=2&sn=b2c9e00e1499d46ee678ae81bf452c05)
 - 青衣十三楼飞花堂
   - [人形爬虫](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488583&idx=1&sn=3db7622725dc831098f21ab228a9c9b5)
 - dotNet安全矩阵
   - [.NET内网实战：修改注册表关闭Windows Defender](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500446&idx=1&sn=d60754fd735fc4398b2d396430e3c7cb)
   - [.NET 安全攻防知识交流社区](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500446&idx=2&sn=cfc68ee1e32f8842ecbc17e057d11e4f)
   - [通过winlogon进程提升至SYSTEM权限](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500446&idx=3&sn=0767886c8aa04ce0817db5e4f51be887)
+- 看雪学苑
+  - [68元抢《云安全技术》：不做“亡羊补牢”，要学“防患未然”](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599163&idx=1&sn=a6f2d7fb68a406ad8971e5ff230d371e)
+  - [Win11下利用PsSyscallProviderDispatch进行进程级SSDT HOOK](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599163&idx=2&sn=b2c9e00e1499d46ee678ae81bf452c05)
 - 安全圈
   - [【安全圈】当心！你的身份证照片可能被AI生成了动态视频](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071454&idx=1&sn=6c68e9884b2ac576cc675099a2ba6ec9)
   - [【安全圈】新型AI攻击借助图像植入恶意提示词窃取用户数据](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071454&idx=2&sn=81ab38e3946042018a4108d85e0d20d8)
@@ -33,44 +33,23 @@
   - [快手的 2025：一个 4 亿人社区的新陈代谢，与 2600 万人的变现之路](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653085793&idx=1&sn=05f878080b9481a18863e6289305b39d)
   - [从「卖设备」到「建关系」，AI 硬件的破局点到底在哪里？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653085786&idx=1&sn=14fbdbd12304f7fdc03aa48f8b6e1823)
   - [任正非王兴兴梁文锋入选「时代 AI 百人」；小米主动召回充电宝；阿里蒋凡：淘宝闪购规模+心智超预期｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653085768&idx=1&sn=0505c6acc2ccc0ee5de183da58717214)
-- Over Security - Cybersecurity news aggregator
-  - [August Phish Flood Warning: Credential Attacks Raining Down From Cloudflare](https://pixmsecurity.com/blog/blog/summer-phishing-floodwarning-credential-attacks-raining-down-from-cloudflare/)
-  - [TamperedChef infostealer delivered through fraudulent PDF Editor](https://www.bleepingcomputer.com/news/security/tamperedchef-infostealer-delivered-through-fraudulent-pdf-editor/)
+- 网安国际
+  - [CCF将成立“网络与系统安全专委会”并征集首批执行委员](https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652317950&idx=1&sn=00b46bb0a8b961999d75f5e6c4cfa547)
+- Krypt3ia
+  - [Coordinated Disinformation Surge Regarding Donald Trump’s Health Status](https://krypt3ia.wordpress.com/2025/08/30/coordinated-disinformation-surge-regarding-donald-trumps-health-status/)
 - IT Service Management News
   - [Insicurezza dei browser e delle passkey](http://blog.cesaregallotti.it/2025/08/insicurezza-dei-browser-e-delle-passkey.html)
   - [Un'IA ha cancellato per sbaglio un intero database aziendale](http://blog.cesaregallotti.it/2025/08/unia-ha-cancellato-per-sbaglio-un.html)
-- 网安国际
-  - [CCF将成立“网络与系统安全专委会”并征集首批执行委员](https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652317950&idx=1&sn=00b46bb0a8b961999d75f5e6c4cfa547)
+- Over Security - Cybersecurity news aggregator
+  - [August Phish Flood Warning: Credential Attacks Raining Down From Cloudflare](https://pixmsecurity.com/blog/blog/summer-phishing-floodwarning-credential-attacks-raining-down-from-cloudflare/)
+  - [TamperedChef infostealer delivered through fraudulent PDF Editor](https://www.bleepingcomputer.com/news/security/tamperedchef-infostealer-delivered-through-fraudulent-pdf-editor/)
 - ICT Security Magazine
   - [Analisi intersettoriale: pattern emergenti](https://www.ictsecuritymagazine.com/articoli/analisi-intersettoriale/)
   - [Digital Kidnapping: foto di bambini rubate](https://www.ictsecuritymagazine.com/notizie/digital-kidnapping/)
-- Krypt3ia
-  - [Coordinated Disinformation Surge Regarding Donald Trump’s Health Status](https://krypt3ia.wordpress.com/2025/08/30/coordinated-disinformation-surge-regarding-donald-trumps-health-status/)
 - The Hacker News
   - [Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling](https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html)
   - [WhatsApp Patches Zero-Click Exploit Targeting iOS and macOS Devices](https://thehackernews.com/2025/08/whatsapp-issues-emergency-update-for.html)
 - Security Affairs
   - [Lab Dookhtegan hacking group disrupts communications on dozens of Iranian ships](https://securityaffairs.com/181737/hacking/lab-dookhtegan-disrupts-comms-iranian-ships.html)
-- Blackhat Library: Hacking techniques and research
-  - [Any way to get invited to expl0it[dot]in site](https://www.reddit.com/r/blackhat/comments/1n3ymdj/any_way_to_get_invited_to_expl0itdotin_site/)
-  - [Hack into a pc that shares your wifi and connected via ethernet as well](https://www.reddit.com/r/blackhat/comments/1n474jb/hack_into_a_pc_that_shares_your_wifi_and/)
-- Computer Forensics
-  - [Certificate question](https://www.reddit.com/r/computerforensics/comments/1n3v3zl/certificate_question/)
-- Information Security
-  - [GitHub now will REQUIRE 2FA](https://www.reddit.com/r/Information_Security/comments/1n41m71/github_now_will_require_2fa/)
-  - [Help please, ClarityCheck scam...](https://www.reddit.com/r/Information_Security/comments/1n3wukc/help_please_claritycheck_scam/)
-- netsecstudents: Subreddit for students studying Network Security and its related subjects
-  - [Is AI in cybersecurity now just an arms race between so called "Good AI" and "Bad AI"?](https://www.reddit.com/r/netsecstudents/comments/1n4fw1v/is_ai_in_cybersecurity_now_just_an_arms_race/)
-  - [Where Should I Start My Cybersecurity Journey?”](https://www.reddit.com/r/netsecstudents/comments/1n402h9/where_should_i_start_my_cybersecurity_journey/)
-- Social Engineering
-  - [How to apply the book "How To Win Friends And Influence People" to become charismatic (practical applications that actually work)](https://www.reddit.com/r/SocialEngineering/comments/1n414b2/how_to_apply_the_book_how_to_win_friends_and/)
-- Technical Information Security Content & Discussion
-  - [Netskope Client for Windows - Local Privilege Escalation via Rogue Server (CVE-2025-0309)](https://www.reddit.com/r/netsec/comments/1n43kvo/netskope_client_for_windows_local_privilege/)
-- Your Open Hacker Community
-  - [Why can't I find il2cpp functions with Frida?](https://www.reddit.com/r/HowToHack/comments/1n4fu9r/why_cant_i_find_il2cpp_functions_with_frida/)
-  - [GoHPTS - TCP/UDP transparent proxy that allows your android device to ARP spoof & Packet sniff LAN clients](https://www.reddit.com/r/HowToHack/comments/1n3tg33/gohpts_tcpudp_transparent_proxy_that_allows_your/)
-- Deep Web
-  - [It’s that one guy wbo came to this Sub asking what to do about finding cSAM 🤣🤣🤣](https://www.reddit.com/r/deepweb/comments/1n40by6/its_that_one_guy_wbo_came_to_this_sub_asking_what/)
-  - [Can i earn money using dw?](https://www.reddit.com/r/deepweb/comments/1n3vezo/can_i_earn_money_using_dw/)
 - Dark Space Blogspot
   - [BookTok Italia 2025: Terminologia, Generi e Titoli Più Amati](http://darkwhite666.blogspot.com/2025/08/booktok-italia-2025-terminologia-generi.html)
