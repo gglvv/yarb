@@ -19,27 +19,27 @@
   - [【安全圈】当心！你的身份证照片可能被AI生成了动态视频](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071454&idx=1&sn=6c68e9884b2ac576cc675099a2ba6ec9)
   - [【安全圈】新型AI攻击借助图像植入恶意提示词窃取用户数据](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071454&idx=2&sn=81ab38e3946042018a4108d85e0d20d8)
   - [【安全圈】FreePBX零日漏洞遭利用，官方通告：请立即锁定管理员访问](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071454&idx=3&sn=a2347c2c70f78c9cdd8b34541194b316)
-- 网安国际
-  - [CCF将成立“网络与系统安全专委会”并征集首批执行委员](https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652317950&idx=1&sn=00b46bb0a8b961999d75f5e6c4cfa547)
 - 极客公园
   - [快手的 2025：一个 4 亿人社区的新陈代谢，与 2600 万人的变现之路](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653085793&idx=1&sn=05f878080b9481a18863e6289305b39d)
   - [从「卖设备」到「建关系」，AI 硬件的破局点到底在哪里？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653085786&idx=1&sn=14fbdbd12304f7fdc03aa48f8b6e1823)
   - [任正非王兴兴梁文锋入选「时代 AI 百人」；小米主动召回充电宝；阿里蒋凡：淘宝闪购规模+心智超预期｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653085768&idx=1&sn=0505c6acc2ccc0ee5de183da58717214)
+- 网安国际
+  - [CCF将成立“网络与系统安全专委会”并征集首批执行委员](https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652317950&idx=1&sn=00b46bb0a8b961999d75f5e6c4cfa547)
 - IT Service Management News
   - [Insicurezza dei browser e delle passkey](http://blog.cesaregallotti.it/2025/08/insicurezza-dei-browser-e-delle-passkey.html)
   - [Un'IA ha cancellato per sbaglio un intero database aziendale](http://blog.cesaregallotti.it/2025/08/unia-ha-cancellato-per-sbaglio-un.html)
-- Over Security - Cybersecurity news aggregator
-  - [August Phish Flood Warning: Credential Attacks Raining Down From Cloudflare](https://pixmsecurity.com/blog/blog/summer-phishing-floodwarning-credential-attacks-raining-down-from-cloudflare/)
-  - [TamperedChef infostealer delivered through fraudulent PDF Editor](https://www.bleepingcomputer.com/news/security/tamperedchef-infostealer-delivered-through-fraudulent-pdf-editor/)
 - ICT Security Magazine
   - [Analisi intersettoriale: pattern emergenti](https://www.ictsecuritymagazine.com/articoli/analisi-intersettoriale/)
   - [Digital Kidnapping: foto di bambini rubate](https://www.ictsecuritymagazine.com/notizie/digital-kidnapping/)
+- Over Security - Cybersecurity news aggregator
+  - [August Phish Flood Warning: Credential Attacks Raining Down From Cloudflare](https://pixmsecurity.com/blog/blog/summer-phishing-floodwarning-credential-attacks-raining-down-from-cloudflare/)
+  - [TamperedChef infostealer delivered through fraudulent PDF Editor](https://www.bleepingcomputer.com/news/security/tamperedchef-infostealer-delivered-through-fraudulent-pdf-editor/)
 - Krypt3ia
   - [Coordinated Disinformation Surge Regarding Donald Trump’s Health Status](https://krypt3ia.wordpress.com/2025/08/30/coordinated-disinformation-surge-regarding-donald-trumps-health-status/)
-- Security Affairs
-  - [Lab Dookhtegan hacking group disrupts communications on dozens of Iranian ships](https://securityaffairs.com/181737/hacking/lab-dookhtegan-disrupts-comms-iranian-ships.html)
 - The Hacker News
   - [Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling](https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html)
   - [WhatsApp Issues Emergency Update for Zero-Click Exploit Targeting iOS and macOS Devices](https://thehackernews.com/2025/08/whatsapp-issues-emergency-update-for.html)
+- Security Affairs
+  - [Lab Dookhtegan hacking group disrupts communications on dozens of Iranian ships](https://securityaffairs.com/181737/hacking/lab-dookhtegan-disrupts-comms-iranian-ships.html)
 - Dark Space Blogspot
   - [BookTok Italia 2025: Terminologia, Generi e Titoli Più Amati](http://darkwhite666.blogspot.com/2025/08/booktok-italia-2025-terminologia-generi.html)
