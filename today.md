@@ -1,19 +1,19 @@
 # 每日安全资讯（2025-09-01）
 
-- SecWiki News
-  - [SecWiki News 2025-08-31 Review](http://www.sec-wiki.com/?2025-08-31)
 - Recent Commits to cve:main
   - [Update Sun Aug 31 17:35:52 UTC 2025](https://github.com/trickest/cve/commit/0f2602cc4b2cfaf623bc75340cc384779d290795)
+- SecWiki News
+  - [SecWiki News 2025-08-31 Review](http://www.sec-wiki.com/?2025-08-31)
 - 博客
   - [How to scaling HDFS namenode with Apache Ozone](https://dyrnq.com/how-to-scaling-hdfs-namenode-with-apache-ozone/)
 - Taxodium
   - [Emacs Elevator Pitch - Only Emacs can save your soul](https://taxodium.ink/emacs-elevator-pitch-2025-08.html)
+- 世事难料，保持低调
+  - [LLM Serving中的排队论（Queueing Theory）](https://blog.csdn.net/ariesjzj/article/details/150994691)
 - Innost的专栏
   - [读KK《2049：未来10000天的可能》有感](https://blog.csdn.net/Innost/article/details/151060086)
 - MaskRay
   - [Benchmarking compression programs](https://maskray.me/blog/2025-08-31-benchmarking-compression-programs)
-- 世事难料，保持低调
-  - [LLM Serving中的排队论（Queueing Theory）](https://blog.csdn.net/ariesjzj/article/details/150994691)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [Forgotten Subdomain = $1000 “AWS Breach” Bounty](https://infosecwriteups.com/finding-needle-in-the-haystack-how-a-forgotten-subdomain-led-to-complete-aws-infrastructure-328571e88496?source=rss----7b722bfd1b8d--bug_bounty)
   - [$5000+ in Bounties, 20+ Bug Reports, 2 Hall of Fame : Find Your First Bug!](https://infosecwriteups.com/5000-in-bounties-20-bug-reports-2-hall-of-fame-find-your-first-bug-32d564c1b9b4?source=rss----7b722bfd1b8d--bug_bounty)
@@ -24,61 +24,46 @@
   - [PSP Media Engine Reload.](https://www.reddit.com/r/ReverseEngineering/comments/1n4xn3a/psp_media_engine_reload/)
 - Checkmarx
   - [The Cost of AI Velocity: 5 Actions Dev Leaders Must Take to Secure Their Codebase from AI Vulnerabilities](https://checkmarx.com/blog/the-cost-of-ai-velocity-5-actions-dev-leaders-must-take-to-secure-their-codebase-from-ai-vulnerabilities/)
-- 奇客Solidot–传递最新科技情报
-  - [研究认为平均寿命达到 100 岁变得不太可能](https://www.solidot.org/story?sid=82188)
-  - [Mastodon 表示没办法遵守年龄验证法律](https://www.solidot.org/story?sid=82187)
 - 威努特安全网络
   - [威努特地下综合管廊建设方案守护城市大动脉](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651135288&idx=1&sn=26b2d6cc950534045870be1fe6b1b884)
 - 我的安全视界观
   - [SDL 87/100问：哪个厂商做SDL咨询服务和建设比较强？](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487120&idx=1&sn=d46e69b1ef51b69158d964da5f8d52a7)
-- 安全圈
-  - [【安全圈】自学黑客技术入侵系统，00后“炫技”付出沉重代价](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071465&idx=1&sn=fbad75a46daca04d865fb1c129c5e28f)
-  - [【安全圈】售卖破解软件，11人犯罪团伙被判刑](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071465&idx=2&sn=6b1b27667b5541d5782e26950cc84cb5)
-  - [【安全圈】SK电信因大规模数据泄露被处以创纪录1348亿韩元罚款](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071465&idx=3&sn=5dff9cf262bcb8b2da1bea8babc08375)
-- 极客公园
-  - [中国电竞，已经是 Next Level](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653085892&idx=1&sn=cd4033f249cd2f4d2bf5645eb3787e42)
 - dotNet安全矩阵
   - [再回答一个 .NET 反序列化问题，看看有没有你想要知道的？](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500453&idx=1&sn=ddbea7e7de5270aa24d398bbe5b1d2a0)
   - [.NET 安全攻防知识交流社区](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500453&idx=2&sn=81339fbe4af9ec0add38634c5e7cdfcb)
   - [.NET 本地提权，通过系统进程令牌模拟实现权限提升](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500453&idx=3&sn=7372f9674d2d3850487e9da33a5209ad)
+- 安全圈
+  - [【安全圈】自学黑客技术入侵系统，00后“炫技”付出沉重代价](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071465&idx=1&sn=fbad75a46daca04d865fb1c129c5e28f)
+  - [【安全圈】售卖破解软件，11人犯罪团伙被判刑](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071465&idx=2&sn=6b1b27667b5541d5782e26950cc84cb5)
+  - [【安全圈】SK电信因大规模数据泄露被处以创纪录1348亿韩元罚款](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071465&idx=3&sn=5dff9cf262bcb8b2da1bea8babc08375)
+- 奇客Solidot–传递最新科技情报
+  - [研究认为平均寿命达到 100 岁变得不太可能](https://www.solidot.org/story?sid=82188)
+  - [Mastodon 表示没办法遵守年龄验证法律](https://www.solidot.org/story?sid=82187)
+- 极客公园
+  - [中国电竞，已经是 Next Level](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653085892&idx=1&sn=cd4033f249cd2f4d2bf5645eb3787e42)
 - 电子物证
   - [【消失的微信转账记录】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048599&idx=1&sn=9b068ed352db61a2ae77d72c3a7534a9)
   - [【数字证据时代侦查讯问口供自愿性保障的转型路径】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048599&idx=2&sn=bcc8988698a266e9dcca6b8f369099b9)
-- 吴鲁加
-  - [8 月阅读](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485707&idx=1&sn=0f799f04fc9fcd2968626168173a99b0)
-- 迪哥讲事
-  - [通过URL参数传递所引发的SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498127&idx=1&sn=a964b55dfb2c2d356a30f12759202075)
+- Over Security - Cybersecurity news aggregator
+  - [A chi appartiene il forum accusato di “revenge porn”? Una ricerca OSINT](https://lorenzoromani.medium.com/a-chi-appartiene-il-forum-accusato-di-revenge-porn-phica-net-una-ricerca-osint-b0ae04fe9563)
+  - [OpenAI is testing "Thinking effort" for ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-thinking-effort-for-chatgpt/)
+  - [“It’s Not a Matter of Legal or Illegal”: Interview with a Qilin Affiliate](https://www.suspectfile.com/its-not-a-matter-of-legal-or-illegal-interview-with-a-qilin-affiliate/)
 - Luca Mercatanti
   - [Copia forense: requisiti, strumenti e procedure per prove digitali in ambito giudiziario](https://luca-mercatanti.com/copia-forense-requisiti-strumenti-e-procedure-per-prove-digitali-in-ambito-giudiziario/?utm_source=rss&utm_medium=rss&utm_campaign=copia-forense-requisiti-strumenti-e-procedure-per-prove-digitali-in-ambito-giudiziario)
 - ICT Security Magazine
   - [Incident Response potenziato dall’Intelligenza Artificiale](https://www.ictsecuritymagazine.com/notizie/incident-response-intelligenza-artificiale/)
   - [Endpoint security: evoluzione strategica delle difese perimetrali nell’ecosistema cyber del 2025](https://www.ictsecuritymagazine.com/articoli/endpoint-security/)
-- Over Security - Cybersecurity news aggregator
-  - [A chi appartiene il forum accusato di “revenge porn”? Una ricerca OSINT](https://lorenzoromani.medium.com/a-chi-appartiene-il-forum-accusato-di-revenge-porn-phica-net-una-ricerca-osint-b0ae04fe9563)
-  - [OpenAI is testing "Thinking effort" for ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-thinking-effort-for-chatgpt/)
-  - [“It’s Not a Matter of Legal or Illegal”: Interview with a Qilin Affiliate](https://www.suspectfile.com/its-not-a-matter-of-legal-or-illegal-interview-with-a-qilin-affiliate/)
 - SANS Internet Storm Center, InfoCON: green
   - [pdf-parser: All Streams, (Sun, Aug 31st)](https://isc.sans.edu/diary/rss/32248)
   - [Wireshark 4.4.9 Released, (Sun, Aug 31st)](https://isc.sans.edu/diary/rss/32246)
-- Troy Hunt's Blog
-  - [Weekly Update 467](https://www.troyhunt.com/weekly-update-467/)
-- blackMORE Ops
-  - [Claude API Integration Complete Tutorial Guide for Anthropic](https://www.blackmoreops.com/claude-api-integration-complete-tutorial-guide/)
+- 吴鲁加
+  - [8 月阅读](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485707&idx=1&sn=0f799f04fc9fcd2968626168173a99b0)
 - Security Affairs
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 60](https://securityaffairs.com/181760/uncategorized/security-affairs-malware-newsletter-round-60.html)
   - [Security Affairs newsletter Round 539 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/181754/breaking-news/security-affairs-newsletter-round-539-by-pierluigi-paganini-international-edition.html)
   - [Amazon blocks APT29 campaign targeting Microsoft device code authentication](https://securityaffairs.com/181747/apt/amazon-blocks-apt29-campaign-targeting-microsoft-device-code-authentication.html)
-- Deep Web
-  - [Yo, anyone got the hookup for exploit[dot]in on both CW and DW? Slide me an invite, man.](https://www.reddit.com/r/deepweb/comments/1n53nxj/yo_anyone_got_the_hookup_for_exploitdotin_on_both/)
-  - [Drughub scammed me](https://www.reddit.com/r/deepweb/comments/1n5397k/drughub_scammed_me/)
-- Social Engineering
-  - [How to overcome shyness (From a guy who used to be socially anxious 2 years ago)](https://www.reddit.com/r/SocialEngineering/comments/1n59cr2/how_to_overcome_shyness_from_a_guy_who_used_to_be/)
-  - [What am I doing wrong? new to college trying to make friends](https://www.reddit.com/r/SocialEngineering/comments/1n4y629/what_am_i_doing_wrong_new_to_college_trying_to/)
-  - [Love, obsession and revenge / Amor, obsesión y venganza](https://www.reddit.com/r/SocialEngineering/comments/1n4kn8t/love_obsession_and_revenge_amor_obsesión_y/)
-- Blackhat Library: Hacking techniques and research
-  - [This hack is now of the most powerful I know to get unlimited leads](https://www.reddit.com/r/blackhat/comments/1n55fy8/this_hack_is_now_of_the_most_powerful_i_know_to/)
-  - [The Infostealer-to-APT Pipeline: How Stolen Diplomatic Credentials Fuel Cyber-Political Power Plays](https://www.reddit.com/r/blackhat/comments/1n4wo79/the_infostealertoapt_pipeline_how_stolen/)
-  - [Hacking with chrome remote desktop](https://www.reddit.com/r/blackhat/comments/1n52803/hacking_with_chrome_remote_desktop/)
+- Troy Hunt's Blog
+  - [Weekly Update 467](https://www.troyhunt.com/weekly-update-467/)
 - Your Open Hacker Community
   - [What’s your favorite Linux command?](https://www.reddit.com/r/HowToHack/comments/1n5260p/whats_your_favorite_linux_command/)
   - [Learned a New Hack for Note Taking](https://www.reddit.com/r/HowToHack/comments/1n4xyhd/learned_a_new_hack_for_note_taking/)
@@ -87,3 +72,18 @@
   - [Is there a way I can access Instagram chats from the beginning to present?](https://www.reddit.com/r/HowToHack/comments/1n50p3g/is_there_a_way_i_can_access_instagram_chats_from/)
   - [How do I bypass system disabling booting onto development mode on Chromebook](https://www.reddit.com/r/HowToHack/comments/1n4kbb6/how_do_i_bypass_system_disabling_booting_onto/)
   - [How do I bypass SOHPOS firewall](https://www.reddit.com/r/HowToHack/comments/1n4rvk2/how_do_i_bypass_sohpos_firewall/)
+- Social Engineering
+  - [How to overcome shyness (From a guy who used to be socially anxious 2 years ago)](https://www.reddit.com/r/SocialEngineering/comments/1n59cr2/how_to_overcome_shyness_from_a_guy_who_used_to_be/)
+  - [What am I doing wrong? new to college trying to make friends](https://www.reddit.com/r/SocialEngineering/comments/1n4y629/what_am_i_doing_wrong_new_to_college_trying_to/)
+  - [Love, obsession and revenge / Amor, obsesión y venganza](https://www.reddit.com/r/SocialEngineering/comments/1n4kn8t/love_obsession_and_revenge_amor_obsesión_y/)
+- blackMORE Ops
+  - [Claude API Integration Complete Tutorial Guide for Anthropic](https://www.blackmoreops.com/claude-api-integration-complete-tutorial-guide/)
+- 迪哥讲事
+  - [通过URL参数传递所引发的SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498127&idx=1&sn=a964b55dfb2c2d356a30f12759202075)
+- Deep Web
+  - [Yo, anyone got the hookup for exploit[dot]in on both CW and DW? Slide me an invite, man.](https://www.reddit.com/r/deepweb/comments/1n53nxj/yo_anyone_got_the_hookup_for_exploitdotin_on_both/)
+  - [Drughub scammed me](https://www.reddit.com/r/deepweb/comments/1n5397k/drughub_scammed_me/)
+- Blackhat Library: Hacking techniques and research
+  - [This hack is now of the most powerful I know to get unlimited leads](https://www.reddit.com/r/blackhat/comments/1n55fy8/this_hack_is_now_of_the_most_powerful_i_know_to/)
+  - [The Infostealer-to-APT Pipeline: How Stolen Diplomatic Credentials Fuel Cyber-Political Power Plays](https://www.reddit.com/r/blackhat/comments/1n4wo79/the_infostealertoapt_pipeline_how_stolen/)
+  - [Hacking with chrome remote desktop](https://www.reddit.com/r/blackhat/comments/1n52803/hacking_with_chrome_remote_desktop/)
