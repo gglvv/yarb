@@ -1,11 +1,11 @@
 # 每日安全资讯（2025-09-07）
 
-- Der Flounder
-  - [Managing Safari extensions on macOS Sequoia using Blueprints in Jamf Pro](https://derflounder.wordpress.com/2025/09/06/managing-safari-extensions-on-macos-sequoia-using-blueprints-in-jamf-pro/)
-- SecWiki News
-  - [SecWiki News 2025-09-06 Review](http://www.sec-wiki.com/?2025-09-06)
 - Recent Commits to cve:main
   - [Update Sat Sep  6 11:33:42 UTC 2025](https://github.com/trickest/cve/commit/9dd151bc3153f83b770d46499b920da566bb0ad0)
+- SecWiki News
+  - [SecWiki News 2025-09-06 Review](http://www.sec-wiki.com/?2025-09-06)
+- Der Flounder
+  - [Managing Safari extensions on macOS Sequoia using Blueprints in Jamf Pro](https://derflounder.wordpress.com/2025/09/06/managing-safari-extensions-on-macos-sequoia-using-blueprints-in-jamf-pro/)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [How i Got $500 From Information Disclosure By Sending a Jpeg](https://infosecwriteups.com/how-i-got-500-from-information-disclosure-by-sending-a-jpeg-e273d1b94da1?source=rss----7b722bfd1b8d--bug_bounty)
   - [How to Discover a Website’s Hidden Origin Server](https://infosecwriteups.com/how-to-discover-a-websites-hidden-origin-server-3e3f25d5be39?source=rss----7b722bfd1b8d--bug_bounty)
@@ -17,21 +17,19 @@
   - [美国计划限制进口中国无人机](https://www.solidot.org/story?sid=82242)
   - [Anthropic 向图书作者支付 15 亿美元和解侵权诉讼](https://www.solidot.org/story?sid=82241)
   - [Firefox 将于 2026 年 9 月停止支持 32 位 Linux 系统](https://www.solidot.org/story?sid=82240)
-- 安全分析与研究
-  - [使用Volatility检测Linux Rootkit技术原理分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493353&idx=1&sn=8510b7ba8743ef67ca3090812985f881)
-- 信安之路
-  - [漏洞 | CVE-2025-8220](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500147&idx=1&sn=179c21cba0542f55f239b31611689349)
 - dotNet安全矩阵
   - [.NET内网实战：通过反射技术实现Rundll32绕过防护](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500521&idx=1&sn=509f28be3a7c246fa0b3f196a60928d8)
   - [.NET 安全攻防知识交流社区](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500521&idx=2&sn=97332e3e0e8ededcaa0096da25c94741)
   - [.NET 本地提权，通过系统进程令牌模拟实现权限提升](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500521&idx=3&sn=a103ff3d4867b7013ed1e6d58e062a31)
-- 吾爱破解论坛
-  - [“一款优秀的网页表格控件的逆向分析”-探讨完全AI编程实现逆向分析的可能性和价值](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142870&idx=1&sn=4d4449fecca8d84356537ca3c0bbeef9)
-- 网安杂谈
-  - [【2026合作伙伴巡礼】知更实战平台：用实战铸就网络犯罪侦查尖兵的致胜法宝](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889719&idx=1&sn=d7ef51b63980b18183f1d48e92961923)
+- 信安之路
+  - [漏洞 | CVE-2025-8220](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500147&idx=1&sn=179c21cba0542f55f239b31611689349)
+- 安全分析与研究
+  - [使用Volatility检测Linux Rootkit技术原理分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493353&idx=1&sn=8510b7ba8743ef67ca3090812985f881)
 - 看雪学苑
   - [记录一款Unity il2cpp lua手游的逆向全过程](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599470&idx=1&sn=e3f3762acf0659bcd8534237f08f784d)
   - [3个月直通大厂高新岗位！全程实战案例解析，掌握高危漏洞攻防技巧](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599470&idx=2&sn=35e65a2707399ec19a9c42bf7d12ef17)
+- 网安杂谈
+  - [【2026合作伙伴巡礼】知更实战平台：用实战铸就网络犯罪侦查尖兵的致胜法宝](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889719&idx=1&sn=d7ef51b63980b18183f1d48e92961923)
 - 安全圈
   - [【安全圈】昨晚，淘宝又崩了！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071567&idx=1&sn=295719a17e3ee539405ab0e6b6994d6a)
   - [【安全圈】谷歌紧急修复安卓0day漏洞！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071567&idx=2&sn=db336f530a7d929a9532badeac71811a)
@@ -44,6 +42,8 @@
   - [「多重奖励来袭」MiSRC邀您加入双11安全保卫战](https://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247518285&idx=1&sn=3328644c6906446357f485f6aeb38a29)
 - 极客公园
   - [华为新问界M7，6小时订单破13万；等eSIM，iPhone17 Air首发无国行；特斯拉拟给马斯克1万亿薪酬 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653086172&idx=1&sn=2bdfcff5295de4edccdd884fb9025c4a)
+- 吾爱破解论坛
+  - [“一款优秀的网页表格控件的逆向分析”-探讨完全AI编程实现逆向分析的可能性和价值](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142870&idx=1&sn=4d4449fecca8d84356537ca3c0bbeef9)
 - 迪哥讲事
   - [小白如何根据1day挖出RCE 0day?](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498151&idx=1&sn=76901c3747d1d876757bb2e601dbcf31)
 - Over Security - Cybersecurity news aggregator
@@ -55,10 +55,10 @@
 - The Hacker News
   - [Noisy Bear Targets Kazakhstan Energy Sector With BarrelFire Phishing Campaign](https://thehackernews.com/2025/09/noisy-bear-targets-kazakhstan-energy.html)
   - [Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys](https://thehackernews.com/2025/09/malicious-npm-packages-impersonate.html)
-- Krebs on Security
-  - [GOP Cries Censorship Over Spam Filters That Work](https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/)
 - Security Affairs
   - [Qantas cuts executive bonuses by 15% after a July data breach](https://securityaffairs.com/181954/data-breach/qantas-cuts-executive-bonuses-by-15-after-a-july-data-breach.html)
   - [MeetC2 – A serverless C2 framework that leverages Google Calendar APIs as a communication channel](https://securityaffairs.com/181940/security/meetc2-a-serverless-c2-framework-that-leverages-google-calendar-apis-as-a-communication-channel.html)
+- Krebs on Security
+  - [GOP Cries Censorship Over Spam Filters That Work](https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/)
 - Connor McGarr’s Blog
   - [Windows Internals: Secure Calls - The Bridge Between NT and SK](/secure-calls-and-skbridge/)
