@@ -4,6 +4,8 @@
   - [SecWiki News 2025-09-07 Review](http://www.sec-wiki.com/?2025-09-07)
 - Jiajun的技术笔记
   - [ToB SaaS 服务之殇](https://jiajunhuang.com/articles/2025_09_07-to_b_saas.md.html)
+- Recent Commits to cve:main
+  - [Update Sun Sep  7 11:27:43 UTC 2025](https://github.com/trickest/cve/commit/cd3c9df8dd22369834fec8a79f72f0b61eac976d)
 - InfoSec Write-ups - Medium
   - [Gaining Root Access via NFS Misconfiguration](https://infosecwriteups.com/gaining-root-access-via-nfs-misconfiguration-92d4d44f8837?source=rss----7b722bfd1b8d---4)
   - [When a Carriage Return Nearly Broke Git (And How You Can Stay Safe)](https://infosecwriteups.com/when-a-carriage-return-nearly-broke-git-and-how-you-can-stay-safe-42bb19a3783b?source=rss----7b722bfd1b8d---4)
@@ -17,8 +19,6 @@
   - [Master Wi-Fi Cracking with Wifite](https://infosecwriteups.com/master-wi-fi-cracking-with-wifite-e20181aa07ff?source=rss----7b722bfd1b8d---4)
 - Taxodium
   - [日常#2 - 邻居的求婚、老爸的手机](https://taxodium.ink/nichijou-2.html)
-- Recent Commits to cve:main
-  - [Update Sun Sep  7 11:27:43 UTC 2025](https://github.com/trickest/cve/commit/cd3c9df8dd22369834fec8a79f72f0b61eac976d)
 - MaskRay
   - [lld 21 ELF changes](https://maskray.me/blog/2025-09-07-lld-21-elf-changes)
 - Bug Bounty in InfoSec Write-ups on Medium
@@ -34,37 +34,35 @@
   - [OWASP Seoul Meetup](https://www.hahwul.com/blog/2025/owasp-seoul-meetup/)
 - HAHWUL
   - [OWASP Seoul Meetup](https://www.hahwul.com/blog/2025/owasp-seoul-meetup/)
-- Gorgias' Blog
-  - [IGS Arcade 逆向系列（四）- ASIC27协议和TSGROM文件静态分析](https://gorgias.me/posts/igs_arcade_re_4/)
-- 威努特安全网络
-  - [威努特全栈超融合平台打造智慧矿山算力底座](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651135412&idx=1&sn=afb0f57c2daa6131d121358757b09de0)
 - 奇客Solidot–传递最新科技情报
   - [Firefox ESR 115 将支持到 2026 年 3 月](https://www.solidot.org/story?sid=82246)
   - [Windows 第三方工具允许用户禁用所有 AI 功能](https://www.solidot.org/story?sid=82245)
   - [类似人类，每棵树都有独一无二的微生物组](https://www.solidot.org/story?sid=82244)
+- Gorgias' Blog
+  - [IGS Arcade 逆向系列（四）- ASIC27协议和TSGROM文件静态分析](https://gorgias.me/posts/igs_arcade_re_4/)
 - 青衣十三楼飞花堂
   - [散忆纪登奎](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488591&idx=1&sn=c60c22e340afc8b015e44b927904d5c1)
-- 我的安全视界观
-  - [SDL 90/100问：开发安全左移和右移，哪一个更好？](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487168&idx=1&sn=97c658668de02b1f19e6546c8123a287)
+- dotNet安全矩阵
+  - [.NET 2025 年第 88 期实战工具库和资源汇总](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500532&idx=1&sn=2cd992b969ce1d9f3f4632d1fc587794)
+  - [.NET 内网攻防实战电子报刊](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500532&idx=2&sn=a2b464fd42a6d812089636eb7f91de29)
+  - [80个反序列化漏洞全景合集 (3) | 介绍一个 ViewState 反序列化不常见的知识点](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500532&idx=3&sn=a0a2ce8105d376db27a6dd3efd2953e9)
 - 信息安全国家工程研究中心
   - [【二十四节气】白露 | 竹动时惊鸟，莎寒暗滴虫](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247500881&idx=1&sn=ce0e2f7b61fee2d380df3759a3502054)
-- 网安杂谈
-  - [【2026合作伙伴巡礼】奇安盘古-奇安信旗下业务安全领域解决方案领航者](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889720&idx=1&sn=5962c3252786e4d567650fcb5a3af648)
-- 安全学术圈
-  - [字节跳动-PaDeLLM-NER：大语言模型中用于命名实体识别的并行解码](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493724&idx=1&sn=48c9ecb66b14bff20e4514f5407b2fa0)
 - 安全圈
   - [【安全圈】Spotify 用户惊呼：歌曲分享功能竟暴露身份](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071583&idx=1&sn=b595c863441862ade523eafb56381b0b)
   - [【安全圈】微软称红海多条海底电缆被切断 影响 Azure 云服务连接性](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071583&idx=2&sn=922ef92cdf9de29cdc427086e80c0e22)
   - [【安全圈】14.3万恶意软件锁定Android与iOS用户](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071583&idx=3&sn=684c9c750bb46b42c60fd99774f01ba4)
   - [【安全圈】Guardio实验室研究人员发现新型“Grokking”骗局：攻击者诱使Grok人工智能在X平台传播恶意链接](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071583&idx=4&sn=a53fc0bd15390fe0e4406bcaf325c751)
-- dotNet安全矩阵
-  - [.NET 2025 年第 88 期实战工具库和资源汇总](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500532&idx=1&sn=2cd992b969ce1d9f3f4632d1fc587794)
-  - [.NET 内网攻防实战电子报刊](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500532&idx=2&sn=a2b464fd42a6d812089636eb7f91de29)
-  - [80个反序列化漏洞全景合集 (3) | 介绍一个 ViewState 反序列化不常见的知识点](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500532&idx=3&sn=a0a2ce8105d376db27a6dd3efd2953e9)
+- 网安杂谈
+  - [【2026合作伙伴巡礼】奇安盘古-奇安信旗下业务安全领域解决方案领航者](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889720&idx=1&sn=5962c3252786e4d567650fcb5a3af648)
+- 安全学术圈
+  - [字节跳动-PaDeLLM-NER：大语言模型中用于命名实体识别的并行解码](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493724&idx=1&sn=48c9ecb66b14bff20e4514f5407b2fa0)
 - 极客公园
   - [时空壶发布 W4：用「硬核」技术，打赢一场 AI 翻译的「标准」之战](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653086214&idx=1&sn=eddd9bb0bc4abc0b9178d27846a32d99)
   - [慕尼黑车展 2025 前瞻：中国队组团出海，BBA 走向「新」时代](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653086184&idx=1&sn=37ffcff9ed0b1aca8e7aa1871d08854d)
   - [苹果 iPhone 17 系列规格已全被曝光；Anthropic 全面封杀中国公司接入；今夜将迎来「血月」月全食｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653086203&idx=1&sn=4059c4976dfaeac7481b83700128e1b4)
+- 威努特安全网络
+  - [威努特全栈超融合平台打造智慧矿山算力底座](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651135412&idx=1&sn=afb0f57c2daa6131d121358757b09de0)
 - 电子物证
   - [【电子数据的四个阅卷技巧】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048608&idx=1&sn=60466a59129e988624972a07ef0eeb98)
   - [【查看Windows系统电脑打印痕迹】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048608&idx=2&sn=5f8bccfd36b02f9db7f5afc093386708)
@@ -76,6 +74,8 @@
   - [手把手教你如何挖洞：CVE-2025-53772 IIS Web Deploy 反序列化漏洞调试分析](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492335&idx=1&sn=cc5f8d6f3d07b361d81bfabbfbf838e9)
 - IT Service Management News
   - [Guida alla lettura delle specifiche di base NIS di ACN](http://blog.cesaregallotti.it/2025/09/guida-alla-lettura-delle-specifiche-di.html)
+- 我的安全视界观
+  - [SDL 90/100问：开发安全左移和右移，哪一个更好？](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487168&idx=1&sn=97c658668de02b1f19e6546c8123a287)
 - Over Security - Cybersecurity news aggregator
   - [ChatGPT makes Projects feature free, adds a toggle to split chat](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-makes-projects-feature-free-adds-a-toggle-to-split-chat/)
   - [Czech cyber agency warns against Chinese tech in critical infrastructure](https://www.bleepingcomputer.com/news/security/czech-cyber-agency-warns-against-chinese-tech-in-critical-infrastructure/)
