@@ -2,33 +2,14 @@
 
 - bunnie's blog
   - [Use the Force (Feedback) to Solder Small Things](https://www.bunniestudios.com/blog/2025/use-the-force-feedback-to-solder-small-things/)
-- Taxodium
-  - [日常#3 - 身上的红点、南瓜汤、胡辣汤、猪扒饭、纸上染了蓝、空洞骑士](https://taxodium.ink/nichijou-3.html)
 - Recent Commits to cve:main
   - [Update Sat Sep 13 11:37:49 UTC 2025](https://github.com/trickest/cve/commit/d9d8cd10616d906b3002fb41fa80dce56d9384aa)
-- Sucuri Blog
-  - [Choosing the Best CMS for Your Needs](https://blog.sucuri.net/2025/09/choosing-the-best-cms-for-your-needs.html)
 - SecWiki News
   - [SecWiki News 2025-09-13 Review](http://www.sec-wiki.com/?2025-09-13)
-- InfoSec Write-ups - Medium
-  - [How to enumerate SUID binaries easily using SUID3NUM](https://infosecwriteups.com/how-to-enumerate-suid-binaries-easily-using-suid3num-a39db5733610?source=rss----7b722bfd1b8d---4)
-  - [“Day 25: The Cloud Heist — How a Forgotten Webhook Tester Gave Me the Keys to AWS”](https://infosecwriteups.com/day-25-the-cloud-heist-how-a-forgotten-webhook-tester-gave-me-the-keys-to-aws-0e2876b515a8?source=rss----7b722bfd1b8d---4)
-  - [9. The Secret Power of Google Dorking](https://infosecwriteups.com/9-the-secret-power-of-google-dorking-736325566220?source=rss----7b722bfd1b8d---4)
-  - [Subdomain Discovery and Enumeration: From Noise to Valuable Targets](https://infosecwriteups.com/subdomain-discovery-and-enumeration-from-noise-to-valuable-targets-bbc42b644b74?source=rss----7b722bfd1b8d---4)
-  - [Intro to SQL Injection](https://infosecwriteups.com/intro-to-sql-injection-26d25c52ff55?source=rss----7b722bfd1b8d---4)
-  - [Data Poisoning Attacks](https://infosecwriteups.com/data-poisoning-attacks-07d8a07f8259?source=rss----7b722bfd1b8d---4)
-  - [Nmap: The Detective Behind Your Network’s Secrets](https://infosecwriteups.com/nmap-the-detective-behind-your-networks-secrets-d94ca07b1e96?source=rss----7b722bfd1b8d---4)
-  - [AI Security Research — August 2025](https://infosecwriteups.com/ai-security-research-august-2025-68d4f113f931?source=rss----7b722bfd1b8d---4)
-  - [Keys to the Kingdom: How I Hacked a Fortune 500 Company Through Their Mobile App](https://infosecwriteups.com/keys-to-the-kingdom-how-i-hacked-a-fortune-500-company-through-their-mobile-app-e26debedd3f3?source=rss----7b722bfd1b8d---4)
-  - [How to Make mspaint Say “Meow”: A Playful Guide to DLL Injection](https://infosecwriteups.com/how-to-make-mspaint-say-meow-a-playful-guide-to-dll-injection-edf748eb9558?source=rss----7b722bfd1b8d---4)
-- Bug Bounty in InfoSec Write-ups on Medium
-  - [“Day 25: The Cloud Heist — How a Forgotten Webhook Tester Gave Me the Keys to AWS”](https://infosecwriteups.com/day-25-the-cloud-heist-how-a-forgotten-webhook-tester-gave-me-the-keys-to-aws-0e2876b515a8?source=rss----7b722bfd1b8d--bug_bounty)
-  - [9. The Secret Power of Google Dorking](https://infosecwriteups.com/9-the-secret-power-of-google-dorking-736325566220?source=rss----7b722bfd1b8d--bug_bounty)
-  - [Subdomain Discovery and Enumeration: From Noise to Valuable Targets](https://infosecwriteups.com/subdomain-discovery-and-enumeration-from-noise-to-valuable-targets-bbc42b644b74?source=rss----7b722bfd1b8d--bug_bounty)
-  - [Keys to the Kingdom: How I Hacked a Fortune 500 Company Through Their Mobile App](https://infosecwriteups.com/keys-to-the-kingdom-how-i-hacked-a-fortune-500-company-through-their-mobile-app-e26debedd3f3?source=rss----7b722bfd1b8d--bug_bounty)
-  - [The $1000 Critical Bug: Unauthorised Access Leading to Support Admin Panel Takeover](https://infosecwriteups.com/the-1000-critical-bug-unauthorised-access-leading-to-support-admin-panel-takeover-572d687566cd?source=rss----7b722bfd1b8d--bug_bounty)
-  - [This Clickjacking Bug Was Worth $140 – Here’s How](https://infosecwriteups.com/this-clickjacking-bug-was-worth-140-heres-how-8da607927f62?source=rss----7b722bfd1b8d--bug_bounty)
-  - [14. How to Write a Perfect Vulnerability Report](https://infosecwriteups.com/14-how-to-write-a-perfect-vulnerability-report-f07c8a02fc45?source=rss----7b722bfd1b8d--bug_bounty)
+- Taxodium
+  - [日常#3 - 身上的红点、南瓜汤、胡辣汤、猪扒饭、纸上染了蓝、空洞骑士](https://taxodium.ink/nichijou-3.html)
+- Sucuri Blog
+  - [Choosing the Best CMS for Your Needs](https://blog.sucuri.net/2025/09/choosing-the-best-cms-for-your-needs.html)
 - Sucuri Blog
   - [Choosing the Best CMS for Your Needs](https://blog.sucuri.net/2025/09/choosing-the-best-cms-for-your-needs.html)
 - daniel.haxx.se
@@ -41,56 +22,52 @@
   - [2025浙江省信息通信业职业技能竞赛-数据安全管理员竞赛-决赛wp - 渗透测试中心](https://www.cnblogs.com/backlion/p/19089843)
   - [2025年浙江省信息通信业职业技能竞赛-数据安全管理员竞赛-初赛WriteUp - 渗透测试中心](https://www.cnblogs.com/backlion/p/19089841)
   - [2025第三届“陇剑杯”网络安全大赛初赛-夺旗闯关赛wp - 渗透测试中心](https://www.cnblogs.com/backlion/p/19089665)
-- 奇客Solidot–传递最新科技情报
-  - [互联网档案馆保存的网页数即将突破 1 万亿](https://www.solidot.org/story?sid=82303)
-  - [尼泊尔 Z 世代抗议中的技术力量](https://www.solidot.org/story?sid=82302)
-  - [Proton Mail 应网络安全机构要求关闭了记者账户](https://www.solidot.org/story?sid=82301)
 - 黑海洋 - Wiki
   - [中国防火长城（GFW）最大规模的内部文件泄露](https://blog.upx8.com/4848)
+- 白帽100安全攻防实验室
+  - [WMCTF2025 翩然而至](https://mp.weixin.qq.com/s?__biz=MzIxMDYyNTk3Nw==&mid=2247515223&idx=1&sn=b4f9bd7fcb277b86d426a8be32a93995)
 - 看雪学苑
   - [Dropping-elephant rat恶意样本分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599792&idx=1&sn=9a04f285ae4a2522d6e3bbb89c253224)
   - [《进阶逆向工程实战》：解锁逆向技术的全链路实战能力](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599792&idx=2&sn=0396179bba45d91c537bd9f953f78534)
-- 白帽100安全攻防实验室
-  - [WMCTF2025 翩然而至](https://mp.weixin.qq.com/s?__biz=MzIxMDYyNTk3Nw==&mid=2247515223&idx=1&sn=b4f9bd7fcb277b86d426a8be32a93995)
-- 安全学术圈
-  - [中国科学技术大学 | 基于流间时空关联分析的图神经网络网站指纹识别方法](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493728&idx=1&sn=1d501d50b34701aaa1643008b1c2721f)
-- 安全圈
-  - [【安全圈】iPhone17预售，苹果官网崩了](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071692&idx=1&sn=6613f07df2c50c0667795c117aa14c07)
-  - [【安全圈】房产公司职工出售客户信息逾万条，31人涉嫌犯罪落网](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071692&idx=2&sn=c370f9fffac3ce9a8618a87903f0443c)
-  - [【安全圈】学生黑客成英国校园网络安全最大威胁，只为寻求刺激、出名](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071692&idx=3&sn=c51fde054fe510a76ad2b087bb64ac1c)
+- 丁爸 情报分析师的工具箱
+  - [【情报】非洲针对华人的暴力事件背后的认知战](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152011&idx=1&sn=7f14f118d918bada356af5b0d07b333b)
 - 中国信息安全
   - [2025 北外滩网络安全论坛 | 昆仑芯：以技术突破推动 AI 算力创新](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664249019&idx=1&sn=73f164877e9b575c1710e96df87b1bbc)
   - [专家解读｜健全企业个人信息保护监督委员会制度 构建多元共治的个人信息保护治理体系](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664249019&idx=2&sn=253408926bdded181f01acc074e2c05e)
   - [聚焦 | AI如何守护人类健康？2025外滩大会热议医疗AI伦理](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664249019&idx=3&sn=ff3677949bf65b1f258a802a927ec88f)
   - [开学季·反诈必修课！大学生必看《一堂反诈课》上线](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664249019&idx=4&sn=d18a78ba4abc58804f49ed5731360f91)
-- 丁爸 情报分析师的工具箱
-  - [【情报】非洲针对华人的暴力事件背后的认知战](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152011&idx=1&sn=7f14f118d918bada356af5b0d07b333b)
+- 天黑说嘿话
+  - [2025年企业勒索病毒演练指南](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484598&idx=1&sn=77f066e8a07e88ee8b833215fd48716d)
+- 网安杂谈
+  - [【2026合作伙伴巡礼】天鉴科技：立足取证，服务实战](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889782&idx=1&sn=6c743b5c46f9a23d120f8e9630db3b4c)
 - 极客公园
   - [在端侧 AI 时代正式到来之前，联想想先做好硬件「杀手锏」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653086532&idx=1&sn=c40fc1b21cb3d3ec5c04c5d55ce856aa)
   - [iPhone 17 Air 在华发售延期；罗永浩直播回应西贝；《流浪地球》第三部剧本完稿，共计十五万字｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653086531&idx=1&sn=0e78cf88637c8f1730b1fb3e9ccfbe1d)
-- 嘶吼专业版
-  - [黑客传灯者TNT：聚火传灯，跨界共生](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584587&idx=1&sn=8fa988b010919e153ce063cca40b4035)
-- 网安杂谈
-  - [【2026合作伙伴巡礼】天鉴科技：立足取证，服务实战](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889782&idx=1&sn=6c743b5c46f9a23d120f8e9630db3b4c)
-- 天黑说嘿话
-  - [2025年企业勒索病毒演练指南](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484598&idx=1&sn=77f066e8a07e88ee8b833215fd48716d)
-- ICT Security Magazine
-  - [Client-Side Scanning: l’arma a doppio taglio della cybersecurity](https://www.ictsecuritymagazine.com/notizie/client-side-scanning/)
+- 安全圈
+  - [【安全圈】iPhone17预售，苹果官网崩了](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071692&idx=1&sn=6613f07df2c50c0667795c117aa14c07)
+  - [【安全圈】房产公司职工出售客户信息逾万条，31人涉嫌犯罪落网](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071692&idx=2&sn=c370f9fffac3ce9a8618a87903f0443c)
+  - [【安全圈】学生黑客成英国校园网络安全最大威胁，只为寻求刺激、出名](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071692&idx=3&sn=c51fde054fe510a76ad2b087bb64ac1c)
+- 安全学术圈
+  - [中国科学技术大学 | 基于流间时空关联分析的图神经网络网站指纹识别方法](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493728&idx=1&sn=1d501d50b34701aaa1643008b1c2721f)
 - 吴鲁加
   - [我也说说西贝](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485728&idx=1&sn=f70a60df504e1d2f754e317da5dac2ab)
+- 嘶吼专业版
+  - [黑客传灯者TNT：聚火传灯，跨界共生](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584587&idx=1&sn=8fa988b010919e153ce063cca40b4035)
+- 迪哥讲事
+  - [RCE 漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498181&idx=1&sn=1f1fa5d85568bd16a7758a1802a0b003)
 - Over Security - Cybersecurity news aggregator
   - [Ransomware Tool Matrix Update: Community Reports](https://blog.bushidotoken.net/2025/09/ransomware-tool-matrix-update-community.html)
   - [Geedge & MESA Leak: Analyzing the Great Firewall’s Largest Document Leak](https://gfw.report/blog/geedge_and_mesa_leak/en/)
   - [Here’s the tech powering ICE’s deportation crackdown](https://techcrunch.com/2025/09/13/heres-the-tech-powering-ices-deportation-crackdown/)
   - [Choosing the Best CMS for Your Needs](https://blog.sucuri.net/2025/09/choosing-the-best-cms-for-your-needs.html)
-- 迪哥讲事
-  - [RCE 漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498181&idx=1&sn=1f1fa5d85568bd16a7758a1802a0b003)
-- Troy Hunt's Blog
-  - [Weekly Update 469](https://www.troyhunt.com/weekly-update-469/)
+- ICT Security Magazine
+  - [Client-Side Scanning: l’arma a doppio taglio della cybersecurity](https://www.ictsecuritymagazine.com/notizie/client-side-scanning/)
 - Active Directory & Azure AD/Entra ID Security
   - [Active Directory Security Tip #1: Active Directory Admins](https://adsecurity.org/?p=4577)
+- The Hacker News
+  - [FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks](https://thehackernews.com/2025/09/fbi-warns-of-unc6040-and-unc6395.html)
+- Troy Hunt's Blog
+  - [Weekly Update 469](https://www.troyhunt.com/weekly-update-469/)
 - Security Affairs
   - [FBI warns of Salesforce attacks by UNC6040 and UNC6395 groups](https://securityaffairs.com/182159/cyber-crime/fbi-warns-of-salesforce-attacks-by-unc6040-and-unc6395-groups.html)
   - [HybridPetya ransomware bypasses UEFI Secure Boot echoing Petya/NotPetya](https://securityaffairs.com/182149/malware/hybridpetya-ransomware-bypasses-uefi-secure-boot-echoing-petya-notpetya.html)
-- The Hacker News
-  - [FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks](https://thehackernews.com/2025/09/fbi-warns-of-unc6040-and-unc6395.html)
