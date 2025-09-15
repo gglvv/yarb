@@ -1,19 +1,19 @@
 # 每日安全资讯（2025-09-15）
 
-- ArthurChiao's Blog
-  - [[译] 从 OpenDeepResearch 背后的设计演进，解读 AI 领域反复学到的一课（2025）](https://arthurchiao.github.io/blog/ai-bitter-lesson-zh/)
-- Recent Commits to cve:main
-  - [Update Sun Sep 14 11:39:57 UTC 2025](https://github.com/trickest/cve/commit/e3070c4051385dfadfc8855b9d1aa18310633f4c)
+- SecWiki News
+  - [SecWiki News 2025-09-14 Review](http://www.sec-wiki.com/?2025-09-14)
 - Armin Ronacher's Thoughts and Writings
   - [What’s a Foreigner?](https://lucumr.pocoo.org/2025/9/14/whats-an-foreigner/)
+- Taxodium
+  - [《纸上染了蓝》书摘](https://taxodium.ink/a-long-long-farewell.html)
+- ArthurChiao's Blog
+  - [[译] 从 OpenDeepResearch 背后的设计演进，解读 AI 领域反复学到的一课（2025）](https://arthurchiao.github.io/blog/ai-bitter-lesson-zh/)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [Sitecore XP Post-Authentication File Upload](https://cxsecurity.com/issue/WLB-2025090008)
   - [database.refugee-integration.bg - CORS-AOT vulnerability](https://cxsecurity.com/issue/WLB-2025090007)
   - [BarbarBaba-1.0 Copyright©2025-Multiple-SQLi](https://cxsecurity.com/issue/WLB-2025090006)
-- Taxodium
-  - [《纸上染了蓝》书摘](https://taxodium.ink/a-long-long-farewell.html)
-- SecWiki News
-  - [SecWiki News 2025-09-14 Review](http://www.sec-wiki.com/?2025-09-14)
+- Recent Commits to cve:main
+  - [Update Sun Sep 14 11:39:57 UTC 2025](https://github.com/trickest/cve/commit/e3070c4051385dfadfc8855b9d1aa18310633f4c)
 - CTFするぞ
   - [Dirty Pageflags: Revisiting PTE Exploitation in Linux](https://ptr-yudai.hatenablog.com/entry/2025/09/14/180326)
 - Depy's docs
@@ -38,28 +38,35 @@
   - [从车间到云端，威努特全栈方案破解制造业转型困局](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651135577&idx=1&sn=2b8a0075dcf2a082ebdff4f8a3f0cf52)
 - 我的安全视界观
   - [SDL 93/100问：与外部厂商合作时需要外发敏感数据，有啥好方案？](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487226&idx=1&sn=a30b1dc009f677c22110cac69d8a4f0c)
-- 网安杂谈
-  - [【2026合作伙伴巡礼】骁骐科技——守护数据价值与安全](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889784&idx=1&sn=b7dbc74326e1f646e454fd0626c57bf2)
 - 安全圈
   - [【安全圈】上海员工电脑被装木马，不法分子贩卖远程盗取的机密客户信息！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071707&idx=1&sn=6a45c9e47f6572358123bce75322b233)
   - [【安全圈】Zabbix代码执行漏洞（CVE-2025-27240）](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071707&idx=2&sn=cfafef0e8f5d3b121b52cd5b5bda2de1)
   - [【安全圈】流媒体服务 Plex 确认部分客户数据泄露，建议用户更换密码](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071707&idx=3&sn=49705e511c26ee99677f1e95c84614b8)
-- 天御攻防实验室
-  - [荷兰陆军将黑客部署至前线：“坦克无法关闭网站”](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486520&idx=1&sn=d4791eb25c236c338f52012e6c5c3646)
+- 安全学术圈
+  - [2025年度互联网域名管理技术国家工程实验室开放课题](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493732&idx=1&sn=da744b17dfdfc81ef7f8e40022125a20)
 - dotNet安全矩阵
   - [.NET内网实战： 运行平台下 IIS 进程身份的安全剖析](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500582&idx=1&sn=57c972e53b30bd2fadedd9b198467f12)
   - [.NET 安全攻防知识交流社区](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500582&idx=2&sn=81fc19e9b3a4a5fde49157da4461889f)
   - [.NET 本地提权，通过系统进程令牌模拟实现权限提升](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500582&idx=3&sn=ecc7e1335edaad28a4adcb7860f88998)
-- 天黑说嘿话
-  - [企业如何构筑社工钓鱼攻击的"防火墙"](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484603&idx=1&sn=184f8157cb5a05a2447d501c47b41895)
-- 网络空间安全科学学报
-  - [《网络空间安全科学学报》被乌利希国际期刊指南（Ulrichsweb）数据库收录](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247505872&idx=1&sn=6eab0b7381d785d9932327b99ddc9bf2)
-- 安全学术圈
-  - [2025年度互联网域名管理技术国家工程实验室开放课题](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493732&idx=1&sn=da744b17dfdfc81ef7f8e40022125a20)
-- 极客公园
-  - [iPhone17全系上线拼多多，5099起；「罗西大战」后续，传「预制菜国标」过审；小米蔚来小鹏抵制「车圈黑公关」| 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653086558&idx=1&sn=87de35d17fe015950e6db9958ca618e5)
+- 火绒安全
+  - [【火绒安全周报】工信部：更新WinRAR/TP-Link 承认零日漏洞](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247526437&idx=1&sn=29dcf490820d57dfbae9d461b82e3084)
+  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247526437&idx=2&sn=a49ebd4dd5d430c990100389ec943136)
+- 天御攻防实验室
+  - [荷兰陆军将黑客部署至前线：“坦克无法关闭网站”](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486520&idx=1&sn=d4791eb25c236c338f52012e6c5c3646)
 - 君哥的体历
   - [中国人民财产保险股份有限公司诚招安全人才｜总第62期](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492215&idx=1&sn=42732e5a4e4e00fa3dd00503e53f1c15)
+- 网络空间安全科学学报
+  - [《网络空间安全科学学报》被乌利希国际期刊指南（Ulrichsweb）数据库收录](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247505872&idx=1&sn=6eab0b7381d785d9932327b99ddc9bf2)
+- 天黑说嘿话
+  - [企业如何构筑社工钓鱼攻击的"防火墙"](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484603&idx=1&sn=184f8157cb5a05a2447d501c47b41895)
+- 吴鲁加
+  - [我的矫情和不合群](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485732&idx=1&sn=44a765b6b72bf9b347506a44a40ff28a)
+- 网安杂谈
+  - [【2026合作伙伴巡礼】骁骐科技——守护数据价值与安全](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889784&idx=1&sn=b7dbc74326e1f646e454fd0626c57bf2)
+- 迪哥讲事
+  - [如何通过AI挖掘浏览器漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498185&idx=1&sn=7f4997696fa4cbce0300a9208ccbf610)
+- 极客公园
+  - [iPhone17全系上线拼多多，5099起；「罗西大战」后续，传「预制菜国标」过审；小米蔚来小鹏抵制「车圈黑公关」| 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653086558&idx=1&sn=87de35d17fe015950e6db9958ca618e5)
 - Over Security - Cybersecurity news aggregator
   - [FBI warns of UNC6040, UNC6395 hackers stealing Salesforce data](https://www.bleepingcomputer.com/news/security/fbi-warns-of-unc6040-unc6395-hackers-stealing-salesforce-data/)
   - ['WhiteCobra' floods VSCode market with crypto-stealing extensions](https://www.bleepingcomputer.com/news/security/whitecobra-floods-vscode-market-with-crypto-stealing-extensions/)
@@ -68,21 +75,14 @@
   - [asnip – ASN Reconnaissance via Domain and IP Mapping](https://www.darknet.org.uk/2025/09/asnip-asn-reconnaissance-via-domain-and-ip-mapping/)
   - [Dark Web Search Engines in 2025 – Rankings, Risks & Ethical Trade-offs](https://www.darknet.org.uk/2025/09/dark-web-search-engines-in-2025-rankings-risks-ethical-trade-offs/)
   - [Guerre di Rete - L’assassinio di Kirk, i social e la Rete](https://guerredirete.substack.com/p/guerre-di-rete-lassassinio-di-kirk)
-- 吴鲁加
-  - [我的矫情和不合群](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485732&idx=1&sn=44a765b6b72bf9b347506a44a40ff28a)
-- 火绒安全
-  - [【火绒安全周报】工信部：更新WinRAR/TP-Link 承认零日漏洞](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247526437&idx=1&sn=29dcf490820d57dfbae9d461b82e3084)
-  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247526437&idx=2&sn=a49ebd4dd5d430c990100389ec943136)
+- Schneier on Security
+  - [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2025/09/upcoming-speaking-engagements-48.html)
 - SANS Internet Storm Center, InfoCON: green
   - [Web Searches For Archives, (Sun, Sep 14th)](https://isc.sans.edu/diary/rss/32282)
-- 迪哥讲事
-  - [如何通过AI挖掘浏览器漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498185&idx=1&sn=7f4997696fa4cbce0300a9208ccbf610)
 - Security Affairs
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 62](https://securityaffairs.com/182181/malware/security-affairs-malware-newsletter-round-62.html)
   - [Security Affairs newsletter Round 541 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/182169/breaking-news/security-affairs-newsletter-round-541-by-pierluigi-paganini-international-edition.html)
   - [ShinyHunters Attack National Credit Information Center of Vietnam](https://securityaffairs.com/182189/cyber-crime/shinyhunters-attack-national-credit-information-center-of-vietnam.html)
-- Schneier on Security
-  - [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2025/09/upcoming-speaking-engagements-48.html)
 - Rasta Mouse
   - [Crystal Palace API](https://rastamouse.me/crystal-palace-api/)
 - 网安寻路人
