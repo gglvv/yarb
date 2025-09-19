@@ -4,8 +4,24 @@
   - [What’s New in Tenable Cloud Security: A More Personalized, Global and Comprehensive Experience](https://www.tenable.com/blog/whats-new-in-tenable-cloud-security-a-more-personalized-global-and-comprehensive-experience)
   - [How Top CISOs Approach Exposure Management in the Context of Managing Cyber Risk](https://www.tenable.com/blog/how-top-cisos-approach-exposure-management-in-the-context-of-managing-cyber-risk)
   - [Who Owns Threat and Exposure Management in Your Organization?](https://www.tenable.com/blog/who-owns-threat-and-exposure-management-in-your-organization)
+- SecWiki News
+  - [SecWiki News 2025-09-18 Review](http://www.sec-wiki.com/?2025-09-18)
+- 先知安全技术社区
+  - [某APP组件存在权限漏洞可导致远程one click用户劫持](https://xz.aliyun.com/news/18924)
+  - [DEX文件结构解析：从头文件到类定义的深入分析](https://xz.aliyun.com/news/18923)
+- obaby@mars
+  - [Baby WP 评论强化拦截插件 — 再战 WP 垃圾评论](https://h4ck.org.cn/2025/09/21609)
+- Recent Commits to cve:main
+  - [Update Thu Sep 18 12:08:12 UTC 2025](https://github.com/trickest/cve/commit/d55bc60067b7eb2e629500e04e682931ce1273e0)
 - paper - Last paper
   - [一枚令牌统御万物——借助 Actor 令牌获取所有 Entra ID 租户的全局管理员权限](https://paper.seebug.org/3388/)
+- InfoSec Write-ups - Medium
+  - [You’re using GPT-5 wrong for hacking. Here’s how to be ahead of 99% of bug hunters](https://infosecwriteups.com/youre-using-gpt-5-wrong-for-hacking-here-s-how-to-be-ahead-of-99-of-bug-hunters-db96ee3587e7?source=rss----7b722bfd1b8d---4)
+  - [Default Page to Admin Paths Exposure](https://infosecwriteups.com/default-page-to-admin-paths-exposure-1d5709b3725b?source=rss----7b722bfd1b8d---4)
+  - [Do You Really Need Coding for Cybersecurity?](https://infosecwriteups.com/do-you-really-need-coding-for-cybersecurity-3f63ee79a54f?source=rss----7b722bfd1b8d---4)
+- 先知安全技术社区
+  - [某APP组件存在权限漏洞可导致远程one click用户劫持](https://xz.aliyun.com/news/18924)
+  - [DEX文件结构解析：从头文件到类定义的深入分析](https://xz.aliyun.com/news/18923)
 - 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
   - [【梆梆安全监测】安全隐私合规监管趋势及漏洞风险报告 （0817-0830）](https://www.4hou.com/posts/wx1J)
   - [漏洞预警 | Flowise 任意文件读取漏洞](https://www.4hou.com/posts/qo13)
@@ -13,20 +29,16 @@
   - [“AI+”辅助公安执法办案：笔录时间缩短30%、打处率提升25%、10分钟出报告](https://www.4hou.com/posts/pn11)
   - [7项国家级奖项！360在2025网安周获CNVD、CCTGA、ANVA认可](https://www.4hou.com/posts/vw1V)
   - [网络犯罪组织WhiteCobra植入24款恶意扩展程序 瞄准VSCode、Cursor及Windsurf用户](https://www.4hou.com/posts/pn16)
-- 先知安全技术社区
-  - [某APP组件存在权限漏洞可导致远程one click用户劫持](https://xz.aliyun.com/news/18924)
-  - [DEX文件结构解析：从头文件到类定义的深入分析](https://xz.aliyun.com/news/18923)
-- 先知安全技术社区
-  - [某APP组件存在权限漏洞可导致远程one click用户劫持](https://xz.aliyun.com/news/18924)
-  - [DEX文件结构解析：从头文件到类定义的深入分析](https://xz.aliyun.com/news/18923)
-- Recent Commits to cve:main
-  - [Update Thu Sep 18 12:08:12 UTC 2025](https://github.com/trickest/cve/commit/d55bc60067b7eb2e629500e04e682931ce1273e0)
-- SecWiki News
-  - [SecWiki News 2025-09-18 Review](http://www.sec-wiki.com/?2025-09-18)
-- obaby@mars
-  - [Baby WP 评论强化拦截插件 — 再战 WP 垃圾评论](https://h4ck.org.cn/2025/09/21609)
-- Microsoft Security Blog
-  - [Microsoft Defender delivered 242% return on investment over three years​​](https://www.microsoft.com/en-us/security/blog/2025/09/18/microsoft-defender-delivered-242-return-on-investment-over-three-years/)
+- Bug Bounty in InfoSec Write-ups on Medium
+  - [You’re using GPT-5 wrong for hacking. Here’s how to be ahead of 99% of bug hunters](https://infosecwriteups.com/youre-using-gpt-5-wrong-for-hacking-here-s-how-to-be-ahead-of-99-of-bug-hunters-db96ee3587e7?source=rss----7b722bfd1b8d--bug_bounty)
+  - [Default Page to Admin Paths Exposure](https://infosecwriteups.com/default-page-to-admin-paths-exposure-1d5709b3725b?source=rss----7b722bfd1b8d--bug_bounty)
+  - [SSRF Symphony: How I Turned a PDF Generator Into an Internal Network Spy](https://infosecwriteups.com/ssrf-symphony-how-i-turned-a-pdf-generator-into-an-internal-network-spy-0d085a9c1c9e?source=rss----7b722bfd1b8d--bug_bounty)
+  - [Extract — Load — Upload | A $20000 File Read Bug POC Methodology](https://infosecwriteups.com/extract-load-upload-a-20000-file-read-bug-poc-methodology-931383c987b2?source=rss----7b722bfd1b8d--bug_bounty)
+  - [Penetration Testing, Beginners To Expert!](https://infosecwriteups.com/penetration-testing-beginners-to-expert-8378f9169160?source=rss----7b722bfd1b8d--bug_bounty)
+  - [“Day 26: The WebSocket Hijack — How I Eavesdropped on Every Customer Support Chat”](https://infosecwriteups.com/day-26-the-websocket-hijack-how-i-eavesdropped-on-every-customer-support-chat-de5ddc819ad2?source=rss----7b722bfd1b8d--bug_bounty)
+  - [Privacy Alert for ChatGPT Users: Delete Old Share Links & Clear Cached Chats](https://infosecwriteups.com/privacy-alert-for-chatgpt-users-delete-old-share-links-clear-cached-chats-271219d78535?source=rss----7b722bfd1b8d--bug_bounty)
+- PortSwigger Blog
+  - [How to join the desync endgame: Practical tips from pentester Tom Stacey](https://portswigger.net/blog/how-to-join-the-desync-endgame-practical-tips-from-pentester-tom-stacey)
 - The Trail of Bits Blog
   - [Use mutation testing to find the bugs your tests don't catch](https://blog.trailofbits.com/2025/09/18/use-mutation-testing-to-find-the-bugs-your-tests-dont-catch/)
 - GuidePoint Security
@@ -35,19 +47,18 @@
   - [Disrupted phishing service was after Microsoft 365 credentials](https://www.malwarebytes.com/blog/news/2025/09/disrupted-phishing-service-was-after-microsoft-365-credentials)
   - [Update your Chrome today: Google patches 4 vulnerabilities including one zero-day](https://www.malwarebytes.com/blog/news/2025/09/update-your-chrome-today-google-patches-4-vulnerabilities-including-one-zero-day)
   - [Age verification and parental controls coming to ChatGPT to protect teens](https://www.malwarebytes.com/blog/news/2025/09/age-verification-and-parental-controls-coming-to-chatgpt-to-protect-teens)
-- PortSwigger Blog
-  - [How to join the desync endgame: Practical tips from pentester Tom Stacey](https://portswigger.net/blog/how-to-join-the-desync-endgame-practical-tips-from-pentester-tom-stacey)
 - daniel.haxx.se
   - [From suspicion to published curl CVE](https://daniel.haxx.se/blog/2025/09/18/from-suspicion-to-published-curl-cve/)
-- PortSwigger Blog
-  - [How to join the desync endgame: Practical tips from pentester Tom Stacey](https://portswigger.net/blog/how-to-join-the-desync-endgame-practical-tips-from-pentester-tom-stacey)
 - Wallarm
   - [Scaling API Security Without the Complexity: Lessons from Early Adopters](https://lab.wallarm.com/scaling-api-security-without-complexity-lessons-from-early-adopters/)
-- HackerNews
-  - [谷歌修复 Chrome 零日漏洞，V8 引擎活跃漏洞威胁数百万用户](https://hackernews.cc/archives/60815)
-  - [朝鲜黑客利用 ChatGPT 伪造军事证件进行网络攻击](https://hackernews.cc/archives/60814)
-  - [TA558 利用人工智能生成的脚本在攻击中部署 Venom RAT](https://hackernews.cc/archives/60813)
-  - [Shai-Hulud 供应链攻击：蠕虫用于窃取机密，180 多个 NPM 包受影响](https://hackernews.cc/archives/60812)
+- PortSwigger Blog
+  - [How to join the desync endgame: Practical tips from pentester Tom Stacey](https://portswigger.net/blog/how-to-join-the-desync-endgame-practical-tips-from-pentester-tom-stacey)
+- 体验盒子
+  - [最新 绕过Cloudflare最佳实践](https://www.uedbox.com/post/119716/)
+- 锦行科技
+  - [聚焦国家网络安全宣传周：关键网络安全知识，一文读懂！](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494386&idx=1&sn=f0ba2af426ac0b4a020da2039c1be2c1)
+- 微步在线研究响应中心
+  - [漏洞通告 | U8cloud 全版本 IPFxxFileService任意文件上传漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507933&idx=1&sn=dc6c92cfb68c5538a39090f11470c009)
 - 奇客Solidot–传递最新科技情报
   - [英伟达向英特尔投资 50 亿美元](https://www.solidot.org/story?sid=82356)
   - [研究发现珊瑚无法在一个更温暖的世界里生存下来](https://www.solidot.org/story?sid=82355)
@@ -61,106 +72,95 @@
   - [小鹏汇天两辆飞行汽车在长春航展上相撞](https://www.solidot.org/story?sid=82347)
   - [GNOME 49 释出](https://www.solidot.org/story?sid=82346)
   - [黑猩猩每天食用熟果摄入的酒精量相当于一瓶啤酒](https://www.solidot.org/story?sid=82345)
-- 锦行科技
-  - [聚焦国家网络安全宣传周：关键网络安全知识，一文读懂！](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494386&idx=1&sn=f0ba2af426ac0b4a020da2039c1be2c1)
+- HackerNews
+  - [谷歌修复 Chrome 零日漏洞，V8 引擎活跃漏洞威胁数百万用户](https://hackernews.cc/archives/60815)
+  - [朝鲜黑客利用 ChatGPT 伪造军事证件进行网络攻击](https://hackernews.cc/archives/60814)
+  - [TA558 利用人工智能生成的脚本在攻击中部署 Venom RAT](https://hackernews.cc/archives/60813)
+  - [Shai-Hulud 供应链攻击：蠕虫用于窃取机密，180 多个 NPM 包受影响](https://hackernews.cc/archives/60812)
+- 威努特安全网络
+  - [14大领域！工信部发布重点行业数字化转型参考指引](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651135741&idx=1&sn=5513d4b86a52e42a8c22007a9703613a)
 - 我的安全视界观
   - [SDL 95/100问：针对有漏洞的代码，安全怎么不让发版？](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487272&idx=1&sn=44224be88b3b93fc4bab788a52031c6c)
-- 奇安信威胁情报中心
-  - [Shai-Hulud 蠕虫蔓延NPM生态攻击与近期系列事件关联分析](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247516098&idx=1&sn=52ce5293ecdfd21bd3473deb115c3895)
-- 体验盒子
-  - [最新 绕过Cloudflare最佳实践](https://www.uedbox.com/post/119716/)
+- 长亭安全应急响应中心
+  - [【已复现】用友 U8 Cloud IPFxxFileService 任意文件上传漏洞安全通告](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492947&idx=1&sn=bc92f12f3d90bcd06f0abd74be0a7be4)
+- 奇安信 CERT
+  - [【在野利用】Google Chrome V8 类型混淆漏洞(CVE-2025-10585)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503951&idx=1&sn=8ba8b1b56d284b94810bb49ef7d4c1f6)
+  - [【已复现】用友U8Cloud IPFxxFileService 文件上传漏洞(QVD-2025-36405)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503951&idx=2&sn=43a1e70fb100e322bf9da5d5257f9d7a)
+- 代码卫士
+  - [Chrome 紧急修复已遭利用的 V8 0day漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524032&idx=1&sn=5423164d917da366fc14c1927b4144cf)
+  - [针对API环境的攻击激增 2025上半年达4万+](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524032&idx=2&sn=dbb2d6921a09e96f5de68e2f3c993621)
 - 丁爸 情报分析师的工具箱
   - [【工具】加拿大开源情报工具](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152100&idx=1&sn=7eff092a036d0adf4c538bd0bd1256bb)
   - [【资料】伊朗网络威胁情报报告：战时网络打击行动和雇佣军间谍软件攻击的出现](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152100&idx=2&sn=471cc81f604f66a9496db09c74da71c0)
   - [【资料】认知战：大脑和行为科学的武器化](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152100&idx=3&sn=ce16fc23de18a8b363df04d81b722446)
-- 看雪学苑
-  - [飞车手游分析 & 加速-秒通关实现](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458600186&idx=1&sn=addaa4f59e4d5180289e93bda36f52a5)
-  - [2025外滩大会 | AI驱动的变革与挑战：重构网络安全的未来边界](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458600186&idx=2&sn=b3b50c2dc9196d0229299936084d0196)
-  - [从17天到3年！黑客论坛BreachForums创始人菲茨帕特里克获3年刑期](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458600186&idx=3&sn=ade35c8895c4fc58f73df7938ecd9826)
-- dotNet安全矩阵
-  - [从.NET审计视角剖析 IDOR，发现高危的越权漏洞](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500612&idx=1&sn=5d9a7fbad897698552395e7ef951988d)
-  - [.NET 安全攻防知识交流社区](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500612&idx=2&sn=9fd2b31d363b4fac4dec71d847c53b7c)
-  - [红队视角下的 IIS 资产速查工具 Sharp4WebManager v2.0 增强版](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500612&idx=3&sn=d313199dfb42c342c4d90f7b24d2bafe)
-- 威努特安全网络
-  - [14大领域！工信部发布重点行业数字化转型参考指引](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651135741&idx=1&sn=5513d4b86a52e42a8c22007a9703613a)
-- 天黑说嘿话
-  - [拨开迷雾见真章：如何正确理解网络安全工作的核心价值与行动逻辑](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484646&idx=1&sn=2d9e66c6c940b597bb3ba85da859d0c3)
-- 白帽100安全攻防实验室
-  - [WMCTF2025 周六开赛](https://mp.weixin.qq.com/s?__biz=MzIxMDYyNTk3Nw==&mid=2247515233&idx=1&sn=ca4585c841ca925a830834ffcc423182)
+- 天御攻防实验室
+  - [美国防部有70000人开展网络空间作战](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486525&idx=1&sn=7b3d223b1089ed8645176d5ddc586183)
 - 安全学术圈
   - [南京大学 | MIETT：面向加密流量分类的多实例Transformer模型](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493742&idx=1&sn=b2386c0edf21f26291b1ffd3921d620f)
+- 慢雾科技
+  - [DAAMC 研讨会推动链上合规议程：逾 100 位各界嘉宾共商香港稳定币反洗钱路径](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247503325&idx=1&sn=18331af8ce6f66e426a010cd6eaaf354)
+- 奇安信威胁情报中心
+  - [Shai-Hulud 蠕虫蔓延NPM生态攻击与近期系列事件关联分析](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247516098&idx=1&sn=52ce5293ecdfd21bd3473deb115c3895)
+- 白帽100安全攻防实验室
+  - [WMCTF2025 周六开赛](https://mp.weixin.qq.com/s?__biz=MzIxMDYyNTk3Nw==&mid=2247515233&idx=1&sn=ca4585c841ca925a830834ffcc423182)
 - 中国信息安全
   - [CCS2025 | “AI+网信安全”技术交流活动成功举办 共筑智能时代安全新防线](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664249668&idx=1&sn=61436f31a0d647ef6fbab38144c1b1e1)
   - [专家解读 | 张格：完善网络安全事件治理体系 构建网络安全保障新格局](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664249668&idx=2&sn=73fec24028132637651b86f2b32e6816)
   - [通知 | 网安标委发布《网络安全标准实践指南——扫码点餐个人信息保护要求》（附全文）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664249668&idx=3&sn=b977284ad2bc2d3e79244615138af168)
   - [前沿 | 芯片“后门”与硬件赋能机制](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664249668&idx=4&sn=96117e7c001a7a17f8788b62d91e50e4)
+- 数世咨询
+  - [澳航因网络安全事件削减CEO奖金，何时安全成为一个业务？](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540295&idx=1&sn=a3a5b3a958a107e2c68857c69bfd09e6)
+- dotNet安全矩阵
+  - [从.NET审计视角剖析 IDOR，发现高危的越权漏洞](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500612&idx=1&sn=5d9a7fbad897698552395e7ef951988d)
+  - [.NET 安全攻防知识交流社区](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500612&idx=2&sn=9fd2b31d363b4fac4dec71d847c53b7c)
+  - [红队视角下的 IIS 资产速查工具 Sharp4WebManager v2.0 增强版](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500612&idx=3&sn=d313199dfb42c342c4d90f7b24d2bafe)
+- 极客公园
+  - [带屏 AI 眼镜登场！Meta「眼镜全家桶」炸街了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653086800&idx=1&sn=55060ce94fe3b336d39f179706c7c52e)
+  - [17.38 万的大六座 SUV，吉利用银河 M9 敲碎了友商的心](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653086800&idx=2&sn=8b0aa728436986fdf8cc09a8ef7c1854)
+- 看雪学苑
+  - [飞车手游分析 & 加速-秒通关实现](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458600186&idx=1&sn=addaa4f59e4d5180289e93bda36f52a5)
+  - [2025外滩大会 | AI驱动的变革与挑战：重构网络安全的未来边界](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458600186&idx=2&sn=b3b50c2dc9196d0229299936084d0196)
+  - [从17天到3年！黑客论坛BreachForums创始人菲茨帕特里克获3年刑期](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458600186&idx=3&sn=ade35c8895c4fc58f73df7938ecd9826)
+- 安全牛
+  - [AI赋能主动防御真的能落地吗？7大实战场景应用解析](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138746&idx=1&sn=168475a5519edd9c982277a72e79aaef)
+  - [云安全独角兽Netskope登录纳斯达克，市值或超500亿；新型Phoenix内存熔断攻击仅用109秒绕过DDR5内存保护](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138746&idx=2&sn=dd54da8796072715c4ea9feaeaeac360)
+- 默安科技
+  - [幻阵AI版再升级：基于AI编排、分析与诱饵 实现主动防御的跨越式突破](https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247501275&idx=1&sn=a4ba3657f1a208449f1c13d72acdc7da)
+- 国家互联网应急中心CNCERT
+  - [中文互联网基础语料3.0正式发布](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500556&idx=1&sn=93d33c3df03a4ba7cd9e37ebb1b18209)
+- 天黑说嘿话
+  - [拨开迷雾见真章：如何正确理解网络安全工作的核心价值与行动逻辑](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484646&idx=1&sn=2d9e66c6c940b597bb3ba85da859d0c3)
+- 嘶吼专业版
+  - [网络犯罪组织WhiteCobra植入24款恶意扩展程序 瞄准VSCode、Cursor及Windsurf用户](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584653&idx=1&sn=4b5c7c4820a6d4b15e390d2f1a5a349c)
+  - [TC260-004《政务大模型应用安全规范》发布](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584653&idx=2&sn=0ad31965e3067d74376a3acb96e6b654)
+- 滴滴安全应急响应中心
+  - [DSRC｜25年第三季度奖励发放公告](https://mp.weixin.qq.com/s?__biz=MzA3Mzk1MDk1NA==&mid=2651908886&idx=1&sn=ecca71454b9503d8669fe315e9655c63)
 - 安全圈
   - [【安全圈】欧盟“聊天控制”法案引发民众愤怒：有人喊话政客先公开自己的私聊](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071775&idx=1&sn=5451ed95a80af1979727ef2fd1deee60)
   - [【安全圈】BMW 遭 Everest 勒索软件组织声称入侵：奢侈品牌正成为黑客新目标？](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071775&idx=2&sn=2af5cd882da25848c3c55c3b34e3304c)
   - [【安全圈】“Raven Stealer 恶意软件现身：专偷浏览器密码与支付数据”](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071775&idx=3&sn=0e733d076bc17e2025b1772069114db2)
   - [【安全圈】Jenkins 修补多个可被利用导致拒绝服务的漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071775&idx=4&sn=6be62142790ec120e1dc2dd9363bc775)
-- 奇安信 CERT
-  - [【在野利用】Google Chrome V8 类型混淆漏洞(CVE-2025-10585)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503951&idx=1&sn=8ba8b1b56d284b94810bb49ef7d4c1f6)
-  - [【已复现】用友U8Cloud IPFxxFileService 文件上传漏洞(QVD-2025-36405)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503951&idx=2&sn=43a1e70fb100e322bf9da5d5257f9d7a)
-- 微步在线研究响应中心
-  - [漏洞通告 | U8cloud 全版本 IPFxxFileService任意文件上传漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507933&idx=1&sn=dc6c92cfb68c5538a39090f11470c009)
-- 微步在线
-  - [连续3年！微步荣获CNVD“年度最具价值漏洞”奖！](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650184669&idx=1&sn=08ca9f6beeaabefadd23b7256631becd)
-- 代码卫士
-  - [Chrome 紧急修复已遭利用的 V8 0day漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524032&idx=1&sn=5423164d917da366fc14c1927b4144cf)
-  - [针对API环境的攻击激增 2025上半年达4万+](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524032&idx=2&sn=dbb2d6921a09e96f5de68e2f3c993621)
-- 腾讯安全威胁情报中心
-  - [Odyssey大盗：假借AI热点的窃密者](https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247510901&idx=1&sn=cefb8e69797fcea6dda99f33c9cf0fd2)
-- 滴滴安全应急响应中心
-  - [DSRC｜25年第三季度奖励发放公告](https://mp.weixin.qq.com/s?__biz=MzA3Mzk1MDk1NA==&mid=2651908886&idx=1&sn=ecca71454b9503d8669fe315e9655c63)
-- 数世咨询
-  - [澳航因网络安全事件削减CEO奖金，何时安全成为一个业务？](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540295&idx=1&sn=a3a5b3a958a107e2c68857c69bfd09e6)
-- 长亭安全应急响应中心
-  - [【已复现】用友 U8 Cloud IPFxxFileService 任意文件上传漏洞安全通告](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492947&idx=1&sn=bc92f12f3d90bcd06f0abd74be0a7be4)
-- 嘶吼专业版
-  - [网络犯罪组织WhiteCobra植入24款恶意扩展程序 瞄准VSCode、Cursor及Windsurf用户](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584653&idx=1&sn=4b5c7c4820a6d4b15e390d2f1a5a349c)
-  - [TC260-004《政务大模型应用安全规范》发布](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584653&idx=2&sn=0ad31965e3067d74376a3acb96e6b654)
-- 安全牛
-  - [AI赋能主动防御真的能落地吗？7大实战场景应用解析](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138746&idx=1&sn=168475a5519edd9c982277a72e79aaef)
-  - [云安全独角兽Netskope登录纳斯达克，市值或超500亿；新型Phoenix内存熔断攻击仅用109秒绕过DDR5内存保护](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138746&idx=2&sn=dd54da8796072715c4ea9feaeaeac360)
-- 天御攻防实验室
-  - [美国防部有70000人开展网络空间作战](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486525&idx=1&sn=7b3d223b1089ed8645176d5ddc586183)
-- 默安科技
-  - [幻阵AI版再升级：基于AI编排、分析与诱饵 实现主动防御的跨越式突破](https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247501275&idx=1&sn=a4ba3657f1a208449f1c13d72acdc7da)
 - 青藤云安全
   - [再获认证！青藤荣获2025年度CNNVD基础软硬件漏洞优秀报送企业](https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650850700&idx=1&sn=1107480f5a4456458f977a4805e53ce4)
-- 极客公园
-  - [带屏 AI 眼镜登场！Meta「眼镜全家桶」炸街了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653086800&idx=1&sn=55060ce94fe3b336d39f179706c7c52e)
-  - [17.38 万的大六座 SUV，吉利用银河 M9 敲碎了友商的心](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653086800&idx=2&sn=8b0aa728436986fdf8cc09a8ef7c1854)
-- 慢雾科技
-  - [DAAMC 研讨会推动链上合规议程：逾 100 位各界嘉宾共商香港稳定币反洗钱路径](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247503325&idx=1&sn=18331af8ce6f66e426a010cd6eaaf354)
-- 国家互联网应急中心CNCERT
-  - [中文互联网基础语料3.0正式发布](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500556&idx=1&sn=93d33c3df03a4ba7cd9e37ebb1b18209)
+- 微步在线
+  - [连续3年！微步荣获CNVD“年度最具价值漏洞”奖！](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650184669&idx=1&sn=08ca9f6beeaabefadd23b7256631becd)
 - Securityinfo.it
   - [Cohesity Identity Resilience: da Cohesity e Semperis una soluzione per proteggere le infrastrutture di identità aziendali](https://www.securityinfo.it/2025/09/18/cohesity-identity-resilience-da-cohesity-e-semperis-una-soluzione-per-proteggere-le-infrastrutture-di-identita-aziendali/?utm_source=rss&utm_medium=rss&utm_campaign=cohesity-identity-resilience-da-cohesity-e-semperis-una-soluzione-per-proteggere-le-infrastrutture-di-identita-aziendali)
+- 腾讯安全威胁情报中心
+  - [Odyssey大盗：假借AI热点的窃密者](https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247510901&idx=1&sn=cefb8e69797fcea6dda99f33c9cf0fd2)
 - ICT Security Magazine
   - [Come l’IA neuromorfica e i modelli fondazionali stanno ridefinendo il panorama delle minacce alla cybersecurity](https://www.ictsecuritymagazine.com/articoli/ia-neuromorfica-sec/)
   - [Truffa deepfake da 25 milioni: come riconoscere i video falsi e proteggere la tua azienda](https://www.ictsecuritymagazine.com/notizie/truffa-deepfake/)
-- Microsoft Security Blog
-  - [Microsoft Defender delivered 242% return on investment over three years​​](https://www.microsoft.com/en-us/security/blog/2025/09/18/microsoft-defender-delivered-242-return-on-investment-over-three-years/)
 - 360数字安全
   - [解锁水电安全“智慧密码”: 360携手华能澜沧江打造行业新标杆](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247582100&idx=1&sn=e31555e05d5c53236b1e4f9986678b7d)
   - [AI驱动防御升级，360终端安全智能体亮相国家网络安全宣传周](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247582100&idx=2&sn=6fc75b0221c3c4f36fe38f1182e13265)
-- 迪哥讲事
-  - [6位数赏金rce](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498203&idx=1&sn=74ca9182c88008204366ede75e8bcad0)
 - SANS Internet Storm Center, InfoCON: green
   - [ISC Stormcast For Thursday, September 18th, 2025 https://isc.sans.edu/podcastdetail/9618, (Thu, Sep 18th)](https://isc.sans.edu/diary/rss/32298)
   - [Exploring Uploads in a Dshield Honeypot Environment &#x5b;Guest Diary&#x5d;, (Thu, Sep 18th)](https://isc.sans.edu/diary/rss/32296)
-- BorderGate
-  - [Windows Kernel Debugging](https://www.bordergate.co.uk/windows-kernel-debugging/)
-- Tor Project blog
-  - [New Release: Tails 7.0](https://blog.torproject.org/new-release-tails-7_0/)
-- Active Directory & Azure AD/Entra ID Security
-  - [Active Directory Security Tip #5: The Default Domain Administrator Account](https://adsecurity.org/?p=4586)
-- Graham Cluley
-  - [“Pompompurin” resentenced: BreachForums creator heads back behind bars](https://www.bitdefender.com/en-us/blog/hotforsecurity/pompompurin-resentenced-breachforums-creator-heads-back-behind-bars)
-- 安全419
-  - [身份窃取成网络安全头号威胁](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247550320&idx=1&sn=965c9eb31709347d5b397a271c2e533e)
+- Schneier on Security
+  - [Time-of-Check Time-of-Use Attacks Against LLMs](https://www.schneier.com/blog/archives/2025/09/time-of-check-time-of-use-attacks-against-llms.html)
+- 迪哥讲事
+  - [6位数赏金rce](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498203&idx=1&sn=74ca9182c88008204366ede75e8bcad0)
 - Over Security - Cybersecurity news aggregator
   - [ChatGPT now gives you greater control over GPT-5 Thinking model](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-now-gives-you-greater-control-over-gpt-5-thinking-model/)
   - [Senate confirms Sutton as Pentagon cyber policy chief](https://therecord.media/senate-confirms-sutton-dod-cyber-policy)
@@ -190,23 +190,33 @@
   - [Google patches sixth Chrome zero-day exploited in attacks this year](https://www.bleepingcomputer.com/news/security/google-patches-sixth-chrome-zero-day-exploited-in-attacks-this-year/)
   - [Automating Android App Component Testing with New APK Inspector](https://www.mobile-hacker.com/2025/09/18/automating-android-app-component-testing-with-new-apk-inspector/)
   - [FreeOnes - 960,213 breached accounts](https://haveibeenpwned.com/Breach/FreeOnes)
-- Security Affairs
-  - [ShadowLeak: Radware Uncovers Zero-Click Attack on ChatGPT](https://securityaffairs.com/182334/hacking/shadowleak-radware-uncovers-zero-click-attack-on-chatgpt.html)
-  - [SonicWall warns customers to reset credentials after MySonicWall backups were exposed](https://securityaffairs.com/182329/data-breach/sonicwall-warns-customers-to-reset-credentials-after-mysonicwall-backups-were-exposed.html)
-  - [CVE-2025-10585 is the sixth actively exploited Chrome zero-day patched by Google in 2025](https://securityaffairs.com/182322/uncategorized/cve-2025-10585-is-the-sixth-actively-exploited-chrome-zero-day-patched-by-google-in-2025.html)
-  - [Jaguar Land Rover will extend its production halt into a third week following a cyberattack](https://securityaffairs.com/182312/security/jaguar-land-rover-will-extend-its-production-halt-into-a-third-week-following-a-cyberattack.html)
-- Schneier on Security
-  - [Time-of-Check Time-of-Use Attacks Against LLMs](https://www.schneier.com/blog/archives/2025/09/time-of-check-time-of-use-attacks-against-llms.html)
-- Have I Been Pwned latest breaches
-  - [FreeOnes - 960,213 breached accounts](https://haveibeenpwned.com/Breach/FreeOnes)
+- BorderGate
+  - [Windows Kernel Debugging](https://www.bordergate.co.uk/windows-kernel-debugging/)
+- Microsoft Security Blog
+  - [Microsoft Defender delivered 242% return on investment over three years​​](https://www.microsoft.com/en-us/security/blog/2025/09/18/microsoft-defender-delivered-242-return-on-investment-over-three-years/)
 - Deeplinks
   - [Shining a Spotlight on Digital Rights Heroes: EFF Awards 2025](https://www.eff.org/deeplinks/2025/09/shining-spotlight-digital-rights-heroes-eff-awards-2025)
   - [EFF, ACLU to SFPD: Stop Illegally Sharing Data With ICE and Anti-Abortion States](https://www.eff.org/deeplinks/2025/09/eff-aclu-sfpd-stop-illegally-sharing-data-ice-and-anti-abortion-states)
+- 安全419
+  - [身份窃取成网络安全头号威胁](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247550320&idx=1&sn=965c9eb31709347d5b397a271c2e533e)
+- Have I Been Pwned latest breaches
+  - [FreeOnes - 960,213 breached accounts](https://haveibeenpwned.com/Breach/FreeOnes)
+- Active Directory & Azure AD/Entra ID Security
+  - [Active Directory Security Tip #5: The Default Domain Administrator Account](https://adsecurity.org/?p=4586)
 - The Hacker News
   - [SonicWall Urges Password Resets After Cloud Backup Breach Affecting Under 5% of Customers](https://thehackernews.com/2025/09/sonicwall-urges-password-resets-after.html)
   - [CountLoader Broadens Russian Ransomware Operations With Multi-Version Malware Loader](https://thehackernews.com/2025/09/countloader-broadens-russian-ransomware.html)
   - [SilentSync RAT Delivered via Two Malicious PyPI Packages Targeting Python Developers](https://thehackernews.com/2025/09/silentsync-rat-delivered-via-two.html)
   - [How CISOs Can Drive Effective AI Governance](https://thehackernews.com/2025/09/how-cisos-can-drive-effective-ai.html)
   - [Google Patches Chrome Zero-Day CVE-2025-10585 as Active V8 Exploit Threatens Millions](https://thehackernews.com/2025/09/google-patches-chrome-zero-day-cve-2025.html)
+- Graham Cluley
+  - [“Pompompurin” resentenced: BreachForums creator heads back behind bars](https://www.bitdefender.com/en-us/blog/hotforsecurity/pompompurin-resentenced-breachforums-creator-heads-back-behind-bars)
+- Tor Project blog
+  - [New Release: Tails 7.0](https://blog.torproject.org/new-release-tails-7_0/)
+- Security Affairs
+  - [ShadowLeak: Radware Uncovers Zero-Click Attack on ChatGPT](https://securityaffairs.com/182334/hacking/shadowleak-radware-uncovers-zero-click-attack-on-chatgpt.html)
+  - [SonicWall warns customers to reset credentials after MySonicWall backups were exposed](https://securityaffairs.com/182329/data-breach/sonicwall-warns-customers-to-reset-credentials-after-mysonicwall-backups-were-exposed.html)
+  - [CVE-2025-10585 is the sixth actively exploited Chrome zero-day patched by Google in 2025](https://securityaffairs.com/182322/uncategorized/cve-2025-10585-is-the-sixth-actively-exploited-chrome-zero-day-patched-by-google-in-2025.html)
+  - [Jaguar Land Rover will extend its production halt into a third week following a cyberattack](https://securityaffairs.com/182312/security/jaguar-land-rover-will-extend-its-production-halt-into-a-third-week-following-a-cyberattack.html)
 - Security Weekly Podcast Network (Audio)
   - [Safes, Hackers, and Web Servers - PSW #892](http://sites.libsyn.com/18678/safes-hackers-and-web-servers-psw-892)
