@@ -7,17 +7,6 @@
   - [Blaugust 2025 Reflections #2](https://taxodium.ink/blaugust-2025-reflections-2.html)
 - Recent Commits to cve:main
   - [Update Sat Sep 20 11:39:41 UTC 2025](https://github.com/trickest/cve/commit/80b563193999053e2c121095ecd4280843f86852)
-- InfoSec Write-ups - Medium
-  - [Transforming Images into Insights: The Role of OCR in AI Workflows](https://infosecwriteups.com/transforming-images-into-insights-the-role-of-ocr-in-ai-workflows-6a7656ee5caf?source=rss----7b722bfd1b8d---4)
-  - [WannaCry Ransomware: A DFIR & SOC Monitoring Lab Walkthrough](https://infosecwriteups.com/wannacry-ransomware-a-dfir-soc-monitoring-lab-walkthrough-9001f61a71e9?source=rss----7b722bfd1b8d---4)
-  - [PicoCTF Web Exploitation Walkthrough |GET aHEAD](https://infosecwriteups.com/picoctf-web-exploitation-walkthrough-get-ahead-618bd6b383fb?source=rss----7b722bfd1b8d---4)
-  - [How I ‘Hacked’ NASA Without Going to Jail](https://infosecwriteups.com/how-did-i-hacked-nasa-without-go-to-the-jail-4bf0eebc934b?source=rss----7b722bfd1b8d---4)
-  - [The Bug Behind the Delete Button: How I Found a Critical IDOR](https://infosecwriteups.com/the-bug-behind-the-delete-button-how-i-found-a-critical-idor-2ea938226f7b?source=rss----7b722bfd1b8d---4)
-  - [Breaking the "KPMG CTF 2025 Hardest Mobile Challenge": A Deep Dive into VaultPass v2](https://infosecwriteups.com/breaking-the-kpmg-ctf-2025-hardest-mobile-challenge-a-deep-dive-into-vaultpass-v2-94bb61f409fb?source=rss----7b722bfd1b8d---4)
-  - [UART Shell Privilege Escalation - KPMG CTF 2025 Writeup](https://infosecwriteups.com/uart-shell-privilege-escalation-kpmg-ctf-2025-writeup-8ce322de8d63?source=rss----7b722bfd1b8d---4)
-  - [CVE-2025–10585: The Chrome V8 Zero-Day You Need to Patch Today ⚔️️](https://infosecwriteups.com/cve-2025-10585-the-chrome-v8-zero-day-you-need-to-patch-today-%EF%B8%8F-%EF%B8%8F-8168aa7f79cd?source=rss----7b722bfd1b8d---4)
-  - [#1: Command Injection: A Complete Guide.](https://infosecwriteups.com/1-command-injection-a-complete-guide-a09bf5fcbf89?source=rss----7b722bfd1b8d---4)
-  - [“How I Bank $1k+ a Month Finding Bugs Everyone Ignores”](https://infosecwriteups.com/how-i-bank-1k-a-month-finding-bugs-everyone-ignores-499a6d2cd1cb?source=rss----7b722bfd1b8d---4)
 - Sucuri Blog
   - [Understanding Spamhaus and Its Role in Email Security](https://blog.sucuri.net/2025/09/understanding-spamhaus-and-its-role-in-email-security.html)
 - Bug Bounty in InfoSec Write-ups on Medium
@@ -31,34 +20,33 @@
   - [Understanding Spamhaus and Its Role in Email Security](https://blog.sucuri.net/2025/09/understanding-spamhaus-and-its-role-in-email-security.html)
 - 黑海洋 - Wiki
   - [免费体验Claude AI编程助手：AgentRouter中转服务使用指南](https://blog.upx8.com/4859)
-- 奇客Solidot–传递最新科技情报
-  - [小米将远程修复其 11 万辆 SU7 的辅助驾驶系统缺陷](https://www.solidot.org/story?sid=82370)
-  - [美国要求 H-1B 签证申请支付 10 万美元](https://www.solidot.org/story?sid=82369)
 - 威努特安全网络
   - [Salesforce攻击泄露15亿数据，美国风投公司遭勒索|一周特辑](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651135916&idx=1&sn=b5aa8cdac83fe2e42ec3475ca2e8a0bf)
 - 看雪学苑
   - [一款FakeApp相关病毒样本分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458600282&idx=1&sn=cfce52a9a9a33444373394a15d3a278a)
   - [成为看雪兼职讲师：用你的硬核实力圈粉，知识变现两不误！](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458600282&idx=2&sn=305f8062590ba0478b0a85219332cd89)
-- 安全研究GoSSIP
-  - [G.O.S.S.I.P 2025年9月投稿指南](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247500743&idx=1&sn=5c7fdaadf93c984a9c4cc75e6f4243cb)
 - dotNet安全矩阵
   - [[ .NET 安全代码审计 ] 从零基础到高阶实战，开启漏洞赏金之路](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500621&idx=1&sn=ee6ce0e39a3c4cd797deb921494319be)
   - [.NET 安全攻防知识交流社区](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500621&idx=2&sn=56c8dcdb85806eada64c7c89da468017)
   - [.NET Web 一键支持在线打包 & 无需依赖 cmd.exe 执行系统命令](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500621&idx=3&sn=ded416615d8b3f13f0f93062dd135910)
+- 安全研究GoSSIP
+  - [G.O.S.S.I.P 2025年9月投稿指南](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247500743&idx=1&sn=5c7fdaadf93c984a9c4cc75e6f4243cb)
+- 安全圈
+  - [【安全圈】公安部通报：上海某跨国公司违规出境用户信息案](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071806&idx=1&sn=44e4eaeac61fec01d5314cf50fda52c4)
+  - [【安全圈】TP-Link路由器曝高危漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071806&idx=2&sn=9da9a6fe06fc31226c5251aa5084ecce)
+  - [【安全圈】29款App侵害用户权益被通报](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071806&idx=3&sn=102d52624af84b801a83d19c30c81f98)
 - 慢雾科技
   - [慢雾(SlowMist)创始人余弦受邀港大分享：区块链安全攻防与实践](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247503359&idx=1&sn=25d9422f14485ed760389c21de28145c)
 - 极客公园
   - [iPhone 17 Pro 首日即现划痕；传 OpenAI 联手立讯做 AI 硬件；2025 年搞笑诺贝尔出炉 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653086893&idx=1&sn=09ad85d66d2bb5eab5d3b9c8a3132b27)
 - 漏洞战争
   - [软件测试顶会ISSTA 2025 论文清单与摘要（补遗）](https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486003&idx=1&sn=82d1280ff69952f09d94eb5f9ff2d59a)
-- 安全圈
-  - [【安全圈】公安部通报：上海某跨国公司违规出境用户信息案](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071806&idx=1&sn=44e4eaeac61fec01d5314cf50fda52c4)
-  - [【安全圈】TP-Link路由器曝高危漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071806&idx=2&sn=9da9a6fe06fc31226c5251aa5084ecce)
-  - [【安全圈】29款App侵害用户权益被通报](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071806&idx=3&sn=102d52624af84b801a83d19c30c81f98)
-- 威胁猎人Threat Hunter
-  - [浦发银行信用卡盗刷事件分析](https://mp.weixin.qq.com/s?__biz=MzI3NDY3NDUxNg==&mid=2247501631&idx=1&sn=f29acd519eda72bf23a30b3850265df2)
 - 山石网科安全技术研究院
   - [山石网科荣获国家信息安全漏洞库CNNVD多项荣誉](https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512732&idx=1&sn=fd414bbf394b51f4141e4313ba18fb28)
+- 威胁猎人Threat Hunter
+  - [浦发银行信用卡盗刷事件分析](https://mp.weixin.qq.com/s?__biz=MzI3NDY3NDUxNg==&mid=2247501631&idx=1&sn=f29acd519eda72bf23a30b3850265df2)
+- 迪哥讲事
+  - [我的2025年企业src挖洞之路分享](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498212&idx=1&sn=77aa77a29889354c9b1a805ff48ef66f)
 - Over Security - Cybersecurity news aggregator
   - [Populating our SSOT with Automation](https://www.adainese.it/blog/2024/07/10/populating-our-ssot-with-automation/)
   - [Leveraging Nautobot as a SSOT](https://www.adainese.it/blog/2024/07/10/leveraging-nautobot-as-a-ssot/)
@@ -108,8 +96,6 @@
   - [Collaborating with Git by working with remote repositories and forks](https://www.adainese.it/blog/2024/09/10/collaborating-with-git-by-working-with-remote-repositories-and-forks/)
   - [Lab modeling for UNetLab v3](https://www.adainese.it/blog/2024/09/13/lab-modeling-for-unetlab-v3/)
   - [Ansible statements](https://www.adainese.it/blog/2024/09/16/ansible-statements/)
-- 迪哥讲事
-  - [我的2025年企业src挖洞之路分享](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498212&idx=1&sn=77aa77a29889354c9b1a805ff48ef66f)
 - IT Service Management News
   - [Jaguar Land Rover ferma da un mese per un incidente di sicurezza IT](http://blog.cesaregallotti.it/2025/09/jaguar-land-rover-ferma-da-un-mese-per.html)
 - Active Directory & Azure AD/Entra ID Security
