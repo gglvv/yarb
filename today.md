@@ -1,55 +1,44 @@
 # 每日安全资讯（2025-09-21）
 
+- SecWiki News
+  - [SecWiki News 2025-09-20 Review](http://www.sec-wiki.com/?2025-09-20)
 - Taxodium
   - [日常#4 - 皮肤手术、酸汤牛肉、香菇鸡块、空洞骑士](https://taxodium.ink/nichijou-4.html)
   - [Blaugust 2025 Reflections #2](https://taxodium.ink/blaugust-2025-reflections-2.html)
-- SecWiki News
-  - [SecWiki News 2025-09-20 Review](http://www.sec-wiki.com/?2025-09-20)
-- Sucuri Blog
-  - [Understanding Spamhaus and Its Role in Email Security](https://blog.sucuri.net/2025/09/understanding-spamhaus-and-its-role-in-email-security.html)
 - Recent Commits to cve:main
   - [Update Sat Sep 20 11:39:41 UTC 2025](https://github.com/trickest/cve/commit/80b563193999053e2c121095ecd4280843f86852)
 - Sucuri Blog
   - [Understanding Spamhaus and Its Role in Email Security](https://blog.sucuri.net/2025/09/understanding-spamhaus-and-its-role-in-email-security.html)
+- Sucuri Blog
+  - [Understanding Spamhaus and Its Role in Email Security](https://blog.sucuri.net/2025/09/understanding-spamhaus-and-its-role-in-email-security.html)
 - 黑海洋 - Wiki
   - [免费体验Claude AI编程助手：AgentRouter中转服务使用指南](https://blog.upx8.com/4859)
+- 威努特安全网络
+  - [Salesforce攻击泄露15亿数据，美国风投公司遭勒索|一周特辑](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651135916&idx=1&sn=b5aa8cdac83fe2e42ec3475ca2e8a0bf)
+- 慢雾科技
+  - [慢雾(SlowMist)创始人余弦受邀港大分享：区块链安全攻防与实践](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247503359&idx=1&sn=25d9422f14485ed760389c21de28145c)
 - 奇客Solidot–传递最新科技情报
   - [小米将远程修复其 11 万辆 SU7 的辅助驾驶系统缺陷](https://www.solidot.org/story?sid=82370)
   - [美国要求 H-1B 签证申请支付 10 万美元](https://www.solidot.org/story?sid=82369)
+- 安全研究GoSSIP
+  - [G.O.S.S.I.P 2025年9月投稿指南](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247500743&idx=1&sn=5c7fdaadf93c984a9c4cc75e6f4243cb)
+- 漏洞战争
+  - [软件测试顶会ISSTA 2025 论文清单与摘要（补遗）](https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486003&idx=1&sn=82d1280ff69952f09d94eb5f9ff2d59a)
+- 极客公园
+  - [iPhone 17 Pro 首日即现划痕；传 OpenAI 联手立讯做 AI 硬件；2025 年搞笑诺贝尔出炉 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653086893&idx=1&sn=09ad85d66d2bb5eab5d3b9c8a3132b27)
 - 看雪学苑
   - [一款FakeApp相关病毒样本分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458600282&idx=1&sn=cfce52a9a9a33444373394a15d3a278a)
   - [成为看雪兼职讲师：用你的硬核实力圈粉，知识变现两不误！](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458600282&idx=2&sn=305f8062590ba0478b0a85219332cd89)
-- 威努特安全网络
-  - [Salesforce攻击泄露15亿数据，美国风投公司遭勒索|一周特辑](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651135916&idx=1&sn=b5aa8cdac83fe2e42ec3475ca2e8a0bf)
+- 威胁猎人Threat Hunter
+  - [浦发银行信用卡盗刷事件分析](https://mp.weixin.qq.com/s?__biz=MzI3NDY3NDUxNg==&mid=2247501631&idx=1&sn=f29acd519eda72bf23a30b3850265df2)
 - 安全圈
   - [【安全圈】公安部通报：上海某跨国公司违规出境用户信息案](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071806&idx=1&sn=44e4eaeac61fec01d5314cf50fda52c4)
   - [【安全圈】TP-Link路由器曝高危漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071806&idx=2&sn=9da9a6fe06fc31226c5251aa5084ecce)
   - [【安全圈】29款App侵害用户权益被通报](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071806&idx=3&sn=102d52624af84b801a83d19c30c81f98)
-- 慢雾科技
-  - [慢雾(SlowMist)创始人余弦受邀港大分享：区块链安全攻防与实践](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247503359&idx=1&sn=25d9422f14485ed760389c21de28145c)
-- 漏洞战争
-  - [软件测试顶会ISSTA 2025 论文清单与摘要（补遗）](https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486003&idx=1&sn=82d1280ff69952f09d94eb5f9ff2d59a)
-- 安全研究GoSSIP
-  - [G.O.S.S.I.P 2025年9月投稿指南](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247500743&idx=1&sn=5c7fdaadf93c984a9c4cc75e6f4243cb)
-- 山石网科安全技术研究院
-  - [山石网科荣获国家信息安全漏洞库CNNVD多项荣誉](https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512732&idx=1&sn=fd414bbf394b51f4141e4313ba18fb28)
-- 极客公园
-  - [iPhone 17 Pro 首日即现划痕；传 OpenAI 联手立讯做 AI 硬件；2025 年搞笑诺贝尔出炉 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653086893&idx=1&sn=09ad85d66d2bb5eab5d3b9c8a3132b27)
 - 迪哥讲事
   - [我的2025年企业src挖洞之路分享](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498212&idx=1&sn=77aa77a29889354c9b1a805ff48ef66f)
-- 威胁猎人Threat Hunter
-  - [浦发银行信用卡盗刷事件分析](https://mp.weixin.qq.com/s?__biz=MzI3NDY3NDUxNg==&mid=2247501631&idx=1&sn=f29acd519eda72bf23a30b3850265df2)
 - IT Service Management News
   - [Jaguar Land Rover ferma da un mese per un incidente di sicurezza IT](http://blog.cesaregallotti.it/2025/09/jaguar-land-rover-ferma-da-un-mese-per.html)
-- Active Directory & Azure AD/Entra ID Security
-  - [Active Directory Security Tip #7: The Tombstone Lifetime](https://adsecurity.org/?p=4600)
-- The Hacker News
-  - [LastPass Warns of Fake Repositories Infecting macOS with Atomic Infostealer](https://thehackernews.com/2025/09/lastpass-warns-of-fake-repositories.html)
-  - [Researchers Uncover GPT-4-Powered MalTerminal Malware Creating Ransomware, Reverse Shell](https://thehackernews.com/2025/09/researchers-uncover-gpt-4-powered.html)
-  - [ShadowLeak Zero-Click Flaw Leaks Gmail Data via OpenAI ChatGPT Deep Research Agent](https://thehackernews.com/2025/09/shadowleak-zero-click-flaw-leaks-gmail.html)
-- Security Affairs
-  - [A cyberattack on Collins Aerospace disrupted operations at major European airports](https://securityaffairs.com/182363/hacking/a-cyberattack-on-collins-aerospace-disrupted-operations-at-major-european-airports.html)
-  - [CISA warns of malware deployed through Ivanti EPMM flaws](https://securityaffairs.com/182350/malware/cisa-warns-of-malware-deployed-through-ivanti-epmm-flaws.html)
 - Over Security - Cybersecurity news aggregator
   - [Populating our SSOT with Automation](https://www.adainese.it/blog/2024/07/10/populating-our-ssot-with-automation/)
   - [Leveraging Nautobot as a SSOT](https://www.adainese.it/blog/2024/07/10/leveraging-nautobot-as-a-ssot/)
@@ -101,5 +90,16 @@
   - [Ansible statements](https://www.adainese.it/blog/2024/09/16/ansible-statements/)
   - [Advanced Git commands](https://www.adainese.it/blog/2024/09/19/advanced-git-commands/)
   - [Contributing to NTC Templates with Git and GitHub](https://www.adainese.it/blog/2024/09/25/contributing-to-ntc-templates-with-git-and-github/)
+- 山石网科安全技术研究院
+  - [山石网科荣获国家信息安全漏洞库CNNVD多项荣誉](https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512732&idx=1&sn=fd414bbf394b51f4141e4313ba18fb28)
 - Daniel Miessler
   - [Emad Mostaque on the End of Capitalism](https://danielmiessler.com/blog/emad-mostaque-on-the-end-of-capitalism?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- Active Directory & Azure AD/Entra ID Security
+  - [Active Directory Security Tip #7: The Tombstone Lifetime](https://adsecurity.org/?p=4600)
+- The Hacker News
+  - [LastPass Warns of Fake Repositories Infecting macOS with Atomic Infostealer](https://thehackernews.com/2025/09/lastpass-warns-of-fake-repositories.html)
+  - [Researchers Uncover GPT-4-Powered MalTerminal Malware Creating Ransomware, Reverse Shell](https://thehackernews.com/2025/09/researchers-uncover-gpt-4-powered.html)
+  - [ShadowLeak Zero-Click Flaw Leaks Gmail Data via OpenAI ChatGPT Deep Research Agent](https://thehackernews.com/2025/09/shadowleak-zero-click-flaw-leaks-gmail.html)
+- Security Affairs
+  - [A cyberattack on Collins Aerospace disrupted operations at major European airports](https://securityaffairs.com/182363/hacking/a-cyberattack-on-collins-aerospace-disrupted-operations-at-major-european-airports.html)
+  - [CISA warns of malware deployed through Ivanti EPMM flaws](https://securityaffairs.com/182350/malware/cisa-warns-of-malware-deployed-through-ivanti-epmm-flaws.html)
