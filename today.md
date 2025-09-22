@@ -1,26 +1,30 @@
 # 每日安全资讯（2025-09-22）
 
-- SecWiki News
-  - [SecWiki News 2025-09-21 Review](http://www.sec-wiki.com/?2025-09-21)
-- Jiajun的技术笔记
-  - [用 Siri 来控制虚拟机开启和关闭](https://jiajunhuang.com/articles/2025_09_21-siri_ssh.md.html)
-- Taxodium
-  - [Zine#42 - 写 Zine 的好处](https://taxodium.ink/42.html)
-  - [更新博客 License](https://taxodium.ink/blog-license-update.html)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [Commvault CLI Argument Injection / Traversal / Remote Code Execution](https://cxsecurity.com/issue/WLB-2025090011)
   - [aaPanel 7.x.x Remote Command Execution](https://cxsecurity.com/issue/WLB-2025090010)
   - [sacco-1.0-Multiple-SQLi](https://cxsecurity.com/issue/WLB-2025090009)
+- Taxodium
+  - [Zine#42 - 写 Zine 的好处](https://taxodium.ink/42.html)
+  - [更新博客 License](https://taxodium.ink/blog-license-update.html)
+- SecWiki News
+  - [SecWiki News 2025-09-21 Review](http://www.sec-wiki.com/?2025-09-21)
+- Jiajun的技术笔记
+  - [用 Siri 来控制虚拟机开启和关闭](https://jiajunhuang.com/articles/2025_09_21-siri_ssh.md.html)
 - Recent Commits to cve:main
   - [Update Sun Sep 21 12:00:04 UTC 2025](https://github.com/trickest/cve/commit/efa3227e5f3824d8a230a63a356adb8d84f2fc72)
-- HAHWUL
-  - [Beginner’s Guide: Creating Your First Ruby Project](https://www.hahwul.com/dev/ruby/noob-beginners-guide-in-ruby/)
-  - [Beginner’s Guide: Creating Your First Rust Project](https://www.hahwul.com/dev/rust/noob-beginners-guide-in-rust/)
-- HAHWUL
-  - [Beginner’s Guide: Creating Your First Ruby Project](https://www.hahwul.com/dev/ruby/noob-beginners-guide-in-ruby/)
-  - [Beginner’s Guide: Creating Your First Rust Project](https://www.hahwul.com/dev/rust/noob-beginners-guide-in-rust/)
 - Quarkslab's blog
   - [Security review of PHP documentation](http://blog.quarkslab.com/security-review-of-php-documentation.html)
+- HAHWUL
+  - [Beginner’s Guide: Creating Your First Ruby Project](https://www.hahwul.com/dev/ruby/noob-beginners-guide-in-ruby/)
+  - [Beginner’s Guide: Creating Your First Rust Project](https://www.hahwul.com/dev/rust/noob-beginners-guide-in-rust/)
+- HAHWUL
+  - [Beginner’s Guide: Creating Your First Ruby Project](https://www.hahwul.com/dev/ruby/noob-beginners-guide-in-ruby/)
+  - [Beginner’s Guide: Creating Your First Rust Project](https://www.hahwul.com/dev/rust/noob-beginners-guide-in-rust/)
+- 奇客Solidot–传递最新科技情报
+  - [地中海饮食与更低的牙龈疾病风险相关](https://www.solidot.org/story?sid=82375)
+  - [OpenAI 研究人员称 AI 幻觉在数学上是不可避免的](https://www.solidot.org/story?sid=82374)
+  - [搜狗输入法云控下发模块悄悄纂改 Edge 和 Chrome 配置](https://www.solidot.org/story?sid=82373)
 - HAHWUL
   - [Beginner’s Guide: Creating Your First Ruby Project](https://www.hahwul.com/dev/ruby/noob-beginners-guide-in-ruby/)
   - [Beginner’s Guide: Creating Your First Rust Project](https://www.hahwul.com/dev/rust/noob-beginners-guide-in-rust/)
@@ -28,35 +32,33 @@
   - [网络安全与待嫁的闺秀](https://mp.weixin.qq.com/s?__biz=MjM5NDQ5NjM5NQ==&mid=2651626441&idx=1&sn=ab2a83b9a8e4788c3baa129a66497e16)
 - 安全分析与研究
   - [银狐黑产反虚拟机高级样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493426&idx=1&sn=10729aa2bedfb37fb0bb0112cfa0d83b)
-- 威努特安全网络
-  - [赋能智慧医疗：威努特云桌面解决方案](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651135917&idx=1&sn=8bb8de532b9dd1a99a15cb935fef53a4)
-- 非尝咸鱼贩
-  - [去了一趟摩尔多瓦](https://mp.weixin.qq.com/s?__biz=Mzk0NDE3MTkzNQ==&mid=2247485579&idx=1&sn=f2804eb2900acb3ba45beb460771aff4)
+- 青衣十三楼飞花堂
+  - [办公厅工作常见的160个问题与114个失误事例](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488628&idx=1&sn=777cbec330b1166a7da57df1985e8a03)
 - 丁爸 情报分析师的工具箱
   - [【资料】瑞士安全研究中心将中国“红客”进行了细致梳理](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152135&idx=1&sn=8134fba90815ec21b9d9457bcdec2ebd)
   - [【资料】乌克兰的数字战争方式：志愿者、应用程序和情报共享平台](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152135&idx=2&sn=92fb5f864d852aa24542afca78070537)
+- dotNet安全矩阵
+  - [细说 .NET 内网8个阶段实战攻防电子报刊](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500646&idx=1&sn=249dd6ea5a714eeb6904271aa204e21b)
+  - [.NET 安全攻防知识交流社区](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500646&idx=2&sn=b91e5610b2340d74ac8685f2cb6d9f7b)
+  - [.NET内网实战： 通过LNK 文件实现目标权限持久化](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500646&idx=3&sn=fded949cc9b0f696ca9ea5957b6bc593)
 - 我的安全视界观
   - [SDL 96/100问：如何对软件项目的安全性进行度量？](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487290&idx=1&sn=dbca4a83b167fbb90c35b950b68dd09b)
+- 非尝咸鱼贩
+  - [去了一趟摩尔多瓦](https://mp.weixin.qq.com/s?__biz=Mzk0NDE3MTkzNQ==&mid=2247485579&idx=1&sn=f2804eb2900acb3ba45beb460771aff4)
+- 威努特安全网络
+  - [赋能智慧医疗：威努特云桌面解决方案](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651135917&idx=1&sn=8bb8de532b9dd1a99a15cb935fef53a4)
+- 极客公园
+  - [忘了法拉利，一辆中国车正在改写游戏规则](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653086923&idx=1&sn=5ca0338fb4abc86923022c12cfe70e94)
+  - [iPhone17卖爆，官网发货延至双11；比亚迪仰望U9赛道版开启预定；网友玩坏iPhone「舌头刷抖音」 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653086913&idx=1&sn=990058ffa6ff1fd0403bf463bfbe8860)
+- 安全圈
+  - [【安全圈】央视起底开盒挂人黑产：百万粉丝主播遭威胁，6 人半年“开盒”800 余人获刑](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071817&idx=1&sn=099d3505ec5ebe551c3ae95d57ac374a)
+  - [【安全圈】欧洲多座机场运营受阻，欧盟委会称网络攻击非“大规模”](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071817&idx=2&sn=1d9d058d2c93a32a1883dd429d8a2fec)
+  - [【安全圈】俄客流量第二大机场网站遭黑客侵入](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071817&idx=3&sn=d0e8bd7f61c4f7a4c2d40142b19d09c1)
 - 中国信息安全
   - [邬江兴院士 | 破击美欧网络弹性铁幕——基于自主知识技术体系的数字生态系统底层驱动范式变革](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664249810&idx=1&sn=d65573fa886a33b6459ae0c4f0613592)
   - [国家安全部：警惕非法转播的境外反宣音视频](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664249810&idx=2&sn=0b73b514832cf5b9d9d4a6a8af4f8656)
   - [聚焦 | 第八届“一带一路”园区建设国际合作会议暨第二次网络安全国际合作专题论坛在京成功举办](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664249810&idx=3&sn=4e8f72748631bb9aff2a3c8b2c3b24b7)
   - [关注 | 网信部门依法查处微博平台、快手平台破坏网络生态案件](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664249810&idx=4&sn=f91b31714b0452d25305c6107f4e58e7)
-- 青衣十三楼飞花堂
-  - [办公厅工作常见的160个问题与114个失误事例](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488628&idx=1&sn=777cbec330b1166a7da57df1985e8a03)
-- 极客公园
-  - [忘了法拉利，一辆中国车正在改写游戏规则](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653086923&idx=1&sn=5ca0338fb4abc86923022c12cfe70e94)
-  - [iPhone17卖爆，官网发货延至双11；比亚迪仰望U9赛道版开启预定；网友玩坏iPhone「舌头刷抖音」 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653086913&idx=1&sn=990058ffa6ff1fd0403bf463bfbe8860)
-- dotNet安全矩阵
-  - [细说 .NET 内网8个阶段实战攻防电子报刊](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500646&idx=1&sn=249dd6ea5a714eeb6904271aa204e21b)
-  - [.NET 安全攻防知识交流社区](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500646&idx=2&sn=b91e5610b2340d74ac8685f2cb6d9f7b)
-  - [.NET内网实战： 通过LNK 文件实现目标权限持久化](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500646&idx=3&sn=fded949cc9b0f696ca9ea5957b6bc593)
-- 安全圈
-  - [【安全圈】央视起底开盒挂人黑产：百万粉丝主播遭威胁，6 人半年“开盒”800 余人获刑](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071817&idx=1&sn=099d3505ec5ebe551c3ae95d57ac374a)
-  - [【安全圈】欧洲多座机场运营受阻，欧盟委会称网络攻击非“大规模”](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071817&idx=2&sn=1d9d058d2c93a32a1883dd429d8a2fec)
-  - [【安全圈】俄客流量第二大机场网站遭黑客侵入](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071817&idx=3&sn=d0e8bd7f61c4f7a4c2d40142b19d09c1)
-- 迪哥讲事
-  - [某系统RCE漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498218&idx=1&sn=77b833f75365452424ef9f2b8b5a95a2)
 - Over Security - Cybersecurity news aggregator
   - [Microsoft Entra ID flaw allowed hijacking any company's tenant](https://www.bleepingcomputer.com/news/security/microsoft-entra-id-flaw-allowed-hijacking-any-companys-tenant/)
   - [MyHidden/HiddenApp è davvero sicura?](https://www.ihteam.net/hacking-news/myhidden-hiddenapp-e-sicura-o-truffa/)
@@ -65,10 +67,12 @@
   - [Animeify - 808,034 breached accounts](https://haveibeenpwned.com/Breach/Animeify)
 - Have I Been Pwned latest breaches
   - [Animeify - 808,034 breached accounts](https://haveibeenpwned.com/Breach/Animeify)
-- Troy Hunt's Blog
-  - [Weekly Update 470](https://www.troyhunt.com/weekly-update-470/)
+- 迪哥讲事
+  - [某系统RCE漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498218&idx=1&sn=77b833f75365452424ef9f2b8b5a95a2)
 - SANS Internet Storm Center, InfoCON: green
   - [Help Wanted: What are these odd reuqests about&#x3f;, (Sun, Sep 21st)](https://isc.sans.edu/diary/rss/32302)
+- Troy Hunt's Blog
+  - [Weekly Update 470](https://www.troyhunt.com/weekly-update-470/)
 - Active Directory & Azure AD/Entra ID Security
   - [Active Directory Security Tip #8: The Domain Kerberos Service Account – KRBTGT](https://adsecurity.org/?p=4597)
 - Security Affairs
