@@ -4,30 +4,36 @@
   - [Commvault CLI Argument Injection / Traversal / Remote Code Execution](https://cxsecurity.com/issue/WLB-2025090011)
   - [aaPanel 7.x.x Remote Command Execution](https://cxsecurity.com/issue/WLB-2025090010)
   - [sacco-1.0-Multiple-SQLi](https://cxsecurity.com/issue/WLB-2025090009)
-- SecWiki News
-  - [SecWiki News 2025-09-21 Review](http://www.sec-wiki.com/?2025-09-21)
 - Jiajun的技术笔记
   - [用 Siri 来控制虚拟机开启和关闭](https://jiajunhuang.com/articles/2025_09_21-siri_ssh.md.html)
+- Recent Commits to cve:main
+  - [Update Sun Sep 21 12:00:04 UTC 2025](https://github.com/trickest/cve/commit/efa3227e5f3824d8a230a63a356adb8d84f2fc72)
 - Taxodium
   - [Zine#42 - 写 Zine 的好处](https://taxodium.ink/42.html)
   - [更新博客 License](https://taxodium.ink/blog-license-update.html)
-- Recent Commits to cve:main
-  - [Update Sun Sep 21 12:00:04 UTC 2025](https://github.com/trickest/cve/commit/efa3227e5f3824d8a230a63a356adb8d84f2fc72)
+- SecWiki News
+  - [SecWiki News 2025-09-21 Review](http://www.sec-wiki.com/?2025-09-21)
 - HAHWUL
   - [Beginner’s Guide: Creating Your First Ruby Project](https://www.hahwul.com/dev/ruby/noob-beginners-guide-in-ruby/)
   - [Beginner’s Guide: Creating Your First Rust Project](https://www.hahwul.com/dev/rust/noob-beginners-guide-in-rust/)
 - HAHWUL
   - [Beginner’s Guide: Creating Your First Ruby Project](https://www.hahwul.com/dev/ruby/noob-beginners-guide-in-ruby/)
   - [Beginner’s Guide: Creating Your First Rust Project](https://www.hahwul.com/dev/rust/noob-beginners-guide-in-rust/)
-- HAHWUL
-  - [Beginner’s Guide: Creating Your First Ruby Project](https://www.hahwul.com/dev/ruby/noob-beginners-guide-in-ruby/)
-  - [Beginner’s Guide: Creating Your First Rust Project](https://www.hahwul.com/dev/rust/noob-beginners-guide-in-rust/)
+- 奇客Solidot–传递最新科技情报
+  - [地中海饮食与更低的牙龈疾病风险相关](https://www.solidot.org/story?sid=82375)
+  - [OpenAI 研究人员称 AI 幻觉在数学上是不可避免的](https://www.solidot.org/story?sid=82374)
+  - [搜狗输入法云控下发模块悄悄纂改 Edge 和 Chrome 配置](https://www.solidot.org/story?sid=82373)
 - 赵武的自留地
   - [网络安全与待嫁的闺秀](https://mp.weixin.qq.com/s?__biz=MjM5NDQ5NjM5NQ==&mid=2651626441&idx=1&sn=ab2a83b9a8e4788c3baa129a66497e16)
-- 我的安全视界观
-  - [SDL 96/100问：如何对软件项目的安全性进行度量？](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487290&idx=1&sn=dbca4a83b167fbb90c35b950b68dd09b)
+- HAHWUL
+  - [Beginner’s Guide: Creating Your First Ruby Project](https://www.hahwul.com/dev/ruby/noob-beginners-guide-in-ruby/)
+  - [Beginner’s Guide: Creating Your First Rust Project](https://www.hahwul.com/dev/rust/noob-beginners-guide-in-rust/)
 - 青衣十三楼飞花堂
   - [办公厅工作常见的160个问题与114个失误事例](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488628&idx=1&sn=777cbec330b1166a7da57df1985e8a03)
+- 我的安全视界观
+  - [SDL 96/100问：如何对软件项目的安全性进行度量？](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487290&idx=1&sn=dbca4a83b167fbb90c35b950b68dd09b)
+- 威努特安全网络
+  - [赋能智慧医疗：威努特云桌面解决方案](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651135917&idx=1&sn=8bb8de532b9dd1a99a15cb935fef53a4)
 - 丁爸 情报分析师的工具箱
   - [【资料】瑞士安全研究中心将中国“红客”进行了细致梳理](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152135&idx=1&sn=8134fba90815ec21b9d9457bcdec2ebd)
   - [【资料】乌克兰的数字战争方式：志愿者、应用程序和情报共享平台](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152135&idx=2&sn=92fb5f864d852aa24542afca78070537)
@@ -35,8 +41,6 @@
   - [细说 .NET 内网8个阶段实战攻防电子报刊](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500646&idx=1&sn=249dd6ea5a714eeb6904271aa204e21b)
   - [.NET 安全攻防知识交流社区](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500646&idx=2&sn=b91e5610b2340d74ac8685f2cb6d9f7b)
   - [.NET内网实战： 通过LNK 文件实现目标权限持久化](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500646&idx=3&sn=fded949cc9b0f696ca9ea5957b6bc593)
-- 威努特安全网络
-  - [赋能智慧医疗：威努特云桌面解决方案](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651135917&idx=1&sn=8bb8de532b9dd1a99a15cb935fef53a4)
 - 中国信息安全
   - [邬江兴院士 | 破击美欧网络弹性铁幕——基于自主知识技术体系的数字生态系统底层驱动范式变革](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664249810&idx=1&sn=d65573fa886a33b6459ae0c4f0613592)
   - [国家安全部：警惕非法转播的境外反宣音视频](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664249810&idx=2&sn=0b73b514832cf5b9d9d4a6a8af4f8656)
@@ -57,17 +61,17 @@
   - [Guerre di Rete - L'inganno dell'automa](https://guerredirete.substack.com/p/guerre-di-rete-linganno-dellautoma)
   - [Retrieving firewall interfaces with Strata Cloud Manager](https://www.adainese.it/blog/2025/09/21/retrieving-firewall-interfaces-with-strata-cloud-manager/)
   - [Animeify - 808,034 breached accounts](https://haveibeenpwned.com/Breach/Animeify)
+- Troy Hunt's Blog
+  - [Weekly Update 470](https://www.troyhunt.com/weekly-update-470/)
 - Have I Been Pwned latest breaches
   - [Animeify - 808,034 breached accounts](https://haveibeenpwned.com/Breach/Animeify)
 - SANS Internet Storm Center, InfoCON: green
   - [Help Wanted: What are these odd reuqests about&#x3f;, (Sun, Sep 21st)](https://isc.sans.edu/diary/rss/32302)
-- Troy Hunt's Blog
-  - [Weekly Update 470](https://www.troyhunt.com/weekly-update-470/)
-- Active Directory & Azure AD/Entra ID Security
-  - [Active Directory Security Tip #8: The Domain Kerberos Service Account – KRBTGT](https://adsecurity.org/?p=4597)
-- The Hacker News
-  - [DPRK Hackers Use ClickFix to Deliver BeaverTail Malware in Crypto Job Scams](https://thehackernews.com/2025/09/dprk-hackers-use-clickfix-to-deliver.html)
 - Security Affairs
   - [ESET uncovers Gamaredon–Turla collaboration in Ukraine cyberattacks](https://securityaffairs.com/182404/apt/eset-uncovers-gamaredon-turla-collaboration-in-ukraine-cyberattacks.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 63](https://securityaffairs.com/182398/malware/security-affairs-malware-newsletter-round-63.html)
   - [Security Affairs newsletter Round 542 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/182390/breaking-news/security-affairs-newsletter-round-542-by-pierluigi-paganini-international-edition.html)
+- The Hacker News
+  - [DPRK Hackers Use ClickFix to Deliver BeaverTail Malware in Crypto Job Scams](https://thehackernews.com/2025/09/dprk-hackers-use-clickfix-to-deliver.html)
+- Active Directory & Azure AD/Entra ID Security
+  - [Active Directory Security Tip #8: The Domain Kerberos Service Account – KRBTGT](https://adsecurity.org/?p=4597)
