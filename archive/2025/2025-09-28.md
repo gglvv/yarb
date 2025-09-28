@@ -1,38 +1,38 @@
 # 每日安全资讯（2025-09-28）
 
-- Recent Commits to cve:main
-  - [Update Sat Sep 27 11:27:23 UTC 2025](https://github.com/trickest/cve/commit/9f719759d50a3e4acbfc1aa3d4caa4c4633a9e2a)
+- SecWiki News
+  - [SecWiki News 2025-09-27 Review](http://www.sec-wiki.com/?2025-09-27)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [FVGFL - Cross Site Scripting Vulnerability (XSS)](https://cxsecurity.com/issue/WLB-2025090013)
   - [MatterMost information disclosure](https://cxsecurity.com/issue/WLB-2025090012)
 - Der Flounder
   - [Managing SkipSetupItems settings in management profiles on macOS](https://derflounder.wordpress.com/2025/09/27/managing-skipsetupitems-settings-in-management-profiles-on-macos/)
-- 先知安全技术社区
-  - [WIZ竞标赛 Perimeter Leak wp](https://xz.aliyun.com/news/19058)
-  - [深入SleepObfs的检测与绕过](https://xz.aliyun.com/news/19057)
-  - [C2通信协议解析（一）：HTTP(s)、mTLS、WebSocket、DNS](https://xz.aliyun.com/news/19054)
-  - [PowerJob IDOR 0Day 挖掘](https://xz.aliyun.com/news/19053)
-  - [Cobalt Strike内存加载.NET程序集功能原理分析并重构](https://xz.aliyun.com/news/19052)
-  - [2025黄鹤杯网络安全人才创新大赛 江城校园新星赛道 wp](https://xz.aliyun.com/news/19051)
-  - [通过某钓鱼文件样本分析获取到白加黑免杀思路](https://xz.aliyun.com/news/19050)
-  - [U8cloud 所有版本 NCCloudGatewayServlet 远程命令执行和任意文件上传（基于该漏洞的变种）](https://xz.aliyun.com/news/19048)
-  - [记一次windows对抗的病毒分析](https://xz.aliyun.com/news/19047)
-- SecWiki News
-  - [SecWiki News 2025-09-27 Review](http://www.sec-wiki.com/?2025-09-27)
-- 先知安全技术社区
-  - [WIZ竞标赛 Perimeter Leak wp](https://xz.aliyun.com/news/19058)
-  - [深入SleepObfs的检测与绕过](https://xz.aliyun.com/news/19057)
-  - [C2通信协议解析（一）：HTTP(s)、mTLS、WebSocket、DNS](https://xz.aliyun.com/news/19054)
-  - [PowerJob IDOR 0Day 挖掘](https://xz.aliyun.com/news/19053)
-  - [Cobalt Strike内存加载.NET程序集功能原理分析并重构](https://xz.aliyun.com/news/19052)
-  - [2025黄鹤杯网络安全人才创新大赛 江城校园新星赛道 wp](https://xz.aliyun.com/news/19051)
-  - [通过某钓鱼文件样本分析获取到白加黑免杀思路](https://xz.aliyun.com/news/19050)
-  - [U8cloud 所有版本 NCCloudGatewayServlet 远程命令执行和任意文件上传（基于该漏洞的变种）](https://xz.aliyun.com/news/19048)
-  - [记一次windows对抗的病毒分析](https://xz.aliyun.com/news/19047)
 - InfoSec Write-ups - Medium
   - [[THM] Gallery — Writeup](https://infosecwriteups.com/thm-gallery-writeup-3a5d7d607646?source=rss----7b722bfd1b8d---4)
   - [19. Finding Open Redirects with Ease](https://infosecwriteups.com/19-finding-open-redirects-with-ease-0cc59a41702c?source=rss----7b722bfd1b8d---4)
   - [Linux Threat Detection 1](https://infosecwriteups.com/linux-threat-detection-1-51791ba290e4?source=rss----7b722bfd1b8d---4)
+- Recent Commits to cve:main
+  - [Update Sat Sep 27 11:27:23 UTC 2025](https://github.com/trickest/cve/commit/9f719759d50a3e4acbfc1aa3d4caa4c4633a9e2a)
+- 先知安全技术社区
+  - [WIZ竞标赛 Perimeter Leak wp](https://xz.aliyun.com/news/19058)
+  - [深入SleepObfs的检测与绕过](https://xz.aliyun.com/news/19057)
+  - [C2通信协议解析（一）：HTTP(s)、mTLS、WebSocket、DNS](https://xz.aliyun.com/news/19054)
+  - [PowerJob IDOR 0Day 挖掘](https://xz.aliyun.com/news/19053)
+  - [Cobalt Strike内存加载.NET程序集功能原理分析并重构](https://xz.aliyun.com/news/19052)
+  - [2025黄鹤杯网络安全人才创新大赛 江城校园新星赛道 wp](https://xz.aliyun.com/news/19051)
+  - [通过某钓鱼文件样本分析获取到白加黑免杀思路](https://xz.aliyun.com/news/19050)
+  - [U8cloud 所有版本 NCCloudGatewayServlet 远程命令执行和任意文件上传（基于该漏洞的变种）](https://xz.aliyun.com/news/19048)
+  - [记一次windows对抗的病毒分析](https://xz.aliyun.com/news/19047)
+- 先知安全技术社区
+  - [WIZ竞标赛 Perimeter Leak wp](https://xz.aliyun.com/news/19058)
+  - [深入SleepObfs的检测与绕过](https://xz.aliyun.com/news/19057)
+  - [C2通信协议解析（一）：HTTP(s)、mTLS、WebSocket、DNS](https://xz.aliyun.com/news/19054)
+  - [PowerJob IDOR 0Day 挖掘](https://xz.aliyun.com/news/19053)
+  - [Cobalt Strike内存加载.NET程序集功能原理分析并重构](https://xz.aliyun.com/news/19052)
+  - [2025黄鹤杯网络安全人才创新大赛 江城校园新星赛道 wp](https://xz.aliyun.com/news/19051)
+  - [通过某钓鱼文件样本分析获取到白加黑免杀思路](https://xz.aliyun.com/news/19050)
+  - [U8cloud 所有版本 NCCloudGatewayServlet 远程命令执行和任意文件上传（基于该漏洞的变种）](https://xz.aliyun.com/news/19048)
+  - [记一次windows对抗的病毒分析](https://xz.aliyun.com/news/19047)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [19. Finding Open Redirects with Ease](https://infosecwriteups.com/19-finding-open-redirects-with-ease-0cc59a41702c?source=rss----7b722bfd1b8d--bug_bounty)
   - [A Simple Explanation of a Complex 2FA Bypass Technique](https://infosecwriteups.com/a-simple-explanation-of-a-complex-2fa-bypass-technique-de8b1db064a0?source=rss----7b722bfd1b8d--bug_bounty)
@@ -44,51 +44,52 @@
   - [亚马逊 kindle 竭尽所能打击电子书盗版](https://www.solidot.org/story?sid=82433)
 - 我的安全视界观
   - [SDL 99/100问：如何进行软件安全需求分析？](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487352&idx=1&sn=6eaaf9bff848eba686b438ee6a785d02)
-- 天黑说嘿话
-  - [Nginx日志审计小模型(开源)](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484661&idx=1&sn=fdf4c71832b2a7cbacfdc064f6c6d744)
 - 威努特安全网络
   - [能源行业数据安全新规将出台，企业合规重点全解析](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651136155&idx=1&sn=27b6d5af275a3fa950fcca9dd24487da)
   - [勒索软件攻击欧洲多国机场，国际汽车制造巨头数据泄露|一周特辑](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651136154&idx=1&sn=feae6b990fc368d64f71669c09df2afd)
+- 安全分析与研究
+  - [国庆节前某红队钓鱼样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493470&idx=1&sn=e365ca53959f5fdf0008337b74789c3b)
+- 天黑说嘿话
+  - [Nginx日志审计小模型(开源)](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484661&idx=1&sn=fdf4c71832b2a7cbacfdc064f6c6d744)
+- 看雪学苑
+  - [Nepctf2025 PWN部分题解](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601199&idx=1&sn=a41a1950f6a6a4d52a170a29a6671cfa)
+  - [应对量子计算威胁！格尔软件官网已启用抗量子密码技术](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601199&idx=2&sn=383d55bcfee2d7c96d71a1811163fbca)
 - 安全圈
   - [【安全圈】XCSSET 新变种：专攻苹果 Mac 开发者，窃取加密货币钱包！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071914&idx=1&sn=d353548f324e5cf7a32afe5fc67542eb)
   - [【安全圈】曝一加氧 OS 12 - 15 系统存严重漏洞，10 月中旬修复](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071914&idx=2&sn=86d304cc99574054f117c3198c848b5d)
   - [【安全圈】22 岁主谋落网！00 后黑客组建的 DDoS 僵尸网络帝国 RapperBot 被彻底取缔](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071914&idx=3&sn=d4225f84fddd6c697df15393310f4425)
-- 安全分析与研究
-  - [国庆节前某红队钓鱼样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493470&idx=1&sn=e365ca53959f5fdf0008337b74789c3b)
+- 青衣十三楼飞花堂
+  - [《云南省博物馆的来历》-- 秦基伟](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488646&idx=1&sn=a7381b7abad3d0358acc9507e44377d8)
+  - [《追随麾下四十年(节录)》-- 张爱萍](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488642&idx=1&sn=42ba3b45f7258482b37fde7cb7b3f257)
+- 安全学术圈
+  - [2025年ACM China杰出学者讲坛——贾焰](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493825&idx=1&sn=dc2d80588f76da7ae510610963702d47)
+  - [2025年ACM China杰出学者讲坛——徐恪](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493825&idx=2&sn=ea924496c191b146ffde8a3d596056c3)
 - 极客公园
   - [24.98 万的理想 i6，在特斯拉、小米、蔚来「后院」放了一把火](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653087475&idx=1&sn=65e1ae2ac331cb598f897e200ba75919)
   - [自动驾驶进入大模型时代，主机厂寻找「联合创始人」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653087466&idx=1&sn=c43517e9d6146e08d281cafc35a18930)
   - [苹果官方旗舰店也放假，商品不发货；腾讯推「老年打车」服务；车主酒驾，智能驾驶「报警」｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653087464&idx=1&sn=150ce38d70a714f1df66656c7335995a)
-- 看雪学苑
-  - [Nepctf2025 PWN部分题解](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601199&idx=1&sn=a41a1950f6a6a4d52a170a29a6671cfa)
-  - [应对量子计算威胁！格尔软件官网已启用抗量子密码技术](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601199&idx=2&sn=383d55bcfee2d7c96d71a1811163fbca)
+- bellingcat
+  - [Australian Cocaine Pilot Killed in Brazil Plane Crash Linked to Kinahan Drug Cartel](https://www.bellingcat.com/news/2025/09/27/australian-cocaine-pilot-killed-in-brazil-plane-crash-linked-to-kinahan-drug-cartel/)
 - Over Security - Cybersecurity news aggregator
   - [Dutch teens arrested for trying to spy on Europol for Russia](https://www.bleepingcomputer.com/news/security/dutch-teens-arrested-for-trying-to-spy-on-europol-for-russia/)
   - [Fake Microsoft Teams installers push Oyster malware via malvertising](https://www.bleepingcomputer.com/news/security/fake-microsoft-teams-installers-push-oyster-malware-via-malvertising/)
   - [Windows 10, Microsoft cambia idea: in Europa aggiornamenti gratuiti fino a ottobre 2026](https://www.cybersecurity360.it/soluzioni-aziendali/windows-10-microsoft-cambia-idea-in-europa-aggiornamenti-gratuiti-fino-a-ottobre-2026/)
   - [Beaumont Bone & Joint Institute Targeted by PEAR: Large-Scale Sensitive Data Breach](https://www.suspectfile.com/beaumont-bone-joint-institute-targeted-by-pear-large-scale-sensitive-data-breach/)
-- 青衣十三楼飞花堂
-  - [《云南省博物馆的来历》-- 秦基伟](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488646&idx=1&sn=a7381b7abad3d0358acc9507e44377d8)
-  - [《追随麾下四十年(节录)》-- 张爱萍](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488642&idx=1&sn=42ba3b45f7258482b37fde7cb7b3f257)
+- 迪哥讲事
+  - [绕过WAF：追踪源站IP与SQL注入的艺术](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498320&idx=1&sn=aaac6c6ee63bcbdb412334398f8ded90)
 - Chaos Computer Club - last 100 events feed
+  - [Make your personal website, it's easy! (quellcode25)](https://cdn.media.ccc.de/events/quellcode/2025/h264-hd/quellcode2-6-eng-Make_your_personal_website_its_easy_hd.mp4)
+  - [How to Quellcode (quellcode25)](https://cdn.media.ccc.de/events/quellcode/2025/h264-hd/quellcode2-8-deu-How_to_Quellcode_hd.mp4)
   - [Lightning talks (quellcode25)](https://cdn.media.ccc.de/events/quellcode/2025/h264-hd/quellcode2-24-eng-Lightning_talks_hd.mp4)
   - [Siemens Systemtelefon hacken for fun and giggles (quellcode25)](https://cdn.media.ccc.de/events/quellcode/2025/h264-hd/quellcode2-18-deu-Siemens_Systemtelefon_hacken_for_fun_and_giggles_hd.mp4)
-  - [Make your personal website, it's easy! (quellcode25)](https://cdn.media.ccc.de/events/quellcode/2025/h264-hd/quellcode2-6-eng-Make_your_personal_website_its_easy_hd.mp4)
 - Troy Hunt's Blog
   - [Weekly Update 471](https://www.troyhunt.com/weekly-update-471/)
 - IT Service Management News
   - [Check list per il Codice di condotta privacy per il software gestionale](http://blog.cesaregallotti.it/2025/09/check-list-per-il-codice-di-condotta.html)
-- bellingcat
-  - [Australian Cocaine Pilot Killed in Brazil Plane Crash Linked to Kinahan Drug Cartel](https://www.bellingcat.com/news/2025/09/27/australian-cocaine-pilot-killed-in-brazil-plane-crash-linked-to-kinahan-drug-cartel/)
-- 迪哥讲事
-  - [绕过WAF：追踪源站IP与SQL注入的艺术](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498320&idx=1&sn=aaac6c6ee63bcbdb412334398f8ded90)
+- The Hacker News
+  - [China-Linked PlugX and Bookworm Malware Attacks Target Asian Telecom and ASEAN Networks](https://thehackernews.com/2025/09/china-linked-plugx-and-bookworm-malware.html)
 - Security Affairs
   - [Ohio’s Union County suffers ransomware attack impacting 45,000 people](https://securityaffairs.com/182689/uncategorized/ohios-union-county-suffers-ransomware-attack-impacting-45000-people.html)
   - [ForcedLeak flaw in Salesforce Agentforce exposes CRM data via Prompt Injection](https://securityaffairs.com/182676/hacking/forcedleak-flaw-in-salesforce-agentforce-exposes-crm-data-via-prompt-injection.html)
-- The Hacker News
-  - [China-Linked PlugX and Bookworm Malware Attacks Target Asian Telecom and ASEAN Networks](https://thehackernews.com/2025/09/china-linked-plugx-and-bookworm-malware.html)
-- 安全学术圈
-  - [2025年ACM China杰出学者讲坛——贾焰](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493825&idx=1&sn=dc2d80588f76da7ae510610963702d47)
-  - [2025年ACM China杰出学者讲坛——徐恪](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493825&idx=2&sn=ea924496c191b146ffde8a3d596056c3)
 - 网安寻路人
   - [世行《全球数据市场监管框架评估》（报告编译）](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247507774&idx=1&sn=c1ac461cbed560723a9ce54ecdaa6911)
