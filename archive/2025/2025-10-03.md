@@ -1,21 +1,21 @@
 # 每日安全资讯（2025-10-03）
 
-- SecWiki News
-  - [SecWiki News 2025-10-02 Review](http://www.sec-wiki.com/?2025-10-02)
 - Trustwave Blog
   - [LevelBlue Managed WAAP Enables Organizations to Solve Day 1 WAAP Implementation Challenges](https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/levelblue-managed-waap-enables-organizations-to-solve-day-1-waap-implementation-challenges/)
-- Recent Commits to cve:main
-  - [Update Thu Oct  2 11:35:31 UTC 2025](https://github.com/trickest/cve/commit/f770062b5bbff95a9433e45502131a02da1a4973)
+- SecWiki News
+  - [SecWiki News 2025-10-02 Review](http://www.sec-wiki.com/?2025-10-02)
 - Tenable Blog
   - [The Buy Vs. Build Dilemma: Pitfalls of the DIY Approach to Exposure Management](https://www.tenable.com/blog/the-buy-vs-build-dilemma-pitfalls-of-the-diy-approach-to-exposure-management)
+- Recent Commits to cve:main
+  - [Update Thu Oct  2 11:35:31 UTC 2025](https://github.com/trickest/cve/commit/f770062b5bbff95a9433e45502131a02da1a4973)
 - Jiajun的技术笔记
   - [TiDB 源码阅读（二）：MySQL协议概览](https://jiajunhuang.com/articles/2025_10_02-tidb_source_code_mysql_protocol.md.html)
-- Microsoft Security Blog
-  - [Microsoft named a Leader in the IDC MarketScape for XDR](https://www.microsoft.com/en-us/security/blog/2025/10/02/microsoft-named-a-leader-in-the-idc-marketscape-for-xdr/)
-- Insinuator.net
-  - [Release of ERNW White Paper 73: Analyzing WinpMem Driver Vulnerabilities](https://insinuator.net/2025/10/white-paper-73-analyzing-winpmem-driver-vulnerabilities/)
 - Cerbero Blog
   - [Memory Challenge 1: Reveal](https://blog.cerbero.io/memory-challenge-1-reveal/)
+- Insinuator.net
+  - [Release of ERNW White Paper 73: Analyzing WinpMem Driver Vulnerabilities](https://insinuator.net/2025/10/white-paper-73-analyzing-winpmem-driver-vulnerabilities/)
+- Microsoft Security Blog
+  - [Microsoft named a Leader in the IDC MarketScape for XDR](https://www.microsoft.com/en-us/security/blog/2025/10/02/microsoft-named-a-leader-in-the-idc-marketscape-for-xdr/)
 - Blog – Red Siege Information Security
   - [Red Siege at Wild West Hackin’ Fest 2025: What to Expect](https://redsiege.com/blog/2025/10/red-siege-at-wild-west-hackin-fest-2025-what-to-expect/)
 - Didier Stevens
@@ -26,10 +26,10 @@
   - [Your Meta AI conversations may come back as ads in your feed](https://www.malwarebytes.com/blog/news/2025/10/your-meta-ai-conversations-may-come-back-as-ads-in-your-feed)
   - [Scam Facebook groups send malicious Android malware to seniors](https://www.malwarebytes.com/blog/news/2025/10/scam-facebook-groups-send-malicious-android-malware-to-seniors)
   - [Sendit tricked kids, harvested their data, and faked messages, FTC claims](https://www.malwarebytes.com/blog/news/2025/10/sendit-app-tricked-kids-harvested-their-data-and-faked-messages-ftc-claims)
-- bishopfox.com
-  - [How a $20 Smart Device Gave Me Access to Your Home](https://bishopfox.com/blog/how-a-20-smart-device-gave-me-access-to-your-home)
 - Wallarm
   - [API Attack Awareness: Broken Object Level Authorization (BOLA) – Why It Tops the OWASP API Top 10](https://lab.wallarm.com/api-attack-awareness-broken-object-level-authorization-bola-why-it-tops-the-owasp-api-top-10/)
+- bishopfox.com
+  - [How a $20 Smart Device Gave Me Access to Your Home](https://bishopfox.com/blog/how-a-20-smart-device-gave-me-access-to-your-home)
 - rtl-sdr.com
   - [DSG-22.6 GHz: An Open Source 300 MHz to 22.6 GHz Signal Generator](https://www.rtl-sdr.com/dsg-22-6-ghz-an-open-source-300-mhz-to-22-6-ghz-signal-generator/)
 - 奇客Solidot–传递最新科技情报
@@ -39,18 +39,19 @@
   - [千禧一代癌症发病率在上升](https://www.solidot.org/story?sid=82468)
   - [城市空气检测出致病性酵母菌株](https://www.solidot.org/story?sid=82467)
   - [珍·古道尔去世，享年 91 岁](https://www.solidot.org/story?sid=82466)
-- 黑鸟
-  - [发现新的攻击阿联酋用户的间谍软件们](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182865&idx=1&sn=3e74aff4ea5576ac1e5479f435259ea2)
 - 安全分析与研究
   - [利用Telegram等安装程序传播银狐最新攻击样本](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493516&idx=1&sn=71e74fa2475a90a2436277224b81679e)
+- 黑鸟
+  - [发现新的攻击阿联酋用户的间谍软件们](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182865&idx=1&sn=3e74aff4ea5576ac1e5479f435259ea2)
 - 看雪学苑
   - [写一个简单的VMP-不造轮子，何以知轮之精髓？](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601621&idx=1&sn=26567a67b339c86f7cfafe8985af0daf)
   - [《进阶逆向工程实战》：解锁逆向技术的全链路实战能力](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601621&idx=2&sn=23a3a8dec41c01b2307385e4e019597a)
 - 青衣十三楼飞花堂
   - [《不尽的思念》《我们的周总理》](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488668&idx=1&sn=fa91574ce60938a07c4db0f07982d23b)
   - [cby与scz的一次对话](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488664&idx=1&sn=559fe4d23958ab4f2e98784f2bf6199a)
-- 丁爸 情报分析师的工具箱
-  - [【资料】蛙军将如何应对我军的两栖登陆作战？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152203&idx=1&sn=8097f8514f1578c318c4254ccda78cc5)
+- 极客公园
+  - [OpenAI 卖货做视频，Anthropic 专心写代码，谁能赢？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653087852&idx=1&sn=2796eeb8bb328151aa8145ecc1509728)
+  - [历史首位，马斯克身家突破 5000 亿美元；王腾注销、清空多个社媒账号；美国演员工会抵制 AI 演员 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653087865&idx=1&sn=d59fc2f4c7945ea2ff8600b258d7cb29)
 - 安全圈
   - [【安全圈】OpenAI 正在测试敏感话题安全路由机制，或在极端情况下报警](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072005&idx=1&sn=64ad60f0f4b103ce40f8813ff92b2362)
   - [【安全圈】Red Hat 疑遭重大数据泄露：黑客声称窃取 28,000 私有仓库](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072005&idx=2&sn=ea171ac0706e3472fa75ae5d91e2d2eb)
@@ -58,9 +59,8 @@
   - [【安全圈】黑客滥用 Milesight 路由器向欧洲用户发送钓鱼短信](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072005&idx=4&sn=1fb70937dc61d18d6664d18586b28313)
 - 黑哥虾撩
   - [Code是AI的手：姚顺雨访谈与Python-Use范式的对话](https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484432&idx=1&sn=08f9bc756097a23e7add75ed2460b8ff)
-- 极客公园
-  - [OpenAI 卖货做视频，Anthropic 专心写代码，谁能赢？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653087852&idx=1&sn=2796eeb8bb328151aa8145ecc1509728)
-  - [历史首位，马斯克身家突破 5000 亿美元；王腾注销、清空多个社媒账号；美国演员工会抵制 AI 演员 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653087865&idx=1&sn=d59fc2f4c7945ea2ff8600b258d7cb29)
+- 丁爸 情报分析师的工具箱
+  - [【资料】蛙军将如何应对我军的两栖登陆作战？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152203&idx=1&sn=8097f8514f1578c318c4254ccda78cc5)
 - TrustedSec
   - [HIPAA Applicability - Understanding the Security, Breach Notification, and Privacy Rules](https://trustedsec.com/blog/hipaa-applicability-understanding-the-security-breach-notification-and-privacy-rules)
 - Over Security - Cybersecurity news aggregator
@@ -90,8 +90,6 @@
   - [UAT-8099: Chinese-speaking cybercrime group targets high-value IIS for SEO fraud](https://blog.talosintelligence.com/uat-8099-chinese-speaking-cybercrime-group-seo-fraud/)
   - [MatrixPDF Puts Gmail Users at Risk with Malicious PDF Attachments](https://www.varonis.com/blog/matrixpdf)
   - [Researchers uncover spyware targeting messaging app users in the UAE](https://therecord.media/researchers-spyware-uae-infections)
-- 迪哥讲事
-  - [从 低危 到 RCE](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498345&idx=1&sn=7b1cbb0cf5a53b15026fa7cef9af0518)
 - ICT Security Magazine
   - [Cybersecurity Scuole 2025: attacchi hacker in crescita e dati personali degli studenti sul darkweb](https://www.ictsecuritymagazine.com/notizie/cybersecurity-scuole/)
   - [Tutela dei dati dei lavoratori in Italia: quadro giuridico tra GDPR, statuto dei lavoratori e IA Act](https://www.ictsecuritymagazine.com/articoli/dati-dei-lavoratori/)
@@ -101,6 +99,10 @@
   - [ISC Stormcast For Thursday, October 2nd, 2025 https://isc.sans.edu/podcastdetail/9638, (Thu, Oct 2nd)](https://isc.sans.edu/diary/rss/32338)
 - Microsoft Security Blog
   - [Microsoft named a Leader in the IDC MarketScape for XDR](https://www.microsoft.com/en-us/security/blog/2025/10/02/microsoft-named-a-leader-in-the-idc-marketscape-for-xdr/)
+- Schneier on Security
+  - [Daniel Miessler on the AI Attack/Defense Balance](https://www.schneier.com/blog/archives/2025/10/daniel-miessler-on-the-ai-attack-defense-balance.html)
+- 迪哥讲事
+  - [从 低危 到 RCE](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498345&idx=1&sn=7b1cbb0cf5a53b15026fa7cef9af0518)
 - The Grey Corner
   - [Abusing cloud services for command and control - AWS, Azure, GCP summary](/2025/10/02/abusing-cloud-services-for-c2.html)
 - TaoSecurity Blog
@@ -110,8 +112,6 @@
   - [Re: [FD]	Full Disclosure: CVE-2025-31200 & CVE-2025-31201 – 0-Click iMessage Chain → Secure Enclave Key Theft, Wormable RCE, Crypto Theft](https://seclists.org/fulldisclosure/2025/Oct/0)
 - Active Directory & Azure AD/Entra ID Security
   - [Active Directory Security Tip #10: FSMO Roles](https://adsecurity.org/?p=4591)
-- Schneier on Security
-  - [Daniel Miessler on the AI Attack/Defense Balance](https://www.schneier.com/blog/archives/2025/10/daniel-miessler-on-the-ai-attack-defense-balance.html)
 - The Hacker News
   - [Confucius Hackers Hit Pakistan With New WooperStealer and Anondoor Malware](https://thehackernews.com/2025/10/confucius-hackers-hit-pakistan-with-new.html)
   - [Alert: Malicious PyPI Package soopsocks Infects 2,653 Systems Before Takedown](https://thehackernews.com/2025/10/alert-malicious-pypi-package-soopsocks.html)
