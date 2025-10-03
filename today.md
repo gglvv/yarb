@@ -1,19 +1,19 @@
 # 每日安全资讯（2025-10-03）
 
-- SecWiki News
-  - [SecWiki News 2025-10-02 Review](http://www.sec-wiki.com/?2025-10-02)
-- Tenable Blog
-  - [The Buy Vs. Build Dilemma: Pitfalls of the DIY Approach to Exposure Management](https://www.tenable.com/blog/the-buy-vs-build-dilemma-pitfalls-of-the-diy-approach-to-exposure-management)
-- Trustwave Blog
-  - [LevelBlue Managed WAAP Enables Organizations to Solve Day 1 WAAP Implementation Challenges](https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/levelblue-managed-waap-enables-organizations-to-solve-day-1-waap-implementation-challenges/)
 - Recent Commits to cve:main
   - [Update Thu Oct  2 11:35:31 UTC 2025](https://github.com/trickest/cve/commit/f770062b5bbff95a9433e45502131a02da1a4973)
+- SecWiki News
+  - [SecWiki News 2025-10-02 Review](http://www.sec-wiki.com/?2025-10-02)
 - Jiajun的技术笔记
   - [TiDB 源码阅读（二）：MySQL协议概览](https://jiajunhuang.com/articles/2025_10_02-tidb_source_code_mysql_protocol.md.html)
-- Insinuator.net
-  - [Release of ERNW White Paper 73: Analyzing WinpMem Driver Vulnerabilities](https://insinuator.net/2025/10/white-paper-73-analyzing-winpmem-driver-vulnerabilities/)
+- Trustwave Blog
+  - [LevelBlue Managed WAAP Enables Organizations to Solve Day 1 WAAP Implementation Challenges](https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/levelblue-managed-waap-enables-organizations-to-solve-day-1-waap-implementation-challenges/)
 - Cerbero Blog
   - [Memory Challenge 1: Reveal](https://blog.cerbero.io/memory-challenge-1-reveal/)
+- Insinuator.net
+  - [Release of ERNW White Paper 73: Analyzing WinpMem Driver Vulnerabilities](https://insinuator.net/2025/10/white-paper-73-analyzing-winpmem-driver-vulnerabilities/)
+- Tenable Blog
+  - [The Buy Vs. Build Dilemma: Pitfalls of the DIY Approach to Exposure Management](https://www.tenable.com/blog/the-buy-vs-build-dilemma-pitfalls-of-the-diy-approach-to-exposure-management)
 - Blog – Red Siege Information Security
   - [Red Siege at Wild West Hackin’ Fest 2025: What to Expect](https://redsiege.com/blog/2025/10/red-siege-at-wild-west-hackin-fest-2025-what-to-expect/)
 - Didier Stevens
@@ -37,17 +37,19 @@
   - [千禧一代癌症发病率在上升](https://www.solidot.org/story?sid=82468)
   - [城市空气检测出致病性酵母菌株](https://www.solidot.org/story?sid=82467)
   - [珍·古道尔去世，享年 91 岁](https://www.solidot.org/story?sid=82466)
+- 安全分析与研究
+  - [利用Telegram等安装程序传播银狐最新攻击样本](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493516&idx=1&sn=71e74fa2475a90a2436277224b81679e)
+- 黑鸟
+  - [发现新的攻击阿联酋用户的间谍软件们](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182865&idx=1&sn=3e74aff4ea5576ac1e5479f435259ea2)
+- 青衣十三楼飞花堂
+  - [cby与scz的一次对话](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488664&idx=1&sn=559fe4d23958ab4f2e98784f2bf6199a)
 - 看雪学苑
   - [写一个简单的VMP-不造轮子，何以知轮之精髓？](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601621&idx=1&sn=26567a67b339c86f7cfafe8985af0daf)
   - [《进阶逆向工程实战》：解锁逆向技术的全链路实战能力](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601621&idx=2&sn=23a3a8dec41c01b2307385e4e019597a)
-- 青衣十三楼飞花堂
-  - [cby与scz的一次对话](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488664&idx=1&sn=559fe4d23958ab4f2e98784f2bf6199a)
-- 黑鸟
-  - [发现新的攻击阿联酋用户的间谍软件们](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182865&idx=1&sn=3e74aff4ea5576ac1e5479f435259ea2)
-- 丁爸 情报分析师的工具箱
-  - [【资料】蛙军将如何应对我军的两栖登陆作战？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152203&idx=1&sn=8097f8514f1578c318c4254ccda78cc5)
 - 黑哥虾撩
   - [Code是AI的手：姚顺雨访谈与Python-Use范式的对话](https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484432&idx=1&sn=08f9bc756097a23e7add75ed2460b8ff)
+- 丁爸 情报分析师的工具箱
+  - [【资料】蛙军将如何应对我军的两栖登陆作战？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152203&idx=1&sn=8097f8514f1578c318c4254ccda78cc5)
 - 安全圈
   - [【安全圈】OpenAI 正在测试敏感话题安全路由机制，或在极端情况下报警](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072005&idx=1&sn=64ad60f0f4b103ce40f8813ff92b2362)
   - [【安全圈】Red Hat 疑遭重大数据泄露：黑客声称窃取 28,000 私有仓库](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072005&idx=2&sn=ea171ac0706e3472fa75ae5d91e2d2eb)
@@ -56,42 +58,6 @@
 - 极客公园
   - [OpenAI 卖货做视频，Anthropic 专心写代码，谁能赢？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653087852&idx=1&sn=2796eeb8bb328151aa8145ecc1509728)
   - [历史首位，马斯克身家突破 5000 亿美元；王腾注销、清空多个社媒账号；美国演员工会抵制 AI 演员 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653087865&idx=1&sn=d59fc2f4c7945ea2ff8600b258d7cb29)
-- Microsoft Security Blog
-  - [Microsoft named a Leader in the IDC MarketScape for XDR](https://www.microsoft.com/en-us/security/blog/2025/10/02/microsoft-named-a-leader-in-the-idc-marketscape-for-xdr/)
-- ICT Security Magazine
-  - [Cybersecurity Scuole 2025: attacchi hacker in crescita e dati personali degli studenti sul darkweb](https://www.ictsecuritymagazine.com/notizie/cybersecurity-scuole/)
-  - [Tutela dei dati dei lavoratori in Italia: quadro giuridico tra GDPR, statuto dei lavoratori e IA Act](https://www.ictsecuritymagazine.com/articoli/dati-dei-lavoratori/)
-  - [Cybersicurezza 2025: riflessioni su un mondo sempre più vulnerabile](https://www.ictsecuritymagazine.com/notizie/cybersicurezza-2025/)
-- 迪哥讲事
-  - [从 低危 到 RCE](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498345&idx=1&sn=7b1cbb0cf5a53b15026fa7cef9af0518)
-- Security Weekly Podcast Network (Audio)
-  - [AI: The new trigger word. Or is it Robots? - PSW #894](http://sites.libsyn.com/18678/ai-the-new-trigger-word-or-is-it-robots-psw-894)
-- TaoSecurity Blog
-  - [Stop Shoddy Academic "Research"](https://taosecurity.blogspot.com/2025/10/stop-shoddy-academic-research.html)
-- TrustedSec
-  - [HIPAA Applicability - Understanding the Security, Breach Notification, and Privacy Rules](https://trustedsec.com/blog/hipaa-applicability-understanding-the-security-breach-notification-and-privacy-rules)
-- Active Directory & Azure AD/Entra ID Security
-  - [Active Directory Security Tip #10: FSMO Roles](https://adsecurity.org/?p=4591)
-- The Hacker News
-  - [Confucius Hackers Hit Pakistan With New WooperStealer and Anondoor Malware](https://thehackernews.com/2025/10/confucius-hackers-hit-pakistan-with-new.html)
-  - [Alert: Malicious PyPI Package soopsocks Infects 2,653 Systems Before Takedown](https://thehackernews.com/2025/10/alert-malicious-pypi-package-soopsocks.html)
-  - [Automating Pentest Delivery: 7 Key Workflows for Maximum Impact](https://thehackernews.com/2025/10/automating-pentest-delivery-7-key.html)
-  - [ThreatsDay Bulletin: CarPlay Exploit, BYOVD Tactics, SQL C2 Attacks, iCloud Backdoor Demand & More](https://thehackernews.com/2025/10/threatsday-bulletin-carplay-exploit.html)
-  - [Google Mandiant Probes New Oracle Extortion Wave Possibly Linked to Cl0p Ransomware](https://thehackernews.com/2025/10/google-mandiant-probes-new-oracle.html)
-  - [How to Close Threat Detection Gaps: Your SOC's Action Plan](https://thehackernews.com/2025/10/how-to-close-threat-detection-gaps-your.html)
-  - [Warning: Beware of Android Spyware Disguised as Signal Encryption Plugin and ToTok Pro](https://thehackernews.com/2025/10/warning-beware-of-android-spyware.html)
-- SANS Internet Storm Center, InfoCON: green
-  - [More .well-known Scans, (Thu, Oct 2nd)](https://isc.sans.edu/diary/rss/32340)
-  - [ISC Stormcast For Thursday, October 2nd, 2025 https://isc.sans.edu/podcastdetail/9638, (Thu, Oct 2nd)](https://isc.sans.edu/diary/rss/32338)
-- The Grey Corner
-  - [Abusing cloud services for command and control - AWS, Azure, GCP summary](/2025/10/02/abusing-cloud-services-for-c2.html)
-- Security Affairs
-  - [CERT-UA warns UAC-0245 targets Ukraine with CABINETRAT backdoor](https://securityaffairs.com/182862/cyber-warfare-2/cert-ua-warns-uac-0245-targets-ukraine-with-cabinetrat-backdoor.html)
-  - [Allianz Life data breach impacted 1.5 Million people](https://securityaffairs.com/182876/data-breach/allianz-life-data-breach-impacted-1-5-million-people.html)
-  - [Cybercrime group claims to have breached Red Hat ‘s private GitHub repositories](https://securityaffairs.com/182866/data-breach/cybercrime-group-claims-to-have-breached-red-hat-s-private-github-repositories.html)
-  - [China-linked APT Phantom Taurus uses Net-Star malware in espionage campaigns against key sectors](https://securityaffairs.com/182852/apt/china-linked-apt-phantom-taurus-uses-net-star-malware-in-espionage-campaigns-against-key-sectors.html)
-- Schneier on Security
-  - [Daniel Miessler on the AI Attack/Defense Balance](https://www.schneier.com/blog/archives/2025/10/daniel-miessler-on-the-ai-attack-defense-balance.html)
 - Over Security - Cybersecurity news aggregator
   - [Fact vs. Fiction: Cutting Through the Noise on AI-Powered Cyber Threats](https://flashpoint.io/blog/fact-vs-fiction-cutting-through-noise-ai-cyber-threats/)
   - [Microsoft Outlook stops displaying inline SVG images used in attacks](https://www.bleepingcomputer.com/news/security/microsoft-outlook-stops-displaying-inline-svg-images-used-in-attacks/)
@@ -124,6 +90,42 @@
   - [Clop extortion emails claim theft of Oracle E-Business Suite data](https://www.bleepingcomputer.com/news/security/clop-extortion-emails-claim-theft-of-oracle-e-business-suite-data/)
   - [Emails claim Oracle data theft in new Clop-linked extortion campaign](https://www.bleepingcomputer.com/news/security/emails-claim-oracle-data-theft-in-new-clop-linked-extortion-campaign/)
   - [Millions impacted by data breaches at insurance giant, auto dealership software firm](https://therecord.media/millions-impacted-by-data-breaches-insurance-car-dealership-software)
+- TrustedSec
+  - [HIPAA Applicability - Understanding the Security, Breach Notification, and Privacy Rules](https://trustedsec.com/blog/hipaa-applicability-understanding-the-security-breach-notification-and-privacy-rules)
+- ICT Security Magazine
+  - [Cybersecurity Scuole 2025: attacchi hacker in crescita e dati personali degli studenti sul darkweb](https://www.ictsecuritymagazine.com/notizie/cybersecurity-scuole/)
+  - [Tutela dei dati dei lavoratori in Italia: quadro giuridico tra GDPR, statuto dei lavoratori e IA Act](https://www.ictsecuritymagazine.com/articoli/dati-dei-lavoratori/)
+  - [Cybersicurezza 2025: riflessioni su un mondo sempre più vulnerabile](https://www.ictsecuritymagazine.com/notizie/cybersicurezza-2025/)
+- 迪哥讲事
+  - [从 低危 到 RCE](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498345&idx=1&sn=7b1cbb0cf5a53b15026fa7cef9af0518)
+- Microsoft Security Blog
+  - [Microsoft named a Leader in the IDC MarketScape for XDR](https://www.microsoft.com/en-us/security/blog/2025/10/02/microsoft-named-a-leader-in-the-idc-marketscape-for-xdr/)
+- SANS Internet Storm Center, InfoCON: green
+  - [More .well-known Scans, (Thu, Oct 2nd)](https://isc.sans.edu/diary/rss/32340)
+  - [ISC Stormcast For Thursday, October 2nd, 2025 https://isc.sans.edu/podcastdetail/9638, (Thu, Oct 2nd)](https://isc.sans.edu/diary/rss/32338)
+- Security Weekly Podcast Network (Audio)
+  - [AI: The new trigger word. Or is it Robots? - PSW #894](http://sites.libsyn.com/18678/ai-the-new-trigger-word-or-is-it-robots-psw-894)
+- Active Directory & Azure AD/Entra ID Security
+  - [Active Directory Security Tip #10: FSMO Roles](https://adsecurity.org/?p=4591)
+- The Grey Corner
+  - [Abusing cloud services for command and control - AWS, Azure, GCP summary](/2025/10/02/abusing-cloud-services-for-c2.html)
+- TaoSecurity Blog
+  - [Stop Shoddy Academic "Research"](https://taosecurity.blogspot.com/2025/10/stop-shoddy-academic-research.html)
+- Schneier on Security
+  - [Daniel Miessler on the AI Attack/Defense Balance](https://www.schneier.com/blog/archives/2025/10/daniel-miessler-on-the-ai-attack-defense-balance.html)
+- Security Affairs
+  - [CERT-UA warns UAC-0245 targets Ukraine with CABINETRAT backdoor](https://securityaffairs.com/182862/cyber-warfare-2/cert-ua-warns-uac-0245-targets-ukraine-with-cabinetrat-backdoor.html)
+  - [Allianz Life data breach impacted 1.5 Million people](https://securityaffairs.com/182876/data-breach/allianz-life-data-breach-impacted-1-5-million-people.html)
+  - [Cybercrime group claims to have breached Red Hat ‘s private GitHub repositories](https://securityaffairs.com/182866/data-breach/cybercrime-group-claims-to-have-breached-red-hat-s-private-github-repositories.html)
+  - [China-linked APT Phantom Taurus uses Net-Star malware in espionage campaigns against key sectors](https://securityaffairs.com/182852/apt/china-linked-apt-phantom-taurus-uses-net-star-malware-in-espionage-campaigns-against-key-sectors.html)
+- The Hacker News
+  - [Confucius Hackers Hit Pakistan With New WooperStealer and Anondoor Malware](https://thehackernews.com/2025/10/confucius-hackers-hit-pakistan-with-new.html)
+  - [Alert: Malicious PyPI Package soopsocks Infects 2,653 Systems Before Takedown](https://thehackernews.com/2025/10/alert-malicious-pypi-package-soopsocks.html)
+  - [Automating Pentest Delivery: 7 Key Workflows for Maximum Impact](https://thehackernews.com/2025/10/automating-pentest-delivery-7-key.html)
+  - [ThreatsDay Bulletin: CarPlay Exploit, BYOVD Tactics, SQL C2 Attacks, iCloud Backdoor Demand & More](https://thehackernews.com/2025/10/threatsday-bulletin-carplay-exploit.html)
+  - [Google Mandiant Probes New Oracle Extortion Wave Possibly Linked to Cl0p Ransomware](https://thehackernews.com/2025/10/google-mandiant-probes-new-oracle.html)
+  - [How to Close Threat Detection Gaps: Your SOC's Action Plan](https://thehackernews.com/2025/10/how-to-close-threat-detection-gaps-your.html)
+  - [Warning: Beware of Android Spyware Disguised as Signal Encryption Plugin and ToTok Pro](https://thehackernews.com/2025/10/warning-beware-of-android-spyware.html)
 - Deeplinks
   - [Tips to Protect Your Posts About Reproductive Health From Being Removed](https://www.eff.org/deeplinks/2025/09/tips-protect-your-posts-about-reproductive-health-being-removed)
   - [Opt Out October: Daily Tips to Protect Your Privacy and Security](https://www.eff.org/deeplinks/2025/09/opt-out-october-daily-tips-protect-your-privacy-and-security)
