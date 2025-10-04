@@ -1,13 +1,13 @@
 # 每日安全资讯（2025-10-04）
 
-- SecWiki News
-  - [SecWiki News 2025-10-03 Review](http://www.sec-wiki.com/?2025-10-03)
+- Trustwave Blog
+  - [How Trustwave MDR Maximizes Your Microsoft Defender XDR Investment](https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/how-trustwave-mdr-maximizes-your-microsoft-defender-xdr-investment/)
 - Recent Commits to cve:main
   - [Update Fri Oct  3 11:35:34 UTC 2025](https://github.com/trickest/cve/commit/ceb3bc45e0c9fdf34925127810e9409210724dce)
 - Tenable Blog
   - [Cybersecurity Snapshot: Cybersecurity Awareness Month Arrives To Find AI Security a Hot Mess, as New OT Security Guidelines Highlight Architecture Mapping](https://www.tenable.com/blog/cybersecurity-snapshot-cybersecurity-awareness-month-arrives-to-find-ai-security-a-hot-mess-as)
-- Trustwave Blog
-  - [How Trustwave MDR Maximizes Your Microsoft Defender XDR Investment](https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/how-trustwave-mdr-maximizes-your-microsoft-defender-xdr-investment/)
+- SecWiki News
+  - [SecWiki News 2025-10-03 Review](http://www.sec-wiki.com/?2025-10-03)
 - ElcomSoft blog
   - [AI in Digital Forensics: a Tool, not an Oracle](https://blog.elcomsoft.com/2025/10/ai-in-digital-forensics-a-tool-not-an-oracle/)
 - Jiajun的技术笔记
@@ -27,27 +27,27 @@
 - 丁爸 情报分析师的工具箱
   - [【资料】台大教授建议湾湾建立无性别差别的“全民役”制度](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152214&idx=1&sn=bf328b8c09fa7ecdba8e56da472ddaeb)
   - [【资料】蛙军研究以色列8200部队并拟借鉴](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152214&idx=2&sn=0070351ad9dfa9f9819d5bca1a17aeba)
+- dotNet安全矩阵
+  - [.NET 实战攻防电子报刊，从内网基础到高阶实战！](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500734&idx=1&sn=ea802123ae2af52469d8bceba7099077)
 - 安全圈
   - [【安全圈】宇树机器人被曝漏洞，机器人之间可相互感染，官方火速回应](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072021&idx=1&sn=903a5c3350515549335d8905e6666e91)
   - [【安全圈】加拿大第二大航司西捷遭遇网络攻击，约 120 万名乘客个人信息被窃](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072021&idx=2&sn=37c2f53e2c2a5b55ea38b94d6510c0cb)
   - [【安全圈】恶意软件 LockBit “升级”至 5.0 版本，同时针对多种系统环境](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072021&idx=3&sn=1b40dd1283b8123c44a2bd61f1e7fb28)
-- dotNet安全矩阵
-  - [.NET 实战攻防电子报刊，从内网基础到高阶实战！](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500734&idx=1&sn=ea802123ae2af52469d8bceba7099077)
 - 极客公园
   - [高德扫街榜的 23 天奇袭](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653087901&idx=1&sn=db0357baefcd9b7c3feba6a554b9f123)
   - [小米 17 系列销量超百万；苹果新产品泄密源头疑为越南工厂；低价版 model Y 现身官网代码 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653087885&idx=1&sn=f44c70041a95615a2617f9186e20b512)
+- 迪哥讲事
+  - [如何利用 AI 快速发现漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498349&idx=1&sn=46aba306ad4aa0addb841235161980e3)
 - Securityinfo.it
   - [RedHat vittima di un breach: sottratti oltre 500 GB di dati](https://www.securityinfo.it/2025/10/03/redhat-vittima-di-un-breach-sottratti-oltre-500-gb-di-dati/?utm_source=rss&utm_medium=rss&utm_campaign=redhat-vittima-di-un-breach-sottratti-oltre-500-gb-di-dati)
   - [Clearskies: la suite di sicurezza avanzata made in Europe arriva in Italia](https://www.securityinfo.it/2025/10/03/clearskies-la-suite-di-sicurezza-avanzata-tutta-made-in-europe-arriva-in-italia/?utm_source=rss&utm_medium=rss&utm_campaign=clearskies-la-suite-di-sicurezza-avanzata-tutta-made-in-europe-arriva-in-italia)
+- ICT Security Magazine
+  - [Deepfake in tempo reale: la fine dell’identità digitale sicura è già iniziata](https://www.ictsecuritymagazine.com/articoli/identita-digitale/)
+  - [Cybercrime-as-a-Service (CaaS): la democratizzazione del crimine digitale trasforma l’Italia in un bersaglio primario](https://www.ictsecuritymagazine.com/notizie/caas/)
 - Arturo Di Corinto
   - [Stampa Romana: solidarietà a giornalisti e attivisti Flotilla arrestati. Il governo agisca per liberazione.](https://dicorinto.it/associazionismo/stampa-romana-solidarieta-a-giornalisti-e-attivisti-flotilla-arrestati-il-governo-agisca-per-liberazione/)
 - IT Service Management News
   - [Data Act: guida pratica](http://blog.cesaregallotti.it/2025/10/data-act-guida-pratica.html)
-- Have I Been Pwned latest breaches
-  - [HomeRefill - 187,457 breached accounts](https://haveibeenpwned.com/Breach/HomeRefill)
-  - [Latest Pilot Jobs - 118,864 breached accounts](https://haveibeenpwned.com/Breach/LatestPilotJobs)
-- SANS Internet Storm Center, InfoCON: green
-  - [ISC Stormcast For Friday, October 3rd, 2025 https://isc.sans.edu/podcastdetail/9640, (Fri, Oct 3rd)](https://isc.sans.edu/diary/rss/32342)
 - Krypt3ia
   - [Scattered LAPSUS$ Hunters: Salesforce Extortion Campaign UPDATE](https://krypt3ia.wordpress.com/2025/10/03/scattered-lapsus-hunters-salesforce-extortion-campaign-update/)
 - Over Security - Cybersecurity news aggregator
@@ -78,15 +78,15 @@
   - [Cyber Awareness Month 2025: il rischio per le aziende arriva dalle identità macchina](https://www.cybersecurity360.it/news/cyber-awareness-month-2025-il-rischio-per-le-aziende-arriva-dalle-identita-macchina-come-difenderle/)
   - [HomeRefill - 187,457 breached accounts](https://haveibeenpwned.com/Breach/HomeRefill)
   - [Latest Pilot Jobs - 118,864 breached accounts](https://haveibeenpwned.com/Breach/LatestPilotJobs)
-- Schneier on Security
-  - [Friday Squid Blogging: Squid Overfishing in the Southwest Atlantic](https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-overfishing-in-the-southwest-atlantic.html)
 - Security Weekly Podcast Network (Audio)
   - [Ratboi, Clop, Oracle, svgs, Impact Solutions, The Pentagon, Open AI, Josh Marpet... - SWN #517](http://sites.libsyn.com/18678/ratboi-clop-oracle-svgs-impact-solutions-the-pentagon-open-ai-josh-marpet-swn-517)
-- 迪哥讲事
-  - [如何利用 AI 快速发现漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498349&idx=1&sn=46aba306ad4aa0addb841235161980e3)
-- ICT Security Magazine
-  - [Deepfake in tempo reale: la fine dell’identità digitale sicura è già iniziata](https://www.ictsecuritymagazine.com/articoli/identita-digitale/)
-  - [Cybercrime-as-a-Service (CaaS): la democratizzazione del crimine digitale trasforma l’Italia in un bersaglio primario](https://www.ictsecuritymagazine.com/notizie/caas/)
+- Schneier on Security
+  - [Friday Squid Blogging: Squid Overfishing in the Southwest Atlantic](https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-overfishing-in-the-southwest-atlantic.html)
+- Have I Been Pwned latest breaches
+  - [HomeRefill - 187,457 breached accounts](https://haveibeenpwned.com/Breach/HomeRefill)
+  - [Latest Pilot Jobs - 118,864 breached accounts](https://haveibeenpwned.com/Breach/LatestPilotJobs)
+- SANS Internet Storm Center, InfoCON: green
+  - [ISC Stormcast For Friday, October 3rd, 2025 https://isc.sans.edu/podcastdetail/9640, (Fri, Oct 3rd)](https://isc.sans.edu/diary/rss/32342)
 - BorderGate
   - [Kernel Mode Drivers](https://www.bordergate.co.uk/kernel-mode-drivers/)
 - Include Security Research Blog
@@ -101,8 +101,6 @@
   - [Hey, San Francisco, There Should be Consequences When Police Spy Illegally](https://www.eff.org/deeplinks/2025/10/hey-san-francisco-there-should-be-consequences-when-police-spy-illegally)
   - [Opt Out October: Daily Tips to Protect Your Privacy and Security](https://www.eff.org/deeplinks/2025/09/opt-out-october-daily-tips-protect-your-privacy-and-security)
   - [#StopCensoringAbortion: What We Learned and Where We Go From Here](https://www.eff.org/deeplinks/2025/10/stopcensoringabortion-what-we-learned-and-where-we-go-here)
-- Graham Cluley
-  - [Japan running dry: Ransomware attack leaves nation days away from Asahi beer shortage](https://www.bitdefender.com/en-us/blog/hotforsecurity/japan-running-dry-ransomware-attack-leaves-nation-days-away-from-asahi-beer-shortage)
 - The Hacker News
   - [Detour Dog Caught Running DNS-Powered Malware Factory for Strela Stealer](https://thehackernews.com/2025/10/detour-dog-caught-running-dns-powered.html)
   - [Rhadamanthys Stealer Evolves: Adds Device Fingerprinting, PNG Steganography Payloads](https://thehackernews.com/2025/10/rhadamanthys-stealer-evolves-adds.html)
@@ -110,3 +108,5 @@
   - [Product Walkthrough: How Passwork 7 Addresses Complexity of Enterprise Security](https://thehackernews.com/2025/10/product-walkthrough-how-passwork-7.html)
   - [New "Cavalry Werewolf" Attack Hits Russian Agencies with FoalShell and StallionRAT](https://thehackernews.com/2025/10/new-cavalry-werewolf-attack-hits.html)
   - [CISA Flags Meteobridge CVE-2025-4008 Flaw as Actively Exploited in the Wild](https://thehackernews.com/2025/10/cisa-flags-meteobridge-cve-2025-4008.html)
+- Graham Cluley
+  - [Japan running dry: Ransomware attack leaves nation days away from Asahi beer shortage](https://www.bitdefender.com/en-us/blog/hotforsecurity/japan-running-dry-ransomware-attack-leaves-nation-days-away-from-asahi-beer-shortage)
