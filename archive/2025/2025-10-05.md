@@ -2,15 +2,17 @@
 
 - SecWiki News
   - [SecWiki News 2025-10-04 Review](http://www.sec-wiki.com/?2025-10-04)
-- Recent Commits to cve:main
-  - [Update Sat Oct  4 11:26:30 UTC 2025](https://github.com/trickest/cve/commit/aef28f9cd8ac7f0295c05403858da0716d0f899b)
-- Jiajun的技术笔记
-  - [TiDB 源码阅读（四）：AST、逻辑计划、物理计划](https://jiajunhuang.com/articles/2025_10_04-tidb_source_code_ast_and_plan.md.html)
 - InfoSec Write-ups - Medium
   - [Expressway — HackTheBox walkthough](https://infosecwriteups.com/expressway-hackthebox-walkthough-d523a3a24c68?source=rss----7b722bfd1b8d---4)
   - [Red Stone One Carat — TryHackMe Challenge Write-up](https://infosecwriteups.com/red-stone-one-carat-tryhackme-challenge-write-up-2bf6d920b0c6?source=rss----7b722bfd1b8d---4)
   - [TryHackMe Infinity Shell Walkthrough: Web Shell Forensics & CTF Guide](https://infosecwriteups.com/tryhackme-infinity-shell-walkthrough-web-shell-forensics-ctf-guide-1230f5b1aa56?source=rss----7b722bfd1b8d---4)
   - [How To Attack Admin Panels Successfully Part 2](https://infosecwriteups.com/how-to-attack-admin-panels-successfully-part-2-9316c3caad3a?source=rss----7b722bfd1b8d---4)
+- Recent Commits to cve:main
+  - [Update Sat Oct  4 11:26:30 UTC 2025](https://github.com/trickest/cve/commit/aef28f9cd8ac7f0295c05403858da0716d0f899b)
+- Jiajun的技术笔记
+  - [TiDB 源码阅读（四）：AST、逻辑计划、物理计划](https://jiajunhuang.com/articles/2025_10_04-tidb_source_code_ast_and_plan.md.html)
+- Sucuri Blog
+  - [Malvertising Campaign Hides in Plain Sight on WordPress Websites](https://blog.sucuri.net/2025/10/malvertising-campaign-hides-in-plain-sight-on-wordpress-websites.html)
 - Sucuri Blog
   - [Malvertising Campaign Hides in Plain Sight on WordPress Websites](https://blog.sucuri.net/2025/10/malvertising-campaign-hides-in-plain-sight-on-wordpress-websites.html)
 - Hexacorn
@@ -23,13 +25,14 @@
   - [Errors to API Exposure](https://infosecwriteups.com/errors-to-api-exposure-cbcf2b73946e?source=rss----7b722bfd1b8d--bug_bounty)
   - [Cowsay as a Service (CaaS) — PicoCTF Walkthrough](https://infosecwriteups.com/cowsay-as-a-service-caas-picoctf-walkthrough-0c102345eac0?source=rss----7b722bfd1b8d--bug_bounty)
   - [Token Trouble: How Leaked JWTs Let Me Become Everyone on the Internet](https://infosecwriteups.com/token-trouble-how-leaked-jwts-let-me-become-everyone-on-the-internet-cb02acde43f2?source=rss----7b722bfd1b8d--bug_bounty)
-- Sucuri Blog
-  - [Malvertising Campaign Hides in Plain Sight on WordPress Websites](https://blog.sucuri.net/2025/10/malvertising-campaign-hides-in-plain-sight-on-wordpress-websites.html)
 - 奇客Solidot–传递最新科技情报
   - [Opera 推出月费 19.9 美元的 AI 浏览器](https://www.solidot.org/story?sid=82479)
   - [AI 训练数据已经耗尽](https://www.solidot.org/story?sid=82478)
   - [土卫二（Enceladus）发现更多复杂有机分子](https://www.solidot.org/story?sid=82477)
   - [印尼暂停 TikTok 注册资格](https://www.solidot.org/story?sid=82476)
+- 看雪学苑
+  - [USB重定向-对开源软件USBIPSTUB框架改造，修改为类过滤机制](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601623&idx=1&sn=c6e604965de9e90756aaddd2671c0cbd)
+  - [预售中！车联网安全赛道爆发，这门实战课帮你抢占先机](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601623&idx=2&sn=176e31cd9a2368077354c0da6fcfd3ca)
 - 安全分析与研究
   - [俄罗斯APT黑客组织Turla样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493557&idx=1&sn=3d425fc7c6c48f36b56e1cff7d963f32)
 - 丁爸 情报分析师的工具箱
@@ -38,12 +41,10 @@
   - [【资料】特朗普和赫格塞斯在匡蒂科对美国将军们的讲话](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152225&idx=1&sn=a3945cd554c10e42cf4c23b266187667)
 - 青衣十三楼飞花堂
   - [莫比乌斯时空](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488677&idx=1&sn=6b4fc70982f17789f348841933e3cdc0)
+- 安全学术圈
+  - [特拉维夫大学 | POPS：基于历史数据的DNS缓存投毒攻击缓解措施](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493853&idx=1&sn=f86788d04beee913b19277b9996a6eb1)
 - dotNet安全矩阵
   - [[ .NET 代码审计 ] 从入门到精通，开启漏洞赏金之路](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500742&idx=1&sn=9160b043f753646a48d7385865d60a4b)
-- 安全圈
-  - [【安全圈】因第三方客服遭遇网络攻击，社交平台 Discord 出现用户数据泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072034&idx=1&sn=52bef7481097d8f737e3c8133f3cd3f9)
-  - [【安全圈】曝 Unity 引擎存重大漏洞，可致安卓用户面临钱财损失与资料被盗](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072034&idx=2&sn=8499cf69c1ca4d2a60475ee399d14502)
-  - [【安全圈】网络故障持续，日本朝日啤酒供应受阻](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072034&idx=3&sn=3e6a79924d698f2581e97ebc63343164)
 - 中国信息安全
   - [专题·反电诈 | 从电信行业视角探析网络违法信息协同治理](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664250321&idx=1&sn=9c7d2a16c5b3176692ee8010e35c0fd6)
   - [专家解读｜张凌寒：深化认知拓展维度 人工智能安全治理中国方案再升级](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664250321&idx=2&sn=5507b5cad1fe16f38a598c9135a778de)
@@ -51,20 +52,12 @@
 - 极客公园
   - [和两位 CEO 聊 Sora： 应用层爆发的里程碑事件，创业者的机会来了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653087936&idx=1&sn=8f77ec09112a607a251aea336d5d5f3f)
   - [网红挑战特斯拉FSD穿越美国出车祸；小米回应「小米汽车突然自己开走」；Sora 登顶美区苹果商城免费榜 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653087922&idx=1&sn=7dd2dd6d3fd98593917935a6afc9f2b1)
-- 安全学术圈
-  - [特拉维夫大学 | POPS：基于历史数据的DNS缓存投毒攻击缓解措施](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493853&idx=1&sn=f86788d04beee913b19277b9996a6eb1)
-- 看雪学苑
-  - [USB重定向-对开源软件USBIPSTUB框架改造，修改为类过滤机制](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601623&idx=1&sn=c6e604965de9e90756aaddd2671c0cbd)
-  - [预售中！车联网安全赛道爆发，这门实战课帮你抢占先机](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601623&idx=2&sn=176e31cd9a2368077354c0da6fcfd3ca)
-- LastKnight.com Feed
-  - [Teenrorism: La Guerra Ibrida si Combatte con i ragazzi reclutati su Telegram](https://mgpf.it/2025/10/04/teenrorism-la-guerra-ibrida-si-combatte-con-i-ragazzi-reclutati-su-telegram.html)
+- 安全圈
+  - [【安全圈】因第三方客服遭遇网络攻击，社交平台 Discord 出现用户数据泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072034&idx=1&sn=52bef7481097d8f737e3c8133f3cd3f9)
+  - [【安全圈】曝 Unity 引擎存重大漏洞，可致安卓用户面临钱财损失与资料被盗](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072034&idx=2&sn=8499cf69c1ca4d2a60475ee399d14502)
+  - [【安全圈】网络故障持续，日本朝日啤酒供应受阻](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072034&idx=3&sn=3e6a79924d698f2581e97ebc63343164)
 - 迪哥讲事
   - [这款漏洞赏金神器，让你躺着薅羊毛](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498355&idx=1&sn=57662942c382a1b0672c88f789e13ade)
-- Have I Been Pwned latest breaches
-  - [Artists&Clients - 95,351 breached accounts](https://haveibeenpwned.com/Breach/ArtistsNClients)
-- ICT Security Magazine
-  - [Sicurezza IA generativa e rilevamento dei deepfake: strategie avanzate per l’autenticazione dei contenuti sintetici](https://www.ictsecuritymagazine.com/articoli/sicurezza-ia/)
-  - [Clearview Ai e facial recognition: il tuo volto è in un database (e tu non lo sapevi)](https://www.ictsecuritymagazine.com/notizie/clearview-ai/)
 - Over Security - Cybersecurity news aggregator
   - [Leaked Apple iPad Pro M5 benchmark shows massive improvements](https://www.bleepingcomputer.com/news/technology/leaked-apple-ipad-pro-m5-benchmark-shows-massive-improvements/)
   - [Discord discloses data breach after hackers steal support tickets](https://www.bleepingcomputer.com/news/security/discord-discloses-data-breach-after-hackers-steal-support-tickets/)
@@ -81,6 +74,13 @@
   - [Malvertising Campaign Hides in Plain Sight on WordPress Websites](https://blog.sucuri.net/2025/10/malvertising-campaign-hides-in-plain-sight-on-wordpress-websites.html)
   - [Artists&Clients - 95,351 breached accounts](https://haveibeenpwned.com/Breach/ArtistsNClients)
   - [Opera wants you to pay $19.90 per month for its new AI browser](https://www.bleepingcomputer.com/news/artificial-intelligence/opera-wants-you-to-pay-1990-per-month-for-its-new-ai-browser/)
+- Have I Been Pwned latest breaches
+  - [Artists&Clients - 95,351 breached accounts](https://haveibeenpwned.com/Breach/ArtistsNClients)
+- ICT Security Magazine
+  - [Sicurezza IA generativa e rilevamento dei deepfake: strategie avanzate per l’autenticazione dei contenuti sintetici](https://www.ictsecuritymagazine.com/articoli/sicurezza-ia/)
+  - [Clearview Ai e facial recognition: il tuo volto è in un database (e tu non lo sapevi)](https://www.ictsecuritymagazine.com/notizie/clearview-ai/)
+- LastKnight.com Feed
+  - [Teenrorism: La Guerra Ibrida si Combatte con i ragazzi reclutati su Telegram](https://mgpf.it/2025/10/04/teenrorism-la-guerra-ibrida-si-combatte-con-i-ragazzi-reclutati-su-telegram.html)
 - Active Directory & Azure AD/Entra ID Security
   - [The History of Active Directory Security](https://adsecurity.org/?p=4706)
   - [Active Directory Security Tip #11: Print Service on Domain Controllers](https://adsecurity.org/?p=4603)
