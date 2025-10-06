@@ -2,11 +2,6 @@
 
 - SecWiki News
   - [SecWiki News 2025-10-05 Review](http://www.sec-wiki.com/?2025-10-05)
-- Recent Commits to cve:main
-  - [Update Sun Oct  5 11:27:06 UTC 2025](https://github.com/trickest/cve/commit/beec578459e187e061b0d3f495feb1690f98d73b)
-- CXSECURITY Database RSS Feed - CXSecurity.com
-  - [CPAS Audit Management Information System 4.9 SQL Injection](https://cxsecurity.com/issue/WLB-2025100004)
-  - [ERPNext 15.67.0 / Frappe 15.72.4 Cross Site Scripting](https://cxsecurity.com/issue/WLB-2025100003)
 - InfoSec Write-ups - Medium
   - [Excel 2025 CTF | Anonymous (Miscellaneous) challenge Writeup](https://infosecwriteups.com/excel-2025-ctf-anonymous-miscellaneous-challenge-writeup-65f0fa92ffec?source=rss----7b722bfd1b8d---4)
   - [Mastering Google Dorking: Discovering Website Vulnerabilities](https://infosecwriteups.com/mastering-google-dorking-discovering-website-vulnerabilities-0f5720ce45ae?source=rss----7b722bfd1b8d---4)
@@ -14,6 +9,11 @@
   - [Hiding in Plain Sight: Steganography, C2, and SVG Files](https://infosecwriteups.com/hiding-in-plain-sight-steganography-c2-and-svg-files-567df7ceea20?source=rss----7b722bfd1b8d---4)
   - [The Price of Neglect. The Big Questions Behind Jaguar Land Rover’s Government £1.5 B Cyber Bailout.](https://infosecwriteups.com/the-price-of-neglect-the-big-questions-behind-jaguar-land-rovers-government-1-5-b-cyber-bailout-e11ffd5831e2?source=rss----7b722bfd1b8d---4)
   - [My Recon Automation Found an Email Confirmation Bypass](https://infosecwriteups.com/my-recon-automation-found-an-email-confirmation-bypass-c3c7c337f8a9?source=rss----7b722bfd1b8d---4)
+- Recent Commits to cve:main
+  - [Update Sun Oct  5 11:27:06 UTC 2025](https://github.com/trickest/cve/commit/beec578459e187e061b0d3f495feb1690f98d73b)
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [CPAS Audit Management Information System 4.9 SQL Injection](https://cxsecurity.com/issue/WLB-2025100004)
+  - [ERPNext 15.67.0 / Frappe 15.72.4 Cross Site Scripting](https://cxsecurity.com/issue/WLB-2025100003)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [Mastering Google Dorking: Discovering Website Vulnerabilities](https://infosecwriteups.com/mastering-google-dorking-discovering-website-vulnerabilities-0f5720ce45ae?source=rss----7b722bfd1b8d--bug_bounty)
   - [Secrets Hackers Don’t Tell: Recon Techniques That Actually Pay](https://infosecwriteups.com/secrets-hackers-dont-tell-recon-techniques-that-actually-pay-dc1940363187?source=rss----7b722bfd1b8d--bug_bounty)
@@ -30,29 +30,29 @@
   - [为什么女性比男性更长寿](https://www.solidot.org/story?sid=82482)
   - [自由软件基金会庆祝四十周年，任命 Ian Kelling 为新主席](https://www.solidot.org/story?sid=82481)
   - [大曼彻斯特警署因有警官使用自动按键工具假装工作暂停了远程办公](https://www.solidot.org/story?sid=82480)
-- 看雪学苑
-  - [加入看雪兼职讲师团：凭硬核实力发光，知识变现还能圈粉无数！](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601624&idx=1&sn=a78a2af5a40f2bd0228287547955bc21)
-  - [AFL源码分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601624&idx=2&sn=ff35f776264957fd90a214913458bf54)
 - 黑鸟
   - [美国政府停摆持续导致其网络行动受影响](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182902&idx=1&sn=94ae9d1c197c0668afb07c3f40739348)
 - 安全圈
   - [【安全圈】75万公务员近7年的工作文件全部丢失，韩国政府文件存储系统毁于火灾，没有备份](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072057&idx=1&sn=f5df49b9a0698a19eed806d0f624af96)
   - [【安全圈】网警侦破非法“刷机”案，铲除网络犯罪“温床”](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072057&idx=2&sn=edafa8f802732c07c86a566f44b3e1db)
   - [【安全圈】云技术巨头 Salesforce 10亿用户记录疑遭泄露！攻击者组织入侵并将公开数据](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072057&idx=3&sn=101da8e4a10ab68d47430cd912c7331c)
-- 极客公园
-  - [都用 GPT，为什么你没法中「百万大奖」？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653087740&idx=1&sn=313d9fbc30d8141358e9dfbb8107f2bd)
-  - [微软下架「炉石」等多款游戏；华为云：华为算力效能超英伟达芯片 3 倍；马斯克回应特斯拉机器人打拳：并非遥控 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653087956&idx=1&sn=e940f86f99166da34980349c508035ca)
-- 情报分析师
-  - [【情报追踪】俄罗斯政府专机刚刚飞往朝鲜](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650562260&idx=1&sn=3e794f7b36416b725ba18c0a352a7691)
-  - [美欲联手缅甸叛军截胡我稀土！缅甸重稀土年供4.17万吨=中国配额2倍！](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650562260&idx=2&sn=436fc284e64b60b01791c43a6e723b96)
 - 中国信息安全
   - [专题·反电诈 | 监管视域下电信企业反诈核验处置义务辨析](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664250327&idx=1&sn=0cab26e5772b592a22bb747433f13d31)
   - [专家解读｜从风险清单到治理体系：人工智能安全治理框架的演进逻辑分析](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664250327&idx=2&sn=88ee15e5be533b3cade5f6327074d287)
   - [评论 | 弹窗广告为何成了“打不死的小强”？](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664250327&idx=3&sn=7731a7884b369965222e396f956d5247)
-- 娜璋AI安全之家
-  - [[AI安全论文] (42)ASC25 基于大语言模型的未知Web攻击威胁检测](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247502064&idx=1&sn=3b6b9fc4d1f4b39c0af2c2a940e5f5b0)
+- 看雪学苑
+  - [加入看雪兼职讲师团：凭硬核实力发光，知识变现还能圈粉无数！](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601624&idx=1&sn=a78a2af5a40f2bd0228287547955bc21)
+  - [AFL源码分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601624&idx=2&sn=ff35f776264957fd90a214913458bf54)
+- 情报分析师
+  - [【情报追踪】俄罗斯政府专机刚刚飞往朝鲜](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650562260&idx=1&sn=3e794f7b36416b725ba18c0a352a7691)
+  - [美欲联手缅甸叛军截胡我稀土！缅甸重稀土年供4.17万吨=中国配额2倍！](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650562260&idx=2&sn=436fc284e64b60b01791c43a6e723b96)
+- 极客公园
+  - [都用 GPT，为什么你没法中「百万大奖」？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653087740&idx=1&sn=313d9fbc30d8141358e9dfbb8107f2bd)
+  - [微软下架「炉石」等多款游戏；华为云：华为算力效能超英伟达芯片 3 倍；马斯克回应特斯拉机器人打拳：并非遥控 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653087956&idx=1&sn=e940f86f99166da34980349c508035ca)
 - 吴鲁加
   - [新加坡 101](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485754&idx=1&sn=c4182eafd7fe15f81b4c040b1646de7f)
+- 娜璋AI安全之家
+  - [[AI安全论文] (42)ASC25 基于大语言模型的未知Web攻击威胁检测](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247502064&idx=1&sn=3b6b9fc4d1f4b39c0af2c2a940e5f5b0)
 - Over Security - Cybersecurity news aggregator
   - [The Young Minds App wants to protect and educate children online and will show its tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/05/the-young-minds-app-wants-to-protect-and-educate-children-online-and-will-show-its-tech-at-techcrunch-disrupt-2025/)
   - [Hackers exploited Zimbra flaw as zero-day using iCalendar files](https://www.bleepingcomputer.com/news/security/hackers-exploited-zimbra-flaw-as-zero-day-using-icalendar-files/)
