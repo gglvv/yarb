@@ -1,66 +1,48 @@
 # 每日安全资讯（2025-10-07）
 
-- Trustwave Blog
-  - [Manufacturing: Executives Voice Cyberattack Readiness Concerns](https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/manufacturing-executives-voice-cyberattack-readiness-concerns/)
+- SecWiki News
+  - [SecWiki News 2025-10-06 Review](http://www.sec-wiki.com/?2025-10-06)
 - Recent Commits to cve:main
   - [Update Mon Oct  6 11:26:23 UTC 2025](https://github.com/trickest/cve/commit/ca8c8a73a131e630ba0953cfa3a2451d9c6d9960)
+- Trustwave Blog
+  - [Manufacturing: Executives Voice Cyberattack Readiness Concerns](https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/manufacturing-executives-voice-cyberattack-readiness-concerns/)
 - Tenable Blog
   - [How Exposure Management Helped Three Companies Transform Their Cybersecurity Program](https://www.tenable.com/blog/how-exposure-management-helped-three-companies-transform-their-cybersecurity-program)
   - [CVE-2025-61882: Frequently Asked Questions About Oracle E-Business Suite (EBS) Zero-Day and Associated Vulnerabilities](https://www.tenable.com/blog/cve-2025-61882-faq-oracle-e-business-suite-zero-day-cl0p-and-july-2025-cpu)
-- InfoSec Write-ups - Medium
-  - [Actuator Unleashed: A Guide to Finding and Exploiting Spring Boot Actuator Endpoints](https://infosecwriteups.com/actuator-unleashed-a-guide-to-finding-and-exploiting-spring-boot-actuator-endpoints-29252dcd9d79?source=rss----7b722bfd1b8d---4)
-  - [Baby](https://infosecwriteups.com/baby-dfc2547dc387?source=rss----7b722bfd1b8d---4)
-  - [Breaking Into HackTheBox: My Journey from Script Kiddie to Root](https://infosecwriteups.com/breaking-into-hackthebox-my-journey-from-script-kiddie-to-root-d1cb5baeb758?source=rss----7b722bfd1b8d---4)
-  - [SQHell: Manually hunting SQL injection with detailed explanation](https://infosecwriteups.com/sqhell-manually-hunting-sql-injection-with-detailed-explanation-8fd24360c65e?source=rss----7b722bfd1b8d---4)
-  - [Week 12— Async API Calls: fetch, Axios, and Promises](https://infosecwriteups.com/week-12-async-api-calls-fetch-axios-and-promises-f8da63c5d91c?source=rss----7b722bfd1b8d---4)
-  - [OSINT: Google Dorking Hacks: The X-Ray Vision for Google Search](https://infosecwriteups.com/osint-google-dorking-hacks-the-x-ray-vision-for-google-search-8c6cd8335ff2?source=rss----7b722bfd1b8d---4)
-- SecWiki News
-  - [SecWiki News 2025-10-06 Review](http://www.sec-wiki.com/?2025-10-06)
 - Microsoft Security Blog
   - [Inside Microsoft Threat Intelligence: Calm in the chaos](https://www.microsoft.com/en-us/security/security-insider/threat-landscape/inside-microsoft-threat-intelligence-calm-in-chaos#overview-video)
   - [Investigating active exploitation of CVE-2025-10035 GoAnywhere Managed File Transfer vulnerability](https://www.microsoft.com/en-us/security/blog/2025/10/06/investigating-active-exploitation-of-cve-2025-10035-goanywhere-managed-file-transfer-vulnerability/)
-- Hexacorn
-  - [ntprint.exe lolbin](https://www.hexacorn.com/blog/2025/10/06/ntprint-exe-lolbin/)
 - GuidePoint Security
   - [Cybersecurity Awareness Month: 3 Simulations that Reveal the Human Weaknesses in Your Security Posture](https://www.guidepointsecurity.com/blog/cam-3-simulations-that-reveal-human-weakness/)
-- Malware-Traffic-Analysis.net - Blog Entries
-  - [2025-10-01: Possible Rhadamanthys disguised as cracked version of popular software](https://www.malware-traffic-analysis.net/2025/10/01/index.html)
+- Hexacorn
+  - [ntprint.exe lolbin](https://www.hexacorn.com/blog/2025/10/06/ntprint-exe-lolbin/)
 - Securelist
   - [How we trained an ML model to detect DLL hijacking](https://securelist.com/building-ml-model-to-detect-dll-hijacking/117565/)
   - [Detecting DLL hijacking with machine learning: real-world cases](https://securelist.com/detecting-dll-hijacking-with-machine-learning-in-kaspersky-siem/117567/)
-- Bug Bounty in InfoSec Write-ups on Medium
-  - [Actuator Unleashed: A Guide to Finding and Exploiting Spring Boot Actuator Endpoints](https://infosecwriteups.com/actuator-unleashed-a-guide-to-finding-and-exploiting-spring-boot-actuator-endpoints-29252dcd9d79?source=rss----7b722bfd1b8d--bug_bounty)
-  - [Week 12— Async API Calls: fetch, Axios, and Promises](https://infosecwriteups.com/week-12-async-api-calls-fetch-axios-and-promises-f8da63c5d91c?source=rss----7b722bfd1b8d--bug_bounty)
-  - [SQHell: Manually hunting SQL injection with detailed explanation](https://infosecwriteups.com/sqhell-manually-hunting-sql-injection-with-detailed-explanation-8fd24360c65e?source=rss----7b722bfd1b8d--bug_bounty)
-- Quarkslab's blog
-  - [Triple Threat: Signal's Ratchet Goes Post-Quantum](http://blog.quarkslab.com/triple-threat-signals-ratchet-goes-post-quantum.html)
 - Malwarebytes
   - [Phishers target 1Password users with convincing fake breach alert](https://www.malwarebytes.com/blog/news/2025/10/phishers-target-1password-users-with-convincing-fake-breach-alert)
   - [What&#8217;s there to save about social media? (Lock and Code S06E20)](https://www.malwarebytes.com/blog/podcast/2025/10/whats-there-to-save-about-social-media-lock-and-code-s06e20)
   - [How to set up two-factor authentication (2FA) on your Facebook account](https://www.malwarebytes.com/blog/news/2025/10/how-to-set-up-two-factor-authentication-2fa-on-your-facebook-account)
   - [A week in security (September 29 &#8211; October 5)](https://www.malwarebytes.com/blog/news/2025/10/a-week-in-security-september-29-october-5)
-- 奇客Solidot–传递最新科技情报
-  - [如果 AI 泡沫破裂？](https://www.solidot.org/story?sid=82486)
-  - [天文学家发现至今信号最强的奇异电波圈](https://www.solidot.org/story?sid=82485)
-  - [2025 年诺贝尔生理学或医学奖授予了免疫系统研究员](https://www.solidot.org/story?sid=82484)
-  - [如何阻止 AI 设计出有害蛋白质](https://www.solidot.org/story?sid=82483)
+- Malware-Traffic-Analysis.net - Blog Entries
+  - [2025-10-01: Possible Rhadamanthys disguised as cracked version of popular software](https://www.malware-traffic-analysis.net/2025/10/01/index.html)
+- Quarkslab's blog
+  - [Triple Threat: Signal's Ratchet Goes Post-Quantum](http://blog.quarkslab.com/triple-threat-signals-ratchet-goes-post-quantum.html)
 - 黑海洋 - Wiki
   - [Sora Code Finder：Sora 邀请码查找器 实时获取最新 OpenAI Sora 邀请码](https://blog.upx8.com/4862)
-- 安全分析与研究
-  - [捆绑LetsVPN安装程序银狐最新攻击样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493591&idx=1&sn=187d9350ac428bd6bcc66a2b8f92b155)
-- 黑鸟
-  - [注意！你天天用的鼠标，可能在偷偷录你说话](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182920&idx=1&sn=299fa013bc20266e1067d2eae66e99c6)
 - 吾爱破解论坛
   - [（图作者 | @Aoemax）](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143105&idx=1&sn=e5c65c407fb0f85eb24cd54c7e071ffc)
+- 安全分析与研究
+  - [捆绑LetsVPN安装程序银狐最新攻击样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493591&idx=1&sn=187d9350ac428bd6bcc66a2b8f92b155)
 - 青衣十三楼飞花堂
   - [《在家父李克农的影响下成长》-- 李力](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488689&idx=1&sn=69d7270f79965a1e32cd79bb3273f67b)
+- 丁爸 情报分析师的工具箱
+  - [【资料】美军有多少网络战部队？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152362&idx=1&sn=dfdbd6a189b62e33e1cb07be7785bab8)
+- 看雪学苑
+  - [2025中秋致谢 | 致深耕安全领域的伙伴，月圆情更浓，安全同共建！](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601625&idx=1&sn=96d973714d0be329e83848c5b8f9c9cb)
 - DataCon大数据安全分析竞赛
   - [月圆桂香满，家阖人安康！](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247489385&idx=1&sn=3bb329f091c84d771b3186980502c9b5)
   - [CTF精英特训营开营须知！](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247489385&idx=2&sn=0017d1808cbe61fda1b9caeef977a672)
-- 看雪学苑
-  - [2025中秋致谢 | 致深耕安全领域的伙伴，月圆情更浓，安全同共建！](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601625&idx=1&sn=96d973714d0be329e83848c5b8f9c9cb)
-- 丁爸 情报分析师的工具箱
-  - [【资料】美军有多少网络战部队？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152362&idx=1&sn=dfdbd6a189b62e33e1cb07be7785bab8)
 - dotNet安全矩阵
   - [.NET 实战攻防电子报刊，从内网基础到高阶实战！](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500748&idx=1&sn=0e6903ff69f0e0370b0c28df1369681a)
   - [.NET内网实战：.NET 通过APC注入绕过终端安全防护](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500748&idx=2&sn=bc3f1c3930a87dd21e7e32cdb94e0fba)
@@ -69,27 +51,27 @@
   - [【安全圈】多人因贩卖个人信息获刑：通过“小红书”寻找客户，查询信息530余条](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072069&idx=1&sn=bfb8a7e2f5a3b7543d048ac9d51823ac)
   - [【安全圈】黑客组织勒索39家企业，泄露思科、谷歌及全球航空公司失窃数据](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072069&idx=2&sn=3ad6f6f17217e44e8055a65dd0751026)
   - [【安全圈】又一起针对第三方的黑客攻击：雷诺英国公司部分客户数据遭窃](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072069&idx=3&sn=8b0468cc42064cad2588c57885634ce1)
-- 极客公园
-  - [社交媒体的黄金时代，结束了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653087866&idx=1&sn=7af8fa8c87bf18994e230abaf97ca45e)
-  - [今日迎本世纪「最晚中秋月圆」；雷军：小米17 五天销量破百万；ChatGPT 或添私信聊天功能 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653087974&idx=1&sn=138a707f3d42bf1b212bd69f060a71c3)
+- 黑鸟
+  - [注意！你天天用的鼠标，可能在偷偷录你说话](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182920&idx=1&sn=299fa013bc20266e1067d2eae66e99c6)
+- 情报分析师
+  - [间谍行动背后：美国最令人不安的十个秘密计划](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650562262&idx=1&sn=293a23fdbf581995fc3ce2cb3154a54e)
+  - [解密台美百亿农产品采购案，一场精心策划的“经济独幕剧”。](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650562262&idx=2&sn=68e8f18014fdb4d79a94124c08963d07)
 - 中国信息安全
   - [专题·反电诈 | 通信短信息领域执法边界及争议处理分析](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664250339&idx=1&sn=fa24e1b3357f34b1367b85dcc6a4d1ed)
   - [专家解读｜程学旗：新框架实现三个“转变”，构建我国人工智能安全治理新格局](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664250339&idx=2&sn=df03d98f02e2f22d8a0526ab5a3c2d8b)
   - [观点 | 构建更有温度的智能社会](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664250339&idx=3&sn=abc105356120b3a8df5690bc43655d12)
-- 情报分析师
-  - [间谍行动背后：美国最令人不安的十个秘密计划](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650562262&idx=1&sn=293a23fdbf581995fc3ce2cb3154a54e)
-  - [解密台美百亿农产品采购案，一场精心策划的“经济独幕剧”。](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650562262&idx=2&sn=68e8f18014fdb4d79a94124c08963d07)
+- 极客公园
+  - [社交媒体的黄金时代，结束了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653087866&idx=1&sn=7af8fa8c87bf18994e230abaf97ca45e)
+  - [今日迎本世纪「最晚中秋月圆」；雷军：小米17 五天销量破百万；ChatGPT 或添私信聊天功能 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653087974&idx=1&sn=138a707f3d42bf1b212bd69f060a71c3)
 - 360数字安全
   - [月满山河，“安” 伴左右｜这个中秋，让安全与美好同行](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247582335&idx=1&sn=43bae252974fda7dfb7660cac61c4f20)
-- Microsoft Security Blog
-  - [Inside Microsoft Threat Intelligence: Calm in the chaos](https://www.microsoft.com/en-us/security/security-insider/threat-landscape/inside-microsoft-threat-intelligence-calm-in-chaos#overview-video)
-  - [Investigating active exploitation of CVE-2025-10035 GoAnywhere Managed File Transfer vulnerability](https://www.microsoft.com/en-us/security/blog/2025/10/06/investigating-active-exploitation-of-cve-2025-10035-goanywhere-managed-file-transfer-vulnerability/)
-- Arturo Di Corinto
-  - [Datacrazia. Politica, cultura, algoritmica e conflitti al tempo dei big data](https://dicorinto.it/articoli/recensioni/datacrazia-politica-cultura-algoritmica-e-conflitti-al-tempo-dei-big-data/)
-- 迪哥讲事
-  - [记某众测任意用户密码重置漏洞挖掘](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498363&idx=1&sn=8cc94bffd169214ad2bab275c2506a6b)
-- SEI Blog
-  - [Enhancing Security with Cloud Flow Logs](https://www.sei.cmu.edu/blog/enhancing-security-with-cloud-flow-logs/?utm_source=blog&utm_medium=rss&utm_campaign=my_site_updates)
+- Securityinfo.it
+  - [Impennata delle scansioni dei portali di login di Palo Alto Networks: +500%](https://www.securityinfo.it/2025/10/06/impennata-delle-scansioni-dei-portali-di-login-di-palo-alto-networks-500/?utm_source=rss&utm_medium=rss&utm_campaign=impennata-delle-scansioni-dei-portali-di-login-di-palo-alto-networks-500)
+  - [Microsoft Sentinel: arriva l’era degli agenti AI e della difesa predittiva](https://www.securityinfo.it/2025/10/06/microsoft-sentinel-arriva-lera-degli-agenti-ai-e-della-difesa-predittiva/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-sentinel-arriva-lera-degli-agenti-ai-e-della-difesa-predittiva)
+  - [CERT-AGID 27 settembre – 3 ottobre: Weebly, tessera sanitaria e CieID sotto attacco](https://www.securityinfo.it/2025/10/06/cert-agid-27-settembre-3-ottobre-weebly-tessera-sanitaria-e-cieid-sotto-attacco/?utm_source=rss&utm_medium=rss&utm_campaign=cert-agid-27-settembre-3-ottobre-weebly-tessera-sanitaria-e-cieid-sotto-attacco)
+- SANS Internet Storm Center, InfoCON: green
+  - [Quick and Dirty Analysis of Possible Oracle E-Business Suite Exploit Script (CVE-2025-61882) &#x5b;UPDATED&#x5b;, (Mon, Oct 6th)](https://isc.sans.edu/diary/rss/32346)
+  - [ISC Stormcast For Monday, October 6th, 2025 https://isc.sans.edu/podcastdetail/9642, (Mon, Oct 6th)](https://isc.sans.edu/diary/rss/32344)
 - Over Security - Cybersecurity news aggregator
   - [Red Hat data breach escalates as ShinyHunters joins extortion](https://www.bleepingcomputer.com/news/security/red-hat-data-breach-escalates-as-shinyhunters-joins-extortion/)
   - [Medusa ransomware used during exploitation of GoAnywhere file transfer bug, Microsoft says](https://therecord.media/medusa-ransomware-exploited-file-transfer)
@@ -120,27 +102,30 @@
   - [Detecting DLL hijacking with machine learning: real-world cases](https://securelist.com/detecting-dll-hijacking-with-machine-learning-in-kaspersky-siem/117567/)
   - [How we trained an ML model to detect DLL hijacking](https://securelist.com/building-ml-model-to-detect-dll-hijacking/117565/)
   - [CERT-AGID 27 settembre – 3 ottobre: Weebly, tessera sanitaria e CieID sotto attacco](https://www.securityinfo.it/2025/10/06/cert-agid-27-settembre-3-ottobre-weebly-tessera-sanitaria-e-cieid-sotto-attacco/)
+- Troy Hunt's Blog
+  - [Weekly Update 472](https://www.troyhunt.com/weekly-update-472/)
+- Schneier on Security
+  - [AI in the 2026 Midterm Elections](https://www.schneier.com/blog/archives/2025/10/ai-in-the-2026-midterm-elections.html)
 - ICT Security Magazine
   - [Controlli e certificazioni in Unione Europea: AI Act, NIS2 e gestione dei rischi](https://www.ictsecuritymagazine.com/articoli/certificazioni-ue/)
   - [AI Security: Zero Knowledge Proofs vs crittografia omomorfica nel futuro dell’imaging intelligente](https://www.ictsecuritymagazine.com/articoli/zero-knowledge-proofs-ai/)
-- Securityinfo.it
-  - [Impennata delle scansioni dei portali di login di Palo Alto Networks: +500%](https://www.securityinfo.it/2025/10/06/impennata-delle-scansioni-dei-portali-di-login-di-palo-alto-networks-500/?utm_source=rss&utm_medium=rss&utm_campaign=impennata-delle-scansioni-dei-portali-di-login-di-palo-alto-networks-500)
-  - [Microsoft Sentinel: arriva l’era degli agenti AI e della difesa predittiva](https://www.securityinfo.it/2025/10/06/microsoft-sentinel-arriva-lera-degli-agenti-ai-e-della-difesa-predittiva/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-sentinel-arriva-lera-degli-agenti-ai-e-della-difesa-predittiva)
-  - [CERT-AGID 27 settembre – 3 ottobre: Weebly, tessera sanitaria e CieID sotto attacco](https://www.securityinfo.it/2025/10/06/cert-agid-27-settembre-3-ottobre-weebly-tessera-sanitaria-e-cieid-sotto-attacco/?utm_source=rss&utm_medium=rss&utm_campaign=cert-agid-27-settembre-3-ottobre-weebly-tessera-sanitaria-e-cieid-sotto-attacco)
-- Schneier on Security
-  - [AI in the 2026 Midterm Elections](https://www.schneier.com/blog/archives/2025/10/ai-in-the-2026-midterm-elections.html)
-- Graham Cluley
-  - [Discord users’ data stolen by hackers in third-party data breach](https://www.bitdefender.com/en-us/blog/hotforsecurity/discord-users-data-stolen-by-hackers-in-third-party-data-breach)
-- Tor Project blog
-  - [Arti 1.6.0 released: Circuit padding, side-channel attack mitigations, OpenTelemetry, and more.](https://blog.torproject.org/arti_1_6_0_released/)
-- Troy Hunt's Blog
-  - [Weekly Update 472](https://www.troyhunt.com/weekly-update-472/)
+- 奇客Solidot–传递最新科技情报
+  - [如果 AI 泡沫破裂？](https://www.solidot.org/story?sid=82486)
+  - [天文学家发现至今信号最强的奇异电波圈](https://www.solidot.org/story?sid=82485)
+  - [2025 年诺贝尔生理学或医学奖授予了免疫系统研究员](https://www.solidot.org/story?sid=82484)
+  - [如何阻止 AI 设计出有害蛋白质](https://www.solidot.org/story?sid=82483)
 - Security Affairs
   - [Discord discloses third-party breach affecting customer support data](https://securityaffairs.com/183039/data-breach/discord-discloses-third-party-breach-affecting-customer-support-data.html)
   - [Oracle patches critical E-Business Suite flaw exploited by Cl0p hackers](https://securityaffairs.com/183029/security/oracle-patches-critical-e-business-suite-flaw-exploited-by-cl0p-hackers.html)
   - [LinkedIn sues ProAPIs for $15K/Month LinkedIn data scraping scheme](https://securityaffairs.com/183001/security/linkedin-sues-proapis-for-15k-month-linkedin-data-scraping-scheme.html)
   - [Zimbra users targeted in zero-day exploit using iCalendar attachments](https://securityaffairs.com/183014/hacking/zimbra-users-targeted-in-zero-day-exploit-using-icalendar-attachments.html)
   - [Reading the ENISA Threat Landscape 2025 report](https://securityaffairs.com/182978/security/reading-the-enisa-threat-landscape-2025-report.html)
+- Security Weekly Podcast Network (Audio)
+  - [AI & IAM: Where Security Gets Superhuman (Or Supremely Stuck) - Matt Immler, Heather Ceylan, Alexander Makarov, Nitin Raina, Dor Fledel, Aaron Parecki - ESW #427](http://sites.libsyn.com/18678/ai-iam-where-security-gets-superhuman-or-supremely-stuck-matt-immler-heather-ceylan-alexander-makarov-nitin-raina-dor-fledel-aaron-parecki-esw-427)
+- Graham Cluley
+  - [Discord users’ data stolen by hackers in third-party data breach](https://www.bitdefender.com/en-us/blog/hotforsecurity/discord-users-data-stolen-by-hackers-in-third-party-data-breach)
+- SEI Blog
+  - [Enhancing Security with Cloud Flow Logs](https://www.sei.cmu.edu/blog/enhancing-security-with-cloud-flow-logs/?utm_source=blog&utm_medium=rss&utm_campaign=my_site_updates)
 - The Hacker News
   - [New Report Links Research Firms BIETA and CIII to China’s MSS Cyber Operations](https://thehackernews.com/2025/10/new-report-links-research-firms-bieta.html)
   - [⚡ Weekly Recap: Oracle 0-Day, BitLocker Bypass, VMScape, WhatsApp Worm & More](https://thehackernews.com/2025/10/weekly-recap-oracle-0-day-bitlocker.html)
@@ -148,10 +133,14 @@
   - [Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks](https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html)
   - [Chinese Cybercrime Group Runs Global SEO Fraud Ring Using Compromised IIS Servers](https://thehackernews.com/2025/10/chinese-cybercrime-group-runs-global.html)
   - [Zimbra Zero-Day Exploited to Target Brazilian Military via Malicious ICS Files](https://thehackernews.com/2025/10/zimbra-zero-day-exploited-to-target.html)
-- SANS Internet Storm Center, InfoCON: green
-  - [Quick and Dirty Analysis of Possible Oracle E-Business Suite Exploit Script (CVE-2025-61882) &#x5b;UPDATED&#x5b;, (Mon, Oct 6th)](https://isc.sans.edu/diary/rss/32346)
-  - [ISC Stormcast For Monday, October 6th, 2025 https://isc.sans.edu/podcastdetail/9642, (Mon, Oct 6th)](https://isc.sans.edu/diary/rss/32344)
 - Daniel Miessler
   - [AI Combines Tools, Operators, and Outcomes](https://danielmiessler.com/blog/ai-gives-you-outcomes?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- Security Weekly Podcast Network (Audio)
-  - [AI & IAM: Where Security Gets Superhuman (Or Supremely Stuck) - Matt Immler, Heather Ceylan, Alexander Makarov, Nitin Raina, Dor Fledel, Aaron Parecki - ESW #427](http://sites.libsyn.com/18678/ai-iam-where-security-gets-superhuman-or-supremely-stuck-matt-immler-heather-ceylan-alexander-makarov-nitin-raina-dor-fledel-aaron-parecki-esw-427)
+- Arturo Di Corinto
+  - [Datacrazia. Politica, cultura, algoritmica e conflitti al tempo dei big data](https://dicorinto.it/articoli/recensioni/datacrazia-politica-cultura-algoritmica-e-conflitti-al-tempo-dei-big-data/)
+- Tor Project blog
+  - [Arti 1.6.0 released: Circuit padding, side-channel attack mitigations, OpenTelemetry, and more.](https://blog.torproject.org/arti_1_6_0_released/)
+- 迪哥讲事
+  - [记某众测任意用户密码重置漏洞挖掘](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498363&idx=1&sn=8cc94bffd169214ad2bab275c2506a6b)
+- Microsoft Security Blog
+  - [Inside Microsoft Threat Intelligence: Calm in the chaos](https://www.microsoft.com/en-us/security/security-insider/threat-landscape/inside-microsoft-threat-intelligence-calm-in-chaos#overview-video)
+  - [Investigating active exploitation of CVE-2025-10035 GoAnywhere Managed File Transfer vulnerability](https://www.microsoft.com/en-us/security/blog/2025/10/06/investigating-active-exploitation-of-cve-2025-10035-goanywhere-managed-file-transfer-vulnerability/)
