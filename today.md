@@ -1,57 +1,59 @@
 # 每日安全资讯（2025-10-08）
 
-- ArthurChiao's Blog
-  - [[笔记]《人工智能简史（第二版）》（2025）](https://arthurchiao.github.io/blog/brief-history-of-ai-notes-zh/)
-- SecWiki News
-  - [SecWiki News 2025-10-07 Review](http://www.sec-wiki.com/?2025-10-07)
+- Recent Commits to cve:main
+  - [Update Tue Oct  7 11:41:25 UTC 2025](https://github.com/trickest/cve/commit/3c7a47ea2a4fb4ab8007873ca7544ef0dfb744e2)
 - InfoSec Write-ups - Medium
   - [How to Repair Outlook PST File without ScanPST.exe?](https://infosecwriteups.com/how-to-repair-outlook-pst-file-without-scanpst-exe-66ca1993f179?source=rss----7b722bfd1b8d---4)
   - [Hidden API Endpoints: The Hacker’s Secret Weapon](https://infosecwriteups.com/hidden-api-endpoints-the-hackers-secret-weapon-a9ee297a29c2?source=rss----7b722bfd1b8d---4)
   - [Adversary TTP Simulation Lab](https://infosecwriteups.com/adversary-emulation-and-threat-detection-cybersecurity-homelab-f1a02fbc2567?source=rss----7b722bfd1b8d---4)
   - [How a Single Signup Flaw Exposed 162,481 User Records](https://infosecwriteups.com/how-a-single-signup-flaw-exposed-162-481-user-records-070238ff9f4a?source=rss----7b722bfd1b8d---4)
+- ArthurChiao's Blog
+  - [[笔记]《人工智能简史（第二版）》（2025）](https://arthurchiao.github.io/blog/brief-history-of-ai-notes-zh/)
+- SecWiki News
+  - [SecWiki News 2025-10-07 Review](http://www.sec-wiki.com/?2025-10-07)
 - Tenable Blog
   - [Don’t Let Your Cloud Security Catch a Bad Case of Permission Creep](https://www.tenable.com/blog/dont-let-your-cloud-security-catch-a-bad-case-of-permission-creep)
-- Recent Commits to cve:main
-  - [Update Tue Oct  7 11:41:25 UTC 2025](https://github.com/trickest/cve/commit/3c7a47ea2a4fb4ab8007873ca7544ef0dfb744e2)
 - Microsoft Security Blog
   - [Disrupting threats targeting Microsoft Teams](https://www.microsoft.com/en-us/security/blog/2025/10/07/disrupting-threats-targeting-microsoft-teams/)
   - [New Microsoft Secure Future Initiative (SFI) patterns and practices: Practical guides to strengthen security](https://www.microsoft.com/en-us/security/blog/2025/10/07/new-microsoft-secure-future-initiative-sfi-patterns-and-practices-practical-guides-to-strengthen-security/)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [SugarCRM unauthenticated Remote Code Execution (RCE)](https://cxsecurity.com/issue/WLB-2025100006)
   - [GaatiTrack-1.0 Copyright©2025-Multiple-SQLi - Metasploit module](https://cxsecurity.com/issue/WLB-2025100005)
-- GuidePoint Security
-  - [Understanding the Cybersecurity Information Sharing Act (CISA) Expiration](https://www.guidepointsecurity.com/blog/understanding-cisa-expiration/)
+- Cerbero Blog
+  - [Memory Analysis Package 0.6](https://blog.cerbero.io/memory-analysis-package-0-6/)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [Hidden API Endpoints: The Hacker’s Secret Weapon](https://infosecwriteups.com/hidden-api-endpoints-the-hackers-secret-weapon-a9ee297a29c2?source=rss----7b722bfd1b8d--bug_bounty)
   - [How a Single Signup Flaw Exposed 162,481 User Records](https://infosecwriteups.com/how-a-single-signup-flaw-exposed-162-481-user-records-070238ff9f4a?source=rss----7b722bfd1b8d--bug_bounty)
-- Cerbero Blog
-  - [Memory Analysis Package 0.6](https://blog.cerbero.io/memory-analysis-package-0-6/)
+- GuidePoint Security
+  - [Understanding the Cybersecurity Information Sharing Act (CISA) Expiration](https://www.guidepointsecurity.com/blog/understanding-cisa-expiration/)
 - Horizon3.ai
   - [CVE-2025-61882](https://horizon3.ai/attack-research/vulnerabilities/cve-2025-61882/)
   - [Horizon3.ai Extends NodeZero® Platform with Active Directory Tripwires, Allowing Enterprises to Significantly Scale Offensive Security Efforts](https://horizon3.ai/news/press-release/horizon3-ai-extends-nodezero-platform-with-active-directory-tripwires-allowing-enterprises-to-significantly-scale-offensive-security-efforts/)
-- NVISO Labs
-  - [Detection Engineering: Practicing Detection-as-Code – Monitoring – Part 7](https://blog.nviso.eu/2025/10/07/detection-engineering-practicing-detection-as-code-monitoring-part-7/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2025-10-06: Japanese phishing emails](https://www.malware-traffic-analysis.net/2025/10/06/index.html)
   - [2025-10-02: Android malware](https://www.malware-traffic-analysis.net/2025/10/02/index.html)
-- Reverse Engineering
-  - [iOS emulation for security research — early access now open](https://www.reddit.com/r/ReverseEngineering/comments/1o0h4oz/ios_emulation_for_security_research_early_access/)
+- VMRay
+  - [Phishing Protection: Tools SOC Teams Trust in 2025 – An Ultimate Guide](https://www.vmray.com/phishing-protection-tools-for-soc-2025-ultimate-guide/)
+  - [VMRay SentinelOne Integration Delivers Full Threat Context](https://www.vmray.com/vmray-sentinelone-integration-delivers-full-threat-context/)
+- NVISO Labs
+  - [Detection Engineering: Practicing Detection-as-Code – Monitoring – Part 7](https://blog.nviso.eu/2025/10/07/detection-engineering-practicing-detection-as-code-monitoring-part-7/)
 - Malwarebytes
   - [Don’t connect your wallet: Best Wallet cryptocurrency scam is making the rounds](https://www.malwarebytes.com/blog/news/2025/10/dont-connect-your-wallet-best-wallet-cryptocurrency-scam-is-making-the-rounds)
   - [Troops and veterans’ personal information leaked in CPAP Medical data breach](https://www.malwarebytes.com/blog/news/2025/10/troops-and-veterans-personal-information-leaked-in-cpap-medical-data-breach)
   - [Discord warns users after data stolen in third-party breach](https://www.malwarebytes.com/blog/news/2025/10/discord-warns-users-after-data-stolen-in-third-party-breach)
+- Reverse Engineering
+  - [iOS emulation for security research — early access now open](https://www.reddit.com/r/ReverseEngineering/comments/1o0h4oz/ios_emulation_for_security_research_early_access/)
 - PortSwigger Blog
   - [The future of pentesting is Human x AI, and it's already in Burp Suite Professional](https://portswigger.net/blog/the-future-of-pentesting-is-human-x-ai-and-its-already-in-burp-suite-professional)
 - PortSwigger Blog
   - [The future of pentesting is Human x AI, and it's already in Burp Suite Professional](https://portswigger.net/blog/the-future-of-pentesting-is-human-x-ai-and-its-already-in-burp-suite-professional)
-- VMRay
-  - [Phishing Protection: Tools SOC Teams Trust in 2025 – An Ultimate Guide](https://www.vmray.com/phishing-protection-tools-for-soc-2025-ultimate-guide/)
-  - [VMRay SentinelOne Integration Delivers Full Threat Context](https://www.vmray.com/vmray-sentinelone-integration-delivers-full-threat-context/)
 - 奇客Solidot–传递最新科技情报
   - [微软表示会继续开发 XBox 游戏机](https://www.solidot.org/story?sid=82490)
   - [Ubuntu Linux 26.04 LTS  代号 Resolute Raccoon](https://www.solidot.org/story?sid=82489)
   - [2025 年诺贝尔物理学奖授予了三名研究量子力学的美国科学家](https://www.solidot.org/story?sid=82488)
   - [清理 50 块最具危险性的太空垃圾能将新碎片数量减半](https://www.solidot.org/story?sid=82487)
+- 黑鸟
+  - [美执法机构定向采购 Penlink 监控工具，数亿人手机位置隐私遭追踪](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182927&idx=1&sn=92d68f220892c9ea9e5815aee0dcadac)
 - 看雪学苑
   - [Windows内核CVE-2019-1215分析与复现](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601626&idx=1&sn=96fbadea99bbb779069babdb769a5de7)
 - dotNet安全矩阵
@@ -62,14 +64,14 @@
   - [专题·反电诈 | 骚扰电话治理需要考虑的几对关系](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664250368&idx=1&sn=cd8090720dae69b1c5b771d8622ad157)
   - [专家解读 | 胡坚波：健全数创企业源头发现机制，筑牢数字经济创新发展根基——解读《关于加强数字经济创新型企业培育的若干措施》](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664250368&idx=2&sn=7d289f01e47b4412b46a61eabf9b9ecb)
   - [观点 | 拧紧视频会议的“安全门”](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664250368&idx=3&sn=8301e9f716882d2abd0b650160bbbb08)
-- 极客公园
-  - [ChatGPT 变身 App Store，「对话即应用」时代到了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653088005&idx=1&sn=5776cdf44b8981de8bdad7defa4f0422)
-  - [OpenAI与AMD签百亿美元协议；特斯拉廉价Model Y将于7日发布；知名旅行、听歌应用入住ChatGPT | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653087992&idx=1&sn=e4a3e5963008d3665f446225eacb0a0e)
 - 安全圈
   - [【安全圈】steam崩了](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072104&idx=1&sn=41aa58cd5c2e2698eb99906a72fb8696)
   - [【安全圈】全球数据泄露态势月度报告](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072104&idx=2&sn=324b2de1f3fdfb6630ceca4f2aa2a4e3)
   - [【安全圈】黑客组织瞄准全球中文IIS服务器](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072104&idx=3&sn=800852211f6e7e133593437843a68114)
   - [【安全圈】英国雷诺遭遇黑客攻击，客户信息外泄](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072104&idx=4&sn=5e9ac567f097c966f332ebd91e787b78)
+- Microsoft Security Blog
+  - [Disrupting threats targeting Microsoft Teams](https://www.microsoft.com/en-us/security/blog/2025/10/07/disrupting-threats-targeting-microsoft-teams/)
+  - [New Microsoft Secure Future Initiative (SFI) patterns and practices: Practical guides to strengthen security](https://www.microsoft.com/en-us/security/blog/2025/10/07/new-microsoft-secure-future-initiative-sfi-patterns-and-practices-practical-guides-to-strengthen-security/)
 - Over Security - Cybersecurity news aggregator
   - [ShinyHunters Wage Broad Corporate Extortion Spree](https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/)
   - [Docker makes Hardened Images Catalog affordable for small businesses](https://www.bleepingcomputer.com/news/security/docker-makes-hardened-images-catalog-affordable-for-small-businesses/)
@@ -99,51 +101,33 @@
   - [La gestione degli asset, pilastro della sicurezza delle informazioni](https://www.cybersecurity360.it/soluzioni-aziendali/la-gestione-degli-asset-pilastro-della-sicurezza-delle-informazioni/)
   - [NIS2, nasce il referente CSIRT: ruolo, scadenze e impatti operativi per le organizzazioni italiane](https://www.cybersecurity360.it/legal/nis2-nasce-il-referente-csirt-ruolo-scadenze-e-impatti-operativi-per-le-organizzazioni-italiane/)
   - [Adpost - 3,339,512 breached accounts](https://haveibeenpwned.com/Breach/Adpost)
-- Krypt3ia
-  - [Threat Intelligence Report: Daejeon NIRS Data Center Fire Potential DPRK APT Nexus](https://krypt3ia.wordpress.com/2025/10/07/threat-intelligence-report-daejeon-nirs-data-center-fire-potential-dprk-apt-nexus/)
+- TrustedSec
+  - [PCI P2PE vs. E2EE – Scoping it Out](https://trustedsec.com/blog/pci-p2pe-vs-e2ee-scoping-it-out)
+- Securityinfo.it
+  - [ChatGPT usato per creare tool di sorveglianza di massa: l’allarme di OpenAI](https://www.securityinfo.it/2025/10/07/chatgpt-usato-per-creare-tool-di-sorveglianza-di-massa-lallarme-di-openai/?utm_source=rss&utm_medium=rss&utm_campaign=chatgpt-usato-per-creare-tool-di-sorveglianza-di-massa-lallarme-di-openai)
+- 极客公园
+  - [ChatGPT 变身 App Store，「对话即应用」时代到了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653088005&idx=1&sn=5776cdf44b8981de8bdad7defa4f0422)
+  - [OpenAI与AMD签百亿美元协议；特斯拉廉价Model Y将于7日发布；知名旅行、听歌应用入住ChatGPT | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653087992&idx=1&sn=e4a3e5963008d3665f446225eacb0a0e)
 - bellingcat
   - [Wildfires Ravage One of Africa’s Largest Nature Reserves](https://www.bellingcat.com/news/2025/10/07/wildfires-ravage-one-of-africas-largest-nature-reserves/)
 - ICT Security Magazine
   - [Sicurezza edge e Intelligenza Artificiale Distribuita, una svolta epocale per la cybersecurity](https://www.ictsecuritymagazine.com/articoli/sicurezza-edge/)
   - [Nano Banana AI: sicurezza e privacy nell’era dell’intelligenza artificiale generativa](https://www.ictsecuritymagazine.com/notizie/nano-banana-ai/)
-- Securityinfo.it
-  - [ChatGPT usato per creare tool di sorveglianza di massa: l’allarme di OpenAI](https://www.securityinfo.it/2025/10/07/chatgpt-usato-per-creare-tool-di-sorveglianza-di-massa-lallarme-di-openai/?utm_source=rss&utm_medium=rss&utm_campaign=chatgpt-usato-per-creare-tool-di-sorveglianza-di-massa-lallarme-di-openai)
 - Have I Been Pwned latest breaches
   - [Adpost - 3,339,512 breached accounts](https://haveibeenpwned.com/Breach/Adpost)
-- Microsoft Security Blog
-  - [Disrupting threats targeting Microsoft Teams](https://www.microsoft.com/en-us/security/blog/2025/10/07/disrupting-threats-targeting-microsoft-teams/)
-  - [New Microsoft Secure Future Initiative (SFI) patterns and practices: Practical guides to strengthen security](https://www.microsoft.com/en-us/security/blog/2025/10/07/new-microsoft-secure-future-initiative-sfi-patterns-and-practices-practical-guides-to-strengthen-security/)
+- Krypt3ia
+  - [Threat Intelligence Report: Daejeon NIRS Data Center Fire Potential DPRK APT Nexus](https://krypt3ia.wordpress.com/2025/10/07/threat-intelligence-report-daejeon-nirs-data-center-fire-potential-dprk-apt-nexus/)
 - SANS Internet Storm Center, InfoCON: green
   - [Exploit Against FreePBX (CVE-2025-57819) with code execution., (Tue, Oct 7th)](https://isc.sans.edu/diary/rss/32350)
   - [ISC Stormcast For Tuesday, October 7th, 2025 https://isc.sans.edu/podcastdetail/9644, (Tue, Oct 7th)](https://isc.sans.edu/diary/rss/32348)
-- Active Directory & Azure AD/Entra ID Security
-  - [Active Directory Security Tip #12: Kerberos Delegation](https://adsecurity.org/?p=4658)
 - Schneier on Security
   - [AI-Enabled Influence Operation Against Iran](https://www.schneier.com/blog/archives/2025/10/ai-enabled-influence-operation-against-iran.html)
-- Graham Cluley
-  - [The AI Fix #71: Hacked robots and power-hungry AI](https://grahamcluley.com/the-ai-fix-71/)
-- Tor Project blog
-  - [New Release: Tor Browser 14.5.8](https://blog.torproject.org/new-release-tor-browser-1458/)
-- Computer Forensics
-  - [Question about DF](https://www.reddit.com/r/computerforensics/comments/1o0hsqi/question_about_df/)
-- Your Open Hacker Community
-  - [Password Protected Installation Wizard](https://www.reddit.com/r/HowToHack/comments/1o0oo2u/password_protected_installation_wizard/)
-  - [PySilon cannot implode, and possibly false detection](https://www.reddit.com/r/HowToHack/comments/1o0dbm8/pysilon_cannot_implode_and_possibly_false/)
-  - [Tiktok won't ban an account](https://www.reddit.com/r/HowToHack/comments/1o0r318/tiktok_wont_ban_an_account/)
-  - [sup guys can someone of yall hack back my ubisoft account plz :**](https://www.reddit.com/r/HowToHack/comments/1o0tzvt/sup_guys_can_someone_of_yall_hack_back_my_ubisoft/)
-- TrustedSec
-  - [PCI P2PE vs. E2EE – Scoping it Out](https://trustedsec.com/blog/pci-p2pe-vs-e2ee-scoping-it-out)
-- Blackhat Library: Hacking techniques and research
-  - [Anyone here has Diamond Exchange betting website source code?](https://www.reddit.com/r/blackhat/comments/1o0qicy/anyone_here_has_diamond_exchange_betting_website/)
-  - [Smarthome Destroyer Device (yt)](https://www.reddit.com/r/blackhat/comments/1o06cvi/smarthome_destroyer_device_yt/)
-- Krebs on Security
-  - [ShinyHunters Wage Broad Corporate Extortion Spree](https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/)
-- 黑鸟
-  - [美执法机构定向采购 Penlink 监控工具，数亿人手机位置隐私遭追踪](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182927&idx=1&sn=92d68f220892c9ea9e5815aee0dcadac)
 - Full Disclosure
   - [Re: [FD]	Full Disclosure: CVE-2025-31200 & CVE-2025-31201 – 0-Click iMessage Chain → Secure Enclave Key Theft, Wormable RCE, Crypto Theft](https://seclists.org/fulldisclosure/2025/Oct/4)
   - [Re: Full Disclosure: CVE-2025-31200 & CVE-2025-31201 – 0-Click iMessage Chain → Secure Enclave Key Theft, Wormable RCE, Crypto Theft](https://seclists.org/fulldisclosure/2025/Oct/3)
   - [Re: Defense in depth -- the Microsoft way (part 93): SRP/SAFER	whitelisting goes black on Windows 11](https://seclists.org/fulldisclosure/2025/Oct/2)
+- Active Directory & Azure AD/Entra ID Security
+  - [Active Directory Security Tip #12: Kerberos Delegation](https://adsecurity.org/?p=4658)
 - The Hacker News
   - [BatShadow Group Uses New Go-Based 'Vampire Bot' Malware to Hunt Job Seekers](https://thehackernews.com/2025/10/batshadow-group-uses-new-go-based.html)
   - [Google's New AI Doesn't Just Find Vulnerabilities — It Rewrites Code to Patch Them](https://thehackernews.com/2025/10/googles-new-ai-doesnt-just-find.html)
@@ -152,20 +136,36 @@
   - [13-Year-Old Redis Flaw Exposed: CVSS 10.0 Vulnerability Lets Attackers Run Code Remotely](https://thehackernews.com/2025/10/13-year-redis-flaw-exposed-cvss-100.html)
   - [Microsoft Links Storm-1175 to GoAnywhere Exploit Deploying Medusa Ransomware](https://thehackernews.com/2025/10/microsoft-links-storm-1175-to.html)
   - [Oracle EBS Under Fire as Cl0p Exploits CVE-2025-61882 in Real-World Attacks](https://thehackernews.com/2025/10/oracle-ebs-under-fire-as-cl0p-exploits.html)
-- Information Security
-  - [Summaries of Cybersecurity News Worth Your Attention this Week – 2025-05-10](https://www.reddit.com/r/Information_Security/comments/1o0kz5j/summaries_of_cybersecurity_news_worth_your/)
-  - [Getting into the field](https://www.reddit.com/r/Information_Security/comments/1o0genq/getting_into_the_field/)
-  - [Information security for Mac users isn’t just antivirus—manage devices, restrict risky behaviors, and prevent data leaks.](https://www.reddit.com/r/Information_Security/comments/1o0ady8/information_security_for_mac_users_isnt_just/)
+- Tor Project blog
+  - [New Release: Tor Browser 14.5.8](https://blog.torproject.org/new-release-tor-browser-1458/)
 - Security Affairs
   - [U.S. CISA adds Synacor Zimbra Collaboration Suite (ZCS) flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/183085/hacking/u-s-cisa-adds-synacor-zimbra-collaboration-suite-zcs-flaw-to-its-known-exploited-vulnerabilities-catalog.html)
   - [GoAnywhere MFT zero-day used by Storm-1175 in Medusa ransomware campaigns](https://securityaffairs.com/183075/hacking/goanywhere-mft-zero-day-used-by-storm-1175-in-medusa-ransomware-campaigns.html)
   - [CrowdStrike ties Oracle EBS RCE (CVE-2025-61882) to Cl0p attacks began Aug 9, 2025](https://securityaffairs.com/183065/cyber-crime/crowdstrike-ties-oracle-ebs-rce-cve-2025-61882-to-cl0p-attacks-began-aug-9-2025.html)
   - [U.S. CISA adds Oracle, Mozilla, Microsoft Windows, Linux Kernel, and Microsoft IE flaws to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/183049/security/u-s-cisa-adds-oracle-mozilla-microsoft-windows-linux-kernel-and-microsoft-ie-flaws-to-its-known-exploited-vulnerabilities-catalog.html)
+- Graham Cluley
+  - [The AI Fix #71: Hacked robots and power-hungry AI](https://grahamcluley.com/the-ai-fix-71/)
+- Blackhat Library: Hacking techniques and research
+  - [Anyone here has Diamond Exchange betting website source code?](https://www.reddit.com/r/blackhat/comments/1o0qicy/anyone_here_has_diamond_exchange_betting_website/)
+  - [Smarthome Destroyer Device (yt)](https://www.reddit.com/r/blackhat/comments/1o06cvi/smarthome_destroyer_device_yt/)
+- Information Security
+  - [Summaries of Cybersecurity News Worth Your Attention this Week – 2025-05-10](https://www.reddit.com/r/Information_Security/comments/1o0kz5j/summaries_of_cybersecurity_news_worth_your/)
+  - [Getting into the field](https://www.reddit.com/r/Information_Security/comments/1o0genq/getting_into_the_field/)
+  - [Information security for Mac users isn’t just antivirus—manage devices, restrict risky behaviors, and prevent data leaks.](https://www.reddit.com/r/Information_Security/comments/1o0ady8/information_security_for_mac_users_isnt_just/)
 - Deeplinks
   - [How to File a Privacy Complaint in California](https://www.eff.org/deeplinks/2025/10/how-file-privacy-complaint-california)
   - [California Targets Tractor Supply's Tricky Tracking](https://www.eff.org/deeplinks/2025/10/california-targets-tractor-supplys-tricky-tracking)
   - [Opt Out October: Daily Tips to Protect Your Privacy and Security](https://www.eff.org/deeplinks/2025/09/opt-out-october-daily-tips-protect-your-privacy-and-security)
   - [Flock Safety and Texas Sheriff Claimed License Plate Search Was for a Missing Person. It Was an Abortion Investigation.](https://www.eff.org/deeplinks/2025/10/flock-safety-and-texas-sheriff-claimed-license-plate-search-was-missing-person-it)
+- Your Open Hacker Community
+  - [Password Protected Installation Wizard](https://www.reddit.com/r/HowToHack/comments/1o0oo2u/password_protected_installation_wizard/)
+  - [PySilon cannot implode, and possibly false detection](https://www.reddit.com/r/HowToHack/comments/1o0dbm8/pysilon_cannot_implode_and_possibly_false/)
+  - [Tiktok won't ban an account](https://www.reddit.com/r/HowToHack/comments/1o0r318/tiktok_wont_ban_an_account/)
+  - [sup guys can someone of yall hack back my ubisoft account plz :**](https://www.reddit.com/r/HowToHack/comments/1o0tzvt/sup_guys_can_someone_of_yall_hack_back_my_ubisoft/)
+- Krebs on Security
+  - [ShinyHunters Wage Broad Corporate Extortion Spree](https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/)
+- Computer Forensics
+  - [Question about DF](https://www.reddit.com/r/computerforensics/comments/1o0hsqi/question_about_df/)
 - NVISO Labs
   - [Detection Engineering: Practicing Detection-as-Code – Monitoring – Part 7](https://blog.nviso.eu/2025/10/07/detection-engineering-practicing-detection-as-code-monitoring-part-7/)
 - Daniel Miessler
