@@ -1,13 +1,13 @@
 # 每日安全资讯（2025-10-09）
 
-- SecWiki News
-  - [SecWiki News 2025-10-08 Review](http://www.sec-wiki.com/?2025-10-08)
-- Recent Commits to cve:main
-  - [Update Wed Oct  8 11:35:47 UTC 2025](https://github.com/trickest/cve/commit/0b170d3f23246a9b99dc2d65efb1c4662765797f)
 - Tenable Blog
   - [Exposure Management Beyond The Endpoint](https://www.tenable.com/blog/exposure-management-beyond-the-endpoint)
+- Recent Commits to cve:main
+  - [Update Wed Oct  8 11:35:47 UTC 2025](https://github.com/trickest/cve/commit/0b170d3f23246a9b99dc2d65efb1c4662765797f)
 - Trustwave Blog
   - [Trustwave Named a Leader in IDC MarketScape: Asia/Pacific (Excluding Japan) MDR Services 2025](https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/trustwave-named-a-leader-in-the-idc-marketscape-asia-pacific-excluding-japan-managed-detection-and-response-services-2025/)
+- SecWiki News
+  - [SecWiki News 2025-10-08 Review](http://www.sec-wiki.com/?2025-10-08)
 - Zdziarski
   - [Arcade Hardware Hacking: Part III](https://www.zdziarski.com/blog/?p=13373)
 - GuidePoint Security
@@ -22,68 +22,62 @@
   - [Modeling scams see mature models as attractive new prospects](https://www.malwarebytes.com/blog/news/2025/10/modeling-scams-see-mature-models-as-attractive-new-prospects)
   - [Is your computer mouse eavesdropping on you?](https://www.malwarebytes.com/blog/news/2025/10/is-your-computer-mouse-eavesdropping-on-you)
   - [“Can you test my game?” Fake itch.io pages spread hidden malware to gamers](https://www.malwarebytes.com/blog/threat-intel/2025/10/can-you-test-my-game-fake-itch-io-pages-spread-hidden-malware-to-gamers)
-- Quarkslab's blog
-  - [BYOVD to the next level (part 2) — rootkit like it's 2025](http://blog.quarkslab.com/exploiting-lenovo-driver-cve-2025-8061_part2.html)
+- Shostack & Friends Blog
+  - [AI Insurance Won't Save You](https://shostack.org/blog/ai-insurance-wont-save-you/)
 - rtl-sdr.com
   - [VU GPSDR: An RTL-SDR Expansion Board for the Vivid Single Board Computer](https://www.rtl-sdr.com/vu-gpsdr-an-rtl-sdr-expansion-board-for-the-vivid-single-board-computer/)
+- Quarkslab's blog
+  - [BYOVD to the next level (part 2) — rootkit like it's 2025](http://blog.quarkslab.com/exploiting-lenovo-driver-cve-2025-8061_part2.html)
 - 奇客Solidot–传递最新科技情报
   - [丹麦计划禁止 15 岁以下儿童使用社交媒体](https://www.solidot.org/story?sid=82495)
   - [阿富汗屏蔽 Facebook、Instagram 和 Snapchat 等社交平台](https://www.solidot.org/story?sid=82494)
   - [在销量暴跌之后群晖允许其 NAS 产品使用第三方品牌硬盘](https://www.solidot.org/story?sid=82493)
   - [2025 年诺贝尔化学奖授予了美日英科学家](https://www.solidot.org/story?sid=82492)
   - [砍伐森林，蝴蝶失色](https://www.solidot.org/story?sid=82491)
-- 思想花火
-  - [从《我看见的世界》里品出的育儿经](https://mp.weixin.qq.com/s?__biz=MjM5Mjc0MDU1MQ==&mid=2452314046&idx=1&sn=5ccc37c3e90e66f928be68f2a0fa11df)
-- Shostack & Friends Blog
-  - [AI Insurance Won't Save You](https://shostack.org/blog/ai-insurance-wont-save-you/)
-- Black Hills Information Security, Inc.
-  - [Getting Started with AI Hacking Part 2: Prompt Injection](https://www.blackhillsinfosec.com/getting-started-with-ai-hacking-part-2/)
 - 奇安信 CERT
   - [Redis Lua脚本远程代码执行漏洞(CVE-2025-49844)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503974&idx=1&sn=81542dd0847c9c10168672a7e898cf0f)
+- 思想花火
+  - [从《我看见的世界》里品出的育儿经](https://mp.weixin.qq.com/s?__biz=MjM5Mjc0MDU1MQ==&mid=2452314046&idx=1&sn=5ccc37c3e90e66f928be68f2a0fa11df)
+- 小迪随笔
+  - [OpenAI 发布会里一页价值万亿的PPT](https://mp.weixin.qq.com/s?__biz=MzAxMjIyNDE4Mg==&mid=2651759299&idx=1&sn=6d6d33759fa2a1c04cd5ddaed6bfabc8)
 - 威努特安全网络
   - [威努特分布式存储为城市交通打造智能数据中枢](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651136237&idx=1&sn=e51faf8a83cd69c2513b8f42c3bfbf72)
 - 看雪学苑
   - [SDC2025 精彩议题预告 | 危险游戏：智能驾驶一线攻防实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601628&idx=1&sn=fb657badfd0d41066f75e43183457b22)
 - 青山青吖
   - [写在黄金4000点 | 黄金](https://mp.weixin.qq.com/s?__biz=MzI5NzAzMDg0NA==&mid=2650698487&idx=1&sn=897e9dc8d8b1e7605dc2b06422e09e21)
-- 全频带阻塞干扰
-  - [窃听大阴谋 | 虽然和《教父》齐名，但你可能从未看过](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648958991&idx=1&sn=e0fc854289edbdf857c7b455eb6b1058)
+- Black Hills Information Security, Inc.
+  - [Getting Started with AI Hacking Part 2: Prompt Injection](https://www.blackhillsinfosec.com/getting-started-with-ai-hacking-part-2/)
 - 黑鸟
   - [专钓 “准间谍”：伪造英国情报机构招募网站的认知战陷阱](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182939&idx=1&sn=f408f5e2915be1b631a3054fed3b1714)
-- 黑海洋 - Wiki
-  - [绕过CDN查找网站真实IP的实用方法](https://blog.upx8.com/4866)
-  - [cloudflare-workers-blog程序（CF-Blog搭建教程）](https://blog.upx8.com/4864)
+- 丁爸 情报分析师的工具箱
+  - [【资源】OSINT企业及创业者（2）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152413&idx=1&sn=218f9c352ec81591834583f2e2078a50)
 - dotNet安全矩阵
   - [[ .NET 安全代码审计 ] 从零基础到高阶实战，开启漏洞赏金之路](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500765&idx=1&sn=cfc9ca108eb34fd28bb64d7e0484c9cb)
   - [CVE-2025-53772 IIS Web Deploy 系统反序列化漏洞深度剖析](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500765&idx=2&sn=f3fa9ab207841cf85dc525fc2703204b)
-- 丁爸 情报分析师的工具箱
-  - [【资源】OSINT企业及创业者（2）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152413&idx=1&sn=218f9c352ec81591834583f2e2078a50)
+- 青衣十三楼飞花堂
+  - [《我的爷爷王辉球》-- 林林](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488701&idx=1&sn=38a0b4dc9daf56a01162e629b5d26c8f)
+  - [《怀念家父李克农》-- 李力](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488695&idx=1&sn=d9848c7e9b675c8427ca7dd4bb466398)
+- 安全分析与研究
+  - [银狐最新过沙箱高级免杀木马分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493625&idx=1&sn=3a42088698461230d578a2a055af4839)
+- 黑海洋 - Wiki
+  - [绕过CDN查找网站真实IP的实用方法](https://blog.upx8.com/4866)
+  - [cloudflare-workers-blog程序（CF-Blog搭建教程）](https://blog.upx8.com/4864)
 - 信息安全国家工程研究中心
   - [【二十四节气】寒露 | 气冷疑秋晚，声微觉夜阑。](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247501173&idx=1&sn=c7054371e8582cb08a3a302b44701b84)
-- 中国信息安全
-  - [专题·反电诈 | 数字克隆人诈骗技术及其应对措施](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664250388&idx=1&sn=a80b434d2bf2f8fac0d3e9d0f01cc86c)
-  - [专家解读｜刘博：多措并举推进标识体系建设，助力新时代人工智能健康发展](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664250388&idx=2&sn=0d72041db306732f997d1ae107f0a195)
-  - [观点 | 未成年人网络权益保护视角下我国算法推荐技术的主要问题及完善建议](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664250388&idx=3&sn=3a0a992c45b1ef5dc516369265f4c438)
 - 安全圈
   - [【安全圈】安全警报！红帽遭攻击：570GB核心开发库泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072117&idx=1&sn=5a5d75bb0bdca0321ad67d3f74ff6b99)
   - [【安全圈】朝鲜黑客疯狂盗窃加密货币：专盯富豪钱包，涉案金额超140亿元](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072117&idx=2&sn=90c00fce463ae0f41623aa384d158f65)
   - [【安全圈】勒索攻击致啤酒巨头瘫痪！黑客组织"麒麟"公开叫嚣](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072117&idx=3&sn=ac4a546f3434e69e58695bdec7418e09)
-- 小迪随笔
-  - [OpenAI 发布会里一页价值万亿的PPT](https://mp.weixin.qq.com/s?__biz=MzAxMjIyNDE4Mg==&mid=2651759299&idx=1&sn=6d6d33759fa2a1c04cd5ddaed6bfabc8)
-- 安全分析与研究
-  - [银狐最新过沙箱高级免杀木马分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493625&idx=1&sn=3a42088698461230d578a2a055af4839)
-- 青衣十三楼飞花堂
-  - [《我的爷爷王辉球》-- 林林](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488701&idx=1&sn=38a0b4dc9daf56a01162e629b5d26c8f)
-  - [《怀念家父李克农》-- 李力](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488695&idx=1&sn=d9848c7e9b675c8427ca7dd4bb466398)
-- DEF CON Announcements!
-  - [DEF CON Singapore Call for Trainers!](https://training.defcon.org/pages/2026-singapore-call-for-trainers)
+- 中国信息安全
+  - [专题·反电诈 | 数字克隆人诈骗技术及其应对措施](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664250388&idx=1&sn=a80b434d2bf2f8fac0d3e9d0f01cc86c)
+  - [专家解读｜刘博：多措并举推进标识体系建设，助力新时代人工智能健康发展](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664250388&idx=2&sn=0d72041db306732f997d1ae107f0a195)
+  - [观点 | 未成年人网络权益保护视角下我国算法推荐技术的主要问题及完善建议](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664250388&idx=3&sn=3a0a992c45b1ef5dc516369265f4c438)
 - 极客公园
   - [「丐中丐」版特斯拉来了，Model 3/Y 降价超 3.5 万元](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653088035&idx=1&sn=0db910cf7dd26f5d15cf9c652e2e9a69)
   - [最便宜 Model 3/Y 亮相，26.4 万；Ive 揭秘 OpenAI 硬件；诺贝尔物理学奖授予量子力学科学家｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653088025&idx=1&sn=29702bb5d654126c3989ab84319a880a)
 - 迪哥讲事
   - [常见各组件以及系统默认弱口令](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498371&idx=1&sn=88579785fbd61a0b516231fee58a0686)
-- Securityinfo.it
-  - [Una vulnerabilità di Figma MCP consente l’esecuzione di codice da remoto](https://www.securityinfo.it/2025/10/08/una-vulnerabilita-di-figma-mcp-consente-lesecuzione-di-codice-da-remoto/?utm_source=rss&utm_medium=rss&utm_campaign=una-vulnerabilita-di-figma-mcp-consente-lesecuzione-di-codice-da-remoto)
 - Over Security - Cybersecurity news aggregator
   - [I 10 controlli tecnici per verificare se una mail è originale o falsa ed evitare truffe e phishing](https://www.cybersecurity360.it/cultura-cyber/i-10-controlli-tecnici-per-verificare-se-una-mail-e-originale-o-falsa/)
   - [California enacts law giving consumers ability to universally opt out of data sharing](https://therecord.media/california-signs-law-opt-out-browsers)
@@ -116,29 +110,20 @@
   - [Il settore finanziario ha bisogno di resilienza. Qualche suggerimento](https://www.cybersecurity360.it/outlook/resilienza-settore-finanziario/)
   - [Top 7 Cybersecurity Newsletters Worth Your Inbox](https://www.group-ib.com/blog/cybersecurity-newsletters/)
   - [Salesforce refuses to pay ransom over widespread data theft attacks](https://www.bleepingcomputer.com/news/security/salesforce-refuses-to-pay-ransom-over-widespread-data-theft-attacks/)
-- SANS Internet Storm Center, InfoCON: green
-  - [Polymorphic Python Malware, (Wed, Oct 8th)](https://isc.sans.edu/diary/rss/32354)
-  - [ISC Stormcast For Wednesday, October 8th, 2025 https://isc.sans.edu/podcastdetail/9646, (Wed, Oct 8th)](https://isc.sans.edu/diary/rss/32352)
+- Securityinfo.it
+  - [Una vulnerabilità di Figma MCP consente l’esecuzione di codice da remoto](https://www.securityinfo.it/2025/10/08/una-vulnerabilita-di-figma-mcp-consente-lesecuzione-di-codice-da-remoto/?utm_source=rss&utm_medium=rss&utm_campaign=una-vulnerabilita-di-figma-mcp-consente-lesecuzione-di-codice-da-remoto)
+- 全频带阻塞干扰
+  - [窃听大阴谋 | 虽然和《教父》齐名，但你可能从未看过](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648958991&idx=1&sn=e0fc854289edbdf857c7b455eb6b1058)
+- DEF CON Announcements!
+  - [DEF CON Singapore Call for Trainers!](https://training.defcon.org/pages/2026-singapore-call-for-trainers)
 - ICT Security Magazine
   - [Cybersecurity israeliana: l’architettura della supremazia digitale occidentale (e le sue ombre)](https://www.ictsecuritymagazine.com/articoli/cybersecurity-israeliana/)
   - [La sovraesposizione dei dati personali online](https://www.ictsecuritymagazine.com/articoli/dati-personali/)
   - [Paga con la faccia: sicurezza o incubo dei dati biometrici?](https://www.ictsecuritymagazine.com/notizie/dati-biometrici/)
-- Security Weekly Podcast Network (Audio)
-  - [Forrester's Global Cybersecurity Market Forecast Before AI Fully Kicks In - Merritt Maxim - BSW #416](http://sites.libsyn.com/18678/forresters-global-cybersecurity-market-forecast-before-ai-fully-kicks-in-merritt-maxim-bsw-416)
-- Security Affairs
-  - [Qilin ransomware claimed responsibility for the attack on the beer giant Asahi](https://securityaffairs.com/183131/cyber-crime/qilin-ransomware-claimed-responsibility-for-the-asahi-attack.html)
-  - [DragonForce, LockBit, and Qilin, a new triad aims to dominate the ransomware landscape](https://securityaffairs.com/183119/cyber-crime/dragonforce-lockbit-and-qilin-a-new-triad-aims-to-dominate-the-ransomware-landscape.html)
-  - [DraftKings thwarts credential stuffing attack, but urges password reset and MFA](https://securityaffairs.com/183110/security/draftkings-thwarts-credential-stuffing-attack-but-urges-password-reset-and-mfa.html)
-  - [Redis patches 13-Year-Old Lua flaw enabling Remote Code Execution](https://securityaffairs.com/183097/security/redis-patches-13-year-old-lua-flaw-enabling-remote-code-execution.html)
-- Deeplinks
-  - [EFF and Other Organizations: Keep Key Intelligence Positions Senate Confirmed](https://www.eff.org/deeplinks/2025/10/eff-and-other-organizations-keep-key-intelligence-positions-senate-confirmed)
-- 白帽子章华鹏
-  - [聊聊成为CISO的五个关键能力](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650237814&idx=1&sn=edd91d1cca99f3d24885225485084bd5)
 - Schneier on Security
   - [Flok License Plate Surveillance](https://www.schneier.com/blog/archives/2025/10/flok-license-plate-surveillance.html)
-- Graham Cluley
-  - [Smashing Security podcast #438: When your mouse turns snitch, and hackers grow a conscience](https://grahamcluley.com/smashing-security-podcast-438/)
-  - [Salesforce data breach: what you need to know](https://www.fortra.com/blog/salesforce-data-breach-what-need-know)
+- 白帽子章华鹏
+  - [聊聊成为CISO的五个关键能力](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650237814&idx=1&sn=edd91d1cca99f3d24885225485084bd5)
 - The Hacker News
   - [Hackers Exploit WordPress Sites to Power Next-Gen ClickFix Phishing Attacks](https://thehackernews.com/2025/10/hackers-exploit-wordpress-themes-to.html)
   - [Chinese Hackers Weaponize Open-Source Nezha Tool in New Attack Wave](https://thehackernews.com/2025/10/chinese-hackers-weaponize-open-source.html)
@@ -147,5 +132,20 @@
   - [Severe Framelink Figma MCP Vulnerability Lets Hackers Execute Code Remotely](https://thehackernews.com/2025/10/severe-figma-mcp-vulnerability-lets.html)
   - [No Time to Waste: Embedding AI to Cut Noise and Reduce Risk](https://thehackernews.com/2025/09/automation-is-redefining-pentest.html)
   - [OpenAI Disrupts Russian, North Korean, and Chinese Hackers Misusing ChatGPT for Cyberattacks](https://thehackernews.com/2025/10/openai-disrupts-russian-north-korean.html)
+- Security Weekly Podcast Network (Audio)
+  - [Forrester's Global Cybersecurity Market Forecast Before AI Fully Kicks In - Merritt Maxim - BSW #416](http://sites.libsyn.com/18678/forresters-global-cybersecurity-market-forecast-before-ai-fully-kicks-in-merritt-maxim-bsw-416)
+- SANS Internet Storm Center, InfoCON: green
+  - [Polymorphic Python Malware, (Wed, Oct 8th)](https://isc.sans.edu/diary/rss/32354)
+  - [ISC Stormcast For Wednesday, October 8th, 2025 https://isc.sans.edu/podcastdetail/9646, (Wed, Oct 8th)](https://isc.sans.edu/diary/rss/32352)
+- Graham Cluley
+  - [Smashing Security podcast #438: When your mouse turns snitch, and hackers grow a conscience](https://grahamcluley.com/smashing-security-podcast-438/)
+  - [Salesforce data breach: what you need to know](https://www.fortra.com/blog/salesforce-data-breach-what-need-know)
+- Security Affairs
+  - [Qilin ransomware claimed responsibility for the attack on the beer giant Asahi](https://securityaffairs.com/183131/cyber-crime/qilin-ransomware-claimed-responsibility-for-the-asahi-attack.html)
+  - [DragonForce, LockBit, and Qilin, a new triad aims to dominate the ransomware landscape](https://securityaffairs.com/183119/cyber-crime/dragonforce-lockbit-and-qilin-a-new-triad-aims-to-dominate-the-ransomware-landscape.html)
+  - [DraftKings thwarts credential stuffing attack, but urges password reset and MFA](https://securityaffairs.com/183110/security/draftkings-thwarts-credential-stuffing-attack-but-urges-password-reset-and-mfa.html)
+  - [Redis patches 13-Year-Old Lua flaw enabling Remote Code Execution](https://securityaffairs.com/183097/security/redis-patches-13-year-old-lua-flaw-enabling-remote-code-execution.html)
+- Deeplinks
+  - [EFF and Other Organizations: Keep Key Intelligence Positions Senate Confirmed](https://www.eff.org/deeplinks/2025/10/eff-and-other-organizations-keep-key-intelligence-positions-senate-confirmed)
 - Dark Space Blogspot
   - [Sorveglianza Di Massa? Online Safety Act e Chat Control](http://darkwhite666.blogspot.com/2025/10/sorveglianza-di-massa-online-safety-act.html)
