@@ -2,12 +2,18 @@
 
 - Sukka's Blog
   - [是什么，为什么，怎么做 —— 谈谈 DNS 泄漏、CDN 访问优化与 Fake IP](https://blog.skk.moe/post/lets-talk-about-dns-cdn-fake-ip/)
-- Taxodium
-  - [Album#5 - Darklands](https://taxodium.ink/album-5.html)
 - Trustwave Blog
   - [SocGholish: Turning Application Updates into Vexing Infections](https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/socgholish-turning-application-updates-into-vexing-infections/)
-- 博客
-  - [B-die](https://dyrnq.com/b-die/)
+- Tenable Blog
+  - [F5 BIG-IP Breach: 44 CVEs That Need Your Attention Now](https://www.tenable.com/blog/f5-big-ip-breach-44-cves-that-need-your-attention-now)
+  - [Tenable Discovers Critical Vulnerabilities in SimpleHelp Tool: CVE-2025-36727 and CVE-2025-36728](https://www.tenable.com/blog/tenable-discovers-critical-vulnerabilities-in-simplehelp-tool-cve-2025-36727-and-cve-2025)
+- Taxodium
+  - [Album#5 - Darklands](https://taxodium.ink/album-5.html)
+- SecWiki News
+  - [SecWiki News 2025-10-16 Review](http://www.sec-wiki.com/?2025-10-16)
+- 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
+  - [零日攻击事件后 微软限制 Edge 浏览器 IE 模式访问权限](https://www.4hou.com/posts/J1mD)
+  - [啤酒巨头朝日遭网络攻击 Qilin勒索软件团伙宣称对此事件负责](https://www.4hou.com/posts/qo33)
 - InfoSec Write-ups - Medium
   - [Mastering Host Header Injection: Techniques, Payloads and Real-World Scenarios](https://infosecwriteups.com/mastering-host-header-injection-techniques-payloads-and-real-world-scenarios-e00c9e1f85cd?source=rss----7b722bfd1b8d---4)
   - [The Ultimate Guide to 403 Forbidden Bypass (2025 Edition)](https://infosecwriteups.com/the-ultimate-guide-to-403-forbidden-bypass-2025-edition-1b2e852e503e?source=rss----7b722bfd1b8d---4)
@@ -19,41 +25,29 @@
   - [ProtoVault Breach Forensics Challenge Offsec CTF Week 1](https://infosecwriteups.com/protovault-breach-forensics-challenge-offsec-ctf-week-1-3baca49f556d?source=rss----7b722bfd1b8d---4)
   - [Internal Password Spraying from Linux: Attacking Active Directory](https://infosecwriteups.com/internal-password-spraying-from-linux-attacking-active-directory-c2b79c5348ff?source=rss----7b722bfd1b8d---4)
   - [How I was able to discover Broken Access Control](https://infosecwriteups.com/how-i-was-able-to-discover-broken-access-control-79982cba80b8?source=rss----7b722bfd1b8d---4)
-- SecWiki News
-  - [SecWiki News 2025-10-16 Review](http://www.sec-wiki.com/?2025-10-16)
-- 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
-  - [零日攻击事件后 微软限制 Edge 浏览器 IE 模式访问权限](https://www.4hou.com/posts/J1mD)
-  - [啤酒巨头朝日遭网络攻击 Qilin勒索软件团伙宣称对此事件负责](https://www.4hou.com/posts/qo33)
-- Tenable Blog
-  - [F5 BIG-IP Breach: 44 CVEs That Need Your Attention Now](https://www.tenable.com/blog/f5-big-ip-breach-44-cves-that-need-your-attention-now)
-  - [Tenable Discovers Critical Vulnerabilities in SimpleHelp Tool: CVE-2025-36727 and CVE-2025-36728](https://www.tenable.com/blog/tenable-discovers-critical-vulnerabilities-in-simplehelp-tool-cve-2025-36727-and-cve-2025)
+- 博客
+  - [B-die](https://dyrnq.com/b-die/)
+- Microsoft Security Blog
+  - [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for SIEM](https://www.microsoft.com/en-us/security/blog/2025/10/16/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-siem/)
+  - [Extortion and ransomware drive over half of cyberattacks](https://blogs.microsoft.com/on-the-issues/2025/10/16/mddr-2025/)
 - Cerbero Blog
   - [Memory Challenge 3: Invisible](https://blog.cerbero.io/memory-challenge-3-invisible/)
 - Blog – Red Siege Information Security
   - [Errors to Exploits: Mining Error Messages for Gold](https://redsiege.com/blog/2025/10/errors-to-exploits-mining-error-messages-for-gold/)
 - GuidePoint Security
   - [Cybersecurity Awareness Month: Stop the Spread: Diagnosing and Defeating Tool Sprawl in Cybersecurity](https://www.guidepointsecurity.com/blog/diagnose-and-defeat-tool-sprawl/)
-- Bug Bounty in InfoSec Write-ups on Medium
-  - [Mastering Host Header Injection: Techniques, Payloads and Real-World Scenarios](https://infosecwriteups.com/mastering-host-header-injection-techniques-payloads-and-real-world-scenarios-e00c9e1f85cd?source=rss----7b722bfd1b8d--bug_bounty)
-  - [The Ultimate Guide to 403 Forbidden Bypass (2025 Edition)](https://infosecwriteups.com/the-ultimate-guide-to-403-forbidden-bypass-2025-edition-1b2e852e503e?source=rss----7b722bfd1b8d--bug_bounty)
-  - [FFUF Mastery: The Ultimate Web Fuzzing Guide](https://infosecwriteups.com/ffuf-mastery-the-ultimate-web-fuzzing-guide-f7755c396b92?source=rss----7b722bfd1b8d--bug_bounty)
-  - [24. Common Reasons Bugs Get Rejected (And How to Avoid That)](https://infosecwriteups.com/24-common-reasons-bugs-get-rejected-and-how-to-avoid-that-6dda954d96a0?source=rss----7b722bfd1b8d--bug_bounty)
-  - [“The $10,800 Typo: How a Single Dot Broke Twitter’s Authentication”](https://infosecwriteups.com/the-10-800-typo-how-a-single-dot-broke-twitters-authentication-f485e6dc0f04?source=rss----7b722bfd1b8d--bug_bounty)
-  - [How I Found a $250 XSS Bug After Losing Hope in Bug Bounty](https://infosecwriteups.com/how-i-found-a-250-xss-bug-after-losing-hope-in-bug-bounty-8ab557df4d1d?source=rss----7b722bfd1b8d--bug_bounty)
-  - [23. Tools vs. Mindset: What Matters More in 2025](https://infosecwriteups.com/23-tools-vs-mindset-what-matters-more-in-2025-1be217350787?source=rss----7b722bfd1b8d--bug_bounty)
-  - [How to Find XSS Vulnerabilities in 2 Minutes [Updated]](https://infosecwriteups.com/find-xss-vulnerabilities-in-just-2-minutes-d14b63d000b1?source=rss----7b722bfd1b8d--bug_bounty)
 - CCC Event Blog
   - [39C3 Presale: Modus Operandi](https://events.ccc.de/2025/10/16/39c3-presale-modus-operandi/)
-- SentinelOne
-  - [From Obstacle to Accelerator: Custom Compliance for Cloud Security](https://www.sentinelone.com/blog/custom-compliance-for-cloud-security/)
 - Malwarebytes
   - [Video call app Huddle01 exposed 600K+ user logs](https://www.malwarebytes.com/blog/news/2025/10/video-call-app-huddle01-exposed-600k-user-logs)
   - [Mango discloses data breach at third-party provider](https://www.malwarebytes.com/blog/news/2025/10/mango-discloses-data-breach-at-third-party-provider)
   - [Roku accused of selling children’s data to advertisers and brokers](https://www.malwarebytes.com/blog/news/2025/10/roku-accused-of-selling-childrens-data-to-advertisers-and-brokers)
-- daniel.haxx.se
-  - [chart: which host, which protocol](https://daniel.haxx.se/blog/2025/10/16/chart-which-host-which-protocol/)
+- SentinelOne
+  - [From Obstacle to Accelerator: Custom Compliance for Cloud Security](https://www.sentinelone.com/blog/custom-compliance-for-cloud-security/)
 - Wallarm
   - [API Attack Awareness: When Authentication Fails — Exposing APIs to Risk](https://lab.wallarm.com/api-attack-awareness-when-authentication-fails-exposing-apis-to-risk/)
+- daniel.haxx.se
+  - [chart: which host, which protocol](https://daniel.haxx.se/blog/2025/10/16/chart-which-host-which-protocol/)
 - rtl-sdr.com
   - [Eavesdropping on Sensitive Data via Unencrypted Geostationary Satellites](https://www.rtl-sdr.com/eavesdropping-on-sensitive-data-via-unencrypted-geostationary-satellites/)
   - [SignalsEverywhere Software and Video Updates: Benshi Dash, AI Vibe Coding SDR Apps, Android NTSC Receiver, NOAA SAME Encoder](https://www.rtl-sdr.com/signalseverywhere-software-and-video-updates-benshi-dash-ai-vibe-coding-sdr-apps-android-ntsc-receiver-noaa-same-encoder/)
@@ -65,9 +59,11 @@
   - [复杂国家级行为者入侵 F5 系统，窃取 BIG-IP 源代码及未公开漏洞数据](https://hackernews.cc/archives/61130)
   - [Capita 因数据泄露被罚 1400 万英镑，影响 660 万人](https://hackernews.cc/archives/61119)
   - [服装巨头 MANGO 披露数据泄露事件，客户信息遭曝光](https://hackernews.cc/archives/61118)
-  - [超 100 款 VS Code 扩展暴露开发者面临隐蔽的供应链风险](https://hackernews.cc/archives/61122)
-  - [麒麟勒索软件宣布新的受害者](https://hackernews.cc/archives/61117)
 - 奇客Solidot–传递最新科技情报
+  - [Mozilla 测试免费的 Firefox VPN 服务](https://www.solidot.org/story?sid=82568)
+  - [Paxos 不小心制造了 300 万亿美元的 PayPal 稳定币](https://www.solidot.org/story?sid=82567)
+  - [Tor browser 移除 Firefox AI 功能](https://www.solidot.org/story?sid=82566)
+  - [挪威实现电动汽车销售目标](https://www.solidot.org/story?sid=82565)
   - [日本政府要求 OpenAI 停止侵权](https://www.solidot.org/story?sid=82564)
   - [苹果新 MacBook Pro 电池续航力长达 24 小时](https://www.solidot.org/story?sid=82563)
   - [到 2050 年全球气温可能上升 2C](https://www.solidot.org/story?sid=82562)
@@ -80,103 +76,104 @@
   - [银狐黑产组织通过恶意软件盗取你的虚拟货币](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493763&idx=1&sn=f103cc445f36cc2a42adf5fdfe9fe8bf)
 - vivo千镜
   - [隐私安全亮点速递，手机安全体验再升级！](https://mp.weixin.qq.com/s?__biz=MzI0Njg4NzE3MQ==&mid=2247492262&idx=1&sn=024353e433e01f5ba1fe7ff49ba470e8)
+- 微步在线研究响应中心
+  - [7-Zip曝目录穿越漏洞，微步OneSEC默认检测](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507943&idx=1&sn=3d2e716dc29c6a695e9d7ef9dab8d558)
 - 奇安信 CERT
   - [【安全事件通告】F5 BIG-IP遭国家级黑客渗透，潜在漏洞与供应链威胁，尽快采取行动！](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504022&idx=1&sn=35a247360c1cb6cb718f56ef12b7e9c4)
+- 代码卫士
+  - [F5 BIG-IP 源代码和 0day 漏洞数据遭泄露，补丁已发布](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524194&idx=1&sn=ab0b13f163b9168171ef5effd17379be)
 - 看雪学苑
   - [学习一下dom破坏](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601969&idx=2&sn=bdf1cba033ab1f4456d2402a1f2d750f)
   - [F5确认遭遇国家级黑客入侵，源代码与漏洞数据遭窃](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601969&idx=3&sn=931d81402560f1c50a7db7eff3c36c1a)
-- 代码卫士
-  - [F5 BIG-IP 源代码和 0day 漏洞数据遭泄露，补丁已发布](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524194&idx=1&sn=ab0b13f163b9168171ef5effd17379be)
+- 安全内参
+  - [未履行数据安全保护义务，湖南一文旅公司被罚15万元](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515090&idx=1&sn=07af52d8871bdc3e905d012b8524816a)
+  - [F5遭国家级黑客攻击，BIG-IP源代码和0day漏洞数据泄露](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515090&idx=2&sn=925f469503c1f412dd5faf0edb15b05d)
+- 天御攻防实验室
+  - [F5被黑客入侵，影响NGINX、BIG-IP等](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486543&idx=1&sn=6265118127c495ee357c9bd6acf5f0f4)
 - 绿盟科技CERT
   - [【漏洞通告】Samba WINS命令注入漏洞（CVE-2025-10230）](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489368&idx=1&sn=257d931862c97f2d81c3436f8c4019c7)
 - 安全研究GoSSIP
   - [G.O.S.S.I.P 特别推荐 2025-10-16 走近科学之Trezor硬件钱包破解之谜](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247500833&idx=1&sn=3a64b8e7ca491fdc07e416929425a88e)
-- 安全内参
-  - [未履行数据安全保护义务，湖南一文旅公司被罚15万元](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515090&idx=1&sn=07af52d8871bdc3e905d012b8524816a)
-  - [F5遭国家级黑客攻击，BIG-IP源代码和0day漏洞数据泄露](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515090&idx=2&sn=925f469503c1f412dd5faf0edb15b05d)
-- 二道情报贩子
-  - [网传微软2026年全面启动境外生产](https://mp.weixin.qq.com/s?__biz=MzU5NTA3MTk5Ng==&mid=2247489686&idx=1&sn=44c2159315e2836423d8e051c7797f13)
-- 慢雾科技
-  - [150 亿美元比特币被制裁：美英史上最大联合制裁行动打击东南亚网络犯罪集团](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247503509&idx=1&sn=9412f5f35dde4df12223d655099ce4b4)
-- XCTF联赛
-  - [巅峰将至丨第九届XCTF国际网络攻防联赛总决赛即将开启！](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515823&idx=1&sn=714ee406cb2330aa067d608a1434b49f)
 - 奇安信威胁情报中心
   - [另一个 SolarWinds 事件？F5 被攻击渗透事件简要信息整理及影响分析](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247516329&idx=1&sn=5a37291bef5900ba692652c16cbae592)
+- 丁爸 情报分析师的工具箱
+  - [【生物战】美国在全球，尤其是前苏联国家建立的生物实验室](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152485&idx=1&sn=7811a8cff6737f2312a4831fd02623de)
+- 二道情报贩子
+  - [网传微软2026年全面启动境外生产](https://mp.weixin.qq.com/s?__biz=MzU5NTA3MTk5Ng==&mid=2247489686&idx=1&sn=44c2159315e2836423d8e051c7797f13)
+- 安全学术圈
+  - [新南威尔士大学 | 物联网网络中可解释的深度学习入侵检测框架](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493999&idx=1&sn=f148be6f01854bb0da894f85898294c3)
+- 天黑说嘿话
+  - [【工具推荐】NoNo—两步实现Patch x64白文件Loader](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484707&idx=1&sn=bfa3bcdc47a00ecc8c5140ecab89cab5)
+- 信息安全国家工程研究中心
+  - [湖南省网信办对某文化旅游公司未履行数据安全保护义务作出行政处罚](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247501267&idx=1&sn=cd60f82d378366ed4bab98a2533b8425)
 - dotNet安全矩阵
   - [.NET 实战攻防电子报刊，从内网基础到高阶实战！](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500822&idx=1&sn=59773ec2bb2c663200687bc9667f723a)
   - [.NET内网实战：.NET 通过APC注入绕过终端安全防护](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500822&idx=2&sn=dfe505c76656ccc0ac822188e99f72ae)
-- 微步在线研究响应中心
-  - [7-Zip曝目录穿越漏洞，微步OneSEC默认检测](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507943&idx=1&sn=3d2e716dc29c6a695e9d7ef9dab8d558)
-- 信息安全国家工程研究中心
-  - [湖南省网信办对某文化旅游公司未履行数据安全保护义务作出行政处罚](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247501267&idx=1&sn=cd60f82d378366ed4bab98a2533b8425)
-- 安全学术圈
-  - [新南威尔士大学 | 物联网网络中可解释的深度学习入侵检测框架](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493999&idx=1&sn=f148be6f01854bb0da894f85898294c3)
+- 君哥的体历
+  - [写给妙妙十岁生日的一封信](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492241&idx=1&sn=b3f288757193f82c5f09beb3388245e0)
+- 安全圈
+  - [【安全圈】严重 Samba 远程代码执行漏洞可导致域控被接管](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072243&idx=1&sn=5a34cfdf31bc8b89850efd4cfa6550fa)
+  - [【安全圈】超百款 VS Code 扩展泄露访问令牌，供应链安全风险全面升级](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072243&idx=2&sn=5d94e49c4fbebf729be69102af76231a)
+  - [【安全圈】Mango 时尚品牌遭遇第三方服务数据泄露，客户信息受影响](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072243&idx=3&sn=b1e3af25376eeb0fb62f03fb4227c0fd)
+  - [【安全圈】F5确认遭国家级黑客入侵：源代码与漏洞研究资料被窃](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072243&idx=4&sn=81346e00e30be3f62ffaf1647feb94fe)
+- 长亭科技
+  - [长亭科技携手共建国资国企信创安全共性基础能力提升计划，开启信创生态新篇章](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651389807&idx=1&sn=ce9869d4b1b6955d376e932e92a004a8)
+  - [创新实力！长亭科技荣获“创客中国”北京赛区Top10，跻身全国企业组500强](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651389807&idx=2&sn=ac55ed81c2d9e8f2465b060980bfb415)
 - 数世咨询
   - [勒索软件在2025年第三季度激增：新联盟扩大战场版图](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540513&idx=1&sn=c2632767b980bd96e9920afa6d7db9dd)
   - [新品发布 | 360自动化漏洞情报分析平台](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540513&idx=2&sn=beb254193a9e6f79e11bfeca215634ca)
+- 慢雾科技
+  - [150 亿美元比特币被制裁：美英史上最大联合制裁行动打击东南亚网络犯罪集团](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247503509&idx=1&sn=9412f5f35dde4df12223d655099ce4b4)
+- 火绒安全
+  - [2025-10微软漏洞通告](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247526961&idx=1&sn=e833f275ba9f887905c41f7879bffa14)
+  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247526961&idx=2&sn=f925fd3e27f9f323a625fee10d42d1cb)
+- 安全牛
+  - [揭秘网络安全人才发展的新要求和新路径！《新时期网络安全人才能力建设指南》报告发布](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138994&idx=1&sn=d81d462ee2c26306ba50be08b346bf8b)
+  - [新一批违法违规涉军自媒体账号被查处通报；F5确认遭严重网络攻击，核心产品源代码等关键资产被窃取 | 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138994&idx=2&sn=2428706139dd0fa575ec750c2deaf68e)
+- 深信服千里目安全技术中心
+  - [【漏洞通告】7-Zip目录遍历导致任意代码执行漏洞(CVE-2025-11001/CVE-2025-11002)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524729&idx=1&sn=4a2f3b5389705dc5f5f11d5762abec93)
+- 吴鲁加
+  - [我用 KBHub 解决的问题](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485764&idx=1&sn=67b14e24b3c264bf25a97d4731976f3f)
+- 极客公园
+  - [张鹏对谈朱啸虎、储瑞松、傅盛：Agentic AI 时代，不要什么东西都自己闷头做](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653088509&idx=1&sn=4ac40086af5b09fc948fd1e16fc124f7)
+  - [中产爱上万元级「电动自行车」，买出一个千亿美金赛道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653088484&idx=1&sn=2963f796e76251954441fd95e75018c5)
+  - [苹果发布 M5 芯片笔记本和 iPad；微信：长时间不用账号，不再强行回收； 乔布斯登上一美元硬币 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653088466&idx=1&sn=4b40ff360a698d93ef6f4c3b8952f3fd)
 - 中国信息安全
   - [通知 | 国家能源局印发《关于加强用户侧涉网安全管理的通知》（附全文）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664251046&idx=1&sn=672c0ad957d42acbfdb0cbed59eabaae)
   - [专题·反电诈 | 电信网络诈骗数字化防治实践探索](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664251046&idx=2&sn=eebc5a2baef3cf9256b3548fa3b195c6)
   - [政策解读 | 《国家能源局关于加强用户侧涉网安全管理的通知》](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664251046&idx=3&sn=ac492e9ff8b666e88eeb72c202a99838)
   - [关注 | 市场监管总局公布十起互联网违法广告典型案例](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664251046&idx=4&sn=6e67db406910859f5c6394b902ecb24c)
   - [老年消费者被“围猎”？市场监管部门重拳整治私域直播乱象](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664251046&idx=5&sn=20dec5ee396ab694fe3d11ce1828ab2c)
-- 丁爸 情报分析师的工具箱
-  - [【生物战】美国在全球，尤其是前苏联国家建立的生物实验室](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152485&idx=1&sn=7811a8cff6737f2312a4831fd02623de)
-- 长亭科技
-  - [长亭科技携手共建国资国企信创安全共性基础能力提升计划，开启信创生态新篇章](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651389807&idx=1&sn=ce9869d4b1b6955d376e932e92a004a8)
-  - [创新实力！长亭科技荣获“创客中国”北京赛区Top10，跻身全国企业组500强](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651389807&idx=2&sn=ac55ed81c2d9e8f2465b060980bfb415)
-- 安全圈
-  - [【安全圈】严重 Samba 远程代码执行漏洞可导致域控被接管](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072243&idx=1&sn=5a34cfdf31bc8b89850efd4cfa6550fa)
-  - [【安全圈】超百款 VS Code 扩展泄露访问令牌，供应链安全风险全面升级](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072243&idx=2&sn=5d94e49c4fbebf729be69102af76231a)
-  - [【安全圈】Mango 时尚品牌遭遇第三方服务数据泄露，客户信息受影响](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072243&idx=3&sn=b1e3af25376eeb0fb62f03fb4227c0fd)
-  - [【安全圈】F5确认遭国家级黑客入侵：源代码与漏洞研究资料被窃](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072243&idx=4&sn=81346e00e30be3f62ffaf1647feb94fe)
-- 君哥的体历
-  - [写给妙妙十岁生日的一封信](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492241&idx=1&sn=b3f288757193f82c5f09beb3388245e0)
-- 火绒安全
-  - [2025-10微软漏洞通告](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247526961&idx=1&sn=e833f275ba9f887905c41f7879bffa14)
-  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247526961&idx=2&sn=f925fd3e27f9f323a625fee10d42d1cb)
-- 极客公园
-  - [张鹏对谈朱啸虎、储瑞松、傅盛：Agentic AI 时代，不要什么东西都自己闷头做](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653088509&idx=1&sn=4ac40086af5b09fc948fd1e16fc124f7)
-  - [中产爱上万元级「电动自行车」，买出一个千亿美金赛道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653088484&idx=1&sn=2963f796e76251954441fd95e75018c5)
-  - [苹果发布 M5 芯片笔记本和 iPad；微信：长时间不用账号，不再强行回收； 乔布斯登上一美元硬币 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653088466&idx=1&sn=4b40ff360a698d93ef6f4c3b8952f3fd)
-- 天御攻防实验室
-  - [F5被黑客入侵，影响NGINX、BIG-IP等](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486543&idx=1&sn=6265118127c495ee357c9bd6acf5f0f4)
-- 安全牛
-  - [揭秘网络安全人才发展的新要求和新路径！《新时期网络安全人才能力建设指南》报告发布](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138994&idx=1&sn=d81d462ee2c26306ba50be08b346bf8b)
-  - [新一批违法违规涉军自媒体账号被查处通报；F5确认遭严重网络攻击，核心产品源代码等关键资产被窃取 | 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138994&idx=2&sn=2428706139dd0fa575ec750c2deaf68e)
-- 美团技术团队
-  - [从0到1建设美团数据库容量评估系统](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781533&idx=1&sn=71babe1f54b374eabea1f3791261cd83)
-  - [美团无人机香港航线升级，国内首个夜间配送服务上线深圳](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781533&idx=2&sn=11f9c1eecbdef040fc9d4c6eaadef92c)
-- 吴鲁加
-  - [我用 KBHub 解决的问题](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485764&idx=1&sn=67b14e24b3c264bf25a97d4731976f3f)
-- 嘶吼专业版
-  - [零日攻击事件后 微软限制Edge浏览器IE模式访问权限](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584905&idx=1&sn=24ad70431a8d36562ec6b54657f61f0f)
-  - [啤酒巨头朝日遭网络攻击Qilin勒索软件团伙宣称对此事件负责](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584905&idx=2&sn=bf02d4ed4451501b21fa8c803b03fe29)
-- 360数字安全
-  - [持续领跑！360安全智能体首批通过中国软件评测中心认证](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247582436&idx=1&sn=747bd9309861db664a09662148e833b0)
-- 天黑说嘿话
-  - [【工具推荐】NoNo—两步实现Patch x64白文件Loader](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484707&idx=1&sn=bfa3bcdc47a00ecc8c5140ecab89cab5)
 - Beacon Tower Lab
   - [【1016】重保演习每日情报汇总](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487857&idx=1&sn=eff9922125b9d3ba73be390ceb0a7fb9)
-- 深信服千里目安全技术中心
-  - [【漏洞通告】7-Zip目录遍历导致任意代码执行漏洞(CVE-2025-11001/CVE-2025-11002)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524729&idx=1&sn=4a2f3b5389705dc5f5f11d5762abec93)
+- TrustedSec
+  - [There's More than One Way to Trigger a Windows Service](https://trustedsec.com/blog/theres-more-than-one-way-to-trigger-a-windows-service)
 - 字节跳动技术团队
   - [1024 邀请函｜火山引擎 AI Coding 技术实践](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247516919&idx=1&sn=c88d056b6bc32b4e0f924864792baaa8)
-- IT Service Management News
-  - [Gli uomini possono fare tutto (Ottobre 2025)](http://blog.cesaregallotti.it/2025/10/gli-uomini-possono-fare-tutto-ottobre.html)
-  - [Compromesso un sistema di prescrizioni sanitarie](http://blog.cesaregallotti.it/2025/10/compromesso-un-sistema-di-prescrizioni.html)
-  - [Statistiche su attacchi e incidenti di sicurezza IT](http://blog.cesaregallotti.it/2025/10/statistiche-su-attacchi-e-incidenti-di.html)
+- 360数字安全
+  - [持续领跑！360安全智能体首批通过中国软件评测中心认证](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247582436&idx=1&sn=747bd9309861db664a09662148e833b0)
 - Securityinfo.it
   - [ChatGPT Agent può essere usato per esfiltrare dati](https://www.securityinfo.it/2025/10/16/chatgpt-agent-puo-essere-usato-per-esfiltrare-dati/?utm_source=rss&utm_medium=rss&utm_campaign=chatgpt-agent-puo-essere-usato-per-esfiltrare-dati)
-- Microsoft Security Blog
-  - [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for SIEM](https://www.microsoft.com/en-us/security/blog/2025/10/16/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-siem/)
-  - [Extortion and ransomware drive over half of cyberattacks](https://blogs.microsoft.com/on-the-issues/2025/10/16/mddr-2025/)
-- 迪哥讲事
-  - [代码审计之路之白盒挖掘机](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498419&idx=1&sn=239360f5187e0b6f423b88fff1d06879)
 - ICT Security Magazine
   - [Minori online e lo sharenting](https://www.ictsecuritymagazine.com/articoli/minori-sharenting/)
   - [Le cyber-operazioni israeliane e la “guerra ombra” contro l’Iran: dall’operazione Stuxnet al conflitto del giugno 2025](https://www.ictsecuritymagazine.com/articoli/cyber-operazioni-israeliane/)
   - [Cyber Operations in ambito civile: perché sono sempre più essenziali ed il loro ruolo strategico nei SOC](https://www.ictsecuritymagazine.com/notizie/cyber-operations/)
+- 美团技术团队
+  - [从0到1建设美团数据库容量评估系统](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781533&idx=1&sn=71babe1f54b374eabea1f3791261cd83)
+  - [美团无人机香港航线升级，国内首个夜间配送服务上线深圳](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781533&idx=2&sn=11f9c1eecbdef040fc9d4c6eaadef92c)
+- XCTF联赛
+  - [巅峰将至丨第九届XCTF国际网络攻防联赛总决赛即将开启！](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515823&idx=1&sn=714ee406cb2330aa067d608a1434b49f)
+- Have I Been Pwned latest breaches
+  - [Prosper - 17,605,276 breached accounts](https://haveibeenpwned.com/Breach/Prosper)
+- Microsoft Security Blog
+  - [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for SIEM](https://www.microsoft.com/en-us/security/blog/2025/10/16/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-siem/)
+  - [Extortion and ransomware drive over half of cyberattacks](https://blogs.microsoft.com/on-the-issues/2025/10/16/mddr-2025/)
+- IT Service Management News
+  - [Gli uomini possono fare tutto (Ottobre 2025)](http://blog.cesaregallotti.it/2025/10/gli-uomini-possono-fare-tutto-ottobre.html)
+  - [Compromesso un sistema di prescrizioni sanitarie](http://blog.cesaregallotti.it/2025/10/compromesso-un-sistema-di-prescrizioni.html)
+  - [Statistiche su attacchi e incidenti di sicurezza IT](http://blog.cesaregallotti.it/2025/10/statistiche-su-attacchi-e-incidenti-di.html)
+- 迪哥讲事
+  - [代码审计之路之白盒挖掘机](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498419&idx=1&sn=239360f5187e0b6f423b88fff1d06879)
 - Over Security - Cybersecurity news aggregator
   - [Windows 11 updates break localhost (127.0.0.1) HTTP/2 connections](https://www.bleepingcomputer.com/news/microsoft/windows-11-updates-break-localhost-127001-http-2-connections/)
   - [Allardyce Bower Consulting data breach: cyber insurance not activated, reasons remain unclear](https://www.suspectfile.com/allardyce-bower-consulting-data-breach-cyber-insurance-not-activated-reasons-remain-unclear/)
@@ -215,16 +212,17 @@
   - [Navigazione in incognito da cellulare, guida passo passo per Android e iOS](https://www.cybersecurity360.it/cultura-cyber/navigazione-in-incognito-da-cellulare-guida-passo-passo-per-android-e-ios/)
   - [Prosper - 17,605,276 breached accounts](https://haveibeenpwned.com/Breach/Prosper)
   - [YouTube is down worldwide with playback error](https://www.bleepingcomputer.com/news/google/youtube-is-down-worldwide-with-playback-error/)
-- Have I Been Pwned latest breaches
-  - [Prosper - 17,605,276 breached accounts](https://haveibeenpwned.com/Breach/Prosper)
-- TrustedSec
-  - [There's More than One Way to Trigger a Windows Service](https://trustedsec.com/blog/theres-more-than-one-way-to-trigger-a-windows-service)
-- SANS Internet Storm Center, InfoCON: green
-  - [New DShield Support Slack, (Thu, Oct 16th)](https://isc.sans.edu/diary/rss/32376)
 - Schneier on Security
   - [Cryptocurrency ATMs](https://www.schneier.com/blog/archives/2025/10/cryptocurrency-atms.html)
+- 嘶吼专业版
+  - [零日攻击事件后 微软限制Edge浏览器IE模式访问权限](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584905&idx=1&sn=24ad70431a8d36562ec6b54657f61f0f)
+  - [啤酒巨头朝日遭网络攻击Qilin勒索软件团伙宣称对此事件负责](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584905&idx=2&sn=bf02d4ed4451501b21fa8c803b03fe29)
+- SANS Internet Storm Center, InfoCON: green
+  - [New DShield Support Slack, (Thu, Oct 16th)](https://isc.sans.edu/diary/rss/32376)
 - Full Disclosure
   - [Re: Security Advisory: Multiple High-Severity Vulnerabilities in Suno.com (JWT Leakage, IDOR, DoS)](https://seclists.org/fulldisclosure/2025/Oct/9)
+- Tor Project blog
+  - [New Alpha Release: Tor Browser 15.0a4](https://blog.torproject.org/new-alpha-release-tor-browser-150a4/)
 - Graham Cluley
   - [Operation Heracles strikes blow against massive network of fraudulent crypto trading sites](https://www.bitdefender.com/en-us/blog/hotforsecurity/operation-heracles-strikes-blow-massive-network-fraudulent-crypto-trading-sites)
 - The Hacker News
@@ -246,7 +244,5 @@
   - [No One Should Be Forced to Conform to the Views of the State](https://www.eff.org/deeplinks/2025/10/no-one-should-be-forced-conform-views-state)
   - [Labor Unions, EFF Sue Trump Administration to Stop Ideological Surveillance of Free Speech Online](https://www.eff.org/press/releases/labor-unions-eff-sue-trump-administration-stop-surveillance-free-speech-online)
   - [Opt Out October: Daily Tips to Protect Your Privacy and Security](https://www.eff.org/deeplinks/2025/09/opt-out-october-daily-tips-protect-your-privacy-and-security)
-- Tor Project blog
-  - [New Alpha Release: Tor Browser 15.0a4](https://blog.torproject.org/new-alpha-release-tor-browser-150a4/)
 - Security Weekly Podcast Network (Audio)
   - [AI, EDR, and Hacking Things - PSW #896](http://sites.libsyn.com/18678/ai-edr-and-hacking-things-psw-896)
