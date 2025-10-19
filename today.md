@@ -2,29 +2,27 @@
 
 - SecWiki News
   - [SecWiki News 2025-10-18 Review](http://www.sec-wiki.com/?2025-10-18)
-- Der Flounder
-  - [Identifying MDM-managed user accounts using System Information on macOS Tahoe](https://derflounder.wordpress.com/2025/10/18/identifying-mdm-managed-user-accounts-using-system-information-on-macos-tahoe/)
 - Recent Commits to cve:main
   - [Update Sat Oct 18 11:31:42 UTC 2025](https://github.com/trickest/cve/commit/e8eea7affb8bc5533f681b306b7b507d52b0ec5c)
-- 🔐Blog of Osanda
-  - [RtlRegisterWait Shellcode Execution PoC](https://osandamalith.com/2025/10/18/rtlregisterwait-shellcode-execution-poc/)
+- Der Flounder
+  - [Identifying MDM-managed user accounts using System Information on macOS Tahoe](https://derflounder.wordpress.com/2025/10/18/identifying-mdm-managed-user-accounts-using-system-information-on-macos-tahoe/)
 - Hexacorn
   - [1 little known secret of wsreset.exe](https://www.hexacorn.com/blog/2025/10/18/1-little-known-secret-of-wsreset-exe/)
+- 🔐Blog of Osanda
+  - [RtlRegisterWait Shellcode Execution PoC](https://osandamalith.com/2025/10/18/rtlregisterwait-shellcode-execution-poc/)
 - Reverse Engineering
   - [This blog is 18th years old already!](https://reverse.put.as/2025/10/18/18yearsold/)
-- 看雪学苑
-  - [SDC2025 精彩议题预告 | ReCopilot：基于大模型的二进制逆向工程助手](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458602011&idx=1&sn=c4e96b0c23fd41390b9ef21c4801b6dc)
 - 黑鸟
   - [SpaceX星盾系统卫星未经授权频谱信号发射违规事件分析](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183059&idx=1&sn=233bb543abe39857cfa2a76460b9d52b)
-- 青衣十三楼飞花堂
-  - [小小四的日常](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488711&idx=1&sn=3801f5ac6944ef1118535bd33eb31f06)
-- 天御攻防实验室
-  - [美国陆军推动全军进攻性网络能力的应用](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486548&idx=1&sn=fa2b9cc61723bbe3437fa28b1c162a05)
+- 看雪学苑
+  - [SDC2025 精彩议题预告 | ReCopilot：基于大模型的二进制逆向工程助手](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458602011&idx=1&sn=c4e96b0c23fd41390b9ef21c4801b6dc)
 - 天黑说嘿话
   - [攻防演练实战中30个IP溯源反制技战法！](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484729&idx=1&sn=238acdb30b6c36f58f89c1c836afeef9)
 - 丁爸 情报分析师的工具箱
   - [【OSINT】为蛙军“心战大队”提供支持几家企业更详细信息](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152547&idx=1&sn=9fea265567d7239cb318a046490bf7c4)
   - [【培训】第15期全国开源情报能力培训班](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152547&idx=2&sn=dbe079a046a8b8ccb144fea70dc2be62)
+- 天御攻防实验室
+  - [美国陆军推动全军进攻性网络能力的应用](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486548&idx=1&sn=fa2b9cc61723bbe3437fa28b1c162a05)
 - 安全圈
   - [【安全圈】史上最高危：微软修复 ASP.NET Core 漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072273&idx=1&sn=7b50c69ca8fac5d7c27d667f3c6e26c0)
   - [【安全圈】黑客利用思科 SNMP 漏洞在交换机上部署 rootkit](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072273&idx=2&sn=1f382471889e81a7e2f2c036582b8909)
@@ -34,18 +32,20 @@
   - [传 iPhone Air 表现不佳，砍百万产量；黄仁勋：英伟达中国份额从 95% 降到 0%；维基百科流量暴跌 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653088648&idx=1&sn=f72071cc8bc0bacfe4fcc481936a5b7f)
 - 非尝咸鱼贩
   - [海边的苹果安全会议：OBTS v8](https://mp.weixin.qq.com/s?__biz=Mzk0NDE3MTkzNQ==&mid=2247485691&idx=1&sn=5cfacb1a166c4fcef6b336fa7ad65a57)
+- 青衣十三楼飞花堂
+  - [小小四的日常](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488711&idx=1&sn=3801f5ac6944ef1118535bd33eb31f06)
 - Beacon Tower Lab
   - [【1018】重保演习每日情报汇总](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487863&idx=1&sn=2277215a2540507e341aeb5c2a17bc9d)
-- IT Service Management News
-  - [Aggiornamento del software Jeep causa problemi](http://blog.cesaregallotti.it/2025/10/aggiornamento-del-software-jeep-causa.html)
-- Arturo Di Corinto
-  - [FNSI, Stampa Lombarda, e Stampa Romana  su sciopero Sole 24 Ore: adesione massiccia della redazione,  inaccettabile uscita giornale “ridotto”.](https://dicorinto.it/associazionismo/fnsi-stampa-lombarda-e-stampa-romana-su-sciopero-sole-24-ore-adesione-massiccia-della-redazione-inaccettabile-uscita-giornale-ridotto/)
 - Over Security - Cybersecurity news aggregator
   - [Contact Form Spam Attack: An Innocent Feature Caused a Massive Problem](https://blog.sucuri.net/2025/10/contact-form-spam-attack-an-innocent-feature-caused-a-massive-problem.html)
+- IT Service Management News
+  - [Aggiornamento del software Jeep causa problemi](http://blog.cesaregallotti.it/2025/10/aggiornamento-del-software-jeep-causa.html)
 - LastKnight.com Feed
   - [SHADOW AI: il ladro silenzioso che svuota le aziende…](https://mgpf.it/2025/10/18/shadow-ai-il-ladro-silenzioso-che-svuota-le-aziende.html)
 - Desync InfoSec
   - [从必应搜索到勒索软件：Bumblebee 和 AdaptixC2 植入 Akira](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489473&idx=1&sn=ec8eb0aec4e26a4c5fc38941a971ac57)
+- Arturo Di Corinto
+  - [FNSI, Stampa Lombarda, e Stampa Romana  su sciopero Sole 24 Ore: adesione massiccia della redazione,  inaccettabile uscita giornale “ridotto”.](https://dicorinto.it/associazionismo/fnsi-stampa-lombarda-e-stampa-romana-su-sciopero-sole-24-ore-adesione-massiccia-della-redazione-inaccettabile-uscita-giornale-ridotto/)
 - BorderGate
   - [Killing Protected Processes](https://www.bordergate.co.uk/killing-protected-processes/)
 - The Hacker News
