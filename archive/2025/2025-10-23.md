@@ -1,22 +1,22 @@
 # 每日安全资讯（2025-10-23）
 
-- paper - Last paper
-  - [主动蜜罐防护系统：探测并确认多轮大型语言模型越狱攻击](https://paper.seebug.org/3400/)
 - Recent Commits to cve:main
   - [Update Wed Oct 22 11:33:17 UTC 2025](https://github.com/trickest/cve/commit/00b65350b54acfb76647a9b78904b2ae62c210ba)
 - SecWiki News
   - [SecWiki News 2025-10-22 Review](http://www.sec-wiki.com/?2025-10-22)
+- Tenable Blog
+  - [Tenable Recognized as a CTEM Leader in Latio’s 2025 Cloud Security Market Report](https://www.tenable.com/blog/tenable-recognized-as-a-ctem-leader-in-latios-2025-cloud-security-market-report)
+  - [Cybersecurity Awareness Month Is for Security Leaders, Too](https://www.tenable.com/blog/cybersecurity-awareness-month-is-for-security-leaders-too)
+- Darknet – Hacking Tools, Hacker News & Cyber Security
+  - [Post-Quantum Cryptography in 2025 – Migration Paths, Early Movers and CISO/RedTeam Impact](https://www.darknet.org.uk/2025/10/post-quantum-cryptography-in-2025-migration-paths-early-movers-and-ciso-redteam-impact/)
 - 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
   - [Q4冲业绩别踩安全坑！金融/互联网/教育必看的邮件安全方案！](https://www.4hou.com/posts/mkop)
   - [【梆梆安全监测】安全隐私合规监管趋势及漏洞风险报告（0930-1011）](https://www.4hou.com/posts/kgmx)
   - [2025年网络安全“金帽子”年度评选活动正式启动！](https://www.4hou.com/posts/jBlW)
   - [澜湄执法合作中心莅临国投智能股份考察交流](https://www.4hou.com/posts/0M67)
   - [79%企业将增加威胁情报投入，AI持续改变情报运营模式](https://www.4hou.com/posts/gyg9)
-- Taxodium
-  - [Zine#43 - 桌面变形记](https://taxodium.ink/43.html)
-- Tenable Blog
-  - [Tenable Recognized as a CTEM Leader in Latio’s 2025 Cloud Security Market Report](https://www.tenable.com/blog/tenable-recognized-as-a-ctem-leader-in-latios-2025-cloud-security-market-report)
-  - [Cybersecurity Awareness Month Is for Security Leaders, Too](https://www.tenable.com/blog/cybersecurity-awareness-month-is-for-security-leaders-too)
+- Microsoft Security Blog
+  - [The CISO imperative: Building resilience in an era of accelerated cyberthreats](https://www.microsoft.com/en-us/security/blog/2025/10/22/the-ciso-imperative-building-resilience-in-an-era-of-accelerated-cyberthreats/)
 - 安全客-有思想的安全新媒体
   - [Sauter AG 产品中存在严重漏洞（CVE-2025-41723，CVSS 9.8），攻击者可借SOAP接口实现未授权文件上传](https://www.anquanke.com/post/id/312770)
   - [PassiveNeuron网络间谍活动再现：APT组织滥用MS SQL服务器部署隐秘后门Neursite](https://www.anquanke.com/post/id/312774)
@@ -29,33 +29,35 @@
   - [强强联合！360携手东吴证券荣膺2025年IDC中国未来企业大奖](https://www.anquanke.com/post/id/312797)
   - [新型信息窃取木马Luma可窃取浏览器数据、加密货币及远程访问账户](https://www.anquanke.com/post/id/312801)
   - [【百万奖金】小米汽车守护活动正式启动！](https://www.anquanke.com/post/id/312767)
-- Microsoft Security Blog
-  - [The CISO imperative: Building resilience in an era of accelerated cyberthreats](https://www.microsoft.com/en-us/security/blog/2025/10/22/the-ciso-imperative-building-resilience-in-an-era-of-accelerated-cyberthreats/)
+- Taxodium
+  - [Zine#43 - 桌面变形记](https://taxodium.ink/43.html)
+- paper - Last paper
+  - [主动蜜罐防护系统：探测并确认多轮大型语言模型越狱攻击](https://paper.seebug.org/3400/)
 - Payatu
   - [The Purdue Model: Foundations, Evolution, and the Security Debate](https://payatu.com/blog/the-purdue-model-foundations-evolution-and-the-security-debate/)
 - SpiderLabs Blog
   - [Public Sector Ransomware Attacks Relentlessly Continue](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/public-sector-ransomware-attacks-relentlessly-continue/)
-- Securelist
-  - [Deep analysis of the flaw in BetterBank reward logic](https://securelist.com/betterbank-defi-protocol-esteem-token-bonus-minting/117822/)
 - The Trail of Bits Blog
   - [Prompt injection to RCE in AI agents](https://blog.trailofbits.com/2025/10/22/prompt-injection-to-rce-in-ai-agents/)
 - Horizon3.ai
   - [Building FixOps: Architectural Considerations for Autonomous Security Workflows](https://horizon3.ai/intelligence/blogs/building-fixops-architectural-considerations-for-autonomous-security-workflows/)
   - [Beyond Triage: How Exploitability Data Transforms Agentic Security Workflows](https://horizon3.ai/intelligence/blogs/beyond-triage-how-exploitability-data-transforms-agentic-security-workflows/)
-- daniel.haxx.se
-  - [AIxCC curl details](https://daniel.haxx.se/blog/2025/10/22/aixcc-curl-details/)
+- Securelist
+  - [Deep analysis of the flaw in BetterBank reward logic](https://securelist.com/betterbank-defi-protocol-esteem-token-bonus-minting/117822/)
+- VMRay
+  - [Automated Incident Response: What It Is and Why You Can’t Afford to Ignore It](https://www.vmray.com/automated-incident-response/)
 - Malwarebytes
   - [Over 100 Chrome extensions break WhatsApp’s anti-spam rules](https://www.malwarebytes.com/blog/news/2025/10/over-100-chrome-extensions-break-whatsapps-anti-spam-rules)
   - [Home Depot Halloween phish gives users a fright, not a freebie](https://www.malwarebytes.com/blog/news/2025/10/home-depot-halloween-phish-gives-users-a-fright-not-a-freebie)
   - [Zero-click Dolby audio bug lets attackers run code on Android and Windows devices](https://www.malwarebytes.com/blog/news/2025/10/zero-click-dolby-audio-bug-lets-attackers-run-code-on-android-and-windows-devices)
-- VMRay
-  - [Automated Incident Response: What It Is and Why You Can’t Afford to Ignore It](https://www.vmray.com/automated-incident-response/)
 - PortSwigger Blog
   - [Can Burp AI hack a website? CyberMaddy explores the new agentic capabilities in Burp AI](https://portswigger.net/blog/can-burp-ai-hack-a-website-cybermaddy-explores-the-new-agentic-capabilities-in-burp-ai)
   - [Burp AI takes on a vulnerable web app: watch Tib3rius put Burp’s new agentic capabilities to the test](https://portswigger.net/blog/burp-ai-takes-on-a-vulnerable-web-app-watch-tib3rius-put-burps-new-agentic-capabilities-to-the-test)
 - PortSwigger Blog
   - [Can Burp AI hack a website? CyberMaddy explores the new agentic capabilities in Burp AI](https://portswigger.net/blog/can-burp-ai-hack-a-website-cybermaddy-explores-the-new-agentic-capabilities-in-burp-ai)
   - [Burp AI takes on a vulnerable web app: watch Tib3rius put Burp’s new agentic capabilities to the test](https://portswigger.net/blog/burp-ai-takes-on-a-vulnerable-web-app-watch-tib3rius-put-burps-new-agentic-capabilities-to-the-test)
+- daniel.haxx.se
+  - [AIxCC curl details](https://daniel.haxx.se/blog/2025/10/22/aixcc-curl-details/)
 - rtl-sdr.com
   - [A Review of the SunFounder Pironman 5 MAX Raspberry Pi 5 Enclosure](https://www.rtl-sdr.com/a-review-of-the-sunfounder-pironman-5-max-raspberry-pi-5-enclosure/)
   - [SDR-Hub: A New RTL-SDR Scanner and Audio Recorder with Web Interface](https://www.rtl-sdr.com/sdr-hub-a-new-rtl-sdr-scanner-and-audio-recorder-with-web-interface/)
@@ -81,29 +83,41 @@
   - [GO语言编写的CS测试木马分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493855&idx=1&sn=eda39b503d4eb98e0144b075e4be7492)
 - 黑鸟
   - [荷兰调整对美情报共享政策为更加谨慎](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183098&idx=1&sn=ad6b45bfb3c6360b3eb583c80b46322f)
-- 安全客
-  - [无印良品因物流合作伙伴遭勒索攻击关停线上销售](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789199&idx=1&sn=c173ccf9ff8017f9aa14bbd3f5ba5b91)
-- 绿盟科技研究通讯
-  - [Grab公司探索基于LLM的数据分类方案](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499148&idx=1&sn=8f05e8a6c3183e598bc9c15cfbf03788)
+- 威努特安全网络
+  - [威努特与中建四局合作项目荣获IDC“安全与信任领军者”优秀奖](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651136680&idx=1&sn=415158082dcef0fe58badbb12e835a2c)
 - 腾讯玄武实验室
   - [每日安全动态推送(25/10/22)](https://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&mid=2651960234&idx=1&sn=6ef321df60235e4a2c736f8751650397)
+- 安全客
+  - [无印良品因物流合作伙伴遭勒索攻击关停线上销售](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789199&idx=1&sn=c173ccf9ff8017f9aa14bbd3f5ba5b91)
+- 奇安信 CERT
+  - [Oracle 2025年10月补丁日多产品高危漏洞安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504052&idx=1&sn=c0c2fb24b3ace61f29b420bda25af2b2)
+- Black Hills Information Security, Inc.
+  - [Model Context Protocol (MCP)](https://www.blackhillsinfosec.com/model-context-protocol/)
+- 天御攻防实验室
+  - [马斯克观摩NSA网攻北京授时中心](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486562&idx=1&sn=fee6966941dd7996b03998c62d416e61)
+- 天黑说嘿话
+  - [丝滑之swagger未授权到oss存储接管](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484786&idx=1&sn=3a5eb1eba5465ed60d4a2ac90f8a449a)
+- 信安之路
+  - [利用锁屏图片配置程序远程下载文件](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500273&idx=1&sn=7b348dc3258868e6210b269f41bd841d)
+- 安全内参
+  - [从瘫痪到恢复：一家老牌医院如何熬过勒索软件攻击后的5个月？](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515112&idx=1&sn=95a72c5bcfd23fff19108de5e304b711)
+  - [意大利宣布将组建全天候运作的军民联合网络部队](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515112&idx=2&sn=eaa698238bb0dba9e4cac67900e76fd3)
+- 中国信息安全
+  - [专家解读 | 王志成：加快实施个人信息出境认证制度 以高水平数据安全保障数字经济高质量发展](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664251576&idx=2&sn=a8a4126de12126c54f49ba088fa647c4)
+  - [通知 | 工信部就《算力标准体系建设指南（2025版）（征求意见稿）》公开征求意见（附全文）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664251576&idx=3&sn=de3c130fa187abfa3548b4f2b5e1a189)
+  - [工信部通报！这20款智能终端存在侵害用户权益行为](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664251576&idx=4&sn=478cb1ca28a000e565dfd5ec21c67873)
+  - [评论 | 以良法善治保障人工智能健康发展](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664251576&idx=5&sn=761efc7bc47e8eb47cbe562af9eb1e48)
+- 丁爸 情报分析师的工具箱
+  - [【资料】美国智库给特朗普新政府的政策备忘录满满的利益计算](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152573&idx=1&sn=2de62bc9a60163f5443365bc8b631985)
+- 青山青吖
+  - [全网独一份！黄金还会涨到哪里？ | 黄金](https://mp.weixin.qq.com/s?__biz=MzI5NzAzMDg0NA==&mid=2650698521&idx=1&sn=3e245019d8e48d0eea1fe0b1b114dad0)
 - 代码卫士
   - [TP-Link：注意 Omada 网关中严重的命令注入漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524245&idx=1&sn=4a7bd30edd225c7c61e25759686c43ba)
   - [只需几个低廉小工具，即可发动“自带汽车”攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524245&idx=2&sn=d2d44afa6cf97d714aab24bf90c6299a)
-- 青山青吖
-  - [全网独一份！黄金还会涨到哪里？ | 黄金](https://mp.weixin.qq.com/s?__biz=MzI5NzAzMDg0NA==&mid=2650698521&idx=1&sn=3e245019d8e48d0eea1fe0b1b114dad0)
-- Black Hills Information Security, Inc.
-  - [Model Context Protocol (MCP)](https://www.blackhillsinfosec.com/model-context-protocol/)
-- 信安之路
-  - [利用锁屏图片配置程序远程下载文件](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500273&idx=1&sn=7b348dc3258868e6210b269f41bd841d)
-- dotNet安全矩阵
-  - [.NET 绕过运行隔离，通过 AppDomain 创建与管理新的应用程序域](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500854&idx=1&sn=e5cb94abac71169e8061d158eff94dc2)
-  - [.NET 实战攻防电子报刊，从内网基础到高阶实战！](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500854&idx=2&sn=ebb688b665f1ec704304ccf9c5fa06d0)
-  - [.NET内网实战：通过 UUID 转换编码绕过防护](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500854&idx=3&sn=0414faa24373847498dafefa7780bce3)
-- 天御攻防实验室
-  - [马斯克观摩NSA网攻北京授时中心](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486562&idx=1&sn=fee6966941dd7996b03998c62d416e61)
-- 丁爸 情报分析师的工具箱
-  - [【资料】美国智库给特朗普新政府的政策备忘录满满的利益计算](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152573&idx=1&sn=2de62bc9a60163f5443365bc8b631985)
+- 绿盟科技研究通讯
+  - [Grab公司探索基于LLM的数据分类方案](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499148&idx=1&sn=8f05e8a6c3183e598bc9c15cfbf03788)
+- ChaMd5安全团队
+  - [ChaMd5安全团队《物联网漏洞挖掘与利用》来了！](https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247513526&idx=1&sn=16a08bc24438af6fd0d63aca4b67ab3a)
 - 安全圈
   - [【安全圈】反转！间谍软件开发者成间谍软件攻击受害者](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072345&idx=1&sn=cabe502715df974d3411c759e18748ef)
   - [【安全圈】受AWS 宕机影响3万元的智能床集体失控](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072345&idx=2&sn=d83d2d2f1f04b8ff41e9b06a407641a6)
@@ -111,51 +125,38 @@
   - [【安全圈】131款Chrome扩展被曝劫持WhatsApp Web](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072345&idx=4&sn=3153b9861bbb0ff5c419db5eb600d381)
 - 微步在线
   - [微步在线亮相2025 Govware展会，ATI升级后全球首秀](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650184920&idx=1&sn=b24e6da8c92cc9a9445dd4912f7aaa38)
-- 安全内参
-  - [从瘫痪到恢复：一家老牌医院如何熬过勒索软件攻击后的5个月？](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515112&idx=1&sn=95a72c5bcfd23fff19108de5e304b711)
-  - [意大利宣布将组建全天候运作的军民联合网络部队](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515112&idx=2&sn=eaa698238bb0dba9e4cac67900e76fd3)
-- 威努特安全网络
-  - [威努特与中建四局合作项目荣获IDC“安全与信任领军者”优秀奖](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651136680&idx=1&sn=415158082dcef0fe58badbb12e835a2c)
-- 奇安信 CERT
-  - [Oracle 2025年10月补丁日多产品高危漏洞安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504052&idx=1&sn=c0c2fb24b3ace61f29b420bda25af2b2)
-- ChaMd5安全团队
-  - [ChaMd5安全团队《物联网漏洞挖掘与利用》来了！](https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247513526&idx=1&sn=16a08bc24438af6fd0d63aca4b67ab3a)
+- 极客公园
+  - [亚马逊云科技终结了体育界的所有「玄学」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653088953&idx=1&sn=1b0e8037d48e9879960db16068645fa5)
+  - [亚马逊秘密文件曝光：用机器人取代 60 万美国工人；红果内测短剧带货；OpenAI 推出 AI 浏览器 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653088931&idx=1&sn=b97563c526b6fc60ff20558d7cac8041)
 - 默安科技
   - [【落地有声】第七期 | AI在开发安全中的实战破局与效率革命](https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247501409&idx=1&sn=832413266022ac616e61a6fda17d6996)
 - 安全研究GoSSIP
   - [G.O.S.S.I.P 阅读推荐 2025-10-22 寻找海光内存加密之墙的隙罅](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247500855&idx=1&sn=9665a52bd1baee7fcb1cb841a38f9d45)
-- 中国信息安全
-  - [专家解读 | 王志成：加快实施个人信息出境认证制度 以高水平数据安全保障数字经济高质量发展](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664251576&idx=2&sn=a8a4126de12126c54f49ba088fa647c4)
-  - [通知 | 工信部就《算力标准体系建设指南（2025版）（征求意见稿）》公开征求意见（附全文）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664251576&idx=3&sn=de3c130fa187abfa3548b4f2b5e1a189)
-  - [工信部通报！这20款智能终端存在侵害用户权益行为](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664251576&idx=4&sn=478cb1ca28a000e565dfd5ec21c67873)
-  - [评论 | 以良法善治保障人工智能健康发展](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664251576&idx=5&sn=761efc7bc47e8eb47cbe562af9eb1e48)
-- M01N Team
-  - [AI挑战强网杯，行不行？](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247494484&idx=1&sn=41574b56b32f50ddd07a3876d1d3c8bc)
-- 极客公园
-  - [亚马逊云科技终结了体育界的所有「玄学」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653088953&idx=1&sn=1b0e8037d48e9879960db16068645fa5)
-  - [亚马逊秘密文件曝光：用机器人取代 60 万美国工人；红果内测短剧带货；OpenAI 推出 AI 浏览器 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653088931&idx=1&sn=b97563c526b6fc60ff20558d7cac8041)
-- OPPO安全中心
-  - [【奖励公告】2025年9月&Q3](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247494500&idx=1&sn=a83dde2e9a5a414f174159fb52952bc6)
-- 嘶吼专业版
-  - [2025年网络安全“金帽子”年度评选活动正式启动！](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584984&idx=1&sn=80010ad996608e65400b4146c6e4ba60)
-  - [79%企业将增加威胁情报投入，AI持续改变情报运营模式](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584984&idx=2&sn=080c989d1c8c2ed3ade3147edc13416f)
-- 天黑说嘿话
-  - [丝滑之swagger未授权到oss存储接管](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484786&idx=1&sn=3a5eb1eba5465ed60d4a2ac90f8a449a)
-- 情报分析师
-  - [使用在线研究方法调查一个人的人、地点和时间](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650562590&idx=1&sn=05116845f131cb34a393300363df88e2)
-  - [【人物调研】美国反情报与安全中心主任乔治·斯特里特](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650562590&idx=2&sn=83962a674e97cb29483270c36154f401)
+- dotNet安全矩阵
+  - [.NET 绕过运行隔离，通过 AppDomain 创建与管理新的应用程序域](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500854&idx=1&sn=e5cb94abac71169e8061d158eff94dc2)
+  - [.NET 实战攻防电子报刊，从内网基础到高阶实战！](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500854&idx=2&sn=ebb688b665f1ec704304ccf9c5fa06d0)
+  - [.NET内网实战：通过 UUID 转换编码绕过防护](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500854&idx=3&sn=0414faa24373847498dafefa7780bce3)
 - 数世咨询
   - [AI时代来临，CISO重塑企业安全组织，行业迎来新变革](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540590&idx=1&sn=be7c66630013b65e7d63ada7111ec556)
   - [直播预告：2025 TECHWORLD 绿盟科技智慧安全大会](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540590&idx=2&sn=b478ac0d3958701d6fa4db797768fc08)
+- M01N Team
+  - [AI挑战强网杯，行不行？](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247494484&idx=1&sn=41574b56b32f50ddd07a3876d1d3c8bc)
+- 嘶吼专业版
+  - [2025年网络安全“金帽子”年度评选活动正式启动！](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584984&idx=1&sn=80010ad996608e65400b4146c6e4ba60)
+  - [79%企业将增加威胁情报投入，AI持续改变情报运营模式](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584984&idx=2&sn=080c989d1c8c2ed3ade3147edc13416f)
+- OPPO安全中心
+  - [【奖励公告】2025年9月&Q3](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247494500&idx=1&sn=a83dde2e9a5a414f174159fb52952bc6)
+- 情报分析师
+  - [使用在线研究方法调查一个人的人、地点和时间](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650562590&idx=1&sn=05116845f131cb34a393300363df88e2)
+  - [【人物调研】美国反情报与安全中心主任乔治·斯特里特](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650562590&idx=2&sn=83962a674e97cb29483270c36154f401)
 - Beacon Tower Lab
   - [【1022】重保演习每日情报汇总](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487875&idx=1&sn=ed8df14f4f448c935a66f5166f7aecda)
+- 字节跳动技术团队
+  - [火山引擎多媒体实验室画质理解大模型 Q-Insight 入选 NeurIPS 2025 Spotlight](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247516990&idx=1&sn=12203e0272f010f8ec3de09d8a98e247)
+- Microsoft Security Blog
+  - [The CISO imperative: Building resilience in an era of accelerated cyberthreats](https://www.microsoft.com/en-us/security/blog/2025/10/22/the-ciso-imperative-building-resilience-in-an-era-of-accelerated-cyberthreats/)
 - 360数字安全
   - [深度复盘美国NSA渗透攻击授时中心，360安全智能体蜂群引领政企防护升维](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247582511&idx=1&sn=dee6734f2c87bde4b2b2dca9a407d6d3)
-- 迪哥讲事
-  - [信息收集神器](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498446&idx=1&sn=dbcac8d741e99e31f374418fca6b192e)
-- ICT Security Magazine
-  - [Neural Radiance Fields Security: vulnerabilità, attacchi qdversariali e difese nella ricostruzione 3D](https://www.ictsecuritymagazine.com/articoli/neural-radiance-fields/)
-  - [inncloud: la piattaforma cloud italiana pensata per MSP, Reseller e Partner IT](https://www.ictsecuritymagazine.com/notizie/inncloud/)
 - Over Security - Cybersecurity news aggregator
   - [Cyber incidents in Texas, Tennessee and Indiana impacting critical government services](https://therecord.media/cyber-incidents-texas-tennessee-indiana)
   - [Iranian hackers targeted over 100 govt orgs with Phoenix backdoor](https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-over-100-govt-orgs-with-phoenix-backdoor/)
@@ -187,21 +188,26 @@
   - [Data center, lo stato dell’arte a livello globale: vince la resilienza](https://www.cybersecurity360.it/outlook/data-center-lo-stato-dellarte-a-livello-globale-vince-la-resilienza/)
   - [Unmasking MuddyWater’s New Malware Toolkit Driving International Espionage](https://www.group-ib.com/blog/muddywater-espionage/)
   - [Detecting Abuse of OpenEDR’s Permissive EDR Trial: A Security Researcher’s Perspective](https://kostas-ts.medium.com/detecting-abuse-of-openedrs-permissive-edr-trial-a-security-researcher-s-perspective-fc55bf53972c)
-- 字节跳动技术团队
-  - [火山引擎多媒体实验室画质理解大模型 Q-Insight 入选 NeurIPS 2025 Spotlight](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247516990&idx=1&sn=12203e0272f010f8ec3de09d8a98e247)
-- Securityinfo.it
-  - [Arriva “Zyxel Commercialisti Italia”, iniziativa per educare i professionisti alla cybersecurity](https://www.securityinfo.it/2025/10/22/arriva-zyxel-commercialisti-italia-iniziativa-per-educare-i-professionisti-alla-cybersecurity/?utm_source=rss&utm_medium=rss&utm_campaign=arriva-zyxel-commercialisti-italia-iniziativa-per-educare-i-professionisti-alla-cybersecurity)
-- 白帽子章华鹏
-  - [连续8年举办的安全技术大会不多见了](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650237961&idx=1&sn=55cab7a3c1016d8a6756ce398cf3bfe2)
 - Arturo Di Corinto
   - [Notizie manipolate e guerre dell’informazione: come difendersi ed il ruolo del giornalista tra etica e diritto](https://dicorinto.it/formazione/notizie-manipolate-e-guerre-dellinformazione-come-difendersi-ed-il-ruolo-del-giornalista-tra-etica-e-diritto/)
   - [ACN Operational Summary Septmeber 2025](https://dicorinto.it/agenzia-per-la-cybersicurezza-nazionale/acn-operational-summary-septmeber-2025/)
+- 迪哥讲事
+  - [信息收集神器](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498446&idx=1&sn=dbcac8d741e99e31f374418fca6b192e)
+- Securityinfo.it
+  - [Arriva “Zyxel Commercialisti Italia”, iniziativa per educare i professionisti alla cybersecurity](https://www.securityinfo.it/2025/10/22/arriva-zyxel-commercialisti-italia-iniziativa-per-educare-i-professionisti-alla-cybersecurity/?utm_source=rss&utm_medium=rss&utm_campaign=arriva-zyxel-commercialisti-italia-iniziativa-per-educare-i-professionisti-alla-cybersecurity)
+- ICT Security Magazine
+  - [Neural Radiance Fields Security: vulnerabilità, attacchi qdversariali e difese nella ricostruzione 3D](https://www.ictsecuritymagazine.com/articoli/neural-radiance-fields/)
+  - [inncloud: la piattaforma cloud italiana pensata per MSP, Reseller e Partner IT](https://www.ictsecuritymagazine.com/notizie/inncloud/)
+- SANS Internet Storm Center, InfoCON: green
+  - [webctrl.cgi/Blue Angel Software Suite Exploit Attempts. Maybe CVE-2025-34033 Variant&#x3f;, (Wed, Oct 22nd)](https://isc.sans.edu/diary/rss/32410)
+  - [What time is it&#x3f; Accuracy of pool.ntp.org., (Tue, Oct 21st)](https://isc.sans.edu/diary/rss/32390)
+  - [ISC Stormcast For Wednesday, October 22nd, 2025 https://isc.sans.edu/podcastdetail/9666, (Wed, Oct 22nd)](https://isc.sans.edu/diary/rss/32392)
 - Schneier on Security
   - [Failures in Face Recognition](https://www.schneier.com/blog/archives/2025/10/failures-in-face-recognition.html)
-- Microsoft Security Blog
-  - [The CISO imperative: Building resilience in an era of accelerated cyberthreats](https://www.microsoft.com/en-us/security/blog/2025/10/22/the-ciso-imperative-building-resilience-in-an-era-of-accelerated-cyberthreats/)
 - Taszk Labs on taszk.io labs
   - [Eastern Promises: Mobile VRP Lessons for Bug Hunters](https://labs.taszk.io/articles/post/eastern_promises/)
+- Silent Signal Techblog
+  - [IBM i LIBL Autopwn: Kill the Vulnerability Class](https://blog.silentsignal.eu/2025/10/22/IBM-i-LIBL-Autopwn-Kill-the-Vulnerability-Class/)
 - The Hacker News
   - [Iran-Linked MuddyWater Targets 100+ Organisations in Global Espionage Campaign](https://thehackernews.com/2025/10/iran-linked-muddywater-targets-100.html)
   - [Ukraine Aid Groups Targeted Through Fake Zoom Meetings and Weaponized PDF Files](https://thehackernews.com/2025/10/ukraine-aid-groups-targeted-through.html)
@@ -215,6 +221,8 @@
 - Graham Cluley
   - [Smashing Security podcast #440: How to hack a prison, and the hidden threat of online checkouts](https://grahamcluley.com/smashing-security-podcast-440/)
   - [Cybercriminals turn on each other: the story of Lumma Stealer’s collapse](https://www.fortra.com/blog/cybercriminals-turn-each-other-story-lumma-stealers-collapse)
+- Deeplinks
+  - [Opt Out October: Daily Tips to Protect Your Privacy and Security](https://www.eff.org/deeplinks/2025/09/opt-out-october-daily-tips-protect-your-privacy-and-security)
 - Security Affairs
   - [PhantomCaptcha targets Ukraine relief groups with WebSocket RAT in October 2025](https://securityaffairs.com/183720/apt/phantomcaptcha-targets-ukraine-relief-groups-with-websocket-rat.html)
   - [TP-Link urges immediate updates for Omada Gateways after critical flaws discovery](https://securityaffairs.com/183690/security/tp-link-urges-immediate-updates-for-omada-gateways-after-critical-flaws-discovery.html)
@@ -222,14 +230,8 @@
   - [Russia-linked COLDRIVER speeds up malware evolution after LOSTKEYS exposure](https://securityaffairs.com/183672/apt/russia-linked-coldriver-speeds-up-malware-evolution-after-lostkeys-exposure.html)
 - Krebs on Security
   - [Canada Fines Cybercrime Friendly Cryptomus $176M](https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/)
-- SANS Internet Storm Center, InfoCON: green
-  - [webctrl.cgi/Blue Angel Software Suite Exploit Attempts. Maybe CVE-2025-34033 Variant&#x3f;, (Wed, Oct 22nd)](https://isc.sans.edu/diary/rss/32410)
-  - [What time is it&#x3f; Accuracy of pool.ntp.org., (Tue, Oct 21st)](https://isc.sans.edu/diary/rss/32390)
-  - [ISC Stormcast For Wednesday, October 22nd, 2025 https://isc.sans.edu/podcastdetail/9666, (Wed, Oct 22nd)](https://isc.sans.edu/diary/rss/32392)
-- Silent Signal Techblog
-  - [IBM i LIBL Autopwn: Kill the Vulnerability Class](https://blog.silentsignal.eu/2025/10/22/IBM-i-LIBL-Autopwn-Kill-the-Vulnerability-Class/)
-- Deeplinks
-  - [Opt Out October: Daily Tips to Protect Your Privacy and Security](https://www.eff.org/deeplinks/2025/09/opt-out-october-daily-tips-protect-your-privacy-and-security)
+- 白帽子章华鹏
+  - [连续8年举办的安全技术大会不多见了](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650237961&idx=1&sn=55cab7a3c1016d8a6756ce398cf3bfe2)
 - 安全419
   - [CCS 2025 | 中国网安产业步入深度转型期 AI重塑十大创新方向](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247551017&idx=1&sn=a0572d49a58fb0f626ca8744c2160451)
 - Security Weekly Podcast Network (Audio)
