@@ -1,11 +1,11 @@
 # 每日安全资讯（2025-10-26）
 
-- SecWiki News
-  - [SecWiki News 2025-10-25 Review](http://www.sec-wiki.com/?2025-10-25)
-- Verne in GitHub
-  - [WailBrew：给 Homebrew 增加简单现代化的图形界面](https://blog.einverne.info/post/2025/10/wailbrew.html)
 - Recent Commits to cve:main
   - [Update Sat Oct 25 11:49:31 UTC 2025](https://github.com/trickest/cve/commit/c1153179fe261cb8be903fa43c1edff3b3778fa9)
+- Verne in GitHub
+  - [WailBrew：给 Homebrew 增加简单现代化的图形界面](https://blog.einverne.info/post/2025/10/wailbrew.html)
+- SecWiki News
+  - [SecWiki News 2025-10-25 Review](http://www.sec-wiki.com/?2025-10-25)
 - Didier Stevens
   - [Quickpost: PEP 515 – Underscores in Numeric Literals](https://blog.didierstevens.com/2025/10/25/quickpost-pep-515-underscores-in-numeric-literals/)
 - Hexacorn
@@ -18,14 +18,14 @@
   - [前联合创始人试图为 MAGA 改造维基百科](https://www.solidot.org/story?sid=82637)
 - 网安志异
   - [幽灵、分身与计算机：那篇梦想出量子计算机和多重宇宙的论文](https://mp.weixin.qq.com/s?__biz=MzAxNzYyNzMyNg==&mid=2664232767&idx=1&sn=76e42f58d9e4e678b9ece6253581dd8a)
-- 看雪学苑
-  - [V8 Bytecode反汇编/反编译不完全指南](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458602701&idx=1&sn=28fd5b31e8facc36b3b6480617f01fcc)
-  - [格尔软件为全球汽车产业贡献商密力量](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458602701&idx=2&sn=911d571bdbca84769114c09fa5cc9515)
-- 小迪随笔
-  - [机器人发展的速度可能比我们预期的要快很多](https://mp.weixin.qq.com/s?__biz=MzAxMjIyNDE4Mg==&mid=2651759313&idx=1&sn=03f16551ed0e183b51350c9a41aabe28)
 - 黑鸟
   - [别随便连公共 Wi-Fi！BFId技术可用普通设备偷录信号，悄悄锁定你的身份](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183148&idx=1&sn=2cc71edde53f605c052924482eafe499)
   - [Windows 服务器更新服务 (WSUS) 远程代码执行漏洞被黑客利用攻击中](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183148&idx=2&sn=7f4ea604c0be618db406165d656c36eb)
+- 小迪随笔
+  - [机器人发展的速度可能比我们预期的要快很多](https://mp.weixin.qq.com/s?__biz=MzAxMjIyNDE4Mg==&mid=2651759313&idx=1&sn=03f16551ed0e183b51350c9a41aabe28)
+- 看雪学苑
+  - [V8 Bytecode反汇编/反编译不完全指南](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458602701&idx=1&sn=28fd5b31e8facc36b3b6480617f01fcc)
+  - [格尔软件为全球汽车产业贡献商密力量](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458602701&idx=2&sn=911d571bdbca84769114c09fa5cc9515)
 - 天黑说嘿话
   - [你是说甲方让我测他们的漏洞靶场，然后出渗透报告？](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484832&idx=1&sn=e7a7122314f200606eade90f330b8ea3)
 - 丁爸 情报分析师的工具箱
@@ -34,11 +34,11 @@
   - [【安全圈】速更新！Windows服务器曝高危漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072393&idx=1&sn=77afd354e52d6be27280d6083ba913a3)
   - [【安全圈】"开盒"黑产深度调查：你的隐私正被明码标价](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072393&idx=2&sn=1b2c39a3c6a3b329ed6b76f5ed6ab54a)
   - [【安全圈】朝鲜黑客组织Lazarus再出手！欧洲军工企业无人机技术遭窃密](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072393&idx=3&sn=69cf54e9f1bf4cf8d816d72192b76bf8)
+- Beacon Tower Lab
+  - [【1025】重保演习每日情报汇总](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487888&idx=1&sn=7359ad304f8f904f95919ed7ad171216)
 - 极客公园
   - [一把吉他卖出 10 亿后，LiberLive 选择自我革命](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653089260&idx=1&sn=b1cd08868104f3e2dff6b5064169001a)
   - [ChatGPT 上线「公司知识库」；Optimus 机器人因「手」再次延期；理想回应 MEGA 起火事件 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653089206&idx=1&sn=14d3ba4e2c29ff5834800e60499fceae)
-- Beacon Tower Lab
-  - [【1025】重保演习每日情报汇总](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487888&idx=1&sn=7359ad304f8f904f95919ed7ad171216)
 - 迪哥讲事
   - [某通杀 工具](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498461&idx=1&sn=b13be5ce0264411087063c1469d28471)
 - LastKnight.com Feed
