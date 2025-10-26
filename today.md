@@ -1,15 +1,15 @@
 # 每日安全资讯（2025-10-26）
 
-- Verne in GitHub
-  - [WailBrew：给 Homebrew 增加简单现代化的图形界面](https://blog.einverne.info/post/2025/10/wailbrew.html)
-- SecWiki News
-  - [SecWiki News 2025-10-25 Review](http://www.sec-wiki.com/?2025-10-25)
 - Recent Commits to cve:main
   - [Update Sat Oct 25 11:49:31 UTC 2025](https://github.com/trickest/cve/commit/c1153179fe261cb8be903fa43c1edff3b3778fa9)
-- Hexacorn
-  - [Beyond good ol’ Run key, Part 153](https://www.hexacorn.com/blog/2025/10/25/beyond-good-ol-run-key-part-153/)
+- SecWiki News
+  - [SecWiki News 2025-10-25 Review](http://www.sec-wiki.com/?2025-10-25)
+- Verne in GitHub
+  - [WailBrew：给 Homebrew 增加简单现代化的图形界面](https://blog.einverne.info/post/2025/10/wailbrew.html)
 - Didier Stevens
   - [Quickpost: PEP 515 – Underscores in Numeric Literals](https://blog.didierstevens.com/2025/10/25/quickpost-pep-515-underscores-in-numeric-literals/)
+- Hexacorn
+  - [Beyond good ol’ Run key, Part 153](https://www.hexacorn.com/blog/2025/10/25/beyond-good-ol-run-key-part-153/)
 - daniel.haxx.se
   - [A gold ceremony to remember](https://daniel.haxx.se/blog/2025/10/25/a-gold-ceremony-to-remember/)
 - 奇客Solidot–传递最新科技情报
@@ -26,10 +26,10 @@
 - 看雪学苑
   - [V8 Bytecode反汇编/反编译不完全指南](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458602701&idx=1&sn=28fd5b31e8facc36b3b6480617f01fcc)
   - [格尔软件为全球汽车产业贡献商密力量](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458602701&idx=2&sn=911d571bdbca84769114c09fa5cc9515)
-- 丁爸 情报分析师的工具箱
-  - [【情报】美军网军的供应商](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152625&idx=1&sn=2e266d265191ec6a96072dab03571baf)
 - 天黑说嘿话
   - [你是说甲方让我测他们的漏洞靶场，然后出渗透报告？](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484832&idx=1&sn=e7a7122314f200606eade90f330b8ea3)
+- 丁爸 情报分析师的工具箱
+  - [【情报】美军网军的供应商](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152625&idx=1&sn=2e266d265191ec6a96072dab03571baf)
 - 安全圈
   - [【安全圈】速更新！Windows服务器曝高危漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072393&idx=1&sn=77afd354e52d6be27280d6083ba913a3)
   - [【安全圈】"开盒"黑产深度调查：你的隐私正被明码标价](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072393&idx=2&sn=1b2c39a3c6a3b329ed6b76f5ed6ab54a)
