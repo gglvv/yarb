@@ -1,13 +1,13 @@
 # 每日安全资讯（2025-11-02）
 
+- Recent Commits to cve:main
+  - [Update Sat Nov  1 11:28:33 UTC 2025](https://github.com/trickest/cve/commit/1d0acf37fc311c5e3582f49f011235914ede78ad)
+- SecWiki News
+  - [SecWiki News 2025-11-01 Review](http://www.sec-wiki.com/?2025-11-01)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [Exim tls-openssl.c — Use-After-Free: unauthenticated Remote Code Execution](https://cxsecurity.com/issue/WLB-2025110003)
   - [Wisenshop - Stored XSS](https://cxsecurity.com/issue/WLB-2025110002)
   - [Flowise 3.0.4 Remote Code Execution](https://cxsecurity.com/issue/WLB-2025110001)
-- SecWiki News
-  - [SecWiki News 2025-11-01 Review](http://www.sec-wiki.com/?2025-11-01)
-- Recent Commits to cve:main
-  - [Update Sat Nov  1 11:28:33 UTC 2025](https://github.com/trickest/cve/commit/1d0acf37fc311c5e3582f49f011235914ede78ad)
 - Filippo Valsorda
   - [Claude Code Can Debug Low-level Cryptography](https://words.filippo.io/claude-debugging/)
 - Didier Stevens
@@ -44,10 +44,10 @@
   - [Windows 11 Build 26220.7051 released with three features for Insiders](https://www.bleepingcomputer.com/news/microsoft/windows-11-build-262207051-released-with-three-features-for-insiders/)
   - [China-linked hackers exploited Lanscope flaw as a zero-day in attacks](https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-lanscope-flaw-as-a-zero-day-in-attacks/)
   - [Release Notes: ANY.RUN & ThreatQ Integration, 3,000+ New Rules, and Expanded Detection Coverage](https://any.run/cybersecurity-blog/release-notes-october-2025/)
+- blackMORE Ops
+  - [Step by step guide on how to install yt-dlp on Linux Windows](https://www.blackmoreops.com/step-by-step-guide-on-how-to-install-yt-dlp/)
+- The Hacker News
+  - [ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability](https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html)
 - Security Affairs
   - [BadCandy Webshell threatens unpatched Cisco IOS XE devices, warns Australian government](https://securityaffairs.com/184095/hacking/badcandy-webshell-threatens-unpatched-cisco-ios-xe-devices-warns-australian-government.html)
   - [China-linked UNC6384 exploits Windows zero-day to spy on European diplomats](https://securityaffairs.com/184083/apt/china-linked-unc6384-exploits-windows-zero-day-to-spy-on-european-diplomats.html)
-- The Hacker News
-  - [ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability](https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html)
-- blackMORE Ops
-  - [Step by step guide on how to install yt-dlp on Linux Windows](https://www.blackmoreops.com/step-by-step-guide-on-how-to-install-yt-dlp/)
