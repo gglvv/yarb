@@ -1,12 +1,12 @@
 # 每日安全资讯（2025-11-03）
 
+- Recent Commits to cve:main
+  - [Update Sun Nov  2 11:31:45 UTC 2025](https://github.com/trickest/cve/commit/b8c57a022449afaf29a3bc2baab6ab9e45047b8e)
 - SecWiki News
   - [SecWiki News 2025-11-02 Review](http://www.sec-wiki.com/?2025-11-02)
 - Taxodium
   - [关于 "Give footnotes the boot" 的思考](https://taxodium.ink/on-give-footnotes-the-boot.html)
   - [Zine#44 - 善意、远离手机、阅读、万圣节主题](https://taxodium.ink/44.html)
-- Recent Commits to cve:main
-  - [Update Sun Nov  2 11:31:45 UTC 2025](https://github.com/trickest/cve/commit/b8c57a022449afaf29a3bc2baab6ab9e45047b8e)
 - Zdziarski
   - [The AI Learning Plateau](https://www.zdziarski.com/blog/?p=13538)
 - 博客园 - 飘渺红尘✨
@@ -21,25 +21,25 @@
   - [专用于敏感信息处理的正则表达式合集网站](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183428&idx=1&sn=46bd97ce6baff7b15440b748e3e5f713)
 - 二道情报贩子
   - [2025编程语言排行](https://mp.weixin.qq.com/s?__biz=MzU5NTA3MTk5Ng==&mid=2247489717&idx=1&sn=25b1d25719d14e74889c4f6e8c1dd93c)
-- 威努特安全网络
-  - [正式实施!《水利重要数据安全保护要求》解读+下载](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651136968&idx=1&sn=16084ba186bba951358036b8edafe072)
-- 电子物证
-  - [【揭秘Windows11取证痕迹的变化】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048741&idx=1&sn=250d50784a2909fc46054a8110604295)
-  - [干货分享：常见远程连接工具取证分析](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048741&idx=2&sn=f0bb6283adbe7a81774cac49ece83354)
+- 丁爸 情报分析师的工具箱
+  - [【资讯】美国人神吹中国的电磁炮](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152776&idx=1&sn=760e6957c8976b7133ec82344cbf6280)
 - 安全圈
   - [【安全圈】武汉科技公司被黑，黑客自学成才盗转4万！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072545&idx=1&sn=0899603988a8ad82871a9c835cd68590)
   - [【安全圈】潜伏十年的 Linux 高危漏洞正被勒索软件利用，影响Ubuntu等系统](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072545&idx=2&sn=c81c7308a4677ee750540927bea32d33)
   - [【安全圈】黑客利用Windows零日漏洞攻击欧洲多国外交部门，微软未修补](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072545&idx=3&sn=b377ffd060e2d116ea5dc3583fc232c6)
-- 丁爸 情报分析师的工具箱
-  - [【资讯】美国人神吹中国的电磁炮](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152776&idx=1&sn=760e6957c8976b7133ec82344cbf6280)
-- 天黑说嘿话
-  - [2025数证杯初赛writeup](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484997&idx=1&sn=b51a8644f065e7e24a077ae5541746d6)
+- 威努特安全网络
+  - [正式实施!《水利重要数据安全保护要求》解读+下载](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651136968&idx=1&sn=16084ba186bba951358036b8edafe072)
 - 极客公园
   - [苹果，一赚「解」千愁](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653089883&idx=1&sn=b93313d12a5a9c03ea3109d88de418d8)
   - [每天都和 AI 聊天，你可能已经是个「神经病」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653089848&idx=1&sn=ddb7c5791a4eed3a965c8ddcc9319945)
   - [特斯拉Cybercab实车曝光，部分量产；何小鹏谈雷军竞争：未来更期待对手是小米；黄仁勋完成10亿美元股票出售 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653089864&idx=1&sn=99a6c25329537648b83163e9a4f125e2)
+- 天黑说嘿话
+  - [2025数证杯初赛writeup](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484997&idx=1&sn=b51a8644f065e7e24a077ae5541746d6)
 - 迪哥讲事
   - [从控股公司下手挖掘漏洞的骚思路](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498494&idx=1&sn=bac97ff85c737b657923306d701e70b5)
+- 电子物证
+  - [【揭秘Windows11取证痕迹的变化】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048741&idx=1&sn=250d50784a2909fc46054a8110604295)
+  - [干货分享：常见远程连接工具取证分析](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048741&idx=2&sn=f0bb6283adbe7a81774cac49ece83354)
 - Over Security - Cybersecurity news aggregator
   - [Penn hacker claims to have stolen 1.2 million donor records in data breach](https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-hacker-claims-1.2-million-donor-data-breach/)
   - [OpenAI is going Meta route, as it considers memory-based ads on ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-going-meta-route-as-it-considers-memory-based-ads-on-chatgpt/)
@@ -55,13 +55,13 @@
   - [Windows 11 Build 26220.7051 released with “Ask Copilot” feature](https://www.bleepingcomputer.com/news/microsoft/windows-11-build-262207051-released-with-ask-copilot-feature/)
 - SANS Internet Storm Center, InfoCON: green
   - [Scans for Port 8530/8531 (TCP). Likely related to WSUS Vulnerability CVE-2025-59287, (Sun, Nov 2nd)](https://isc.sans.edu/diary/rss/32440)
+- Krebs on Security
+  - [Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody](https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/)
 - blackMORE Ops
   - [yt-dlp Commands for Subtitles, Codec & Folder](https://www.blackmoreops.com/yt-dlp-commands-for-subtitles-codec/)
 - Security Affairs
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 69](https://securityaffairs.com/184123/malware/security-affairs-malware-newsletter-round-69.html)
   - [Security Affairs newsletter Round 548 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/184115/uncategorized/security-affairs-newsletter-round-548-by-pierluigi-paganini-international-edition.html)
   - [Ukrainian extradited to US over Conti ransomware involvement](https://securityaffairs.com/184106/security/ukrainian-extradited-to-us-over-conti-ransomware-involvement.html)
-- Krebs on Security
-  - [Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody](https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/)
 - Dark Space Blogspot
   - [La Truffa Della Voce Clonata Con AI (Audio DeepFake)](http://darkwhite666.blogspot.com/2025/11/la-truffa-della-voce-clonata-con-ai.html)
