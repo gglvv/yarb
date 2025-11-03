@@ -2,10 +2,13 @@
 
 - SecWiki News
   - [SecWiki News 2025-11-02 Review](http://www.sec-wiki.com/?2025-11-02)
-- Zdziarski
-  - [The AI Learning Plateau](https://www.zdziarski.com/blog/?p=13538)
+- Taxodium
+  - [关于 "Give footnotes the boot" 的思考](https://taxodium.ink/on-give-footnotes-the-boot.html)
+  - [Zine#44 - 善意、远离手机、阅读、万圣节主题](https://taxodium.ink/44.html)
 - Recent Commits to cve:main
   - [Update Sun Nov  2 11:31:45 UTC 2025](https://github.com/trickest/cve/commit/b8c57a022449afaf29a3bc2baab6ab9e45047b8e)
+- Zdziarski
+  - [The AI Learning Plateau](https://www.zdziarski.com/blog/?p=13538)
 - 博客园 - 飘渺红尘✨
   - [CSPT漏洞浅析 - 飘渺红尘✨](https://www.cnblogs.com/piaomiaohongchen/p/19148914)
 - 奇客Solidot–传递最新科技情报
@@ -52,12 +55,12 @@
   - [Release Notes: ANY.RUN & ThreatQ Integration, 3,000+ New Rules, and Expanded Detection Coverage](https://any.run/cybersecurity-blog/release-notes-october-2025/)
   - [China-linked hackers exploited Lanscope flaw as a zero-day in attacks](https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-lanscope-flaw-as-a-zero-day-in-attacks/)
   - [Windows 11 Build 26220.7051 released with “Ask Copilot” feature](https://www.bleepingcomputer.com/news/microsoft/windows-11-build-262207051-released-with-ask-copilot-feature/)
+- blackMORE Ops
+  - [yt-dlp Commands for Subtitles, Codec & Folder](https://www.blackmoreops.com/yt-dlp-commands-for-subtitles-codec/)
 - Security Affairs
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 69](https://securityaffairs.com/184123/malware/security-affairs-malware-newsletter-round-69.html)
   - [Security Affairs newsletter Round 548 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/184115/uncategorized/security-affairs-newsletter-round-548-by-pierluigi-paganini-international-edition.html)
   - [Ukrainian extradited to US over Conti ransomware involvement](https://securityaffairs.com/184106/security/ukrainian-extradited-to-us-over-conti-ransomware-involvement.html)
-- blackMORE Ops
-  - [yt-dlp Commands for Subtitles, Codec & Folder](https://www.blackmoreops.com/yt-dlp-commands-for-subtitles-codec/)
 - Krebs on Security
   - [Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody](https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/)
 - Dark Space Blogspot
