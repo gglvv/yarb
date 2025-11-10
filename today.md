@@ -37,16 +37,21 @@
   - [研究发现 AI 回复过于友好而很容易分辨](https://www.solidot.org/story?sid=82759)
   - [Common Crawl 被批为 AI 公司提供高质量付费墙文章](https://www.solidot.org/story?sid=82758)
   - [宇宙膨胀或许在减速而非加速](https://www.solidot.org/story?sid=82757)
+- 安全分析与研究
+  - [针对与美国NSA相关的方程式APT组织攻击组件分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494222&idx=1&sn=0e4b0da92dc3c8a37dfb5f0423aa7150)
 - 黑鸟
   - [畸形DNG图片可入侵部分苹果和三星手机并窃密](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183574&idx=1&sn=03a073292b9aa56fe56532b8b9cf85f8)
-- 天黑说嘿话
-  - [国外Agentic SOC平台落地实践经验](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485077&idx=1&sn=783462a370831771062d185c41e3a1b7)
 - 丁爸 情报分析师的工具箱
   - [【工具】利用papra对文件进行自动分类和打标签](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152899&idx=1&sn=fdc9bae66b78a80bda0afcf0e1863c4d)
-- 极客公园
-  - [在 Cursor 工作 60 天，我发现了这家公司成功的秘密](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653090512&idx=1&sn=aac7b55f773d07f75f13af602f5b1138)
-  - [保暖？排汗？时尚？户外运动装备这道「选择题」，亚瑟士要打破「不可能三角」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653090435&idx=1&sn=759767b0e42c7afab1ece5283fab389f)
-  - [AI 六巨头罕见同台，辨论 AI 泡沫；SpaceX 公布简化版登月舱方案；王者荣耀年度总决赛首次在鸟巢举办 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653090498&idx=1&sn=baf5c90ac5bad752ed1b48ac64e7fc68)
+- 安全圈
+  - [【安全圈】【13亿密码+20亿邮箱泄露速查指南】你的账户安全吗？](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072656&idx=1&sn=de19c34e8bea69ea42438db1e1c0b248)
+  - [【安全圈】QNAP 紧急修复7大零日漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072656&idx=2&sn=98caa55fb6a7d4eab9cd8a415acc1541)
+  - [【安全圈】弱口令致门户网站遭篡改案](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072656&idx=3&sn=9a6cbdb297f4c5474dae3b47e0470fca)
+- 天黑说嘿话
+  - [国外Agentic SOC平台落地实践经验](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485077&idx=1&sn=783462a370831771062d185c41e3a1b7)
+- 电子物证
+  - [干货分享：常见内存镜像获取与分析工具](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048759&idx=1&sn=7eab5c172ba8ef7f9298b84627bd18bd)
+  - [解开Windows微信4.0版本的手机聊天记录备份文件](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048759&idx=2&sn=9f329aa335c282c869b0db68b7b0d2bf)
 - 中国信息安全
   - [聚焦 | 《中国互联网发展报告2025》和《世界互联网发展报告2025》蓝皮书发布](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664252785&idx=1&sn=f9ea89c4bc15ca588320f621e7b86b4b)
   - [发布 | 全球发展倡议数字普惠行动倡议](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664252785&idx=2&sn=0c923cd1a68c3d3ce31037b3e95d5546)
@@ -54,24 +59,14 @@
   - [关注 | 市场监管总局指导8家平台企业发起食品安全管理自律公约](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664252785&idx=4&sn=d73479d5d3788571f005d228bbf3a051)
 - 国家互联网应急中心CNCERT
   - [2025年世界互联网大会乌镇峰会网络安全技术发展与国际合作论坛举行](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500815&idx=1&sn=5f5b3ac78d9c94267033d4f773078cdb)
-- 电子物证
-  - [干货分享：常见内存镜像获取与分析工具](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048759&idx=1&sn=7eab5c172ba8ef7f9298b84627bd18bd)
-  - [解开Windows微信4.0版本的手机聊天记录备份文件](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048759&idx=2&sn=9f329aa335c282c869b0db68b7b0d2bf)
-- 安全分析与研究
-  - [针对与美国NSA相关的方程式APT组织攻击组件分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494222&idx=1&sn=0e4b0da92dc3c8a37dfb5f0423aa7150)
-- Over Security - Cybersecurity news aggregator
-  - [How to use the new Windows 11 Start menu, now rolling out](https://www.bleepingcomputer.com/news/microsoft/how-to-use-the-new-windows-11-start-menu-now-rolling-out/)
-  - [How to use new Windows 11 Start menu, now rolling out](https://www.bleepingcomputer.com/news/microsoft/how-to-use-new-windows-11-start-menu-now-rolling-out/)
-  - [Drilling Down on Uncle Sam’s Proposed TP-Link Ban](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/)
-  - [Dangerous runC flaws could allow hackers to escape Docker containers](https://www.bleepingcomputer.com/news/security/dangerous-runc-flaws-could-allow-hackers-to-escape-docker-containers/)
-  - [Lost iPhone? Don’t fall for phishing texts saying it was found](https://www.bleepingcomputer.com/news/security/lost-iphone-dont-fall-for-phishing-texts-saying-it-was-found/)
-  - [NAKIVO Introduces v11.1 with Upgraded Disaster Recovery and MSP Features](https://www.bleepingcomputer.com/news/security/nakivo-introduces-v111-with-upgraded-disaster-recovery-and-msp-features/)
-- 安全圈
-  - [【安全圈】【13亿密码+20亿邮箱泄露速查指南】你的账户安全吗？](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072656&idx=1&sn=de19c34e8bea69ea42438db1e1c0b248)
-  - [【安全圈】QNAP 紧急修复7大零日漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072656&idx=2&sn=98caa55fb6a7d4eab9cd8a415acc1541)
-  - [【安全圈】弱口令致门户网站遭篡改案](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072656&idx=3&sn=9a6cbdb297f4c5474dae3b47e0470fca)
+- 极客公园
+  - [在 Cursor 工作 60 天，我发现了这家公司成功的秘密](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653090512&idx=1&sn=aac7b55f773d07f75f13af602f5b1138)
+  - [保暖？排汗？时尚？户外运动装备这道「选择题」，亚瑟士要打破「不可能三角」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653090435&idx=1&sn=759767b0e42c7afab1ece5283fab389f)
+  - [AI 六巨头罕见同台，辨论 AI 泡沫；SpaceX 公布简化版登月舱方案；王者荣耀年度总决赛首次在鸟巢举办 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653090498&idx=1&sn=baf5c90ac5bad752ed1b48ac64e7fc68)
 - 吴鲁加
   - [注意力太重要了](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485797&idx=1&sn=8e5c678fcc61fedb99ec1bd37fa3fe19)
+- 迪哥讲事
+  - [如何突破空白页面](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498542&idx=1&sn=6c41a70255e92090d00b2528f4dd8b8f)
 - Chaos Computer Club - last 100 events feed
   - [Performance measurement goes Flow (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-75455-eng-Performance_measurement_goes_Flow_hd.mp4)
   - [DENOG17 Opening (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-81767-eng-DENOG17_Opening_hd.mp4)
@@ -93,11 +88,16 @@
   - [Entering the big Cloud Game: A journey of ups and downs towards sovereignity at scale (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-78872-eng-Entering_the_big_Cloud_Game_A_journey_of_ups_and_downs_towards_sovereignity_at_scale_hd.mp4)
   - [Security.txt across the industry (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-75240-eng-Securitytxt_across_the_industry_hd.mp4)
   - [Evolving Inter.link's Software Delivery: Lessons in Fast, Consistent, and Safe Deployments (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-78781-eng-Evolving_Interlinks_Software_Delivery_Lessons_in_Fast_Consistent_and_Safe_Deployments_hd.mp4)
+- Over Security - Cybersecurity news aggregator
+  - [How to use the new Windows 11 Start menu, now rolling out](https://www.bleepingcomputer.com/news/microsoft/how-to-use-the-new-windows-11-start-menu-now-rolling-out/)
+  - [How to use new Windows 11 Start menu, now rolling out](https://www.bleepingcomputer.com/news/microsoft/how-to-use-new-windows-11-start-menu-now-rolling-out/)
+  - [Drilling Down on Uncle Sam’s Proposed TP-Link Ban](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/)
+  - [Dangerous runC flaws could allow hackers to escape Docker containers](https://www.bleepingcomputer.com/news/security/dangerous-runc-flaws-could-allow-hackers-to-escape-docker-containers/)
+  - [Lost iPhone? Don’t fall for phishing texts saying it was found](https://www.bleepingcomputer.com/news/security/lost-iphone-dont-fall-for-phishing-texts-saying-it-was-found/)
+  - [NAKIVO Introduces v11.1 with Upgraded Disaster Recovery and MSP Features](https://www.bleepingcomputer.com/news/security/nakivo-introduces-v111-with-upgraded-disaster-recovery-and-msp-features/)
 - Security Affairs
   - [AI chat privacy at risk: Microsoft details Whisper Leak side-channel attack](https://securityaffairs.com/184372/hacking/ai-chat-privacy-at-risk-microsoft-details-whisper-leak-side-channel-attack.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 70](https://securityaffairs.com/184367/malware/security-affairs-malware-newsletter-round-70.html)
   - [Security Affairs newsletter Round 549 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/184362/breaking-news/security-affairs-newsletter-round-549-by-pierluigi-paganini-international-edition.html)
-- 迪哥讲事
-  - [如何突破空白页面](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498542&idx=1&sn=6c41a70255e92090d00b2528f4dd8b8f)
 - Krebs on Security
   - [Drilling Down on Uncle Sam’s Proposed TP-Link Ban](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/)
