@@ -1,7 +1,10 @@
 # 每日安全资讯（2025-11-10）
 
-- SecWiki News
-  - [SecWiki News 2025-11-09 Review](http://www.sec-wiki.com/?2025-11-09)
+- Taxodium
+  - [饮料极简主义 - 多喝热水](https://taxodium.ink/drink-minimalism.html)
+  - [XSLT 将要被废弃、更新订阅页面](https://taxodium.ink/xslt-will-be-outdated-and-update-subscribe-page.html)
+- Recent Commits to cve:main
+  - [Update Sun Nov  9 11:32:44 UTC 2025](https://github.com/trickest/cve/commit/f0429b4a246f69c80271ee86de2d727e4e317343)
 - InfoSec Write-ups - Medium
   - [From Wooden Ducks to Digital Flags: My First v1t CTF OSINT Challenge](https://infosecwriteups.com/from-wooden-ducks-to-digital-flags-my-first-v1t-ctf-osint-challenge-84c38c9fbcb8?source=rss----7b722bfd1b8d---4)
   - [How I Used AI to Become Someone Else (And Why Your Face Is No Longer Your Password)](https://infosecwriteups.com/how-i-used-ai-to-become-someone-else-and-why-your-face-is-no-longer-your-password-dfd88c254733?source=rss----7b722bfd1b8d---4)
@@ -13,11 +16,10 @@
   - [Account Takeover via IDOR: From UserID to Full Access](https://infosecwriteups.com/account-takeover-via-idor-from-userid-to-full-access-ade4f980cfb4?source=rss----7b722bfd1b8d---4)
   - [AI/ LLM Hacking — Part 6 — Excessive Agency | Insecure Plugin](https://infosecwriteups.com/ai-llm-hacking-part-6-excessive-agency-insecure-plugin-6c83013c6806?source=rss----7b722bfd1b8d---4)
   - [HTB Starting Point: Mongod](https://infosecwriteups.com/htb-starting-point-mongod-29281b2887ff?source=rss----7b722bfd1b8d---4)
-- Taxodium
-  - [饮料极简主义 - 多喝热水](https://taxodium.ink/drink-minimalism.html)
-  - [XSLT 将要被废弃、更新订阅页面](https://taxodium.ink/xslt-will-be-outdated-and-update-subscribe-page.html)
-- Recent Commits to cve:main
-  - [Update Sun Nov  9 11:32:44 UTC 2025](https://github.com/trickest/cve/commit/f0429b4a246f69c80271ee86de2d727e4e317343)
+- SecWiki News
+  - [SecWiki News 2025-11-09 Review](http://www.sec-wiki.com/?2025-11-09)
+- CCC Event Blog
+  - [Dein erster Congress? Die Chaospat:innen sind für dich auf dem 39C3 da!](https://events.ccc.de/2025/11/09/39c3-chaospatinnen/)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [From Wooden Ducks to Digital Flags: My First v1t CTF OSINT Challenge](https://infosecwriteups.com/from-wooden-ducks-to-digital-flags-my-first-v1t-ctf-osint-challenge-84c38c9fbcb8?source=rss----7b722bfd1b8d--bug_bounty)
   - [How I Used AI to Become Someone Else (And Why Your Face Is No Longer Your Password)](https://infosecwriteups.com/how-i-used-ai-to-become-someone-else-and-why-your-face-is-no-longer-your-password-dfd88c254733?source=rss----7b722bfd1b8d--bug_bounty)
@@ -26,8 +28,6 @@
   - [Time-of-check Time-of-use (TOCTOU) Race Condition Leads to Broken Authentication | Critical Finding](https://infosecwriteups.com/time-of-check-time-of-use-toctou-race-condition-leads-to-broken-authentication-critical-finding-b55993c92abc?source=rss----7b722bfd1b8d--bug_bounty)
   - [Account Takeover via IDOR: From UserID to Full Access](https://infosecwriteups.com/account-takeover-via-idor-from-userid-to-full-access-ade4f980cfb4?source=rss----7b722bfd1b8d--bug_bounty)
   - [From 404 to $4,000: Real Bugs Found in Forgotten Endpoints](https://infosecwriteups.com/from-404-to-4-000-real-bugs-found-in-forgotten-endpoints-5886c06f7473?source=rss----7b722bfd1b8d--bug_bounty)
-- CCC Event Blog
-  - [Dein erster Congress? Die Chaospat:innen sind für dich auf dem 39C3 da!](https://events.ccc.de/2025/11/09/39c3-chaospatinnen/)
 - 腾讯玄武实验室
   - [我们的AI发现了一个零知识证明库的漏洞，Sam Altman的项目也用了这个库](https://xlab.tencent.com/cn/2025/11/10/atuin-gnark-crypto-vulns/)
 - 腾讯玄武实验室
@@ -41,47 +41,28 @@
   - [畸形DNG图片可入侵部分苹果和三星手机并窃密](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183574&idx=1&sn=03a073292b9aa56fe56532b8b9cf85f8)
 - 安全分析与研究
   - [针对与美国NSA相关的方程式APT组织攻击组件分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494222&idx=1&sn=0e4b0da92dc3c8a37dfb5f0423aa7150)
-- 安全圈
-  - [【安全圈】【13亿密码+20亿邮箱泄露速查指南】你的账户安全吗？](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072656&idx=1&sn=de19c34e8bea69ea42438db1e1c0b248)
-  - [【安全圈】QNAP 紧急修复7大零日漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072656&idx=2&sn=98caa55fb6a7d4eab9cd8a415acc1541)
-  - [【安全圈】弱口令致门户网站遭篡改案](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072656&idx=3&sn=9a6cbdb297f4c5474dae3b47e0470fca)
-- 电子物证
-  - [干货分享：常见内存镜像获取与分析工具](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048759&idx=1&sn=7eab5c172ba8ef7f9298b84627bd18bd)
-  - [解开Windows微信4.0版本的手机聊天记录备份文件](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048759&idx=2&sn=9f329aa335c282c869b0db68b7b0d2bf)
-- 极客公园
-  - [在 Cursor 工作 60 天，我发现了这家公司成功的秘密](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653090512&idx=1&sn=aac7b55f773d07f75f13af602f5b1138)
-  - [保暖？排汗？时尚？户外运动装备这道「选择题」，亚瑟士要打破「不可能三角」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653090435&idx=1&sn=759767b0e42c7afab1ece5283fab389f)
-  - [AI 六巨头罕见同台，辨论 AI 泡沫；SpaceX 公布简化版登月舱方案；王者荣耀年度总决赛首次在鸟巢举办 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653090498&idx=1&sn=baf5c90ac5bad752ed1b48ac64e7fc68)
+- 丁爸 情报分析师的工具箱
+  - [【工具】利用papra对文件进行自动分类和打标签](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152899&idx=1&sn=fdc9bae66b78a80bda0afcf0e1863c4d)
+- 天黑说嘿话
+  - [国外Agentic SOC平台落地实践经验](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485077&idx=1&sn=783462a370831771062d185c41e3a1b7)
 - 中国信息安全
   - [聚焦 | 《中国互联网发展报告2025》和《世界互联网发展报告2025》蓝皮书发布](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664252785&idx=1&sn=f9ea89c4bc15ca588320f621e7b86b4b)
   - [发布 | 全球发展倡议数字普惠行动倡议](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664252785&idx=2&sn=0c923cd1a68c3d3ce31037b3e95d5546)
   - [关注 | 国家标准支撑《网络数据安全管理条例》生效施行（v1.0）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664252785&idx=3&sn=d23f3d3e9cd04b063b031a949380937e)
   - [关注 | 市场监管总局指导8家平台企业发起食品安全管理自律公约](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664252785&idx=4&sn=d73479d5d3788571f005d228bbf3a051)
+- 电子物证
+  - [干货分享：常见内存镜像获取与分析工具](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048759&idx=1&sn=7eab5c172ba8ef7f9298b84627bd18bd)
+  - [解开Windows微信4.0版本的手机聊天记录备份文件](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048759&idx=2&sn=9f329aa335c282c869b0db68b7b0d2bf)
 - 国家互联网应急中心CNCERT
   - [2025年世界互联网大会乌镇峰会网络安全技术发展与国际合作论坛举行](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500815&idx=1&sn=5f5b3ac78d9c94267033d4f773078cdb)
-- 迪哥讲事
-  - [如何突破空白页面](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498542&idx=1&sn=6c41a70255e92090d00b2528f4dd8b8f)
-- 天黑说嘿话
-  - [国外Agentic SOC平台落地实践经验](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485077&idx=1&sn=783462a370831771062d185c41e3a1b7)
+- 安全圈
+  - [【安全圈】【13亿密码+20亿邮箱泄露速查指南】你的账户安全吗？](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072656&idx=1&sn=de19c34e8bea69ea42438db1e1c0b248)
+  - [【安全圈】QNAP 紧急修复7大零日漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072656&idx=2&sn=98caa55fb6a7d4eab9cd8a415acc1541)
+  - [【安全圈】弱口令致门户网站遭篡改案](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072656&idx=3&sn=9a6cbdb297f4c5474dae3b47e0470fca)
 - 吴鲁加
   - [注意力太重要了](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485797&idx=1&sn=8e5c678fcc61fedb99ec1bd37fa3fe19)
-- Chaos Computer Club - last 100 events feed
-  - [Evolving Inter.link's Software Delivery: Lessons in Fast, Consistent, and Safe Deployments (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-78781-eng-Evolving_Interlinks_Software_Delivery_Lessons_in_Fast_Consistent_and_Safe_Deployments_hd.mp4)
-  - [DENOG17 Opening (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-81767-eng-DENOG17_Opening_hd.mp4)
-  - [Edge-of-Your-Seat Streaming: inside waipu’s terrabit-scale live-video CDN (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-75852-eng-Edge-of-Your-Seat_Streaming_inside_waipus_terrabit-scale_live-video_CDN_hd.mp4)
-  - [Sorry we messed up (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-75474-eng-Sorry_we_messed_up_hd.mp4)
-  - [Newcommer Session (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-81766-eng-Newcommer_Session_hd.mp4)
-  - [Th3 Flock of Bird s (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-78857-eng-Th3_Flock_of_Bird_s_hd.mp4)
-  - [Understanding and optimising transceiver efficiency using internal metrics for improved power savings (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-78665-eng-Understanding_and_optimising_transceiver_efficiency_using_internal_metrics_for_improved_power_savings_hd.mp4)
-  - [EVPN for the rest of us – what happens when software people try to use EVPN (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-78820-eng-EVPN_for_the_rest_of_us_-_what_happens_when_software_people_try_to_use_EVPN_hd.mp4)
-  - [QoE Matters – How Application-Level Monitoring Pinpoints Network Issues (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-78774-eng-QoE_Matters_-_How_Application-Level_Monitoring_Pinpoints_Network_Issues_hd.mp4)
-  - [Entering the big Cloud Game: A journey of ups and downs towards sovereignity at scale (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-78872-eng-Entering_the_big_Cloud_Game_A_journey_of_ups_and_downs_towards_sovereignity_at_scale_hd.mp4)
-  - [Security.txt across the industry (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-75240-eng-Securitytxt_across_the_industry_hd.mp4)
-  - [Performance measurement goes Flow (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-75455-eng-Performance_measurement_goes_Flow_hd.mp4)
-  - ["What can possibly go wrong?" Stories of peculiarities of modern server hardware (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-75886-eng-What_can_possibly_go_wrong_Stories_of_peculiarities_of_modern_server_hardware_hd.mp4)
-  - [400G ZR+ BiDi does not exist, it can't hurt you. Or can it? (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-78260-eng-400G_ZR_BiDi_does_not_exist_it_cant_hurt_you_Or_can_it_hd.mp4)
-- 丁爸 情报分析师的工具箱
-  - [【工具】利用papra对文件进行自动分类和打标签](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152899&idx=1&sn=fdc9bae66b78a80bda0afcf0e1863c4d)
+- 迪哥讲事
+  - [如何突破空白页面](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498542&idx=1&sn=6c41a70255e92090d00b2528f4dd8b8f)
 - Over Security - Cybersecurity news aggregator
   - [How to use the new Windows 11 Start menu, now rolling out](https://www.bleepingcomputer.com/news/microsoft/how-to-use-the-new-windows-11-start-menu-now-rolling-out/)
   - [How to use new Windows 11 Start menu, now rolling out](https://www.bleepingcomputer.com/news/microsoft/how-to-use-new-windows-11-start-menu-now-rolling-out/)
@@ -89,6 +70,22 @@
   - [Dangerous runC flaws could allow hackers to escape Docker containers](https://www.bleepingcomputer.com/news/security/dangerous-runc-flaws-could-allow-hackers-to-escape-docker-containers/)
   - [Lost iPhone? Don’t fall for phishing texts saying it was found](https://www.bleepingcomputer.com/news/security/lost-iphone-dont-fall-for-phishing-texts-saying-it-was-found/)
   - [NAKIVO Introduces v11.1 with Upgraded Disaster Recovery and MSP Features](https://www.bleepingcomputer.com/news/security/nakivo-introduces-v111-with-upgraded-disaster-recovery-and-msp-features/)
+- Chaos Computer Club - last 100 events feed
+  - [Performance measurement goes Flow (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-75455-eng-Performance_measurement_goes_Flow_hd.mp4)
+  - [Security.txt across the industry (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-75240-eng-Securitytxt_across_the_industry_hd.mp4)
+  - [DENOG17 Opening (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-81767-eng-DENOG17_Opening_hd.mp4)
+  - [QoE Matters – How Application-Level Monitoring Pinpoints Network Issues (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-78774-eng-QoE_Matters_-_How_Application-Level_Monitoring_Pinpoints_Network_Issues_hd.mp4)
+  - [Th3 Flock of Bird s (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-78857-eng-Th3_Flock_of_Bird_s_hd.mp4)
+  - [400G ZR+ BiDi does not exist, it can't hurt you. Or can it? (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-78260-eng-400G_ZR_BiDi_does_not_exist_it_cant_hurt_you_Or_can_it_hd.mp4)
+  - [Evolving Inter.link's Software Delivery: Lessons in Fast, Consistent, and Safe Deployments (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-78781-eng-Evolving_Interlinks_Software_Delivery_Lessons_in_Fast_Consistent_and_Safe_Deployments_hd.mp4)
+  - [Newcommer Session (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-81766-eng-Newcommer_Session_hd.mp4)
+  - [EVPN for the rest of us – what happens when software people try to use EVPN (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-78820-eng-EVPN_for_the_rest_of_us_-_what_happens_when_software_people_try_to_use_EVPN_hd.mp4)
+  - [Entering the big Cloud Game: A journey of ups and downs towards sovereignity at scale (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-78872-eng-Entering_the_big_Cloud_Game_A_journey_of_ups_and_downs_towards_sovereignity_at_scale_hd.mp4)
+  - [Sorry we messed up (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-75474-eng-Sorry_we_messed_up_hd.mp4)
+  - ["What can possibly go wrong?" Stories of peculiarities of modern server hardware (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-75886-eng-What_can_possibly_go_wrong_Stories_of_peculiarities_of_modern_server_hardware_hd.mp4)
+  - [Edge-of-Your-Seat Streaming: inside waipu’s terrabit-scale live-video CDN (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-75852-eng-Edge-of-Your-Seat_Streaming_inside_waipus_terrabit-scale_live-video_CDN_hd.mp4)
+  - [Understanding and optimising transceiver efficiency using internal metrics for improved power savings (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-78665-eng-Understanding_and_optimising_transceiver_efficiency_using_internal_metrics_for_improved_power_savings_hd.mp4)
+  - [200 GbE network processing with 100 W - or "can I *make* a chip for that?" (denog17)](https://cdn.media.ccc.de/events/denog/denog17/h264-hd/denog17-79016-eng-200_GbE_network_processing_with_100_W_-_or_can_I_make_a_chip_for_that_hd.mp4)
 - Krebs on Security
   - [Drilling Down on Uncle Sam’s Proposed TP-Link Ban](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/)
 - Security Affairs
