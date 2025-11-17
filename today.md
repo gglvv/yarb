@@ -7,20 +7,20 @@
 - Hexacorn
   - [Some unusual run-time rundll32.exe artifacts](https://www.hexacorn.com/blog/2025/11/16/some-unusual-run-time-rundll32-exe-artifacts/)
   - [1 or more little secrets of disksnapshot.exe](https://www.hexacorn.com/blog/2025/11/16/1-or-more-little-secrets-of-disksnapshot-exe/)
+- 黑鸟
+  - [iOS 18-26 越狱关键突破：实现沙箱逃逸与权限提升](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183668&idx=1&sn=0b225a72f73c3f90c77af647352d6735)
 - K8哥哥’s Blog
   - [AI攻防 Gemini大模型越狱提示词](http://k8gege.org/p/aibreak.html)
 - 奇客Solidot–传递最新科技情报
   - [NASA 宇航员的离异妻子承认撒谎](https://www.solidot.org/story?sid=82816)
-- 奇安信 CERT
-  - [【在野利用】Fortinet FortiWeb 身份认证绕过漏洞(CVE-2025-64446)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504170&idx=1&sn=0d94424a437dfe623e4407031fbad05f)
-- 黑鸟
-  - [iOS 18-26 越狱关键突破：实现沙箱逃逸与权限提升](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183668&idx=1&sn=0b225a72f73c3f90c77af647352d6735)
 - 威努特安全网络
   - [威努特商用密码建设，筑牢医疗数字防线](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651137845&idx=1&sn=794e8116888a57d04d647da828706445)
 - 安全圈
   - [【安全圈】约 40 年前的 Windows 古董命令被滥用，黑客远程投毒可掌控你的 PC](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072762&idx=1&sn=4225b92cfe71bb5a2195e3a39130753e)
   - [【安全圈】ClickFix 木马借人机验证系统实施新型网络攻击，窃取用户信息](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072762&idx=2&sn=d42f939d160e8838378791bef5a82bb6)
   - [【安全圈】微软推送 Win10 首个扩展安全更新：修复 63 个漏洞、解决误报 BUG](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072762&idx=3&sn=b546a0312adffe65c8c06576f8144422)
+- 奇安信 CERT
+  - [【在野利用】Fortinet FortiWeb 身份认证绕过漏洞(CVE-2025-64446)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504170&idx=1&sn=0d94424a437dfe623e4407031fbad05f)
 - 极客公园
   - [当 AI 开始分「左右」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653091029&idx=1&sn=f787bedda78c5ccbf57cf92eaf27aaf9)
   - [安谋科技发了一枚 NPU，要把 AIGC 算力提升 10 倍](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653091029&idx=2&sn=8c7c32a6dde88c66499e2451e4d9fe51)
@@ -38,6 +38,9 @@
   - [.net 10 framework sdk not available on vs.net 2026 and 2022](https://trueliarx.blogspot.com/2025/11/net-10-framework-sdk-not-available-on.html)
   - [Upgrade older vs.net .net 4 framework solutions/applications to .net 10 sdk.](https://trueliarx.blogspot.com/2025/11/upgrade-older-vsnet-net-4-framework.html)
   - [[FIX] Visual Studio 2022 + 2026: Warning CA1416 "Call site reachable by all platforms" but "only supported on: 'windows'"](https://trueliarx.blogspot.com/2025/11/fix-visual-studio-2022-2026-warning.html)
+- SANS Internet Storm Center, InfoCON: green
+  - [&#x26;#xa;Finger.exe &#x26; ClickFix, (Sun, Nov 16th)](https://isc.sans.edu/diary/rss/32492)
+  - [SANS Holiday Hack Challenge 2025, (Sun, Nov 16th)](https://isc.sans.edu/diary/rss/32488)
 - Troy Hunt's Blog
   - [Weekly Update 478](https://www.troyhunt.com/weekly-update-478/)
 - Security Affairs
@@ -47,6 +50,3 @@
   - [Anthropic: China-backed hackers launch first large-scale autonomous AI cyberattack](https://securityaffairs.com/184666/hacking/anthropic-china-backed-hackers-launch-first-large-scale-autonomous-ai-cyberattack.html)
 - Krebs on Security
   - [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
-- SANS Internet Storm Center, InfoCON: green
-  - [&#x26;#xa;Finger.exe &#x26; ClickFix, (Sun, Nov 16th)](https://isc.sans.edu/diary/rss/32492)
-  - [SANS Holiday Hack Challenge 2025, (Sun, Nov 16th)](https://isc.sans.edu/diary/rss/32488)
