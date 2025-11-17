@@ -7,28 +7,32 @@
 - Hexacorn
   - [Some unusual run-time rundll32.exe artifacts](https://www.hexacorn.com/blog/2025/11/16/some-unusual-run-time-rundll32-exe-artifacts/)
   - [1 or more little secrets of disksnapshot.exe](https://www.hexacorn.com/blog/2025/11/16/1-or-more-little-secrets-of-disksnapshot-exe/)
+- Reverse Engineering
+  - [SNES CD is Coming Back; progress on reverse engineering a non-existent console](https://www.reddit.com/r/ReverseEngineering/comments/1oyyjo0/snes_cd_is_coming_back_progress_on_reverse/)
+  - [iOS 26 - Reversing Swift Like a Pro](https://www.reddit.com/r/ReverseEngineering/comments/1oygr34/ios_26_reversing_swift_like_a_pro/)
+  - [AI-Assisted Reverse Engineering with Ghidra](https://www.reddit.com/r/ReverseEngineering/comments/1oyfckh/aiassisted_reverse_engineering_with_ghidra/)
 - 奇客Solidot–传递最新科技情报
   - [NASA 宇航员的离异妻子承认撒谎](https://www.solidot.org/story?sid=82816)
 - K8哥哥’s Blog
   - [AI攻防 Gemini大模型越狱提示词](http://k8gege.org/p/aibreak.html)
 - 安全分析与研究
   - [使用微信加载恶意模块银狐黑产组织最新攻击样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494331&idx=1&sn=0c49dc19830175b6cbc6fce26d32212b)
-- 奇安信 CERT
-  - [【在野利用】Fortinet FortiWeb 身份认证绕过漏洞(CVE-2025-64446)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504170&idx=1&sn=0d94424a437dfe623e4407031fbad05f)
+- 黑鸟
+  - [iOS 18-26 越狱关键突破：实现沙箱逃逸与权限提升](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183668&idx=1&sn=0b225a72f73c3f90c77af647352d6735)
 - 威努特安全网络
   - [威努特商用密码建设，筑牢医疗数字防线](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651137845&idx=1&sn=794e8116888a57d04d647da828706445)
+- 奇安信 CERT
+  - [【在野利用】Fortinet FortiWeb 身份认证绕过漏洞(CVE-2025-64446)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504170&idx=1&sn=0d94424a437dfe623e4407031fbad05f)
+- 极客公园
+  - [当 AI 开始分「左右」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653091029&idx=1&sn=f787bedda78c5ccbf57cf92eaf27aaf9)
+  - [安谋科技发了一枚 NPU，要把 AIGC 算力提升 10 倍](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653091029&idx=2&sn=8c7c32a6dde88c66499e2451e4d9fe51)
+  - [宇树完成上市辅导，拟境内IPO；传索尼开发Labubu电影；2699元！原道X小岛秀夫耳机限量发售 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653091071&idx=1&sn=e5863a404d46614136e8d6051b6f50e1)
 - 天黑说嘿话
   - [干货分享：常见内存镜像获取与分析工具](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485155&idx=1&sn=b59ae589bd2379c02e5ebe5e3f92a585)
 - 安全圈
   - [【安全圈】约 40 年前的 Windows 古董命令被滥用，黑客远程投毒可掌控你的 PC](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072762&idx=1&sn=4225b92cfe71bb5a2195e3a39130753e)
   - [【安全圈】ClickFix 木马借人机验证系统实施新型网络攻击，窃取用户信息](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072762&idx=2&sn=d42f939d160e8838378791bef5a82bb6)
   - [【安全圈】微软推送 Win10 首个扩展安全更新：修复 63 个漏洞、解决误报 BUG](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072762&idx=3&sn=b546a0312adffe65c8c06576f8144422)
-- 极客公园
-  - [当 AI 开始分「左右」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653091029&idx=1&sn=f787bedda78c5ccbf57cf92eaf27aaf9)
-  - [安谋科技发了一枚 NPU，要把 AIGC 算力提升 10 倍](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653091029&idx=2&sn=8c7c32a6dde88c66499e2451e4d9fe51)
-  - [宇树完成上市辅导，拟境内IPO；传索尼开发Labubu电影；2699元！原道X小岛秀夫耳机限量发售 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653091071&idx=1&sn=e5863a404d46614136e8d6051b6f50e1)
-- 黑鸟
-  - [iOS 18-26 越狱关键突破：实现沙箱逃逸与权限提升](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183668&idx=1&sn=0b225a72f73c3f90c77af647352d6735)
 - 迪哥讲事
   - [一个存储型xss](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498589&idx=1&sn=cebb27c7ca6e1f5c22230b30df2bda40)
 - Over Security - Cybersecurity news aggregator
@@ -37,18 +41,28 @@
   - [.net 10 framework sdk not available on vs.net 2026 and 2022](https://trueliarx.blogspot.com/2025/11/net-10-framework-sdk-not-available-on.html)
   - [Upgrade older vs.net .net 4 framework solutions/applications to .net 10 sdk.](https://trueliarx.blogspot.com/2025/11/upgrade-older-vsnet-net-4-framework.html)
   - [[FIX] Visual Studio 2022 + 2026: Warning CA1416 "Call site reachable by all platforms" but "only supported on: 'windows'"](https://trueliarx.blogspot.com/2025/11/fix-visual-studio-2022-2026-warning.html)
-- 电子物证
-  - [【iPhone “失窃设备保护” 功能特性、取证影响与应对策略】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048770&idx=1&sn=847a956ca72e1dffbb8d53a31971b88c)
-  - [【一张照片成破案关键】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048770&idx=2&sn=9762a4e519de6b5fcc57ddfbe662e46e)
 - SANS Internet Storm Center, InfoCON: green
   - [&#x26;#xa;Finger.exe &#x26; ClickFix, (Sun, Nov 16th)](https://isc.sans.edu/diary/rss/32492)
   - [SANS Holiday Hack Challenge 2025, (Sun, Nov 16th)](https://isc.sans.edu/diary/rss/32488)
+- Troy Hunt's Blog
+  - [Weekly Update 478](https://www.troyhunt.com/weekly-update-478/)
+- 电子物证
+  - [【iPhone “失窃设备保护” 功能特性、取证影响与应对策略】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048770&idx=1&sn=847a956ca72e1dffbb8d53a31971b88c)
+  - [【一张照片成破案关键】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048770&idx=2&sn=9762a4e519de6b5fcc57ddfbe662e46e)
 - Security Affairs
   - [Five admit helping North Korea evade sanctions through IT worker schemes](https://securityaffairs.com/184712/cyber-crime/five-admit-helping-north-korea-evade-sanctions-through-it-worker-schemes.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 71](https://securityaffairs.com/184695/malware/security-affairs-malware-newsletter-round-71.html)
   - [Security Affairs newsletter Round 550 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/184688/breaking-news/security-affairs-newsletter-round-550-by-pierluigi-paganini-international-edition.html)
   - [Anthropic: China-backed hackers launch first large-scale autonomous AI cyberattack](https://securityaffairs.com/184666/hacking/anthropic-china-backed-hackers-launch-first-large-scale-autonomous-ai-cyberattack.html)
-- Troy Hunt's Blog
-  - [Weekly Update 478](https://www.troyhunt.com/weekly-update-478/)
+- Technical Information Security Content & Discussion
+  - [Trying to make CCNA learning more engaging for students](https://www.reddit.com/r/netsec/comments/1oyrn4t/trying_to_make_ccna_learning_more_engaging_for/)
+  - [Claude AI ran autonomous espionage operations](https://www.reddit.com/r/netsec/comments/1oyis0z/claude_ai_ran_autonomous_espionage_operations/)
+- Your Open Hacker Community
+  - [How Do You Even Start Pentesting a C++ EDR Agent? (Total Thick Client Noob)](https://www.reddit.com/r/HowToHack/comments/1oysqdc/how_do_you_even_start_pentesting_a_c_edr_agent/)
+  - [Question about wallet wannacry](https://www.reddit.com/r/HowToHack/comments/1oyyaop/question_about_wallet_wannacry/)
+  - [I can't get skylift to work on NodeMCU esp8266](https://www.reddit.com/r/HowToHack/comments/1oyojht/i_cant_get_skylift_to_work_on_nodemcu_esp8266/)
+  - [ducyscript help](https://www.reddit.com/r/HowToHack/comments/1oynm85/ducyscript_help/)
+- Social Engineering
+  - [How to be a good listener and remember what people say?](https://www.reddit.com/r/SocialEngineering/comments/1oyf3f4/how_to_be_a_good_listener_and_remember_what/)
 - Krebs on Security
   - [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/)
