@@ -1,51 +1,49 @@
 # 每日安全资讯（2025-11-24）
 
-- SecWiki News
-  - [SecWiki News 2025-11-23 Review](http://www.sec-wiki.com/?2025-11-23)
-- Recent Commits to cve:main
-  - [Update Sun Nov 23 11:34:38 UTC 2025](https://github.com/trickest/cve/commit/b7195f4daa192edf387f3265f7f3879f1a8b5961)
 - Taxodium
   - [Album#9 - III](https://taxodium.ink/album-9.html)
+- Recent Commits to cve:main
+  - [Update Sun Nov 23 11:34:38 UTC 2025](https://github.com/trickest/cve/commit/b7195f4daa192edf387f3265f7f3879f1a8b5961)
+- SecWiki News
+  - [SecWiki News 2025-11-23 Review](http://www.sec-wiki.com/?2025-11-23)
 - Reverse Engineering
   - [Luau VM Bytecode Injection via Manual Mapping](https://www.reddit.com/r/ReverseEngineering/comments/1p4bcxw/luau_vm_bytecode_injection_via_manual_mapping/)
+- 黑海洋 - Wiki
+  - [YPrompt：基于对话的AI提示词生成与管理系统](https://blog.upx8.com/4903)
+  - [ZuUnlock：用 iPhone 自动解锁 Windows，真正实现靠近解锁、离开锁屏](https://blog.upx8.com/4902)
 - 奇客Solidot–传递最新科技情报
   - [Chrome 考虑恢复支持 JPEG-XL](https://www.solidot.org/story?sid=82875)
   - [美国 CDC 将终止所有实验猴研究](https://www.solidot.org/story?sid=82874)
   - [Firefox 147 将支持 XDG Base Directory Specification 目录标准](https://www.solidot.org/story?sid=82873)
-- 黑海洋 - Wiki
-  - [YPrompt：基于对话的AI提示词生成与管理系统](https://blog.upx8.com/4903)
-  - [ZuUnlock：用 iPhone 自动解锁 Windows，真正实现靠近解锁、离开锁屏](https://blog.upx8.com/4902)
 - 安全分析与研究
   - [Linux RootKit技术研究相关资料](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494463&idx=1&sn=ce7a3a573f5e5d9ecc4bc2cf01d84f0e)
-- 我的安全视界观
-  - [SDL100问：阶段性的完结](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487398&idx=1&sn=c6ed9914ef3dac10d9b7f1bd4395a480)
 - 黑鸟
   - [我差点就把苹果账号弄丢了:这是我见过的最狡猾的钓鱼攻击](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183775&idx=1&sn=740e073c7a8c28a9163d66cd728fe43f)
-- 天黑说嘿话
-  - [三分钟，走完网安售前的一生](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485278&idx=1&sn=b7e8b1210bca03eda3dda218a0cef34c)
+- 青衣十三楼飞花堂
+  - [青少年之友scz](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488807&idx=1&sn=d9284a2430def0174f43e375a800d9b9)
+  - [乱谈西城四中2025级初一期中数学卷](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488803&idx=1&sn=d355c2566c524555df6befe9510d52e7)
+- 全频带阻塞干扰
+  - [特勤局手册 | 没落的国家安全机构会导致什么？](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648959007&idx=1&sn=0c7ad18ed08fd5ec75f6c874a2b00359)
+- 我的安全视界观
+  - [SDL100问：阶段性的完结](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487398&idx=1&sn=c6ed9914ef3dac10d9b7f1bd4395a480)
+- 安全研究GoSSIP
+  - [ACISP 2026 征稿通知！澳洲信息安全顶会等你来！](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501012&idx=1&sn=f078a8aa7fc09310255565a01cf706ed)
+- 丁爸 情报分析师的工具箱
+  - [【安全理论】韩娜、邹初妤：智能认知对抗：理论演化、对抗机制与安全风险](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153048&idx=1&sn=54845bc9a34ad32298856f2b7bb057de)
+  - [【资料】生物威胁：超越病原体清单](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153048&idx=3&sn=e1921a26ce4080ecdadcb1f7e95e1a30)
 - 安全圈
   - [【安全圈】Windows 11 24H2 更新导致核心功能大面积失效](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072888&idx=1&sn=f23b261d48df9077a388ac45c14cfd1f)
   - [【安全圈】Grafana 修复 SCIM 身份映射漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072888&idx=2&sn=75ce0dc2c6180e3da1bd88d64a4ae3c0)
   - [【安全圈】ShinyHunters称通过 Gainsight 与 Salesforce 漏洞窃取百家公司数据](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072888&idx=3&sn=63717f77b3d16b378601e736f8f73f3c)
   - [【安全圈】CrowdStrike 解雇员工 涉嫌向黑客组织泄露内部机密](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072888&idx=4&sn=b138f23213f444d4e34d95022de15353)
-- 威努特安全网络
-  - [威努特移动介质管控解决方案，守护能源行业生产安全](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651138064&idx=1&sn=7d1fa2f3e8f58cd067686a939ee62ceb)
-- 丁爸 情报分析师的工具箱
-  - [【安全理论】韩娜、邹初妤：智能认知对抗：理论演化、对抗机制与安全风险](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153048&idx=1&sn=54845bc9a34ad32298856f2b7bb057de)
-  - [【资料】生物威胁：超越病原体清单](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153048&idx=3&sn=e1921a26ce4080ecdadcb1f7e95e1a30)
-- 全频带阻塞干扰
-  - [特勤局手册 | 没落的国家安全机构会导致什么？](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648959007&idx=1&sn=0c7ad18ed08fd5ec75f6c874a2b00359)
 - 极客公园
   - [罗永浩：当年如果不做TNT，锤子科技有可能多撑几年；灵光上线4天下载突破100万；谷歌AI搜索出现赞助广告 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653091807&idx=1&sn=5ce42ac1d710e6928305ecfba810ccbd)
+- 威努特安全网络
+  - [威努特移动介质管控解决方案，守护能源行业生产安全](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651138064&idx=1&sn=7d1fa2f3e8f58cd067686a939ee62ceb)
+- 天黑说嘿话
+  - [三分钟，走完网安售前的一生](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485278&idx=1&sn=b7e8b1210bca03eda3dda218a0cef34c)
 - 迪哥讲事
   - [挖掘xss中括号被转义的绕过措施](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498699&idx=1&sn=a01e7d5c1597fdefe8d07411b0d63b58)
-- 安全研究GoSSIP
-  - [ACISP 2026 征稿通知！澳洲信息安全顶会等你来！](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501012&idx=1&sn=f078a8aa7fc09310255565a01cf706ed)
-- LastKnight.com Feed
-  - [La Candela di Chiara Ferragni](https://mgpf.it/2025/11/23/la-candela-di-chiara-ferragni.html)
-- Have I Been Pwned latest breaches
-  - [CodeStepByStep - 17,351 breached accounts](https://haveibeenpwned.com/Breach/CodeStepByStep)
-  - [ADDA - 1,829,314 breached accounts](https://haveibeenpwned.com/Breach/ADDA)
 - Over Security - Cybersecurity news aggregator
   - [New Costco Gold Star Members also get a $40 Digital Costco Shop Card](https://www.bleepingcomputer.com/news/security/new-costco-gold-star-members-also-get-a-40-digital-costco-shop-card/)
   - [Enterprise password security and secrets management with Passwork 7](https://www.bleepingcomputer.com/news/security/enterprise-password-security-and-secrets-management-with-passwork-7/)
@@ -55,12 +53,16 @@
   - [Iberia discloses customer data leak after vendor security breach](https://www.bleepingcomputer.com/news/security/iberia-discloses-customer-data-leak-after-vendor-security-breach/)
   - [CodeStepByStep - 17,351 breached accounts](https://haveibeenpwned.com/Breach/CodeStepByStep)
   - [ADDA - 1,829,314 breached accounts](https://haveibeenpwned.com/Breach/ADDA)
-- 青衣十三楼飞花堂
-  - [青少年之友scz](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488807&idx=1&sn=d9284a2430def0174f43e375a800d9b9)
-  - [乱谈西城四中2025级初一期中数学卷](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488803&idx=1&sn=d355c2566c524555df6befe9510d52e7)
+- Have I Been Pwned latest breaches
+  - [CodeStepByStep - 17,351 breached accounts](https://haveibeenpwned.com/Breach/CodeStepByStep)
+  - [ADDA - 1,829,314 breached accounts](https://haveibeenpwned.com/Breach/ADDA)
 - SANS Internet Storm Center, InfoCON: green
   - [YARA-X 1.10.0 Release: Fix Warnings, (Sun, Nov 23rd)](https://isc.sans.edu/diary/rss/32514)
   - [Wireshark 4.4.1 Released, (Sun, Nov 23rd)](https://isc.sans.edu/diary/rss/32512)
+- LastKnight.com Feed
+  - [La Candela di Chiara Ferragni](https://mgpf.it/2025/11/23/la-candela-di-chiara-ferragni.html)
+- Troy Hunt's Blog
+  - [Weekly Update 479](https://www.troyhunt.com/weekly-update-479/)
 - 电子物证
   - [【ImmortalWrt 软路由系统取证技术与日志分析研究】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048801&idx=1&sn=2af6624442127f25fa625deec1a3f9e0)
   - [【韩国生成式人工智能治理新规则】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048801&idx=2&sn=a216b282c0a759bb2012a3828503e320)
@@ -69,19 +71,17 @@
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 72](https://securityaffairs.com/184979/breaking-news/security-affairs-malware-newsletter-round-72.html)
   - [Security Affairs newsletter Round 551 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/184975/breaking-news/security-affairs-newsletter-round-551-by-pierluigi-paganini-international-edition.html)
   - [SonicWall flags SSLVPN flaw allowing firewall crashes](https://securityaffairs.com/184967/security/sonicwall-flags-sslvpn-flaw-allowing-firewall-crashes.html)
-- Computer Forensics
-  - [Ssd with trim](https://www.reddit.com/r/computerforensics/comments/1p4fztx/ssd_with_trim/)
-- Deep Web
-  - [Free preset packages and bundles](https://www.reddit.com/r/deepweb/comments/1p4jgea/free_preset_packages_and_bundles/)
 - Your Open Hacker Community
   - [Small win: finally got my first shell on Metasploitable2 and it feels really good](https://www.reddit.com/r/HowToHack/comments/1p4u6c9/small_win_finally_got_my_first_shell_on/)
   - [How to access Local Network from Outside/ remote location](https://www.reddit.com/r/HowToHack/comments/1p4igca/how_to_access_local_network_from_outside_remote/)
   - [Aircrackng 4 way handshake](https://www.reddit.com/r/HowToHack/comments/1p4g38z/aircrackng_4_way_handshake/)
+- Deep Web
+  - [Free preset packages and bundles](https://www.reddit.com/r/deepweb/comments/1p4jgea/free_preset_packages_and_bundles/)
+- Computer Forensics
+  - [Ssd with trim](https://www.reddit.com/r/computerforensics/comments/1p4fztx/ssd_with_trim/)
 - Technical Information Security Content & Discussion
   - [Hitchhiker's Guide to Attack Surface Management](https://www.reddit.com/r/netsec/comments/1p4c2ih/hitchhikers_guide_to_attack_surface_management/)
   - [I Analysed Over 3 Million Exposed Databases Using Netlas](https://www.reddit.com/r/netsec/comments/1p4jcmz/i_analysed_over_3_million_exposed_databases_using/)
-- Troy Hunt's Blog
-  - [Weekly Update 479](https://www.troyhunt.com/weekly-update-479/)
 - Information Security
   - [I Analysed Over 3 Million Exposed Databases Using Netlas](https://www.reddit.com/r/Information_Security/comments/1p4ixzu/i_analysed_over_3_million_exposed_databases_using/)
   - [ADP](https://www.reddit.com/r/Information_Security/comments/1p4e4zf/adp/)
