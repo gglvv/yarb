@@ -2,11 +2,11 @@
 
 - SecWiki News
   - [SecWiki News 2025-11-29 Review](http://www.sec-wiki.com/?2025-11-29)
+- Recent Commits to cve:main
+  - [Update Sat Nov 29 11:52:37 UTC 2025](https://github.com/trickest/cve/commit/33132ffa5ff35bdb134d19305a325517acdb9df9)
 - bunnie's blog
   - [Name that Ware, November 2025](https://www.bunniestudios.com/blog/2025/name-that-ware-november-2025/)
   - [Winner, Name that Ware October 2025](https://www.bunniestudios.com/blog/2025/winner-name-that-ware-october-2025/)
-- Recent Commits to cve:main
-  - [Update Sat Nov 29 11:52:37 UTC 2025](https://github.com/trickest/cve/commit/33132ffa5ff35bdb134d19305a325517acdb9df9)
 - XPN InfoSec Blog
   - [An Evening with Claude (Code)](https://blog.xpnsec.com/An-Evening-with-Claude-Code/)
 - XPN InfoSec Blog
@@ -30,25 +30,27 @@
 - dotNet安全矩阵
   - [剖析 XamlReader 动态解析与执行系统命令](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500921&idx=1&sn=bcf9b1109bc60a959d3a33445cf424ee)
   - [.NET内网实战： 通过 FileSecurity 获取目录及文件控制列表和规则](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500921&idx=2&sn=3efe523b1aad5d98321870e11a553d4d)
-- 网络空间安全科学学报
-  - [日程首发 | 2025年网络空间安全学术会议通知（第三轮）](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247506676&idx=1&sn=22a986dcac91fc291da3cea58c18a51d)
 - 安全圈
   - [【安全圈】标书电脑竟成泄密入口？海南警方破获亿元级商业秘密大案！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072957&idx=1&sn=1b6a53368bfae0039055e27442b5b47d)
   - [【安全圈】美国一 IT 外包人员报复前雇主：入侵系统重置上千个密码，最高面临 10 年监禁](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072957&idx=2&sn=96ad7a280fc9da69e7fbba887c994177)
   - [【安全圈】用户反馈苹果播客存在自动跳转 BUG：可强制唤醒、播放陌生节目](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072957&idx=3&sn=db9940c5b5ac1cf88b8439dc4876f753)
-- 极客公园
-  - [IF 2026 预告](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653092577&idx=1&sn=3fffcad37e8d5c1e82a889254f8a237a)
-  - [雷军：人形机器人将大面积进入小米工厂；淘宝闪购将全面取消超时扣款；苹果新专利：耳机读取脑电波 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653092603&idx=1&sn=faa125845773e25108a397906742d2a7)
+- 网络空间安全科学学报
+  - [日程首发 | 2025年网络空间安全学术会议通知（第三轮）](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247506676&idx=1&sn=22a986dcac91fc291da3cea58c18a51d)
+- 云鼎实验室
+  - [当绕过手段层出不穷：腾讯云主机安全RASP如何构建终极防御？](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497036&idx=1&sn=aa3bbe90ac0ed5c94bd5884dcb0747df)
 - 迪哥讲事
   - [从swagger未授权到oss存储接管](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498727&idx=1&sn=db3887fb7ab00d982f7f5fb0e8e8d024)
-- Arturo Di Corinto
-  - [Assalto a La Stampa. La solidarietà di Stampa Romana](https://dicorinto.it/associazionismo/assalto-a-la-stampa-la-solidarieta-di-stampa-romana/)
-  - [Il 10 dicembre evento di Articolo 21 nella sede  di Libera. Riflessione sulla “strategia della tensione” con la  rappresentazione di “Io so”](https://dicorinto.it/associazionismo/il-10-dicembre-evento-di-articolo-21-nella-sede-di-libera-riflessione-sulla-strategia-della-tensione-con-la-rappresentazione-di-io-so/)
 - Over Security - Cybersecurity news aggregator
   - [Japanese beer giant Asahi says data breach hit 1.5 million people](https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/)
   - [Leak confirms OpenAI is preparing ads on ChatGPT for public roll out](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/)
-- 云鼎实验室
-  - [当绕过手段层出不穷：腾讯云主机安全RASP如何构建终极防御？](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497036&idx=1&sn=aa3bbe90ac0ed5c94bd5884dcb0747df)
+- Arturo Di Corinto
+  - [Assalto a La Stampa. La solidarietà di Stampa Romana](https://dicorinto.it/associazionismo/assalto-a-la-stampa-la-solidarieta-di-stampa-romana/)
+  - [Il 10 dicembre evento di Articolo 21 nella sede  di Libera. Riflessione sulla “strategia della tensione” con la  rappresentazione di “Io so”](https://dicorinto.it/associazionismo/il-10-dicembre-evento-di-articolo-21-nella-sede-di-libera-riflessione-sulla-strategia-della-tensione-con-la-rappresentazione-di-io-so/)
+- 极客公园
+  - [IF 2026 预告](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653092577&idx=1&sn=3fffcad37e8d5c1e82a889254f8a237a)
+  - [雷军：人形机器人将大面积进入小米工厂；淘宝闪购将全面取消超时扣款；苹果新专利：耳机读取脑电波 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653092603&idx=1&sn=faa125845773e25108a397906742d2a7)
+- 执经衡门
+  - [读书笔记 1130](https://mp.weixin.qq.com/s?__biz=MzUxMjkxMzY2OA==&mid=2247483841&idx=1&sn=13fd414907daac1829875a94d590bda2)
 - TaoSecurity Blog
   - [We have achieved FreeBSD 15.0-REL with KDE Plasma](https://taosecurity.blogspot.com/2025/11/we-have-achieved-freebsd-150-rel-with.html)
 - Rasta Mouse
