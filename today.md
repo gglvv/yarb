@@ -1,22 +1,20 @@
 # 每日安全资讯（2025-11-30）
 
-- SecWiki News
-  - [SecWiki News 2025-11-29 Review](http://www.sec-wiki.com/?2025-11-29)
 - Recent Commits to cve:main
   - [Update Sat Nov 29 11:52:37 UTC 2025](https://github.com/trickest/cve/commit/33132ffa5ff35bdb134d19305a325517acdb9df9)
+- SecWiki News
+  - [SecWiki News 2025-11-29 Review](http://www.sec-wiki.com/?2025-11-29)
 - bunnie's blog
   - [Name that Ware, November 2025](https://www.bunniestudios.com/blog/2025/name-that-ware-november-2025/)
   - [Winner, Name that Ware October 2025](https://www.bunniestudios.com/blog/2025/winner-name-that-ware-october-2025/)
+- XPN InfoSec Blog
+  - [An Evening with Claude (Code)](https://blog.xpnsec.com/An-Evening-with-Claude-Code/)
+- XPN InfoSec Blog
+  - [An Evening with Claude (Code)](https://blog.xpnsec.com/An-Evening-with-Claude-Code/)
 - Hexacorn
   - [More hidden Phantom DLLs](https://www.hexacorn.com/blog/2025/11/29/more-hidden-phantom-dlls/)
-- XPN InfoSec Blog
-  - [An Evening with Claude (Code)](https://blog.xpnsec.com/An-Evening-with-Claude-Code/)
-- XPN InfoSec Blog
-  - [An Evening with Claude (Code)](https://blog.xpnsec.com/An-Evening-with-Claude-Code/)
 - Didier Stevens
   - [Quickpost: CR1225 vs CR1220](https://blog.didierstevens.com/2025/11/29/quickpost-cr1225-vs-cr1220/)
-- Reverse Engineering
-  - [Stop Hardcoding Passwords! (How C++ Appears in Assembly)](https://www.reddit.com/r/ReverseEngineering/comments/1pa1tpx/stop_hardcoding_passwords_how_c_appears_in/)
 - 奇客Solidot–传递最新科技情报
   - [天文学家观测到红矮星的日冕物质抛射](https://www.solidot.org/story?sid=82922)
   - [荷兰大学反思对微软软件的依赖](https://www.solidot.org/story?sid=82921)
@@ -26,9 +24,6 @@
 - 看雪学苑
   - [劫持MSVC编译器编译过程(VS2019 VS2022) 利用思路](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604608&idx=1&sn=aaebd4cc6f470a4ace0e6f378360ddf4)
   - [“共建共治、智护未来” | 第二届华为漏洞管理与应急响应技术大会于深圳成功举办](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604608&idx=2&sn=04ed151f1624d653c618dff4dbce99f5)
-- 天黑说嘿话
-  - [【优质工具】威胁情报安全运营平台](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485495&idx=1&sn=fea4b28abcdee7cd13f56b50c096622c)
-  - [如何看待《哪吒之魔童闹海》未能入选 2026 年奥斯卡 35 部符合资格的动画长片名单?](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485495&idx=3&sn=99f2e6c81f74e9ce9979bea9acb0ae8b)
 - dotNet安全矩阵
   - [剖析 XamlReader 动态解析与执行系统命令](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500921&idx=1&sn=bcf9b1109bc60a959d3a33445cf424ee)
   - [.NET内网实战： 通过 FileSecurity 获取目录及文件控制列表和规则](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500921&idx=2&sn=3efe523b1aad5d98321870e11a553d4d)
@@ -36,44 +31,29 @@
   - [【安全圈】标书电脑竟成泄密入口？海南警方破获亿元级商业秘密大案！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072957&idx=1&sn=1b6a53368bfae0039055e27442b5b47d)
   - [【安全圈】美国一 IT 外包人员报复前雇主：入侵系统重置上千个密码，最高面临 10 年监禁](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072957&idx=2&sn=96ad7a280fc9da69e7fbba887c994177)
   - [【安全圈】用户反馈苹果播客存在自动跳转 BUG：可强制唤醒、播放陌生节目](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072957&idx=3&sn=db9940c5b5ac1cf88b8439dc4876f753)
+- 天黑说嘿话
+  - [【优质工具】威胁情报安全运营平台](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485495&idx=1&sn=fea4b28abcdee7cd13f56b50c096622c)
+  - [如何看待《哪吒之魔童闹海》未能入选 2026 年奥斯卡 35 部符合资格的动画长片名单?](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485495&idx=3&sn=99f2e6c81f74e9ce9979bea9acb0ae8b)
 - 网络空间安全科学学报
   - [日程首发 | 2025年网络空间安全学术会议通知（第三轮）](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247506676&idx=1&sn=22a986dcac91fc291da3cea58c18a51d)
-- 执经衡门
-  - [读书笔记 1130](https://mp.weixin.qq.com/s?__biz=MzUxMjkxMzY2OA==&mid=2247483841&idx=1&sn=13fd414907daac1829875a94d590bda2)
 - 极客公园
   - [IF 2026 预告](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653092577&idx=1&sn=3fffcad37e8d5c1e82a889254f8a237a)
   - [雷军：人形机器人将大面积进入小米工厂；淘宝闪购将全面取消超时扣款；苹果新专利：耳机读取脑电波 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653092603&idx=1&sn=faa125845773e25108a397906742d2a7)
-- Over Security - Cybersecurity news aggregator
-  - [Japanese beer giant Asahi says data breach hit 1.5 million people](https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/)
-  - [Leak confirms OpenAI is preparing ads on ChatGPT for public roll out](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/)
-- 迪哥讲事
-  - [从swagger未授权到oss存储接管](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498727&idx=1&sn=db3887fb7ab00d982f7f5fb0e8e8d024)
-- TaoSecurity Blog
-  - [We have achieved FreeBSD 15.0-REL with KDE Plasma](https://taosecurity.blogspot.com/2025/11/we-have-achieved-freebsd-150-rel-with.html)
+- 执经衡门
+  - [读书笔记 1130](https://mp.weixin.qq.com/s?__biz=MzUxMjkxMzY2OA==&mid=2247483841&idx=1&sn=13fd414907daac1829875a94d590bda2)
 - Arturo Di Corinto
   - [Assalto a La Stampa. La solidarietà di Stampa Romana](https://dicorinto.it/associazionismo/assalto-a-la-stampa-la-solidarieta-di-stampa-romana/)
   - [Il 10 dicembre evento di Articolo 21 nella sede  di Libera. Riflessione sulla “strategia della tensione” con la  rappresentazione di “Io so”](https://dicorinto.it/associazionismo/il-10-dicembre-evento-di-articolo-21-nella-sede-di-libera-riflessione-sulla-strategia-della-tensione-con-la-rappresentazione-di-io-so/)
-- Information Security
-  - [Why Your Phone Number Is the Most Dangerous Thing You Share Online](https://www.reddit.com/r/Information_Security/comments/1p9sbbt/why_your_phone_number_is_the_most_dangerous_thing/)
-  - [Can a Cybersecurity Technical Writer switch to GRC?](https://www.reddit.com/r/Information_Security/comments/1pa24g0/can_a_cybersecurity_technical_writer_switch_to_grc/)
-- netsecstudents: Subreddit for students studying Network Security and its related subjects
-  - [Red Team Infrastructure Setup](https://www.reddit.com/r/netsecstudents/comments/1p9zybe/red_team_infrastructure_setup/)
-  - [Is there any resources I could use to simulate a CyberPatriot competition scenario?](https://www.reddit.com/r/netsecstudents/comments/1pa01y0/is_there_any_resources_i_could_use_to_simulate_a/)
-  - [Case Study: How "postinstall" scripts can lead to RCE (Analyzing the Spark AR vulnerability)](https://www.reddit.com/r/netsecstudents/comments/1p9oym5/case_study_how_postinstall_scripts_can_lead_to/)
-  - [Purchasing ejpt course from India](https://www.reddit.com/r/netsecstudents/comments/1p9xwd0/purchasing_ejpt_course_from_india/)
-- Social Engineering
-  - [The blue whale game really happened?](https://www.reddit.com/r/SocialEngineering/comments/1p9xckg/the_blue_whale_game_really_happened/)
-  - [If external regulation became a more significant liability, would that be a net positive or negative for society?](https://www.reddit.com/r/SocialEngineering/comments/1p9apkv/if_external_regulation_became_a_more_significant/)
-  - [serious question](https://www.reddit.com/r/SocialEngineering/comments/1p9fmb9/serious_question/)
 - 云鼎实验室
   - [当绕过手段层出不穷：腾讯云主机安全RASP如何构建终极防御？](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497036&idx=1&sn=aa3bbe90ac0ed5c94bd5884dcb0747df)
+- 迪哥讲事
+  - [从swagger未授权到oss存储接管](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498727&idx=1&sn=db3887fb7ab00d982f7f5fb0e8e8d024)
+- Over Security - Cybersecurity news aggregator
+  - [Japanese beer giant Asahi says data breach hit 1.5 million people](https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/)
+  - [Leak confirms OpenAI is preparing ads on ChatGPT for public roll out](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/)
+- TaoSecurity Blog
+  - [We have achieved FreeBSD 15.0-REL with KDE Plasma](https://taosecurity.blogspot.com/2025/11/we-have-achieved-freebsd-150-rel-with.html)
 - Rasta Mouse
   - [Cracking the Crystal Palace](https://rastamouse.me/cracking-the-crystal-palace/)
-- Your Open Hacker Community
-  - [What is the secret to really become a skilled hacker ?](https://www.reddit.com/r/HowToHack/comments/1p9a513/what_is_the_secret_to_really_become_a_skilled/)
-- Technical Information Security Content & Discussion
-  - [Simulating a Water Control System in my Home Office](https://www.reddit.com/r/netsec/comments/1p9u4kq/simulating_a_water_control_system_in_my_home/)
-  - [Analysis of 8 Foundational Cache Poisoning Attacks (HackerOne, GitHub, Shopify) - Part 1](https://www.reddit.com/r/netsec/comments/1p9oick/analysis_of_8_foundational_cache_poisoning/)
-  - [Beyond Nmap: Building Custom Recon Pipelines](https://www.reddit.com/r/netsec/comments/1p9s2jn/beyond_nmap_building_custom_recon_pipelines/)
 - 希潭实验室
   - [第142篇：蓝队分析工具箱解密多层加密的恶意网页演示](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487940&idx=1&sn=0372e2c276feca869a662464a747bb7a)
