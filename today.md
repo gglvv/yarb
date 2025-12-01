@@ -1,68 +1,62 @@
 # 每日安全资讯（2025-12-01）
 
-- Der Flounder
-  - [Suppressing the Welcome to macOS Tahoe 26 screen with a configuration profile on macOS Tahoe 26.1.0](https://derflounder.wordpress.com/2025/11/30/suppressing-the-welcome-to-macos-tahoe-26-screen-with-a-configuration-profile-on-macos-tahoe-26-1-0/)
-- Sukka's Blog
-  - [用代码和 Git 管理 DNS 记录 —— DNSControl 和 GitHub Actions CI/CD 实践](https://blog.skk.moe/post/dns-as-code-via-dnscontrol/)
-- Taxodium
-  - [看《路边野餐》 - Kaili Blues](https://taxodium.ink/on-kaili-blues.html)
 - SecWiki News
   - [SecWiki News 2025-11-30 Review](http://www.sec-wiki.com/?2025-11-30)
+- Taxodium
+  - [看《路边野餐》 - Kaili Blues](https://taxodium.ink/on-kaili-blues.html)
+- Der Flounder
+  - [Suppressing the Welcome to macOS Tahoe 26 screen with a configuration profile on macOS Tahoe 26.1.0](https://derflounder.wordpress.com/2025/11/30/suppressing-the-welcome-to-macos-tahoe-26-screen-with-a-configuration-profile-on-macos-tahoe-26-1-0/)
 - Recent Commits to cve:main
   - [Update Sun Nov 30 11:40:40 UTC 2025](https://github.com/trickest/cve/commit/3478d66b5269a839b7912d4de3d4da2901f097df)
+- Sukka's Blog
+  - [用代码和 Git 管理 DNS 记录 —— DNSControl 和 GitHub Actions CI/CD 实践](https://blog.skk.moe/post/dns-as-code-via-dnscontrol/)
 - Didier Stevens
   - [Copy/Paste Delays In Excel Because Of Default Printer](https://blog.didierstevens.com/2025/11/30/copy-paste-delays-in-excel-because-of-default-printer/)
-- Reverse Engineering
-  - [External ESP Overlay in Java](https://www.reddit.com/r/ReverseEngineering/comments/1paja28/external_esp_overlay_in_java/)
 - Intigriti
   - [Bypassing Content Security Policy (CSP)](https://www.intigriti.com/researchers/blog/hacking-tools/content-security-policy-csp-bypasses)
 - Shostack & Friends Blog
   - [Secure By Design roundup - November 2025](https://shostack.org/blog/appsec-roundup-nov-2025/)
-- 奇客Solidot–传递最新科技情报
-  - [Reddit 评论后端从 Python 迁移到 Go Microservice](https://www.solidot.org/story?sid=82926)
-  - [挪威财富基金支持要求微软披露低人权国家业务风险提案](https://www.solidot.org/story?sid=82925)
-  - [争夺非洲 IPv4 地址之战](https://www.solidot.org/story?sid=82924)
-- 安全分析与研究
-  - [银狐最新版本免杀加载器可攻击Window11系统](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494528&idx=1&sn=316e3e369731e95f6f74381bbd59a146)
 - 黑鸟
   - [以色列国防军禁止高级军官使用安卓手机，iPhone成为强制使用机型](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183923&idx=1&sn=38df11f7720de7187a620adae4272d84)
-- 安全研究GoSSIP
-  - [G.O.S.S.I.P 2025年12月投稿指南](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501030&idx=1&sn=db517057d7be9600da762f9b3c3e8bdb)
-- 安全圈
-  - [【安全圈】Gitlab 修复多项可导致认证绕过与拒绝服务攻击的漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072974&idx=1&sn=0c3a26835ab03509894776e4bfc857a6)
-  - [【安全圈】新型 Albiriox 恶意软件攻击 Android 用户，可完全控制受害者设备](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072974&idx=2&sn=be273dd7254bf8c45385904c91e6a1ad)
-  - [【安全圈】朝鲜黑客滥用 197 个 npm 包投放新版 OtterCookie 恶意程序](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072974&idx=3&sn=5356d55f2844fd9cd3125fd66cf25775)
-  - [【安全圈】Dead Man’s Switch Widespread npm 供应链攻击引发大规模恶意程序传播](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072974&idx=4&sn=9e70c2821273a7a6edeca6c31c6c8919)
+- 天黑说嘿话
+  - [Muki2.02-指纹识别工具](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485539&idx=1&sn=f29268b2f0ea4ccdacd0b978b202e94c)
+  - [契约为引，真爱成诗！这部86集短剧，让全网在甜虐交织中沦陷！](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485539&idx=2&sn=554598b70ed04e04e43e2580a587b842)
+  - [【冬季潮鞋服】首选這](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485539&idx=4&sn=d8fc19c6f956c05a03361b54716ecf92)
 - 安全学术圈
   - [北航、复旦、NUS、NTU | BAP: 通过双模态对抗提示越狱视觉语言模型](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494437&idx=1&sn=dee7590317d4c961b5b60db6b2deef09)
+- 安全研究GoSSIP
+  - [G.O.S.S.I.P 2025年12月投稿指南](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501030&idx=1&sn=db517057d7be9600da762f9b3c3e8bdb)
 - 有价值炮灰
   - [Dockerhub 镜像供应链攻击风险研究](https://mp.weixin.qq.com/s?__biz=MzA3MzU1MDQwOA==&mid=2247485020&idx=1&sn=bb4de07aff001305e2819d015e5f0588)
 - 网安杂谈
   - [《公安机关网络空间安全监督检查办法（征求意见稿）》公开征求意见的公告](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889842&idx=1&sn=803344c697a8b679b2c950b80f33375e)
   - [打击虚拟货币交易炒作工作协调机制会议召开](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889842&idx=2&sn=42c07ad5475be367f2c04301f66f6217)
-- 中国信息安全
-  - [习近平在中共中央政治局第二十三次集体学习时强调 健全网络生态治理长效机制 持续营造风清气正的网络空间](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664254147&idx=1&sn=6a1fed10f9270032513f2ce8168cf17d)
-  - [关注 | 《公安机关网络空间安全监督检查办法（征求意见稿）》公开征求意见](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664254147&idx=2&sn=5e4085a3e7d306c24cc6c5283007852d)
-- 网络空间安全科学学报
-  - [12月6日专题会议 | 应用密码学](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247506777&idx=1&sn=d71214995338590ae8cba34b0ffdc682)
-  - [12月6日专题会议 | 卫星互联网安全](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247506777&idx=2&sn=bc197aabc9663a11ee28de28e0ab3f0a)
-  - [12月7日专题会议 | 人工智能安全与隐私保护](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247506777&idx=3&sn=72db61cde14826ae5abd09884516872f)
 - 电子物证
   - [【从检察视角看电子取证变迁】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048821&idx=1&sn=fd8111b3ad7c32b15a94cfe7d8635489)
   - [【厘定边界合理规制网络爬虫行为】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048821&idx=2&sn=7218bcacc10c1a35313d56d1ecb2808d)
 - 丁爸 情报分析师的工具箱
   - [【情报】日本防卫大臣及自卫队高官对华态度分析](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153154&idx=1&sn=aae89cd52d00e2bd80f2ceb8061b81a9)
   - [【会议】第五届全国开源情报技术大会（COSINT-2025）12.6-12.7北京召开](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153154&idx=2&sn=41d831aa1cae980101d5c3141a1eac77)
-- 复旦白泽战队
-  - [复旦白泽漏洞治理团队× 腾讯悟空｜共建业界首个项目级 AI 生成代码安全性评测框架 A.S.E](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247496807&idx=1&sn=26e49f88d6ea359eb7f1f34ecfe1d725)
-- 天黑说嘿话
-  - [Muki2.02-指纹识别工具](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485539&idx=1&sn=f29268b2f0ea4ccdacd0b978b202e94c)
-  - [契约为引，真爱成诗！这部86集短剧，让全网在甜虐交织中沦陷！](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485539&idx=2&sn=554598b70ed04e04e43e2580a587b842)
-  - [【冬季潮鞋服】首选這](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485539&idx=4&sn=d8fc19c6f956c05a03361b54716ecf92)
+- 网络空间安全科学学报
+  - [12月6日专题会议 | 应用密码学](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247506777&idx=1&sn=d71214995338590ae8cba34b0ffdc682)
+  - [12月6日专题会议 | 卫星互联网安全](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247506777&idx=2&sn=bc197aabc9663a11ee28de28e0ab3f0a)
+  - [12月7日专题会议 | 人工智能安全与隐私保护](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247506777&idx=3&sn=72db61cde14826ae5abd09884516872f)
+- 安全圈
+  - [【安全圈】Gitlab 修复多项可导致认证绕过与拒绝服务攻击的漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072974&idx=1&sn=0c3a26835ab03509894776e4bfc857a6)
+  - [【安全圈】新型 Albiriox 恶意软件攻击 Android 用户，可完全控制受害者设备](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072974&idx=2&sn=be273dd7254bf8c45385904c91e6a1ad)
+  - [【安全圈】朝鲜黑客滥用 197 个 npm 包投放新版 OtterCookie 恶意程序](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072974&idx=3&sn=5356d55f2844fd9cd3125fd66cf25775)
+  - [【安全圈】Dead Man’s Switch Widespread npm 供应链攻击引发大规模恶意程序传播](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072974&idx=4&sn=9e70c2821273a7a6edeca6c31c6c8919)
+- 奇客Solidot–传递最新科技情报
+  - [Reddit 评论后端从 Python 迁移到 Go Microservice](https://www.solidot.org/story?sid=82926)
+  - [挪威财富基金支持要求微软披露低人权国家业务风险提案](https://www.solidot.org/story?sid=82925)
+  - [争夺非洲 IPv4 地址之战](https://www.solidot.org/story?sid=82924)
+- 安全分析与研究
+  - [银狐最新版本免杀加载器可攻击Window11系统](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494528&idx=1&sn=316e3e369731e95f6f74381bbd59a146)
 - 极客公园
   - [OpenAI 或成史上烧钱最快的公司；特斯拉在印度两月，仅卖出100多辆车；《疯狂动物城2》刷新进口电影单日票房纪录｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653092661&idx=1&sn=74a4e59a5c56525ce131dbb1f9bd01b5)
-- 迪哥讲事
-  - [渗透实战：记一次JP web服务RCE到内网](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498731&idx=1&sn=3dd9a4a3b5eb577becb796205a4fda3d)
+- 中国信息安全
+  - [习近平在中共中央政治局第二十三次集体学习时强调 健全网络生态治理长效机制 持续营造风清气正的网络空间](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664254147&idx=1&sn=6a1fed10f9270032513f2ce8168cf17d)
+  - [关注 | 《公安机关网络空间安全监督检查办法（征求意见稿）》公开征求意见](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664254147&idx=2&sn=5e4085a3e7d306c24cc6c5283007852d)
 - Over Security - Cybersecurity news aggregator
   - [Ecco il tool gratuito per verificare se un IP fa parte di un botnet](https://www.securityinfo.it/2025/11/28/ecco-il-tool-gratuito-per-verificare-se-un-ip-fa-parte-di-un-botnet/)
   - [API ed info-sec](https://roccosicilia.com/2025/11/30/api-ed-info-sec/)
@@ -71,25 +65,19 @@
   - [EVE-NG (SW architecture and docker support)](https://www.adainese.it/blog/2025/11/22/eve-ng-sw-architecture-and-docker-support/)
   - [A practical Cisco NDO multi-site use case: building the parser](https://www.adainese.it/blog/2025/11/23/a-practical-cisco-ndo-multi-site-use-case-building-the-parser/)
   - [A practical Cisco NDO multi-site use case: config deploy](https://www.adainese.it/blog/2025/11/30/a-practical-cisco-ndo-multi-site-use-case-config-deploy/)
+- 复旦白泽战队
+  - [复旦白泽漏洞治理团队× 腾讯悟空｜共建业界首个项目级 AI 生成代码安全性评测框架 A.S.E](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247496807&idx=1&sn=26e49f88d6ea359eb7f1f34ecfe1d725)
 - 放之
   - [AI编程实践总结](https://mp.weixin.qq.com/s?__biz=Mzg3ODAzNjg5OA==&mid=2247485420&idx=1&sn=ea3cf14b535f085acd6facea5325419e)
 - 吴鲁加
   - [推荐 5 本书](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485805&idx=1&sn=1be73a98141fd65ee35cdb585a0a3465)
-- Information Security
-  - [I believe my gmail app password has leaked. What do I have to worry about?](https://www.reddit.com/r/Information_Security/comments/1patzvo/i_believe_my_gmail_app_password_has_leaked_what/)
 - The Hacker News
   - [CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV](https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html)
-- Social Engineering
-  - [how to know it's enough?](https://www.reddit.com/r/SocialEngineering/comments/1paiod7/how_to_know_its_enough/)
-  - [Seeking Feedback: My upcoming Kickstarter project ForScroll (ad-free social network)](https://www.reddit.com/r/SocialEngineering/comments/1paom28/seeking_feedback_my_upcoming_kickstarter_project/)
-- Computer Forensics
-  - [How Do I Get Started With Learning The Tool Autopsy For My Project](https://www.reddit.com/r/computerforensics/comments/1paf64i/how_do_i_get_started_with_learning_the_tool/)
-  - [Question about windows filetime](https://www.reddit.com/r/computerforensics/comments/1pafu5t/question_about_windows_filetime/)
+- 迪哥讲事
+  - [渗透实战：记一次JP web服务RCE到内网](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498731&idx=1&sn=3dd9a4a3b5eb577becb796205a4fda3d)
 - Security Affairs
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 73](https://securityaffairs.com/185181/uncategorized/security-affairs-malware-newsletter-round-73.html)
   - [Security Affairs newsletter Round 552 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/185178/breaking-news/security-affairs-newsletter-round-552-by-pierluigi-paganini-international-edition.html)
   - [Contagious Interview campaign expands with 197 npm Ppackages spreading new OtterCookie malware](https://securityaffairs.com/185170/apt/contagious-interview-campaign-expands-with-197-npm-ppackages-spreading-new-ottercookie-malware.html)
-- netsecstudents: Subreddit for students studying Network Security and its related subjects
-  - [Looking for a CTF / Hack Study Group to Learn & Practice Together](https://www.reddit.com/r/netsecstudents/comments/1pasnzx/looking_for_a_ctf_hack_study_group_to_learn/)
 - Dark Space Blogspot
   - [Le Truffe Più Diffuse Su Vinted, eBay, Amazon e Subito](http://darkwhite666.blogspot.com/2025/11/le-truffe-piu-diffuse-su-vinted-ebay.html)
