@@ -13,38 +13,42 @@
 - Hexacorn
   - [1 little secret of cliconfg.dll](https://www.hexacorn.com/blog/2025/12/06/1-little-secret-of-cliconfg-dll/)
   - [1 little secret of mapi32.dll](https://www.hexacorn.com/blog/2025/12/06/1-little-secret-of-mapi32-dll/)
+- Reverse Engineering
+  - [Patching Pulse Oximeter Firmware](https://www.reddit.com/r/ReverseEngineering/comments/1pg24mg/patching_pulse_oximeter_firmware/)
+  - [elfpeek - small C tool to inspect ELF64 headers/sections/symbols](https://www.reddit.com/r/ReverseEngineering/comments/1pfz0kh/elfpeek_small_c_tool_to_inspect_elf64/)
+  - [PalmOS on FisherPrice Pixter Toy](https://www.reddit.com/r/ReverseEngineering/comments/1pfik3h/palmos_on_fisherprice_pixter_toy/)
+  - [Made yet another ApkTool GUI (at least I think it's pretty)](https://www.reddit.com/r/ReverseEngineering/comments/1pfitkv/made_yet_another_apktool_gui_at_least_i_think_its/)
+  - [GhidrAssist Ghidra LLM plugins reached v1.0](https://www.reddit.com/r/ReverseEngineering/comments/1pg0zxd/ghidrassist_ghidra_llm_plugins_reached_v10/)
+  - [free, open-source file scanner](https://www.reddit.com/r/ReverseEngineering/comments/1pfr5dn/free_opensource_file_scanner/)
+- 黑海洋Wiki | Web开发工具包 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
+  - [React 与 Next.js 远程代码执行漏洞预警（CVE-2025-55182）](https://blog.upx8.com/4914)
 - 奇客Solidot–传递最新科技情报
   - [Linus Torvalds 为 Windows 蓝屏死机辩护](https://www.solidot.org/story?sid=82986)
   - [现代家猫在唐朝前后抵达中国](https://www.solidot.org/story?sid=82985)
   - [三成英国医生在会诊时使用 AI 工具](https://www.solidot.org/story?sid=82984)
+- 安全分析与研究
+  - [伪装成个人简历某红队样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494612&idx=1&sn=8de1b7c076cc315be81fecb8291dbd1c)
 - 黑鸟
   - [美国紧急通信系统：保障国家紧急状态下通信畅通](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184005&idx=1&sn=add64c4e8cbd1a27d1fbea99b44305bc)
 - 天黑说嘿话
   - [漏洞速递 | 已复现 CVE-2025-55182 RCE漏洞（建议自查修复）](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485690&idx=1&sn=cfd58207cfb82ff071a776ff3c1c48ed)
   - [如何看待我国首台350nm国产光刻机正式交货？](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485690&idx=2&sn=ca02da8d312a0bcad731f598a0321964)
   - [为什么腾讯不在LOL死亡时间里放置广告？](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485690&idx=3&sn=e9a9cdc8fbae2281b83d105f0212a82c)
+- 丁爸 情报分析师的工具箱
+  - [【资料】日本《*国安全战略报告 2026》](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153196&idx=1&sn=b8cd5fb866eaf5e499c6b0f1d8048a49)
+- 天御攻防实验室
+  - [解读特朗普政府新版《国家安全战略》中网络相关内容](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486618&idx=1&sn=dc7e94a5a3e2b26f85b724b1d8a0f299)
 - 看雪学苑
   - [从ANGR-CTF项目入手ANGR和符号执行技术](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604798&idx=1&sn=463308cb532244fc5466996f77e343dd)
   - [Deepseek大模型安全应用开发：从提示词、Agent到RAG的完整实现](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604798&idx=2&sn=5039c697de3ea59f3bbfabe6571bbde3)
-- 天御攻防实验室
-  - [解读特朗普政府新版《国家安全战略》中网络相关内容](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486618&idx=1&sn=dc7e94a5a3e2b26f85b724b1d8a0f299)
-- 安全学术圈
-  - [行业会议 | 2025年第二届人工智能与安全大会](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494544&idx=1&sn=b69cca9551713255b46e464b73fdb620)
-- 黑海洋Wiki | Web开发工具包 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [React 与 Next.js 远程代码执行漏洞预警（CVE-2025-55182）](https://blog.upx8.com/4914)
 - 安全圈
   - [【安全圈】豆包手机助手被曝可直接问出银行余额](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073071&idx=1&sn=254cb7fbe8e132b1a812a1ddf9ea3547)
   - [【安全圈】两大黑客案件被侦破](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073071&idx=2&sn=48a78e271b6ab42fe3ab6750ed769d0b)
   - [【安全圈】React Server Components 远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073071&idx=3&sn=ff648efa97dae6e980b00152ee2d6763)
-- 中国信息安全
-  - [通知 | 国家网信办就《网络数据安全风险评估办法（征求意见稿）》公开征求意见（附全文）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664254750&idx=1&sn=6814f9e1873859f926ab23626f2dc17f)
-  - [发布 | 民航局发布《关于推动“人工智能+民航”高质量发展的实施意见》](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664254750&idx=2&sn=adcb44c174da3af78db79afdd0b32ba8)
 - 极客公园
   - [字节即梦张楠：AI 时代，如何探索人的想象力？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653093625&idx=1&sn=14aa29f85037e65037cca2fdc86f0b24)
   - [IF 2026 第一日的「高光」时刻](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653093620&idx=1&sn=c589db389c7d129878067c0a9bce1ef4)
   - [探索·向上！极客公园 2025 年度「InnoForce 50」发布](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653093477&idx=1&sn=cae657d45f2770190637dedb4223124d)
-- 丁爸 情报分析师的工具箱
-  - [【资料】日本《*国安全战略报告 2026》](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153196&idx=1&sn=b8cd5fb866eaf5e499c6b0f1d8048a49)
 - 数世咨询
   - [最新《网络数据安全风险评估办法（征求意见稿）》要求重要数据每年评估，一般数据每3年查1次！](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541081&idx=1&sn=a52f5836dd70ac91ef9da2a00a7478da)
 - Over Security - Cybersecurity news aggregator
@@ -53,23 +57,44 @@
   - [LockBit Returns With New Data Leak Site, 7 Victims](https://thecyberexpress.com/lockbit-returns-with-data-leak-site-victims/)
   - [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
   - [KinoKong - 817,808 breached accounts](https://haveibeenpwned.com/Breach/KinoKong)
-- 迪哥讲事
-  - [记一次实战挖掘](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498758&idx=1&sn=02c0ecd91b5ff6c20630c74f3aebb3f8)
-- Have I Been Pwned latest breaches
-  - [KinoKong - 817,808 breached accounts](https://haveibeenpwned.com/Breach/KinoKong)
-- 吴鲁加
-  - [我的注意力管理——离手机远点](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485814&idx=1&sn=ca2477fc127d820a9f0b79a7cc09bd8e)
 - ICT Security Magazine
   - [Explainable Security: dalle fiabe alla cybersecurity  – quando Cenerentola insegna l’autenticazione multifattore](https://www.ictsecuritymagazine.com/articoli/explainable-security/)
   - [Crittografia post-quantistica: tra minacce concrete e opportunità rivoluzionarie](https://www.ictsecuritymagazine.com/articoli/crittografia-post-quantistica-minacce/)
   - [La sicurezza informatica riparte dall’individuo: il paradigma Human-Centric di Proofpoint](https://www.ictsecuritymagazine.com/articoli/la-sicurezza-informatica-riparte-dallindividuo-il-paradigma-human-centric-di-proofpoint/)
+- 安全学术圈
+  - [行业会议 | 2025年第二届人工智能与安全大会](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494544&idx=1&sn=b69cca9551713255b46e464b73fdb620)
+- Have I Been Pwned latest breaches
+  - [KinoKong - 817,808 breached accounts](https://haveibeenpwned.com/Breach/KinoKong)
+- 吴鲁加
+  - [我的注意力管理——离手机远点](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485814&idx=1&sn=ca2477fc127d820a9f0b79a7cc09bd8e)
+- 中国信息安全
+  - [通知 | 国家网信办就《网络数据安全风险评估办法（征求意见稿）》公开征求意见（附全文）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664254750&idx=1&sn=6814f9e1873859f926ab23626f2dc17f)
+  - [发布 | 民航局发布《关于推动“人工智能+民航”高质量发展的实施意见》](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664254750&idx=2&sn=adcb44c174da3af78db79afdd0b32ba8)
+- 迪哥讲事
+  - [记一次实战挖掘](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498758&idx=1&sn=02c0ecd91b5ff6c20630c74f3aebb3f8)
 - The Hacker News
   - [Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks](https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html)
   - [Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation](https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html)
+- Social Engineering
+  - [Discipline](https://www.reddit.com/r/SocialEngineering/comments/1pfkom8/discipline/)
 - Security Affairs
   - [Attackers launch dual campaign on GlobalProtect portals and SonicWall APIs](https://securityaffairs.com/185382/hacking/attackers-launch-dual-campaign-on-globalprotect-portals-and-sonicwall-apis.html)
   - [Maximum-severity XXE vulnerability discovered in Apache Tika](https://securityaffairs.com/185363/security/maximum-severity-xxe-vulnerability-discovered-in-apache-tika.html)
 - Krebs on Security
   - [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
+- Your Open Hacker Community
+  - [Need advice on changing career to cybersecurity](https://www.reddit.com/r/HowToHack/comments/1pfxq0k/need_advice_on_changing_career_to_cybersecurity/)
+  - [Getting into MacBook / IPhone](https://www.reddit.com/r/HowToHack/comments/1pg2rc5/getting_into_macbook_iphone/)
+  - [Ubertooth One](https://www.reddit.com/r/HowToHack/comments/1pfwapc/ubertooth_one/)
+  - [Difference between real word hacking and THM/HTB attack boxes?](https://www.reddit.com/r/HowToHack/comments/1pfjjhu/difference_between_real_word_hacking_and_thmhtb/)
+  - [Interesting fields](https://www.reddit.com/r/HowToHack/comments/1pfjyqd/interesting_fields/)
+  - [Wifi connection on Virtual OS](https://www.reddit.com/r/HowToHack/comments/1pfes5d/wifi_connection_on_virtual_os/)
+  - [What are the topics in networking that I need to master to become hacker ? (Read the body)](https://www.reddit.com/r/HowToHack/comments/1pfk61r/what_are_the_topics_in_networking_that_i_need_to/)
+  - [How to get rid of Safe Family](https://www.reddit.com/r/HowToHack/comments/1pfrvc4/how_to_get_rid_of_safe_family/)
+- Deep Web
+  - [Privacy Tip for DW users](https://www.reddit.com/r/deepweb/comments/1pfnku5/privacy_tip_for_dw_users/)
+  - [Humans aren’t one mind, but a system of three inner forces. Here’s what that looks like-](https://www.reddit.com/r/deepweb/comments/1pfgxnx/humans_arent_one_mind_but_a_system_of_three_inner/)
+- Information Security
+  - [https://thecontractor.io/hacklore/](https://www.reddit.com/r/Information_Security/comments/1pg1378/httpsthecontractoriohacklore/)
 - Dark Space Blogspot
   - [Perché Influencer e Creator Dovrebbero Accettare Pagamenti in Cripto](http://darkwhite666.blogspot.com/2025/12/perche-influencer-e-creator-dovrebbero.html)
