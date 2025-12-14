@@ -7,12 +7,12 @@
   - [MITRE: TryHackMe Room Walkthrough](https://infosecwriteups.com/mitre-tryhackme-room-walkthrough-9a3998d2a688?source=rss----7b722bfd1b8d---4)
   - [Stored Cross-Site Scripting: HTML Context (Nothing Encoded)](https://infosecwriteups.com/stored-cross-site-scripting-html-context-nothing-encoded-1f63a3899cb2?source=rss----7b722bfd1b8d---4)
   - [From Recon to RCE: Hunting React2Shell (CVE-2025–55182) for Bug Bounties](https://infosecwriteups.com/from-recon-to-rce-hunting-react2shell-cve-2025-55182-for-bug-bounties-4e3a3ed79876?source=rss----7b722bfd1b8d---4)
-- Armin Ronacher's Thoughts and Writings
-  - [Skills vs Dynamic MCP Loadouts](https://lucumr.pocoo.org/2025/12/13/skills-vs-mcp/)
 - Recent Commits to cve:main
   - [Update Sat Dec 13 11:24:58 UTC 2025](https://github.com/trickest/cve/commit/492b784590a417f6acc9a0e1d14be1dcb81f8baf)
 - Sucuri Blog
   - [How to Protect Your WordPress Site From a Phishing Attack](https://blog.sucuri.net/2025/12/how-to-protect-your-wordpress-site-from-a-phishing-attack.html)
+- Armin Ronacher's Thoughts and Writings
+  - [Skills vs Dynamic MCP Loadouts](https://lucumr.pocoo.org/2025/12/13/skills-vs-mcp/)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [Beyond Authentication — Exploiting a Nasty IDOR in Profile Update Functionality](https://infosecwriteups.com/beyond-authentication-exploiting-a-nasty-idor-in-profile-update-functionality-25740fb56b05?source=rss----7b722bfd1b8d--bug_bounty)
   - [From Recon to RCE: Hunting React2Shell (CVE-2025–55182) for Bug Bounties](https://infosecwriteups.com/from-recon-to-rce-hunting-react2shell-cve-2025-55182-for-bug-bounties-4e3a3ed79876?source=rss----7b722bfd1b8d--bug_bounty)
@@ -32,15 +32,17 @@
   - [伪装成购车预算配置某红队样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494747&idx=1&sn=19b7fdf5475bbee161fa553c4425c249)
 - 黑鸟
   - [网军“捡漏”：数据泄露如何助力国家级APT搭建C2基础设施](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184155&idx=1&sn=d45a7d0b48176c346a427406b19f3eb5)
-- 威努特安全网络
-  - [保时捷系统故障致车辆瘫痪、超40亿条职业数据遭泄露|一周特辑](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651138564&idx=1&sn=d4d49f3a53ca6fd4c4246ae6e0aeeeee)
 - 天御攻防实验室
   - [特朗普政府准备招募私营企业和网络安全公司，对外国对手发动网络攻击](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486626&idx=1&sn=14e88fd6f8781942a3e8674b5a5951f2)
+- 威努特安全网络
+  - [保时捷系统故障致车辆瘫痪、超40亿条职业数据遭泄露|一周特辑](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651138564&idx=1&sn=d4d49f3a53ca6fd4c4246ae6e0aeeeee)
 - 软件安全与逆向分析
   - [Linux命名空间技术入门](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484953&idx=1&sn=e625706724eb11859a2b09b7c3aaef9b)
 - 看雪学苑
   - [安全圈 “露脸” 机会！看雪兼职讲师团招新，技术分享=行业背书+精准圈粉](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605192&idx=1&sn=9de5eaf2e03214eeb2f45be3d473a04e)
   - [强网杯2025 Qcalc 解析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605192&idx=2&sn=97eb3874f504e910cb53eb2fe23d6822)
+- 网络空间安全科学学报
+  - [《网络空间安全科学学报》第二届编委会、青年编委会换届会成功召开](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507022&idx=1&sn=20dbb051ab6c695fa88c03394f474c21)
 - 中国信息安全
   - [第十五届VARA大会 | 网络漏洞治理生态分会成功举办](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664255291&idx=1&sn=2c50d8255aa20a63e2fb1ff0457da3a5)
   - [通知 | 《网络安全技术 区块链共识机制安全要求（征求意见稿）》等6项国家标准公开意见](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664255291&idx=2&sn=bb128794120be108d65442c7e0a473d4)
@@ -50,22 +52,20 @@
   - [【安全圈】网络操纵黑产调查：灰产SIM卡如何豢养虚拟水军操控舆论](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073188&idx=1&sn=9f6a050a66452eff7c12865ede82e03a)
   - [【安全圈】黑客新套路：利用莱昂纳多主演新电影，连环设陷入侵你的电脑](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073188&idx=2&sn=de9420264aa741dfb38c4df6228452b8)
   - [【安全圈】苹果 iOS26.2 修复 25 个漏洞 谷歌、字节跳动、阿里巴巴等参与“救场”](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073188&idx=3&sn=052ef64cb3596b544a0ab6914d1d2a76)
-- 网络空间安全科学学报
-  - [《网络空间安全科学学报》第二届编委会、青年编委会换届会成功召开](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507022&idx=1&sn=20dbb051ab6c695fa88c03394f474c21)
 - 极客公园
   - [成人版ChatGPT明年1季度上线；iOS26.2正式版发布；抖音上线「抖音买单」，完成支付闭环 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653094452&idx=1&sn=c4e3094bc188bd0a11e9bd61afd1fd1e)
 - 楼兰学习网络安全
   - [安全项目的成功由管理、技术和运营三者共同决定](https://mp.weixin.qq.com/s?__biz=Mzg4ODU4ODYzOQ==&mid=2247485120&idx=1&sn=28b6a4f300d6cd92bd5dab686e8501c3)
-- 迪哥讲事
-  - [记某次攻防从外到内打穿出局](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498790&idx=1&sn=97478d9c6504b182c69d1bf93c5be65b)
-- SANS Internet Storm Center, InfoCON: green
-  - [ClickFix Attacks Still Using the Finger, (Sat, Dec 13th)](https://isc.sans.edu/diary/rss/32566)
 - Over Security - Cybersecurity news aggregator
   - [How to Protect Your WordPress Site From a Phishing Attack](https://blog.sucuri.net/2025/12/how-to-protect-your-wordpress-site-from-a-phishing-attack.html)
   - [Apple interviene su due zero-day sfruttati attivamente in attacchi mirati](https://www.securityinfo.it/2025/12/12/apple-interviene-su-due-zero-day-sfruttati-attivamente-in-attacchi-mirati/)
+- 迪哥讲事
+  - [记某次攻防从外到内打穿出局](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498790&idx=1&sn=97478d9c6504b182c69d1bf93c5be65b)
 - The Hacker News
   - [CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html)
   - [Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild](https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html)
+- SANS Internet Storm Center, InfoCON: green
+  - [ClickFix Attacks Still Using the Finger, (Sat, Dec 13th)](https://isc.sans.edu/diary/rss/32566)
 - Deeplinks
   - [EFF and 12 Organizations Urge UK Politicians to Drop Digital ID Scheme Ahead of Parliamentary Petition Debate](https://www.eff.org/deeplinks/2025/12/eff-and-12-organizations-urge-uk-politicians-drop-digital-id-scheme-ahead)
 - Security Affairs
