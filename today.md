@@ -1,9 +1,11 @@
 # 每日安全资讯（2025-12-15）
 
-- 博客
-  - [jaxb related](https://dyrnq.com/jaxb-related/)
 - Recent Commits to cve:main
   - [Update Sun Dec 14 11:27:15 UTC 2025](https://github.com/trickest/cve/commit/13637fdc838c69188a46b4480ec520ec8c081f62)
+- SecWiki News
+  - [SecWiki News 2025-12-14 Review](http://www.sec-wiki.com/?2025-12-14)
+- 博客
+  - [jaxb related](https://dyrnq.com/jaxb-related/)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [Windows LNK File UI Misrepresentation Remote Code Execution](https://cxsecurity.com/issue/WLB-2025120015)
   - [Microsoft Windows Media Player WMDRM 'RES://' URI Arbitrary Code Execution Vulnerability](https://cxsecurity.com/issue/WLB-2025120014)
@@ -11,22 +13,22 @@
   - [Pluck 4.7.7-dev2  PHP Code Execution](https://cxsecurity.com/issue/WLB-2025120012)
   - [R.s.W - Sql Injection](https://cxsecurity.com/issue/WLB-2025120011)
   - [NetBT e-Fatura 'InboxProcessor' Unquoted Service Path Privilege Escalation](https://cxsecurity.com/issue/WLB-2025120010)
-- SecWiki News
-  - [SecWiki News 2025-12-14 Review](http://www.sec-wiki.com/?2025-12-14)
 - obaby@mars
   - [一键资源地址替换工具 — UniApp发布小程序体积精简](https://h4ck.org.cn/2025/12/22157)
+- Taxodium
+  - [Advent of Code 2025 day9](https://taxodium.ink/aoc-2025-day-9.html)
 - MaskRay
   - [Weak AVL Tree](https://maskray.me/blog/2025-12-14-weak-avl-tree)
+- 威努特安全网络
+  - [筑牢运维安全防线：国密技术加持下的安全运维管理系统揭秘](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651138580&idx=1&sn=9c09a6030df8e0aacb1b1e2090c1b64c)
+- 黑鸟
+  - [苹果修复了两个在定向攻击中被利用的Webkit漏洞，其中一个与谷歌ANGLE漏洞同源](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184189&idx=1&sn=26f196ee19262d48195c0c797e5b51b2)
+- 安全分析与研究
+  - [海莲花APT组织攻击样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494769&idx=1&sn=4651749e743f3b275b0df531f74772b8)
 - 奇客Solidot–传递最新科技情报
   - [天文学家拍摄到类星战塔图因的系外行星](https://www.solidot.org/story?sid=83055)
   - [全球电动汽车销量今年至今增长 21%](https://www.solidot.org/story?sid=83054)
   - [Linux 6.19-rc1 释出，龙芯为内核加入 32 位架构 LoongArch32 支持](https://www.solidot.org/story?sid=83053)
-- 安全分析与研究
-  - [海莲花APT组织攻击样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494769&idx=1&sn=4651749e743f3b275b0df531f74772b8)
-- 黑鸟
-  - [苹果修复了两个在定向攻击中被利用的Webkit漏洞，其中一个与谷歌ANGLE漏洞同源](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184189&idx=1&sn=26f196ee19262d48195c0c797e5b51b2)
-- 威努特安全网络
-  - [筑牢运维安全防线：国密技术加持下的安全运维管理系统揭秘](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651138580&idx=1&sn=9c09a6030df8e0aacb1b1e2090c1b64c)
 - 404 Not F0und
   - [我对流量安全风险感知的思考和实践](https://mp.weixin.qq.com/s?__biz=MzUzNDU2NTIxOA==&mid=2247484119&idx=1&sn=849185014e261f63071871f4e77e1113)
 - 丁爸 情报分析师的工具箱
@@ -40,13 +42,6 @@
   - [【安全圈】为无人机“黑飞”提供破解服务，被刑拘！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073198&idx=3&sn=9ca16a539684ec89c527c3eb65103499)
 - 极客公园
   - [摩尔线程回应「75亿理财」：符合公司股东利益；OpenAI卖「周边」，上线秒空；宇树发「机器人App Store」| 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653094481&idx=1&sn=afae19a1187569154a6548c6f4031fc1)
-- 电子物证
-  - [涉外网络犯罪取证难？电子数据跨境取证这样破](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048840&idx=1&sn=f220a94da1eb2ca8d48261876e54d11c)
-  - [【Windows日志里"设备名称"痕迹分析】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048840&idx=2&sn=ff6b165b6cae4dc572203dfb5b3c1c33)
-- 迪哥讲事
-  - [SRC实战-挖穿某app](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498794&idx=1&sn=0cb2ba6223905122374fe268f00e6a72)
-- SANS Internet Storm Center, InfoCON: green
-  - [Wireshark 4.6.2 Released, (Sun, Dec 14th)](https://isc.sans.edu/diary/rss/32568)
 - Over Security - Cybersecurity news aggregator
   - [Should You Trust Your VPN Location?](https://ipinfo.io/blog/vpn-location-mismatch-report)
   - [Ransomware in public services: when a cyberattack becomes an institutional crisis](https://www.suspectfile.com/ransomware-in-public-services-when-a-cyberattack-becomes-an-institutional-crisis/)
@@ -55,6 +50,13 @@
   - [Beware: PayPal subscriptions abused to send fake purchase emails](https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/)
   - [An introduction to workflow and process automation with n8n and Camunda](https://www.adainese.it/blog/2025/12/07/an-introduction-to-workflow-and-process-automation-with-n8n-and-camunda/)
   - [Automating user management with n8n and AI Agents](https://www.adainese.it/blog/2025/12/14/automating-user-management-with-n8n-and-ai-agents/)
+- 电子物证
+  - [涉外网络犯罪取证难？电子数据跨境取证这样破](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048840&idx=1&sn=f220a94da1eb2ca8d48261876e54d11c)
+  - [【Windows日志里"设备名称"痕迹分析】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048840&idx=2&sn=ff6b165b6cae4dc572203dfb5b3c1c33)
+- SANS Internet Storm Center, InfoCON: green
+  - [Wireshark 4.6.2 Released, (Sun, Dec 14th)](https://isc.sans.edu/diary/rss/32568)
+- 迪哥讲事
+  - [SRC实战-挖穿某app](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498794&idx=1&sn=0cb2ba6223905122374fe268f00e6a72)
 - Schneier on Security
   - [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2025/12/upcoming-speaking-engagements-51.html)
 - Security Affairs
