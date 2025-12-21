@@ -1,11 +1,11 @@
 # 每日安全资讯（2025-12-21）
 
-- Recent Commits to cve:main
-  - [Update Sat Dec 20 11:19:57 UTC 2025](https://github.com/trickest/cve/commit/f686abea459b757232eecdb26e8af95dc6f673ad)
 - 博客
   - [Hawk Authentication](https://dyrnq.com/hawk-authentication/)
 - SecWiki News
   - [SecWiki News 2025-12-20 Review](http://www.sec-wiki.com/?2025-12-20)
+- Recent Commits to cve:main
+  - [Update Sat Dec 20 11:19:57 UTC 2025](https://github.com/trickest/cve/commit/f686abea459b757232eecdb26e8af95dc6f673ad)
 - ArthurChiao's Blog
   - [[译][论文] P5 paper | 用语言模型做推荐：一种统一的预训练、个性化提示和预测范式（2022）](https://arthurchiao.github.io/blog/p5-paper-zh/)
 - Didier Stevens
@@ -26,33 +26,33 @@
   - [最新Nessus2025.12.8版本主机漏洞扫描/探测工具Windows/Linux下载](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485847&idx=1&sn=6ef507eb9b153ac69e514c65f72f5e6c)
 - 先进攻防
   - [实用攻击面管理系统设计指南](https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908793&idx=1&sn=eec5aca94507a6d0180e4203cfa2c042)
-- 极客公园
-  - [每天只学 2 小时，成绩却排全美前 1%？AI 正在重新定义「好学校」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653095109&idx=1&sn=add1c9e82a178f8b665db87c99b4b6af)
-  - [传字节跳动今年利润将破 500 亿美元；Faker 回应马斯克英雄联盟AI挑战；《阿凡达 3》豆瓣开分系列最低 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653095168&idx=1&sn=e101053c119000d771e5a55235d72269)
 - 安全圈
   - [【安全圈】南京导航全崩，真相曝光！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073304&idx=1&sn=28d2a548889d6be66ceabac0c2832c0a)
   - [【安全圈】拳头游戏发现主板致命漏洞，多家厂商紧急修复](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073304&idx=2&sn=b1c32749fab00f883b96ae2d3966a433)
   - [【安全圈】YouTube突发全球宕机](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073304&idx=3&sn=958b7f3472c4e7a87c82d00aa58c868b)
+- 极客公园
+  - [每天只学 2 小时，成绩却排全美前 1%？AI 正在重新定义「好学校」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653095109&idx=1&sn=add1c9e82a178f8b665db87c99b4b6af)
+  - [传字节跳动今年利润将破 500 亿美元；Faker 回应马斯克英雄联盟AI挑战；《阿凡达 3》豆瓣开分系列最低 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653095168&idx=1&sn=e101053c119000d771e5a55235d72269)
 - 情报分析师
   - [特定目标画像实战，情报分析师如何挖掘人物与企业背景](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650564491&idx=1&sn=d0f83958fa053619b8042a3809aea012)
 - 看雪学苑
   - [强网杯2025-PolyEncryption之Vibe Reing的胜利](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605813&idx=1&sn=5aaf757d9e44be5001110e1c73d1525b)
   - [30小时教你进阶CTF-密码学：顶尖硕博战队亲授，从古典密码到RSA攻击](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605813&idx=2&sn=1544b92906faa55850d3f74922c5c4a0)
+- 迪哥讲事
+  - [SRC中自动化查找目录遍历获取赏金](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498821&idx=1&sn=44eb0ffb9c56d4b3cc0e5148ed996597)
 - Over Security - Cybersecurity news aggregator
   - [RansomHouse upgrades encryption with multi-layered data processing](https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/)
   - [ANNOUNCE: Survey about legal and criminal threats experienced by journalists and security researchers](https://www.suspectfile.com/announce-survey-about-legal-and-criminal-threats-experienced-by-journalists-and-security-researchers/)
-- 迪哥讲事
-  - [SRC中自动化查找目录遍历获取赏金](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498821&idx=1&sn=44eb0ffb9c56d4b3cc0e5148ed996597)
 - 娜璋AI安全之家
   - [[AI安全论文] (46)大佬团队探索 IDS-Agent: 一种用于物联网可解释入侵检测的大模型Agent](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247502307&idx=1&sn=14bbf074e2b5960e7164a53db463f5ca)
 - Troy Hunt's Blog
   - [Weekly Update 483](https://www.troyhunt.com/weekly-update-483/)
-- The Hacker News
-  - [U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html)
 - Security Affairs
   - [ATM Jackpotting ring busted: 54 indicted by DoJ](https://securityaffairs.com/185908/cyber-crime/atm-jackpotting-ring-busted-54-indicted-by-doj.html)
   - [U.S. CISA adds a flaw in WatchGuard Fireware OS to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/185896/hacking/u-s-cisa-adds-a-flaw-in-watchguard-fireware-os-to-its-known-exploited-vulnerabilities-catalog.html)
   - [Russia was behind a destructive cyber attack on a water utility in 2024, Denmark says](https://securityaffairs.com/185885/hacking/russia-was-behind-a-destructive-cyber-attack-on-a-water-utility-in-2024-denmark-says.html)
+- The Hacker News
+  - [U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html)
 - Dark Space Blogspot
   - [I Troll Più Famosi Della Storia: Usenet, Forum, Blog](http://darkwhite666.blogspot.com/2025/12/i-troll-piu-famosi-della-storia-usenet.html)
 - 网安寻路人
