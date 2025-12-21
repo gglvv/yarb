@@ -1,21 +1,23 @@
 # 每日安全资讯（2025-12-21）
 
+- SecWiki News
+  - [SecWiki News 2025-12-20 Review](http://www.sec-wiki.com/?2025-12-20)
+- ArthurChiao's Blog
+  - [[译][论文] P5 paper | 用语言模型做推荐：一种统一的预训练、个性化提示和预测范式（2022）](https://arthurchiao.github.io/blog/p5-paper-zh/)
 - Recent Commits to cve:main
   - [Update Sat Dec 20 11:19:57 UTC 2025](https://github.com/trickest/cve/commit/f686abea459b757232eecdb26e8af95dc6f673ad)
 - 博客
   - [Hawk Authentication](https://dyrnq.com/hawk-authentication/)
-- ArthurChiao's Blog
-  - [[译][论文] P5 paper | 用语言模型做推荐：一种统一的预训练、个性化提示和预测范式（2022）](https://arthurchiao.github.io/blog/p5-paper-zh/)
-- SecWiki News
-  - [SecWiki News 2025-12-20 Review](http://www.sec-wiki.com/?2025-12-20)
-- Didier Stevens
-  - [Using a USB-C Trigger Cable To Power An FM Radio](https://blog.didierstevens.com/2025/12/20/using-a-usb-c-trigger-cable-to-power-an-fm-radio/)
 - CCC Event Blog
   - [39C3: Congress Everywhere](https://events.ccc.de/2025/12/20/39c3-everywhere/)
+- Didier Stevens
+  - [Using a USB-C Trigger Cable To Power An FM Radio](https://blog.didierstevens.com/2025/12/20/using-a-usb-c-trigger-cable-to-power-an-fm-radio/)
 - 奇客Solidot–传递最新科技情报
   - [Google 计划对通过外部内容链接成功完成的交易和下载收取 2-4 美元的服务费](https://www.solidot.org/story?sid=83110)
   - [2025 年可能是电视亮度之战的转折点](https://www.solidot.org/story?sid=83109)
   - [大部分停放域名会重定向到恶意内容](https://www.solidot.org/story?sid=83108)
+- 黑海洋Wiki | Web开发工具包 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
+  - [冬瓜TV MAX：开源私有流媒体聚合平台，TMDb 智能刮削打造你的私人 Netflix](https://blog.upx8.com/4925)
 - 安全分析与研究
   - [Donot(肚脑虫) APT组织攻击活动分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494897&idx=1&sn=5d70506b8c6ae8fab1429afbd176e5b9)
 - 黑鸟
@@ -38,25 +40,25 @@
   - [传字节跳动今年利润将破 500 亿美元；Faker 回应马斯克英雄联盟AI挑战；《阿凡达 3》豆瓣开分系列最低 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653095168&idx=1&sn=e101053c119000d771e5a55235d72269)
 - 情报分析师
   - [特定目标画像实战，情报分析师如何挖掘人物与企业背景](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650564491&idx=1&sn=d0f83958fa053619b8042a3809aea012)
-- Over Security - Cybersecurity news aggregator
-  - [RansomHouse upgrades encryption with multi-layered data processing](https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/)
-  - [ANNOUNCE: Survey about legal and criminal threats experienced by journalists and security researchers](https://www.suspectfile.com/announce-survey-about-legal-and-criminal-threats-experienced-by-journalists-and-security-researchers/)
 - 迪哥讲事
   - [SRC中自动化查找目录遍历获取赏金](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498821&idx=1&sn=44eb0ffb9c56d4b3cc0e5148ed996597)
 - 娜璋AI安全之家
   - [[AI安全论文] (46)大佬团队探索 IDS-Agent: 一种用于物联网可解释入侵检测的大模型Agent](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247502307&idx=1&sn=14bbf074e2b5960e7164a53db463f5ca)
-- Troy Hunt's Blog
-  - [Weekly Update 483](https://www.troyhunt.com/weekly-update-483/)
+- Over Security - Cybersecurity news aggregator
+  - [RansomHouse upgrades encryption with multi-layered data processing](https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/)
+  - [ANNOUNCE: Survey about legal and criminal threats experienced by journalists and security researchers](https://www.suspectfile.com/announce-survey-about-legal-and-criminal-threats-experienced-by-journalists-and-security-researchers/)
 - 看雪学苑
   - [强网杯2025-PolyEncryption之Vibe Reing的胜利](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605813&idx=1&sn=5aaf757d9e44be5001110e1c73d1525b)
   - [30小时教你进阶CTF-密码学：顶尖硕博战队亲授，从古典密码到RSA攻击](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605813&idx=2&sn=1544b92906faa55850d3f74922c5c4a0)
+- Troy Hunt's Blog
+  - [Weekly Update 483](https://www.troyhunt.com/weekly-update-483/)
 - The Hacker News
   - [U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html)
+- Dark Space Blogspot
+  - [I Troll Più Famosi Della Storia: Usenet, Forum, Blog](http://darkwhite666.blogspot.com/2025/12/i-troll-piu-famosi-della-storia-usenet.html)
 - Security Affairs
   - [ATM Jackpotting ring busted: 54 indicted by DoJ](https://securityaffairs.com/185908/cyber-crime/atm-jackpotting-ring-busted-54-indicted-by-doj.html)
   - [U.S. CISA adds a flaw in WatchGuard Fireware OS to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/185896/hacking/u-s-cisa-adds-a-flaw-in-watchguard-fireware-os-to-its-known-exploited-vulnerabilities-catalog.html)
   - [Russia was behind a destructive cyber attack on a water utility in 2024, Denmark says](https://securityaffairs.com/185885/hacking/russia-was-behind-a-destructive-cyber-attack-on-a-water-utility-in-2024-denmark-says.html)
-- Dark Space Blogspot
-  - [I Troll Più Famosi Della Storia: Usenet, Forum, Blog](http://darkwhite666.blogspot.com/2025/12/i-troll-piu-famosi-della-storia-usenet.html)
 - 网安寻路人
   - [CPTPP 数字贸易现代化改革：对 PECC《现代化数字贸易》 报告的综述](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247508047&idx=1&sn=bdf4de65adaedbdd0118dbc628f79a29)
