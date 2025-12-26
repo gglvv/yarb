@@ -1,23 +1,23 @@
 # 每日安全资讯（2025-12-26）
 
-- Recent Commits to cve:main
-  - [Update Thu Dec 25 11:13:04 UTC 2025](https://github.com/trickest/cve/commit/42a15fec4177f66acae568370fa7a562ba27d860)
-- Taxodium
-  - [Album#18 - 天国印鑑を聴きなさい](https://taxodium.ink/album-18.html)
+- SecWiki News
+  - [SecWiki News 2025-12-25 Review](http://www.sec-wiki.com/?2025-12-25)
 - 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
   - [新型ConsentFix攻击：借助Azure CLI劫持微软账户](https://www.4hou.com/posts/ZgP2)
-- paper - Last paper
-  - [ObliInjection：针对多源数据 LLM 智能体的顺序无关提示注入攻击](https://paper.seebug.org/3439/)
 - InfoSec Write-ups - Medium
   - [How I Found a $5,500 Bug Using Just Reconnaissance](https://infosecwriteups.com/how-i-found-a-5-500-bug-using-just-reconnaissance-2768fdba5ff2?source=rss----7b722bfd1b8d---4)
   - [Meta Bug Bounty: “Only Me” Workplace Disclosure](https://infosecwriteups.com/meta-bug-bounty-only-me-workplace-disclosure-e80eda0c66bb?source=rss----7b722bfd1b8d---4)
   - [How I got my first Cybersecurity Internship in Canada](https://infosecwriteups.com/how-i-got-my-first-cybersecurity-internship-in-canada-0f291347af36?source=rss----7b722bfd1b8d---4)
   - [This Bug Was “Low Severity” — Until I Chained It Into Total Data Exposure](https://infosecwriteups.com/this-bug-was-low-severity-until-i-chained-it-into-total-data-exposure-8816e25e427b?source=rss----7b722bfd1b8d---4)
-- SecWiki News
-  - [SecWiki News 2025-12-25 Review](http://www.sec-wiki.com/?2025-12-25)
+- Recent Commits to cve:main
+  - [Update Thu Dec 25 11:13:04 UTC 2025](https://github.com/trickest/cve/commit/42a15fec4177f66acae568370fa7a562ba27d860)
+- paper - Last paper
+  - [ObliInjection：针对多源数据 LLM 智能体的顺序无关提示注入攻击](https://paper.seebug.org/3439/)
 - bunnie's blog
   - [Name that Ware, December 2025](https://www.bunniestudios.com/blog/2025/name-that-ware-december-2025/)
   - [Winner, Name That Ware November 2025](https://www.bunniestudios.com/blog/2025/winner-name-that-ware-november-2025/)
+- Taxodium
+  - [Album#18 - 天国印鑑を聴きなさい](https://taxodium.ink/album-18.html)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [How I Found a $5,500 Bug Using Just Reconnaissance](https://infosecwriteups.com/how-i-found-a-5-500-bug-using-just-reconnaissance-2768fdba5ff2?source=rss----7b722bfd1b8d--bug_bounty)
   - [Meta Bug Bounty: “Only Me” Workplace Disclosure](https://infosecwriteups.com/meta-bug-bounty-only-me-workplace-disclosure-e80eda0c66bb?source=rss----7b722bfd1b8d--bug_bounty)
@@ -46,31 +46,27 @@
   - [微软否认利用 AI 使用 Rust 重写所有 C/C++ 代码](https://www.solidot.org/story?sid=83146)
   - [Ruby 4.0.0 释出](https://www.solidot.org/story?sid=83145)
   - [英伟达计划春节前向中国发货 H200](https://www.solidot.org/story?sid=83144)
+- Chen's Blog
+  - [黑盒视角下的 WebView 漏洞面探索](https://gh0st.cn/archives/2025-12-26/1)
 - HackerNews
   - [国际刑警组织捣毁 6 种勒索软件变种，逮捕 500 余名嫌疑人](https://hackernews.cc/archives/62039)
   - [威胁攻击者利用 Word 和 PDF 文档攻击以色列机构](https://hackernews.cc/archives/62037)
   - [诺曼尼投资诈骗案借社交媒体 AI 换脸广告激增 62%](https://hackernews.cc/archives/62034)
   - [新型 macOS 窃密木马 MacSync 利用签名应用绕过苹果防护机制](https://hackernews.cc/archives/62032)
-- Chen's Blog
-  - [黑盒视角下的 WebView 漏洞面探索](https://gh0st.cn/archives/2025-12-26/1)
-- 安全分析与研究
-  - [新型CaddyWiper数据擦除恶意软件攻击乌克兰网络](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494981&idx=1&sn=97a24ca8b445a103647546799bea96f4)
 - 黑鸟
   - [金融类开源情报调查资源](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184444&idx=1&sn=7d69056173f934ae2551b2e1aafc6eb1)
+- 安全分析与研究
+  - [新型CaddyWiper数据擦除恶意软件攻击乌克兰网络](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494981&idx=1&sn=97a24ca8b445a103647546799bea96f4)
 - 威努特安全网络
   - [国家医保局新规：以计算+网络+安全推进医疗数字化](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651138900&idx=1&sn=d9851195574862666fc0f47dfcd64d93)
-- 代码卫士
-  - [MongoDB：立即修复这个严重的RCE漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524741&idx=1&sn=068ebe6184b266845885514c29d92425)
-  - [硬编码后门：英伟达紧急修复多个高危漏洞，可用于完全控制AI系统](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524741&idx=2&sn=1d0e6c4dd1ea49e10ed0e2d46132543a)
+- 天黑说嘿话
+  - [开源项目的“隐形杀手”，Google重磅神器OSV-Scanner，一键揪出所有漏洞！](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485867&idx=1&sn=2e60a48afaafca387c37ab518126145f)
 - 安全内参
   - [OpenAI称提示词注入攻击难以根除，将成为AI时代的“流行病”](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515384&idx=1&sn=dbabdd42f9b6c0248d3973438e14af73)
   - [北约合作网络防御卓越中心发布北约国家网络部队演变报告](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515384&idx=2&sn=62455d902b2bd51eeae0b05e3ff4a576)
-- 天黑说嘿话
-  - [开源项目的“隐形杀手”，Google重磅神器OSV-Scanner，一键揪出所有漏洞！](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485867&idx=1&sn=2e60a48afaafca387c37ab518126145f)
-- 安全学术圈
-  - [诚邀投稿｜《信息工程大学学报》网络空间安全栏目](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494571&idx=1&sn=5371535f0962f45f7885b2bba73ddc37)
-- 奇安信 CERT
-  - [【已复现】Windows PowerShell 命令注入漏洞(CVE-2025-54100)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504378&idx=1&sn=15cc0b201bd26cbbbc49ededed4437c1)
+- 代码卫士
+  - [MongoDB：立即修复这个严重的RCE漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524741&idx=1&sn=068ebe6184b266845885514c29d92425)
+  - [硬编码后门：英伟达紧急修复多个高危漏洞，可用于完全控制AI系统](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524741&idx=2&sn=1d0e6c4dd1ea49e10ed0e2d46132543a)
 - 奇安信威胁情报中心
   - [EmEditor 供应链事件细节披露：分发窃密特马席卷国内政企](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247517340&idx=1&sn=1bd4846cc50ddd39287c038755c6f6ab)
 - 安全圈
@@ -78,8 +74,12 @@
   - [【安全圈】受 Red Hat 遭黑客入侵连带影响，日产泄露约 21000 名客户信息](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073381&idx=2&sn=3ec2f6ee021508f015883a81232e4591)
   - [【安全圈】WordPress 头部插件曝 9/10 分高危漏洞，官方连发三补丁全失效](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073381&idx=3&sn=81ddefeda78657db996ee181ee4b8ff8)
   - [【安全圈】罗马尼亚水利水务系统遭遇黑客勒索攻击，幸未造成严重后果](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073381&idx=4&sn=e90397d84470fa7f3cd1b0e34c129b81)
+- 安全学术圈
+  - [诚邀投稿｜《信息工程大学学报》网络空间安全栏目](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494571&idx=1&sn=5371535f0962f45f7885b2bba73ddc37)
 - 威胁棱镜
   - [不须计较劳苦心，万事原来有命](https://mp.weixin.qq.com/s?__biz=MzkyMzE5ODExNQ==&mid=2247488151&idx=1&sn=e2efb7b889a559d817c2827a6f1ced31)
+- 奇安信 CERT
+  - [【已复现】Windows PowerShell 命令注入漏洞(CVE-2025-54100)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504378&idx=1&sn=15cc0b201bd26cbbbc49ededed4437c1)
 - 看雪学苑
   - [RC4算法逆向分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606104&idx=1&sn=c3bff3eb2cca350c6280a19b2ba0de86)
   - [n8n自动化平台现致命漏洞，可远程执行任意代码](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606104&idx=2&sn=397f7d463ab27cf4f87c397937f2d6e6)
@@ -88,15 +88,6 @@
   - [通义百聆，再掀 AI 硬件淘金潮](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653095614&idx=1&sn=bf1367492a1d6dc7e39546233e3d420d)
   - [鸿蒙的每一次「好用」，都映照着一位被看见的开发者](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653095608&idx=1&sn=d586aa41cb8dbd0eba5c39d46cb28e40)
   - [俞敏洪敲定东方甄选接班人；库克首次自掏腰包买耐克股票；阿维塔回应南极测试争议：那比北京暖和 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653095569&idx=1&sn=37fcfc3e39839b2c16c370db193106bf)
-- 安全牛
-  - [从快手“12.22”事件看AI时代攻击防御：应急与预案是企业生存底线](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139841&idx=1&sn=f13ff34657995a6e446fe40e93b814f9)
-  - [社保补缴无捷径！北京人社紧急提醒防范代办骗局；别让AI代理“替你做事”变成“替你泄密” | 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139841&idx=2&sn=743d00734e3a81173583266f070810dc)
-- 滴滴安全应急响应中心
-  - [DSRC｜25年第四季度奖励发放公告](https://mp.weixin.qq.com/s?__biz=MzA3Mzk1MDk1NA==&mid=2651908989&idx=1&sn=8cc1f1cefb31d2e882ce4c982020a1ec)
-- 嘶吼专业版
-  - [新型ConsentFix攻击：借助Azure CLI劫持微软账户](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586073&idx=1&sn=c503113625f6d7db249327a2ed1f42f5)
-- 小米安全中心
-  - [MiSRC 2025年度获奖白帽公布](https://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247519815&idx=1&sn=4162f6dc5195067ebe5b98ba4c30c735)
 - 中国信息安全
   - [专题·金融安全 | 上海银行副行长胡德斌：关于银行智能应用与安全韧性协同发展的思考](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256232&idx=1&sn=413b9c3cfe2b011439c2d7b42bbdc4bf)
   - [关注 | 公安部通报金融领域“黑灰产”违法犯罪集群打击工作举措成效情况](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256232&idx=2&sn=c5ef71e830814613c8092615f03fc68d)
@@ -105,54 +96,63 @@
   - [评论 | 持续深化网络生态治理](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256232&idx=5&sn=ca9890ad41602aa4dbf1b1c10be661be)
 - 阿里安全响应中心
   - [第五届伏魔挑战赛如约来袭，诚邀各路高手来战！](https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652998410&idx=1&sn=5ba54ff06ce03817443b344d7a310af8)
+- 嘶吼专业版
+  - [新型ConsentFix攻击：借助Azure CLI劫持微软账户](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586073&idx=1&sn=c503113625f6d7db249327a2ed1f42f5)
+- 数世咨询
+  - [为什么企业正在转向 RPAM？](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541263&idx=1&sn=8bd00c8e87e0c017a03827e7249d3bb2)
+- 安全牛
+  - [从快手“12.22”事件看AI时代攻击防御：应急与预案是企业生存底线](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139841&idx=1&sn=f13ff34657995a6e446fe40e93b814f9)
+  - [社保补缴无捷径！北京人社紧急提醒防范代办骗局；别让AI代理“替你做事”变成“替你泄密” | 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139841&idx=2&sn=743d00734e3a81173583266f070810dc)
 - 情报分析师
   - [AI特工上阵，CIA正迈向第四次情报革命！](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650564868&idx=1&sn=da5db1e0662870dc21058d813a0c1272)
   - [【热点研判】蒙古国联手韩国布局稀土产业/美将芬太尼列“大规模杀伤性武器”，对华缉毒施压升级引发政治安全新隐患](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650564868&idx=2&sn=5ab0cb9bf6c29920eb0c97eada4a88a3)
-- 数世咨询
-  - [为什么企业正在转向 RPAM？](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541263&idx=1&sn=8bd00c8e87e0c017a03827e7249d3bb2)
+- 滴滴安全应急响应中心
+  - [DSRC｜25年第四季度奖励发放公告](https://mp.weixin.qq.com/s?__biz=MzA3Mzk1MDk1NA==&mid=2651908989&idx=1&sn=8cc1f1cefb31d2e882ce4c982020a1ec)
 - 慢雾科技
   - [慢雾：去中心化永续合约安全审计指南](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247504034&idx=1&sn=c4174518c7087011675ce1c0a165bc5c)
+- 小米安全中心
+  - [MiSRC 2025年度获奖白帽公布](https://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247519815&idx=1&sn=4162f6dc5195067ebe5b98ba4c30c735)
+- 复旦白泽战队
+  - [成果分享 | 一次针对Web Agent的系统性安全测试](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247497127&idx=1&sn=99dcf089be79fcfae5b4717f02cd7e16)
 - 火绒安全
   - [广告位变窃密通道：IDM破解工具作者或成为窃密帮凶](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247529372&idx=1&sn=5bcf7f1f1a12046d9b619012dca31397)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247529372&idx=2&sn=af79c7c2803c5d5501258162e4e5fdf6)
+- Over Security - Cybersecurity news aggregator
+  - [ChatGPT’s new formatting blocks make its UI look more like a task tool](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-new-formatting-blocks-make-its-ui-look-more-like-a-task-tool/)
+  - [Google will finally allow you to change your @gmail.com address](https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/)
+  - [Threat landscape for industrial automation systems in Q3 2025](https://securelist.com/industrial-threat-report-q3-2025/118602/)
 - 美团技术团队
   - [智启新春，一‘码’奔腾！NoCode 创新挑战赛重磅开启，丰厚大奖等你拿！](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781963&idx=2&sn=8ba7a63f44d210fa0b770391be701591)
   - [从“点对点”迈向“城市级航网”：美团无人机开启低空物流新阶段](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781963&idx=3&sn=daee0b94a6df46be0b9ad4b93f359938)
 - 字节跳动技术团队
   - [AI 驱动数据范式变革：字节跳动数据库的智能进化之路](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247517794&idx=1&sn=a1f658c9c777ca6d25d26122b4c55fd9)
-- 复旦白泽战队
-  - [成果分享 | 一次针对Web Agent的系统性安全测试](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247497127&idx=1&sn=99dcf089be79fcfae5b4717f02cd7e16)
-- 迪哥讲事
-  - [从隐藏参数到账户接管](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498843&idx=1&sn=a8d8d6c404aaad1051085cda848ab3a4)
 - 360数字安全
   - [年度盘点 | 360发布2025年度十大高危漏洞，揭示AI攻防元年安全新态势](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247583489&idx=1&sn=b3d9e83690ac67a68399e273e0e3583a)
-- Over Security - Cybersecurity news aggregator
-  - [ChatGPT’s new formatting blocks make its UI look more like a task tool](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-new-formatting-blocks-make-its-ui-look-more-like-a-task-tool/)
-  - [Google will finally allow you to change your @gmail.com address](https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/)
-  - [Threat landscape for industrial automation systems in Q3 2025](https://securelist.com/industrial-threat-report-q3-2025/118602/)
+- 迪哥讲事
+  - [从隐藏参数到账户接管](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498843&idx=1&sn=a8d8d6c404aaad1051085cda848ab3a4)
 - Security Affairs
   - [Five-year-old Fortinet FortiOS SSL VPN vulnerability actively exploited](https://securityaffairs.com/186117/security/five-year-old-fortinet-fortios-ssl-vpn-flaw-actively-exploited.html)
   - [High-severity MongoDB flaw CVE-2025-14847 could lead to server takeover](https://securityaffairs.com/186107/security/high-severity-mongodb-flaw-cve-2025-14847-could-lead-to-server-takeover.html)
-- Technical Information Security Content & Discussion
-  - [CSRF Protection without Tokens or Hidden Form Fields](https://www.reddit.com/r/netsec/comments/1pvb12k/csrf_protection_without_tokens_or_hidden_form/)
-- Deep Web
-  - [🎁 Merry Christmas and Happy Holidays!](https://www.reddit.com/r/deepweb/comments/1pv9xhv/merry_christmas_and_happy_holidays/)
-- Your Open Hacker Community
-  - [So not exactly about hacking but I must ask](https://www.reddit.com/r/HowToHack/comments/1pvn92a/so_not_exactly_about_hacking_but_i_must_ask/)
-  - [I wanna know how someone found me thru a thread post](https://www.reddit.com/r/HowToHack/comments/1pvflke/i_wanna_know_how_someone_found_me_thru_a_thread/)
-- netsecstudents: Subreddit for students studying Network Security and its related subjects
-  - [University coursework survey](https://www.reddit.com/r/netsecstudents/comments/1pvi4zw/university_coursework_survey/)
-- 白帽子章华鹏
-  - [推一波优质的基础安全岗位，涵盖web3/金融/游戏等多行业](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650238314&idx=1&sn=bb2b49e3feb9b2c9bac45b3a8ff96c9c)
 - The Hacker News
   - [ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html)
   - [LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds](https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html)
   - [Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability](https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html)
   - [CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution](https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html)
+- Technical Information Security Content & Discussion
+  - [CSRF Protection without Tokens or Hidden Form Fields](https://www.reddit.com/r/netsec/comments/1pvb12k/csrf_protection_without_tokens_or_hidden_form/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [University coursework survey](https://www.reddit.com/r/netsecstudents/comments/1pvi4zw/university_coursework_survey/)
+- Deep Web
+  - [🎁 Merry Christmas and Happy Holidays!](https://www.reddit.com/r/deepweb/comments/1pv9xhv/merry_christmas_and_happy_holidays/)
 - Social Engineering
   - [This subreddit has gone to shit](https://www.reddit.com/r/SocialEngineering/comments/1pvdrey/this_subreddit_has_gone_to_shit/)
   - [What's the best social skills book that actually changed how you interact with people? (No generic communication advice, please)](https://www.reddit.com/r/SocialEngineering/comments/1pvbuci/whats_the_best_social_skills_book_that_actually/)
+- Your Open Hacker Community
+  - [So not exactly about hacking but I must ask](https://www.reddit.com/r/HowToHack/comments/1pvn92a/so_not_exactly_about_hacking_but_i_must_ask/)
+  - [I wanna know how someone found me thru a thread post](https://www.reddit.com/r/HowToHack/comments/1pvflke/i_wanna_know_how_someone_found_me_thru_a_thread/)
 - 安全419
   - [决胜AI时代：CISO必备的五大核心领导力](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247551961&idx=1&sn=c82761d50c3adbb14a717640381ed9b0)
+- 白帽子章华鹏
+  - [推一波优质的基础安全岗位，涵盖web3/金融/游戏等多行业](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650238314&idx=1&sn=bb2b49e3feb9b2c9bac45b3a8ff96c9c)
 - Security Weekly Podcast Network (Audio)
   - [Building a Hacking Lab in 2025 - PSW #906](http://sites.libsyn.com/18678/building-a-hacking-lab-in-2025-psw-906)
