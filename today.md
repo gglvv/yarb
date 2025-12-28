@@ -1,16 +1,5 @@
 # 每日安全资讯（2025-12-28）
 
-- SecWiki News
-  - [SecWiki News 2025-12-27 Review](http://www.sec-wiki.com/?2025-12-27)
-- CXSECURITY Database RSS Feed - CXSecurity.com
-  - [PMB SIGB 7.x - SQL Injection](https://cxsecurity.com/issue/WLB-2025120030)
-  - [RosarioSIS 6.7.2 Cross Site Scripting (XSS)](https://cxsecurity.com/issue/WLB-2025120029)
-  - [River_Past_Audio_Converter - Buffer Overflow (SEH)](https://cxsecurity.com/issue/WLB-2025120028)
-  - [ESLockDecryptor: Tool for decrypt ES File Explorer encrypted files (.eslock)](https://cxsecurity.com/issue/WLB-2025120027)
-- 博客
-  - [install python v2.7.18 on debian12](https://dyrnq.com/install-python-v2-7-18-on-debian12/)
-- Recent Commits to cve:main
-  - [Update Sat Dec 27 11:39:53 UTC 2025](https://github.com/trickest/cve/commit/7c61a65490b6b14af52676f9e49b09c5f10b8a47)
 - InfoSec Write-ups - Medium
   - [$100 bounty — XSS & Input Validation](https://infosecwriteups.com/100-bounty-xss-input-validation-1ccfb35c5e1f?source=rss----7b722bfd1b8d---4)
   - [I Didn’t Hack You. You Posted Everything.](https://infosecwriteups.com/i-didnt-hack-you-you-posted-everything-4d6bae509815?source=rss----7b722bfd1b8d---4)
@@ -19,6 +8,17 @@
   - [From Login Form to Root Access: Chaining SQLi & SSTI for Total Compromise](https://infosecwriteups.com/from-login-form-to-root-access-chaining-sqli-ssti-for-total-compromise-11c77f0d3539?source=rss----7b722bfd1b8d---4)
   - [iOS apps security — Intercepting custom deeplinks for security testing.](https://infosecwriteups.com/intercepting-custom-links-in-ios-apps-e3023794d507?source=rss----7b722bfd1b8d---4)
   - [How to get pwned with — extra-index-url](https://infosecwriteups.com/how-to-get-pwned-with-extra-index-url-44b04b52913a?source=rss----7b722bfd1b8d---4)
+- 博客
+  - [install python v2.7.18 on debian12](https://dyrnq.com/install-python-v2-7-18-on-debian12/)
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [PMB SIGB 7.x - SQL Injection](https://cxsecurity.com/issue/WLB-2025120030)
+  - [RosarioSIS 6.7.2 Cross Site Scripting (XSS)](https://cxsecurity.com/issue/WLB-2025120029)
+  - [River_Past_Audio_Converter - Buffer Overflow (SEH)](https://cxsecurity.com/issue/WLB-2025120028)
+  - [ESLockDecryptor: Tool for decrypt ES File Explorer encrypted files (.eslock)](https://cxsecurity.com/issue/WLB-2025120027)
+- SecWiki News
+  - [SecWiki News 2025-12-27 Review](http://www.sec-wiki.com/?2025-12-27)
+- Recent Commits to cve:main
+  - [Update Sat Dec 27 11:39:53 UTC 2025](https://github.com/trickest/cve/commit/7c61a65490b6b14af52676f9e49b09c5f10b8a47)
 - Blogs on STAR Labs
   - [2025: WE BROKE THINGS, WE BUILT THINGS, WE BROKE EVEN MORE THINGS](https://starlabs.sg/blog/2025/12-2025-reflection/)
 - Insinuator.net
@@ -38,17 +38,29 @@
   - [在两年等待之后 FFmpeg 向瑞芯发出 DMCA 下架通知](https://www.solidot.org/story?sid=83160)
 - 安全分析与研究
   - [疑似俄罗斯APT组织针对乌克兰发起网络钓鱼攻击活动](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495069&idx=1&sn=2497f76b28764be67726f5c6bb5b7bee)
-- 黑鸟
-  - [GhidraGPT：AI 驱动的 Ghidra 插件，提升逆向工程效率](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184486&idx=1&sn=dcabcdd34d41db14ff86af341b3f23e2)
-- 安全内参
-  - [估值将超630亿元！这家数据安全独角兽是如何炼成的？](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515388&idx=1&sn=fc3f153deda189172f8332326ba9fb4d)
-- 二道情报贩子
-  - [短信面试邀约诈骗全过程](https://mp.weixin.qq.com/s?__biz=MzU5NTA3MTk5Ng==&mid=2247489897&idx=1&sn=7f8c2db800ecf07944a93a74cc04b54c)
 - 看雪学苑
   - [[强网杯S9]Qcalc赛题解析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606343&idx=1&sn=b6f12c20b41641d9812e23be0fba1ff1)
   - [安全圈 “露脸” 机会！看雪兼职讲师团招新，技术分享=行业背书+精准圈粉](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606343&idx=2&sn=d3f6c2a4f15cec321af5113c3e6c7178)
+- 二道情报贩子
+  - [短信面试邀约诈骗全过程](https://mp.weixin.qq.com/s?__biz=MzU5NTA3MTk5Ng==&mid=2247489897&idx=1&sn=7f8c2db800ecf07944a93a74cc04b54c)
+- 丁爸 情报分析师的工具箱
+  - [【情报实战】谷歌的数据还靠谱吗？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153443&idx=1&sn=5ab98d56832fd87d90b10fcbdaa60097)
 - 软件安全与逆向分析
   - [Cuttlefish安卓模拟器最新DEB包下载获取脚本](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484971&idx=1&sn=a128c2cf69e40c6fbb481a2b2c43b100)
+- 天黑说嘿话
+  - [AI应用安全攻防实录](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485894&idx=1&sn=b750d3bec8f4e1fd2b1d1fc599954400)
+- 安全内参
+  - [估值将超630亿元！这家数据安全独角兽是如何炼成的？](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515388&idx=1&sn=fc3f153deda189172f8332326ba9fb4d)
+- 安全圈
+  - [【安全圈】两名辅警盗用派出所副所长数字证书售卖公民信息牟利11.7万元](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073425&idx=1&sn=a211d6975a3c6dbdabb3d3e4c0a99038)
+  - [【安全圈】MongoDB 紧急提醒：立即修补可致远程代码执行的高危漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073425&idx=2&sn=4e934b9a78bf80855ef578ca18001427)
+  - [【安全圈】甲骨文 EBS 漏洞导致 350 万人信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073425&idx=3&sn=be60462d15f04b1ca6624a2b2f13fdf0)
+- 极客公园
+  - [抖音推长图文功能，剑指微信公众号；Cursor CEO：AI代码恐成豆腐渣工程；新版「QQ秀」内测，支持照片生成 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653095749&idx=1&sn=4eea33ed48fca09cad50d2f521b730b3)
+- 黑鸟
+  - [GhidraGPT：AI 驱动的 Ghidra 插件，提升逆向工程效率](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184486&idx=1&sn=dcabcdd34d41db14ff86af341b3f23e2)
+- Have I Been Pwned latest breaches
+  - [WIRED - 2,364,431 breached accounts](https://haveibeenpwned.com/Breach/WIRED)
 - 中国信息安全
   - [发布 | 国家网信办发布《国家电子政务发展报告（2014—2024年）》](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256443&idx=1&sn=108c2a6c0eea32c274eb6951bd12a400)
   - [通知 | 国家网信办就《人工智能拟人化互动服务管理暂行办法（征求意见稿）》公开征求意见](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256443&idx=2&sn=429172f11bde6af6c863f2054504536b)
@@ -56,24 +68,12 @@
   - [关注 | 国家数据局就《关于培育数据流通服务机构 加快推进数据要素市场化价值化的意见（征求意见稿）》公开征求意见](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256443&idx=4&sn=a3d840bab33cc9cb493221d8bb3b7f53)
   - [发布 | 金融监管总局发布《银行业保险业数字金融高质量发展实施方案》](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256443&idx=5&sn=4d660854872e2331f088b62172379d9b)
   - [新一批！重点防范境外恶意网址和恶意IP](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256443&idx=6&sn=59e411f0b5b8355dadb6a0a9a9c7351d)
-- 安全圈
-  - [【安全圈】两名辅警盗用派出所副所长数字证书售卖公民信息牟利11.7万元](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073425&idx=1&sn=a211d6975a3c6dbdabb3d3e4c0a99038)
-  - [【安全圈】MongoDB 紧急提醒：立即修补可致远程代码执行的高危漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073425&idx=2&sn=4e934b9a78bf80855ef578ca18001427)
-  - [【安全圈】甲骨文 EBS 漏洞导致 350 万人信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073425&idx=3&sn=be60462d15f04b1ca6624a2b2f13fdf0)
-- 天黑说嘿话
-  - [AI应用安全攻防实录](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485894&idx=1&sn=b750d3bec8f4e1fd2b1d1fc599954400)
-- 丁爸 情报分析师的工具箱
-  - [【情报实战】谷歌的数据还靠谱吗？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153443&idx=1&sn=5ab98d56832fd87d90b10fcbdaa60097)
-- 极客公园
-  - [抖音推长图文功能，剑指微信公众号；Cursor CEO：AI代码恐成豆腐渣工程；新版「QQ秀」内测，支持照片生成 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653095749&idx=1&sn=4eea33ed48fca09cad50d2f521b730b3)
 - Over Security - Cybersecurity news aggregator
   - [Vectored Exception Handling Squared](https://fluxsec.red/vectored-exception-handling-squared-rust)
   - [Meet the team that investigates when journalists and activists get hacked with government spyware](https://techcrunch.com/2025/12/27/meet-the-team-that-investigates-when-journalists-and-activists-get-hacked-with-government-spyware/)
   - [OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ads-will-allegedly-prioritize-sponsored-content-in-answers/)
 - 迪哥讲事
   - [某企业src实战](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498851&idx=1&sn=1b38267a519f0345906f5bcbba1d4c0a)
-- Have I Been Pwned latest breaches
-  - [WIRED - 2,364,431 breached accounts](https://haveibeenpwned.com/Breach/WIRED)
 - Security Affairs
   - [LangChain core vulnerability allows prompt injection and data exposure](https://securityaffairs.com/186185/hacking/langchain-core-vulnerability-allows-prompt-injection-and-data-exposure.html)
   - [NPM package with 56,000 downloads compromises WhatsApp accounts](https://securityaffairs.com/186174/malware/npm-package-with-56000-downloads-compromises-whatsapp-accounts.html)
