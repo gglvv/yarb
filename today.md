@@ -1,5 +1,7 @@
 # 每日安全资讯（2025-12-28）
 
+- SecWiki News
+  - [SecWiki News 2025-12-27 Review](http://www.sec-wiki.com/?2025-12-27)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [PMB SIGB 7.x - SQL Injection](https://cxsecurity.com/issue/WLB-2025120030)
   - [RosarioSIS 6.7.2 Cross Site Scripting (XSS)](https://cxsecurity.com/issue/WLB-2025120029)
@@ -17,46 +19,34 @@
   - [How to get pwned with — extra-index-url](https://infosecwriteups.com/how-to-get-pwned-with-extra-index-url-44b04b52913a?source=rss----7b722bfd1b8d---4)
 - 博客
   - [install python v2.7.18 on debian12](https://dyrnq.com/install-python-v2-7-18-on-debian12/)
-- SecWiki News
-  - [SecWiki News 2025-12-27 Review](http://www.sec-wiki.com/?2025-12-27)
 - Blogs on STAR Labs
   - [2025: WE BROKE THINGS, WE BUILT THINGS, WE BROKE EVEN MORE THINGS](https://starlabs.sg/blog/2025/12-2025-reflection/)
-- Bug Bounty in InfoSec Write-ups on Medium
-  - [$100 bounty — XSS & Input Validation](https://infosecwriteups.com/100-bounty-xss-input-validation-1ccfb35c5e1f?source=rss----7b722bfd1b8d--bug_bounty)
 - Insinuator.net
   - [Bluetooth Headphone Jacking: Full Disclosure of Airoha RACE Vulnerabilities](https://insinuator.net/2025/12/bluetooth-headphone-jacking-full-disclosure-of-airoha-race-vulnerabilities/)
+- Bug Bounty in InfoSec Write-ups on Medium
+  - [$100 bounty — XSS & Input Validation](https://infosecwriteups.com/100-bounty-xss-input-validation-1ccfb35c5e1f?source=rss----7b722bfd1b8d--bug_bounty)
 - HAHWUL
   - [Hello SmuggleX 👋🏼](https://www.hahwul.com/blog/2025/hello-smugglex/)
-- Reverse Engineering
-  - [Halo Decompilation Project: Project to study and re-implement the iconic Xbox launch title Halo: Combat Evolved](https://www.reddit.com/r/ReverseEngineering/comments/1px42g3/halo_decompilation_project_project_to_study_and/)
-  - [LLVM-based obfuscator plugin implementing control-flow flattening, encrypted jump tables](https://www.reddit.com/r/ReverseEngineering/comments/1px6yy0/llvmbased_obfuscator_plugin_implementing/)
-  - [Barnyard the video game decompilation is able to partially load and render terrains and to load the main menu](https://www.reddit.com/r/ReverseEngineering/comments/1px3715/barnyard_the_video_game_decompilation_is_able_to/)
-  - [Analyzing and Exploiting Branch Mispredictions in Microcode](https://www.reddit.com/r/ReverseEngineering/comments/1pwxqhd/analyzing_and_exploiting_branch_mispredictions_in/)
+- HAHWUL
+  - [Hello SmuggleX 👋🏼](https://www.hahwul.com/blog/2025/hello-smugglex/)
 - Adam Caudill
   - [Why I Will Never Write With AI](https://adamcaudill.com/2025/12/27/why-i-will-never-write-with-ai/?utm_source=atom_feed)
 - HAHWUL
   - [Hello SmuggleX 👋🏼](https://www.hahwul.com/blog/2025/hello-smugglex/)
-- HAHWUL
-  - [Hello SmuggleX 👋🏼](https://www.hahwul.com/blog/2025/hello-smugglex/)
+- 奇客Solidot–传递最新科技情报
+  - [Calibre 引入 AI “讨论”功能](https://www.solidot.org/story?sid=83161)
+  - [在两年等待之后 FFmpeg 向瑞芯发出 DMCA 下架通知](https://www.solidot.org/story?sid=83160)
 - 安全分析与研究
   - [疑似俄罗斯APT组织针对乌克兰发起网络钓鱼攻击活动](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495069&idx=1&sn=2497f76b28764be67726f5c6bb5b7bee)
 - 黑鸟
   - [GhidraGPT：AI 驱动的 Ghidra 插件，提升逆向工程效率](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184486&idx=1&sn=dcabcdd34d41db14ff86af341b3f23e2)
+- 安全内参
+  - [估值将超630亿元！这家数据安全独角兽是如何炼成的？](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515388&idx=1&sn=fc3f153deda189172f8332326ba9fb4d)
+- 天黑说嘿话
+  - [AI应用安全攻防实录](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485894&idx=1&sn=b750d3bec8f4e1fd2b1d1fc599954400)
 - 看雪学苑
   - [[强网杯S9]Qcalc赛题解析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606343&idx=1&sn=b6f12c20b41641d9812e23be0fba1ff1)
   - [安全圈 “露脸” 机会！看雪兼职讲师团招新，技术分享=行业背书+精准圈粉](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606343&idx=2&sn=d3f6c2a4f15cec321af5113c3e6c7178)
-- 安全内参
-  - [估值将超630亿元！这家数据安全独角兽是如何炼成的？](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515388&idx=1&sn=fc3f153deda189172f8332326ba9fb4d)
-- 二道情报贩子
-  - [短信面试邀约诈骗全过程](https://mp.weixin.qq.com/s?__biz=MzU5NTA3MTk5Ng==&mid=2247489897&idx=1&sn=7f8c2db800ecf07944a93a74cc04b54c)
-- 丁爸 情报分析师的工具箱
-  - [【情报实战】谷歌的数据还靠谱吗？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153443&idx=1&sn=5ab98d56832fd87d90b10fcbdaa60097)
-- 天黑说嘿话
-  - [AI应用安全攻防实录](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485894&idx=1&sn=b750d3bec8f4e1fd2b1d1fc599954400)
-- 安全圈
-  - [【安全圈】两名辅警盗用派出所副所长数字证书售卖公民信息牟利11.7万元](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073425&idx=1&sn=a211d6975a3c6dbdabb3d3e4c0a99038)
-  - [【安全圈】MongoDB 紧急提醒：立即修补可致远程代码执行的高危漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073425&idx=2&sn=4e934b9a78bf80855ef578ca18001427)
-  - [【安全圈】甲骨文 EBS 漏洞导致 350 万人信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073425&idx=3&sn=be60462d15f04b1ca6624a2b2f13fdf0)
 - 中国信息安全
   - [发布 | 国家网信办发布《国家电子政务发展报告（2014—2024年）》](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256443&idx=1&sn=108c2a6c0eea32c274eb6951bd12a400)
   - [通知 | 国家网信办就《人工智能拟人化互动服务管理暂行办法（征求意见稿）》公开征求意见](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256443&idx=2&sn=429172f11bde6af6c863f2054504536b)
@@ -64,44 +54,35 @@
   - [关注 | 国家数据局就《关于培育数据流通服务机构 加快推进数据要素市场化价值化的意见（征求意见稿）》公开征求意见](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256443&idx=4&sn=a3d840bab33cc9cb493221d8bb3b7f53)
   - [发布 | 金融监管总局发布《银行业保险业数字金融高质量发展实施方案》](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256443&idx=5&sn=4d660854872e2331f088b62172379d9b)
   - [新一批！重点防范境外恶意网址和恶意IP](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256443&idx=6&sn=59e411f0b5b8355dadb6a0a9a9c7351d)
+- 安全圈
+  - [【安全圈】两名辅警盗用派出所副所长数字证书售卖公民信息牟利11.7万元](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073425&idx=1&sn=a211d6975a3c6dbdabb3d3e4c0a99038)
+  - [【安全圈】MongoDB 紧急提醒：立即修补可致远程代码执行的高危漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073425&idx=2&sn=4e934b9a78bf80855ef578ca18001427)
+  - [【安全圈】甲骨文 EBS 漏洞导致 350 万人信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073425&idx=3&sn=be60462d15f04b1ca6624a2b2f13fdf0)
 - 软件安全与逆向分析
   - [Cuttlefish安卓模拟器最新DEB包下载获取脚本](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484971&idx=1&sn=a128c2cf69e40c6fbb481a2b2c43b100)
+- 二道情报贩子
+  - [短信面试邀约诈骗全过程](https://mp.weixin.qq.com/s?__biz=MzU5NTA3MTk5Ng==&mid=2247489897&idx=1&sn=7f8c2db800ecf07944a93a74cc04b54c)
 - 极客公园
   - [抖音推长图文功能，剑指微信公众号；Cursor CEO：AI代码恐成豆腐渣工程；新版「QQ秀」内测，支持照片生成 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653095749&idx=1&sn=4eea33ed48fca09cad50d2f521b730b3)
+- 丁爸 情报分析师的工具箱
+  - [【情报实战】谷歌的数据还靠谱吗？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153443&idx=1&sn=5ab98d56832fd87d90b10fcbdaa60097)
+- Have I Been Pwned latest breaches
+  - [WIRED - 2,364,431 breached accounts](https://haveibeenpwned.com/Breach/WIRED)
+- 迪哥讲事
+  - [某企业src实战](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498851&idx=1&sn=1b38267a519f0345906f5bcbba1d4c0a)
 - Over Security - Cybersecurity news aggregator
   - [Vectored Exception Handling Squared](https://fluxsec.red/vectored-exception-handling-squared-rust)
   - [Meet the team that investigates when journalists and activists get hacked with government spyware](https://techcrunch.com/2025/12/27/meet-the-team-that-investigates-when-journalists-and-activists-get-hacked-with-government-spyware/)
   - [OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ads-will-allegedly-prioritize-sponsored-content-in-answers/)
-- 迪哥讲事
-  - [某企业src实战](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498851&idx=1&sn=1b38267a519f0345906f5bcbba1d4c0a)
-- Have I Been Pwned latest breaches
-  - [WIRED - 2,364,431 breached accounts](https://haveibeenpwned.com/Breach/WIRED)
 - Security Affairs
   - [LangChain core vulnerability allows prompt injection and data exposure](https://securityaffairs.com/186185/hacking/langchain-core-vulnerability-allows-prompt-injection-and-data-exposure.html)
   - [NPM package with 56,000 downloads compromises WhatsApp accounts](https://securityaffairs.com/186174/malware/npm-package-with-56000-downloads-compromises-whatsapp-accounts.html)
+- The Hacker News
+  - [New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory](https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html)
 - Deeplinks
   - [Lawmakers Must Listen to Young People Before Regulating Their Internet Access: 2025 in Review](https://www.eff.org/deeplinks/2025/12/lawmakers-must-listen-young-people-regulating-their-internet-access-2025-review)
   - [From Speakeasies to DEF CON—Celebrating With EFF Members: 2025 Year In Review](https://www.eff.org/deeplinks/2025/12/speakeasies-def-con-celebrating-eff-members-2025-year-review)
   - [Local Communities Are Winning Against ALPR Surveillance—Here’s How: 2025 in Review](https://www.eff.org/deeplinks/2025/12/local-communities-are-winning-against-alpr-surveillance-heres-how-2025-review)
   - [States Take On Tough Tech Policy Battles: 2025 in Review](https://www.eff.org/deeplinks/2025/12/states-take-tough-tech-policy-battles-2025-review)
-- Blackhat Library: Hacking techniques and research
-  - [WIRED Database Leaked: 40 Million Record Threat Looms for Condé Nast](https://www.reddit.com/r/blackhat/comments/1pwyqzy/wired_database_leaked_40_million_record_threat/)
-  - [10$ gift card and other prizes](https://www.reddit.com/r/blackhat/comments/1px9esz/10_gift_card_and_other_prizes/)
-- The Hacker News
-  - [New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory](https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html)
-- Deep Web
-  - [where to get bitcoin as a noob](https://www.reddit.com/r/deepweb/comments/1pxchux/where_to_get_bitcoin_as_a_noob/)
-- Your Open Hacker Community
-  - [How do you research and try to hack something?](https://www.reddit.com/r/HowToHack/comments/1pxbbo6/how_do_you_research_and_try_to_hack_something/)
-  - [Can somebody help me](https://www.reddit.com/r/HowToHack/comments/1pwy1d5/can_somebody_help_me/)
-- Social Engineering
-  - [How to Leverage Cognitive Biases to Build Instant Credibility](https://www.reddit.com/r/SocialEngineering/comments/1pwxcnz/how_to_leverage_cognitive_biases_to_build_instant/)
-- Technical Information Security Content & Discussion
-  - [Petlibro: Your Pet Feeder Is Feeding Data To Anyone Who Asks](https://www.reddit.com/r/netsec/comments/1px7jzx/petlibro_your_pet_feeder_is_feeding_data_to/)
-  - [Mongobleed - CVE-2025-14847](https://www.reddit.com/r/netsec/comments/1pwxku1/mongobleed_cve202514847/)
-  - [Implicit execution authority is the real failure mode behind prompt injection](https://www.reddit.com/r/netsec/comments/1px42f4/implicit_execution_authority_is_the_real_failure/)
-  - [Early warning signs of runtime compromise](https://www.reddit.com/r/netsec/comments/1pwznw0/early_warning_signs_of_runtime_compromise/)
-- Information Security
-  - [L'historique du téléphone de mon conjoint est plein de porno mais il me jure que ce n'est pas lui](https://www.reddit.com/r/Information_Security/comments/1pwwv9l/lhistorique_du_téléphone_de_mon_conjoint_est/)
 - 希潭实验室
   - [第144篇：Docker+CTFd 动态靶场环境后台配置及题库部署的踩坑全记录(下篇)](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487988&idx=1&sn=53b83033a3e6166e14b4d392dd06ad9e)
