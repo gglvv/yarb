@@ -1,12 +1,9 @@
 # 每日安全资讯（2025-12-28）
 
+- SecWiki News
+  - [SecWiki News 2025-12-27 Review](http://www.sec-wiki.com/?2025-12-27)
 - 博客
   - [install python v2.7.18 on debian12](https://dyrnq.com/install-python-v2-7-18-on-debian12/)
-- CXSECURITY Database RSS Feed - CXSecurity.com
-  - [PMB SIGB 7.x - SQL Injection](https://cxsecurity.com/issue/WLB-2025120030)
-  - [RosarioSIS 6.7.2 Cross Site Scripting (XSS)](https://cxsecurity.com/issue/WLB-2025120029)
-  - [River_Past_Audio_Converter - Buffer Overflow (SEH)](https://cxsecurity.com/issue/WLB-2025120028)
-  - [ESLockDecryptor: Tool for decrypt ES File Explorer encrypted files (.eslock)](https://cxsecurity.com/issue/WLB-2025120027)
 - InfoSec Write-ups - Medium
   - [$100 bounty — XSS & Input Validation](https://infosecwriteups.com/100-bounty-xss-input-validation-1ccfb35c5e1f?source=rss----7b722bfd1b8d---4)
   - [I Didn’t Hack You. You Posted Everything.](https://infosecwriteups.com/i-didnt-hack-you-you-posted-everything-4d6bae509815?source=rss----7b722bfd1b8d---4)
@@ -15,46 +12,43 @@
   - [From Login Form to Root Access: Chaining SQLi & SSTI for Total Compromise](https://infosecwriteups.com/from-login-form-to-root-access-chaining-sqli-ssti-for-total-compromise-11c77f0d3539?source=rss----7b722bfd1b8d---4)
   - [iOS apps security — Intercepting custom deeplinks for security testing.](https://infosecwriteups.com/intercepting-custom-links-in-ios-apps-e3023794d507?source=rss----7b722bfd1b8d---4)
   - [How to get pwned with — extra-index-url](https://infosecwriteups.com/how-to-get-pwned-with-extra-index-url-44b04b52913a?source=rss----7b722bfd1b8d---4)
-- SecWiki News
-  - [SecWiki News 2025-12-27 Review](http://www.sec-wiki.com/?2025-12-27)
 - Recent Commits to cve:main
   - [Update Sat Dec 27 11:39:53 UTC 2025](https://github.com/trickest/cve/commit/7c61a65490b6b14af52676f9e49b09c5f10b8a47)
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [PMB SIGB 7.x - SQL Injection](https://cxsecurity.com/issue/WLB-2025120030)
+  - [RosarioSIS 6.7.2 Cross Site Scripting (XSS)](https://cxsecurity.com/issue/WLB-2025120029)
+  - [River_Past_Audio_Converter - Buffer Overflow (SEH)](https://cxsecurity.com/issue/WLB-2025120028)
+  - [ESLockDecryptor: Tool for decrypt ES File Explorer encrypted files (.eslock)](https://cxsecurity.com/issue/WLB-2025120027)
 - Insinuator.net
   - [Bluetooth Headphone Jacking: Full Disclosure of Airoha RACE Vulnerabilities](https://insinuator.net/2025/12/bluetooth-headphone-jacking-full-disclosure-of-airoha-race-vulnerabilities/)
-- Blogs on STAR Labs
-  - [2025: WE BROKE THINGS, WE BUILT THINGS, WE BROKE EVEN MORE THINGS](https://starlabs.sg/blog/2025/12-2025-reflection/)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [$100 bounty — XSS & Input Validation](https://infosecwriteups.com/100-bounty-xss-input-validation-1ccfb35c5e1f?source=rss----7b722bfd1b8d--bug_bounty)
 - HAHWUL
   - [Hello SmuggleX 👋🏼](https://www.hahwul.com/blog/2025/hello-smugglex/)
 - HAHWUL
   - [Hello SmuggleX 👋🏼](https://www.hahwul.com/blog/2025/hello-smugglex/)
+- Blogs on STAR Labs
+  - [2025: WE BROKE THINGS, WE BUILT THINGS, WE BROKE EVEN MORE THINGS](https://starlabs.sg/blog/2025/12-2025-reflection/)
 - Adam Caudill
   - [Why I Will Never Write With AI](https://adamcaudill.com/2025/12/27/why-i-will-never-write-with-ai/?utm_source=atom_feed)
-- HAHWUL
-  - [Hello SmuggleX 👋🏼](https://www.hahwul.com/blog/2025/hello-smugglex/)
 - 奇客Solidot–传递最新科技情报
   - [Calibre 引入 AI “讨论”功能](https://www.solidot.org/story?sid=83161)
   - [在两年等待之后 FFmpeg 向瑞芯发出 DMCA 下架通知](https://www.solidot.org/story?sid=83160)
-- 黑鸟
-  - [GhidraGPT：AI 驱动的 Ghidra 插件，提升逆向工程效率](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184486&idx=1&sn=dcabcdd34d41db14ff86af341b3f23e2)
+- HAHWUL
+  - [Hello SmuggleX 👋🏼](https://www.hahwul.com/blog/2025/hello-smugglex/)
+- 看雪学苑
+  - [[强网杯S9]Qcalc赛题解析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606343&idx=1&sn=b6f12c20b41641d9812e23be0fba1ff1)
+  - [安全圈 “露脸” 机会！看雪兼职讲师团招新，技术分享=行业背书+精准圈粉](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606343&idx=2&sn=d3f6c2a4f15cec321af5113c3e6c7178)
+- 天黑说嘿话
+  - [AI应用安全攻防实录](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485894&idx=1&sn=b750d3bec8f4e1fd2b1d1fc599954400)
+- 软件安全与逆向分析
+  - [Cuttlefish安卓模拟器最新DEB包下载获取脚本](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484971&idx=1&sn=a128c2cf69e40c6fbb481a2b2c43b100)
+- 丁爸 情报分析师的工具箱
+  - [【情报实战】谷歌的数据还靠谱吗？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153443&idx=1&sn=5ab98d56832fd87d90b10fcbdaa60097)
 - 安全分析与研究
   - [疑似俄罗斯APT组织针对乌克兰发起网络钓鱼攻击活动](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495069&idx=1&sn=2497f76b28764be67726f5c6bb5b7bee)
 - 二道情报贩子
   - [短信面试邀约诈骗全过程](https://mp.weixin.qq.com/s?__biz=MzU5NTA3MTk5Ng==&mid=2247489897&idx=1&sn=7f8c2db800ecf07944a93a74cc04b54c)
-- 天黑说嘿话
-  - [AI应用安全攻防实录](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485894&idx=1&sn=b750d3bec8f4e1fd2b1d1fc599954400)
-- 安全内参
-  - [估值将超630亿元！这家数据安全独角兽是如何炼成的？](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515388&idx=1&sn=fc3f153deda189172f8332326ba9fb4d)
-- 软件安全与逆向分析
-  - [Cuttlefish安卓模拟器最新DEB包下载获取脚本](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484971&idx=1&sn=a128c2cf69e40c6fbb481a2b2c43b100)
-- 看雪学苑
-  - [[强网杯S9]Qcalc赛题解析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606343&idx=1&sn=b6f12c20b41641d9812e23be0fba1ff1)
-  - [安全圈 “露脸” 机会！看雪兼职讲师团招新，技术分享=行业背书+精准圈粉](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606343&idx=2&sn=d3f6c2a4f15cec321af5113c3e6c7178)
-- 安全圈
-  - [【安全圈】两名辅警盗用派出所副所长数字证书售卖公民信息牟利11.7万元](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073425&idx=1&sn=a211d6975a3c6dbdabb3d3e4c0a99038)
-  - [【安全圈】MongoDB 紧急提醒：立即修补可致远程代码执行的高危漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073425&idx=2&sn=4e934b9a78bf80855ef578ca18001427)
-  - [【安全圈】甲骨文 EBS 漏洞导致 350 万人信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073425&idx=3&sn=be60462d15f04b1ca6624a2b2f13fdf0)
 - 中国信息安全
   - [发布 | 国家网信办发布《国家电子政务发展报告（2014—2024年）》](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256443&idx=1&sn=108c2a6c0eea32c274eb6951bd12a400)
   - [通知 | 国家网信办就《人工智能拟人化互动服务管理暂行办法（征求意见稿）》公开征求意见](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256443&idx=2&sn=429172f11bde6af6c863f2054504536b)
@@ -62,39 +56,52 @@
   - [关注 | 国家数据局就《关于培育数据流通服务机构 加快推进数据要素市场化价值化的意见（征求意见稿）》公开征求意见](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256443&idx=4&sn=a3d840bab33cc9cb493221d8bb3b7f53)
   - [发布 | 金融监管总局发布《银行业保险业数字金融高质量发展实施方案》](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256443&idx=5&sn=4d660854872e2331f088b62172379d9b)
   - [新一批！重点防范境外恶意网址和恶意IP](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256443&idx=6&sn=59e411f0b5b8355dadb6a0a9a9c7351d)
+- 黑鸟
+  - [GhidraGPT：AI 驱动的 Ghidra 插件，提升逆向工程效率](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184486&idx=1&sn=dcabcdd34d41db14ff86af341b3f23e2)
 - 极客公园
   - [抖音推长图文功能，剑指微信公众号；Cursor CEO：AI代码恐成豆腐渣工程；新版「QQ秀」内测，支持照片生成 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653095749&idx=1&sn=4eea33ed48fca09cad50d2f521b730b3)
-- 阿里安全响应中心
-  - [先知先行——灯塔系列城市沙龙第十二场 · 南京站成功举办！](https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652998467&idx=1&sn=6e292f745d3720d7cda20731761c6049)
 - 情报分析师
   - [TikTok网红“蛇头”调查教学，开源情报三步拆穿跨境骗局](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650565197&idx=1&sn=a9b2f5790f600b13f01482ec5c1ea817)
-- 丁爸 情报分析师的工具箱
-  - [【情报实战】谷歌的数据还靠谱吗？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153443&idx=1&sn=5ab98d56832fd87d90b10fcbdaa60097)
+- 安全圈
+  - [【安全圈】两名辅警盗用派出所副所长数字证书售卖公民信息牟利11.7万元](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073425&idx=1&sn=a211d6975a3c6dbdabb3d3e4c0a99038)
+  - [【安全圈】MongoDB 紧急提醒：立即修补可致远程代码执行的高危漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073425&idx=2&sn=4e934b9a78bf80855ef578ca18001427)
+  - [【安全圈】甲骨文 EBS 漏洞导致 350 万人信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073425&idx=3&sn=be60462d15f04b1ca6624a2b2f13fdf0)
+- 迪哥讲事
+  - [某企业src实战](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498851&idx=1&sn=1b38267a519f0345906f5bcbba1d4c0a)
+- Chaos Computer Club - last 100 events feed
+  - [A post-American, enshittification-resistant internet (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1421-eng-A_post-American_enshittification-resistant_internet.mp4)
+  - [Lightning Talks - Tag 2 (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-2398-eng-Lightning_Talks_-_Tag_2.mp4)
+  - [Chaos Communication Chemistry: DNA security systems based on molecular randomness (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1493-eng-Chaos_Communication_Chemistry_DNA_security_systems_based_on_molecular_randomness.mp4)
+  - [Skynet Starter Kit: From Embodied AI Jailbreak to Remote Takeover of Humanoid Robots (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1760-eng-Skynet_Starter_Kit_From_Embodied_AI_Jailbreak_to_Remote_Takeover_of_Humanoid_Robots.mp4)
+  - [Agentic ProbLLMs: Exploiting AI Computer-Use and Coding Agents (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1306-eng-Agentic_ProbLLMs_Exploiting_AI_Computer-Use_and_Coding_Agents.mp4)
+  - [Live, Die, Repeat: The fight against data retention and boundless access to data (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-2409-eng-Live_Die_Repeat_The_fight_against_data_retention_and_boundless_access_to_data.mp4)
+  - [selbstverständlich antifaschistisch! Aktuelle Informationen zu den Verfahren im Budapest-Komplex - von family & friends Hamburg (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1849-deu-selbstverstaendlich_antifaschistisch_Aktuelle_Informationen_zu_den_Verfahren_im_Budapest-Komplex_-_von_family_friends_Hamburg.mp4)
+  - [Persist, resist, stitch (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1636-eng-Persist_resist_stitch.mp4)
+  - [Och Menno Mode: Power Cycles, Power Suit, Dresscodes WTF (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-83757-deu-Och_Menno_Mode_Power_Cycles_Power_Suit_Dresscodes_WTF_hd.mp4)
+  - ["They Talk Tech" live mit Anne Roth (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-83766-deu-They_Talk_Tech_live_mit_Anne_Roth_hd.mp4)
+  - [Digitale Inklusion: Wie wir digitale Barrierefreiheit für alle erreichen können (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1456-deu-Digitale_Inklusion_Wie_wir_digitale_Barrierefreiheit_fuer_alle_erreichen_koennen.mp4)
+  - [A space odyssey #2: How to study moon rocks from the Soviet sample return mission Luna 24 (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1445-eng-A_space_odyssey_2_How_to_study_moon_rocks_from_the_Soviet_sample_return_mission_Luna_24.mp4)
+  - [Suing spyware in Europe: news from the front! (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1792-eng-Suing_spyware_in_Europe_news_from_the_front.mp4)
+  - [Power Cycle B7 oder Warum kauft man eine Zeche? (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1899-deu-Power_Cycle_B7_oder_Warum_kauft_man_eine_Zeche.mp4)
+  - [Chaospager - How to construct an Open Pager System for c3 (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-2015-eng-Chaospager_-_How_to_construct_an_Open_Pager_System_for_c3.mp4)
+  - [Neue Chaos Events - InselChaos und Håck ma’s Castle plaudern aus dem Nähkästchen (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-2419-deu-Neue_Chaos_Events_-_InselChaos_und_Hack_mas_Castle_plaudern_aus_dem_Naehkaestchen.mp4)
+  - [Hatupangwingwi: The story how Kenyans fought back against intrusive digital identity systems (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1676-eng-Hatupangwingwi_The_story_how_Kenyans_fought_back_against_intrusive_digital_identity_systems.mp4)
+  - [Amateurfunk im All – Kontakt mit Fram2 (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1581-deu-Amateurfunk_im_All_-_Kontakt_mit_Fram2.mp4)
+- 安全内参
+  - [估值将超630亿元！这家数据安全独角兽是如何炼成的？](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515388&idx=1&sn=fc3f153deda189172f8332326ba9fb4d)
 - Over Security - Cybersecurity news aggregator
   - [Vectored Exception Handling Squared](https://fluxsec.red/vectored-exception-handling-squared-rust)
   - [Meet the team that investigates when journalists and activists get hacked with government spyware](https://techcrunch.com/2025/12/27/meet-the-team-that-investigates-when-journalists-and-activists-get-hacked-with-government-spyware/)
   - [OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ads-will-allegedly-prioritize-sponsored-content-in-answers/)
+- 阿里安全响应中心
+  - [先知先行——灯塔系列城市沙龙第十二场 · 南京站成功举办！](https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652998467&idx=1&sn=6e292f745d3720d7cda20731761c6049)
 - Have I Been Pwned latest breaches
   - [WIRED - 2,364,431 breached accounts](https://haveibeenpwned.com/Breach/WIRED)
-- Chaos Computer Club - last 100 events feed
-  - [A post-American, enshittification-resistant internet (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1421-eng-A_post-American_enshittification-resistant_internet.mp4)
-  - [Lightning Talks - Tag 2 (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-2398-eng-Lightning_Talks_-_Tag_2.mp4)
-  - [A space odyssey #2: How to study moon rocks from the Soviet sample return mission Luna 24 (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1445-eng-A_space_odyssey_2_How_to_study_moon_rocks_from_the_Soviet_sample_return_mission_Luna_24.mp4)
-  - [Och Menno Mode: Power Cycles, Power Suit, Dresscodes WTF (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-83757-deu-Och_Menno_Mode_Power_Cycles_Power_Suit_Dresscodes_WTF_hd.mp4)
-  - [Power Cycle B7 oder Warum kauft man eine Zeche? (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1899-deu-Power_Cycle_B7_oder_Warum_kauft_man_eine_Zeche.mp4)
-  - [Digitale Inklusion: Wie wir digitale Barrierefreiheit für alle erreichen können (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1456-deu-Digitale_Inklusion_Wie_wir_digitale_Barrierefreiheit_fuer_alle_erreichen_koennen.mp4)
-  - [Chaospager - How to construct an Open Pager System for c3 (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-2015-eng-Chaospager_-_How_to_construct_an_Open_Pager_System_for_c3.mp4)
-  - [Skynet Starter Kit: From Embodied AI Jailbreak to Remote Takeover of Humanoid Robots (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1760-eng-Skynet_Starter_Kit_From_Embodied_AI_Jailbreak_to_Remote_Takeover_of_Humanoid_Robots.mp4)
-  - [Neue Chaos Events - InselChaos und Håck ma’s Castle plaudern aus dem Nähkästchen (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-2419-deu-Neue_Chaos_Events_-_InselChaos_und_Hack_mas_Castle_plaudern_aus_dem_Naehkaestchen.mp4)
-  - [Agentic ProbLLMs: Exploiting AI Computer-Use and Coding Agents (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1306-eng-Agentic_ProbLLMs_Exploiting_AI_Computer-Use_and_Coding_Agents.mp4)
-  - [Hatupangwingwi: The story how Kenyans fought back against intrusive digital identity systems (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1676-eng-Hatupangwingwi_The_story_how_Kenyans_fought_back_against_intrusive_digital_identity_systems.mp4)
+- The Hacker News
+  - [New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory](https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html)
 - Security Affairs
   - [LangChain core vulnerability allows prompt injection and data exposure](https://securityaffairs.com/186185/hacking/langchain-core-vulnerability-allows-prompt-injection-and-data-exposure.html)
   - [NPM package with 56,000 downloads compromises WhatsApp accounts](https://securityaffairs.com/186174/malware/npm-package-with-56000-downloads-compromises-whatsapp-accounts.html)
-- 迪哥讲事
-  - [某企业src实战](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498851&idx=1&sn=1b38267a519f0345906f5bcbba1d4c0a)
-- The Hacker News
-  - [New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory](https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html)
 - Deeplinks
   - [Lawmakers Must Listen to Young People Before Regulating Their Internet Access: 2025 in Review](https://www.eff.org/deeplinks/2025/12/lawmakers-must-listen-young-people-regulating-their-internet-access-2025-review)
   - [From Speakeasies to DEF CON—Celebrating With EFF Members: 2025 Year In Review](https://www.eff.org/deeplinks/2025/12/speakeasies-def-con-celebrating-eff-members-2025-year-review)
