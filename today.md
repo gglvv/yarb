@@ -1,9 +1,9 @@
 # 每日安全资讯（2025-12-29）
 
-- SecWiki News
-  - [SecWiki News 2025-12-28 Review](http://www.sec-wiki.com/?2025-12-28)
 - Recent Commits to cve:main
   - [Update Sun Dec 28 11:38:43 UTC 2025](https://github.com/trickest/cve/commit/d4236428807475addb2c9fda86d87e3240f6f732)
+- SecWiki News
+  - [SecWiki News 2025-12-28 Review](http://www.sec-wiki.com/?2025-12-28)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [Wordpress (Easy Hide Login) plugin Stored XSS](https://cxsecurity.com/issue/WLB-2025120032)
   - [Birth Chart Compatibility WordPress Plugin 2.0 Full Path Disclosure](https://cxsecurity.com/issue/WLB-2025120031)
@@ -17,12 +17,12 @@
   - [隐藏 API 端点发现指南](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184491&idx=1&sn=04f45640209cf32e9cc1d0a7ce817850)
 - 威努特安全网络
   - [破解企业流量难题！威努特应用交付系统智能护航](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651139084&idx=1&sn=7db72be2728b284520fb853ba7bf0f87)
-- 二道情报贩子
-  - [育碧遭遇大规模数据泄露，近三十年游戏源代码或已失窃](https://mp.weixin.qq.com/s?__biz=MzU5NTA3MTk5Ng==&mid=2247489901&idx=1&sn=f48372aa3982bda8ebf44abc309d982a)
 - 长亭安全应急响应中心
   - [【已复现】MongoDB 未授权内存泄露漏洞（CVE-2025-14847）](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493033&idx=1&sn=153b8c986cc2a5c1992934f0b292203e)
 - 天黑说嘿话
   - [【BurpSuite插件】Xia Sql二开插件，扫描效率大幅提升，简直是安全仔的梦中神器！](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485904&idx=1&sn=4ff33be02f89b3a7055d6e7e3c9568bb)
+- 二道情报贩子
+  - [育碧遭遇大规模数据泄露，近三十年游戏源代码或已失窃](https://mp.weixin.qq.com/s?__biz=MzU5NTA3MTk5Ng==&mid=2247489901&idx=1&sn=f48372aa3982bda8ebf44abc309d982a)
 - 安全圈
   - [【安全圈】70余万条学生信息被多次贩卖！副校长买，平台工程师偷，中间还倒了几次手](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073438&idx=1&sn=8b040749b9d530d6bfdbc0b0ac1f1afb)
   - [【安全圈】暗网出现1.97TB罗技数据](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073438&idx=2&sn=463ad19dfde9b34dc3e11519b3df47f5)
@@ -33,21 +33,26 @@
 - 电子物证
   - [【图片突然损坏怎么办？】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048870&idx=1&sn=11f824a93257e0766135adbddb71dc3b)
   - [技术分享：SQL Server数据库取证技术指南](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048870&idx=2&sn=36d2457c4315cf701189f3bc0a6d7cae)
+- 表图
+  - [从豆包手机风波看通用 AI Agent 的困局与出路](https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247484947&idx=1&sn=3f34cf102ddf8d66523e9db6e96ee14b)
+- 迪哥讲事
+  - [账户接管新思路](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498858&idx=1&sn=abe538cc9d3af390726fd458300530a1)
 - Over Security - Cybersecurity news aggregator
   - [Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed](https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/)
   - [Hacker claims to leak WIRED database with 2.3 million records](https://www.bleepingcomputer.com/news/security/hacker-claims-to-leak-wired-database-with-23-million-records/)
   - [Massive Rainbow Six Siege breach gives players billions of credits](https://www.bleepingcomputer.com/news/security/massive-rainbow-six-siege-breach-gives-players-billions-of-credits/)
   - [WIRED - 2,364,431 breached accounts](https://haveibeenpwned.com/Breach/WIRED)
-- 迪哥讲事
-  - [账户接管新思路](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498858&idx=1&sn=abe538cc9d3af390726fd458300530a1)
 - IT Service Management News
   - [Bloccare l'IA dai browser](http://blog.cesaregallotti.it/2025/12/bloccare-lia-dai-browser.html)
 - Dark Space Blogspot
   - [Leggende Metropolitane Cittadine e Su Internet: Dagli Anni 80 In Poi](http://darkwhite666.blogspot.com/2025/12/leggende-metropolitane-cittadine-e-su.html)
 - Troy Hunt's Blog
   - [Weekly Update 484](https://www.troyhunt.com/weekly-update-484/)
-- 表图
-  - [从豆包手机风波看通用 AI Agent 的困局与出路](https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247484947&idx=1&sn=3f34cf102ddf8d66523e9db6e96ee14b)
+- Security Affairs
+  - [Condé Nast faces major data breach: 2.3M WIRED records leaked, 40M more at risk](https://securityaffairs.com/186224/data-breach/conde-nast-faces-major-data-breach-2-3m-wired-records-leaked-40m-more-at-risk.html)
+  - [Stolen LastPass backups enable crypto theft through 2025](https://securityaffairs.com/186191/digital-id/stolen-lastpass-backups-enable-crypto-theft-through-2025.html)
+  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 77](https://securityaffairs.com/186206/malware/security-affairs-malware-newsletter-round-76-2.html)
+  - [Security Affairs newsletter Round 556 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/186200/breaking-news/security-affairs-newsletter-round-556-by-pierluigi-paganini-international-edition.html)
 - Full Disclosure
   - [[KIS-2025-14] PKP-WAL <= 3.5.0-1 Login Cross-Site Request	Forgery Vulnerability](https://seclists.org/fulldisclosure/2025/Dec/36)
   - [[KIS-2025-13] PKP-WAL <= 3.5.0-3 (X-Forwarded-Host) LESS Code Injection Vulnerability](https://seclists.org/fulldisclosure/2025/Dec/35)
@@ -62,10 +67,5 @@
   - [Defending Encryption in the U.S. and Abroad: 2025 in Review](https://www.eff.org/deeplinks/2025/12/defending-encryption-us-and-abroad-2025-review)
 - SANS Internet Storm Center, InfoCON: green
   - [ISC Stormcast For Sunday, December 28th, 2025 https://isc.sans.edu/podcastdetail/9750, (Sun, Dec 28th)](https://isc.sans.edu/diary/rss/32590)
-- Security Affairs
-  - [Condé Nast faces major data breach: 2.3M WIRED records leaked, 40M more at risk](https://securityaffairs.com/186224/data-breach/conde-nast-faces-major-data-breach-2-3m-wired-records-leaked-40m-more-at-risk.html)
-  - [Stolen LastPass backups enable crypto theft through 2025](https://securityaffairs.com/186191/digital-id/stolen-lastpass-backups-enable-crypto-theft-through-2025.html)
-  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 77](https://securityaffairs.com/186206/malware/security-affairs-malware-newsletter-round-76-2.html)
-  - [Security Affairs newsletter Round 556 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/186200/breaking-news/security-affairs-newsletter-round-556-by-pierluigi-paganini-international-edition.html)
 - 希潭实验室
   - [第145篇：美国斯诺登棱镜门事件的技术细节揭秘：通过互联网巨头窃听全球用户数据](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247488058&idx=1&sn=38d33e418ac06feb154e8238f1c411fd)
