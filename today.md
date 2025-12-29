@@ -1,12 +1,14 @@
 # 每日安全资讯（2025-12-29）
 
+- SecWiki News
+  - [SecWiki News 2025-12-28 Review](http://www.sec-wiki.com/?2025-12-28)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [Wordpress (Easy Hide Login) plugin Stored XSS](https://cxsecurity.com/issue/WLB-2025120032)
   - [Birth Chart Compatibility WordPress Plugin 2.0 Full Path Disclosure](https://cxsecurity.com/issue/WLB-2025120031)
 - Recent Commits to cve:main
   - [Update Sun Dec 28 11:38:43 UTC 2025](https://github.com/trickest/cve/commit/d4236428807475addb2c9fda86d87e3240f6f732)
-- SecWiki News
-  - [SecWiki News 2025-12-28 Review](http://www.sec-wiki.com/?2025-12-28)
+- Reverse Engineering
+  - [[Challenge] ShinySpider - Go Ransomware Reverse Engineering](https://www.reddit.com/r/ReverseEngineering/comments/1pxxnm4/challenge_shinyspider_go_ransomware_reverse/)
 - 奇客Solidot–传递最新科技情报
   - [逾四成 GNOME Core 应用用 C 语言开发](https://www.solidot.org/story?sid=83164)
   - [YouTube 向新用户推荐的信息流逾五分之一含有 AI 垃圾](https://www.solidot.org/story?sid=83163)
@@ -19,59 +21,63 @@
   - [破解企业流量难题！威努特应用交付系统智能护航](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651139084&idx=1&sn=7db72be2728b284520fb853ba7bf0f87)
 - 二道情报贩子
   - [育碧遭遇大规模数据泄露，近三十年游戏源代码或已失窃](https://mp.weixin.qq.com/s?__biz=MzU5NTA3MTk5Ng==&mid=2247489901&idx=1&sn=f48372aa3982bda8ebf44abc309d982a)
-- 长亭安全应急响应中心
-  - [【已复现】MongoDB 未授权内存泄露漏洞（CVE-2025-14847）](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493033&idx=1&sn=153b8c986cc2a5c1992934f0b292203e)
-- 天黑说嘿话
-  - [【BurpSuite插件】Xia Sql二开插件，扫描效率大幅提升，简直是安全仔的梦中神器！](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485904&idx=1&sn=4ff33be02f89b3a7055d6e7e3c9568bb)
 - 安全圈
   - [【安全圈】70余万条学生信息被多次贩卖！副校长买，平台工程师偷，中间还倒了几次手](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073438&idx=1&sn=8b040749b9d530d6bfdbc0b0ac1f1afb)
   - [【安全圈】暗网出现1.97TB罗技数据](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073438&idx=2&sn=463ad19dfde9b34dc3e11519b3df47f5)
   - [【安全圈】Coinbase：涉 5 月客户数据泄露案的前客服人员在印度被捕](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073438&idx=3&sn=b7dfb470f9169b82520842331f12fa90)
-- 中国信息安全
-  - [第十九届全国大学生信息安全竞赛（创新实践能力赛）暨第三届 “长城杯”网数智安全大赛（防护赛）初赛成功举办](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256458&idx=1&sn=51baf097c0a8e3f0620fa31facf442bb)
 - 丁爸 情报分析师的工具箱
   - [【情报知识】战术、战役、战略情报/间*](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153454&idx=1&sn=37c7af9addd913f701dda757940a1a1a)
   - [【资料】中央情报局（CIA)与行为科学：精神控制、药物实验和MKULTRA计划](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153454&idx=2&sn=8803524fdc0f90923afadb26a25cfa05)
-- 电子物证
-  - [【图片突然损坏怎么办？】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048870&idx=1&sn=11f824a93257e0766135adbddb71dc3b)
-  - [技术分享：SQL Server数据库取证技术指南](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048870&idx=2&sn=36d2457c4315cf701189f3bc0a6d7cae)
+- 天黑说嘿话
+  - [【BurpSuite插件】Xia Sql二开插件，扫描效率大幅提升，简直是安全仔的梦中神器！](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485904&idx=1&sn=4ff33be02f89b3a7055d6e7e3c9568bb)
+- 长亭安全应急响应中心
+  - [【已复现】MongoDB 未授权内存泄露漏洞（CVE-2025-14847）](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493033&idx=1&sn=153b8c986cc2a5c1992934f0b292203e)
 - 极客公园
   - [「DD 旗舰」，零跑想要「领跑」下个 10 年的野心](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653095797&idx=1&sn=749cba98cdd44894b0ad0bf7c764160e)
   - [B 站公布「年度弹幕」；官方发「AI 替代」劳动仲裁案例；传初代彩壳 AirPods 现身 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653095767&idx=1&sn=373ef4bb65eda4ad3bc226f75099ef40)
-- 表图
-  - [从豆包手机风波看通用 AI Agent 的困局与出路](https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247484947&idx=1&sn=3f34cf102ddf8d66523e9db6e96ee14b)
+- 电子物证
+  - [【图片突然损坏怎么办？】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048870&idx=1&sn=11f824a93257e0766135adbddb71dc3b)
+  - [技术分享：SQL Server数据库取证技术指南](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048870&idx=2&sn=36d2457c4315cf701189f3bc0a6d7cae)
+- 中国信息安全
+  - [第十九届全国大学生信息安全竞赛（创新实践能力赛）暨第三届 “长城杯”网数智安全大赛（防护赛）初赛成功举办](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256458&idx=1&sn=51baf097c0a8e3f0620fa31facf442bb)
 - Over Security - Cybersecurity news aggregator
   - [Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed](https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/)
   - [Hacker claims to leak WIRED database with 2.3 million records](https://www.bleepingcomputer.com/news/security/hacker-claims-to-leak-wired-database-with-23-million-records/)
   - [Massive Rainbow Six Siege breach gives players billions of credits](https://www.bleepingcomputer.com/news/security/massive-rainbow-six-siege-breach-gives-players-billions-of-credits/)
   - [WIRED - 2,364,431 breached accounts](https://haveibeenpwned.com/Breach/WIRED)
+- 表图
+  - [从豆包手机风波看通用 AI Agent 的困局与出路](https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247484947&idx=1&sn=3f34cf102ddf8d66523e9db6e96ee14b)
+- IT Service Management News
+  - [Bloccare l'IA dai browser](http://blog.cesaregallotti.it/2025/12/bloccare-lia-dai-browser.html)
 - Chaos Computer Club - last 100 events feed
+  - [Lightning Talks - Tag 3 (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-2399-deu-Lightning_Talks_-_Tag_3.mp4)
+  - [Shit for Future: turning human shit into a climate solution (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1631-eng-Shit_for_Future_turning_human_shit_into_a_climate_solution.mp4)
+  - [Programmierte Kriegsverbrechen? Über KI-Systeme im Kriegseinsatz in Gaza und warum IT-Fachleute sich dazu äußern müssen (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-2123-deu-Programmierte_Kriegsverbrechen_Ueber_KI-Systeme_im_Kriegseinsatz_in_Gaza_und_warum_IT-Fachleute_sich_dazu_aeussern_muessen.mp4)
+  - [Learning from South Korean Telco Breaches (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1743-eng-Learning_from_South_Korean_Telco_Breaches.mp4)
   - [Wer hat Angst vor dem Neutralitätsgebot? (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-2199-deu-Wer_hat_Angst_vor_dem_Neutralitaetsgebot.mp4)
+  - [APT Down and the mystery of the burning data centers (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1492-eng-APT_Down_and_the_mystery_of_the_burning_data_centers.mp4)
+  - [Design for 3D-Printing (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-2250-eng-Design_for_3D-Printing.mp4)
+  - [Omnibus Halbgarer Machenschaften (OHM #23) (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-83813-deu-Omnibus_Halbgarer_Machenschaften_OHM_23_hd.mp4)
+  - [Och Menno X Disconnected Unexpected : Elbonian Incident Response : Wie reagiere ich falsch (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-83775-deu-Och_Menno_X_Disconnected_Unexpected_Elbonian_Incident_Response_Wie_reagiere_ich_falsch_hd.mp4)
+  - [Supplements und Social Media – wenn der Online-Hype zur realen Gesundheitsgefahr wird (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1504-deu-Supplements_und_Social_Media_-_wenn_der_Online-Hype_zur_realen_Gesundheitsgefahr_wird.mp4)
+  - [Von wegen Eisblumen! Wie man mit Code, Satelliten und Schiffsexpeditionen die bunte Welt des arktischen Phytoplanktons sichtbar macht (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1902-deu-Von_wegen_Eisblumen_Wie_man_mit_Code_Satelliten_und_Schiffsexpeditionen_die_bunte_Welt_des_arktischen_Phytoplanktons_sichtbar_macht.mp4)
+  - [Greenhouse Gas Emission Data: Public, difficult to access, and not always correct (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-2172-eng-Greenhouse_Gas_Emission_Data_Public_difficult_to_access_and_not_always_correct.mp4)
+  - [Celestial navigation with very little math (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1375-eng-Celestial_navigation_with_very_little_math.mp4)
+  - [What Makes Bike-Sharing Work? Insights from 43 Million Kilometers of European Cycling Data (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1809-eng-What_Makes_Bike-Sharing_Work_Insights_from_43_Million_Kilometers_of_European_Cycling_Data.mp4)
+  - [Teckids – eine verstehbare (digitale) Welt (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1891-deu-Teckids_-_eine_verstehbare_digitale_Welt.mp4)
+  - [Gegenmacht - Best of Informationsfreiheit (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1207-deu-Gegenmacht_-_Best_of_Informationsfreiheit.mp4)
+  - [Set-top box Hacking: freeing the 'Freebox' (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-2122-eng-Set-top_box_Hacking_freeing_the_Freebox.mp4)
   - [BE Modded: Exploring and hacking the Vital Bracelet ecosystem (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1641-eng-BE_Modded_Exploring_and_hacking_the_Vital_Bracelet_ecosystem.mp4)
   - [When 8 Bits is Overkill: Making Blinkenlights with a 1-bit CPU (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1601-eng-When_8_Bits_is_Overkill_Making_Blinkenlights_with_a_1-bit_CPU.mp4)
-  - [Lightning Talks - Tag 3 (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-2399-deu-Lightning_Talks_-_Tag_3.mp4)
-  - [Celestial navigation with very little math (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1375-eng-Celestial_navigation_with_very_little_math.mp4)
-  - [Learning from South Korean Telco Breaches (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1743-eng-Learning_from_South_Korean_Telco_Breaches.mp4)
-  - [APT Down and the mystery of the burning data centers (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1492-eng-APT_Down_and_the_mystery_of_the_burning_data_centers.mp4)
-  - [Shit for Future: turning human shit into a climate solution (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1631-eng-Shit_for_Future_turning_human_shit_into_a_climate_solution.mp4)
-  - [Supplements und Social Media – wenn der Online-Hype zur realen Gesundheitsgefahr wird (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1504-deu-Supplements_und_Social_Media_-_wenn_der_Online-Hype_zur_realen_Gesundheitsgefahr_wird.mp4)
-  - [Och Menno X Disconnected Unexpected : Elbonian Incident Response : Wie reagiere ich falsch (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-83775-deu-Och_Menno_X_Disconnected_Unexpected_Elbonian_Incident_Response_Wie_reagiere_ich_falsch_hd.mp4)
-  - [Programmierte Kriegsverbrechen? Über KI-Systeme im Kriegseinsatz in Gaza und warum IT-Fachleute sich dazu äußern müssen (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-2123-deu-Programmierte_Kriegsverbrechen_Ueber_KI-Systeme_im_Kriegseinsatz_in_Gaza_und_warum_IT-Fachleute_sich_dazu_aeussern_muessen.mp4)
-  - [Greenhouse Gas Emission Data: Public, difficult to access, and not always correct (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-2172-eng-Greenhouse_Gas_Emission_Data_Public_difficult_to_access_and_not_always_correct.mp4)
-  - [Gegenmacht - Best of Informationsfreiheit (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1207-deu-Gegenmacht_-_Best_of_Informationsfreiheit.mp4)
-  - [Teckids – eine verstehbare (digitale) Welt (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1891-deu-Teckids_-_eine_verstehbare_digitale_Welt.mp4)
-  - [What Makes Bike-Sharing Work? Insights from 43 Million Kilometers of European Cycling Data (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1809-eng-What_Makes_Bike-Sharing_Work_Insights_from_43_Million_Kilometers_of_European_Cycling_Data.mp4)
-  - [Design for 3D-Printing (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-2250-eng-Design_for_3D-Printing.mp4)
-  - [Watch Your Kids: Inside a Children's Smartwatch (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1295-eng-Watch_Your_Kids_Inside_a_Childrens_Smartwatch.mp4)
-  - [Omnibus Halbgarer Machenschaften (OHM #23) (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-83813-deu-Omnibus_Halbgarer_Machenschaften_OHM_23_hd.mp4)
-  - [a media-almost-archaeology on data that is too dirty for "AI" (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1798-eng-a_media-almost-archaeology_on_data_that_is_too_dirty_for_AI.mp4)
   - [The Last of Us -  Fighting the EU Surveillance Law Apocalypse (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1730-eng-The_Last_of_Us_-_Fighting_the_EU_Surveillance_Law_Apocalypse.mp4)
-  - [Von wegen Eisblumen! Wie man mit Code, Satelliten und Schiffsexpeditionen die bunte Welt des arktischen Phytoplanktons sichtbar macht (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1902-deu-Von_wegen_Eisblumen_Wie_man_mit_Code_Satelliten_und_Schiffsexpeditionen_die_bunte_Welt_des_arktischen_Phytoplanktons_sichtbar_macht.mp4)
-  - [Set-top box Hacking: freeing the 'Freebox' (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-2122-eng-Set-top_box_Hacking_freeing_the_Freebox.mp4)
+  - [a media-almost-archaeology on data that is too dirty for "AI" (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1798-eng-a_media-almost-archaeology_on_data_that_is_too_dirty_for_AI.mp4)
+  - [Watch Your Kids: Inside a Children's Smartwatch (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-1295-eng-Watch_Your_Kids_Inside_a_Childrens_Smartwatch.mp4)
 - 迪哥讲事
   - [账户接管新思路](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498858&idx=1&sn=abe538cc9d3af390726fd458300530a1)
 - SANS Internet Storm Center, InfoCON: green
   - [ISC Stormcast For Sunday, December 28th, 2025 https://isc.sans.edu/podcastdetail/9750, (Sun, Dec 28th)](https://isc.sans.edu/diary/rss/32590)
+- Troy Hunt's Blog
+  - [Weekly Update 484](https://www.troyhunt.com/weekly-update-484/)
 - Dark Space Blogspot
   - [Leggende Metropolitane Cittadine e Su Internet: Dagli Anni 80 In Poi](http://darkwhite666.blogspot.com/2025/12/leggende-metropolitane-cittadine-e-su.html)
 - Full Disclosure
@@ -82,15 +88,27 @@
   - [[KIS-2025-10] PKP-WAL <= 3.5.0-1 (Institution Collector) SQL Injection Vulnerability](https://seclists.org/fulldisclosure/2025/Dec/32)
   - [Backdoor.Win32.Poison.jh / Insecure Permissions](https://seclists.org/fulldisclosure/2025/Dec/31)
   - [Backdoor.Win32.Netbus.170 / Insecure Credential Storage /	MVID-2025-0703](https://seclists.org/fulldisclosure/2025/Dec/30)
-- IT Service Management News
-  - [Bloccare l'IA dai browser](http://blog.cesaregallotti.it/2025/12/bloccare-lia-dai-browser.html)
-- Troy Hunt's Blog
-  - [Weekly Update 484](https://www.troyhunt.com/weekly-update-484/)
 - Security Affairs
   - [Condé Nast faces major data breach: 2.3M WIRED records leaked, 40M more at risk](https://securityaffairs.com/186224/data-breach/conde-nast-faces-major-data-breach-2-3m-wired-records-leaked-40m-more-at-risk.html)
   - [Stolen LastPass backups enable crypto theft through 2025](https://securityaffairs.com/186191/digital-id/stolen-lastpass-backups-enable-crypto-theft-through-2025.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 77](https://securityaffairs.com/186206/malware/security-affairs-malware-newsletter-round-76-2.html)
   - [Security Affairs newsletter Round 556 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/186200/breaking-news/security-affairs-newsletter-round-556-by-pierluigi-paganini-international-edition.html)
+- Computer Forensics
+  - [Help with CyberChef decoding challenge 10 (CTF)](https://www.reddit.com/r/computerforensics/comments/1pxo7u0/help_with_cyberchef_decoding_challenge_10_ctf/)
+- Social Engineering
+  - [When does restraint increase leverage, and when does it backfire?](https://www.reddit.com/r/SocialEngineering/comments/1pxrii9/when_does_restraint_increase_leverage_and_when/)
+- Your Open Hacker Community
+  - [what are the networking concepts that essential for ethical hacking/cybersecurity?](https://www.reddit.com/r/HowToHack/comments/1pxog8k/what_are_the_networking_concepts_that_essential/)
+  - [Hardware I should look out for?](https://www.reddit.com/r/HowToHack/comments/1pxerwr/hardware_i_should_look_out_for/)
+- Blackhat Library: Hacking techniques and research
+  - [How do I use leakrus (telegram) effectively?](https://www.reddit.com/r/blackhat/comments/1pxuzml/how_do_i_use_leakrus_telegram_effectively/)
+- Deep Web
+  - [How do I access the dark web?](https://www.reddit.com/r/deepweb/comments/1pxl2ju/how_do_i_access_the_dark_web/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [Analyzing decentralized VPNs from a network security perspective, how should students approach this?](https://www.reddit.com/r/netsecstudents/comments/1pxy7tx/analyzing_decentralized_vpns_from_a_network/)
+  - [Should I consider my PC unsafe to use?](https://www.reddit.com/r/netsecstudents/comments/1py4lgb/should_i_consider_my_pc_unsafe_to_use/)
+  - [Question about documenting and addressing suspected coordinated online harassment](https://www.reddit.com/r/netsecstudents/comments/1pxwv8b/question_about_documenting_and_addressing/)
+  - [Help mee!!](https://www.reddit.com/r/netsecstudents/comments/1pxvsra/help_mee/)
 - Deeplinks
   - [EFFector Audio Speaks Up for Our Rights: 2025 Year in Review](https://www.eff.org/deeplinks/2025/12/effector-audio-speaks-our-rights-2025-year-review)
   - [Procurement Power—When Cities Realized They Can Just Say No: 2025 in Review](https://www.eff.org/deeplinks/2025/12/procurement-power-when-cities-realized-they-can-just-say-no-2025-review)
