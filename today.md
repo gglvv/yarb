@@ -2,11 +2,11 @@
 
 - SecWiki News
   - [SecWiki News 2025-12-28 Review](http://www.sec-wiki.com/?2025-12-28)
+- Recent Commits to cve:main
+  - [Update Sun Dec 28 11:38:43 UTC 2025](https://github.com/trickest/cve/commit/d4236428807475addb2c9fda86d87e3240f6f732)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [Wordpress (Easy Hide Login) plugin Stored XSS](https://cxsecurity.com/issue/WLB-2025120032)
   - [Birth Chart Compatibility WordPress Plugin 2.0 Full Path Disclosure](https://cxsecurity.com/issue/WLB-2025120031)
-- Recent Commits to cve:main
-  - [Update Sun Dec 28 11:38:43 UTC 2025](https://github.com/trickest/cve/commit/d4236428807475addb2c9fda86d87e3240f6f732)
 - 奇客Solidot–传递最新科技情报
   - [逾四成 GNOME Core 应用用 C 语言开发](https://www.solidot.org/story?sid=83164)
   - [YouTube 向新用户推荐的信息流逾五分之一含有 AI 垃圾](https://www.solidot.org/story?sid=83163)
@@ -27,6 +27,8 @@
   - [【安全圈】70余万条学生信息被多次贩卖！副校长买，平台工程师偷，中间还倒了几次手](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073438&idx=1&sn=8b040749b9d530d6bfdbc0b0ac1f1afb)
   - [【安全圈】暗网出现1.97TB罗技数据](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073438&idx=2&sn=463ad19dfde9b34dc3e11519b3df47f5)
   - [【安全圈】Coinbase：涉 5 月客户数据泄露案的前客服人员在印度被捕](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073438&idx=3&sn=b7dfb470f9169b82520842331f12fa90)
+- 中国信息安全
+  - [第十九届全国大学生信息安全竞赛（创新实践能力赛）暨第三届 “长城杯”网数智安全大赛（防护赛）初赛成功举办](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256458&idx=1&sn=51baf097c0a8e3f0620fa31facf442bb)
 - 电子物证
   - [【图片突然损坏怎么办？】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048870&idx=1&sn=11f824a93257e0766135adbddb71dc3b)
   - [技术分享：SQL Server数据库取证技术指南](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048870&idx=2&sn=36d2457c4315cf701189f3bc0a6d7cae)
@@ -35,21 +37,26 @@
   - [B 站公布「年度弹幕」；官方发「AI 替代」劳动仲裁案例；传初代彩壳 AirPods 现身 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653095767&idx=1&sn=373ef4bb65eda4ad3bc226f75099ef40)
 - 表图
   - [从豆包手机风波看通用 AI Agent 的困局与出路](https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247484947&idx=1&sn=3f34cf102ddf8d66523e9db6e96ee14b)
+- IT Service Management News
+  - [Bloccare l'IA dai browser](http://blog.cesaregallotti.it/2025/12/bloccare-lia-dai-browser.html)
+- Chaos Computer Club - last 100 events feed
+  - [Greenhouse Gas Emission Data: Public, difficult to access, and not always correct (39c3)](https://cdn.media.ccc.de/congress/2025/h264-hd/39c3-2172-eng-Greenhouse_Gas_Emission_Data_Public_difficult_to_access_and_not_always_correct.mp4)
+- 迪哥讲事
+  - [账户接管新思路](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498858&idx=1&sn=abe538cc9d3af390726fd458300530a1)
 - Over Security - Cybersecurity news aggregator
   - [Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed](https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/)
   - [Hacker claims to leak WIRED database with 2.3 million records](https://www.bleepingcomputer.com/news/security/hacker-claims-to-leak-wired-database-with-23-million-records/)
   - [Massive Rainbow Six Siege breach gives players billions of credits](https://www.bleepingcomputer.com/news/security/massive-rainbow-six-siege-breach-gives-players-billions-of-credits/)
   - [WIRED - 2,364,431 breached accounts](https://haveibeenpwned.com/Breach/WIRED)
-- 迪哥讲事
-  - [账户接管新思路](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498858&idx=1&sn=abe538cc9d3af390726fd458300530a1)
-- IT Service Management News
-  - [Bloccare l'IA dai browser](http://blog.cesaregallotti.it/2025/12/bloccare-lia-dai-browser.html)
 - SANS Internet Storm Center, InfoCON: green
   - [ISC Stormcast For Sunday, December 28th, 2025 https://isc.sans.edu/podcastdetail/9750, (Sun, Dec 28th)](https://isc.sans.edu/diary/rss/32590)
-- Troy Hunt's Blog
-  - [Weekly Update 484](https://www.troyhunt.com/weekly-update-484/)
 - Dark Space Blogspot
   - [Leggende Metropolitane Cittadine e Su Internet: Dagli Anni 80 In Poi](http://darkwhite666.blogspot.com/2025/12/leggende-metropolitane-cittadine-e-su.html)
+- Security Affairs
+  - [Condé Nast faces major data breach: 2.3M WIRED records leaked, 40M more at risk](https://securityaffairs.com/186224/data-breach/conde-nast-faces-major-data-breach-2-3m-wired-records-leaked-40m-more-at-risk.html)
+  - [Stolen LastPass backups enable crypto theft through 2025](https://securityaffairs.com/186191/digital-id/stolen-lastpass-backups-enable-crypto-theft-through-2025.html)
+  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 77](https://securityaffairs.com/186206/malware/security-affairs-malware-newsletter-round-76-2.html)
+  - [Security Affairs newsletter Round 556 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/186200/breaking-news/security-affairs-newsletter-round-556-by-pierluigi-paganini-international-edition.html)
 - Full Disclosure
   - [[KIS-2025-14] PKP-WAL <= 3.5.0-1 Login Cross-Site Request	Forgery Vulnerability](https://seclists.org/fulldisclosure/2025/Dec/36)
   - [[KIS-2025-13] PKP-WAL <= 3.5.0-3 (X-Forwarded-Host) LESS Code Injection Vulnerability](https://seclists.org/fulldisclosure/2025/Dec/35)
@@ -58,14 +65,11 @@
   - [[KIS-2025-10] PKP-WAL <= 3.5.0-1 (Institution Collector) SQL Injection Vulnerability](https://seclists.org/fulldisclosure/2025/Dec/32)
   - [Backdoor.Win32.Poison.jh / Insecure Permissions](https://seclists.org/fulldisclosure/2025/Dec/31)
   - [Backdoor.Win32.Netbus.170 / Insecure Credential Storage /	MVID-2025-0703](https://seclists.org/fulldisclosure/2025/Dec/30)
-- Security Affairs
-  - [Condé Nast faces major data breach: 2.3M WIRED records leaked, 40M more at risk](https://securityaffairs.com/186224/data-breach/conde-nast-faces-major-data-breach-2-3m-wired-records-leaked-40m-more-at-risk.html)
-  - [Stolen LastPass backups enable crypto theft through 2025](https://securityaffairs.com/186191/digital-id/stolen-lastpass-backups-enable-crypto-theft-through-2025.html)
-  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 77](https://securityaffairs.com/186206/malware/security-affairs-malware-newsletter-round-76-2.html)
-  - [Security Affairs newsletter Round 556 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/186200/breaking-news/security-affairs-newsletter-round-556-by-pierluigi-paganini-international-edition.html)
 - Deeplinks
   - [EFFector Audio Speaks Up for Our Rights: 2025 Year in Review](https://www.eff.org/deeplinks/2025/12/effector-audio-speaks-our-rights-2025-year-review)
   - [Procurement Power—When Cities Realized They Can Just Say No: 2025 in Review](https://www.eff.org/deeplinks/2025/12/procurement-power-when-cities-realized-they-can-just-say-no-2025-review)
   - [Defending Encryption in the U.S. and Abroad: 2025 in Review](https://www.eff.org/deeplinks/2025/12/defending-encryption-us-and-abroad-2025-review)
+- Troy Hunt's Blog
+  - [Weekly Update 484](https://www.troyhunt.com/weekly-update-484/)
 - 希潭实验室
   - [第145篇：美国斯诺登棱镜门事件的技术细节揭秘：通过互联网巨头窃听全球用户数据](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247488058&idx=1&sn=38d33e418ac06feb154e8238f1c411fd)
