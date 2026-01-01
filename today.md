@@ -1,19 +1,19 @@
 # 每日安全资讯（2026-01-01）
 
-- Taxodium
-  - [Album#19 - New Year's Eve](https://taxodium.ink/album-19.html)
-- Recent Commits to cve:main
-  - [Update Wed Dec 31 11:29:47 UTC 2025](https://github.com/trickest/cve/commit/6e37a12a7e03f6eb04820769aef685e393a84ba4)
+- SecWiki News
+  - [SecWiki News 2025-12-31 Review](http://www.sec-wiki.com/?2025-12-31)
+- 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
+  - [MongoBleed高危漏洞遭在野利用 8万台MongoDB服务器暴露风险](https://www.4hou.com/posts/OGNB)
+  - [丈八网安完成数千万元B+轮融资：聚焦AI+网络仿真，加速产品智能化升级与区域布局](https://www.4hou.com/posts/VWXB)
 - 安全客-有思想的安全新媒体
   - [iOS安全开发中的Frida检测](https://www.anquanke.com/post/id/314115)
 - paper - Last paper
   - [面向软件供应链安全自主防御的智能体人工智能：从溯源到漏洞缓解的进阶之路](https://paper.seebug.org/3443/)
   - [使用 AI 辅助 fuzz 实战记录](https://paper.seebug.org/3442/)
-- 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
-  - [MongoBleed高危漏洞遭在野利用 8万台MongoDB服务器暴露风险](https://www.4hou.com/posts/OGNB)
-  - [丈八网安完成数千万元B+轮融资：聚焦AI+网络仿真，加速产品智能化升级与区域布局](https://www.4hou.com/posts/VWXB)
-- SecWiki News
-  - [SecWiki News 2025-12-31 Review](http://www.sec-wiki.com/?2025-12-31)
+- Taxodium
+  - [Album#19 - New Year's Eve](https://taxodium.ink/album-19.html)
+- Recent Commits to cve:main
+  - [Update Wed Dec 31 11:29:47 UTC 2025](https://github.com/trickest/cve/commit/6e37a12a7e03f6eb04820769aef685e393a84ba4)
 - MaskRay
   - [2025年总结](https://maskray.me/blog/2025-12-31-summary)
 - CTFするぞ
@@ -27,10 +27,10 @@
   - [2025-12-30: Lumma Stealer infection with follow-up malware](https://www.malware-traffic-analysis.net/2025/12/30/index.html)
 - Malwarebytes
   - [In 2025, age checks started locking people out of the internet](https://www.malwarebytes.com/blog/news/2025/12/in-2025-age-checks-started-locking-people-out-of-the-internet)
-- 明天的乌云
-  - [时间过得既快又慢](https://blog.xlab.app/p/606eb4ce/)
 - rtl-sdr.com
   - [The Thought Emporium Explores IMSI Cell Phone Tracking and Other Advanced Cell Phone Attacks with Software Defined Radios](https://www.rtl-sdr.com/the-thought-emporium-explores-imsi-cell-phone-tracking-and-other-advanced-cell-phone-attacks-with-software-defined-radios/)
+- 明天的乌云
+  - [时间过得既快又慢](https://blog.xlab.app/p/606eb4ce/)
 - 奇客Solidot–传递最新科技情报
   - [外国科技从业者正在避开美国](https://www.solidot.org/story?sid=83192)
   - [以色列部署无人机激光防御系统](https://www.solidot.org/story?sid=83191)
@@ -49,18 +49,18 @@
   - [勒索软件事件响应人员承认利用 “阿尔法 HV” 攻击美国机构](https://hackernews.cc/archives/62095)
   - [银狐黑客组织借税务主题钓鱼邮件，针对印度用户投放远程控制木马](https://hackernews.cc/archives/62090)
   - [欧洲航天局证实其企业外网服务器遭入侵](https://hackernews.cc/archives/62087)
-- Shostack & Friends Blog
-  - [A few thoughts closing out 2025](https://shostack.org/blog/a-few-thoughts-closing-2025/)
-- 安全分析与研究
-  - [2025年度总结](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495290&idx=1&sn=211702d9447517d0d62bf6e637accc5e)
-- 腾讯玄武实验室
-  - [每日安全动态推送(25/12/31)](https://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&mid=2651960340&idx=1&sn=2a58da275f64b4fba81a3e233af31748)
 - Posts on 青鸟的博客
   - [2025 年度总结](https://blue-bird1.github.io/posts/2025-end/)
+- 安全分析与研究
+  - [2025年度总结](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495290&idx=1&sn=211702d9447517d0d62bf6e637accc5e)
+- Shostack & Friends Blog
+  - [A few thoughts closing out 2025](https://shostack.org/blog/a-few-thoughts-closing-2025/)
+- 腾讯玄武实验室
+  - [每日安全动态推送(25/12/31)](https://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&mid=2651960340&idx=1&sn=2a58da275f64b4fba81a3e233af31748)
 - 雷神众测
   - [雷神众测漏洞周报2025.12.22-2025.12.28](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503655&idx=1&sn=857eb870488d1f649d19455fefa34e04)
-- 青衣十三楼飞花堂
-  - [女科学家的2025](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488906&idx=1&sn=e61df7f2e0bcf86ab4b43b9d73d68ec6)
+- 白帽100安全攻防实验室
+  - [白帽一百2025年终总结](https://mp.weixin.qq.com/s?__biz=MzIxMDYyNTk3Nw==&mid=2247515441&idx=1&sn=f8bdacb6ccdd84259aecdb58e88736e3)
 - 代码卫士
   - [欧洲空间局证实“外部服务器”遭攻陷](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524774&idx=1&sn=b7f1ee58a6471570b261a95d96541d42)
   - [WIRED 数据库疑似被盗，230万条订阅者记录遭泄露](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524774&idx=2&sn=6ffc0b0026f86cbffe963679d104cc4f)
@@ -68,19 +68,17 @@
   - [【PC样本分析】VT0检测样本分析(一)](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143289&idx=1&sn=d5a6484ae6f22e385ead09ce82f5d087)
 - 安全客
   - [吉马迎祥气，神州庆太平](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789584&idx=1&sn=9b5a7c65ccd3651be7bc6dc5c664ca76)
-- 白帽100安全攻防实验室
-  - [白帽一百2025年终总结](https://mp.weixin.qq.com/s?__biz=MzIxMDYyNTk3Nw==&mid=2247515441&idx=1&sn=f8bdacb6ccdd84259aecdb58e88736e3)
 - 虎符智库
   - [智能狂奔遇上安全掉队：2025年AI安全十大事件深度盘点](https://mp.weixin.qq.com/s?__biz=MzIwNjYwMTMyNQ==&mid=2247493647&idx=1&sn=a3b0aa1d702c2dcd61e02b20fd73e9dc)
-- 青山青吖
-  - [【课堂】3929开启的上涨复盘及后续调整分析【20251230】 | 黄金](https://mp.weixin.qq.com/s?__biz=MzI5NzAzMDg0NA==&mid=2650698608&idx=1&sn=6430c46d4c1a0da783b3180161a11204)
 - 安全内参
   - [火电龙头企业遭勒索软件攻击，IT基础设施全部瘫痪](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515410&idx=1&sn=731bbc67eb1a9e0292bbe6cad175c307)
   - [智能狂奔遇上安全掉队：2025年AI安全十大事件深度盘点](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515410&idx=2&sn=96554722be2c90a167cfdae796c00dcf)
+- 青山青吖
+  - [【课堂】3929开启的上涨复盘及后续调整分析【20251230】 | 黄金](https://mp.weixin.qq.com/s?__biz=MzI5NzAzMDg0NA==&mid=2650698608&idx=1&sn=6430c46d4c1a0da783b3180161a11204)
+- 青衣十三楼飞花堂
+  - [女科学家的2025](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488906&idx=1&sn=e61df7f2e0bcf86ab4b43b9d73d68ec6)
 - 天黑说嘿话
   - [安服仔如何优雅地“避祸”？](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485931&idx=1&sn=9ed4226c37097634fb91326c4a753268)
-- 奇安信 CERT
-  - [【已复现】RustFS gRPC 身份认证绕过漏洞(CVE-2025-68926)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504410&idx=1&sn=0d7e1c182d22de87183f283e2db41c8d)
 - 看雪学苑
   - [量子安全 quantum ctf Global Hyperlink Zone Hack the box](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606863&idx=1&sn=01fd80bfa67b7c7b26254022f0d11e81)
   - [攻击者仿冒Jackson JSON库入侵Maven Central，发起定向投毒攻击](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606863&idx=2&sn=0fcd1f204ed1096afd67047e906f45b3)
@@ -89,34 +87,39 @@
   - [2026 AI Agent 的核心：Context Engineering，让环境可计算化](https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484466&idx=1&sn=e65765298da167e80bb0cf7f63cf34ce)
 - 安全学术圈
   - [西安电子科技大学 | GNNDroid：基于图学习的含原生代码安卓应用恶意软件检测](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494661&idx=1&sn=871eb90aa953e064080eef2ecfe4f136)
+- 数世咨询
+  - [数世咨询：2025年度中国数字安全价值图谱（12月更新）](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541319&idx=1&sn=387d233df1f5d123ba1adcc31b39326a)
 - 安全研究GoSSIP
   - [G.O.S.S.I.P 阅读推荐 2025-12-31 Breaking the Bulkhead](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501218&idx=1&sn=affe636767a5d79915e1163fc7923874)
 - 默安科技
   - [前方到站2026！一起探险AI安全新时代！](https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247501518&idx=1&sn=ed8a37a6e4ffd648adc833f03e867bc1)
-- 数世咨询
-  - [数世咨询：2025年度中国数字安全价值图谱（12月更新）](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541319&idx=1&sn=387d233df1f5d123ba1adcc31b39326a)
-- 君哥的体历
-  - [安全运营实践与DNS应急容灾策略探讨｜总第305周](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492326&idx=1&sn=ff5875e19a62d5188720db5bc4faf75c)
 - 中国信息安全
   - [视频+全文 | 国家主席习近平发表二〇二六年新年贺词](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256776&idx=1&sn=39f565daea744f4cc23393f522b474fb)
-- 安全牛
-  - [2026网络安全趋势研判：从被动防护到智能对抗的体系跃迁](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139924&idx=1&sn=cdb229ed047a9871e3cdbf70b1c0c81b)
-- 微步在线
-  - [用电影回顾网安人的2025，你能认出几部？](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650185357&idx=1&sn=d79302ffa36214058f4ce5559c456d5d)
+- 安全圈
+  - [【安全圈】蓝牙芯片供应链重大漏洞披露：数亿设备面临「耳机劫持」风险](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073493&idx=1&sn=99d83b30da4e7086118f985c334a167c)
+  - [【安全圈】欧洲航天局确认外部服务器遭入侵](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073493&idx=2&sn=94b0a7707766a5aecf7c377b059f87c7)
+  - [【安全圈】攻击者伪造Jackson JSON库入侵Maven中央仓库](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073493&idx=3&sn=d34cafc08d612449c11b0e0b3049b71f)
+  - [【安全圈】前网络安全专家监守自盗：利用勒索软件攻击美国企业并索要千万美元赎金，面临最高 20 年监禁](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073493&idx=4&sn=22080a8ab04a8b5ff17e939e0992168c)
+- 网安杂谈
+  - [2025再见，2026你好！](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889870&idx=1&sn=be3bbb8fdda1a58aa61c72290bc3d741)
 - 丁爸 情报分析师的工具箱
   - [【年终汇总】2025年丁爸情报分析师工具箱文章汇总](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153483&idx=1&sn=cf9cee90492f95f64684927c98bfdb24)
   - [【地理空间情报】台军应对我演习多地出动陆基反舰导弹](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153483&idx=2&sn=eacf3b2e422c20dfbdbb6167939a420b)
-- Tide安全团队
-  - [新潮信息-Tide安全团队2025年度总结](https://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247521907&idx=1&sn=78131ef54c78ef1c361b9b7570afcb53)
-- 网安杂谈
-  - [2025再见，2026你好！](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889870&idx=1&sn=be3bbb8fdda1a58aa61c72290bc3d741)
-- 复旦白泽战队
-  - [步履不停，创新不止 | 复旦白泽2025年度报告](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247497257&idx=1&sn=f42afe5b3e10609e9b6214dbbd313fec)
-- 情报分析师
-  - [【不是预言者，而是记录者】情报分析师2025年全球安全风云中的情报足迹](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650565424&idx=1&sn=35d6b437e291fa248ce04ced29e25a40)
+- 安全牛
+  - [2026网络安全趋势研判：从被动防护到智能对抗的体系跃迁](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139924&idx=1&sn=cdb229ed047a9871e3cdbf70b1c0c81b)
+- 君哥的体历
+  - [安全运营实践与DNS应急容灾策略探讨｜总第305周](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492326&idx=1&sn=ff5875e19a62d5188720db5bc4faf75c)
+- 微步在线
+  - [用电影回顾网安人的2025，你能认出几部？](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650185357&idx=1&sn=d79302ffa36214058f4ce5559c456d5d)
 - 极客公园
   - [罗永浩为什么要「吃力不讨好」的搞这场科技春晚？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653096050&idx=1&sn=8cac0ea77b4bae431b138778a8770f06)
   - [罗永浩「科技春晚」落幕，166万收入全捐出；雷军今晚直播将现场「拆车」；中国汽车销量超越日本 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653096001&idx=1&sn=fae243dfc3dfd7d18fd6252501651795)
+- Tide安全团队
+  - [新潮信息-Tide安全团队2025年度总结](https://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247521907&idx=1&sn=78131ef54c78ef1c361b9b7570afcb53)
+- 复旦白泽战队
+  - [步履不停，创新不止 | 复旦白泽2025年度报告](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247497257&idx=1&sn=f42afe5b3e10609e9b6214dbbd313fec)
+- 奇安信 CERT
+  - [【已复现】RustFS gRPC 身份认证绕过漏洞(CVE-2025-68926)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504410&idx=1&sn=0d7e1c182d22de87183f283e2db41c8d)
 - 嘶吼专业版
   - [丈八网安完成数千万元B+轮融资：聚焦AI+网络仿真，加速产品智能化升级与区域布局](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586144&idx=1&sn=6e6ffd6687d2ab4c52e2d69ced83b0aa)
   - [MongoBleed高危漏洞遭在野利用 8万台MongoDB服务器暴露风险](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586144&idx=2&sn=82369bded59acf2efd43574195ee052b)
@@ -125,13 +128,10 @@
   - [元旦期间，火绒将持续为您保驾护航~](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247529745&idx=2&sn=d6360b26aef62f3cb542258f550b292a)
   - [火绒小问答 ——「个人版」功能使用类top问题解答](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247529745&idx=3&sn=2e273912de077bc558017b52be8c6760)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247529745&idx=4&sn=848a688b0c08bb66f37a6f209a1e37d8)
-- 安全圈
-  - [【安全圈】蓝牙芯片供应链重大漏洞披露：数亿设备面临「耳机劫持」风险](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073493&idx=1&sn=99d83b30da4e7086118f985c334a167c)
-  - [【安全圈】欧洲航天局确认外部服务器遭入侵](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073493&idx=2&sn=94b0a7707766a5aecf7c377b059f87c7)
-  - [【安全圈】攻击者伪造Jackson JSON库入侵Maven中央仓库](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073493&idx=3&sn=d34cafc08d612449c11b0e0b3049b71f)
-  - [【安全圈】前网络安全专家监守自盗：利用勒索软件攻击美国企业并索要千万美元赎金，面临最高 20 年监禁](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073493&idx=4&sn=22080a8ab04a8b5ff17e939e0992168c)
 - 知道创宇404实验室
   - [原创 Paper | 使用 AI 辅助 fuzz 实战记录](https://mp.weixin.qq.com/s?__biz=MzAxNDY2MTQ2OQ==&mid=2650991093&idx=1&sn=1249bbd73ea70dc8640eaaf94e0dd8e7)
+- 情报分析师
+  - [【不是预言者，而是记录者】情报分析师2025年全球安全风云中的情报足迹](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650565424&idx=1&sn=35d6b437e291fa248ce04ced29e25a40)
 - 字节跳动技术团队
   - [火山引擎发布系列《AI 安全白皮书》，构筑AI云原生可信基座](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247517886&idx=1&sn=715ec4740886415bd5863fa33746d1a6)
 - Over Security - Cybersecurity news aggregator
@@ -155,10 +155,10 @@
   - [最新绕过Akamai和Cloudflare的waf的payload](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498872&idx=1&sn=347a9cfb9912283931930b468138dcb6)
 - Schneier on Security
   - [LinkedIn Job Scams](https://www.schneier.com/blog/archives/2025/12/linkedin-job-scams.html)
-- The Grey Corner
-  - [Direct assessment of Istio external authorisers using Python](/2025/12/31/test-istio-external-authorizer-using-python.html)
 - 娜璋AI安全之家
   - [2025年“AI安全之家”公众号文章全年汇总，感恩同行！](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247502333&idx=1&sn=b1be915ca3020e13a3296de3553b99aa)
+- The Grey Corner
+  - [Direct assessment of Istio external authorisers using Python](/2025/12/31/test-istio-external-authorizer-using-python.html)
 - The Hacker News
   - [Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html)
   - [DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide](https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html)
