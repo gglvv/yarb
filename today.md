@@ -1,13 +1,13 @@
 # 每日安全资讯（2026-01-02）
 
-- SecWiki News
-  - [SecWiki News 2026-01-01 Review](http://www.sec-wiki.com/?2026-01-01)
 - ArthurChiao's Blog
   - [[译] 软件领域的工业革命：AI 将使软件成为一种新的 UGC（2025）](https://arthurchiao.art/blog/rise-of-industrial-software-zh/)
 - 博客
   - [in-addr.arpa](https://dyrnq.com/in-addr-arpa/)
 - Recent Commits to cve:main
   - [Update Thu Jan  1 11:28:25 UTC 2026](https://github.com/trickest/cve/commit/929fecab142adf85011dea505cca788cfc482e4b)
+- SecWiki News
+  - [SecWiki News 2026-01-01 Review](http://www.sec-wiki.com/?2026-01-01)
 - Sucuri Blog
   - [Vulnerability & Patch Roundup — December 2025](https://blog.sucuri.net/2025/12/vulnerability-patch-roundup-december-2025.html)
 - Malware-Traffic-Analysis.net - Blog Entries
@@ -18,26 +18,22 @@
   - [法国计划效仿澳大利亚限制青少年使用社交媒体](https://www.solidot.org/story?sid=83197)
   - [加州从 2026 年 7 月起要求所有学区限制儿童使用智能手机](https://www.solidot.org/story?sid=83196)
   - [美国麻疹病例超过 2000 例](https://www.solidot.org/story?sid=83195)
-- 黑鸟
-  - [基于AI的反向图像搜索工具](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184585&idx=1&sn=302f2a3f1c751d0ca87bd81cf838ddf5)
-- 锦行科技
-  - [【元旦】金戈铁马启新程](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494563&idx=1&sn=6f3afee5fab5d9a371d4d97e53f0529f)
 - 黑海洋Wiki | Web开发工具包 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [Port Guard：专为macOS打造的智能端口管理工具](https://blog.upx8.com/4936)
-- 赵武的自留地
-  - [给科技创业者的三条救命锦囊](https://mp.weixin.qq.com/s?__biz=MjM5NDQ5NjM5NQ==&mid=2651626452&idx=1&sn=1019de19faa5d1a64dc939a29cdf42fd)
-- 吾爱破解论坛
-  - [（图作者 | @Aoemax）](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143265&idx=1&sn=a8eab828a4dc1172c0594425826533e6)
-- 天黑说嘿话
-  - [Java内存马检测工具-跨平台通用](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485938&idx=1&sn=3aa9cda555f7a5899303bc4f136d27cb)
-- 360漏洞云
-  - [旦起风华，一马当先](https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247503932&idx=1&sn=59c0081aac1542a637e4f3bed6e671e5)
 - 安全分析与研究
   - [Patchwork APT组织最新Spyder后门样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495291&idx=1&sn=cd1588adcece85a9f22f7d5f788f9cb3)
-- 看雪学苑
-  - [荣誉揭晓 | 看雪社区2025年度评选结果出炉！致敬每一行代码的力量](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606963&idx=1&sn=ddd255b50f171e30a9971ee8a3fec9fa)
-  - [DLINK路由器命令注入漏洞从1DAY到0DAY](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606963&idx=2&sn=c7265f29dd183dd2b5789254e8d3d979)
-  - [看雪贺元旦：2026策马闯新程，一路皆坦途](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606963&idx=3&sn=9f854fd0f3edaab0d65666a994b4c491)
+- 赵武的自留地
+  - [给科技创业者的三条救命锦囊](https://mp.weixin.qq.com/s?__biz=MjM5NDQ5NjM5NQ==&mid=2651626452&idx=1&sn=1019de19faa5d1a64dc939a29cdf42fd)
+- 锦行科技
+  - [【元旦】金戈铁马启新程](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494563&idx=1&sn=6f3afee5fab5d9a371d4d97e53f0529f)
+- 黑鸟
+  - [基于AI的反向图像搜索工具](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184585&idx=1&sn=302f2a3f1c751d0ca87bd81cf838ddf5)
+- 吾爱破解论坛
+  - [（图作者 | @Aoemax）](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143265&idx=1&sn=a8eab828a4dc1172c0594425826533e6)
+- 360漏洞云
+  - [旦起风华，一马当先](https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247503932&idx=1&sn=59c0081aac1542a637e4f3bed6e671e5)
+- 天黑说嘿话
+  - [Java内存马检测工具-跨平台通用](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485938&idx=1&sn=3aa9cda555f7a5899303bc4f136d27cb)
 - 安全研究GoSSIP
   - [G.O.S.S.I.P 2026 新年寄语](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501226&idx=1&sn=5e3fa844a1652ec26d7c652037cf1a66)
 - 信息安全国家工程研究中心
@@ -52,26 +48,30 @@
   - [雷军为推迟跨年演讲致歉；小米 YU7 推「3 年 0 息」购车活动；沃伦·巴菲特正式退休 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653096069&idx=1&sn=bb1d832c3cf8af81f8562fdd9ae514f0)
 - 情报分析师
   - [在不确定的世界里，愿你永远有一盏灯。写给【情报分析师】每一位同行者的新年信](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650565432&idx=1&sn=20dcea9c6d5fcf16a934c4f207b03883)
+- 看雪学苑
+  - [荣誉揭晓 | 看雪社区2025年度评选结果出炉！致敬每一行代码的力量](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606963&idx=1&sn=ddd255b50f171e30a9971ee8a3fec9fa)
+  - [DLINK路由器命令注入漏洞从1DAY到0DAY](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606963&idx=2&sn=c7265f29dd183dd2b5789254e8d3d979)
+  - [看雪贺元旦：2026策马闯新程，一路皆坦途](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606963&idx=3&sn=9f854fd0f3edaab0d65666a994b4c491)
 - 火绒安全
   - [骏程启新岁 火绒护新元](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247529606&idx=1&sn=539185e39cdebc045c81c89257e6b471)
   - [新《网络安全法》落地 火绒安全护航企业合规新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247529606&idx=2&sn=368f3b38b12f445f633c6417e5a3bbde)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247529606&idx=3&sn=6bd09a99b7eaac780ad969c9d238d0bf)
 - DEF CON Announcements!
   - [Happy New Year!](https://defcon.org/html/links/dc-news.html#newyear26)
-- 360数字安全
-  - [2026“马”上安全，智能防御不等待](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247584048&idx=1&sn=b3c62c412a9eaa9155809e7694892740)
 - Over Security - Cybersecurity news aggregator
   - [New GlassWorm malware wave targets Macs with trojanized crypto wallets](https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/)
   - [The biggest cybersecurity and cyberattack stories of 2025](https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/)
   - [OpenAI is offering $20 ChatGPT Plus for free to some users](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/)
   - [8 Powerful Use Cases for the StalkPhish API in Anti-Fraud and Anti-Phishing Operations](https://stalkphish.com/2026/01/01/8-powerful-use-cases-for-the-stalkphish-api-in-anti-fraud-and-anti-phishing-operations/)
   - [Vulnerability & Patch Roundup — December 2025](https://blog.sucuri.net/2025/12/vulnerability-patch-roundup-december-2025.html)
-- Security Affairs
-  - [Trust Wallet confirms second Shai-Hulud supply-chain attack, $8.5M in crypto stolen](https://securityaffairs.com/186398/hacking/trust-wallet-confirms-second-shai-hulud-supply-chain-attack-8-5m-in-crypto-stolen.html)
-  - [React2Shell under attack: RondoDox Botnet spreads miners and malware](https://securityaffairs.com/186386/uncategorized/react2shell-under-attack-rondodox-botnet-spreads-miners-and-malware.html)
+- 360数字安全
+  - [2026“马”上安全，智能防御不等待](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247584048&idx=1&sn=b3c62c412a9eaa9155809e7694892740)
 - The Hacker News
   - [ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html)
   - [RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers](https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html)
   - [How To Browse Faster and Get More Done Using Adapt Browser](https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html)
+- Security Affairs
+  - [Trust Wallet confirms second Shai-Hulud supply-chain attack, $8.5M in crypto stolen](https://securityaffairs.com/186398/hacking/trust-wallet-confirms-second-shai-hulud-supply-chain-attack-8-5m-in-crypto-stolen.html)
+  - [React2Shell under attack: RondoDox Botnet spreads miners and malware](https://securityaffairs.com/186386/uncategorized/react2shell-under-attack-rondodox-botnet-spreads-miners-and-malware.html)
 - Security Weekly Podcast Network (Audio)
   - [Breaking Into Cybersecurity - PSW #907](http://sites.libsyn.com/18678/breaking-into-cybersecurity-psw-907)
