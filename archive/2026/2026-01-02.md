@@ -1,25 +1,17 @@
 # 每日安全资讯（2026-01-02）
 
-- SecWiki News
-  - [SecWiki News 2026-01-01 Review](http://www.sec-wiki.com/?2026-01-01)
 - Recent Commits to cve:main
   - [Update Thu Jan  1 11:28:25 UTC 2026](https://github.com/trickest/cve/commit/929fecab142adf85011dea505cca788cfc482e4b)
+- SecWiki News
+  - [SecWiki News 2026-01-01 Review](http://www.sec-wiki.com/?2026-01-01)
 - 博客
   - [in-addr.arpa](https://dyrnq.com/in-addr-arpa/)
 - ArthurChiao's Blog
   - [[译] 软件领域的工业革命：AI 将使软件成为一种新的 UGC（2025）](https://arthurchiao.art/blog/rise-of-industrial-software-zh/)
-- Sucuri Blog
-  - [Vulnerability & Patch Roundup — December 2025](https://blog.sucuri.net/2025/12/vulnerability-patch-roundup-december-2025.html)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-01-01: Lumma Stealer infection with follow-up malware](https://www.malware-traffic-analysis.net/2026/01/01/index.html)
-- 奇客Solidot–传递最新科技情报
-  - [法国计划效仿澳大利亚限制青少年使用社交媒体](https://www.solidot.org/story?sid=83197)
-  - [加州从 2026 年 7 月起要求所有学区限制儿童使用智能手机](https://www.solidot.org/story?sid=83196)
-  - [美国麻疹病例超过 2000 例](https://www.solidot.org/story?sid=83195)
-- 黑海洋Wiki | Web开发工具包 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [Port Guard：专为macOS打造的智能端口管理工具](https://blog.upx8.com/4936)
-- 赵武的自留地
-  - [给科技创业者的三条救命锦囊](https://mp.weixin.qq.com/s?__biz=MjM5NDQ5NjM5NQ==&mid=2651626452&idx=1&sn=1019de19faa5d1a64dc939a29cdf42fd)
+- Sucuri Blog
+  - [Vulnerability & Patch Roundup — December 2025](https://blog.sucuri.net/2025/12/vulnerability-patch-roundup-december-2025.html)
 - 安全分析与研究
   - [Patchwork APT组织最新Spyder后门样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495291&idx=1&sn=cd1588adcece85a9f22f7d5f788f9cb3)
 - 锦行科技
@@ -30,20 +22,20 @@
   - [（图作者 | @Aoemax）](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143265&idx=1&sn=a8eab828a4dc1172c0594425826533e6)
 - 360漏洞云
   - [旦起风华，一马当先](https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247503932&idx=1&sn=59c0081aac1542a637e4f3bed6e671e5)
-- 安全研究GoSSIP
-  - [G.O.S.S.I.P 2026 新年寄语](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501226&idx=1&sn=5e3fa844a1652ec26d7c652037cf1a66)
+- 赵武的自留地
+  - [给科技创业者的三条救命锦囊](https://mp.weixin.qq.com/s?__biz=MjM5NDQ5NjM5NQ==&mid=2651626452&idx=1&sn=1019de19faa5d1a64dc939a29cdf42fd)
+- 天黑说嘿话
+  - [Java内存马检测工具-跨平台通用](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485938&idx=1&sn=3aa9cda555f7a5899303bc4f136d27cb)
 - 看雪学苑
   - [荣誉揭晓 | 看雪社区2025年度评选结果出炉！致敬每一行代码的力量](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606963&idx=1&sn=ddd255b50f171e30a9971ee8a3fec9fa)
   - [DLINK路由器命令注入漏洞从1DAY到0DAY](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606963&idx=2&sn=c7265f29dd183dd2b5789254e8d3d979)
   - [看雪贺元旦：2026策马闯新程，一路皆坦途](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606963&idx=3&sn=9f854fd0f3edaab0d65666a994b4c491)
-- 天黑说嘿话
-  - [Java内存马检测工具-跨平台通用](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485938&idx=1&sn=3aa9cda555f7a5899303bc4f136d27cb)
 - 信息安全国家工程研究中心
   - [元旦 | 倏忽征途千万里 煌煌新岁又一程](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247502583&idx=1&sn=58bd6c9e699b6c1ff50dc06a804f9752)
-- 安全圈
-  - [【安全圈】29岁黑客制作Win11激活工具，已感染280万设备](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073505&idx=1&sn=d121b423ad232a6b16c2081941782232)
-  - [【安全圈】两名网络安全专家利用勒索软件攻击企业](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073505&idx=2&sn=467d9214d137840fc70f801e609d046b)
-  - [【安全圈】22岁女天才攻破NVIDIA Tegra X2：暴露特斯拉及更多设备的不可修复漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073505&idx=3&sn=1f708018b52c1c6e8db067f71be3f5e7)
+- 黑海洋Wiki | Web开发工具包 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
+  - [Port Guard：专为macOS打造的智能端口管理工具](https://blog.upx8.com/4936)
+- 安全研究GoSSIP
+  - [G.O.S.S.I.P 2026 新年寄语](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501226&idx=1&sn=5e3fa844a1652ec26d7c652037cf1a66)
 - 极客公园
   - [Sam Altman 的脑机接口公司刚建立，国内已经有了对标公司](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653096082&idx=1&sn=a321acfae8d3e67c8b893a289c294aac)
   - [CES 2026 的「科技年会」上，我们要「赌」一个怎样的未来？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653096070&idx=1&sn=fee823a9e7f93f678b83931fe6437381)
@@ -52,18 +44,22 @@
   - [骏程启新岁 火绒护新元](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247529606&idx=1&sn=539185e39cdebc045c81c89257e6b471)
   - [新《网络安全法》落地 火绒安全护航企业合规新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247529606&idx=2&sn=368f3b38b12f445f633c6417e5a3bbde)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247529606&idx=3&sn=6bd09a99b7eaac780ad969c9d238d0bf)
-- 情报分析师
-  - [在不确定的世界里，愿你永远有一盏灯。写给【情报分析师】每一位同行者的新年信](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650565432&idx=1&sn=20dcea9c6d5fcf16a934c4f207b03883)
+- DEF CON Announcements!
+  - [Happy New Year!](https://defcon.org/html/links/dc-news.html#newyear26)
+- 360数字安全
+  - [2026“马”上安全，智能防御不等待](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247584048&idx=1&sn=b3c62c412a9eaa9155809e7694892740)
+- 安全圈
+  - [【安全圈】29岁黑客制作Win11激活工具，已感染280万设备](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073505&idx=1&sn=d121b423ad232a6b16c2081941782232)
+  - [【安全圈】两名网络安全专家利用勒索软件攻击企业](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073505&idx=2&sn=467d9214d137840fc70f801e609d046b)
+  - [【安全圈】22岁女天才攻破NVIDIA Tegra X2：暴露特斯拉及更多设备的不可修复漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073505&idx=3&sn=1f708018b52c1c6e8db067f71be3f5e7)
 - Over Security - Cybersecurity news aggregator
   - [New GlassWorm malware wave targets Macs with trojanized crypto wallets](https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/)
   - [The biggest cybersecurity and cyberattack stories of 2025](https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/)
   - [OpenAI is offering $20 ChatGPT Plus for free to some users](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/)
   - [8 Powerful Use Cases for the StalkPhish API in Anti-Fraud and Anti-Phishing Operations](https://stalkphish.com/2026/01/01/8-powerful-use-cases-for-the-stalkphish-api-in-anti-fraud-and-anti-phishing-operations/)
   - [Vulnerability & Patch Roundup — December 2025](https://blog.sucuri.net/2025/12/vulnerability-patch-roundup-december-2025.html)
-- DEF CON Announcements!
-  - [Happy New Year!](https://defcon.org/html/links/dc-news.html#newyear26)
-- 360数字安全
-  - [2026“马”上安全，智能防御不等待](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247584048&idx=1&sn=b3c62c412a9eaa9155809e7694892740)
+- 情报分析师
+  - [在不确定的世界里，愿你永远有一盏灯。写给【情报分析师】每一位同行者的新年信](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650565432&idx=1&sn=20dcea9c6d5fcf16a934c4f207b03883)
 - Security Affairs
   - [Trust Wallet confirms second Shai-Hulud supply-chain attack, $8.5M in crypto stolen](https://securityaffairs.com/186398/hacking/trust-wallet-confirms-second-shai-hulud-supply-chain-attack-8-5m-in-crypto-stolen.html)
   - [React2Shell under attack: RondoDox Botnet spreads miners and malware](https://securityaffairs.com/186386/uncategorized/react2shell-under-attack-rondodox-botnet-spreads-miners-and-malware.html)
