@@ -1,11 +1,25 @@
 # 每日安全资讯（2026-01-03）
 
-- Recent Commits to cve:main
-  - [Update Fri Jan  2 11:26:22 UTC 2026](https://github.com/trickest/cve/commit/014a8d4c4c9488f71f48d87c28d1f4aec4d49e9b)
 - SecWiki News
   - [SecWiki News 2026-01-02 Review](http://www.sec-wiki.com/?2026-01-02)
+- InfoSec Write-ups - Medium
+  - [Hunting a Zero-Click Reflected XSS: Breaking Out of Attributes in WordPress Search](https://infosecwriteups.com/hunting-a-zero-click-reflected-xss-breaking-out-of-attributes-in-wordpress-search-70071a099dd3?source=rss----7b722bfd1b8d---4)
+  - [When CDNs Lie: How Cached Responses Exposed Private Data at Scale](https://infosecwriteups.com/when-cdns-lie-how-cached-responses-exposed-private-data-at-scale-7208a53b164c?source=rss----7b722bfd1b8d---4)
+  - [PortSwigger Academy Lab: Source code disclosure via backup files](https://infosecwriteups.com/portswigger-academy-lab-source-code-disclosure-via-backup-files-5f5e6ad3db30?source=rss----7b722bfd1b8d---4)
+  - [HexStrike MCP Orchestration with Ollama: Ubuntu Host, Kali VM, SSH Bridging, and Performance…](https://infosecwriteups.com/hexstrike-mcp-orchestration-with-ollama-ubuntu-host-kali-vm-ssh-bridging-and-performance-f049ab140596?source=rss----7b722bfd1b8d---4)
+  - [Data Retired Box from Hackthebox](https://infosecwriteups.com/as-we-get-deep-into-this-engagement-ill-demonstrate-my-penetration-testing-methodology-and-my-b616fbd0d00f?source=rss----7b722bfd1b8d---4)
+  - [Bashed Hackthebox Writeup](https://infosecwriteups.com/as-we-get-deep-into-this-engagement-ill-demonstrate-my-penetration-testing-methodology-and-my-dc86ed5f6971?source=rss----7b722bfd1b8d---4)
+  - [Escape Windows Machine Writeup from Hackthebox](https://infosecwriteups.com/as-we-get-deep-into-this-engagement-ill-demonstrate-my-penetration-testing-methodology-and-my-198e597a3c9b?source=rss----7b722bfd1b8d---4)
+  - [I Didn’t Break the App — I Let Its Logic Break Itself](https://infosecwriteups.com/i-didnt-break-the-app-i-let-its-logic-break-itself-9cd22096111c?source=rss----7b722bfd1b8d---4)
+  - [SnitchVisual Network Inspector](https://infosecwriteups.com/snitchvisual-network-inspector-56973d599ec5?source=rss----7b722bfd1b8d---4)
+  - [HexStrike on Kali Linux 2025.4: A Comprehensive Guide](https://infosecwriteups.com/hexstrike-on-kali-linux-2025-4-a-comprehensive-guide-85a0e5752949?source=rss----7b722bfd1b8d---4)
 - Tenable Blog
   - [Cybersecurity Snapshot: Predictions for 2026: AI Attack Acceleration, Automated Remediation, Custom-Made AI Security Tools, Machine Identity Threats, and More](https://www.tenable.com/blog/cybersecurity-snapshot-2026-cyber-predictions-ai-security-agentic-ai-custom-ai-tools-automated-remediation-identity-security-cloud-risk-1-2-2026)
+- Recent Commits to cve:main
+  - [Update Fri Jan  2 11:26:22 UTC 2026](https://github.com/trickest/cve/commit/014a8d4c4c9488f71f48d87c28d1f4aec4d49e9b)
+- Bug Bounty in InfoSec Write-ups on Medium
+  - [When CDNs Lie: How Cached Responses Exposed Private Data at Scale](https://infosecwriteups.com/when-cdns-lie-how-cached-responses-exposed-private-data-at-scale-7208a53b164c?source=rss----7b722bfd1b8d--bug_bounty)
+  - [I Didn’t Break the App — I Let Its Logic Break Itself](https://infosecwriteups.com/i-didnt-break-the-app-i-let-its-logic-break-itself-9cd22096111c?source=rss----7b722bfd1b8d--bug_bounty)
 - Didier Stevens
   - [Overview of Content Published in December](https://blog.didierstevens.com/2026/01/02/overview-of-content-published-in-december-10/)
 - Hexacorn
@@ -55,13 +69,18 @@
   - [我们为什么要做 Slax Reader](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485825&idx=1&sn=211244af12a3bda53099e57094b61056)
 - 情报分析师
   - [微表情与肢体密码，谍报中的面部识别心理学真相](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650565448&idx=1&sn=12522f891e9c4901283dadc8b0044ea6)
+- 漏洞战争
+  - [2025 年终推荐书单](https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486048&idx=1&sn=a97e97b359138ee2bdea8c69bb6c2e10)
+- 看雪学苑
+  - [记录一次Unity加固的探索与实现](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606979&idx=1&sn=e9fdec9d0ff5c4ede515dc302011b74a)
+  - [【非虫新课】阶段二：安卓软件开发与逆向分析（工具篇）](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606979&idx=2&sn=474c1241bf4a9379598b1f6e6793cb8c)
 - 丁爸 情报分析师的工具箱
   - [【资料】社交媒体和AI对人类认知的影响系列文章](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153524&idx=1&sn=ae0833ddfd983cb54e5c75924082524b)
   - [【转载】美日在我“正义使命-2025”演习期间出动海空力量情况分析](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153524&idx=2&sn=3b828399f189493f9af643b134ab45c8)
-- 漏洞战争
-  - [2025 年终推荐书单](https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486048&idx=1&sn=a97e97b359138ee2bdea8c69bb6c2e10)
 - kernsec
   - [IOS SPTM深度分析](https://mp.weixin.qq.com/s?__biz=Mzg4NjU1NDU4MA==&mid=2247483864&idx=1&sn=399ce7d4205f1273e9834467678e5b6d)
+- 迪哥讲事
+  - [XSS 如何升级](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498882&idx=1&sn=c4e2d916df35fe3ba4bc37ae2b790153)
 - Over Security - Cybersecurity news aggregator
   - [Nearly 480,000 impacted by Covenant Health data breach](https://therecord.media/covenant-health-breach-qilin)
   - [Pakistan-linked hackers target Indian government, universities in new spying campaign](https://therecord.media/pakistan-linked-hacking-group-targets-indian-orgs)
@@ -80,51 +99,46 @@
   - [CISA Known Exploited Vulnerabilities Surged 20% in 2025](https://cyble.com/blog/cisa-kev-2025-exploited-vulnerabilities-growth/)
   - [Whistleblowing e gestione del rischio: una lettura critica delle linee guida ANAC](https://www.cybersecurity360.it/legal/whistleblowing-come-infrastruttura-di-gestione-del-rischio-guida-applicativa-alle-linee-guida-anac/)
   - [Si combatte così come ci si è addestrati: le logiche militari sottese al DORA](https://www.cybersecurity360.it/legal/si-combatte-cosi-come-ci-si-e-addestrati-le-logiche-militari-sottese-al-dora/)
-- 看雪学苑
-  - [记录一次Unity加固的探索与实现](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606979&idx=1&sn=e9fdec9d0ff5c4ede515dc302011b74a)
-  - [【非虫新课】阶段二：安卓软件开发与逆向分析（工具篇）](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606979&idx=2&sn=474c1241bf4a9379598b1f6e6793cb8c)
 - Schneier on Security
   - [Friday Squid Blogging: Squid Found in Light Fixture](https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-squid-found-in-light-fixture.html)
   - [Flock Exposes Its AI-Enabled Surveillance Cameras](https://www.schneier.com/blog/archives/2026/01/flock-exposes-its-ai-enabled-surveillance-cameras.html)
 - SANS Internet Storm Center, InfoCON: green
   - [Debugging DNS response times with tshark, (Fri, Jan 2nd)](https://isc.sans.edu/diary/rss/32592)
-- 迪哥讲事
-  - [XSS 如何升级](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498882&idx=1&sn=c4e2d916df35fe3ba4bc37ae2b790153)
-- The Hacker News
-  - [Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia](https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html)
-  - [The ROI Problem in Attack Surface Management](https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html)
-  - [Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign](https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html)
 - Security Affairs
   - [Two U.S. cybersecurity professionals plead guilty in BlackCat/Alphv ransomware case](https://securityaffairs.com/186446/cyber-crime/two-u-s-cybersecurity-professionals-plead-guilty-in-blackcat-alphv-ransomware-case.html)
   - [Covenant Health data breach after ransomware attack impacted over 478,000 people](https://securityaffairs.com/186439/data-breach/covenant-health-data-breach-after-ransomware-attack-impacted-over-478000-people.html)
   - [Phishing campaign abuses Google Cloud Application to impersonate legitimate Google emails](https://securityaffairs.com/186425/cyber-crime/phishing-campaign-abuses-google-cloud-application-to-impersonate-legitimate-google-emails.html)
   - [IBM warns of critical API Connect bug enabling remote access](https://securityaffairs.com/186417/security/ibm-warns-of-critical-api-connect-bug-enabling-remote-access.html)
-- Blackhat Library: Hacking techniques and research
-  - [TCP SYN Injectionvia Source IP Randomization](https://www.reddit.com/r/blackhat/comments/1q1ovz7/tcp_syn_injectionvia_source_ip_randomization/)
+- The Hacker News
+  - [Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia](https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html)
+  - [The ROI Problem in Attack Surface Management](https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html)
+  - [Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign](https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html)
+- Deep Web
+  - [Help! 2fa I didn’t set up](https://www.reddit.com/r/deepweb/comments/1q26tng/help_2fa_i_didnt_set_up/)
 - Your Open Hacker Community
   - [How do hackers mimic bank login sites?](https://www.reddit.com/r/HowToHack/comments/1q2aqaj/how_do_hackers_mimic_bank_login_sites/)
   - [Please help im new](https://www.reddit.com/r/HowToHack/comments/1q1r8gz/please_help_im_new/)
   - [How to find RTSP stream from a generic security camera (Yoose app)?](https://www.reddit.com/r/HowToHack/comments/1q1xb1e/how_to_find_rtsp_stream_from_a_generic_security/)
   - [how to become a hacker ?](https://www.reddit.com/r/HowToHack/comments/1q2dq6y/how_to_become_a_hacker/)
-- Deep Web
-  - [Help! 2fa I didn’t set up](https://www.reddit.com/r/deepweb/comments/1q26tng/help_2fa_i_didnt_set_up/)
+- Blackhat Library: Hacking techniques and research
+  - [TCP SYN Injectionvia Source IP Randomization](https://www.reddit.com/r/blackhat/comments/1q1ovz7/tcp_syn_injectionvia_source_ip_randomization/)
 - netsecstudents: Subreddit for students studying Network Security and its related subjects
   - [Final Year Project Guidence CS](https://www.reddit.com/r/netsecstudents/comments/1q1uofx/final_year_project_guidence_cs/)
-- Technical Information Security Content & Discussion
-  - [Windows Registry Persistence Techniques without Registry Callbacks](https://www.reddit.com/r/netsec/comments/1q1ybr9/windows_registry_persistence_techniques_without/)
-  - [Technical Analysis - MongoBleed (CVE-2025-14847): Memory Corruption in MongoDB](https://www.reddit.com/r/netsec/comments/1q23y3l/technical_analysis_mongobleed_cve202514847_memory/)
-  - [Looking for fitting mystery guest certification](https://www.reddit.com/r/netsec/comments/1q2941j/looking_for_fitting_mystery_guest_certification/)
 - Social Engineering
   - [Why "Smart Rational People" are hard-coded to fail at dating (according to Game Theory)](https://www.reddit.com/r/SocialEngineering/comments/1q2c333/why_smart_rational_people_are_hardcoded_to_fail/)
   - [What makes you personally comfortable connecting your email to a third-party app?](https://www.reddit.com/r/SocialEngineering/comments/1q1q0hv/what_makes_you_personally_comfortable_connecting/)
   - [What would make you trust an app that connects to your email account?](https://www.reddit.com/r/SocialEngineering/comments/1q1q3x6/what_would_make_you_trust_an_app_that_connects_to/)
+- Technical Information Security Content & Discussion
+  - [Windows Registry Persistence Techniques without Registry Callbacks](https://www.reddit.com/r/netsec/comments/1q1ybr9/windows_registry_persistence_techniques_without/)
+  - [Technical Analysis - MongoBleed (CVE-2025-14847): Memory Corruption in MongoDB](https://www.reddit.com/r/netsec/comments/1q23y3l/technical_analysis_mongobleed_cve202514847_memory/)
+  - [Looking for fitting mystery guest certification](https://www.reddit.com/r/netsec/comments/1q2941j/looking_for_fitting_mystery_guest_certification/)
+- Krebs on Security
+  - [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
+- OnionSec
+  - [检测恶意子文件的困境与应对方法](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485703&idx=1&sn=c5a7dd0873494d4f0c5c44d6a77a34c2)
 - Deeplinks
   - [The Year States Chose Surveillance Over Safety: 2025 in Review](https://www.eff.org/deeplinks/2025/12/year-states-chose-surveillance-over-safety-2025-review)
   - [Surveillance Self-Defense: 2025 Year in Review](https://www.eff.org/deeplinks/2025/12/surveillance-self-defense-2025-year-review)
-- OnionSec
-  - [检测恶意子文件的困境与应对方法](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485703&idx=1&sn=c5a7dd0873494d4f0c5c44d6a77a34c2)
-- Krebs on Security
-  - [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 - Security Weekly Podcast Network (Audio)
   - [Defending the Boundaryless Cloud: Understanding Threats That Matter - Cameron Sipes, Steve Stone - SWN #543](http://sites.libsyn.com/18678/defending-the-boundaryless-cloud-understanding-threats-that-matter-cameron-sipes-steve-stone-swn-543)
 - Connor McGarr’s Blog
