@@ -1,9 +1,9 @@
 # 每日安全资讯（2026-01-04）
 
-- SecWiki News
-  - [SecWiki News 2026-01-03 Review](http://www.sec-wiki.com/?2026-01-03)
 - Recent Commits to cve:main
   - [Update Sat Jan  3 11:23:35 UTC 2026](https://github.com/trickest/cve/commit/467d234a666631f68c49e82e0376a91ce1886cd1)
+- SecWiki News
+  - [SecWiki News 2026-01-03 Review](http://www.sec-wiki.com/?2026-01-03)
 - Didier Stevens
   - [Overview of Content Published in 2025](https://blog.didierstevens.com/2026/01/03/overview-of-content-published-in-2025/)
 - Hexacorn
@@ -16,36 +16,32 @@
   - [华硕宣布从 1 月 5 日起部分产品涨价](https://www.solidot.org/story?sid=83203)
 - 安全分析与研究
   - [TransparentTribe(透明部落) APT组织CrimsonRAT远控样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495293&idx=1&sn=afaaae23a8589c096f25ffd138a5d9d0)
-- 二道情报贩子
-  - [2026年：让Linux成为你的操作系统吧](https://mp.weixin.qq.com/s?__biz=MzU5NTA3MTk5Ng==&mid=2247489923&idx=1&sn=622f71a7261267bd29ee531a3f81df74)
-- 威努特安全网络
-  - [下载 | 2025年数字化及网络安全政策合集](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651139192&idx=1&sn=d63bb57b38465bac288572b64335b3b1)
 - 漕河泾小黑屋
   - [2025年终复盘：Anthropic 如何定义 Agent 开发的 iPhone 时刻](https://mp.weixin.qq.com/s?__biz=MzA4NzQwNzY3OQ==&mid=2247483992&idx=1&sn=172dde972e1286c089fdc6623fab22c7)
+- 威努特安全网络
+  - [下载 | 2025年数字化及网络安全政策合集](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651139192&idx=1&sn=d63bb57b38465bac288572b64335b3b1)
+- 二道情报贩子
+  - [2026年：让Linux成为你的操作系统吧](https://mp.weixin.qq.com/s?__biz=MzU5NTA3MTk5Ng==&mid=2247489923&idx=1&sn=622f71a7261267bd29ee531a3f81df74)
+- 极客公园
+  - [2026 年，「一人公司」爆发，不被雇佣就不会「被裁」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653096177&idx=1&sn=a44f394dffed1fc565c732f84d7ab251)
+  - [新论文暗示 DeepSeek V4 已完成训练；比亚迪超特斯拉，全球第一；传今年没有标准版iPhone｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653096216&idx=1&sn=3e37ba53362573e8d797c1b091db7936)
 - 安全圈
   - [【安全圈】索尼 PlayStation 5 ROM 密钥泄露，BootROM 代码或使破解更容易](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073528&idx=1&sn=79653fa960c265e4ce12ebe34f9aa73e)
   - [【安全圈】黑客以攻击法国高校开启新年，多所院校学生数据遭窃](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073528&idx=2&sn=67445933db8535ff274cf6255ea76d34)
   - [【安全圈】超 50 个恶意脚本组成大型 Magecart 攻击网络，劫持支付结账与账户注册流程](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073528&idx=3&sn=d73c465e52f331399c90ba679b7244d2)
-- 看雪学苑
-  - [解决Il2cppapi混淆，通杀DumpUnityCs文件](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606965&idx=1&sn=bf8987b5c86314edd0d5a4a5dd0189dd)
-  - [安全圈 “露脸” 机会！看雪兼职讲师团招新啦](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606965&idx=2&sn=d95ec7e00cff4e57ec8c9a057b95cde7)
 - 丁爸 情报分析师的工具箱
   - [【情报分析】美军如何获取马杜罗的准确位置情报](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153551&idx=1&sn=87983aad205c5f35c9d207fb467d5f6d)
   - [【突发】美军空袭委内瑞拉并俘获总统马杜罗和夫人](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153541&idx=1&sn=852a1c0665ed41028202d98b70e22bf0)
-- 极客公园
-  - [2026 年，「一人公司」爆发，不被雇佣就不会「被裁」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653096177&idx=1&sn=a44f394dffed1fc565c732f84d7ab251)
-  - [新论文暗示 DeepSeek V4 已完成训练；比亚迪超特斯拉，全球第一；传今年没有标准版iPhone｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653096216&idx=1&sn=3e37ba53362573e8d797c1b091db7936)
-- 情报分析师
-  - [五款顶尖开源情报工具实战指南](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650565480&idx=1&sn=356566447d18eb631f2213b23f8e6117)
 - 电子物证
   - [【检察技术人用极致专业在数字战场回答检察正义】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048873&idx=1&sn=159d3eddeacd17ae5180f89d6d0c12be)
   - [【聊天记录恢复的6个关键步骤】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048873&idx=2&sn=6d425aada4173184369f0f46ad46d62a)
+- 看雪学苑
+  - [解决Il2cppapi混淆，通杀DumpUnityCs文件](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606965&idx=1&sn=bf8987b5c86314edd0d5a4a5dd0189dd)
+  - [安全圈 “露脸” 机会！看雪兼职讲师团招新啦](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606965&idx=2&sn=d95ec7e00cff4e57ec8c9a057b95cde7)
+- 情报分析师
+  - [五款顶尖开源情报工具实战指南](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650565480&idx=1&sn=356566447d18eb631f2213b23f8e6117)
 - kernsec
   - [IOS 代码签名深度分析](https://mp.weixin.qq.com/s?__biz=Mzg4NjU1NDU4MA==&mid=2247483872&idx=1&sn=167c757186931b3f09d7993c9d5d8677)
-- 迪哥讲事
-  - [漏洞挖掘｜多个海外SRC产商2FA绕过实战](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498889&idx=1&sn=e55979b020f3eb1f484446a2cd99b374)
-- 自在安全
-  - [浅析 CVE-2025-68645 Zimbra 属性覆盖导致本地文件包含漏洞](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492684&idx=1&sn=bebf9986b8676ec80749f180d3711595)
 - Over Security - Cybersecurity news aggregator
   - [Hackers claim to hack Resecurity, firm says it was a honeypot](https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/)
   - [ShinyHunters claims Resecurity hack, firm says it’s a honeypot](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-resecurity-hack-firm-says-its-a-honeypot/)
@@ -53,8 +49,12 @@
   - [Cisco ACI Classes](https://www.adainese.it/blog/2025/12/28/cisco-aci-classes/)
   - [NIS2, linee guida ACN su gestione incidenti pubblicate a fine 2025: cosa cambia](https://www.cybersecurity360.it/news/nis2-linee-guida-acn-su-gestione-incidenti-pubblicate-a-fine-2025-cosa-cambia/)
   - [AI VENDOR VETTING – AN OK PRACTICE GUIDE](https://www.secjuice.com/ai-vendor-vetting-an-ok-practice-guide/)
+- 自在安全
+  - [浅析 CVE-2025-68645 Zimbra 属性覆盖导致本地文件包含漏洞](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492684&idx=1&sn=bebf9986b8676ec80749f180d3711595)
 - Rasta Mouse
   - [BOF Cocktails](https://rastamouse.me/bof-cocktails/)
+- 迪哥讲事
+  - [漏洞挖掘｜多个海外SRC产商2FA绕过实战](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498889&idx=1&sn=e55979b020f3eb1f484446a2cd99b374)
 - Security Affairs
   - [French authorities investigate AI ‘undressing’ deepfakes on X](https://securityaffairs.com/186460/ai/french-authorities-investigate-ai-undressing-deepfakes-on-x.html)
   - [Thousands of ColdFusion exploit attempts spotted during Christmas holiday](https://securityaffairs.com/186450/hacking/thousands-of-coldfusion-exploit-attempts-spotted-during-christmas-holiday.html)
