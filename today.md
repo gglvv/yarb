@@ -4,6 +4,17 @@
   - [Signing up for AppleSeed for IT using Apple Business Manager](https://derflounder.wordpress.com/2026/01/04/signing-up-for-appleseed-for-it-using-apple-business-manager/)
 - Taxodium
   - [Album#20 - FLOW 浮](https://taxodium.ink/album-20.html)
+- 先知安全技术社区
+  - [2025年冬ciscn国赛初赛 pwn easy_rw](https://xz.aliyun.com/news/91028)
+  - [ciscn25冬初赛 minihttpd](https://xz.aliyun.com/news/91027)
+  - [第二届数证杯决赛-个人赛wp](https://xz.aliyun.com/news/91026)
+  - [某crm源码审计](https://xz.aliyun.com/news/91025)
+  - [第二届数证杯初赛wp](https://xz.aliyun.com/news/91024)
+  - [cyberstrikelab-GoldTiger靶场](https://xz.aliyun.com/news/91023)
+- SecWiki News
+  - [SecWiki News 2026-01-04 Review](http://www.sec-wiki.com/?2026-01-04)
+- Recent Commits to cve:main
+  - [Update Sun Jan  4 11:19:58 UTC 2026](https://github.com/trickest/cve/commit/63c20c89743bbc716d8d096f34cf67622f0c6bac)
 - InfoSec Write-ups - Medium
   - [$280 Bug Bounty: How a Case-Sensitive Email Bug Locked Users' Accounts](https://infosecwriteups.com/280-bug-bounty-how-a-case-sensitive-email-bug-locked-users-accounts-175fe00779d9?source=rss----7b722bfd1b8d---4)
   - [W1seGuy Room in TryHackMe](https://infosecwriteups.com/w1seguy-room-in-tryhackme-031880e5a138?source=rss----7b722bfd1b8d---4)
@@ -11,12 +22,15 @@
   - [Editor — HTB Walkthrough](https://infosecwriteups.com/editor-htb-walkthrough-2b29bac28300?source=rss----7b722bfd1b8d---4)
   - [The One-Click Library Wipe: Exploiting CSRF in Saved Stories](https://infosecwriteups.com/the-one-click-library-wipe-exploiting-csrf-in-saved-stories-28523d4bc5e2?source=rss----7b722bfd1b8d---4)
   - [Hacking Vulnerable Bank API (Extensive)](https://infosecwriteups.com/hacking-vulnerable-bank-api-extensive-d2a0d3bb209e?source=rss----7b722bfd1b8d---4)
+- 先知安全技术社区
+  - [2025年冬ciscn国赛初赛 pwn easy_rw](https://xz.aliyun.com/news/91028)
+  - [ciscn25冬初赛 minihttpd](https://xz.aliyun.com/news/91027)
+  - [第二届数证杯决赛-个人赛wp](https://xz.aliyun.com/news/91026)
+  - [某crm源码审计](https://xz.aliyun.com/news/91025)
+  - [第二届数证杯初赛wp](https://xz.aliyun.com/news/91024)
+  - [cyberstrikelab-GoldTiger靶场](https://xz.aliyun.com/news/91023)
 - 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
   - [WebRAT恶意软件借GitHub伪造漏洞利用程序传播](https://www.4hou.com/posts/Bvw2)
-- SecWiki News
-  - [SecWiki News 2026-01-04 Review](http://www.sec-wiki.com/?2026-01-04)
-- Recent Commits to cve:main
-  - [Update Sun Jan  4 11:19:58 UTC 2026](https://github.com/trickest/cve/commit/63c20c89743bbc716d8d096f34cf67622f0c6bac)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [$280 Bug Bounty: How a Case-Sensitive Email Bug Locked Users' Accounts](https://infosecwriteups.com/280-bug-bounty-how-a-case-sensitive-email-bug-locked-users-accounts-175fe00779d9?source=rss----7b722bfd1b8d--bug_bounty)
   - [The Endpoint Was Public for a Reason — The Data Wasn’t](https://infosecwriteups.com/the-endpoint-was-public-for-a-reason-the-data-wasnt-eaac71947415?source=rss----7b722bfd1b8d--bug_bounty)
@@ -26,6 +40,8 @@
   - [./ai](https://robinverton.de/blog/ai/)
 - Adam Caudill
   - [Lessons Learned from 20 Years & Why You Should Blog](https://adamcaudill.com/2026/01/04/lessons-learned-from-20-years-why-you-should-blog/?utm_source=atom_feed)
+- Dhole Moments
+  - [Everything You Need to Know About Email Encryption in 2026](https://soatok.blog/2026/01/04/everything-you-need-to-know-about-email-encryption-in-2026/)
 - HackerNews
   - [Handala 黑客通过入侵 Telegram 账户攻击以色列官员](https://hackernews.cc/archives/62129)
   - [Qilin 勒索软件团伙攻击 Covenant Health，超 47.8 万个人数据遭泄露](https://hackernews.cc/archives/62127)
@@ -41,76 +57,74 @@
   - [廉价太阳能改变非洲人的生活](https://www.solidot.org/story?sid=83211)
   - [微软终止 Windows 10/11 的电话激活支持](https://www.solidot.org/story?sid=83208)
   - [SpaceX 将在 2026 年降低其四千颗 Starlink 卫星轨道高度](https://www.solidot.org/story?sid=83207)
-- Dhole Moments
-  - [Everything You Need to Know About Email Encryption in 2026](https://soatok.blog/2026/01/04/everything-you-need-to-know-about-email-encryption-in-2026/)
 - 黑鸟
   - [从新版Chrome浏览器中提取敏感信息的工具](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184673&idx=1&sn=b5b3812fc906454fc896a737e60204e8)
-- 吾爱破解论坛
-  - [Typora v1.12.4 安全分析：反反调试与激活劫持](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143298&idx=1&sn=8ebde0e233f094bb3abfed000163d468)
 - 安全分析与研究
   - [Konni APT组织最新攻击样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495294&idx=1&sn=ea3ccf4adb6ee86686d68c66a6f37102)
 - 暗影安全
   - [KaliGPT-Attack Platform：AI 驱动的渗透测试技术实现与实战解析](https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165700&idx=1&sn=0b85eaf6647e2110032a84ecf68c8d12)
 - 奇安信病毒响应中心
   - [每周勒索威胁摘要](https://mp.weixin.qq.com/s?__biz=MzI5Mzg5MDM3NQ==&mid=2247498567&idx=1&sn=58c89e333ec70afd6e9dfbff9093b220)
+- 代码卫士
+  - [Shai-Hulud 供应链攻击造成850万美元密币被盗](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524778&idx=1&sn=44f81ca2ce7a803950a29954e1392b4a)
+  - [Apache StreamPipes 严重漏洞可用于获取管理员权限](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524778&idx=2&sn=17e6675d731950fb6f61f841bb161ef5)
+- 绿盟科技研究通讯
+  - [论文解读：《A Survey of Context Engineering for Large Language Models》](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499365&idx=1&sn=fc50950b49bfc7b26c485df5461f3375)
+- 吾爱破解论坛
+  - [Typora v1.12.4 安全分析：反反调试与激活劫持](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143298&idx=1&sn=8ebde0e233f094bb3abfed000163d468)
 - 天御攻防实验室
   - [特朗普暗示美国使用网络攻击切断了委内瑞拉首都的电力](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486645&idx=1&sn=1a7b77ad05262fe0d08be288f3cd5d6e)
 - 安全内参
   - [2025年全球十大网络攻击事件盘点](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515420&idx=1&sn=6e5a92378fa0a62727b2d88e03adb7a6)
   - [美军动用网络战和情报等能力支持抓捕马杜罗的军事行动](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515420&idx=2&sn=e18142a958b9d418927c8afc3fa6c149)
-- 看雪学苑
-  - [逆向分析某手游基于异常的内存保护](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458607141&idx=1&sn=4bbcad4c23989173b834046f8852b3b4)
-  - [速通秘籍来咯！VMProtect虚拟机逆向入门](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458607141&idx=2&sn=6e4571fdc73e8e83a5aefa350ea0c1a9)
 - 天黑说嘿话
   - [安全运营-大模型木马病毒文件分析提效](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485940&idx=1&sn=6d71b8818ff65a364f238d1d8fdf24e5)
-- 数世咨询
-  - [当攻击速度快于补丁速度：为什么 2026 将成为“机器速度安全”的关键一年](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541332&idx=1&sn=a1bf164f1bd7928e6113c60e9efb21af)
-- 慢雾科技
-  - [慢雾 CISO 23pds 受邀参与「Web3 领袖项目」公开课分享](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247504157&idx=1&sn=1979e1ad45483ed613dce71f8fa52a19)
-- 代码卫士
-  - [Shai-Hulud 供应链攻击造成850万美元密币被盗](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524778&idx=1&sn=44f81ca2ce7a803950a29954e1392b4a)
-  - [Apache StreamPipes 严重漏洞可用于获取管理员权限](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524778&idx=2&sn=17e6675d731950fb6f61f841bb161ef5)
-- 复旦白泽战队
-  - [首尔特辑 | 白泽ASE 2025 参会小记](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247497294&idx=1&sn=24eec8380374c0615d6eeaf90ac5943b)
-- 补天平台
-  - [庆元旦迎新春！极兔SRC额外现金奖励来袭！](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247509963&idx=1&sn=4ef935cf7aaeec3f01bb78f9b7f86856)
 - 信息安全国家工程研究中心
   - [专家解读｜系统强化拟人化互动服务安全能力 持续推进人工智能安全治理体系完善](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247502597&idx=1&sn=c0259aa151bd5b87076904e5430729b4)
 - 长亭科技
   - [攻防兼备，智守未来：长亭科技荣获北京市AI创新大赛双项大奖](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651390039&idx=1&sn=2c97d50f0c6f8e520e899c5fe45fd9d9)
-- 极客公园
-  - [AI，已经开始拿捏「20 后」了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653096289&idx=1&sn=aeba98e083ab764e01ff35c8aed515b1)
-  - [雷军：小字是陋习，骂小米应该客观；传比亚迪组建5000人智驾团队；人类首次「看见」黑洞扭曲时空 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653096254&idx=1&sn=d6882c2befe8222f683ff09a1d4d1223)
-- 安全圈
-  - [【安全圈】汉堡王遭遇了全面的线上系统崩溃](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073547&idx=1&sn=83fa786523b4790fed1afeb7236635fa)
-  - [【安全圈】币安旗下 Trust Wallet 遭供应链攻击，官方或将赔付 850 万美元](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073547&idx=2&sn=bcf9149c2b50879232da48845ea0464b)
-  - [【安全圈】Handala 黑客通过入侵 Telegram 账户攻击以色列官员](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073547&idx=3&sn=046b6052bc15c751f6b4cf753ad754d6)
-- 斗象智能安全
-  - [智能汽车安全，始于但不止于漏洞挖掘](https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495268&idx=1&sn=d3bc1813528061e01b1508ffbcb892b6)
-- 绿盟科技研究通讯
-  - [论文解读：《A Survey of Context Engineering for Large Language Models》](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499365&idx=1&sn=fc50950b49bfc7b26c485df5461f3375)
-- 嘶吼专业版
-  - [WebRAT恶意软件借GitHub伪造漏洞利用程序传播](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586155&idx=1&sn=1a0a0a55fe04941ad4741193fe988630)
+- 补天平台
+  - [庆元旦迎新春！极兔SRC额外现金奖励来袭！](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247509963&idx=1&sn=4ef935cf7aaeec3f01bb78f9b7f86856)
 - 中国信息安全
   - [专题·金融安全 | 破解人才之困 筑牢数字时代金融网络安全屏障](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256889&idx=1&sn=006056f9bdbe8adf8222459caf1a6b35)
   - [专家解读 | 申卫星：加强网络空间法治建设 依法更好保障网络安全](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256889&idx=2&sn=32a8bc764c231d7caf864586c478a3f5)
   - [通知 | 《网络安全标准实践指南——工业企业数据安全能力成熟度模型（征求意见稿）》公开征求意见（附下载）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256889&idx=3&sn=c485efd7cdb6e21a2652514494215187)
   - [评论 | 综合施策持续深化网络生态治理](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256889&idx=4&sn=b65ca9a8beb8f22a4777ed55c665c88b)
+- 安全圈
+  - [【安全圈】汉堡王遭遇了全面的线上系统崩溃](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073547&idx=1&sn=83fa786523b4790fed1afeb7236635fa)
+  - [【安全圈】币安旗下 Trust Wallet 遭供应链攻击，官方或将赔付 850 万美元](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073547&idx=2&sn=bcf9149c2b50879232da48845ea0464b)
+  - [【安全圈】Handala 黑客通过入侵 Telegram 账户攻击以色列官员](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073547&idx=3&sn=046b6052bc15c751f6b4cf753ad754d6)
+- 看雪学苑
+  - [逆向分析某手游基于异常的内存保护](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458607141&idx=1&sn=4bbcad4c23989173b834046f8852b3b4)
+  - [速通秘籍来咯！VMProtect虚拟机逆向入门](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458607141&idx=2&sn=6e4571fdc73e8e83a5aefa350ea0c1a9)
+- 嘶吼专业版
+  - [WebRAT恶意软件借GitHub伪造漏洞利用程序传播](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586155&idx=1&sn=1a0a0a55fe04941ad4741193fe988630)
+- 慢雾科技
+  - [慢雾 CISO 23pds 受邀参与「Web3 领袖项目」公开课分享](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247504157&idx=1&sn=1979e1ad45483ed613dce71f8fa52a19)
+- 安全牛
+  - [安全筑基，智启新程 —— 安全牛 2026 年新年开工贺词](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139947&idx=1&sn=b9c5fd6d9300a1f5b7592ebe131d3014)
+- 复旦白泽战队
+  - [首尔特辑 | 白泽ASE 2025 参会小记](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247497294&idx=1&sn=24eec8380374c0615d6eeaf90ac5943b)
+- 斗象智能安全
+  - [智能汽车安全，始于但不止于漏洞挖掘](https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495268&idx=1&sn=d3bc1813528061e01b1508ffbcb892b6)
+- 极客公园
+  - [AI，已经开始拿捏「20 后」了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653096289&idx=1&sn=aeba98e083ab764e01ff35c8aed515b1)
+  - [雷军：小字是陋习，骂小米应该客观；传比亚迪组建5000人智驾团队；人类首次「看见」黑洞扭曲时空 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653096254&idx=1&sn=d6882c2befe8222f683ff09a1d4d1223)
+- 数世咨询
+  - [当攻击速度快于补丁速度：为什么 2026 将成为“机器速度安全”的关键一年](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541332&idx=1&sn=a1bf164f1bd7928e6113c60e9efb21af)
 - 360数字安全
   - [2026数字安全前瞻：AI攻防主导下的八大趋势洞察](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247584069&idx=1&sn=8d11e60da06ee939cbe40dbffe29a25b)
+- Over Security - Cybersecurity news aggregator
+  - [Finding Cisco ACI Classes with Visore](https://www.adainese.it/blog/2026/01/04/finding-cisco-aci-classes-with-visore/)
+- 迪哥讲事
+  - [最强大的格式化工具](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498890&idx=1&sn=bc469b4ed746e2c784bbfe6e5e026cf6)
 - SANS Internet Storm Center, InfoCON: green
   - [Cryptocurrency Scam Emails and Web Pages As We Enter 2026, (Sun, Jan 4th)](https://isc.sans.edu/diary/rss/32594)
 - IT Service Management News
   - [Linee guida ACN sulla gestione degli incidenti](http://blog.cesaregallotti.it/2026/01/linee-guida-acn-sulla-gestione-degli.html)
-- 安全牛
-  - [安全筑基，智启新程 —— 安全牛 2026 年新年开工贺词](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139947&idx=1&sn=b9c5fd6d9300a1f5b7592ebe131d3014)
 - Security Affairs
   - [Resecurity Caught ShinyHunters in Honeypot](https://securityaffairs.com/186528/security/resecurity-caught-shinyhunters-in-honeypot.html)
   - [What is happening to the Internet in Venezuela? Did the U.S. use cyber capabilities?](https://securityaffairs.com/186509/intelligence/what-is-happening-to-the-internet-in-venezuela.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 78](https://securityaffairs.com/186497/malware/security-affairs-malware-newsletter-round-78.html)
   - [Security Affairs newsletter Round 557 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/186485/breaking-news/security-affairs-newsletter-round-557-by-pierluigi-paganini-international-edition.html)
   - [President Trump blocks $2.9M Emcore chip sale over security concerns](https://securityaffairs.com/186473/security/president-trump-blocks-2-9m-emcore-chip-sale-over-security-concerns.html)
-- Over Security - Cybersecurity news aggregator
-  - [Finding Cisco ACI Classes with Visore](https://www.adainese.it/blog/2026/01/04/finding-cisco-aci-classes-with-visore/)
-- 迪哥讲事
-  - [最强大的格式化工具](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498890&idx=1&sn=bc469b4ed746e2c784bbfe6e5e026cf6)
