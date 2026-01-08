@@ -2,41 +2,25 @@
 
 - Microsoft Security Blog
   - [Explore the latest Microsoft Incident Response proactive services for enhanced resilience](https://www.microsoft.com/en-us/security/blog/2026/01/07/explore-the-latest-microsoft-incident-response-proactive-services-for-enhanced-resilience/)
-- SecWiki News
-  - [SecWiki News 2026-01-07 Review](http://www.sec-wiki.com/?2026-01-07)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [River_Past_Video_Cleaner - Buffer Overflow (SEH)](https://cxsecurity.com/issue/WLB-2026010004)
   - [MP3 Convert Lord V1.0 Local Seh Exploit](https://cxsecurity.com/issue/WLB-2026010003)
   - [mrrb.bg-APP - XSS-Reflected](https://cxsecurity.com/issue/WLB-2026010002)
   - [SigInt-Hombre v1 / dynamic Suricata detection rules from real-time threat feeds](https://cxsecurity.com/issue/WLB-2026010001)
+- SecWiki News
+  - [SecWiki News 2026-01-07 Review](http://www.sec-wiki.com/?2026-01-07)
+- Der Flounder
+  - [Deploying Apple beta program tokens using Blueprints in Jamf Pro](https://derflounder.wordpress.com/2026/01/07/deploying-apple-beta-program-tokens-using-blueprints-in-jamf-pro/)
+- InfoSec Write-ups - Medium
+  - [How One “Safe” Optimization Feature Became a Critical Security Failure ⚙️](https://infosecwriteups.com/how-one-safe-optimization-feature-became-a-critical-security-failure-%EF%B8%8F-55b00dc462ec?source=rss----7b722bfd1b8d---4)
+  - [Subdomain Takeover in 2025  — New Methods + Tools](https://infosecwriteups.com/subdomain-takeover-in-2025-new-methods-tools-dba94ba02121?source=rss----7b722bfd1b8d---4)
+  - [One Link, One Report, One Four-Digit Bounty](https://infosecwriteups.com/one-link-one-report-one-four-digit-bounty-a4a682a9b612?source=rss----7b722bfd1b8d---4)
 - 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
   - [一“鉴”识破AI虚假内容！国投智能股份以真护航资本市场稳健发展](https://www.4hou.com/posts/l0Z7)
   - [2025年十大网络安全事件盘点：数字风险已闯入寻常生活](https://www.4hou.com/posts/jBXY)
   - [CSTIS：关于防范SleepyDck恶意软件的风险提示](https://www.4hou.com/posts/kgYr)
-- Taxodium
-  - [日常#10 - 香港迪士尼、莽山五指峰](https://taxodium.ink/nichijou-10.html)
-- Der Flounder
-  - [Deploying Apple beta program tokens using Blueprints in Jamf Pro](https://derflounder.wordpress.com/2026/01/07/deploying-apple-beta-program-tokens-using-blueprints-in-jamf-pro/)
 - Recent Commits to cve:main
   - [Update Wed Jan  7 11:24:21 UTC 2026](https://github.com/trickest/cve/commit/af37d00de656f7786b4fd8ff01e137f9b4318bcb)
-- obaby@mars
-  - [荒漠化](https://h4ck.org.cn/2026/01/22345)
-- Thomas Reed Photography
-  - [Introducing Backroads Bear!](https://www.thomasreedphoto.com/2026/01/07/introducing-backroads-bear/)
-- Horizon3.ai
-  - [Horizon3.ai Appoints Andres Botero as Chief Marketing Officer to Drive Strategic Growth and Category Leadership](https://horizon3.ai/news/press-release/horizon3-appoints-chief-marketing-officer/)
-- Bug Bounty in InfoSec Write-ups on Medium
-  - [How One “Safe” Optimization Feature Became a Critical Security Failure ⚙️](https://infosecwriteups.com/how-one-safe-optimization-feature-became-a-critical-security-failure-%EF%B8%8F-55b00dc462ec?source=rss----7b722bfd1b8d--bug_bounty)
-  - [Subdomain Takeover in 2025  — New Methods + Tools](https://infosecwriteups.com/subdomain-takeover-in-2025-new-methods-tools-dba94ba02121?source=rss----7b722bfd1b8d--bug_bounty)
-  - [One Link, One Report, One Four-Digit Bounty](https://infosecwriteups.com/one-link-one-report-one-four-digit-bounty-a4a682a9b612?source=rss----7b722bfd1b8d--bug_bounty)
-- Quarkslab's blog
-  - [Clang Hardening Cheat Sheet - Ten Years Later](http://blog.quarkslab.com/clang-hardening-cheat-sheet-ten-years-later.html)
-- Malwarebytes
-  - [One million customers on alert as extortion group claims massive Brightspeed data haul](https://www.malwarebytes.com/blog/news/2026/01/one-million-customers-on-alert-as-extortion-group-claims-massive-brightspeed-data-haul)
-- Security Blog | Praetorian
-  - [Where AI Systems Leak Data: A Lifecycle Review of Real Exposure Paths](https://www.praetorian.com/blog/where-ai-systems-leak-data-a-lifecycle-review-of-real-exposure-paths/)
-- daniel.haxx.se
-  - [curl 8.18.0](https://daniel.haxx.se/blog/2026/01/07/curl-8-18-0/)
 - 安全客-有思想的安全新媒体
   - [新型谷歌云钓鱼骗局曝光：结合电话呼叫与伪造客服邮件实施攻击](https://www.anquanke.com/post/id/314204)
   - [麒麟勒索软件攻击圣约医疗波及47.8万名患者](https://www.anquanke.com/post/id/314205)
@@ -48,18 +32,32 @@
   - [法院判令OpenAI在《纽约时报》版权诉讼案中披露2000万条ChatGPT对话日志](https://www.anquanke.com/post/id/314178)
   - [CVE-2025-14026:Forcepoint数据防泄漏(DLP)漏洞致使攻击者可绕过受限Python环境限制](https://www.anquanke.com/post/id/314167)
   - [微软将Edge浏览器打造为集成Copilot的人工智能指挥中心](https://www.anquanke.com/post/id/314168)
-- Dhole Moments
-  - [Practical Collision Attack Against Long Key IDs in PGP](https://soatok.blog/2026/01/07/practical-collision-attack-against-long-key-ids-in-pgp/)
+- obaby@mars
+  - [荒漠化](https://h4ck.org.cn/2026/01/22345)
+- Thomas Reed Photography
+  - [Introducing Backroads Bear!](https://www.thomasreedphoto.com/2026/01/07/introducing-backroads-bear/)
+- Bug Bounty in InfoSec Write-ups on Medium
+  - [How One “Safe” Optimization Feature Became a Critical Security Failure ⚙️](https://infosecwriteups.com/how-one-safe-optimization-feature-became-a-critical-security-failure-%EF%B8%8F-55b00dc462ec?source=rss----7b722bfd1b8d--bug_bounty)
+  - [Subdomain Takeover in 2025  — New Methods + Tools](https://infosecwriteups.com/subdomain-takeover-in-2025-new-methods-tools-dba94ba02121?source=rss----7b722bfd1b8d--bug_bounty)
+  - [One Link, One Report, One Four-Digit Bounty](https://infosecwriteups.com/one-link-one-report-one-four-digit-bounty-a4a682a9b612?source=rss----7b722bfd1b8d--bug_bounty)
+- Horizon3.ai
+  - [Horizon3.ai Appoints Andres Botero as Chief Marketing Officer to Drive Strategic Growth and Category Leadership](https://horizon3.ai/news/press-release/horizon3-appoints-chief-marketing-officer/)
+- Malwarebytes
+  - [One million customers on alert as extortion group claims massive Brightspeed data haul](https://www.malwarebytes.com/blog/news/2026/01/one-million-customers-on-alert-as-extortion-group-claims-massive-brightspeed-data-haul)
+- daniel.haxx.se
+  - [curl 8.18.0](https://daniel.haxx.se/blog/2026/01/07/curl-8-18-0/)
 - rtl-sdr.com
   - [Touchstone Networks in Terminals (TNT): Visualize Touchstone S-Parameter Files in Terminal ASCII](https://www.rtl-sdr.com/touchstone-networks-in-terminals-tnt-visualize-touchstone-s-parameter-files-in-terminal-ascii/)
   - [Mykola: A New Fast Multichannel Scanner Application for RTL-SDR, Airspy and HackRF](https://www.rtl-sdr.com/mykola-a-new-fast-multichannel-scanner-application-for-rtl-sdr-airspy-and-hackrf/)
   - [SDRSharp Frequency Manager Python Application](https://www.rtl-sdr.com/sdrsharp-frequency-manager-python-application/)
+- Dhole Moments
+  - [Practical Collision Attack Against Long Key IDs in PGP](https://soatok.blog/2026/01/07/practical-collision-attack-against-long-key-ids-in-pgp/)
 - HackerNews
   - [研究员聚焦 WhatsApp 元数据泄露：Meta 已悄悄开始修补](https://hackernews.cc/archives/62162)
   - [D-Link 多款老旧 DSL 网关路由器被曝命令注入 0day，已遭野外利用](https://hackernews.cc/archives/62163)
   - [n8n 曝 9.9 分严重漏洞：已登录用户可远程执行系统命令](https://hackernews.cc/archives/62164)
-- Black Hills Information Security, Inc.
-  - [Deceptive-Auditing: An Active Directory Honeypots Tool](https://www.blackhillsinfosec.com/deceptive-auditing/)
+- Security Blog | Praetorian
+  - [Where AI Systems Leak Data: A Lifecycle Review of Real Exposure Paths](https://www.praetorian.com/blog/where-ai-systems-leak-data-a-lifecycle-review-of-real-exposure-paths/)
 - 奇客Solidot–传递最新科技情报
   - [美国气象局使用 AI 生成了不存在的城镇](https://www.solidot.org/story?sid=83249)
   - [青少年周末补觉有助于防止抑郁](https://www.solidot.org/story?sid=83248)
@@ -72,32 +70,35 @@
   - [Discord 秘密申请 IPO](https://www.solidot.org/story?sid=83241)
   - [Manjaro 26.0 释出](https://www.solidot.org/story?sid=83240)
   - [Google 将每年只发布两次 Android 源代码](https://www.solidot.org/story?sid=83239)
+- Black Hills Information Security, Inc.
+  - [Deceptive-Auditing: An Active Directory Honeypots Tool](https://www.blackhillsinfosec.com/deceptive-auditing/)
 - 安全分析与研究
   - [Image图片类银狐最新攻击样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495318&idx=1&sn=344f8c41be902f4c8bdae4ca11035798)
-- 安全客
-  - [英国斥资2.1亿英镑重置国家网络安全战略，坦言既往政策失败](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789598&idx=1&sn=f943447bf9d96d9aa44d8f720cba6a16)
 - 黑鸟
   - [新突破:30B Qwen大模型在树莓派5上流畅运行](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184723&idx=1&sn=61650492c2d8e7370e5bb594e4074594)
+- Quarkslab's blog
+  - [Clang Hardening Cheat Sheet - Ten Years Later](http://blog.quarkslab.com/clang-hardening-cheat-sheet-ten-years-later.html)
+- 二道情报贩子
+  - [春节前该布局大模型概念股了](https://mp.weixin.qq.com/s?__biz=MzU5NTA3MTk5Ng==&mid=2247489942&idx=1&sn=9e7aab39da1cd8f2c792bbde82303296)
+- 安全客
+  - [英国斥资2.1亿英镑重置国家网络安全战略，坦言既往政策失败](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789598&idx=1&sn=f943447bf9d96d9aa44d8f720cba6a16)
+- Shostack & Friends Blog
+  - [Congratulations to ThreatModeler and IriusRisk!](https://shostack.org/blog/congratulations-to-threatmodeler/)
+- 软件安全与逆向分析
+  - [基于编译器Pass技术对安卓DEX混淆代码与花指令进行优化](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484987&idx=1&sn=094d7731af56aefac6a08e9eae52bba5)
+- 奇安信 CERT
+  - [【已复现】ComfyUI-Manager 远程代码执行漏洞(CVE-2025-67303)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504435&idx=1&sn=cf7689de7e6702d8a2265d95cb7bc8c9)
+- 中国信息安全
+  - [论坛·算法治理 | 智能社会的算法治理独立性与体系性研究](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664257079&idx=1&sn=af381b544b091c89f8ed38ab7bb5d42f)
+  - [发布 | 交通运输部：加快交通运输公共数据资源开发利用](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664257079&idx=2&sn=ce73996d24b3d9598bcb3c0bf8231d6c)
+  - [专家解读 | 系统强化拟人化互动服务安全能力 持续推进人工智能安全治理体系完善](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664257079&idx=3&sn=a8785332936dc74e6d65de98cd4ad892)
+  - [发布 | 中国信通院发布《互联网法治研究报告（2025年）》（附下载）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664257079&idx=4&sn=5d658f26663d95788d34d19685e31e07)
+  - [评论 | 多措并举营造清朗有序的网络空间](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664257079&idx=5&sn=a7b72575689fba27ebf3e0b01e8d2341)
+- 网安杂谈
+  - [网安杂谈知识记录本2026.1.7](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889889&idx=1&sn=3893c4684413abbb12eb3701e7dcc0c3)
 - 代码卫士
   - [D-Link：遗留 DSL 路由器中存在已遭利用漏洞，速修复](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524812&idx=1&sn=f525d9edab2101534877ebaa069472f2)
   - [VS Code 分支版本推荐不存在的扩展，在 Open VSX 中引发供应链风险](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524812&idx=2&sn=0edf75f3aa3c9f7e12f65bcbeed9b91f)
-- 二道情报贩子
-  - [春节前该布局大模型概念股了](https://mp.weixin.qq.com/s?__biz=MzU5NTA3MTk5Ng==&mid=2247489942&idx=1&sn=9e7aab39da1cd8f2c792bbde82303296)
-- 奇安信 CERT
-  - [【已复现】ComfyUI-Manager 远程代码执行漏洞(CVE-2025-67303)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504435&idx=1&sn=cf7689de7e6702d8a2265d95cb7bc8c9)
-- 安全内参
-  - [金融行业数据安全风险监测运营体系建设实践](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515430&idx=1&sn=1ddb1355cb2f37d0cd442a8faadeebed)
-  - [委内瑞拉互联网中断事件中的BGP异常分析](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515430&idx=2&sn=c5a9770d450de8adfe7c3ba3cdb8bba9)
-- VAADATA – Ethical Hacking Services
-  - [Social Engineering and Red Teaming: Understanding Threats and Defence Strategies](https://www.vaadata.com/blog/social-engineering-and-red-teaming-understanding-threats-and-defence-strategies/)
-- 软件安全与逆向分析
-  - [基于编译器Pass技术对安卓DEX混淆代码与花指令进行优化](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484987&idx=1&sn=094d7731af56aefac6a08e9eae52bba5)
-- 看雪学苑
-  - [深入浅出 Capstone 框架学习](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458607524&idx=1&sn=e9537990eb1166ee036bf3b75a5a6807)
-  - [安卓音频解码组件曝高危漏洞，可致恶意代码执行，谷歌紧急发布补丁](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458607524&idx=2&sn=b3b2085a4a5679c063ceb49dae3c505b)
-  - [预售加购中...实战驱动：Windows 内核与高级调试](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458607524&idx=3&sn=4186d26d50f2c04671a3dc6c9bf395c2)
-- 网安杂谈
-  - [网安杂谈知识记录本2026.1.7](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889889&idx=1&sn=3893c4684413abbb12eb3701e7dcc0c3)
 - 安全圈
   - [【安全圈】美军进攻委内瑞拉前当地电信公司BGP路由发生异常 流量被引导至不安全的路线](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073601&idx=1&sn=10d365f3aeaa11a32edd4b32ab718cbd)
   - [【安全圈】两款Chrome扩展窃取90万用户与ChatGPT的对话记录](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073601&idx=2&sn=340af758cdc973198fef16ee90d05a49)
@@ -105,43 +106,46 @@
   - [【安全圈】D-Link 多款老旧 DSL 网关路由器被曝命令注入 0day，已遭野外利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073601&idx=4&sn=9c7154506dafe5b5720c6a61411d4662)
 - 吾爱破解论坛
   - [无源NFC墨水屏制作](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143370&idx=1&sn=88a662c68c1fd5eeb9abc1f163a6f073)
-- XCTF联赛
-  - [LilacCTF 2026丨破晓首战，竞启新章](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516118&idx=1&sn=ac3862084d570f1950c9d84462191981)
-- 数世咨询
-  - [电信行业安全重启：零信任正在成为唯一出路](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541356&idx=1&sn=1dd2515500a201e42596132e16db5f5a)
-- 微步在线
-  - [直播预告 | 2026：银狐的反常识真相](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650185373&idx=1&sn=e38ae4da43d0a98e0fdba47bb78aaed0)
-- 阿里安全响应中心
-  - [先知通用软件漏洞收集及奖励计划第十期 正式开始！](https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652998491&idx=1&sn=0db5039114f7a7bae17301a318fe02ad)
-- 嘶吼专业版
-  - [2025年十大网络安全事件盘点：数字风险已闯入寻常生活](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586237&idx=1&sn=2422faca8e9393ba21d80ce4f8a019ac)
-  - [CSTIS：关于防范SleepyDck恶意软件的风险提示](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586237&idx=2&sn=aa9ddbcb6598ff313af2e32fab40ae2f)
-- 丁爸 情报分析师的工具箱
-  - [【情报】美国空军近两日有异常活动](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153630&idx=1&sn=612459184133677dded574f2979a75e6)
+- VAADATA – Ethical Hacking Services
+  - [Social Engineering and Red Teaming: Understanding Threats and Defence Strategies](https://www.vaadata.com/blog/social-engineering-and-red-teaming-understanding-threats-and-defence-strategies/)
+- 安全内参
+  - [金融行业数据安全风险监测运营体系建设实践](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515430&idx=1&sn=1ddb1355cb2f37d0cd442a8faadeebed)
+  - [委内瑞拉互联网中断事件中的BGP异常分析](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515430&idx=2&sn=c5a9770d450de8adfe7c3ba3cdb8bba9)
 - 补天平台
   - [马年赴新程，补天众测迎新礼|新年礼盒大派送！](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510020&idx=1&sn=2fe58ed1bca783dbfbff2f67889c6fe9)
+- XCTF联赛
+  - [LilacCTF 2026丨破晓首战，竞启新章](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516118&idx=1&sn=ac3862084d570f1950c9d84462191981)
 - 极客公园
   - [对话高德扫街榜产品经理：真正的「活」榜单是怎样炼成的？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653096637&idx=1&sn=7a80b43c21f4a167cdec6a04b1ab7099)
   - [CES 2026 正式开幕；英伟达挑战特斯拉FSD，马斯克：希望他们成功；小米公布 KOL 事件处理结果｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653096612&idx=1&sn=9054fadb0680f3a91b6ae01ca739dbd3)
   - [CES 2026 最疯狂的 25 个脑洞，全在这里了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653096595&idx=1&sn=ab45c5f08c4f2f29ba9a9efb1e59a5f2)
   - [告别「傻大黑粗」，大疆这款史上最小 1 度电电源，把细节卷到了极致](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653096595&idx=2&sn=35673ccbcd023d1dd2305132e9040b4c)
-- 火绒安全
-  - [火绒小问答 ——「个人版」功能使用类top问题解答](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247529819&idx=1&sn=ba41d9a8d619b36075075ca4ed9a2947)
-  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247529819&idx=2&sn=9a70914f43bff3b2865f43d6abdf9738)
-- 黑伞安全
-  - [当 AI 安全赛变成了 Web 捡漏局：第三届数信杯参赛思考与“模型防御”题的非预期解](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489898&idx=1&sn=aadb060149225e8c1dfc44b06ee7e6ff)
-  - [大模型安全定制服务上线](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489898&idx=2&sn=7ccbafbe7d074b5c7b71c1ce664852b0)
+- 阿里安全响应中心
+  - [先知通用软件漏洞收集及奖励计划第十期 正式开始！](https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652998491&idx=1&sn=0db5039114f7a7bae17301a318fe02ad)
+- 数世咨询
+  - [电信行业安全重启：零信任正在成为唯一出路](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541356&idx=1&sn=1dd2515500a201e42596132e16db5f5a)
+- 丁爸 情报分析师的工具箱
+  - [【情报】美国空军近两日有异常活动](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153630&idx=1&sn=612459184133677dded574f2979a75e6)
 - 安全牛
   - [OpenAI拉响“高危”警报，CTF胜率从27%飙升至76%！](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140034&idx=1&sn=4abcb0117943866951c8aaf89613c508)
   - [网络安全报告 | 让安全智赋®企业 AI 数智革新与出海远航](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140034&idx=2&sn=7ad31a5435e2c87efb4bc2285e708658)
-- 中国信息安全
-  - [论坛·算法治理 | 智能社会的算法治理独立性与体系性研究](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664257079&idx=1&sn=af381b544b091c89f8ed38ab7bb5d42f)
-  - [发布 | 交通运输部：加快交通运输公共数据资源开发利用](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664257079&idx=2&sn=ce73996d24b3d9598bcb3c0bf8231d6c)
-  - [专家解读 | 系统强化拟人化互动服务安全能力 持续推进人工智能安全治理体系完善](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664257079&idx=3&sn=a8785332936dc74e6d65de98cd4ad892)
-  - [发布 | 中国信通院发布《互联网法治研究报告（2025年）》（附下载）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664257079&idx=4&sn=5d658f26663d95788d34d19685e31e07)
-  - [评论 | 多措并举营造清朗有序的网络空间](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664257079&idx=5&sn=a7b72575689fba27ebf3e0b01e8d2341)
+- 嘶吼专业版
+  - [2025年十大网络安全事件盘点：数字风险已闯入寻常生活](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586237&idx=1&sn=2422faca8e9393ba21d80ce4f8a019ac)
+  - [CSTIS：关于防范SleepyDck恶意软件的风险提示](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586237&idx=2&sn=aa9ddbcb6598ff313af2e32fab40ae2f)
+- 火绒安全
+  - [火绒小问答 ——「个人版」功能使用类top问题解答](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247529819&idx=1&sn=ba41d9a8d619b36075075ca4ed9a2947)
+  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247529819&idx=2&sn=9a70914f43bff3b2865f43d6abdf9738)
+- 微步在线
+  - [直播预告 | 2026：银狐的反常识真相](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650185373&idx=1&sn=e38ae4da43d0a98e0fdba47bb78aaed0)
 - 情报分析师
   - [伊朗情报体系的结构与运作机制解析](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650565702&idx=1&sn=1641d1ccf19bf25d36f0432b83bbc8d8)
+- 黑伞安全
+  - [当 AI 安全赛变成了 Web 捡漏局：第三届数信杯参赛思考与“模型防御”题的非预期解](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489898&idx=1&sn=aadb060149225e8c1dfc44b06ee7e6ff)
+  - [大模型安全定制服务上线](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489898&idx=2&sn=7ccbafbe7d074b5c7b71c1ce664852b0)
+- 看雪学苑
+  - [深入浅出 Capstone 框架学习](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458607524&idx=1&sn=e9537990eb1166ee036bf3b75a5a6807)
+  - [安卓音频解码组件曝高危漏洞，可致恶意代码执行，谷歌紧急发布补丁](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458607524&idx=2&sn=b3b2085a4a5679c063ceb49dae3c505b)
+  - [预售加购中...实战驱动：Windows 内核与高级调试](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458607524&idx=3&sn=4186d26d50f2c04671a3dc6c9bf395c2)
 - Over Security - Cybersecurity news aggregator
   - [New GoBruteforcer attack wave targets crypto, blockchain projects](https://www.bleepingcomputer.com/news/security/new-gobruteforcer-attack-wave-targets-crypto-blockchain-projects/)
   - [OpenAI says ChatGPT won't use your health information to train its models](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-wont-use-your-health-information-to-train-its-models/)
@@ -167,43 +171,35 @@
   - [CryptPad e paradigma zero-knowledge: binomio vincente per la sicurezza dei dati aziendali](https://www.cybersecurity360.it/soluzioni-aziendali/cryptpad-e-il-paradigma-zero-knowledge-un-binomio-vincente/)
   - [UK announces plan to strengthen public sector cyber defenses](https://www.bleepingcomputer.com/news/security/uk-announces-plan-to-strengthen-public-sector-cyber-defenses/)
   - [CPR come zone offline: quando la cyber security diventa esclusione sociale](https://www.cybersecurity360.it/cultura-cyber/cpr-come-zone-offline-quando-la-cyber-security-diventa-esclusione-sociale/)
-  - [How Cisco Talos powers the solutions protecting your organization](https://blog.talosintelligence.com/how-cisco-talos-powers-the-solutions-protecting-your-organization/)
-  - [OpenAI is reportedly getting ready to test ads in ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-getting-ready-to-test-ads-in-chatgpt/)
+- Microsoft Security Blog
+  - [Explore the latest Microsoft Incident Response proactive services for enhanced resilience](https://www.microsoft.com/en-us/security/blog/2026/01/07/explore-the-latest-microsoft-incident-response-proactive-services-for-enhanced-resilience/)
 - 国家互联网应急中心CNCERT
   - [网络安全信息与动态周报2026年第1期（2025年12月29日-2026年1月4日）](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501084&idx=1&sn=d74b97ab6b34d7e0b214f8d94a172fab)
-- ICT Security Magazine
-  - [Genesis Mission: l’America si prepara a dominare il mondo e il futuro del potere globale](https://www.ictsecuritymagazine.com/articoli/genesis-mission-america-usa/)
-- bellingcat
-  - [Inside the Strike: The US Munition That Hit a Residential Building in Venezuela](https://www.bellingcat.com/news/2026/01/07/inside-the-strike-the-us-munition-that-hit-a-residential-building-in-venezuela/)
+- Securityinfo.it
+  - [Due estensioni Chrome hanno compromesso le chat di ChatGPT e DeepSeek](https://www.securityinfo.it/2026/01/07/due-estensioni-chrome-hanno-compromesso-le-chat-di-chatgpt-e-deepseek/?utm_source=rss&utm_medium=rss&utm_campaign=due-estensioni-chrome-hanno-compromesso-le-chat-di-chatgpt-e-deepseek)
+- 迪哥讲事
+  - [攻防演练中的快速打点思路小结](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498899&idx=1&sn=dc7748cd345aa7706da1dc3bbd74a510)
 - 360数字安全
   - [360独家发布《银狐木马年度报告》，深度剖析网络威胁“隐形炸弹”](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247584385&idx=1&sn=f5f0178b35b72bb8e115ae3c8cb1bab2)
-- Troy Hunt's Blog
-  - [Weekly Update 485](https://www.troyhunt.com/weekly-update-485/)
-- NetSPI
-  - [Webinar Recap: The AI Balancing Act: Benchmarking LLMs for Usability vs. Security](https://www.netspi.com/blog/executive-blog/ai-ml-pentesting/webinar-recap-the-ai-balancing-act-benchmarking-llms-for-usability-vs-security/)
+- bellingcat
+  - [Inside the Strike: The US Munition That Hit a Residential Building in Venezuela](https://www.bellingcat.com/news/2026/01/07/inside-the-strike-the-us-munition-that-hit-a-residential-building-in-venezuela/)
 - SANS Internet Storm Center, InfoCON: green
   - [A phishing campaign with QR codes rendered using an HTML table, (Wed, Jan 7th)](https://isc.sans.edu/diary/rss/32606)
   - [ISC Stormcast For Wednesday, January 7th, 2026 https://isc.sans.edu/podcastdetail/9756, (Wed, Jan 7th)](https://isc.sans.edu/diary/rss/32604)
-- Daniel Miessler
-  - [Everything I've Said About AI Since 2016: A Retrospective](https://danielmiessler.com/blog/my-ai-predictions-retrospective?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- Troy Hunt's Blog
+  - [Weekly Update 485](https://www.troyhunt.com/weekly-update-485/)
+- Schneier on Security
+  - [The Wegman’s Supermarket Chain Is Probably Using Facial Recognition](https://www.schneier.com/blog/archives/2026/01/the-wegmans-supermarket-chain-is-probably-using-facial-recognition.html)
+- NetSPI
+  - [Webinar Recap: The AI Balancing Act: Benchmarking LLMs for Usability vs. Security](https://www.netspi.com/blog/executive-blog/ai-ml-pentesting/webinar-recap-the-ai-balancing-act-benchmarking-llms-for-usability-vs-security/)
+- ICT Security Magazine
+  - [Genesis Mission: l’America si prepara a dominare il mondo e il futuro del potere globale](https://www.ictsecuritymagazine.com/articoli/genesis-mission-america-usa/)
 - Security Affairs
   - [Ni8mare flaw gives unauthenticated control of n8n instances](https://securityaffairs.com/186648/security/ni8mare-flaw-gives-unauthenticated-control-of-n8n-instances.html)
   - [Misconfigured email routing enables internal-spoofed phishing](https://securityaffairs.com/186638/hacking/misconfigured-email-routing-enables-internal-spoofed-phishing.html)
   - [Veeam resolves CVSS 9.0 RCE flaw and other security issues](https://securityaffairs.com/186630/security/veeam-resolves-cvss-9-0-rce-flaw-and-other-security-issues.html)
   - [Hackers actively exploit critical RCE flaw in legacy D-Link DSL routers](https://securityaffairs.com/186616/hacking/hackers-actively-exploit-critical-rce-flaw-in-legacy-d-link-dsl-routers.html)
   - [Fake Booking.com lures and BSoD scams spread DCRat in European hospitality sector](https://securityaffairs.com/186606/cyber-crime/fake-booking-com-lures-and-bsod-scams-spread-dcrat-in-european-hospitality-sector.html)
-- Deeplinks
-  - [ICE Is Going on a Surveillance Shopping Spree](https://www.eff.org/deeplinks/2026/01/ice-going-surveillance-shopping-spree)
-- Securityinfo.it
-  - [Due estensioni Chrome hanno compromesso le chat di ChatGPT e DeepSeek](https://www.securityinfo.it/2026/01/07/due-estensioni-chrome-hanno-compromesso-le-chat-di-chatgpt-e-deepseek/?utm_source=rss&utm_medium=rss&utm_campaign=due-estensioni-chrome-hanno-compromesso-le-chat-di-chatgpt-e-deepseek)
-- 迪哥讲事
-  - [攻防演练中的快速打点思路小结](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498899&idx=1&sn=dc7748cd345aa7706da1dc3bbd74a510)
-- OnionSec
-  - [EmEditor带毒事件的反思与应对](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485715&idx=1&sn=07c37457e380f5ef96b8d95ebcbf1f57)
-- Schneier on Security
-  - [The Wegman’s Supermarket Chain Is Probably Using Facial Recognition](https://www.schneier.com/blog/archives/2026/01/the-wegmans-supermarket-chain-is-probably-using-facial-recognition.html)
-- Microsoft Security Blog
-  - [Explore the latest Microsoft Incident Response proactive services for enhanced resilience](https://www.microsoft.com/en-us/security/blog/2026/01/07/explore-the-latest-microsoft-incident-response-proactive-services-for-enhanced-resilience/)
 - The Hacker News
   - [Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators](https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html)
   - [Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches](https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html)
@@ -213,8 +209,14 @@
   - [Veeam Patches Critical RCE Vulnerability with CVSS 9.0 in Backup & Replication](https://thehackernews.com/2026/01/veeam-patches-critical-rce.html)
   - [Microsoft Warns Misconfigured Email Routing Can Enable Internal Domain Phishing](https://thehackernews.com/2026/01/microsoft-warns-misconfigured-email.html)
   - [Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers](https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html)
+- Deeplinks
+  - [ICE Is Going on a Surveillance Shopping Spree](https://www.eff.org/deeplinks/2026/01/ice-going-surveillance-shopping-spree)
+- OnionSec
+  - [EmEditor带毒事件的反思与应对](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485715&idx=1&sn=07c37457e380f5ef96b8d95ebcbf1f57)
 - 安全419
   - [安全419企业探营 | 带你了解一家全新的数据安全企业](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247551999&idx=1&sn=06c227255faf2f3282d66d8dd9ee7b52)
+- Daniel Miessler
+  - [Everything I've Said About AI Since 2016: A Retrospective](https://danielmiessler.com/blog/my-ai-predictions-retrospective?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - Security Weekly Podcast Network (Audio)
   - [CISO Lessons from a Children’s Novel as Cybersecurity Outgrows IT and Building Talent - Tom Arnold - BSW #429](http://sites.libsyn.com/18678/ciso-lessons-from-a-childrens-novel-as-cybersecurity-outgrows-it-and-building-talent-tom-arnold-bsw-429)
 - 希潭实验室
