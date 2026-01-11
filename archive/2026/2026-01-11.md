@@ -1,22 +1,11 @@
 # 每日安全资讯（2026-01-11）
 
-- InfoSec Write-ups - Medium
-  - [Bug Bounty Tools: A Practical List of Old & New Tools Real Hackers Use](https://infosecwriteups.com/bug-bounty-tools-a-practical-list-of-old-new-tools-real-hackers-use-bbf7eb7009f8?source=rss----7b722bfd1b8d---4)
-  - [Which Bugs to Hunt for in 2026](https://infosecwriteups.com/which-bugs-to-hunt-for-in-2026-9359d33b0f57?source=rss----7b722bfd1b8d---4)
-  - [How I Hacked My College’s Website and Found a CVE Affecting 100+ Institutions across India](https://infosecwriteups.com/how-i-hacked-my-colleges-website-and-found-a-cve-affecting-100-institutions-across-india-29b3c8266a11?source=rss----7b722bfd1b8d---4)
-  - [We Grow on the Edge of the Abyss](https://infosecwriteups.com/we-grow-on-the-edge-of-the-abyss-67a61fd00ee0?source=rss----7b722bfd1b8d---4)
-  - [One Forgotten Subdomain, Thousands of User Records — A Recon Story](https://infosecwriteups.com/one-forgotten-subdomain-thousands-of-user-records-a-recon-story-6dcde55aaa7c?source=rss----7b722bfd1b8d---4)
-  - [CyberHeroes THM Writeup](https://infosecwriteups.com/cyberheroes-thm-writeup-80985a5e9136?source=rss----7b722bfd1b8d---4)
-  - [[Relevant]  —  Windows Server 2016 Exploitation via IIS Enumeration, Credential Disclosure, and…](https://infosecwriteups.com/relevant-windows-server-2016-exploitation-via-iis-enumeration-credential-disclosure-and-518ca3f4a66e?source=rss----7b722bfd1b8d---4)
-  - [Digital Travel App TripBFF Exposed Location Data Way Too Accurately](https://infosecwriteups.com/digital-travel-app-tripbff-exposed-location-data-way-too-accurately-524cd0792a7d?source=rss----7b722bfd1b8d---4)
-  - [Critical n8n Security Vulnerability (CVE-2026–21858) Demands Immediate Action](https://infosecwriteups.com/critical-n8n-security-vulnerability-cve-2026-21858-demands-immediate-action-c4bd95b5d93c?source=rss----7b722bfd1b8d---4)
-  - [I Was Logged Out — But the API Still Trusted Me](https://infosecwriteups.com/i-was-logged-out-but-the-api-still-trusted-me-85ebbe020544?source=rss----7b722bfd1b8d---4)
-- Sukka's Blog
-  - [为 Microsoft 365 添加 1Password 等 Synced Passkey](https://blog.skk.moe/post/microsoft-365-1password-passkey/)
 - SecWiki News
   - [SecWiki News 2026-01-10 Review](http://www.sec-wiki.com/?2026-01-10)
 - Recent Commits to cve:main
   - [Update Sat Jan 10 11:31:47 UTC 2026](https://github.com/trickest/cve/commit/3157bd969984152a9d3fb2d5ab6de54f8d6cc496)
+- Sukka's Blog
+  - [为 Microsoft 365 添加 1Password 等 Synced Passkey](https://blog.skk.moe/post/microsoft-365-1password-passkey/)
 - Taxodium
   - [Album#25 - Live At The Jazz Cafe](https://taxodium.ink/album-25.html)
 - Bug Bounty in InfoSec Write-ups on Medium
@@ -28,6 +17,8 @@
 - Adam Caudill
   - [Five Years with Hugo](https://adamcaudill.com/2026/01/10/five-years-with-hugo/?utm_source=atom_feed)
 - 奇客Solidot–传递最新科技情报
+  - [欧洲征询开源软件的意见](https://www.solidot.org/story?sid=83273)
+  - [挪威诺贝尔委员会声明诺贝尔奖不能被转让](https://www.solidot.org/story?sid=83272)
   - [伊朗断网两天](https://www.solidot.org/story?sid=83271)
   - [考古学家发现有 6 万年历史的毒箭](https://www.solidot.org/story?sid=83270)
   - [越南政府禁止已 root 的手机使用手机银行](https://www.solidot.org/story?sid=83269)
@@ -56,15 +47,21 @@
   - [【安全圈】2025年中国十大宕机事件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073647&idx=1&sn=16fab3921adf37bcd4042f3c44594ffc)
   - [【安全圈】154个机密数据库被黑客窃取](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073647&idx=2&sn=b127ea4bd482f25be84940885066bbb7)
   - [【安全圈】思科交换机DNS客户端漏洞事件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073647&idx=3&sn=dc42dce00e90108d55e8d5ba87118a10)
-- 极客公园
-  - [四位国产大模型「训练师」，聊了聊中国 AI 的 2026](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653096991&idx=1&sn=a4632e778577e9dcec26a9eb4d623cc5)
-  - [外卖平台服务行业将迎反内卷调查；MiniMax 上市首日涨超 100%；卢伟冰回应小米 2025 争议｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653096941&idx=1&sn=f72a66c52e6ca4d77aa3951d11d5d957)
-- 执经衡门
-  - [蓝星十年，是我们的青春，也是互联网安全的历史](https://mp.weixin.qq.com/s?__biz=MzUxMjkxMzY2OA==&mid=2247483857&idx=1&sn=d0a58df38ba33de784b3fec7b384aaf8)
 - 吾爱破解论坛
   - [对vmp3.2虚拟机内爆破的一点研究](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143450&idx=1&sn=7564fe4f3811b99c11fe49d894c74046)
 - 丁爸 情报分析师的工具箱
   - [【情报】美国原油产量比其他任何国家都多，它为什么还是要抢委内瑞拉原油呢？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153659&idx=1&sn=e5c39358336a8cbbf832498076817c00)
+- 执经衡门
+  - [蓝星十年，是我们的青春，也是互联网安全的历史](https://mp.weixin.qq.com/s?__biz=MzUxMjkxMzY2OA==&mid=2247483857&idx=1&sn=d0a58df38ba33de784b3fec7b384aaf8)
+- 极客公园
+  - [四位国产大模型「训练师」，聊了聊中国 AI 的 2026](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653096991&idx=1&sn=a4632e778577e9dcec26a9eb4d623cc5)
+  - [外卖平台服务行业将迎反内卷调查；MiniMax 上市首日涨超 100%；卢伟冰回应小米 2025 争议｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653096941&idx=1&sn=f72a66c52e6ca4d77aa3951d11d5d957)
+- 情报分析师
+  - [16岁加入克格勃，打开苏联“非法情报员”父子档传奇！](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650565841&idx=1&sn=9d734ae0da99af570bf17368dd726e79)
+- 谛听ditecting
+  - [谛听 工控安全月报 | 12月](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247496949&idx=1&sn=fa563876ad43eac1fe564176eef668f1)
+- 迪哥讲事
+  - [深入理解JavaScript 来挖洞](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498907&idx=1&sn=e38a1411c82718b67d3ad8133d5ad7b2)
 - Over Security - Cybersecurity news aggregator
   - [BreachForums hacking forum database leaked, exposing 324,000 accounts](https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-database-leaked-exposing-324-000-accounts/)
   - [Spain arrests 34 suspects linked to Black Axe cyber crime](https://www.bleepingcomputer.com/news/security/spain-arrests-34-suspects-linked-to-black-axe-cyber-crime/)
@@ -72,22 +69,16 @@
   - [BreachForums (2025) - 324,449 breached accounts](https://haveibeenpwned.com/Breach/BreachForums2025)
   - [Ireland recalls almost 13,000 passports over missing 'IRL' code](https://www.bleepingcomputer.com/news/security/ireland-recalls-almost-13-000-passports-over-missing-irl-code/)
   - [Anthropic: Viral Claude “Banned and reported to authorities” message isn’t real](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-viral-claude-banned-and-reported-to-authorities-message-isnt-real/)
-- 谛听ditecting
-  - [谛听 工控安全月报 | 12月](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247496949&idx=1&sn=fa563876ad43eac1fe564176eef668f1)
-- 情报分析师
-  - [16岁加入克格勃，打开苏联“非法情报员”父子档传奇！](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650565841&idx=1&sn=9d734ae0da99af570bf17368dd726e79)
 - Have I Been Pwned latest breaches
   - [BreachForums (2025) - 672,247 breached accounts](https://haveibeenpwned.com/Breach/BreachForums2025)
+- 网络安全回收站
+  - [20块钱20分钟，Manus帮我"蒸馏"了腾讯智能渗透挑战赛的精华](https://mp.weixin.qq.com/s?__biz=Mzg2MTc1NDAxMA==&mid=2247484972&idx=1&sn=f33a271dcae4432567366cc61449bd19)
 - IT Service Management News
   - [NIST SP 800-61 Rev. 3 su gestione degli incidenti e CSF 2.0](http://blog.cesaregallotti.it/2026/01/nist-sp-800-61-rev-3-su-gestione-degli.html)
-- 迪哥讲事
-  - [深入理解JavaScript 来挖洞](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498907&idx=1&sn=e38a1411c82718b67d3ad8133d5ad7b2)
+- The Hacker News
+  - [MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors](https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html)
+  - [Europol Arrests 34 Black Axe Members in Spain Over €5.9M Fraud and Organized Crime](https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html)
 - Security Affairs
   - [A massive breach exposed data of 17.5M Instagram users](https://securityaffairs.com/186765/data-breach/a-massive-breach-exposed-data-of-17-5m-instagram-users.html)
   - [North Korea–linked APT Kimsuky behind quishing attacks, FBI warns](https://securityaffairs.com/186755/intelligence/north-korea-linked-apt-kimsuky-behind-quishing-attacks-fbi-warns.html)
   - [Illinois Department of Human Services (IDHS) suffered a data breach that impacted 700K individuals](https://securityaffairs.com/186745/data-breach/illinois-department-of-human-services-idhs-suffered-a-data-breach-that-impacted-700k-individuals.html)
-- The Hacker News
-  - [MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors](https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html)
-  - [Europol Arrests 34 Black Axe Members in Spain Over €5.9M Fraud and Organized Crime](https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html)
-- 网络安全回收站
-  - [20块钱20分钟，Manus帮我"蒸馏"了腾讯智能渗透挑战赛的精华](https://mp.weixin.qq.com/s?__biz=Mzg2MTc1NDAxMA==&mid=2247484972&idx=1&sn=f33a271dcae4432567366cc61449bd19)
