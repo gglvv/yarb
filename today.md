@@ -1,17 +1,19 @@
 # 每日安全资讯（2026-01-12）
 
-- Recent Commits to cve:main
-  - [Update Sun Jan 11 11:34:32 UTC 2026](https://github.com/trickest/cve/commit/a5fc74151c19941f2075f06a381982a4354e30fc)
-- 先知安全技术社区
-  - [利用控制面板COM对象实现内网横向移动的新型DCOM攻击技术](https://xz.aliyun.com/news/91110)
-- Blog | AppSec Labs
-  - [AI-Driven Penetration Testing For Evolving Threats: A CISO Guide](https://appsec-labs.com/ai-driven-penetration-testing-for-evolving-threats-a-ciso-guide/)
 - SecWiki News
   - [SecWiki News 2026-01-11 Review](http://www.sec-wiki.com/?2026-01-11)
+- Recent Commits to cve:main
+  - [Update Sun Jan 11 11:34:32 UTC 2026](https://github.com/trickest/cve/commit/a5fc74151c19941f2075f06a381982a4354e30fc)
+- Blog | AppSec Labs
+  - [AI-Driven Penetration Testing For Evolving Threats: A CISO Guide](https://appsec-labs.com/ai-driven-penetration-testing-for-evolving-threats-a-ciso-guide/)
+- 先知安全技术社区
+  - [利用控制面板COM对象实现内网横向移动的新型DCOM攻击技术](https://xz.aliyun.com/news/91110)
 - 先知安全技术社区
   - [利用控制面板COM对象实现内网横向移动的新型DCOM攻击技术](https://xz.aliyun.com/news/91110)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-01-10: Ten days of scans and probes and web traffic hitting my web server](https://www.malware-traffic-analysis.net/2026/01/10/index.html)
+- Reverse Engineering
+  - [Hades game reversing/patching](https://www.reddit.com/r/ReverseEngineering/comments/1qad0i3/hades_game_reversingpatching/)
 - nikic's blog
   - [LLVM: The bad parts](https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html)
 - 奇客Solidot–传递最新科技情报
@@ -24,35 +26,24 @@
   - [网安Ai框架CAI与机器狗结合可进行近源渗透](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184783&idx=1&sn=bf4319f551f7c78d488e27136e8320a6)
 - 皮相
   - [卫浴铝合金置物架的粘合固定](https://mp.weixin.qq.com/s?__biz=MzI0NDA5MDYyNA==&mid=2648257317&idx=1&sn=f1e15d7bd33822ff2162f78b7fd0c24f)
+- 青衣十三楼飞花堂
+  - [因式分解练习题](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488951&idx=1&sn=9a69cd7ebf3b4425ca73567ded76baf5)
 - 威努特安全网络
   - [一文了解IACS船载系统和设备网络韧性统一要求UR E27](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651139469&idx=1&sn=1624561309a0ac6f43bbeb42eda20e10)
 - 二道情报贩子
   - [无形杀器：美军声波武器突袭委内瑞拉，鼻血呕血背后的致命共振真相](https://mp.weixin.qq.com/s?__biz=MzU5NTA3MTk5Ng==&mid=2247489958&idx=1&sn=7f1b2d3030463e1ca1dbfaf164e74e1a)
-- 青衣十三楼飞花堂
-  - [因式分解练习题](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488951&idx=1&sn=9a69cd7ebf3b4425ca73567ded76baf5)
 - 安全圈
   - [【安全圈】BreachForums论坛数据库32.4万个账户泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073661&idx=1&sn=47a2ea7b05c99c8d23e9b8e6fb8ab229)
   - [【安全圈】Meta澄清Instagram“密码重置风暴”非发生数据泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073661&idx=2&sn=23f8372e701cf483b7cf976c0b207268)
   - [【安全圈】恶性 Chrome 扩展盗窃用户信息](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073661&idx=3&sn=b285a1738ee7ba582e9647f76afac35a)
 - 丁爸 情报分析师的工具箱
   - [【资料】美国退出的66个国际组织](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153735&idx=1&sn=447e5ebde9a4259d2dd9107ec1725e79)
-- 电子物证
-  - [内存取证](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048892&idx=1&sn=bf7b3df8f15ddf4b7717f990b4374c6b)
-  - [【电子数据审查与海量数据质证】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048892&idx=2&sn=e7558bb1cf839b2eac3e81c38a613688)
-- 执经衡门
-  - [迟来的2025年小结](https://mp.weixin.qq.com/s?__biz=MzUxMjkxMzY2OA==&mid=2247483866&idx=1&sn=0567a2b8ebf2d5837b2ffe993aa846fa)
-- 极客公园
-  - [20 周年版 iPhone 爆料：直屏+曲面玻璃；何小鹏：未来五年全力推进全球化；黄仁勋：「AI 末日论」对社会毫无益处 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653097006&idx=1&sn=ef31fb39df05b47939a5f028ea7833ea)
 - 吾爱破解论坛
   - [某短视频指纹和纯算 sig3 逆向分析](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143477&idx=1&sn=1b3920382e039bdba49d844aa0b0dd05)
+- 极客公园
+  - [20 周年版 iPhone 爆料：直屏+曲面玻璃；何小鹏：未来五年全力推进全球化；黄仁勋：「AI 末日论」对社会毫无益处 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653097006&idx=1&sn=ef31fb39df05b47939a5f028ea7833ea)
 - 情报分析师
   - [10个特工日常技巧，普通人也能用来提升生活安全感](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650565993&idx=1&sn=824139d5539256e70fe59b0b30dde36b)
-- IT Service Management News
-  - [SA 8000:2026 - Standard per il lavoro dignitoso](http://blog.cesaregallotti.it/2026/01/sa-80002026-standard-per-il-lavoro.html)
-- cavallette
-  - [Newsletter Autistici/Inventati  01-2026](https://cavallette.noblogs.org/2026/01/10025)
-- Have I Been Pwned latest breaches
-  - [Instagram - 6,215,150 breached accounts](https://haveibeenpwned.com/Breach/Instagram)
 - Over Security - Cybersecurity news aggregator
   - [California bans data broker reselling health data of millions](https://www.bleepingcomputer.com/news/legal/california-bans-data-broker-reselling-health-data-of-millions/)
   - [Instagram denies breach amid claims of 17 million account data leak](https://www.bleepingcomputer.com/news/security/instagram-denies-breach-amid-claims-of-17-million-account-data-leak/)
@@ -61,8 +52,19 @@
   - [Info Sec Unplugged – CISO e vCISO](https://roccosicilia.com/2026/01/11/info-sec-unplugged-ciso-e-vciso/)
   - [Detecting Vectored Exception Handling Squared in an EDR](https://fluxsec.red/detecting-vectored-exception-handling-malware-rust-edr-windows-kernel)
   - [Microsoft is retiring 'Send to Kindle' in Word](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-send-to-kindle-in-word/)
+- IT Service Management News
+  - [SA 8000:2026 - Standard per il lavoro dignitoso](http://blog.cesaregallotti.it/2026/01/sa-80002026-standard-per-il-lavoro.html)
+- 电子物证
+  - [内存取证](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048892&idx=1&sn=bf7b3df8f15ddf4b7717f990b4374c6b)
+  - [【电子数据审查与海量数据质证】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048892&idx=2&sn=e7558bb1cf839b2eac3e81c38a613688)
+- cavallette
+  - [Newsletter Autistici/Inventati  01-2026](https://cavallette.noblogs.org/2026/01/10025)
+- Have I Been Pwned latest breaches
+  - [Instagram - 6,215,150 breached accounts](https://haveibeenpwned.com/Breach/Instagram)
 - SANS Internet Storm Center, InfoCON: green
   - [YARA-X 1.11.0 Release: Hash Function Warnings, (Sun, Jan 11th)](https://isc.sans.edu/diary/rss/32616)
+- 执经衡门
+  - [迟来的2025年小结](https://mp.weixin.qq.com/s?__biz=MzUxMjkxMzY2OA==&mid=2247483866&idx=1&sn=0567a2b8ebf2d5837b2ffe993aa846fa)
 - Full Disclosure
   - [Defense in depth -- the Microsoft way (part 95): the (shared)	"Start Menu" is dispensable](https://seclists.org/fulldisclosure/2026/Jan/18)
   - [Re: Multiple Security Misconfigurations and Customer	Enumeration Exposure in Convercent Whistleblowing Platform	(EQS Group)](https://seclists.org/fulldisclosure/2026/Jan/17)
@@ -70,9 +72,28 @@
   - [RIOT OS 2026.01-devel-317 Stack-Based Buffer Overflow in tapslip6 Utility via Unbounded Device Path Construction](https://seclists.org/fulldisclosure/2026/Jan/15)
   - [TinyOS 2.1.2 Stack-Based Buffer Overflow in mcp2200gpio](https://seclists.org/fulldisclosure/2026/Jan/14)
   - [TinyOS 2.1.2 printfUART Global Buffer Overflow via Unbounded	Format Expansion](https://seclists.org/fulldisclosure/2026/Jan/13)
+- Computer Forensics
+  - [What are your expectations for digital forensics in 2026?](https://www.reddit.com/r/computerforensics/comments/1q9zkwf/what_are_your_expectations_for_digital_forensics/)
+  - [Imagine raid 5 nas synology](https://www.reddit.com/r/computerforensics/comments/1q9wkqc/imagine_raid_5_nas_synology/)
+- Deep Web
+  - [Question](https://www.reddit.com/r/deepweb/comments/1q9kglv/question/)
+- Information Security
+  - [Help identifying possible message monitoring (whatsapp targetted)](https://www.reddit.com/r/Information_Security/comments/1qa68k1/help_identifying_possible_message_monitoring/)
+  - [I built a free ISO 27001 “what to do next” guide app (100% AI-made) — feedback wanted](https://www.reddit.com/r/Information_Security/comments/1q9m6ht/i_built_a_free_iso_27001_what_to_do_next_guide/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [Free security pentesting tool for students, an alternative to Burp Suite](https://www.reddit.com/r/netsecstudents/comments/1qadul3/free_security_pentesting_tool_for_students_an/)
+  - [Best order for CS50, TCM, TryHackMe, TOP and HTB? Looking for the most efficient path](https://www.reddit.com/r/netsecstudents/comments/1q9kf4g/best_order_for_cs50_tcm_tryhackme_top_and_htb/)
+- Social Engineering
+  - [understanding what the f is happening inside people / "meal vs ingredient" theory](https://www.reddit.com/r/SocialEngineering/comments/1q9pnc5/understanding_what_the_f_is_happening_inside/)
+- Your Open Hacker Community
+  - [Where would you start ?](https://www.reddit.com/r/HowToHack/comments/1q9v1ge/where_would_you_start/)
+  - [Wifi](https://www.reddit.com/r/HowToHack/comments/1qaakrj/wifi/)
 - Security Affairs
   - [The ideals of Aaron Swartz in an age of control](https://securityaffairs.com/186792/security/the-ideals-of-aaron-swartz-in-an-age-of-control.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 79](https://securityaffairs.com/186786/breaking-news/security-affairs-malware-newsletter-round-79.html)
   - [Security Affairs newsletter Round 558 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/186776/breaking-news/security-affairs-newsletter-round-558-by-pierluigi-paganini-international-edition.html)
+- Technical Information Security Content & Discussion
+  - [Two CVEs, Zero Ego: A Mailpit Story](https://www.reddit.com/r/netsec/comments/1qa8e6i/two_cves_zero_ego_a_mailpit_story/)
+  - [EDRStartupHinder: EDR Startup Process Blocker](https://www.reddit.com/r/netsec/comments/1q9vvbz/edrstartuphinder_edr_startup_process_blocker/)
 - 网安寻路人
   - [从单点到全链条：互联网应用个人信息保护的新规制逻辑与治理创新](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247508057&idx=1&sn=4ba88cd98341af2db0ea597cf3a3809c)
