@@ -1,15 +1,15 @@
 # 每日安全资讯（2026-01-18）
 
-- Der Flounder
-  - [Enabling a standard user account to access the unified system log on macOS using the log command line tool](https://derflounder.wordpress.com/2026/01/17/enabling-a-standard-user-account-to-access-the-unified-system-log-on-macos-using-the-log-command-line-tool/)
-- Recent Commits to cve:main
-  - [Update Sat Jan 17 11:30:18 UTC 2026](https://github.com/trickest/cve/commit/a779804b3f46a6eea60e5d6a11ad46bd21a748e8)
 - 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
   - [不止AI+！国投智能战略升级，“两稳三拓”定航向](https://www.4hou.com/posts/MXkR)
+- Der Flounder
+  - [Enabling a standard user account to access the unified system log on macOS using the log command line tool](https://derflounder.wordpress.com/2026/01/17/enabling-a-standard-user-account-to-access-the-unified-system-log-on-macos-using-the-log-command-line-tool/)
 - SecWiki News
   - [SecWiki News 2026-01-17 Review](http://www.sec-wiki.com/?2026-01-17)
 - ArthurChiao's Blog
   - [[笔记] 生成式推荐：OpenOneRec 技术报告（快手，2026）](https://arthurchiao.art/blog/openonerec-tech-report-notes-zh/)
+- Recent Commits to cve:main
+  - [Update Sat Jan 17 11:30:18 UTC 2026](https://github.com/trickest/cve/commit/a779804b3f46a6eea60e5d6a11ad46bd21a748e8)
 - Didier Stevens
   - [Update: hash.py Version 0.0.14](https://blog.didierstevens.com/2026/01/17/update-hash-py-version-0-0-14/)
 - Exploit-DB.com RSS Feed
@@ -23,11 +23,11 @@
   - [伪装成汽水音乐网站的银狐黑产最新钓鱼样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495384&idx=1&sn=bc581050fa7a63617d651ee399d46645)
 - 黑鸟
   - [美国网络武器切断委内瑞拉的电力并干扰雷达](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184851&idx=1&sn=eda92aec854b1bc3068991e46ef58348)
+- 丁爸 情报分析师的工具箱
+  - [【情报分析】美国负责中国事务的组织架构](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153807&idx=1&sn=6cf7429ea9794f687c489c08f4df7022)
 - 看雪学苑
   - [深入浅出 Unicorn 框架学习](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608286&idx=1&sn=d19eb37d23dcccd5ec414a18a15e648b)
   - [告别 x86 局限！ARM/MIPS/RISC-V 全架构 Pwn 实战课](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608286&idx=2&sn=7fd1e909b4d0028bd9862ac4a28c8619)
-- 丁爸 情报分析师的工具箱
-  - [【情报分析】美国负责中国事务的组织架构](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153807&idx=1&sn=6cf7429ea9794f687c489c08f4df7022)
 - 安全圈
   - [【安全圈】男子利用购物平台漏洞窃取用户信息并骗取佣金1878万被判刑](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073757&idx=1&sn=b7baabf15c246b7188cec3311d4fcb74)
   - [【安全圈】AMD Zen 1~5全系CPU曝出StackWarp漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073757&idx=2&sn=568bc60bf24ebbbc562831d29e7b2c5a)
@@ -40,12 +40,14 @@
   - [贾国龙与罗永浩微博均被禁言，罗永浩：他赢了；OpenAI 致信投资者：马斯克将发表「离谱言论」；抖音宣布加强治理摆拍视频 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653097309&idx=1&sn=969ef59c523fac105f6764e5e21049a7)
 - 陌陌安全
   - [《跨年SRC联合狩猎翻倍盛典》第三期启幕 ！](https://mp.weixin.qq.com/s?__biz=MzI2OTYzOTQzNw==&mid=2247489076&idx=1&sn=fca16e91ea15fec15ec90029636a8464)
-- IT Service Management News
-  - [Incidenti significativi NIS per ACN](http://blog.cesaregallotti.it/2026/01/incidenti-significativi-nis-per-acn.html)
-  - [I maschi possono fare tutto (Gennaio 2026)](http://blog.cesaregallotti.it/2026/01/i-maschi-possono-fare-tutto-gennaio-2026.html)
 - Over Security - Cybersecurity news aggregator
   - [Introducing System Call Integrity Layer](https://fluxsec.red/introducing-system-call-integrity-layer)
   - [How to Run a Security Test and Set Up Continuous Monitoring](https://blog.sucuri.net/2025/12/how-to-run-a-security-test-and-set-up-continuous-monitoring.html)
+- IT Service Management News
+  - [Incidenti significativi NIS per ACN](http://blog.cesaregallotti.it/2026/01/incidenti-significativi-nis-per-acn.html)
+  - [I maschi possono fare tutto (Gennaio 2026)](http://blog.cesaregallotti.it/2026/01/i-maschi-possono-fare-tutto-gennaio-2026.html)
+- SANS Internet Storm Center, InfoCON: green
+  - [Wireshark 4.6.3 Released, (Sat, Jan 17th)](https://isc.sans.edu/diary/rss/32636)
 - 放之
   - [AI软件工程实践：构建企业级Agentic SOC平台](https://mp.weixin.qq.com/s?__biz=Mzg3ODAzNjg5OA==&mid=2247485457&idx=1&sn=90abec971627091a864d0cedc8d2b0db)
 - The Hacker News
@@ -54,7 +56,5 @@
 - Security Affairs
   - [Ukraine–Germany operation targets Black Basta, Russian leader wanted](https://securityaffairs.com/187008/cyber-crime/ukraine-germany-operation-targets-black-basta-russian-leader-wanted.html)
   - [China-linked APT UAT-8837 targets North American critical infrastructure](https://securityaffairs.com/186999/breaking-news/china-linked-apt-uat-8837-targets-north-american-critical-infrastructure.html)
-- SANS Internet Storm Center, InfoCON: green
-  - [Wireshark 4.6.3 Released, (Sat, Jan 17th)](https://isc.sans.edu/diary/rss/32636)
 - Daniel Miessler
   - [The Last Algorithm](https://danielmiessler.com/blog/the-last-algorithm?utm_source=rss&utm_medium=feed&utm_campaign=website)
