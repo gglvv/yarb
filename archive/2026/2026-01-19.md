@@ -1,16 +1,16 @@
 # 每日安全资讯（2026-01-19）
 
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [AVideo Notify.ffmpeg.json.php Unauthenticated Remote Code Execution](https://cxsecurity.com/issue/WLB-2026010010)
+  - [phpIPAM 1.4 SQL-Injection](https://cxsecurity.com/issue/WLB-2026010009)
+- 博客
+  - [How to retrieve the network configuration entries when using systemd-networkd and netplan together after a system reboot?](https://dyrnq.com/how-to-retrieve-the-network-configuration-entries-when-using-systemd-networkd-and-netplan-together-after-a-system-reboot/)
+- Recent Commits to cve:main
+  - [Update Sun Jan 18 11:29:04 UTC 2026](https://github.com/trickest/cve/commit/4749005c9ce65092b215e34cac81aa502b04bc28)
 - Armin Ronacher's Thoughts and Writings
   - [Agent Psychosis: Are We Going Insane?](https://lucumr.pocoo.org/2026/1/18/agent-psychosis/)
 - SecWiki News
   - [SecWiki News 2026-01-18 Review](http://www.sec-wiki.com/?2026-01-18)
-- CXSECURITY Database RSS Feed - CXSecurity.com
-  - [AVideo Notify.ffmpeg.json.php Unauthenticated Remote Code Execution](https://cxsecurity.com/issue/WLB-2026010010)
-  - [phpIPAM 1.4 SQL-Injection](https://cxsecurity.com/issue/WLB-2026010009)
-- Recent Commits to cve:main
-  - [Update Sun Jan 18 11:29:04 UTC 2026](https://github.com/trickest/cve/commit/4749005c9ce65092b215e34cac81aa502b04bc28)
-- 博客
-  - [How to retrieve the network configuration entries when using systemd-networkd and netplan together after a system reboot?](https://dyrnq.com/how-to-retrieve-the-network-configuration-entries-when-using-systemd-networkd-and-netplan-together-after-a-system-reboot/)
 - Planet Classpath
   - [Thomas Fitzsimmons: gfx1201 on POWER9](https://www.fitzsim.org/blog/?p=797)
 - Didier Stevens
@@ -24,36 +24,25 @@
   - [腾讯向逾 30 个 GitHub 微信相关项目发出 DMCA 通知](https://www.solidot.org/story?sid=83334)
 - 安全分析与研究
   - [银狐黑产组织几大变种样本攻击流程图](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495383&idx=1&sn=7c1a5276fdf8f0ce0ad0859073007439)
-- 威努特安全网络
-  - [威努特超融合：为医疗数字化转型构建基础设施](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651139642&idx=1&sn=3981b874881d8230618229853e52e98b)
-- 青衣十三楼飞花堂
-  - [西城初一数学期末考试中的幻蜂窝](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488968&idx=1&sn=04e300ddf2d00a872590a82a5069a37e)
-- 丁爸 情报分析师的工具箱
-  - [【资料】认知战-北约首席科学家研究报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153812&idx=1&sn=7cd1b9338598d4a713a59385398394bd)
 - 黑鸟
   - [规避的艺术：朝鲜黑客如何将恶意链接伪装成合法广告点击](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184868&idx=1&sn=0c459224066a594d097be5bc1a2da391)
-- 情报分析师
-  - [2026年伊朗局势走向何方？内忧外患下的三重挑战](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566388&idx=1&sn=bfcef654ec2d4fa205f67f903d081e1a)
-- 极客公园
-  - [杀入硅谷腹地，MOVA 想在美国庭院发起一场「革命」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653097419&idx=1&sn=2536cdf46b3f19802101b3ef9822a202)
-  - [马斯克起诉 OpenAI 和微软，索赔最高 1340 亿美元；ChatGPT 推出廉价版订阅；春晚完成首次彩排，机器人再次登台 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653097401&idx=1&sn=153eadb424e0cad1162c934d78328624)
+- 青衣十三楼飞花堂
+  - [西城初一数学期末考试中的幻蜂窝](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488968&idx=1&sn=04e300ddf2d00a872590a82a5069a37e)
+- 威努特安全网络
+  - [威努特超融合：为医疗数字化转型构建基础设施](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651139642&idx=1&sn=3981b874881d8230618229853e52e98b)
 - 安全研究GoSSIP
   - [Data4SoftSec诚邀赐稿｜软件安全数据集研讨会](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501287&idx=1&sn=d74d0abd22b6c6c76154a88fb2d0862c)
+- 丁爸 情报分析师的工具箱
+  - [【资料】认知战-北约首席科学家研究报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153812&idx=1&sn=7cd1b9338598d4a713a59385398394bd)
 - 安全圈
   - [【安全圈】入侵网站盗数据、跨境牟利触法网！两名犯罪嫌疑人被云南网警抓获](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073771&idx=1&sn=f40e6765178c09dd4319da1c93330a83)
   - [【安全圈】潜伏 5 年、装机量超 84 万！这款浏览器恶意插件竟靠一张图片瞒天过海](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073771&idx=2&sn=b7cb1159c7de9fcf266ecd01456c42cc)
   - [【安全圈】32 万人信息遭泄露！这所大学曝重大数据窃密案，黑客潜伏近两周竟无人察觉](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073771&idx=3&sn=3f6177eb95fabe01904baf7439660f0e)
-- Have I Been Pwned latest breaches
-  - [Pass'Sport - 6,366,133 breached accounts](https://haveibeenpwned.com/Breach/PassSport)
-- SANS Internet Storm Center, InfoCON: green
-  - ["How many states are there in the United States&#x3f;", (Sun, Jan 18th)](https://isc.sans.edu/diary/rss/32618)
-- Krypt3ia
-  - [Wargame on the NATO crisis scenario:](https://krypt3ia.wordpress.com/2026/01/18/wargame-on-the-nato-crisis-scenario/)
-- Security Affairs
-  - [Hacktivists hijacked Iran ’s state TV to air anti-regime messages and an appeal to protest from Reza Pahlavi](https://securityaffairs.com/187055/hacktivism/hacktivists-hijacked-iran-state-tv-to-broadcast-anti-regime-messages-and-reza-pahlavis-protest-appeal.html)
-  - [GootLoader uses malformed ZIP files to bypass security controls](https://securityaffairs.com/187037/cyber-crime/gootloader-uses-malformed-zip-files-to-bypass-security-controls.html)
-  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 80](https://securityaffairs.com/187028/uncategorized/security-affairs-malware-newsletter-round-80.html)
-  - [Security Affairs newsletter Round 559 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/187019/breaking-news/security-affairs-newsletter-round-559-by-pierluigi-paganini-international-edition.html)
+- 极客公园
+  - [杀入硅谷腹地，MOVA 想在美国庭院发起一场「革命」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653097419&idx=1&sn=2536cdf46b3f19802101b3ef9822a202)
+  - [马斯克起诉 OpenAI 和微软，索赔最高 1340 亿美元；ChatGPT 推出廉价版订阅；春晚完成首次彩排，机器人再次登台 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653097401&idx=1&sn=153eadb424e0cad1162c934d78328624)
+- 情报分析师
+  - [2026年伊朗局势走向何方？内忧外患下的三重挑战](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566388&idx=1&sn=bfcef654ec2d4fa205f67f903d081e1a)
 - Over Security - Cybersecurity news aggregator
   - [Pass'Sport - 6,366,133 breached accounts](https://haveibeenpwned.com/Breach/PassSport)
   - [Google Chrome tests Gemini-powered AI "Skills"](https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-tests-gemini-powered-ai-skills/)
@@ -63,5 +52,16 @@
   - [Google Chrome now lets you turn off on-device AI model powering scam detection](https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-now-lets-you-turn-off-on-device-ai-model-powering-scam-detection/)
   - [Malicious GhostPoster browser extensions found with 840,000 installs](https://www.bleepingcomputer.com/news/security/malicious-ghostposter-browser-extensions-found-with-840-000-installs/)
   - [Credential-stealing Chrome extensions target enterprise HR platforms](https://www.bleepingcomputer.com/news/security/credential-stealing-chrome-extensions-target-enterprise-hr-platforms/)
+- Have I Been Pwned latest breaches
+  - [Pass'Sport - 6,366,133 breached accounts](https://haveibeenpwned.com/Breach/PassSport)
+- Krypt3ia
+  - [Wargame on the NATO crisis scenario:](https://krypt3ia.wordpress.com/2026/01/18/wargame-on-the-nato-crisis-scenario/)
+- SANS Internet Storm Center, InfoCON: green
+  - ["How many states are there in the United States&#x3f;", (Sun, Jan 18th)](https://isc.sans.edu/diary/rss/32618)
 - Troy Hunt's Blog
   - [Weekly Update 487](https://www.troyhunt.com/weekly-update-487/)
+- Security Affairs
+  - [Hacktivists hijacked Iran ’s state TV to air anti-regime messages and an appeal to protest from Reza Pahlavi](https://securityaffairs.com/187055/hacktivism/hacktivists-hijacked-iran-state-tv-to-broadcast-anti-regime-messages-and-reza-pahlavis-protest-appeal.html)
+  - [GootLoader uses malformed ZIP files to bypass security controls](https://securityaffairs.com/187037/cyber-crime/gootloader-uses-malformed-zip-files-to-bypass-security-controls.html)
+  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 80](https://securityaffairs.com/187028/uncategorized/security-affairs-malware-newsletter-round-80.html)
+  - [Security Affairs newsletter Round 559 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/187019/breaking-news/security-affairs-newsletter-round-559-by-pierluigi-paganini-international-edition.html)
