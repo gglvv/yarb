@@ -1,18 +1,18 @@
 # 每日安全资讯（2026-01-19）
 
-- Armin Ronacher's Thoughts and Writings
-  - [Agent Psychosis: Are We Going Insane?](https://lucumr.pocoo.org/2026/1/18/agent-psychosis/)
+- Recent Commits to cve:main
+  - [Update Sun Jan 18 11:29:04 UTC 2026](https://github.com/trickest/cve/commit/4749005c9ce65092b215e34cac81aa502b04bc28)
 - SecWiki News
   - [SecWiki News 2026-01-18 Review](http://www.sec-wiki.com/?2026-01-18)
+- Armin Ronacher's Thoughts and Writings
+  - [Agent Psychosis: Are We Going Insane?](https://lucumr.pocoo.org/2026/1/18/agent-psychosis/)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [AVideo Notify.ffmpeg.json.php Unauthenticated Remote Code Execution](https://cxsecurity.com/issue/WLB-2026010010)
   - [phpIPAM 1.4 SQL-Injection](https://cxsecurity.com/issue/WLB-2026010009)
-- 博客
-  - [How to retrieve the network configuration entries when using systemd-networkd and netplan together after a system reboot?](https://dyrnq.com/how-to-retrieve-the-network-configuration-entries-when-using-systemd-networkd-and-netplan-together-after-a-system-reboot/)
-- Recent Commits to cve:main
-  - [Update Sun Jan 18 11:29:04 UTC 2026](https://github.com/trickest/cve/commit/4749005c9ce65092b215e34cac81aa502b04bc28)
 - Planet Classpath
   - [Thomas Fitzsimmons: gfx1201 on POWER9](https://www.fitzsim.org/blog/?p=797)
+- 博客
+  - [How to retrieve the network configuration entries when using systemd-networkd and netplan together after a system reboot?](https://dyrnq.com/how-to-retrieve-the-network-configuration-entries-when-using-systemd-networkd-and-netplan-together-after-a-system-reboot/)
 - Didier Stevens
   - [Update: zipdump.py Version 0.0.33](https://blog.didierstevens.com/2026/01/18/update-zipdump-py-version-0-0-33/)
 - Sean Heelan's Blog
@@ -29,8 +29,6 @@
   - [罗永浩、于谦获得哔哩哔哩百大UP主2025年度新人奖 罗永浩调侃称许多平台要给他发“终身成就奖”都被其严辞拒绝了，只有B站眼光毒辣，知道他的事业才刚刚开始。](https://blog.upx8.com/%E7%BD%97%E6%B0%B8%E6%B5%A9-%E4%BA%8E%E8%B0%A6%E8%8E%B7%E5%BE%97%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E7%99%BE%E5%A4%A7UP%E4%B8%BB2025%E5%B9%B4%E5%BA%A6%E6%96%B0%E4%BA%BA%E5%A5%96-%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%B0%83%E4%BE%83%E7%A7%B0%E8%AE%B8%E5%A4%9A%E5%B9%B3%E5%8F%B0%E8%A6%81%E7%BB%99%E4%BB%96%E5%8F%91-%E7%BB%88%E8%BA%AB%E6%88%90%E5%B0%B1%E5%A5%96-%E9%83%BD%E8%A2%AB%E5%85%B6%E4%B8%A5%E8%BE%9E%E6%8B%92%E7%BB%9D%E4%BA%86-%E5%8F%AA%E6%9C%89B%E7%AB%99%E7%9C%BC%E5%85%89%E6%AF%92%E8%BE%A3-%E7%9F%A5%E9%81%93%E4%BB%96%E7%9A%84%E4%BA%8B%E4%B8%9A%E6%89%8D%E5%88%9A%E5%88%9A%E5%BC%80%E5%A7%8B)
   - [微信清理工具 wechat-clean 项目因腾讯投诉被删除](https://blog.upx8.com/%E5%BE%AE%E4%BF%A1%E6%B8%85%E7%90%86%E5%B7%A5%E5%85%B7-wechat-clean-%E9%A1%B9%E7%9B%AE%E5%9B%A0%E8%85%BE%E8%AE%AF%E6%8A%95%E8%AF%89%E8%A2%AB%E5%88%A0%E9%99%A4)
   - [中国首台串列型高能氢离子注入机成功出束](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E9%A6%96%E5%8F%B0%E4%B8%B2%E5%88%97%E5%9E%8B%E9%AB%98%E8%83%BD%E6%B0%A2%E7%A6%BB%E5%AD%90%E6%B3%A8%E5%85%A5%E6%9C%BA%E6%88%90%E5%8A%9F%E5%87%BA%E6%9D%9F)
-  - [中国收紧对日稀土审查 要求企业补充材料](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E6%94%B6%E7%B4%A7%E5%AF%B9%E6%97%A5%E7%A8%80%E5%9C%9F%E5%AE%A1%E6%9F%A5-%E8%A6%81%E6%B1%82%E4%BC%81%E4%B8%9A%E8%A1%A5%E5%85%85%E6%9D%90%E6%96%99)
-  - [中国铁路推出旅客误购限时免费退票服务](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E9%93%81%E8%B7%AF%E6%8E%A8%E5%87%BA%E6%97%85%E5%AE%A2%E8%AF%AF%E8%B4%AD%E9%99%90%E6%97%B6%E5%85%8D%E8%B4%B9%E9%80%80%E7%A5%A8%E6%9C%8D%E5%8A%A1)
 - 安全分析与研究
   - [银狐黑产组织几大变种样本攻击流程图](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495383&idx=1&sn=7c1a5276fdf8f0ce0ad0859073007439)
 - 黑鸟
@@ -39,10 +37,10 @@
   - [西城初一数学期末考试中的幻蜂窝](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488968&idx=1&sn=04e300ddf2d00a872590a82a5069a37e)
 - 威努特安全网络
   - [威努特超融合：为医疗数字化转型构建基础设施](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651139642&idx=1&sn=3981b874881d8230618229853e52e98b)
-- 安全研究GoSSIP
-  - [Data4SoftSec诚邀赐稿｜软件安全数据集研讨会](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501287&idx=1&sn=d74d0abd22b6c6c76154a88fb2d0862c)
 - 丁爸 情报分析师的工具箱
   - [【资料】认知战-北约首席科学家研究报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153812&idx=1&sn=7cd1b9338598d4a713a59385398394bd)
+- 安全研究GoSSIP
+  - [Data4SoftSec诚邀赐稿｜软件安全数据集研讨会](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501287&idx=1&sn=d74d0abd22b6c6c76154a88fb2d0862c)
 - 安全圈
   - [【安全圈】入侵网站盗数据、跨境牟利触法网！两名犯罪嫌疑人被云南网警抓获](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073771&idx=1&sn=f40e6765178c09dd4319da1c93330a83)
   - [【安全圈】潜伏 5 年、装机量超 84 万！这款浏览器恶意插件竟靠一张图片瞒天过海](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073771&idx=2&sn=b7cb1159c7de9fcf266ecd01456c42cc)
@@ -50,14 +48,16 @@
 - 极客公园
   - [杀入硅谷腹地，MOVA 想在美国庭院发起一场「革命」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653097419&idx=1&sn=2536cdf46b3f19802101b3ef9822a202)
   - [马斯克起诉 OpenAI 和微软，索赔最高 1340 亿美元；ChatGPT 推出廉价版订阅；春晚完成首次彩排，机器人再次登台 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653097401&idx=1&sn=153eadb424e0cad1162c934d78328624)
-- 情报分析师
-  - [2026年伊朗局势走向何方？内忧外患下的三重挑战](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566388&idx=1&sn=bfcef654ec2d4fa205f67f903d081e1a)
-- SANS Internet Storm Center, InfoCON: green
-  - ["How many states are there in the United States&#x3f;", (Sun, Jan 18th)](https://isc.sans.edu/diary/rss/32618)
-- Have I Been Pwned latest breaches
-  - [Pass'Sport - 6,366,133 breached accounts](https://haveibeenpwned.com/Breach/PassSport)
 - Krypt3ia
   - [Wargame on the NATO crisis scenario:](https://krypt3ia.wordpress.com/2026/01/18/wargame-on-the-nato-crisis-scenario/)
+- 情报分析师
+  - [2026年伊朗局势走向何方？内忧外患下的三重挑战](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566388&idx=1&sn=bfcef654ec2d4fa205f67f903d081e1a)
+- Troy Hunt's Blog
+  - [Weekly Update 487](https://www.troyhunt.com/weekly-update-487/)
+- Have I Been Pwned latest breaches
+  - [Pass'Sport - 6,366,133 breached accounts](https://haveibeenpwned.com/Breach/PassSport)
+- SANS Internet Storm Center, InfoCON: green
+  - ["How many states are there in the United States&#x3f;", (Sun, Jan 18th)](https://isc.sans.edu/diary/rss/32618)
 - Over Security - Cybersecurity news aggregator
   - [Pass'Sport - 6,366,133 breached accounts](https://haveibeenpwned.com/Breach/PassSport)
   - [Google Chrome tests Gemini-powered AI "Skills"](https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-tests-gemini-powered-ai-skills/)
@@ -72,5 +72,3 @@
   - [GootLoader uses malformed ZIP files to bypass security controls](https://securityaffairs.com/187037/cyber-crime/gootloader-uses-malformed-zip-files-to-bypass-security-controls.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 80](https://securityaffairs.com/187028/uncategorized/security-affairs-malware-newsletter-round-80.html)
   - [Security Affairs newsletter Round 559 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/187019/breaking-news/security-affairs-newsletter-round-559-by-pierluigi-paganini-international-edition.html)
-- Troy Hunt's Blog
-  - [Weekly Update 487](https://www.troyhunt.com/weekly-update-487/)
