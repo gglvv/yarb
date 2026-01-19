@@ -1,5 +1,7 @@
 # 每日安全资讯（2026-01-19）
 
+- 博客
+  - [How to retrieve the network configuration entries when using systemd-networkd and netplan together after a system reboot?](https://dyrnq.com/how-to-retrieve-the-network-configuration-entries-when-using-systemd-networkd-and-netplan-together-after-a-system-reboot/)
 - Recent Commits to cve:main
   - [Update Sun Jan 18 11:29:04 UTC 2026](https://github.com/trickest/cve/commit/4749005c9ce65092b215e34cac81aa502b04bc28)
 - SecWiki News
@@ -11,53 +13,44 @@
   - [phpIPAM 1.4 SQL-Injection](https://cxsecurity.com/issue/WLB-2026010009)
 - Planet Classpath
   - [Thomas Fitzsimmons: gfx1201 on POWER9](https://www.fitzsim.org/blog/?p=797)
-- 博客
-  - [How to retrieve the network configuration entries when using systemd-networkd and netplan together after a system reboot?](https://dyrnq.com/how-to-retrieve-the-network-configuration-entries-when-using-systemd-networkd-and-netplan-together-after-a-system-reboot/)
 - Didier Stevens
   - [Update: zipdump.py Version 0.0.33](https://blog.didierstevens.com/2026/01/18/update-zipdump-py-version-0-0-33/)
 - Sean Heelan's Blog
   - [On the Coming Industrialisation of Exploit Generation with LLMs](https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/)
-- 奇客Solidot–传递最新科技情报
-  - [OpenAI 未来几周测试为 ChatGPT 加入广告](https://www.solidot.org/story?sid=83337)
-  - [安娜的档案面临美联邦法院的永久禁令](https://www.solidot.org/story?sid=83336)
-  - [太阳能满足美国 2025 年六成新增电力需求](https://www.solidot.org/story?sid=83335)
-  - [腾讯向逾 30 个 GitHub 微信相关项目发出 DMCA 通知](https://www.solidot.org/story?sid=83334)
 - 黑海洋Wiki | Web开发工具包 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [SK海力士、三星加速HBF商业化进程](https://blog.upx8.com/SK%E6%B5%B7%E5%8A%9B%E5%A3%AB-%E4%B8%89%E6%98%9F%E5%8A%A0%E9%80%9FHBF%E5%95%86%E4%B8%9A%E5%8C%96%E8%BF%9B%E7%A8%8B)
   - [Neuralink首例受试者爆料：无需手术即可升级脑机接口](https://blog.upx8.com/Neuralink%E9%A6%96%E4%BE%8B%E5%8F%97%E8%AF%95%E8%80%85%E7%88%86%E6%96%99-%E6%97%A0%E9%9C%80%E6%89%8B%E6%9C%AF%E5%8D%B3%E5%8F%AF%E5%8D%87%E7%BA%A7%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3)
   - [SK海力士新技术破解存内计算瓶颈：3D FeNAND 能效提升7.17倍、算力提升20.4倍](https://blog.upx8.com/SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%96%B0%E6%8A%80%E6%9C%AF%E7%A0%B4%E8%A7%A3%E5%AD%98%E5%86%85%E8%AE%A1%E7%AE%97%E7%93%B6%E9%A2%88-3D-FeNAND-%E8%83%BD%E6%95%88%E6%8F%90%E5%8D%877-17%E5%80%8D-%E7%AE%97%E5%8A%9B%E6%8F%90%E5%8D%8720-4%E5%80%8D)
   - [罗永浩、于谦获得哔哩哔哩百大UP主2025年度新人奖 罗永浩调侃称许多平台要给他发“终身成就奖”都被其严辞拒绝了，只有B站眼光毒辣，知道他的事业才刚刚开始。](https://blog.upx8.com/%E7%BD%97%E6%B0%B8%E6%B5%A9-%E4%BA%8E%E8%B0%A6%E8%8E%B7%E5%BE%97%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E7%99%BE%E5%A4%A7UP%E4%B8%BB2025%E5%B9%B4%E5%BA%A6%E6%96%B0%E4%BA%BA%E5%A5%96-%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%B0%83%E4%BE%83%E7%A7%B0%E8%AE%B8%E5%A4%9A%E5%B9%B3%E5%8F%B0%E8%A6%81%E7%BB%99%E4%BB%96%E5%8F%91-%E7%BB%88%E8%BA%AB%E6%88%90%E5%B0%B1%E5%A5%96-%E9%83%BD%E8%A2%AB%E5%85%B6%E4%B8%A5%E8%BE%9E%E6%8B%92%E7%BB%9D%E4%BA%86-%E5%8F%AA%E6%9C%89B%E7%AB%99%E7%9C%BC%E5%85%89%E6%AF%92%E8%BE%A3-%E7%9F%A5%E9%81%93%E4%BB%96%E7%9A%84%E4%BA%8B%E4%B8%9A%E6%89%8D%E5%88%9A%E5%88%9A%E5%BC%80%E5%A7%8B)
   - [微信清理工具 wechat-clean 项目因腾讯投诉被删除](https://blog.upx8.com/%E5%BE%AE%E4%BF%A1%E6%B8%85%E7%90%86%E5%B7%A5%E5%85%B7-wechat-clean-%E9%A1%B9%E7%9B%AE%E5%9B%A0%E8%85%BE%E8%AE%AF%E6%8A%95%E8%AF%89%E8%A2%AB%E5%88%A0%E9%99%A4)
-  - [中国首台串列型高能氢离子注入机成功出束](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E9%A6%96%E5%8F%B0%E4%B8%B2%E5%88%97%E5%9E%8B%E9%AB%98%E8%83%BD%E6%B0%A2%E7%A6%BB%E5%AD%90%E6%B3%A8%E5%85%A5%E6%9C%BA%E6%88%90%E5%8A%9F%E5%87%BA%E6%9D%9F)
 - 安全分析与研究
   - [银狐黑产组织几大变种样本攻击流程图](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495383&idx=1&sn=7c1a5276fdf8f0ce0ad0859073007439)
 - 黑鸟
   - [规避的艺术：朝鲜黑客如何将恶意链接伪装成合法广告点击](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184868&idx=1&sn=0c459224066a594d097be5bc1a2da391)
-- 青衣十三楼飞花堂
-  - [西城初一数学期末考试中的幻蜂窝](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488968&idx=1&sn=04e300ddf2d00a872590a82a5069a37e)
 - 威努特安全网络
   - [威努特超融合：为医疗数字化转型构建基础设施](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651139642&idx=1&sn=3981b874881d8230618229853e52e98b)
+- 奇客Solidot–传递最新科技情报
+  - [OpenAI 未来几周测试为 ChatGPT 加入广告](https://www.solidot.org/story?sid=83337)
+  - [安娜的档案面临美联邦法院的永久禁令](https://www.solidot.org/story?sid=83336)
+  - [太阳能满足美国 2025 年六成新增电力需求](https://www.solidot.org/story?sid=83335)
+  - [腾讯向逾 30 个 GitHub 微信相关项目发出 DMCA 通知](https://www.solidot.org/story?sid=83334)
 - 丁爸 情报分析师的工具箱
   - [【资料】认知战-北约首席科学家研究报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153812&idx=1&sn=7cd1b9338598d4a713a59385398394bd)
+- 青衣十三楼飞花堂
+  - [西城初一数学期末考试中的幻蜂窝](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488968&idx=1&sn=04e300ddf2d00a872590a82a5069a37e)
 - 安全研究GoSSIP
   - [Data4SoftSec诚邀赐稿｜软件安全数据集研讨会](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501287&idx=1&sn=d74d0abd22b6c6c76154a88fb2d0862c)
+- 极客公园
+  - [杀入硅谷腹地，MOVA 想在美国庭院发起一场「革命」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653097419&idx=1&sn=2536cdf46b3f19802101b3ef9822a202)
+  - [马斯克起诉 OpenAI 和微软，索赔最高 1340 亿美元；ChatGPT 推出廉价版订阅；春晚完成首次彩排，机器人再次登台 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653097401&idx=1&sn=153eadb424e0cad1162c934d78328624)
+- 情报分析师
+  - [2026年伊朗局势走向何方？内忧外患下的三重挑战](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566388&idx=1&sn=bfcef654ec2d4fa205f67f903d081e1a)
 - 安全圈
   - [【安全圈】入侵网站盗数据、跨境牟利触法网！两名犯罪嫌疑人被云南网警抓获](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073771&idx=1&sn=f40e6765178c09dd4319da1c93330a83)
   - [【安全圈】潜伏 5 年、装机量超 84 万！这款浏览器恶意插件竟靠一张图片瞒天过海](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073771&idx=2&sn=b7cb1159c7de9fcf266ecd01456c42cc)
   - [【安全圈】32 万人信息遭泄露！这所大学曝重大数据窃密案，黑客潜伏近两周竟无人察觉](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073771&idx=3&sn=3f6177eb95fabe01904baf7439660f0e)
-- 极客公园
-  - [杀入硅谷腹地，MOVA 想在美国庭院发起一场「革命」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653097419&idx=1&sn=2536cdf46b3f19802101b3ef9822a202)
-  - [马斯克起诉 OpenAI 和微软，索赔最高 1340 亿美元；ChatGPT 推出廉价版订阅；春晚完成首次彩排，机器人再次登台 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653097401&idx=1&sn=153eadb424e0cad1162c934d78328624)
 - Krypt3ia
   - [Wargame on the NATO crisis scenario:](https://krypt3ia.wordpress.com/2026/01/18/wargame-on-the-nato-crisis-scenario/)
-- 情报分析师
-  - [2026年伊朗局势走向何方？内忧外患下的三重挑战](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566388&idx=1&sn=bfcef654ec2d4fa205f67f903d081e1a)
-- Troy Hunt's Blog
-  - [Weekly Update 487](https://www.troyhunt.com/weekly-update-487/)
-- Have I Been Pwned latest breaches
-  - [Pass'Sport - 6,366,133 breached accounts](https://haveibeenpwned.com/Breach/PassSport)
-- SANS Internet Storm Center, InfoCON: green
-  - ["How many states are there in the United States&#x3f;", (Sun, Jan 18th)](https://isc.sans.edu/diary/rss/32618)
 - Over Security - Cybersecurity news aggregator
   - [Pass'Sport - 6,366,133 breached accounts](https://haveibeenpwned.com/Breach/PassSport)
   - [Google Chrome tests Gemini-powered AI "Skills"](https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-tests-gemini-powered-ai-skills/)
@@ -67,6 +60,12 @@
   - [Google Chrome now lets you turn off on-device AI model powering scam detection](https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-now-lets-you-turn-off-on-device-ai-model-powering-scam-detection/)
   - [Malicious GhostPoster browser extensions found with 840,000 installs](https://www.bleepingcomputer.com/news/security/malicious-ghostposter-browser-extensions-found-with-840-000-installs/)
   - [Credential-stealing Chrome extensions target enterprise HR platforms](https://www.bleepingcomputer.com/news/security/credential-stealing-chrome-extensions-target-enterprise-hr-platforms/)
+- Have I Been Pwned latest breaches
+  - [Pass'Sport - 6,366,133 breached accounts](https://haveibeenpwned.com/Breach/PassSport)
+- Troy Hunt's Blog
+  - [Weekly Update 487](https://www.troyhunt.com/weekly-update-487/)
+- SANS Internet Storm Center, InfoCON: green
+  - ["How many states are there in the United States&#x3f;", (Sun, Jan 18th)](https://isc.sans.edu/diary/rss/32618)
 - Security Affairs
   - [Hacktivists hijacked Iran ’s state TV to air anti-regime messages and an appeal to protest from Reza Pahlavi](https://securityaffairs.com/187055/hacktivism/hacktivists-hijacked-iran-state-tv-to-broadcast-anti-regime-messages-and-reza-pahlavis-protest-appeal.html)
   - [GootLoader uses malformed ZIP files to bypass security controls](https://securityaffairs.com/187037/cyber-crime/gootloader-uses-malformed-zip-files-to-bypass-security-controls.html)
