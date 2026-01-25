@@ -25,11 +25,11 @@
   - [网传微软Autodiscover服务对example.com域名疑似存在处理不当](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184975&idx=1&sn=7002603dcbd1c67b31b4c8554f4b6c36)
 - 二道情报贩子
   - [微软给FBI解锁疑犯笔记本](https://mp.weixin.qq.com/s?__biz=MzU5NTA3MTk5Ng==&mid=2247490018&idx=1&sn=f34cce5cbdfa929ffadda64f2aa89f1b)
+- 渗透测试网络安全
+  - [拆解 AI Skills 的五大逻辑漏洞与防御实践](https://mp.weixin.qq.com/s?__biz=MzkwMTE4NDM5NA==&mid=2247486811&idx=1&sn=ac135f423dad429e7efba75f6b53d11e)
 - 看雪学苑
   - [第二届网络安全行业职业技能大赛-部分题解](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608567&idx=1&sn=9025f834ec1c9494e96b7e08bbc1ff2c)
   - [策马扬鞭看山海！一起为2025年360精英白帽荣耀加冕](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608567&idx=2&sn=eafdfd9ea8bae27fb7d34657a056120a)
-- 渗透测试网络安全
-  - [拆解 AI Skills 的五大逻辑漏洞与防御实践](https://mp.weixin.qq.com/s?__biz=MzkwMTE4NDM5NA==&mid=2247486811&idx=1&sn=ac135f423dad429e7efba75f6b53d11e)
 - 极客公园
   - [iPhone Air 暴降 2500 开卖；特斯拉停用 AP，全力推 FSD；网友用 2 吨 SIM 卡练出 191 克黄金 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653097716&idx=1&sn=eec67edcf0dc67575778f4a76b73c69a)
 - 情报分析师
@@ -39,12 +39,6 @@
   - [Konni hackers target blockchain engineers with AI-built malware](https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/)
   - [China investigates top general Zhang Youxia in rare purge of senior military leaders](https://therecord.media/china-investigates-top-general-purge-senior-military-leaders)
   - [Nuovo sito, stesso MuHack](https://muhack.org/news/nuovo-sito-stesso-muhack/)
-- Max Kersten
-  - [Yaraify Java API client version 1.1-stable release notes](https://maxkersten.nl/2026/01/24/yaraify-java-api-client-version-1-1-stable-release-notes/)
-  - [Hatching Triage Java API client version 1.7 release notes](https://maxkersten.nl/2026/01/24/hatching-triage-java-api-client-version-1-7-release-notes/)
-  - [Malware Bazaar Java API client version 1.1-stable release notes](https://maxkersten.nl/2026/01/24/malware-bazaar-java-api-client-version-1-1-stable-release-notes/)
-  - [MalShare Java API client 1.3-stable release](https://maxkersten.nl/2026/01/24/malshare-java-api-client-1-3-stable-release/)
-  - [ThreatFox Java API client version 1.0 release notes](https://maxkersten.nl/2026/01/24/threatfox-java-api-client-version-1-0-release-notes/)
 - ICT Security Magazine
   - [Truffa del voto ai bambini: perché docenti e personale ATA sono il bersaglio perfetto](https://www.ictsecuritymagazine.com/notizie/truffa-del-voto-ai-bambini/)
   - [Sanzione GDPR TikTok €530 milioni: perché il ban sui trasferimenti verso la Cina segna una svolta epocale](https://www.ictsecuritymagazine.com/notizie/sanzione-gdpr-tiktok/)
@@ -57,9 +51,9 @@
   - [New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector](https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html)
   - [Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents](https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html)
   - [CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog](https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html)
-- Deeplinks
-  - [Search Engines, AI, And The Long Fight Over Fair Use](https://www.eff.org/deeplinks/2026/01/search-engines-ai-and-long-fight-over-fair-use)
 - 纽创信安
   - [纽创信安蓉城行 | 以山河为证，凝团队之力](https://mp.weixin.qq.com/s?__biz=MzAwNTczMjAzMg==&mid=2650240872&idx=1&sn=8b91dcaa31f0f39a06a7e2ba855cc2a7)
+- Deeplinks
+  - [Search Engines, AI, And The Long Fight Over Fair Use](https://www.eff.org/deeplinks/2026/01/search-engines-ai-and-long-fight-over-fair-use)
 - 希潭实验室
   - [第153篇：Struts2-069 XXE 实体注入漏洞分析+复现](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247488179&idx=1&sn=cb9342ab385cd66617a65c93388841e2)
