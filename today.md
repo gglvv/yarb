@@ -1,9 +1,9 @@
 # 每日安全资讯（2026-01-25）
 
-- SecWiki News
-  - [SecWiki News 2026-01-24 Review](http://www.sec-wiki.com/?2026-01-24)
 - Recent Commits to cve:main
   - [Update Sat Jan 24 11:28:55 UTC 2026](https://github.com/trickest/cve/commit/f77586110500b31b310727ced53c73a7613eadc5)
+- SecWiki News
+  - [SecWiki News 2026-01-24 Review](http://www.sec-wiki.com/?2026-01-24)
 - 奇客Solidot–传递最新科技情报
   - [欧盟去年风能和太阳能首次超过化石燃料](https://www.solidot.org/story?sid=83388)
   - [利用音爆追踪重返大气层的神舟十五轨道舱](https://www.solidot.org/story?sid=83387)
@@ -16,48 +16,47 @@
   - [Vaultwarden 自建教程（Docker Compose 方式）](https://blog.upx8.com/Vaultwarden-Docker-Compose)
   - [奇瑞计划使用英国捷豹路虎工厂的方案被列入斯塔默访华议程](https://blog.upx8.com/%E5%A5%87%E7%91%9E%E8%AE%A1%E5%88%92%E4%BD%BF%E7%94%A8%E8%8B%B1%E5%9B%BD%E6%8D%B7%E8%B1%B9%E8%B7%AF%E8%99%8E%E5%B7%A5%E5%8E%82%E7%9A%84%E6%96%B9%E6%A1%88%E8%A2%AB%E5%88%97%E5%85%A5%E6%96%AF%E5%A1%94%E9%BB%98%E8%AE%BF%E5%8D%8E%E8%AE%AE%E7%A8%8B)
   - [自建开源SSO（单点登录）身份验证服务：VoidAuth](https://blog.upx8.com/1346)
-  - [新加坡拟投入10亿新元推动本土AI产业发展](https://blog.upx8.com/%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%8B%9F%E6%8A%95%E5%85%A510%E4%BA%BF%E6%96%B0%E5%85%83%E6%8E%A8%E5%8A%A8%E6%9C%AC%E5%9C%9FAI%E4%BA%A7%E4%B8%9A%E5%8F%91%E5%B1%95)
 - 安全分析与研究
   - [伪装成TDesk安装程序银狐黑产样本与威胁情报](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495450&idx=1&sn=0b3abaf4c8ca7f7de863be32d5338f57)
 - 黑鸟
   - [网传微软Autodiscover服务对example.com域名疑似存在处理不当](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184975&idx=1&sn=7002603dcbd1c67b31b4c8554f4b6c36)
+- 看雪学苑
+  - [第二届网络安全行业职业技能大赛-部分题解](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608567&idx=1&sn=9025f834ec1c9494e96b7e08bbc1ff2c)
+  - [策马扬鞭看山海！一起为2025年360精英白帽荣耀加冕](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608567&idx=2&sn=eafdfd9ea8bae27fb7d34657a056120a)
 - 二道情报贩子
   - [微软给FBI解锁疑犯笔记本](https://mp.weixin.qq.com/s?__biz=MzU5NTA3MTk5Ng==&mid=2247490018&idx=1&sn=f34cce5cbdfa929ffadda64f2aa89f1b)
 - 渗透测试网络安全
   - [拆解 AI Skills 的五大逻辑漏洞与防御实践](https://mp.weixin.qq.com/s?__biz=MzkwMTE4NDM5NA==&mid=2247486811&idx=1&sn=ac135f423dad429e7efba75f6b53d11e)
-- 看雪学苑
-  - [第二届网络安全行业职业技能大赛-部分题解](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608567&idx=1&sn=9025f834ec1c9494e96b7e08bbc1ff2c)
-  - [策马扬鞭看山海！一起为2025年360精英白帽荣耀加冕](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608567&idx=2&sn=eafdfd9ea8bae27fb7d34657a056120a)
-- 极客公园
-  - [iPhone Air 暴降 2500 开卖；特斯拉停用 AP，全力推 FSD；网友用 2 吨 SIM 卡练出 191 克黄金 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653097716&idx=1&sn=eec67edcf0dc67575778f4a76b73c69a)
 - 情报分析师
   - [AI如何重塑情报工作](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566493&idx=1&sn=b40eeade5f5c40a671aac6e249185547)
-- ICT Security Magazine
-  - [Truffa del voto ai bambini: perché docenti e personale ATA sono il bersaglio perfetto](https://www.ictsecuritymagazine.com/notizie/truffa-del-voto-ai-bambini/)
-  - [Sanzione GDPR TikTok €530 milioni: perché il ban sui trasferimenti verso la Cina segna una svolta epocale](https://www.ictsecuritymagazine.com/notizie/sanzione-gdpr-tiktok/)
+- Over Security - Cybersecurity news aggregator
+  - [Sandworm hackers linked to failed wiper attack on Poland’s energy systems](https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/)
+  - [Konni hackers target blockchain engineers with AI-built malware](https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/)
+  - [China investigates top general Zhang Youxia in rare purge of senior military leaders](https://therecord.media/china-investigates-top-general-purge-senior-military-leaders)
+  - [Nuovo sito, stesso MuHack](https://muhack.org/news/nuovo-sito-stesso-muhack/)
+- 极客公园
+  - [iPhone Air 暴降 2500 开卖；特斯拉停用 AP，全力推 FSD；网友用 2 吨 SIM 卡练出 191 克黄金 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653097716&idx=1&sn=eec67edcf0dc67575778f4a76b73c69a)
 - Max Kersten
   - [Yaraify Java API client version 1.1-stable release notes](https://maxkersten.nl/2026/01/24/yaraify-java-api-client-version-1-1-stable-release-notes/)
   - [Hatching Triage Java API client version 1.7 release notes](https://maxkersten.nl/2026/01/24/hatching-triage-java-api-client-version-1-7-release-notes/)
   - [Malware Bazaar Java API client version 1.1-stable release notes](https://maxkersten.nl/2026/01/24/malware-bazaar-java-api-client-version-1-1-stable-release-notes/)
   - [MalShare Java API client 1.3-stable release](https://maxkersten.nl/2026/01/24/malshare-java-api-client-1-3-stable-release/)
   - [ThreatFox Java API client version 1.0 release notes](https://maxkersten.nl/2026/01/24/threatfox-java-api-client-version-1-0-release-notes/)
-- Over Security - Cybersecurity news aggregator
-  - [Sandworm hackers linked to failed wiper attack on Poland’s energy systems](https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/)
-  - [Konni hackers target blockchain engineers with AI-built malware](https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/)
-  - [China investigates top general Zhang Youxia in rare purge of senior military leaders](https://therecord.media/china-investigates-top-general-purge-senior-military-leaders)
-  - [Nuovo sito, stesso MuHack](https://muhack.org/news/nuovo-sito-stesso-muhack/)
+- Deeplinks
+  - [Search Engines, AI, And The Long Fight Over Fair Use](https://www.eff.org/deeplinks/2026/01/search-engines-ai-and-long-fight-over-fair-use)
+- Security Affairs
+  - [Osiris ransomware emerges, leveraging BYOVD technique to kill security tools](https://securityaffairs.com/187279/security/osiris-ransomware-emerges-leveraging-byovd-technique-to-kill-security-tools.html)
+  - [U.S. CISA adds a flaw in Broadcom VMware vCenter Server to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/187267/security/u-s-cisa-adds-a-flaw-in-broadcom-vmware-vcenter-server-to-its-known-exploited-vulnerabilities-catalog.html)
+  - [11-Year-Old critical telnetd flaw found in GNU InetUtils (CVE-2026-24061)](https://securityaffairs.com/187255/security/11-year-old-critical-telnetd-flaw-found-in-gnu-inetutils-cve-2026-24061.html)
+- ICT Security Magazine
+  - [Truffa del voto ai bambini: perché docenti e personale ATA sono il bersaglio perfetto](https://www.ictsecuritymagazine.com/notizie/truffa-del-voto-ai-bambini/)
+  - [Sanzione GDPR TikTok €530 milioni: perché il ban sui trasferimenti verso la Cina segna una svolta epocale](https://www.ictsecuritymagazine.com/notizie/sanzione-gdpr-tiktok/)
+- 纽创信安
+  - [纽创信安蓉城行 | 以山河为证，凝团队之力](https://mp.weixin.qq.com/s?__biz=MzAwNTczMjAzMg==&mid=2650240872&idx=1&sn=8b91dcaa31f0f39a06a7e2ba855cc2a7)
 - The Hacker News
   - [Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware](https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html)
   - [New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector](https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html)
   - [Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents](https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html)
   - [CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog](https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html)
-- Security Affairs
-  - [Osiris ransomware emerges, leveraging BYOVD technique to kill security tools](https://securityaffairs.com/187279/security/osiris-ransomware-emerges-leveraging-byovd-technique-to-kill-security-tools.html)
-  - [U.S. CISA adds a flaw in Broadcom VMware vCenter Server to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/187267/security/u-s-cisa-adds-a-flaw-in-broadcom-vmware-vcenter-server-to-its-known-exploited-vulnerabilities-catalog.html)
-  - [11-Year-Old critical telnetd flaw found in GNU InetUtils (CVE-2026-24061)](https://securityaffairs.com/187255/security/11-year-old-critical-telnetd-flaw-found-in-gnu-inetutils-cve-2026-24061.html)
-- Deeplinks
-  - [Search Engines, AI, And The Long Fight Over Fair Use](https://www.eff.org/deeplinks/2026/01/search-engines-ai-and-long-fight-over-fair-use)
-- 纽创信安
-  - [纽创信安蓉城行 | 以山河为证，凝团队之力](https://mp.weixin.qq.com/s?__biz=MzAwNTczMjAzMg==&mid=2650240872&idx=1&sn=8b91dcaa31f0f39a06a7e2ba855cc2a7)
 - 希潭实验室
   - [第153篇：Struts2-069 XXE 实体注入漏洞分析+复现](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247488179&idx=1&sn=cb9342ab385cd66617a65c93388841e2)
