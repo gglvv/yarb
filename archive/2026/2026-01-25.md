@@ -19,22 +19,24 @@
   - [网传微软Autodiscover服务对example.com域名疑似存在处理不当](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184975&idx=1&sn=7002603dcbd1c67b31b4c8554f4b6c36)
 - 二道情报贩子
   - [微软给FBI解锁疑犯笔记本](https://mp.weixin.qq.com/s?__biz=MzU5NTA3MTk5Ng==&mid=2247490018&idx=1&sn=f34cce5cbdfa929ffadda64f2aa89f1b)
+- 丁爸 情报分析师的工具箱
+  - [【资料】人工智能与军事力量的重构](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153987&idx=1&sn=a374510f16e52e54f11043dc232ff0c2)
+- 渗透测试网络安全
+  - [拆解 AI Skills 的五大逻辑漏洞与防御实践](https://mp.weixin.qq.com/s?__biz=MzkwMTE4NDM5NA==&mid=2247486811&idx=1&sn=ac135f423dad429e7efba75f6b53d11e)
+- 网络空间安全科学学报
+  - [网络首发 | 北京航空航天大学关振宇教授团队：大语言模型驱动的网络协议逆向与安全测试方法](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507114&idx=1&sn=1028cd857f6ea049fff5d9b5b88a1837)
 - 看雪学苑
   - [第二届网络安全行业职业技能大赛-部分题解](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608567&idx=1&sn=9025f834ec1c9494e96b7e08bbc1ff2c)
   - [策马扬鞭看山海！一起为2025年360精英白帽荣耀加冕](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608567&idx=2&sn=eafdfd9ea8bae27fb7d34657a056120a)
-- 网络空间安全科学学报
-  - [网络首发 | 北京航空航天大学关振宇教授团队：大语言模型驱动的网络协议逆向与安全测试方法](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507114&idx=1&sn=1028cd857f6ea049fff5d9b5b88a1837)
-- 渗透测试网络安全
-  - [拆解 AI Skills 的五大逻辑漏洞与防御实践](https://mp.weixin.qq.com/s?__biz=MzkwMTE4NDM5NA==&mid=2247486811&idx=1&sn=ac135f423dad429e7efba75f6b53d11e)
 - 极客公园
   - [iPhone Air 暴降 2500 开卖；特斯拉停用 AP，全力推 FSD；网友用 2 吨 SIM 卡练出 191 克黄金 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653097716&idx=1&sn=eec67edcf0dc67575778f4a76b73c69a)
-- 情报分析师
-  - [AI如何重塑情报工作](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566493&idx=1&sn=b40eeade5f5c40a671aac6e249185547)
 - Over Security - Cybersecurity news aggregator
   - [Sandworm hackers linked to failed wiper attack on Poland’s energy systems](https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/)
   - [Konni hackers target blockchain engineers with AI-built malware](https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/)
   - [China investigates top general Zhang Youxia in rare purge of senior military leaders](https://therecord.media/china-investigates-top-general-purge-senior-military-leaders)
   - [Nuovo sito, stesso MuHack](https://muhack.org/news/nuovo-sito-stesso-muhack/)
+- 情报分析师
+  - [AI如何重塑情报工作](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566493&idx=1&sn=b40eeade5f5c40a671aac6e249185547)
 - ICT Security Magazine
   - [Truffa del voto ai bambini: perché docenti e personale ATA sono il bersaglio perfetto](https://www.ictsecuritymagazine.com/notizie/truffa-del-voto-ai-bambini/)
   - [Sanzione GDPR TikTok €530 milioni: perché il ban sui trasferimenti verso la Cina segna una svolta epocale](https://www.ictsecuritymagazine.com/notizie/sanzione-gdpr-tiktok/)
