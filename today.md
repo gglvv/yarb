@@ -1,14 +1,14 @@
 # 每日安全资讯（2026-01-26）
 
-- SecWiki News
-  - [SecWiki News 2026-01-25 Review](http://www.sec-wiki.com/?2026-01-25)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [WordPress Plugin FS Affiliates 5.6 - Unrestricted Arbitrary File Upload](https://cxsecurity.com/issue/WLB-2026010015)
   - [Telnet Argument Injection Privilege Escalation - RCE](https://cxsecurity.com/issue/WLB-2026010014)
-- Recent Commits to cve:main
-  - [Update Sun Jan 25 11:33:15 UTC 2026](https://github.com/trickest/cve/commit/a46ad7132c97993ea39c7705dac7c0eb21c0d81b)
+- SecWiki News
+  - [SecWiki News 2026-01-25 Review](http://www.sec-wiki.com/?2026-01-25)
 - Blog | AppSec Labs
   - [What Is Real-Time Penetration Testing And Why It Matters](https://appsec-labs.com/what-is-real-time-penetration-testing-and-why-it-matters/)
+- Recent Commits to cve:main
+  - [Update Sun Jan 25 11:33:15 UTC 2026](https://github.com/trickest/cve/commit/a46ad7132c97993ea39c7705dac7c0eb21c0d81b)
 - MaskRay
   - [Long branches in compilers, assemblers, and linkers](https://maskray.me/blog/2026-01-25-long-branches-in-compilers-assemblers-and-linkers)
 - Bug Bounty in InfoSec Write-ups on Medium
@@ -27,21 +27,19 @@
   - [银狐黑产组织新型后门样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495447&idx=1&sn=a3377f41f61c883f150efae1e1410390)
 - 黑鸟
   - [俄罗斯针对波兰电网进行破坏性网络攻击行动](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184983&idx=1&sn=51136528937f325c19482a10af3fead8)
-- 丁爸 情报分析师的工具箱
-  - [【情报】美国在台设立弹药测试场](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154041&idx=1&sn=a66c6de9e0a34d840042a9bc067a7fd6)
 - 青衣十三楼飞花堂
   - [两道初一几何肯定会碰上的题](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488994&idx=1&sn=9fde63fc19c82078ea556cd54cceb9fc)
 - 威努特安全网络
   - [威努特DeepSeek一体机赋能企业AI应用和数字化转型](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651139710&idx=1&sn=f81bd30ef2ab2a3186bbb84480798443)
+- 丁爸 情报分析师的工具箱
+  - [【情报】美国在台设立弹药测试场](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154041&idx=1&sn=a66c6de9e0a34d840042a9bc067a7fd6)
+- 网络空间安全科学学报
+  - [学术前沿 | 南开大学汪定教授团队：基于行为生物特征的自由手势认证增强方案](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507115&idx=1&sn=4db37c279da938ec4bdce6153bf441b6)
 - 极客公园
   - [「AI 无处不在」的达沃斯，科技巨头们都说了哪些金句？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653097750&idx=1&sn=cce2af7ef748f8ab14e25204819d6dc8)
   - [传 iPhone 17e 配灵动岛不涨价；大疆 Osmo Pocket 4 或春节后发布；中奖规则调整，买彩票成不了亿万富翁 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653097749&idx=1&sn=8716212769bff47a25e7ab1bc42c6544)
-- 网络空间安全科学学报
-  - [学术前沿 | 南开大学汪定教授团队：基于行为生物特征的自由手势认证增强方案](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507115&idx=1&sn=4db37c279da938ec4bdce6153bf441b6)
 - 情报分析师
   - [开源情报工具实战指南——信息收集的核心技法](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566501&idx=1&sn=b80697d961248cfa5892e7e526186a44)
-- bellingcat
-  - [Alex Pretti: Analysing Footage of Minneapolis CBP Shooting](https://www.bellingcat.com/news/2026/01/25/alex-pretti-analysing-footage-of-minneapolis-cbp-shooting/)
 - Over Security - Cybersecurity news aggregator
   - [1Password adds pop-up warnings for suspected phishing sites](https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/)
   - [Double Ransomware Attack Hits Resource Corporation of America: Medusa and Qilin Claim Separate Intrusions](https://www.suspectfile.com/double-ransomware-attack-hits-resource-corporation-of-america-medusa-and-qilin-claim-separate-intrusions/)
@@ -51,6 +49,8 @@
   - [No Hat 2026 – 10/10/2026](https://www.hacklabg.net/news/no-hat-2026-10-10-2026/)
   - [GitLab as the backbone of IaC](https://www.adainese.it/blog/2026/01/25/gitlab-as-the-backbone-of-iac/)
   - [Microsoft releases emergency OOB update to fix Outlook freezes](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/)
+- bellingcat
+  - [Alex Pretti: Analysing Footage of Minneapolis CBP Shooting](https://www.bellingcat.com/news/2026/01/25/alex-pretti-analysing-footage-of-minneapolis-cbp-shooting/)
 - Security Affairs
   - [Nike is investigating a possible data breach, after WorldLeaks claims](https://securityaffairs.com/187303/data-breach/nike-is-investigating-a-possible-data-breach-after-worldleaks-claims.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 81](https://securityaffairs.com/187299/malware/security-affairs-malware-newsletter-round-81.html)
