@@ -1,12 +1,12 @@
 # 每日安全资讯（2026-01-26）
 
+- Recent Commits to cve:main
+  - [Update Sun Jan 25 11:33:15 UTC 2026](https://github.com/trickest/cve/commit/a46ad7132c97993ea39c7705dac7c0eb21c0d81b)
+- SecWiki News
+  - [SecWiki News 2026-01-25 Review](http://www.sec-wiki.com/?2026-01-25)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [WordPress Plugin FS Affiliates 5.6 - Unrestricted Arbitrary File Upload](https://cxsecurity.com/issue/WLB-2026010015)
   - [Telnet Argument Injection Privilege Escalation - RCE](https://cxsecurity.com/issue/WLB-2026010014)
-- SecWiki News
-  - [SecWiki News 2026-01-25 Review](http://www.sec-wiki.com/?2026-01-25)
-- Recent Commits to cve:main
-  - [Update Sun Jan 25 11:33:15 UTC 2026](https://github.com/trickest/cve/commit/a46ad7132c97993ea39c7705dac7c0eb21c0d81b)
 - Blog | AppSec Labs
   - [What Is Real-Time Penetration Testing And Why It Matters](https://appsec-labs.com/what-is-real-time-penetration-testing-and-why-it-matters/)
 - MaskRay
