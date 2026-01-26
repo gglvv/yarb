@@ -1,14 +1,14 @@
 # 每日安全资讯（2026-01-26）
 
+- Recent Commits to cve:main
+  - [Update Sun Jan 25 11:33:15 UTC 2026](https://github.com/trickest/cve/commit/a46ad7132c97993ea39c7705dac7c0eb21c0d81b)
+- SecWiki News
+  - [SecWiki News 2026-01-25 Review](http://www.sec-wiki.com/?2026-01-25)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [WordPress Plugin FS Affiliates 5.6 - Unrestricted Arbitrary File Upload](https://cxsecurity.com/issue/WLB-2026010015)
   - [Telnet Argument Injection Privilege Escalation - RCE](https://cxsecurity.com/issue/WLB-2026010014)
-- SecWiki News
-  - [SecWiki News 2026-01-25 Review](http://www.sec-wiki.com/?2026-01-25)
 - Blog | AppSec Labs
   - [What Is Real-Time Penetration Testing And Why It Matters](https://appsec-labs.com/what-is-real-time-penetration-testing-and-why-it-matters/)
-- Recent Commits to cve:main
-  - [Update Sun Jan 25 11:33:15 UTC 2026](https://github.com/trickest/cve/commit/a46ad7132c97993ea39c7705dac7c0eb21c0d81b)
 - MaskRay
   - [Long branches in compilers, assemblers, and linkers](https://maskray.me/blog/2026-01-25-long-branches-in-compilers-assemblers-and-linkers)
 - Bug Bounty in InfoSec Write-ups on Medium
@@ -18,13 +18,13 @@
   - [Cache Deception: When “Harmless Caching” Becomes a Real Risk](https://infosecwriteups.com/cache-deception-when-harmless-caching-becomes-a-real-risk-2920b0a2f3db?source=rss----7b722bfd1b8d--bug_bounty)
   - [From JS File to Jailbreak: How Frontend Code Gave Me Backend Access](https://infosecwriteups.com/from-js-file-to-jailbreak-how-frontend-code-gave-me-backend-access-5b4974d06b63?source=rss----7b722bfd1b8d--bug_bounty)
   - [How a Simple PDF Export Feature Led to a Critical Local File Inclusion](https://infosecwriteups.com/how-a-simple-pdf-export-feature-led-to-a-critical-local-file-inclusion-e11d5979d46b?source=rss----7b722bfd1b8d--bug_bounty)
+- 安全分析与研究
+  - [银狐黑产组织新型后门样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495447&idx=1&sn=a3377f41f61c883f150efae1e1410390)
 - 奇客Solidot–传递最新科技情报
   - [伊朗断网 17 天](https://www.solidot.org/story?sid=83393)
   - [预期负面结果比正面结果带来的情绪冲击力更大](https://www.solidot.org/story?sid=83392)
   - [AI 公司高管对 AGI 看法迥异](https://www.solidot.org/story?sid=83391)
   - [微软释出第二个紧急更新修复第一个紧急更新导致的问题](https://www.solidot.org/story?sid=83390)
-- 安全分析与研究
-  - [银狐黑产组织新型后门样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495447&idx=1&sn=a3377f41f61c883f150efae1e1410390)
 - 黑鸟
   - [俄罗斯针对波兰电网进行破坏性网络攻击行动](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184983&idx=1&sn=51136528937f325c19482a10af3fead8)
 - 青衣十三楼飞花堂
@@ -38,8 +38,6 @@
 - 极客公园
   - [「AI 无处不在」的达沃斯，科技巨头们都说了哪些金句？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653097750&idx=1&sn=cce2af7ef748f8ab14e25204819d6dc8)
   - [传 iPhone 17e 配灵动岛不涨价；大疆 Osmo Pocket 4 或春节后发布；中奖规则调整，买彩票成不了亿万富翁 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653097749&idx=1&sn=8716212769bff47a25e7ab1bc42c6544)
-- 情报分析师
-  - [开源情报工具实战指南——信息收集的核心技法](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566501&idx=1&sn=b80697d961248cfa5892e7e526186a44)
 - Over Security - Cybersecurity news aggregator
   - [1Password adds pop-up warnings for suspected phishing sites](https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/)
   - [Double Ransomware Attack Hits Resource Corporation of America: Medusa and Qilin Claim Separate Intrusions](https://www.suspectfile.com/double-ransomware-attack-hits-resource-corporation-of-america-medusa-and-qilin-claim-separate-intrusions/)
@@ -49,6 +47,8 @@
   - [No Hat 2026 – 10/10/2026](https://www.hacklabg.net/news/no-hat-2026-10-10-2026/)
   - [GitLab as the backbone of IaC](https://www.adainese.it/blog/2026/01/25/gitlab-as-the-backbone-of-iac/)
   - [Microsoft releases emergency OOB update to fix Outlook freezes](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/)
+- 情报分析师
+  - [开源情报工具实战指南——信息收集的核心技法](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566501&idx=1&sn=b80697d961248cfa5892e7e526186a44)
 - bellingcat
   - [Alex Pretti: Analysing Footage of Minneapolis CBP Shooting](https://www.bellingcat.com/news/2026/01/25/alex-pretti-analysing-footage-of-minneapolis-cbp-shooting/)
 - Security Affairs
