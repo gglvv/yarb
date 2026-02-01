@@ -2,19 +2,17 @@
 
 - Armin Ronacher's Thoughts and Writings
   - [Pi: The Minimal Agent Within OpenClaw](https://lucumr.pocoo.org/2026/1/31/pi/)
+- Recent Commits to cve:main
+  - [Update Sat Jan 31 11:19:25 UTC 2026](https://github.com/trickest/cve/commit/8e28c4d2f3f85e3eb1195a6daea08b5b35e0ea2f)
 - SecWiki News
   - [SecWiki News 2026-01-31 Review](http://www.sec-wiki.com/?2026-01-31)
+- 博客
+  - [Solving fcitx Chinese input method not working in VSCode on Debian 12 desktop](https://dyrnq.com/solving-fcitx-chinese-input-method-not-working-in-vscode-on-debian-12-desktop/)
 - 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
   - [豆包手机掀起 AI 风暴：智能便利背后的安全与规则之争](https://www.4hou.com/posts/xyYE)
 - bunnie's blog
   - [Name that Ware, January 2026](https://www.bunniestudios.com/blog/2026/name-that-ware-january-2026/)
   - [Winner, Name that Ware December 2025](https://www.bunniestudios.com/blog/2026/winner-name-that-ware-december-2025/)
-- Recent Commits to cve:main
-  - [Update Sat Jan 31 11:19:25 UTC 2026](https://github.com/trickest/cve/commit/8e28c4d2f3f85e3eb1195a6daea08b5b35e0ea2f)
-- 博客
-  - [Solving fcitx Chinese input method not working in VSCode on Debian 12 desktop](https://dyrnq.com/solving-fcitx-chinese-input-method-not-working-in-vscode-on-debian-12-desktop/)
-- MaskRay
-  - [lld 22 ELF changes](https://maskray.me/blog/2026-01-31-lld-22-elf-changes)
 - CCC Event Blog
   - [Winterchaos in Chemnitz am 7.2.2026](https://events.ccc.de/2026/01/30/winterchaos-2026/)
 - Malware-Traffic-Analysis.net - Blog Entries
@@ -26,53 +24,57 @@
   - [This year in LLVM (2025)](https://www.npopov.com/2026/01/31/This-year-in-LLVM-2025.html)
 - Depy's docs
   - [2025](https://docs.rce.ink/view/?view_id=911f3639235d671737aeefb67d26ee2d)
-- 奇客Solidot–传递最新科技情报
-  - [挪威诺贝尔研究所遭黑客入侵可能泄露了和平奖得主名字](https://www.solidot.org/story?sid=83445)
-  - [GNU gettext 在开发逾 30 年后终于释出 1.0 版本](https://www.solidot.org/story?sid=83444)
-  - [九成 DuckDuckGo 用户反对 AI 功能](https://www.solidot.org/story?sid=83443)
-  - [YouTube 证实禁止浏览器后台播放视频](https://www.solidot.org/story?sid=83442)
 - 黑海洋Wiki | Web开发工具包 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [贝尔金旗下Wemo智能设备自周六起离线](https://blog.upx8.com/%E8%B4%9D%E5%B0%94%E9%87%91%E6%97%97%E4%B8%8BWemo%E6%99%BA%E8%83%BD%E8%AE%BE%E5%A4%87%E8%87%AA%E5%91%A8%E5%85%AD%E8%B5%B7%E7%A6%BB%E7%BA%BF)
   - [黄仁勋：英伟达一定参与OpenAI新一轮融资](https://blog.upx8.com/%E9%BB%84%E4%BB%81%E5%8B%8B-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%80%E5%AE%9A%E5%8F%82%E4%B8%8EOpenAI%E6%96%B0%E4%B8%80%E8%BD%AE%E8%9E%8D%E8%B5%84)
   - [飞牛OS多个重大漏洞已被多团伙广泛利用，升级到最新版本无法确保安全](https://blog.upx8.com/%E9%A3%9E%E7%89%9BOS%E5%A4%9A%E4%B8%AA%E9%87%8D%E5%A4%A7%E6%BC%8F%E6%B4%9E%E5%B7%B2%E8%A2%AB%E5%A4%9A%E5%9B%A2%E4%BC%99%E5%B9%BF%E6%B3%9B%E5%88%A9%E7%94%A8-%E5%8D%87%E7%BA%A7%E5%88%B0%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC%E6%97%A0%E6%B3%95%E7%A1%AE%E4%BF%9D%E5%AE%89%E5%85%A8)
   - [SpaceX申请部署百万颗卫星打造太空数据中心](https://blog.upx8.com/SpaceX%E7%94%B3%E8%AF%B7%E9%83%A8%E7%BD%B2%E7%99%BE%E4%B8%87%E9%A2%97%E5%8D%AB%E6%98%9F%E6%89%93%E9%80%A0%E5%A4%AA%E7%A9%BA%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83)
   - [Instagram用户或可主动退出别人的密友列表](https://blog.upx8.com/Instagram%E7%94%A8%E6%88%B7%E6%88%96%E5%8F%AF%E4%B8%BB%E5%8A%A8%E9%80%80%E5%87%BA%E5%88%AB%E4%BA%BA%E7%9A%84%E5%AF%86%E5%8F%8B%E5%88%97%E8%A1%A8)
-  - [LinuxDo论坛开始使用盲水印](https://blog.upx8.com/LinuxDo%E8%AE%BA%E5%9D%9B%E5%BC%80%E5%A7%8B%E4%BD%BF%E7%94%A8%E7%9B%B2%E6%B0%B4%E5%8D%B0)
-  - [邮件显示马斯克曾与爱泼斯坦沟通登岛行程](https://blog.upx8.com/%E9%82%AE%E4%BB%B6%E6%98%BE%E7%A4%BA%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9B%BE%E4%B8%8E%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%B2%9F%E9%80%9A%E7%99%BB%E5%B2%9B%E8%A1%8C%E7%A8%8B)
 - 安全分析与研究
   - [银狐黑产木马最新免杀样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495468&idx=1&sn=978b0379fd5e22079a13865d96c45a2c)
-- 黑鸟
-  - [美国军方黑客曾针对俄罗斯水军公司发起网络行动](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185065&idx=1&sn=4b5cc39a33bbe9bce9f9c476c7b2c9ec)
 - 威努特安全网络
   - [微软Office曝高危漏洞、耐克遭勒索攻击|一周特辑](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651139827&idx=1&sn=5f018b2377de83fed165b08fdb29f942)
+- 奇客Solidot–传递最新科技情报
+  - [挪威诺贝尔研究所遭黑客入侵可能泄露了和平奖得主名字](https://www.solidot.org/story?sid=83445)
+  - [GNU gettext 在开发逾 30 年后终于释出 1.0 版本](https://www.solidot.org/story?sid=83444)
+  - [九成 DuckDuckGo 用户反对 AI 功能](https://www.solidot.org/story?sid=83443)
+  - [YouTube 证实禁止浏览器后台播放视频](https://www.solidot.org/story?sid=83442)
 - 58安全应急响应中心
   - [58SRC 2025 年度 年终奖励](https://mp.weixin.qq.com/s?__biz=MzU4NTMzNjU4Mw==&mid=2247490191&idx=1&sn=a23dc8911afd8facd9135e9c42c1ecb2)
-- 安全学术圈
-  - [天津大学 | 基于操作依赖分析的MLIR编译器基础设施模糊测试](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494925&idx=1&sn=811b5baf0c5353d94484f05dc6857551)
-- 丁爸 情报分析师的工具箱
-  - [【情报】美军中央司令部的军机目前在哪里飞？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154119&idx=1&sn=69baecb4a78e0d44d7284e2bbc39a1c1)
-- 安全圈
-  - [【安全圈】国产飞牛系统fnOS疑似出现重大安全漏洞 官方已修复但没有发布安全公告](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073946&idx=1&sn=bdc710b97937508dd118e83b9f789587)
-  - [【安全圈】Metasploit 发布 7 个新漏洞利用模块 覆盖 FreePBX、Cacti 和 SmarterMail](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073946&idx=2&sn=9b93e65f9ea42f56a293adcf299febd6)
-  - [【安全圈】AI 助手 Clawdbot 现象级爆火背后：全网 8000+ 资产暴露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073946&idx=3&sn=a37c28361316ce30cb7d7c1124e1fbc7)
 - 中国信息安全
   - [关于取消TSG等三支队伍半决赛晋级资格的公告](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664258593&idx=1&sn=ba4e32f06b9c7e5eac36e602e379c1da)
   - [关注 | 国家网信办解答数据出境安全管理政策法规相关问题](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664258593&idx=2&sn=b06b24b52dfc73239c33b3d581fd5f82)
   - [关注 | 市场监管总局公布八起网络不正当竞争典型案例](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664258593&idx=3&sn=a37a0cc2b2938d0072424eb44305b7eb)
   - [关注 | 市场监管总局集中发布第五批直播电商领域典型案例](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664258593&idx=4&sn=2fe91c282a7046478f3610a250f18d32)
   - [中国消费者协会消费提示：警惕美容服务低价体验陷阱](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664258593&idx=5&sn=de735673e4cc3f8c7e82a7907b8f9cd2)
-- 网络空间安全科学学报
-  - [“人工智能赋能的数据安全”专题征稿](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507223&idx=1&sn=1a3467661056a0e35414b164d33aa47c)
+- 安全学术圈
+  - [天津大学 | 基于操作依赖分析的MLIR编译器基础设施模糊测试](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494925&idx=1&sn=811b5baf0c5353d94484f05dc6857551)
+- 丁爸 情报分析师的工具箱
+  - [【情报】美军中央司令部的军机目前在哪里飞？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154119&idx=1&sn=69baecb4a78e0d44d7284e2bbc39a1c1)
 - 看雪学苑
   - [强网杯S9 Real World - monotint](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608873&idx=1&sn=6847c40b551141a8d7a336c01ee7b5c7)
   - [今晚7点直播 | 如何绕过路由器的认证机制？D-Link设备漏洞挖掘实战直播](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608873&idx=2&sn=4ca0b40d05e4611144274a07a6e2bab1)
+- 安全圈
+  - [【安全圈】国产飞牛系统fnOS疑似出现重大安全漏洞 官方已修复但没有发布安全公告](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073946&idx=1&sn=bdc710b97937508dd118e83b9f789587)
+  - [【安全圈】Metasploit 发布 7 个新漏洞利用模块 覆盖 FreePBX、Cacti 和 SmarterMail](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073946&idx=2&sn=9b93e65f9ea42f56a293adcf299febd6)
+  - [【安全圈】AI 助手 Clawdbot 现象级爆火背后：全网 8000+ 资产暴露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073946&idx=3&sn=a37c28361316ce30cb7d7c1124e1fbc7)
 - 数世咨询
   - [安全团队携带的工具越来越多，但信心却在下降](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541615&idx=1&sn=cc6d1a8380ff791c78e5671c7c6fa2ca)
-- 嘶吼专业版
-  - [豆包手机掀起 AI 风暴：智能便利背后的安全与规则之争](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586572&idx=1&sn=f7afe0e22fe8abf5aea9ac1a036817f4)
+- 黑鸟
+  - [美国军方黑客曾针对俄罗斯水军公司发起网络行动](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185065&idx=1&sn=4b5cc39a33bbe9bce9f9c476c7b2c9ec)
+- 网络空间安全科学学报
+  - [“人工智能赋能的数据安全”专题征稿](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507223&idx=1&sn=1a3467661056a0e35414b164d33aa47c)
+- 情报分析师
+  - [通过一张自拍，仅分析瞳孔倒映就知道你住在哪](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566573&idx=1&sn=bb342f2131afcb75325a240b7cfab183)
 - 极客公园
   - [Kimi K2.5 深度实测：变强了，但待「封神」｜AI 上新](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653098167&idx=1&sn=f6684e4b229d1d0b8cb36320fb8ced24)
   - [谷歌推出世界生成工具 Project Genie；又一 AI 大牛加入腾讯；雷军、刘强东等出席中英企业家委员会会议 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653098166&idx=1&sn=9c58e675fd8ad96c0d9d64fd2a1e91ee)
+- 嘶吼专业版
+  - [豆包手机掀起 AI 风暴：智能便利背后的安全与规则之争](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586572&idx=1&sn=f7afe0e22fe8abf5aea9ac1a036817f4)
+- cavallette
+  - [Corteo per gli spazi sociali -Torino 31 gennaio](https://cavallette.noblogs.org/2026/01/10031)
+- Desync InfoSec
+  - [应急案例分享-利用UEMS作为远控](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489514&idx=1&sn=60d5f8bdd3c9187e2eb47ba5e2787a27)
 - Over Security - Cybersecurity news aggregator
   - [U.S. convicts ex-Google engineer for sending AI tech data to China](https://www.bleepingcomputer.com/news/security/us-convicts-ex-google-engineer-for-sending-ai-tech-data-to-china/)
   - [Cloud storage payment scam floods inboxes with fake renewals](https://www.bleepingcomputer.com/news/security/cloud-storage-payment-scam-floods-inboxes-with-fake-renewals/)
@@ -80,22 +82,16 @@
   - [Researcher reveals evidence of private Instagram profiles leaking photos](https://www.bleepingcomputer.com/news/security/researcher-reveals-evidence-of-private-instagram-profiles-leaking-photos/)
   - [Researcher reveals evidence of Instagram private profiles leaking photos](https://www.bleepingcomputer.com/news/security/researcher-reveals-evidence-of-instagram-private-profiles-leaking-photos/)
   - [Panera Bread - 5,112,502 breached accounts](https://haveibeenpwned.com/Breach/PaneraBread)
-- 情报分析师
-  - [通过一张自拍，仅分析瞳孔倒映就知道你住在哪](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566573&idx=1&sn=bb342f2131afcb75325a240b7cfab183)
-- cavallette
-  - [Corteo per gli spazi sociali -Torino 31 gennaio](https://cavallette.noblogs.org/2026/01/10031)
-- Security Affairs
-  - [DOJ releases details alleged talented hacker working for Jeffrey Epstein](https://securityaffairs.com/187515/laws-and-regulations/doj-releases-details-alleged-talented-hacker-working-for-jeffrey-epstein.html)
-  - [Cyberattacks Disrupt Communications at Wind, Solar, and Heat Facilities in Poland](https://securityaffairs.com/187503/apt/cyberattacks-disrupt-communications-at-wind-solar-and-heat-facilities-in-poland.html)
-- The Hacker News
-  - [Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists](https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html)
-  - [Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms](https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html)
-  - [CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms](https://thehackernews.com/2026/01/poland-attributes-december-cyber.html)
 - Have I Been Pwned latest breaches
   - [Panera Bread - 5,112,502 breached accounts](https://haveibeenpwned.com/Breach/PaneraBread)
 - GRAHAM CLULEY
   - [FBI takes notorious RAMP ransomware forum offline](https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-takes-notorious-ramp-ransomware-forum-offline)
+- The Hacker News
+  - [Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists](https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html)
+  - [Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms](https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html)
+  - [CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms](https://thehackernews.com/2026/01/poland-attributes-december-cyber.html)
+- Security Affairs
+  - [DOJ releases details alleged talented hacker working for Jeffrey Epstein](https://securityaffairs.com/187515/laws-and-regulations/doj-releases-details-alleged-talented-hacker-working-for-jeffrey-epstein.html)
+  - [Cyberattacks Disrupt Communications at Wind, Solar, and Heat Facilities in Poland](https://securityaffairs.com/187503/apt/cyberattacks-disrupt-communications-at-wind-solar-and-heat-facilities-in-poland.html)
 - OnionSec
   - [从“检测恶意”到“发现异常”：基于 Novelty Search 的威胁检测新范式](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485736&idx=1&sn=a4986915799fd777dcbcbe5f839a6c95)
-- Desync InfoSec
-  - [应急案例分享-利用UEMS作为远控](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489514&idx=1&sn=60d5f8bdd3c9187e2eb47ba5e2787a27)
