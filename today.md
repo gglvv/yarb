@@ -1,24 +1,22 @@
 # 每日安全资讯（2026-02-01）
 
-- Armin Ronacher's Thoughts and Writings
-  - [Pi: The Minimal Agent Within OpenClaw](https://lucumr.pocoo.org/2026/1/31/pi/)
-- Recent Commits to cve:main
-  - [Update Sat Jan 31 11:19:25 UTC 2026](https://github.com/trickest/cve/commit/8e28c4d2f3f85e3eb1195a6daea08b5b35e0ea2f)
-- 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
-  - [豆包手机掀起 AI 风暴：智能便利背后的安全与规则之争](https://www.4hou.com/posts/xyYE)
-- SecWiki News
-  - [SecWiki News 2026-01-31 Review](http://www.sec-wiki.com/?2026-01-31)
 - bunnie's blog
   - [Name that Ware, January 2026](https://www.bunniestudios.com/blog/2026/name-that-ware-january-2026/)
   - [Winner, Name that Ware December 2025](https://www.bunniestudios.com/blog/2026/winner-name-that-ware-december-2025/)
+- Recent Commits to cve:main
+  - [Update Sat Jan 31 11:19:25 UTC 2026](https://github.com/trickest/cve/commit/8e28c4d2f3f85e3eb1195a6daea08b5b35e0ea2f)
+- SecWiki News
+  - [SecWiki News 2026-01-31 Review](http://www.sec-wiki.com/?2026-01-31)
 - 博客
   - [Solving fcitx Chinese input method not working in VSCode on Debian 12 desktop](https://dyrnq.com/solving-fcitx-chinese-input-method-not-working-in-vscode-on-debian-12-desktop/)
+- 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
+  - [豆包手机掀起 AI 风暴：智能便利背后的安全与规则之争](https://www.4hou.com/posts/xyYE)
+- Armin Ronacher's Thoughts and Writings
+  - [Pi: The Minimal Agent Within OpenClaw](https://lucumr.pocoo.org/2026/1/31/pi/)
 - MaskRay
   - [lld 22 ELF changes](https://maskray.me/blog/2026-01-31-lld-22-elf-changes)
 - CCC Event Blog
   - [Winterchaos in Chemnitz am 7.2.2026](https://events.ccc.de/2026/01/30/winterchaos-2026/)
-- Reverse Engineering
-  - [Drive Firmware Security - In the Wild](https://www.reddit.com/r/ReverseEngineering/comments/1qs5vc8/drive_firmware_security_in_the_wild/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-01-31: Traffic analysis exercise: Lumma in the room-ah!](https://www.malware-traffic-analysis.net/2026/01/31/index.html)
   - [2026-01-30: PhantomStealer infection](https://www.malware-traffic-analysis.net/2026/01/30/index.html)
@@ -47,34 +45,40 @@
   - [美国军方黑客曾针对俄罗斯水军公司发起网络行动](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185065&idx=1&sn=4b5cc39a33bbe9bce9f9c476c7b2c9ec)
 - 威努特安全网络
   - [微软Office曝高危漏洞、耐克遭勒索攻击|一周特辑](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651139827&idx=1&sn=5f018b2377de83fed165b08fdb29f942)
+- 安全学术圈
+  - [天津大学 | 基于操作依赖分析的MLIR编译器基础设施模糊测试](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494925&idx=1&sn=811b5baf0c5353d94484f05dc6857551)
 - 58安全应急响应中心
   - [58SRC 2025 年度 年终奖励](https://mp.weixin.qq.com/s?__biz=MzU4NTMzNjU4Mw==&mid=2247490191&idx=1&sn=a23dc8911afd8facd9135e9c42c1ecb2)
 - 安全圈
   - [【安全圈】国产飞牛系统fnOS疑似出现重大安全漏洞 官方已修复但没有发布安全公告](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073946&idx=1&sn=bdc710b97937508dd118e83b9f789587)
   - [【安全圈】Metasploit 发布 7 个新漏洞利用模块 覆盖 FreePBX、Cacti 和 SmarterMail](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073946&idx=2&sn=9b93e65f9ea42f56a293adcf299febd6)
   - [【安全圈】AI 助手 Clawdbot 现象级爆火背后：全网 8000+ 资产暴露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073946&idx=3&sn=a37c28361316ce30cb7d7c1124e1fbc7)
-- 安全学术圈
-  - [天津大学 | 基于操作依赖分析的MLIR编译器基础设施模糊测试](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494925&idx=1&sn=811b5baf0c5353d94484f05dc6857551)
+- 网络空间安全科学学报
+  - [“人工智能赋能的数据安全”专题征稿](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507223&idx=1&sn=1a3467661056a0e35414b164d33aa47c)
 - 中国信息安全
   - [关于取消TSG等三支队伍半决赛晋级资格的公告](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664258593&idx=1&sn=ba4e32f06b9c7e5eac36e602e379c1da)
   - [关注 | 国家网信办解答数据出境安全管理政策法规相关问题](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664258593&idx=2&sn=b06b24b52dfc73239c33b3d581fd5f82)
   - [关注 | 市场监管总局公布八起网络不正当竞争典型案例](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664258593&idx=3&sn=a37a0cc2b2938d0072424eb44305b7eb)
   - [关注 | 市场监管总局集中发布第五批直播电商领域典型案例](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664258593&idx=4&sn=2fe91c282a7046478f3610a250f18d32)
   - [中国消费者协会消费提示：警惕美容服务低价体验陷阱](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664258593&idx=5&sn=de735673e4cc3f8c7e82a7907b8f9cd2)
-- 丁爸 情报分析师的工具箱
-  - [【情报】美军中央司令部的军机目前在哪里飞？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154119&idx=1&sn=69baecb4a78e0d44d7284e2bbc39a1c1)
-- 网络空间安全科学学报
-  - [“人工智能赋能的数据安全”专题征稿](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507223&idx=1&sn=1a3467661056a0e35414b164d33aa47c)
-- 极客公园
-  - [Kimi K2.5 深度实测：变强了，但待「封神」｜AI 上新](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653098167&idx=1&sn=f6684e4b229d1d0b8cb36320fb8ced24)
-  - [谷歌推出世界生成工具 Project Genie；又一 AI 大牛加入腾讯；雷军、刘强东等出席中英企业家委员会会议 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653098166&idx=1&sn=9c58e675fd8ad96c0d9d64fd2a1e91ee)
-- 数世咨询
-  - [安全团队携带的工具越来越多，但信心却在下降](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541615&idx=1&sn=cc6d1a8380ff791c78e5671c7c6fa2ca)
 - 看雪学苑
   - [强网杯S9 Real World - monotint](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608873&idx=1&sn=6847c40b551141a8d7a336c01ee7b5c7)
   - [今晚7点直播 | 如何绕过路由器的认证机制？D-Link设备漏洞挖掘实战直播](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608873&idx=2&sn=4ca0b40d05e4611144274a07a6e2bab1)
+- 丁爸 情报分析师的工具箱
+  - [【情报】美军中央司令部的军机目前在哪里飞？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154119&idx=1&sn=69baecb4a78e0d44d7284e2bbc39a1c1)
+- 数世咨询
+  - [安全团队携带的工具越来越多，但信心却在下降](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541615&idx=1&sn=cc6d1a8380ff791c78e5671c7c6fa2ca)
+- 极客公园
+  - [Kimi K2.5 深度实测：变强了，但待「封神」｜AI 上新](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653098167&idx=1&sn=f6684e4b229d1d0b8cb36320fb8ced24)
+  - [谷歌推出世界生成工具 Project Genie；又一 AI 大牛加入腾讯；雷军、刘强东等出席中英企业家委员会会议 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653098166&idx=1&sn=9c58e675fd8ad96c0d9d64fd2a1e91ee)
 - 嘶吼专业版
   - [豆包手机掀起 AI 风暴：智能便利背后的安全与规则之争](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586572&idx=1&sn=f7afe0e22fe8abf5aea9ac1a036817f4)
+- 情报分析师
+  - [通过一张自拍，仅分析瞳孔倒映就知道你住在哪](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566573&idx=1&sn=bb342f2131afcb75325a240b7cfab183)
+- cavallette
+  - [Corteo per gli spazi sociali -Torino 31 gennaio](https://cavallette.noblogs.org/2026/01/10031)
+- Have I Been Pwned latest breaches
+  - [Panera Bread - 5,112,502 breached accounts](https://haveibeenpwned.com/Breach/PaneraBread)
 - Over Security - Cybersecurity news aggregator
   - [U.S. convicts ex-Google engineer for sending AI tech data to China](https://www.bleepingcomputer.com/news/security/us-convicts-ex-google-engineer-for-sending-ai-tech-data-to-china/)
   - [Cloud storage payment scam floods inboxes with fake renewals](https://www.bleepingcomputer.com/news/security/cloud-storage-payment-scam-floods-inboxes-with-fake-renewals/)
@@ -82,35 +86,14 @@
   - [Researcher reveals evidence of private Instagram profiles leaking photos](https://www.bleepingcomputer.com/news/security/researcher-reveals-evidence-of-private-instagram-profiles-leaking-photos/)
   - [Researcher reveals evidence of Instagram private profiles leaking photos](https://www.bleepingcomputer.com/news/security/researcher-reveals-evidence-of-instagram-private-profiles-leaking-photos/)
   - [Panera Bread - 5,112,502 breached accounts](https://haveibeenpwned.com/Breach/PaneraBread)
-- cavallette
-  - [Corteo per gli spazi sociali -Torino 31 gennaio](https://cavallette.noblogs.org/2026/01/10031)
-- Have I Been Pwned latest breaches
-  - [Panera Bread - 5,112,502 breached accounts](https://haveibeenpwned.com/Breach/PaneraBread)
 - Security Affairs
   - [DOJ releases details alleged talented hacker working for Jeffrey Epstein](https://securityaffairs.com/187515/laws-and-regulations/doj-releases-details-alleged-talented-hacker-working-for-jeffrey-epstein.html)
   - [Cyberattacks Disrupt Communications at Wind, Solar, and Heat Facilities in Poland](https://securityaffairs.com/187503/apt/cyberattacks-disrupt-communications-at-wind-solar-and-heat-facilities-in-poland.html)
-- Desync InfoSec
-  - [应急案例分享-利用UEMS作为远控](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489514&idx=1&sn=60d5f8bdd3c9187e2eb47ba5e2787a27)
-- Blackhat Library: Hacking techniques and research
-  - [Can y'all suggest me an open source messaging application?](https://www.reddit.com/r/blackhat/comments/1qrylbf/can_yall_suggest_me_an_open_source_messaging/)
-- Information Security
-  - [New SocVel Quiz is Out (30 Jan 2026)](https://www.reddit.com/r/Information_Security/comments/1qsdj8u/new_socvel_quiz_is_out_30_jan_2026/)
-  - [Popular AI agent Clawdbot (OpenClaw) was just compromised via prompt injection. This interactive demo shows how it happened and how to protect yourself](https://www.reddit.com/r/Information_Security/comments/1qryi42/popular_ai_agent_clawdbot_openclaw_was_just/)
-  - [Reverse-Engineering the Living Binary: DNA as Self-Executing Code](https://www.reddit.com/r/Information_Security/comments/1qrsi8g/reverseengineering_the_living_binary_dna_as/)
-- netsecstudents: Subreddit for students studying Network Security and its related subjects
-  - [SQL Injection Lab Writers Guide](https://www.reddit.com/r/netsecstudents/comments/1qrwzg2/sql_injection_lab_writers_guide/)
-- Technical Information Security Content & Discussion
-  - [StopLamers Investigation: From IRC Wars to Android Backdoors](https://www.reddit.com/r/netsec/comments/1qs68tn/stoplamers_investigation_from_irc_wars_to_android/)
-- Your Open Hacker Community
-  - [How do you remove the black boxes on a redacted document?](https://www.reddit.com/r/HowToHack/comments/1qrrvl5/how_do_you_remove_the_black_boxes_on_a_redacted/)
-  - [How to disconnect someone from Wifi without admin pass.](https://www.reddit.com/r/HowToHack/comments/1qrv7if/how_to_disconnect_someone_from_wifi_without_admin/)
 - The Hacker News
   - [Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists](https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html)
   - [Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms](https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html)
   - [CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms](https://thehackernews.com/2026/01/poland-attributes-december-cyber.html)
-- Social Engineering
-  - [Alicia Lisa Washington (@lisa_wash_kdramakpopblcrazy) on Threads](https://www.reddit.com/r/SocialEngineering/comments/1qshmf2/alicia_lisa_washington_lisa_wash/)
-  - [Billionare | AI & Skills (@billionare.ai) on Threads](https://www.reddit.com/r/SocialEngineering/comments/1qshy5w/billionare_ai_skills_billionareai_on_threads/)
-  - [massive_thinks (@massive_thinks) on Threads](https://www.reddit.com/r/SocialEngineering/comments/1qshtf2/massive_thinks_massive_thinks_on_threads/)
 - OnionSec
   - [从“检测恶意”到“发现异常”：基于 Novelty Search 的威胁检测新范式](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485736&idx=1&sn=a4986915799fd777dcbcbe5f839a6c95)
+- Desync InfoSec
+  - [应急案例分享-利用UEMS作为远控](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489514&idx=1&sn=60d5f8bdd3c9187e2eb47ba5e2787a27)
