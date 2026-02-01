@@ -1,43 +1,50 @@
 # 每日安全资讯（2026-02-01）
 
-- SecWiki News
-  - [SecWiki News 2026-01-31 Review](http://www.sec-wiki.com/?2026-01-31)
-- Recent Commits to cve:main
-  - [Update Sat Jan 31 11:19:25 UTC 2026](https://github.com/trickest/cve/commit/8e28c4d2f3f85e3eb1195a6daea08b5b35e0ea2f)
 - bunnie's blog
   - [Name that Ware, January 2026](https://www.bunniestudios.com/blog/2026/name-that-ware-january-2026/)
   - [Winner, Name that Ware December 2025](https://www.bunniestudios.com/blog/2026/winner-name-that-ware-december-2025/)
 - Armin Ronacher's Thoughts and Writings
   - [Pi: The Minimal Agent Within OpenClaw](https://lucumr.pocoo.org/2026/1/31/pi/)
-- 博客
-  - [Solving fcitx Chinese input method not working in VSCode on Debian 12 desktop](https://dyrnq.com/solving-fcitx-chinese-input-method-not-working-in-vscode-on-debian-12-desktop/)
+- SecWiki News
+  - [SecWiki News 2026-01-31 Review](http://www.sec-wiki.com/?2026-01-31)
+- Recent Commits to cve:main
+  - [Update Sat Jan 31 11:19:25 UTC 2026](https://github.com/trickest/cve/commit/8e28c4d2f3f85e3eb1195a6daea08b5b35e0ea2f)
 - 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
   - [豆包手机掀起 AI 风暴：智能便利背后的安全与规则之争](https://www.4hou.com/posts/xyYE)
-- CCC Event Blog
-  - [Winterchaos in Chemnitz am 7.2.2026](https://events.ccc.de/2026/01/30/winterchaos-2026/)
+- 博客
+  - [Solving fcitx Chinese input method not working in VSCode on Debian 12 desktop](https://dyrnq.com/solving-fcitx-chinese-input-method-not-working-in-vscode-on-debian-12-desktop/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-01-31: Traffic analysis exercise: Lumma in the room-ah!](https://www.malware-traffic-analysis.net/2026/01/31/index.html)
   - [2026-01-30: PhantomStealer infection](https://www.malware-traffic-analysis.net/2026/01/30/index.html)
+- CCC Event Blog
+  - [Winterchaos in Chemnitz am 7.2.2026](https://events.ccc.de/2026/01/30/winterchaos-2026/)
 - Intigriti
   - [Exploiting PostMessage vulnerabilities: A complete guide](https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-postmessage-vulnerabilities)
 - nikic's blog
   - [This year in LLVM (2025)](https://www.npopov.com/2026/01/31/This-year-in-LLVM-2025.html)
+- Depy's docs
+  - [2025](https://docs.rce.ink/view/?view_id=911f3639235d671737aeefb67d26ee2d)
 - 奇客Solidot–传递最新科技情报
   - [CERN 获得 10 亿美元私人捐赠建造未来环形对撞机](https://www.solidot.org/story?sid=83446)
   - [挪威诺贝尔研究所遭黑客入侵可能泄露了和平奖得主名字](https://www.solidot.org/story?sid=83445)
   - [GNU gettext 在开发逾 30 年后终于释出 1.0 版本](https://www.solidot.org/story?sid=83444)
   - [九成 DuckDuckGo 用户反对 AI 功能](https://www.solidot.org/story?sid=83443)
   - [YouTube 证实禁止浏览器后台播放视频](https://www.solidot.org/story?sid=83442)
-- Depy's docs
-  - [2025](https://docs.rce.ink/view/?view_id=911f3639235d671737aeefb67d26ee2d)
-- 安全分析与研究
-  - [银狐黑产木马最新免杀样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495468&idx=1&sn=978b0379fd5e22079a13865d96c45a2c)
 - 黑鸟
   - [美国军方黑客曾针对俄罗斯水军公司发起网络行动](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185065&idx=1&sn=4b5cc39a33bbe9bce9f9c476c7b2c9ec)
 - 威努特安全网络
   - [微软Office曝高危漏洞、耐克遭勒索攻击|一周特辑](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651139827&idx=1&sn=5f018b2377de83fed165b08fdb29f942)
+- 58安全应急响应中心
+  - [58SRC 2025 年度 年终奖励](https://mp.weixin.qq.com/s?__biz=MzU4NTMzNjU4Mw==&mid=2247490191&idx=1&sn=a23dc8911afd8facd9135e9c42c1ecb2)
+- 看雪学苑
+  - [强网杯S9 Real World - monotint](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608873&idx=1&sn=6847c40b551141a8d7a336c01ee7b5c7)
+  - [今晚7点直播 | 如何绕过路由器的认证机制？D-Link设备漏洞挖掘实战直播](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608873&idx=2&sn=4ca0b40d05e4611144274a07a6e2bab1)
 - 安全学术圈
   - [天津大学 | 基于操作依赖分析的MLIR编译器基础设施模糊测试](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494925&idx=1&sn=811b5baf0c5353d94484f05dc6857551)
+- 安全圈
+  - [【安全圈】国产飞牛系统fnOS疑似出现重大安全漏洞 官方已修复但没有发布安全公告](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073946&idx=1&sn=bdc710b97937508dd118e83b9f789587)
+  - [【安全圈】Metasploit 发布 7 个新漏洞利用模块 覆盖 FreePBX、Cacti 和 SmarterMail](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073946&idx=2&sn=9b93e65f9ea42f56a293adcf299febd6)
+  - [【安全圈】AI 助手 Clawdbot 现象级爆火背后：全网 8000+ 资产暴露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073946&idx=3&sn=a37c28361316ce30cb7d7c1124e1fbc7)
 - 丁爸 情报分析师的工具箱
   - [【情报】美军中央司令部的军机目前在哪里飞？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154119&idx=1&sn=69baecb4a78e0d44d7284e2bbc39a1c1)
 - 中国信息安全
@@ -46,26 +53,23 @@
   - [关注 | 市场监管总局公布八起网络不正当竞争典型案例](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664258593&idx=3&sn=a37a0cc2b2938d0072424eb44305b7eb)
   - [关注 | 市场监管总局集中发布第五批直播电商领域典型案例](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664258593&idx=4&sn=2fe91c282a7046478f3610a250f18d32)
   - [中国消费者协会消费提示：警惕美容服务低价体验陷阱](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664258593&idx=5&sn=de735673e4cc3f8c7e82a7907b8f9cd2)
-- 看雪学苑
-  - [强网杯S9 Real World - monotint](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608873&idx=1&sn=6847c40b551141a8d7a336c01ee7b5c7)
-  - [今晚7点直播 | 如何绕过路由器的认证机制？D-Link设备漏洞挖掘实战直播](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608873&idx=2&sn=4ca0b40d05e4611144274a07a6e2bab1)
-- 网络空间安全科学学报
-  - [“人工智能赋能的数据安全”专题征稿](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507223&idx=1&sn=1a3467661056a0e35414b164d33aa47c)
-- 58安全应急响应中心
-  - [58SRC 2025 年度 年终奖励](https://mp.weixin.qq.com/s?__biz=MzU4NTMzNjU4Mw==&mid=2247490191&idx=1&sn=a23dc8911afd8facd9135e9c42c1ecb2)
-- 安全圈
-  - [【安全圈】国产飞牛系统fnOS疑似出现重大安全漏洞 官方已修复但没有发布安全公告](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073946&idx=1&sn=bdc710b97937508dd118e83b9f789587)
-  - [【安全圈】Metasploit 发布 7 个新漏洞利用模块 覆盖 FreePBX、Cacti 和 SmarterMail](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073946&idx=2&sn=9b93e65f9ea42f56a293adcf299febd6)
-  - [【安全圈】AI 助手 Clawdbot 现象级爆火背后：全网 8000+ 资产暴露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073946&idx=3&sn=a37c28361316ce30cb7d7c1124e1fbc7)
+- 数世咨询
+  - [安全团队携带的工具越来越多，但信心却在下降](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541615&idx=1&sn=cc6d1a8380ff791c78e5671c7c6fa2ca)
 - 极客公园
   - [Kimi K2.5 深度实测：变强了，但待「封神」｜AI 上新](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653098167&idx=1&sn=f6684e4b229d1d0b8cb36320fb8ced24)
   - [谷歌推出世界生成工具 Project Genie；又一 AI 大牛加入腾讯；雷军、刘强东等出席中英企业家委员会会议 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653098166&idx=1&sn=9c58e675fd8ad96c0d9d64fd2a1e91ee)
-- 数世咨询
-  - [安全团队携带的工具越来越多，但信心却在下降](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541615&idx=1&sn=cc6d1a8380ff791c78e5671c7c6fa2ca)
 - 嘶吼专业版
   - [豆包手机掀起 AI 风暴：智能便利背后的安全与规则之争](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586572&idx=1&sn=f7afe0e22fe8abf5aea9ac1a036817f4)
+- 安全分析与研究
+  - [银狐黑产木马最新免杀样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495468&idx=1&sn=978b0379fd5e22079a13865d96c45a2c)
+- 网络空间安全科学学报
+  - [“人工智能赋能的数据安全”专题征稿](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507223&idx=1&sn=1a3467661056a0e35414b164d33aa47c)
 - 情报分析师
   - [通过一张自拍，仅分析瞳孔倒映就知道你住在哪](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566573&idx=1&sn=bb342f2131afcb75325a240b7cfab183)
+- cavallette
+  - [Corteo per gli spazi sociali -Torino 31 gennaio](https://cavallette.noblogs.org/2026/01/10031)
+- Have I Been Pwned latest breaches
+  - [Panera Bread - 5,112,502 breached accounts](https://haveibeenpwned.com/Breach/PaneraBread)
 - Over Security - Cybersecurity news aggregator
   - [U.S. convicts ex-Google engineer for sending AI tech data to China](https://www.bleepingcomputer.com/news/security/us-convicts-ex-google-engineer-for-sending-ai-tech-data-to-china/)
   - [Cloud storage payment scam floods inboxes with fake renewals](https://www.bleepingcomputer.com/news/security/cloud-storage-payment-scam-floods-inboxes-with-fake-renewals/)
@@ -73,8 +77,10 @@
   - [Researcher reveals evidence of private Instagram profiles leaking photos](https://www.bleepingcomputer.com/news/security/researcher-reveals-evidence-of-private-instagram-profiles-leaking-photos/)
   - [Researcher reveals evidence of Instagram private profiles leaking photos](https://www.bleepingcomputer.com/news/security/researcher-reveals-evidence-of-instagram-private-profiles-leaking-photos/)
   - [Panera Bread - 5,112,502 breached accounts](https://haveibeenpwned.com/Breach/PaneraBread)
-- cavallette
-  - [Corteo per gli spazi sociali -Torino 31 gennaio](https://cavallette.noblogs.org/2026/01/10031)
+- Desync InfoSec
+  - [应急案例分享-利用UEMS作为远控](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489514&idx=1&sn=60d5f8bdd3c9187e2eb47ba5e2787a27)
+- GRAHAM CLULEY
+  - [FBI takes notorious RAMP ransomware forum offline](https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-takes-notorious-ramp-ransomware-forum-offline)
 - Security Affairs
   - [DOJ releases details alleged talented hacker working for Jeffrey Epstein](https://securityaffairs.com/187515/laws-and-regulations/doj-releases-details-alleged-talented-hacker-working-for-jeffrey-epstein.html)
   - [Cyberattacks Disrupt Communications at Wind, Solar, and Heat Facilities in Poland](https://securityaffairs.com/187503/apt/cyberattacks-disrupt-communications-at-wind-solar-and-heat-facilities-in-poland.html)
@@ -82,9 +88,5 @@
   - [Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists](https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html)
   - [Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms](https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html)
   - [CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms](https://thehackernews.com/2026/01/poland-attributes-december-cyber.html)
-- Have I Been Pwned latest breaches
-  - [Panera Bread - 5,112,502 breached accounts](https://haveibeenpwned.com/Breach/PaneraBread)
-- Desync InfoSec
-  - [应急案例分享-利用UEMS作为远控](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489514&idx=1&sn=60d5f8bdd3c9187e2eb47ba5e2787a27)
 - OnionSec
   - [从“检测恶意”到“发现异常”：基于 Novelty Search 的威胁检测新范式](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485736&idx=1&sn=a4986915799fd777dcbcbe5f839a6c95)
