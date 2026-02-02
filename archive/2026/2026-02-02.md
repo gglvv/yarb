@@ -1,9 +1,9 @@
 # 每日安全资讯（2026-02-02）
 
-- SecWiki News
-  - [SecWiki News 2026-02-01 Review](http://www.sec-wiki.com/?2026-02-01)
 - Recent Commits to cve:main
   - [Update Sun Feb  1 11:28:01 UTC 2026](https://github.com/trickest/cve/commit/42c8cba6261ce77cce07d7166b19460b81ebdd70)
+- SecWiki News
+  - [SecWiki News 2026-02-01 Review](http://www.sec-wiki.com/?2026-02-01)
 - 博客
   - [Double quote to prevent globbing and word splitting. shellcheck(SC2086)](https://dyrnq.com/double-quote-to-prevent-globbing-and-word-splitting-shellchecksc2086/)
 - Taxodium
@@ -11,42 +11,48 @@
   - [Album#28 - ingredients](https://taxodium.ink/album-28.html)
 - Sucuri Blog
   - [Vulnerability & Patch Roundup — January 2026](https://blog.sucuri.net/2026/01/vulnerability-patch-roundup-january-2026.html)
-- MaskRay
-  - [lld 22 ELF changes](https://maskray.me/blog/2026-02-01-lld-22-elf-changes)
 - Swing'Blog 浮生若梦
   - [如何给 Linux 内核提交补丁：一次真实的踩坑记录](https://bestwing.me/How-to-patch-a-linux-kernel-bug-zh.html)
+- MaskRay
+  - [lld 22 ELF changes](https://maskray.me/blog/2026-02-01-lld-22-elf-changes)
 - Didier Stevens
   - [Overview of Content Published in January](https://blog.didierstevens.com/2026/02/01/overview-of-content-published-in-january-10/)
 - Sucuri Blog
   - [Vulnerability & Patch Roundup — January 2026](https://blog.sucuri.net/2026/01/vulnerability-patch-roundup-january-2026.html)
+- 安全分析与研究
+  - [易语言写的银狐黑产组织最新攻击样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495469&idx=1&sn=341075beaa754d7dd7fdd6ed7c4efb88)
 - 奇客Solidot–传递最新科技情报
   - [2025 年中国工人工作时长略有下降](https://www.solidot.org/story?sid=83448)
   - [欧洲开源卓越奖授予了 Greg Kroah-Hartman](https://www.solidot.org/story?sid=83447)
-- 安全分析与研究
-  - [易语言写的银狐黑产组织最新攻击样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495469&idx=1&sn=341075beaa754d7dd7fdd6ed7c4efb88)
 - 青衣十三楼飞花堂
   - [求正方形边长趣题](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489017&idx=1&sn=8b72055c8b49a33af1656c56d776b9f0)
-- 安全研究GoSSIP
-  - [ACISP 2026 第二轮征稿通知！澳洲信息安全顶会等你来！](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501364&idx=1&sn=c4d13bec7473037d268e59435d7bdf2a)
-- dotNet安全矩阵
-  - [从安全分析视角一文解读 .NET 越权漏洞](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500948&idx=1&sn=243762d000568278770845afd55837c4)
-  - [ILMerge 助力 .NET 程序打包成可执行文件](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500948&idx=2&sn=edfb0d3aa293e31925040689069bd3f4)
-- 中国信息安全
-  - [公告 | 公安部就《网络犯罪防治法（征求意见稿）》公开征求意见](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664258635&idx=1&sn=0fac2f56273bec54a52ef19be6dc9ec9)
-  - [国安部提醒：小心网络社群“圈子”变成泄密温床](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664258635&idx=2&sn=65b47ba04436ca82a7915acda6ed469f)
-  - [专家解读 | 石经海：以法治思维构建网络犯罪防治体系](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664258635&idx=3&sn=a227076e956731ce53554012326a53a7)
+- 安全圈
+  - [【安全圈】紧急安全提醒！请立即备份自己的VPS数据 大量VPS提供商面临勒索软件攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073959&idx=1&sn=71f7dd6da6798aecab4b7df91eb2a27f)
+  - [【安全圈】两个 n8n 高危漏洞可使认证用户远程执行代码](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073959&idx=2&sn=5b4af53f24f7e46133988e49401751da)
+  - [【安全圈】Chrome 发布安全更新，修复后台 Fetch API 漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073959&idx=3&sn=3979835f9237351359e08771b9781191)
 - 网安杂谈
   - [《网络犯罪防治法（征求意见稿）》公开征求意见的公告](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889952&idx=1&sn=c745e5ea6670b277cf1c3b637b0943d3)
   - [石经海：以法治思维构建网络犯罪防治体系](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889952&idx=2&sn=d9fada394be791c8faa258b1bbac6f75)
   - [黄道丽：网络犯罪防治的国际趋势与中国制度回应](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889952&idx=3&sn=dbb23dd9097a693e670e53fac6edc823)
+- 中国信息安全
+  - [公告 | 公安部就《网络犯罪防治法（征求意见稿）》公开征求意见](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664258635&idx=1&sn=0fac2f56273bec54a52ef19be6dc9ec9)
+  - [国安部提醒：小心网络社群“圈子”变成泄密温床](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664258635&idx=2&sn=65b47ba04436ca82a7915acda6ed469f)
+  - [专家解读 | 石经海：以法治思维构建网络犯罪防治体系](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664258635&idx=3&sn=a227076e956731ce53554012326a53a7)
 - 极客公园
   - [黄仁勋否认对 OpenAI 不满；SpaceX 申请部署 100万颗卫星；传 Waymo 进行新一轮融资，估值接近 1100 亿美元 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653098189&idx=1&sn=06ac2c7eb1be4e00ec5c2070bf1967ea)
+- 安全研究GoSSIP
+  - [ACISP 2026 第二轮征稿通知！澳洲信息安全顶会等你来！](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501364&idx=1&sn=c4d13bec7473037d268e59435d7bdf2a)
 - 网络空间安全科学学报
   - [学术前沿 | 安徽大学崔杰教授团队：元宇宙中去中心化的三因素身份认证方案](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507224&idx=1&sn=155167487c2d918595ac616e59416843)
+- dotNet安全矩阵
+  - [从安全分析视角一文解读 .NET 越权漏洞](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500948&idx=1&sn=243762d000568278770845afd55837c4)
+  - [ILMerge 助力 .NET 程序打包成可执行文件](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500948&idx=2&sn=edfb0d3aa293e31925040689069bd3f4)
 - 谛听ditecting
   - [谛听 | RL-ACID：强化学习优化的自适应因果发现框架及其在工业系统鲁棒异常检测中的应用](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247498600&idx=1&sn=880c7c26d557a1c9a60344a361480802)
 - 情报分析师
   - [特工“慧眼”养成，情报员观察力训练技法](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566574&idx=1&sn=66b9899b39fe72b418de1074fa120daf)
+- IT Service Management News
+  - [Libro "Sicurezza delle informazioni" ed. 2026](http://blog.cesaregallotti.it/2026/02/libro-sicurezza-delle-informazioni-ed.html)
 - Over Security - Cybersecurity news aggregator
   - [IDS, IPS ed analisi del traffico](https://roccosicilia.com/2026/01/31/ids-ips-ed-analisi-del-traffico/)
   - [Exposed MongoDB instances still targeted in data extortion attacks](https://www.bleepingcomputer.com/news/security/exposed-mongodb-instances-still-targeted-in-data-extortion-attacks/)
@@ -54,12 +60,6 @@
   - [Vulnerability & Patch Roundup — January 2026](https://blog.sucuri.net/2026/01/vulnerability-patch-roundup-january-2026.html)
   - [OpenAI says you can trust ChatGPT answers, as it kicks off ads rollout preparation](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-you-can-trust-chatgpt-answers-as-it-kicks-off-ads-rollout-preparation/)
   - [OpenAI is retiring famous GPT-4o model, says GPT 5.2 is good enough](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-retiring-famous-gpt-4o-model-says-gpt-52-is-good-enough/)
-- 安全圈
-  - [【安全圈】紧急安全提醒！请立即备份自己的VPS数据 大量VPS提供商面临勒索软件攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073959&idx=1&sn=71f7dd6da6798aecab4b7df91eb2a27f)
-  - [【安全圈】两个 n8n 高危漏洞可使认证用户远程执行代码](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073959&idx=2&sn=5b4af53f24f7e46133988e49401751da)
-  - [【安全圈】Chrome 发布安全更新，修复后台 Fetch API 漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073959&idx=3&sn=3979835f9237351359e08771b9781191)
-- IT Service Management News
-  - [Libro "Sicurezza delle informazioni" ed. 2026](http://blog.cesaregallotti.it/2026/02/libro-sicurezza-delle-informazioni-ed.html)
 - 希潭实验室
   - [第154篇：美国NSA苹果手机硬件级后门漏洞的分析 | "三角测量"系列第8篇](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247488190&idx=1&sn=6862d27a6a6998eeb9d2f6a357adac2b)
 - 娜璋AI安全之家
