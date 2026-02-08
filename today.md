@@ -1,11 +1,11 @@
 # 每日安全资讯（2026-02-08）
 
-- Microsoft Security Blog
-  - [Analysis of active exploitation of SolarWinds Web Help Desk](https://www.microsoft.com/en-us/security/blog/2026/02/06/active-exploitation-solarwinds-web-help-desk/)
-- Recent Commits to cve:main
-  - [Update Sat Feb  7 11:22:43 UTC 2026](https://github.com/trickest/cve/commit/6ecc8154c35499cd03d8bb1c46d10eb302032395)
 - SecWiki News
   - [SecWiki News 2026-02-07 Review](http://www.sec-wiki.com/?2026-02-07)
+- Recent Commits to cve:main
+  - [Update Sat Feb  7 11:22:43 UTC 2026](https://github.com/trickest/cve/commit/6ecc8154c35499cd03d8bb1c46d10eb302032395)
+- Microsoft Security Blog
+  - [Analysis of active exploitation of SolarWinds Web Help Desk](https://www.microsoft.com/en-us/security/blog/2026/02/06/active-exploitation-solarwinds-web-help-desk/)
 - Sucuri Blog
   - [Beyond Login Screens: Why Access Control Matters](https://blog.sucuri.net/2026/02/beyond-login-screens-why-access-control-matters.html)
 - Swing'Blog 浮生若梦
@@ -13,10 +13,6 @@
 - Hacking Dream
   - [Static Malware Analysis: Analyzing Malicious Files (Part 1)](https://www.hackingdream.net/2026/02/static-malware-analysis-analyzing-malicious-files.html)
   - [Analyze Malicious Office Documents: The Complete Guide](https://www.hackingdream.net/2026/02/analyze-malicious-office-documents.html)
-- Reverse Engineering
-  - [Chinese cheap Wifi Cam 365Cam](https://www.reddit.com/r/ReverseEngineering/comments/1qyov6o/chinese_cheap_wifi_cam_365cam/)
-  - [Hexed - A fast, local-first, scriptable hex editor for modern file analysis](https://www.reddit.com/r/ReverseEngineering/comments/1qy1tpg/hexed_a_fast_localfirst_scriptable_hex_editor_for/)
-  - [Using Javascript & WebSockets to automate an MMO browser game !](https://www.reddit.com/r/ReverseEngineering/comments/1qygb1u/using_javascript_websockets_to_automate_an_mmo/)
 - Sucuri Blog
   - [Beyond Login Screens: Why Access Control Matters](https://blog.sucuri.net/2026/02/beyond-login-screens-why-access-control-matters.html)
 - Think
@@ -35,10 +31,10 @@ Share
   - [银狐黑产组织ValleyRAT远控样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495592&idx=1&sn=02f8e452f316cf84f948ef11bb36ffbc)
 - 黑鸟
   - [丹麦情报机构搭建网站，公开招募黑客参与网络进攻](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185201&idx=1&sn=9701a8613ecef130571eed4629c10280)
-- 安全内参
-  - [未履行网络安全保护义务，快手被罚1.191亿元](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515558&idx=1&sn=fbe2276d1aa01263674881256efd7160)
 - 威努特安全网络
   - [汽车数据出境安全新规出台、SystemBC僵尸网络活跃|一周特辑](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651140003&idx=1&sn=57204c07ab6372eb9ac5b16614162198)
+- 安全内参
+  - [未履行网络安全保护义务，快手被罚1.191亿元](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515558&idx=1&sn=fbe2276d1aa01263674881256efd7160)
 - 奶牛安全
   - [爱泼斯坦无码邮件原文第四批：它个人gmail邮箱10封邮件](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489612&idx=1&sn=8a3c6c01789f71e1e44106f269a1f63f)
 - 安全学术圈
@@ -60,13 +56,13 @@ Share
   - [小米 YU7 Ultra 曝光，极速 300KM/小时；影石「Pocket」相机曝光；传英伟达 2026 可能不推新显卡](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653098622&idx=1&sn=e19610df6307729a3eaca5c2ca544d18)
 - 情报分析师
   - [西方情报官的“外交面具”，如何识别披着外交身份的间谍](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566651&idx=1&sn=6410a30a0b033695565a2d661996704d)
-- Microsoft Security Blog
-  - [Analysis of active exploitation of SolarWinds Web Help Desk](https://www.microsoft.com/en-us/security/blog/2026/02/06/active-exploitation-solarwinds-web-help-desk/)
 - Over Security - Cybersecurity news aggregator
   - [State actor targets 155 countries in 'Shadow Campaigns' espionage op](https://www.bleepingcomputer.com/news/security/state-actor-targets-155-countries-in-shadow-campaigns-espionage-op/)
   - [Payments platform BridgePay confirms ransomware attack behind outage](https://www.bleepingcomputer.com/news/security/payments-platform-bridgepay-confirms-ransomware-attack-behind-outage/)
   - [Beyond Login Screens: Why Access Control Matters](https://blog.sucuri.net/2026/02/beyond-login-screens-why-access-control-matters.html)
   - [Substack - 663,121 breached accounts](https://haveibeenpwned.com/Breach/Substack)
+- Microsoft Security Blog
+  - [Analysis of active exploitation of SolarWinds Web Help Desk](https://www.microsoft.com/en-us/security/blog/2026/02/06/active-exploitation-solarwinds-web-help-desk/)
 - Chaos Computer Club - last 100 events feed
   - [Fächerwahl leicht gemacht (jh26)](https://cdn.media.ccc.de/events/jugendhackt/2026/h264-hd/jh26rn-175-deu-Faecherwahl_leicht_gemacht_hd.mp4)
   - [Cup-stabilizer (jh26)](https://cdn.media.ccc.de/events/jugendhackt/2026/h264-hd/jh26rn-174-deu-Cup-stabilizer_hd.mp4)
@@ -82,10 +78,10 @@ Share
   - [Using AI Agents to Analyze Malware on REMnux](https://zeltser.com/ai-malware-analysis-remnux/)
 - BorderGate
   - [Enumerating Endpoint Mitigations](https://www.bordergate.co.uk/enumerating-endpoint-mitigations/)
-- GRAHAM CLULEY
-  - [Fake Dubai Crown Prince tracked to Nigerian mansion after $2.5M romance scam](https://www.bitdefender.com/en-us/blog/hotforsecurity/fake-dubai-crown-prince-tracked-to-nigerian-mansion-after-2-5m-romance-scam)
 - The Hacker News
   - [German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists](https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html)
+- GRAHAM CLULEY
+  - [Fake Dubai Crown Prince tracked to Nigerian mansion after $2.5M romance scam](https://www.bitdefender.com/en-us/blog/hotforsecurity/fake-dubai-crown-prince-tracked-to-nigerian-mansion-after-2-5m-romance-scam)
 - Security Affairs
   - [Italian university La Sapienza still offline to mitigate recent cyber attack](https://securityaffairs.com/187702/cyber-crime/italian-university-la-sapienza-still-offline-to-mitigate-recent-cyber-attack.html)
   - [CISA pushes Federal agencies to retire end-of-support edge devices](https://securityaffairs.com/187697/security/cisa-pushes-federal-agencies-to-retire-end-of-support-edge-devices.html)
