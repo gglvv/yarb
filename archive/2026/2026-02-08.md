@@ -2,10 +2,10 @@
 
 - SecWiki News
   - [SecWiki News 2026-02-07 Review](http://www.sec-wiki.com/?2026-02-07)
-- Microsoft Security Blog
-  - [Analysis of active exploitation of SolarWinds Web Help Desk](https://www.microsoft.com/en-us/security/blog/2026/02/06/active-exploitation-solarwinds-web-help-desk/)
 - Recent Commits to cve:main
   - [Update Sat Feb  7 11:22:43 UTC 2026](https://github.com/trickest/cve/commit/6ecc8154c35499cd03d8bb1c46d10eb302032395)
+- Microsoft Security Blog
+  - [Analysis of active exploitation of SolarWinds Web Help Desk](https://www.microsoft.com/en-us/security/blog/2026/02/06/active-exploitation-solarwinds-web-help-desk/)
 - Sucuri Blog
   - [Beyond Login Screens: Why Access Control Matters](https://blog.sucuri.net/2026/02/beyond-login-screens-why-access-control-matters.html)
 - Swing'Blog 浮生若梦
@@ -31,19 +31,12 @@ Share
   - [银狐黑产组织ValleyRAT远控样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495592&idx=1&sn=02f8e452f316cf84f948ef11bb36ffbc)
 - 黑鸟
   - [丹麦情报机构搭建网站，公开招募黑客参与网络进攻](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185201&idx=1&sn=9701a8613ecef130571eed4629c10280)
-- 威努特安全网络
-  - [汽车数据出境安全新规出台、SystemBC僵尸网络活跃|一周特辑](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651140003&idx=1&sn=57204c07ab6372eb9ac5b16614162198)
 - 安全内参
   - [未履行网络安全保护义务，快手被罚1.191亿元](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515558&idx=1&sn=fbe2276d1aa01263674881256efd7160)
+- 威努特安全网络
+  - [汽车数据出境安全新规出台、SystemBC僵尸网络活跃|一周特辑](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651140003&idx=1&sn=57204c07ab6372eb9ac5b16614162198)
 - 安全学术圈
   - [斯图加特大学 | Fuzz4All：基于大语言模型的通用模糊测试](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494990&idx=1&sn=ebe0d456d1abec28852ee1d5306bd71a)
-- 安全圈
-  - [【安全圈】突发！BT面板Nginx服务器遭批量攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074052&idx=1&sn=ea5ed1b06b333909c33ceead3b19b8a1)
-  - [【安全圈】紧急预警！n8n 曝严重漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074052&idx=2&sn=8e912398d2bf5ec8260e938a07b552b0)
-  - [【安全圈】突发！韩国Bithumb交易所误空投2000比特币](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074052&idx=3&sn=0a26f104b944aac1d7e5206201352bcf)
-- 看雪学苑
-  - [量子安全 quantum ctf Qlotto Hack the box](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458609298&idx=1&sn=acff6ef187e123da88d53a12f91fe82f)
-  - [看雪【勒索病毒应急响应服务】上线！](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458609298&idx=2&sn=440adce9158535254a30a23c51b69224)
 - 奶牛安全
   - [爱泼斯坦无码邮件原文第四批：它个人gmail邮箱10封邮件](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489612&idx=1&sn=8a3c6c01789f71e1e44106f269a1f63f)
 - 中国信息安全
@@ -51,6 +44,13 @@ Share
   - [注意 | 五部门发布风险提示 警惕不法“代理维权”短视频及直播陷阱](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259083&idx=2&sn=4b59192d1a79fd55d0c494ac1a95a18b)
   - [前沿 | 人工智能百花齐放背后的中国创新密码](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259083&idx=3&sn=4134319394f3f4e5c3091a744ce9a1fc)
   - [观点 | 人工智能会犯错吗？](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259083&idx=4&sn=9e1b15bbebc0e5c51a83fd7240568348)
+- 安全圈
+  - [【安全圈】突发！BT面板Nginx服务器遭批量攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074052&idx=1&sn=ea5ed1b06b333909c33ceead3b19b8a1)
+  - [【安全圈】紧急预警！n8n 曝严重漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074052&idx=2&sn=8e912398d2bf5ec8260e938a07b552b0)
+  - [【安全圈】突发！韩国Bithumb交易所误空投2000比特币](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074052&idx=3&sn=0a26f104b944aac1d7e5206201352bcf)
+- 看雪学苑
+  - [量子安全 quantum ctf Qlotto Hack the box](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458609298&idx=1&sn=acff6ef187e123da88d53a12f91fe82f)
+  - [看雪【勒索病毒应急响应服务】上线！](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458609298&idx=2&sn=440adce9158535254a30a23c51b69224)
 - 极客公园
   - [GitHub 上，人类已经干不过 AI 了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653098630&idx=1&sn=2887782a715d83888b2c93b6c910068e)
   - [小米 YU7 Ultra 曝光，极速 300KM/小时；影石「Pocket」相机曝光；传英伟达 2026 可能不推新显卡](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653098622&idx=1&sn=e19610df6307729a3eaca5c2ca544d18)
@@ -59,16 +59,14 @@ Share
 - Microsoft Security Blog
   - [Analysis of active exploitation of SolarWinds Web Help Desk](https://www.microsoft.com/en-us/security/blog/2026/02/06/active-exploitation-solarwinds-web-help-desk/)
 - Chaos Computer Club - last 100 events feed
-  - [Community Games Library (jh26)](https://cdn.media.ccc.de/events/jugendhackt/2026/h264-hd/jh26rn-181-deu-Community_Games_Library_hd.mp4)
   - [Fächerwahl leicht gemacht (jh26)](https://cdn.media.ccc.de/events/jugendhackt/2026/h264-hd/jh26rn-175-deu-Faecherwahl_leicht_gemacht_hd.mp4)
+  - [Cup-stabilizer (jh26)](https://cdn.media.ccc.de/events/jugendhackt/2026/h264-hd/jh26rn-174-deu-Cup-stabilizer_hd.mp4)
   - [Privacy Helper (jh26)](https://cdn.media.ccc.de/events/jugendhackt/2026/h264-hd/jh26rn-180-deu-Privacy_Helper_hd.mp4)
   - [Unseen (jh26)](https://cdn.media.ccc.de/events/jugendhackt/2026/h264-hd/jh26rn-176-deu-Unseen_hd.mp4)
-  - [Cup-stabilizer (jh26)](https://cdn.media.ccc.de/events/jugendhackt/2026/h264-hd/jh26rn-174-deu-Cup-stabilizer_hd.mp4)
+  - [Roll with me (jh26)](https://cdn.media.ccc.de/events/jugendhackt/2026/h264-hd/jh26rn-179-deu-Roll_with_me_hd.mp4)
+  - [Community Games Library (jh26)](https://cdn.media.ccc.de/events/jugendhackt/2026/h264-hd/jh26rn-181-deu-Community_Games_Library_hd.mp4)
   - [Abschlusspräsentation (jh26)](https://cdn.media.ccc.de/events/jugendhackt/2026/h264-hd/jh26rn-170-deu-Abschlusspraesentation_hd.mp4)
   - [WE CREATE SPACE (jh26)](https://cdn.media.ccc.de/events/jugendhackt/2026/h264-hd/jh26rn-178-deu-WE_CREATE_SPACE_hd.mp4)
-  - [Roll with me (jh26)](https://cdn.media.ccc.de/events/jugendhackt/2026/h264-hd/jh26rn-179-deu-Roll_with_me_hd.mp4)
-- 安全行者老霍
-  - [2025年五大勒索软件攻击：最严重后果与最深刻教训](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485852&idx=1&sn=bc6d12d6b0f70b4c72a0a2e6147448e6)
 - Over Security - Cybersecurity news aggregator
   - [State actor targets 155 countries in 'Shadow Campaigns' espionage op](https://www.bleepingcomputer.com/news/security/state-actor-targets-155-countries-in-shadow-campaigns-espionage-op/)
   - [Payments platform BridgePay confirms ransomware attack behind outage](https://www.bleepingcomputer.com/news/security/payments-platform-bridgepay-confirms-ransomware-attack-behind-outage/)
@@ -76,12 +74,14 @@ Share
   - [Substack - 663,121 breached accounts](https://haveibeenpwned.com/Breach/Substack)
 - Lenny Zeltser
   - [Using AI Agents to Analyze Malware on REMnux](https://zeltser.com/ai-malware-analysis-remnux/)
+- 安全行者老霍
+  - [2025年五大勒索软件攻击：最严重后果与最深刻教训](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485852&idx=1&sn=bc6d12d6b0f70b4c72a0a2e6147448e6)
 - BorderGate
   - [Enumerating Endpoint Mitigations](https://www.bordergate.co.uk/enumerating-endpoint-mitigations/)
-- The Hacker News
-  - [German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists](https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html)
 - Security Affairs
   - [Italian university La Sapienza still offline to mitigate recent cyber attack](https://securityaffairs.com/187702/cyber-crime/italian-university-la-sapienza-still-offline-to-mitigate-recent-cyber-attack.html)
   - [CISA pushes Federal agencies to retire end-of-support edge devices](https://securityaffairs.com/187697/security/cisa-pushes-federal-agencies-to-retire-end-of-support-edge-devices.html)
 - GRAHAM CLULEY
   - [Fake Dubai Crown Prince tracked to Nigerian mansion after $2.5M romance scam](https://www.bitdefender.com/en-us/blog/hotforsecurity/fake-dubai-crown-prince-tracked-to-nigerian-mansion-after-2-5m-romance-scam)
+- The Hacker News
+  - [German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists](https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html)
