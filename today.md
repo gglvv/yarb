@@ -1,11 +1,11 @@
 # 每日安全资讯（2026-02-08）
 
-- SecWiki News
-  - [SecWiki News 2026-02-07 Review](http://www.sec-wiki.com/?2026-02-07)
 - Recent Commits to cve:main
   - [Update Sat Feb  7 11:22:43 UTC 2026](https://github.com/trickest/cve/commit/6ecc8154c35499cd03d8bb1c46d10eb302032395)
 - Microsoft Security Blog
   - [Analysis of active exploitation of SolarWinds Web Help Desk](https://www.microsoft.com/en-us/security/blog/2026/02/06/active-exploitation-solarwinds-web-help-desk/)
+- SecWiki News
+  - [SecWiki News 2026-02-07 Review](http://www.sec-wiki.com/?2026-02-07)
 - Sucuri Blog
   - [Beyond Login Screens: Why Access Control Matters](https://blog.sucuri.net/2026/02/beyond-login-screens-why-access-control-matters.html)
 - Swing'Blog 浮生若梦
@@ -13,6 +13,10 @@
 - Hacking Dream
   - [Static Malware Analysis: Analyzing Malicious Files (Part 1)](https://www.hackingdream.net/2026/02/static-malware-analysis-analyzing-malicious-files.html)
   - [Analyze Malicious Office Documents: The Complete Guide](https://www.hackingdream.net/2026/02/analyze-malicious-office-documents.html)
+- Reverse Engineering
+  - [Chinese cheap Wifi Cam 365Cam](https://www.reddit.com/r/ReverseEngineering/comments/1qyov6o/chinese_cheap_wifi_cam_365cam/)
+  - [Hexed - A fast, local-first, scriptable hex editor for modern file analysis](https://www.reddit.com/r/ReverseEngineering/comments/1qy1tpg/hexed_a_fast_localfirst_scriptable_hex_editor_for/)
+  - [Using Javascript & WebSockets to automate an MMO browser game !](https://www.reddit.com/r/ReverseEngineering/comments/1qygb1u/using_javascript_websockets_to_automate_an_mmo/)
 - Sucuri Blog
   - [Beyond Login Screens: Why Access Control Matters](https://blog.sucuri.net/2026/02/beyond-login-screens-why-access-control-matters.html)
 - Think
@@ -24,21 +28,21 @@ Share
   - [丰田开发适合汽车的开源游戏引擎 Fluorite](https://www.solidot.org/story?sid=83507)
   - [AI.com 域名以 7 千万美元出售](https://www.solidot.org/story?sid=83506)
   - [一季度内存价格比去年四季度翻番](https://www.solidot.org/story?sid=83505)
+- 安全分析与研究
+  - [银狐黑产组织ValleyRAT远控样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495592&idx=1&sn=02f8e452f316cf84f948ef11bb36ffbc)
 - 黑海洋Wiki | Web开发工具包 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [顶级域名“AI[.]com”以7000万美元转手](https://blog.upx8.com/%E9%A1%B6%E7%BA%A7%E5%9F%9F%E5%90%8D-AI-com-%E4%BB%A57000%E4%B8%87%E7%BE%8E%E5%85%83%E8%BD%AC%E6%89%8B)
   - [博通因 VMware 许可限制面临欧盟审查](https://blog.upx8.com/%E5%8D%9A%E9%80%9A%E5%9B%A0-VMware-%E8%AE%B8%E5%8F%AF%E9%99%90%E5%88%B6%E9%9D%A2%E4%B8%B4%E6%AC%A7%E7%9B%9F%E5%AE%A1%E6%9F%A5)
-- 安全分析与研究
-  - [银狐黑产组织ValleyRAT远控样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495592&idx=1&sn=02f8e452f316cf84f948ef11bb36ffbc)
 - 黑鸟
   - [丹麦情报机构搭建网站，公开招募黑客参与网络进攻](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185201&idx=1&sn=9701a8613ecef130571eed4629c10280)
 - 安全内参
   - [未履行网络安全保护义务，快手被罚1.191亿元](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515558&idx=1&sn=fbe2276d1aa01263674881256efd7160)
 - 威努特安全网络
   - [汽车数据出境安全新规出台、SystemBC僵尸网络活跃|一周特辑](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651140003&idx=1&sn=57204c07ab6372eb9ac5b16614162198)
-- 安全学术圈
-  - [斯图加特大学 | Fuzz4All：基于大语言模型的通用模糊测试](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494990&idx=1&sn=ebe0d456d1abec28852ee1d5306bd71a)
 - 奶牛安全
   - [爱泼斯坦无码邮件原文第四批：它个人gmail邮箱10封邮件](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489612&idx=1&sn=8a3c6c01789f71e1e44106f269a1f63f)
+- 安全学术圈
+  - [斯图加特大学 | Fuzz4All：基于大语言模型的通用模糊测试](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494990&idx=1&sn=ebe0d456d1abec28852ee1d5306bd71a)
 - 中国信息安全
   - [通知 | 八部门发文 进一步防范和处置虚拟货币等相关风险](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259083&idx=1&sn=babf01cd0657a62e09ce1f520b8949b8)
   - [注意 | 五部门发布风险提示 警惕不法“代理维权”短视频及直播陷阱](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259083&idx=2&sn=4b59192d1a79fd55d0c494ac1a95a18b)
@@ -56,6 +60,11 @@ Share
   - [小米 YU7 Ultra 曝光，极速 300KM/小时；影石「Pocket」相机曝光；传英伟达 2026 可能不推新显卡](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653098622&idx=1&sn=e19610df6307729a3eaca5c2ca544d18)
 - 情报分析师
   - [西方情报官的“外交面具”，如何识别披着外交身份的间谍](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566651&idx=1&sn=6410a30a0b033695565a2d661996704d)
+- Over Security - Cybersecurity news aggregator
+  - [State actor targets 155 countries in 'Shadow Campaigns' espionage op](https://www.bleepingcomputer.com/news/security/state-actor-targets-155-countries-in-shadow-campaigns-espionage-op/)
+  - [Payments platform BridgePay confirms ransomware attack behind outage](https://www.bleepingcomputer.com/news/security/payments-platform-bridgepay-confirms-ransomware-attack-behind-outage/)
+  - [Beyond Login Screens: Why Access Control Matters](https://blog.sucuri.net/2026/02/beyond-login-screens-why-access-control-matters.html)
+  - [Substack - 663,121 breached accounts](https://haveibeenpwned.com/Breach/Substack)
 - Microsoft Security Blog
   - [Analysis of active exploitation of SolarWinds Web Help Desk](https://www.microsoft.com/en-us/security/blog/2026/02/06/active-exploitation-solarwinds-web-help-desk/)
 - Chaos Computer Club - last 100 events feed
@@ -63,25 +72,29 @@ Share
   - [Cup-stabilizer (jh26)](https://cdn.media.ccc.de/events/jugendhackt/2026/h264-hd/jh26rn-174-deu-Cup-stabilizer_hd.mp4)
   - [Privacy Helper (jh26)](https://cdn.media.ccc.de/events/jugendhackt/2026/h264-hd/jh26rn-180-deu-Privacy_Helper_hd.mp4)
   - [Unseen (jh26)](https://cdn.media.ccc.de/events/jugendhackt/2026/h264-hd/jh26rn-176-deu-Unseen_hd.mp4)
-  - [Roll with me (jh26)](https://cdn.media.ccc.de/events/jugendhackt/2026/h264-hd/jh26rn-179-deu-Roll_with_me_hd.mp4)
   - [Community Games Library (jh26)](https://cdn.media.ccc.de/events/jugendhackt/2026/h264-hd/jh26rn-181-deu-Community_Games_Library_hd.mp4)
   - [Abschlusspräsentation (jh26)](https://cdn.media.ccc.de/events/jugendhackt/2026/h264-hd/jh26rn-170-deu-Abschlusspraesentation_hd.mp4)
   - [WE CREATE SPACE (jh26)](https://cdn.media.ccc.de/events/jugendhackt/2026/h264-hd/jh26rn-178-deu-WE_CREATE_SPACE_hd.mp4)
-- Over Security - Cybersecurity news aggregator
-  - [State actor targets 155 countries in 'Shadow Campaigns' espionage op](https://www.bleepingcomputer.com/news/security/state-actor-targets-155-countries-in-shadow-campaigns-espionage-op/)
-  - [Payments platform BridgePay confirms ransomware attack behind outage](https://www.bleepingcomputer.com/news/security/payments-platform-bridgepay-confirms-ransomware-attack-behind-outage/)
-  - [Beyond Login Screens: Why Access Control Matters](https://blog.sucuri.net/2026/02/beyond-login-screens-why-access-control-matters.html)
-  - [Substack - 663,121 breached accounts](https://haveibeenpwned.com/Breach/Substack)
-- Lenny Zeltser
-  - [Using AI Agents to Analyze Malware on REMnux](https://zeltser.com/ai-malware-analysis-remnux/)
+  - [Roll with me (jh26)](https://cdn.media.ccc.de/events/jugendhackt/2026/h264-hd/jh26rn-179-deu-Roll_with_me_hd.mp4)
 - 安全行者老霍
   - [2025年五大勒索软件攻击：最严重后果与最深刻教训](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485852&idx=1&sn=bc6d12d6b0f70b4c72a0a2e6147448e6)
+- Lenny Zeltser
+  - [Using AI Agents to Analyze Malware on REMnux](https://zeltser.com/ai-malware-analysis-remnux/)
 - BorderGate
   - [Enumerating Endpoint Mitigations](https://www.bordergate.co.uk/enumerating-endpoint-mitigations/)
+- The Hacker News
+  - [German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists](https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html)
+- GRAHAM CLULEY
+  - [Fake Dubai Crown Prince tracked to Nigerian mansion after $2.5M romance scam](https://www.bitdefender.com/en-us/blog/hotforsecurity/fake-dubai-crown-prince-tracked-to-nigerian-mansion-after-2-5m-romance-scam)
+- Technical Information Security Content & Discussion
+  - [New OSS secret scanner: Kingfisher (Rust) validates exposed creds + maps permissions](https://www.reddit.com/r/netsec/comments/1qyl3yf/new_oss_secret_scanner_kingfisher_rust_validates/)
+  - [trappsec: open source framework for API deception](https://www.reddit.com/r/netsec/comments/1qyfxlw/trappsec_open_source_framework_for_api_deception/)
+  - [Cloud Deception Management Platform (Open-source Cloud Canaries)](https://www.reddit.com/r/netsec/comments/1qymqx8/cloud_deception_management_platform_opensource/)
+  - [crypto-scanner: Open-source CLI tool to find quantum-vulnerable cryptography in your codebase](https://www.reddit.com/r/netsec/comments/1qy0mjx/cryptoscanner_opensource_cli_tool_to_find/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [SAST Basics: XSS Detection in Spring App](https://www.reddit.com/r/netsecstudents/comments/1qyap6h/sast_basics_xss_detection_in_spring_app/)
+- Blackhat Library: Hacking techniques and research
+  - [Degree](https://www.reddit.com/r/blackhat/comments/1qyijwn/degree/)
 - Security Affairs
   - [Italian university La Sapienza still offline to mitigate recent cyber attack](https://securityaffairs.com/187702/cyber-crime/italian-university-la-sapienza-still-offline-to-mitigate-recent-cyber-attack.html)
   - [CISA pushes Federal agencies to retire end-of-support edge devices](https://securityaffairs.com/187697/security/cisa-pushes-federal-agencies-to-retire-end-of-support-edge-devices.html)
-- GRAHAM CLULEY
-  - [Fake Dubai Crown Prince tracked to Nigerian mansion after $2.5M romance scam](https://www.bitdefender.com/en-us/blog/hotforsecurity/fake-dubai-crown-prince-tracked-to-nigerian-mansion-after-2-5m-romance-scam)
-- The Hacker News
-  - [German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists](https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html)
