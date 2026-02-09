@@ -2,14 +2,14 @@
 
 - SecWiki News
   - [SecWiki News 2026-02-08 Review](http://www.sec-wiki.com/?2026-02-08)
-- Hacking Dream
-  - [Dynamic Malware Analysis: A Complete Guide to Behavioral Monitoring (Part 2)](https://www.hackingdream.net/2026/02/dynamic-malware-analysis-complete-guide-to-behavioral-monitoring.html)
 - Recent Commits to cve:main
   - [Update Sun Feb  8 11:09:37 UTC 2026](https://github.com/trickest/cve/commit/8acb0eb5be0130ab993f1b41aea412d6cc482d69)
 - Reverse Engineering
   - [Reverse Engineering Venetica to fix a crash present since release](https://www.reddit.com/r/ReverseEngineering/comments/1qzomuw/reverse_engineering_venetica_to_fix_a_crash/)
   - [joshuanwalker/Raiders2600: Reverse Engineering Raiders of the Lost Ark for the Atari 2600](https://www.reddit.com/r/ReverseEngineering/comments/1qzash6/joshuanwalkerraiders2600_reverse_engineering/)
   - [I made an obfuscator. Full source available for analysis.](https://www.reddit.com/r/ReverseEngineering/comments/1qzm0sj/i_made_an_obfuscator_full_source_available_for/)
+- Hacking Dream
+  - [Dynamic Malware Analysis: A Complete Guide to Behavioral Monitoring (Part 2)](https://www.hackingdream.net/2026/02/dynamic-malware-analysis-complete-guide-to-behavioral-monitoring.html)
 - 明天的乌云
   - [Letting AI Actively Manage Its Own Context](https://blog.xlab.app/p/51d26495/)
   - [让AI主动管理自己的上下文](https://blog.xlab.app/p/6a966aeb/)
@@ -18,14 +18,14 @@
 - 奇客Solidot–传递最新科技情报
   - [AI 热导致短缺无处不在](https://www.solidot.org/story?sid=83510)
   - [Waymo 部分远程操作人员位于菲律宾](https://www.solidot.org/story?sid=83509)
+- 安全分析与研究
+  - [伪装成某厂IPS产品手册红队测试样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495594&idx=1&sn=fd44fe61b122cf58483168d204fa2647)
 - 黑鸟
   - [AI Agent 生态新威胁：Skills 武器化与完整攻击链解析](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185217&idx=1&sn=d227a1814ec0ea12f80e88d3bed6ca62)
 - 我的安全视界观
   - [回望：我的首个十年网安路](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487445&idx=1&sn=fcb2566143933f2b25742f3cb917940c)
 - 丁爸 情报分析师的工具箱
   - [【资源】朝鲜网站资源汇总](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154206&idx=1&sn=71b6c8e1e2ea461f4ca20f8561a5d8a3)
-- 安全分析与研究
-  - [伪装成某厂IPS产品手册红队测试样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495594&idx=1&sn=fd44fe61b122cf58483168d204fa2647)
 - 安全学术圈
   - [复旦大学 | MAGIC：基于掩码图表示学习的高级持续性威胁检测](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494996&idx=1&sn=6da2f4dcd6d84c89682f6cad9bfa99f2)
 - 极客公园
@@ -47,21 +47,27 @@
   - [Asterisk Security Release 22.8.2](https://seclists.org/fulldisclosure/2026/Feb/7)
   - [Asterisk Security Release 20.18.2](https://seclists.org/fulldisclosure/2026/Feb/6)
   - [Certified Asterisk Security Release certified-20.7-cert9](https://seclists.org/fulldisclosure/2026/Feb/5)
-- The Hacker News
-  - [OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills](https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html)
-- Security Affairs
-  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 83](https://securityaffairs.com/187732/malware/security-affairs-malware-newsletter-round-83.html)
-  - [Security Affairs newsletter Round 562 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/187727/security/security-affairs-newsletter-round-562-by-pierluigi-paganini-international-edition.html)
-  - [DKnife toolkit abuses routers to spy and deliver malware since 2019](https://securityaffairs.com/187716/malware/dknife-toolkit-abuses-routers-to-spy-and-deliver-malware-since-2019.html)
-- Information Security
-  - [Educational materials for children on protection from fraudsters](https://www.reddit.com/r/Information_Security/comments/1qzc0t7/educational_materials_for_children_on_protection/)
 - Blackhat Library: Hacking techniques and research
   - [SSH Tunneling and Pivoting Lab](https://www.reddit.com/r/blackhat/comments/1qzoxev/ssh_tunneling_and_pivoting_lab/)
   - [Romania’s Oil Pipeline Operator Hacked: How an Infostealer Infection Paved the Way for Qilin's Ransomware Attack](https://www.reddit.com/r/blackhat/comments/1qzd76b/romanias_oil_pipeline_operator_hacked_how_an/)
+- The Hacker News
+  - [OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills](https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html)
 - netsecstudents: Subreddit for students studying Network Security and its related subjects
   - [Getting started](https://www.reddit.com/r/netsecstudents/comments/1qzme76/getting_started/)
   - [EC-council short course are worth it ?](https://www.reddit.com/r/netsecstudents/comments/1qz63bo/eccouncil_short_course_are_worth_it/)
   - [How to Start a Career in Ethical Hacking & VAPT? Beginner Cybersecurity Roadmap Needed](https://www.reddit.com/r/netsecstudents/comments/1qz08h2/how_to_start_a_career_in_ethical_hacking_vapt/)
+- Information Security
+  - [Educational materials for children on protection from fraudsters](https://www.reddit.com/r/Information_Security/comments/1qzc0t7/educational_materials_for_children_on_protection/)
+- Computer Forensics
+  - [college math ?](https://www.reddit.com/r/computerforensics/comments/1qza6qy/college_math/)
+  - [Jobs in Digital Forensics](https://www.reddit.com/r/computerforensics/comments/1qytlu9/jobs_in_digital_forensics/)
+- Technical Information Security Content & Discussion
+  - [Defense Evasion: The Service Run Failed Successfully](https://www.reddit.com/r/netsec/comments/1qza4lh/defense_evasion_the_service_run_failed/)
+  - [Roundcube Webmail: SVG feImage bypasses image blocking to track email opens](https://www.reddit.com/r/netsec/comments/1qzku4d/roundcube_webmail_svg_feimage_bypasses_image/)
+- Security Affairs
+  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 83](https://securityaffairs.com/187732/malware/security-affairs-malware-newsletter-round-83.html)
+  - [Security Affairs newsletter Round 562 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/187727/security/security-affairs-newsletter-round-562-by-pierluigi-paganini-international-edition.html)
+  - [DKnife toolkit abuses routers to spy and deliver malware since 2019](https://securityaffairs.com/187716/malware/dknife-toolkit-abuses-routers-to-spy-and-deliver-malware-since-2019.html)
 - Social Engineering
   - [We’re rethinking social platforms around emotions! Introducing Sadvibe](https://www.reddit.com/r/SocialEngineering/comments/1qzekzu/were_rethinking_social_platforms_around_emotions/)
 - Your Open Hacker Community
@@ -69,9 +75,3 @@
   - [Which WiFi adapter is best for WiFi pentesting and auditing?](https://www.reddit.com/r/HowToHack/comments/1qyvjnm/which_wifi_adapter_is_best_for_wifi_pentesting/)
   - [Why is Kismet and Wigle even a thing?](https://www.reddit.com/r/HowToHack/comments/1qzflwz/why_is_kismet_and_wigle_even_a_thing/)
   - [I was plagiarized on a $100M movie. Devastated.](https://www.reddit.com/r/HowToHack/comments/1qyvg55/i_was_plagiarized_on_a_100m_movie_devastated/)
-- Technical Information Security Content & Discussion
-  - [Defense Evasion: The Service Run Failed Successfully](https://www.reddit.com/r/netsec/comments/1qza4lh/defense_evasion_the_service_run_failed/)
-  - [Roundcube Webmail: SVG feImage bypasses image blocking to track email opens](https://www.reddit.com/r/netsec/comments/1qzku4d/roundcube_webmail_svg_feimage_bypasses_image/)
-- Computer Forensics
-  - [college math ?](https://www.reddit.com/r/computerforensics/comments/1qza6qy/college_math/)
-  - [Jobs in Digital Forensics](https://www.reddit.com/r/computerforensics/comments/1qytlu9/jobs_in_digital_forensics/)
