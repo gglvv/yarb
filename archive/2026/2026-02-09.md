@@ -6,11 +6,11 @@
   - [Update Sun Feb  8 11:09:37 UTC 2026](https://github.com/trickest/cve/commit/8acb0eb5be0130ab993f1b41aea412d6cc482d69)
 - Hacking Dream
   - [Dynamic Malware Analysis: A Complete Guide to Behavioral Monitoring (Part 2)](https://www.hackingdream.net/2026/02/dynamic-malware-analysis-complete-guide-to-behavioral-monitoring.html)
-- hexlab
-  - [Nullcon #HackIM CTF 2026 Writeup](https://hexlab.xyz/blog/Nullcon-HackIM-CTF-0x2026-Writeup/)
 - 明天的乌云
   - [Letting AI Actively Manage Its Own Context](https://blog.xlab.app/p/51d26495/)
   - [让AI主动管理自己的上下文](https://blog.xlab.app/p/6a966aeb/)
+- hexlab
+  - [Nullcon #HackIM CTF 2026 Writeup](https://hexlab.xyz/blog/Nullcon-HackIM-CTF-0x2026-Writeup/)
 - 奇客Solidot–传递最新科技情报
   - [AI 热导致短缺无处不在](https://www.solidot.org/story?sid=83510)
   - [Waymo 部分远程操作人员位于菲律宾](https://www.solidot.org/story?sid=83509)
@@ -24,6 +24,8 @@
   - [【资源】朝鲜网站资源汇总](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154206&idx=1&sn=71b6c8e1e2ea461f4ca20f8561a5d8a3)
 - 安全学术圈
   - [复旦大学 | MAGIC：基于掩码图表示学习的高级持续性威胁检测](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494996&idx=1&sn=6da2f4dcd6d84c89682f6cad9bfa99f2)
+- 吴鲁加
+  - [让一千朵花先开](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485863&idx=1&sn=3ed3456871ffc4c35dac5f69e8107631)
 - 情报分析师
   - [揭秘间谍之间的隐秘沟通术](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566664&idx=1&sn=3d27e9d5712f3b82a7015d3274a3e771)
 - 极客公园
@@ -33,19 +35,17 @@
   - [Starting point for simple ransomware detection](https://fluxsec.red/simple-ransomware-detection-sanctum-minifilter)
   - [GitLab CI/CD + IaC in action](https://www.adainese.it/blog/2026/02/08/gitlab-ci/cd--iac-in-action/)
   - [New tool blocks imposter attacks disguised as safe commands](https://www.bleepingcomputer.com/news/security/new-tool-blocks-imposter-attacks-disguised-as-safe-commands/)
-- 吴鲁加
-  - [让一千朵花先开](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485863&idx=1&sn=3ed3456871ffc4c35dac5f69e8107631)
+- 安全行者老霍
+  - [微软开发扫描器检测开源大型语言模型中的后门](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485861&idx=1&sn=9a3f13bfbc8c3ad23a4eb40c37e88eac)
+- The Hacker News
+  - [OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills](https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html)
 - Full Disclosure
   - [Asterisk Security Release 23.2.2](https://seclists.org/fulldisclosure/2026/Feb/9)
   - [Asterisk Security Release 21.12.1](https://seclists.org/fulldisclosure/2026/Feb/8)
   - [Asterisk Security Release 22.8.2](https://seclists.org/fulldisclosure/2026/Feb/7)
   - [Asterisk Security Release 20.18.2](https://seclists.org/fulldisclosure/2026/Feb/6)
   - [Certified Asterisk Security Release certified-20.7-cert9](https://seclists.org/fulldisclosure/2026/Feb/5)
-- 安全行者老霍
-  - [微软开发扫描器检测开源大型语言模型中的后门](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485861&idx=1&sn=9a3f13bfbc8c3ad23a4eb40c37e88eac)
 - Security Affairs
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 83](https://securityaffairs.com/187732/malware/security-affairs-malware-newsletter-round-83.html)
   - [Security Affairs newsletter Round 562 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/187727/security/security-affairs-newsletter-round-562-by-pierluigi-paganini-international-edition.html)
   - [DKnife toolkit abuses routers to spy and deliver malware since 2019](https://securityaffairs.com/187716/malware/dknife-toolkit-abuses-routers-to-spy-and-deliver-malware-since-2019.html)
-- The Hacker News
-  - [OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills](https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html)
