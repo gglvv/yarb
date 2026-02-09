@@ -1,25 +1,21 @@
 # 每日安全资讯（2026-02-09）
 
-- Recent Commits to cve:main
-  - [Update Sun Feb  8 11:09:37 UTC 2026](https://github.com/trickest/cve/commit/8acb0eb5be0130ab993f1b41aea412d6cc482d69)
 - SecWiki News
   - [SecWiki News 2026-02-08 Review](http://www.sec-wiki.com/?2026-02-08)
+- Recent Commits to cve:main
+  - [Update Sun Feb  8 11:09:37 UTC 2026](https://github.com/trickest/cve/commit/8acb0eb5be0130ab993f1b41aea412d6cc482d69)
 - Hacking Dream
   - [Dynamic Malware Analysis: A Complete Guide to Behavioral Monitoring (Part 2)](https://www.hackingdream.net/2026/02/dynamic-malware-analysis-complete-guide-to-behavioral-monitoring.html)
 - 明天的乌云
   - [Letting AI Actively Manage Its Own Context](https://blog.xlab.app/p/51d26495/)
   - [让AI主动管理自己的上下文](https://blog.xlab.app/p/6a966aeb/)
+- hexlab
+  - [Nullcon #HackIM CTF 2026 Writeup](https://hexlab.xyz/blog/Nullcon-HackIM-CTF-0x2026-Writeup/)
+- 黑海洋Wiki | Web开发工具包 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
+  - [YouTube Music开始将歌词置于付费墙后](https://blog.upx8.com/YouTube-Music%E5%BC%80%E5%A7%8B%E5%B0%86%E6%AD%8C%E8%AF%8D%E7%BD%AE%E4%BA%8E%E4%BB%98%E8%B4%B9%E5%A2%99%E5%90%8E)
 - 奇客Solidot–传递最新科技情报
   - [AI 热导致短缺无处不在](https://www.solidot.org/story?sid=83510)
   - [Waymo 部分远程操作人员位于菲律宾](https://www.solidot.org/story?sid=83509)
-- 黑海洋Wiki | Web开发工具包 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [YouTube Music开始将歌词置于付费墙后](https://blog.upx8.com/YouTube-Music%E5%BC%80%E5%A7%8B%E5%B0%86%E6%AD%8C%E8%AF%8D%E7%BD%AE%E4%BA%8E%E4%BB%98%E8%B4%B9%E5%A2%99%E5%90%8E)
-  - [iPhone 17e可能会很快发布 搭载A19芯片](https://blog.upx8.com/iPhone-17e%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%BE%88%E5%BF%AB%E5%8F%91%E5%B8%83-%E6%90%AD%E8%BD%BDA19%E8%8A%AF%E7%89%87)
-  - [游戏平台GOG已经在开发原生Linux支持](https://blog.upx8.com/%E6%B8%B8%E6%88%8F%E5%B9%B3%E5%8F%B0GOG%E5%B7%B2%E7%BB%8F%E5%9C%A8%E5%BC%80%E5%8F%91%E5%8E%9F%E7%94%9FLinux%E6%94%AF%E6%8C%81)
-  - [马斯克再发警告：若没有AI和机器人，美国1000%会走向破产](https://blog.upx8.com/%E9%A9%AC%E6%96%AF%E5%85%8B%E5%86%8D%E5%8F%91%E8%AD%A6%E5%91%8A-%E8%8B%A5%E6%B2%A1%E6%9C%89AI%E5%92%8C%E6%9C%BA%E5%99%A8%E4%BA%BA-%E7%BE%8E%E5%9B%BD1000-%E4%BC%9A%E8%B5%B0%E5%90%91%E7%A0%B4%E4%BA%A7)
-  - [Ollama + OpenClaw 本地部署：断网可用、多模型切换！搭建教程](https://blog.upx8.com/Ollama-OpenClaw)
-- hexlab
-  - [Nullcon #HackIM CTF 2026 Writeup](https://hexlab.xyz/blog/Nullcon-HackIM-CTF-0x2026-Writeup/)
 - 黑鸟
   - [AI Agent 生态新威胁：Skills 武器化与完整攻击链解析](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185217&idx=1&sn=d227a1814ec0ea12f80e88d3bed6ca62)
 - 我的安全视界观
@@ -29,14 +25,16 @@
 - 极客公园
   - [Seedance 2.0：AI 视频第一阶段的比赛，结束了｜AI 上新](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653098746&idx=1&sn=3312e67f9b80760d49cea53ed8f247b1)
   - [传 OpenAI 首款硬件定名「Dime」；泡泡玛特王宁：LABUBU 全球销量超 1 亿；天涯社区宣布重启，6 月 1 日恢复访问｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653098657&idx=1&sn=00de4c981271c880ce16701a09ce8d1b)
-- 情报分析师
-  - [揭秘间谍之间的隐秘沟通术](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566664&idx=1&sn=3d27e9d5712f3b82a7015d3274a3e771)
 - 吴鲁加
   - [让一千朵花先开](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485863&idx=1&sn=3ed3456871ffc4c35dac5f69e8107631)
+- 情报分析师
+  - [揭秘间谍之间的隐秘沟通术](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566664&idx=1&sn=3d27e9d5712f3b82a7015d3274a3e771)
 - Over Security - Cybersecurity news aggregator
   - [Starting point for simple ransomware detection](https://fluxsec.red/simple-ransomware-detection-sanctum-minifilter)
   - [GitLab CI/CD + IaC in action](https://www.adainese.it/blog/2026/02/08/gitlab-ci/cd--iac-in-action/)
   - [New tool blocks imposter attacks disguised as safe commands](https://www.bleepingcomputer.com/news/security/new-tool-blocks-imposter-attacks-disguised-as-safe-commands/)
+- 安全行者老霍
+  - [微软开发扫描器检测开源大型语言模型中的后门](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485861&idx=1&sn=9a3f13bfbc8c3ad23a4eb40c37e88eac)
 - Full Disclosure
   - [Asterisk Security Release 23.2.2](https://seclists.org/fulldisclosure/2026/Feb/9)
   - [Asterisk Security Release 21.12.1](https://seclists.org/fulldisclosure/2026/Feb/8)
@@ -49,5 +47,3 @@
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 83](https://securityaffairs.com/187732/malware/security-affairs-malware-newsletter-round-83.html)
   - [Security Affairs newsletter Round 562 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/187727/security/security-affairs-newsletter-round-562-by-pierluigi-paganini-international-edition.html)
   - [DKnife toolkit abuses routers to spy and deliver malware since 2019](https://securityaffairs.com/187716/malware/dknife-toolkit-abuses-routers-to-spy-and-deliver-malware-since-2019.html)
-- 安全行者老霍
-  - [微软开发扫描器检测开源大型语言模型中的后门](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485861&idx=1&sn=9a3f13bfbc8c3ad23a4eb40c37e88eac)
