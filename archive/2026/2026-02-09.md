@@ -11,8 +11,6 @@
   - [让AI主动管理自己的上下文](https://blog.xlab.app/p/6a966aeb/)
 - hexlab
   - [Nullcon #HackIM CTF 2026 Writeup](https://hexlab.xyz/blog/Nullcon-HackIM-CTF-0x2026-Writeup/)
-- 黑海洋Wiki | Web开发工具包 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [YouTube Music开始将歌词置于付费墙后](https://blog.upx8.com/YouTube-Music%E5%BC%80%E5%A7%8B%E5%B0%86%E6%AD%8C%E8%AF%8D%E7%BD%AE%E4%BA%8E%E4%BB%98%E8%B4%B9%E5%A2%99%E5%90%8E)
 - 奇客Solidot–传递最新科技情报
   - [AI 热导致短缺无处不在](https://www.solidot.org/story?sid=83510)
   - [Waymo 部分远程操作人员位于菲律宾](https://www.solidot.org/story?sid=83509)
@@ -25,10 +23,10 @@
 - 极客公园
   - [Seedance 2.0：AI 视频第一阶段的比赛，结束了｜AI 上新](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653098746&idx=1&sn=3312e67f9b80760d49cea53ed8f247b1)
   - [传 OpenAI 首款硬件定名「Dime」；泡泡玛特王宁：LABUBU 全球销量超 1 亿；天涯社区宣布重启，6 月 1 日恢复访问｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653098657&idx=1&sn=00de4c981271c880ce16701a09ce8d1b)
-- 吴鲁加
-  - [让一千朵花先开](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485863&idx=1&sn=3ed3456871ffc4c35dac5f69e8107631)
 - 情报分析师
   - [揭秘间谍之间的隐秘沟通术](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566664&idx=1&sn=3d27e9d5712f3b82a7015d3274a3e771)
+- 吴鲁加
+  - [让一千朵花先开](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485863&idx=1&sn=3ed3456871ffc4c35dac5f69e8107631)
 - Over Security - Cybersecurity news aggregator
   - [Starting point for simple ransomware detection](https://fluxsec.red/simple-ransomware-detection-sanctum-minifilter)
   - [GitLab CI/CD + IaC in action](https://www.adainese.it/blog/2026/02/08/gitlab-ci/cd--iac-in-action/)
