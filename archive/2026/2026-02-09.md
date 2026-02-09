@@ -14,25 +14,27 @@
 - 奇客Solidot–传递最新科技情报
   - [AI 热导致短缺无处不在](https://www.solidot.org/story?sid=83510)
   - [Waymo 部分远程操作人员位于菲律宾](https://www.solidot.org/story?sid=83509)
+- 安全分析与研究
+  - [伪装成某厂IPS产品手册红队测试样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495594&idx=1&sn=fd44fe61b122cf58483168d204fa2647)
 - 黑鸟
   - [AI Agent 生态新威胁：Skills 武器化与完整攻击链解析](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185217&idx=1&sn=d227a1814ec0ea12f80e88d3bed6ca62)
 - 我的安全视界观
   - [回望：我的首个十年网安路](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487445&idx=1&sn=fcb2566143933f2b25742f3cb917940c)
-- 丁爸 情报分析师的工具箱
-  - [【资源】朝鲜网站资源汇总](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154206&idx=1&sn=71b6c8e1e2ea461f4ca20f8561a5d8a3)
-- 极客公园
-  - [Seedance 2.0：AI 视频第一阶段的比赛，结束了｜AI 上新](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653098746&idx=1&sn=3312e67f9b80760d49cea53ed8f247b1)
-  - [传 OpenAI 首款硬件定名「Dime」；泡泡玛特王宁：LABUBU 全球销量超 1 亿；天涯社区宣布重启，6 月 1 日恢复访问｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653098657&idx=1&sn=00de4c981271c880ce16701a09ce8d1b)
-- 吴鲁加
-  - [让一千朵花先开](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485863&idx=1&sn=3ed3456871ffc4c35dac5f69e8107631)
 - 情报分析师
   - [揭秘间谍之间的隐秘沟通术](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566664&idx=1&sn=3d27e9d5712f3b82a7015d3274a3e771)
+- 丁爸 情报分析师的工具箱
+  - [【资源】朝鲜网站资源汇总](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154206&idx=1&sn=71b6c8e1e2ea461f4ca20f8561a5d8a3)
+- 吴鲁加
+  - [让一千朵花先开](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485863&idx=1&sn=3ed3456871ffc4c35dac5f69e8107631)
 - Over Security - Cybersecurity news aggregator
   - [Starting point for simple ransomware detection](https://fluxsec.red/simple-ransomware-detection-sanctum-minifilter)
   - [GitLab CI/CD + IaC in action](https://www.adainese.it/blog/2026/02/08/gitlab-ci/cd--iac-in-action/)
   - [New tool blocks imposter attacks disguised as safe commands](https://www.bleepingcomputer.com/news/security/new-tool-blocks-imposter-attacks-disguised-as-safe-commands/)
 - 安全行者老霍
   - [微软开发扫描器检测开源大型语言模型中的后门](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485861&idx=1&sn=9a3f13bfbc8c3ad23a4eb40c37e88eac)
+- 极客公园
+  - [Seedance 2.0：AI 视频第一阶段的比赛，结束了｜AI 上新](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653098746&idx=1&sn=3312e67f9b80760d49cea53ed8f247b1)
+  - [传 OpenAI 首款硬件定名「Dime」；泡泡玛特王宁：LABUBU 全球销量超 1 亿；天涯社区宣布重启，6 月 1 日恢复访问｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653098657&idx=1&sn=00de4c981271c880ce16701a09ce8d1b)
 - Full Disclosure
   - [Asterisk Security Release 23.2.2](https://seclists.org/fulldisclosure/2026/Feb/9)
   - [Asterisk Security Release 21.12.1](https://seclists.org/fulldisclosure/2026/Feb/8)
