@@ -1,7 +1,5 @@
 # 每日安全资讯（2026-02-15）
 
-- 博客
-  - [Does distribution registry support multi path?](https://dyrnq.com/does-distribution-registry-support-multi-path/)
 - SecWiki News
   - [SecWiki News 2026-02-14 Review](http://www.sec-wiki.com/?2026-02-14)
 - Recent Commits to cve:main
@@ -17,15 +15,17 @@
   - [Seedance2.0席卷全球，新一代内容安全如何应对？](https://www.4hou.com/posts/425k)
   - [新型Linux僵尸网络SSHStalker利用传统IRC协议实现命令与控制（C2）通信](https://www.4hou.com/posts/VWYO)
   - [AiFrame攻击活动：30款恶意Chrome扩展程序伪装成AI助手窃取账号凭证](https://www.4hou.com/posts/5M6A)
-- Hacking Dream
-  - [Cobalt Strike Beacon Commands: Red Team Field Guide](https://www.hackingdream.net/2026/02/cobalt-strike-beacon-commands-red-team-field-guide.html)
-  - [Cobalt Strike Persistence: The Red Teamer's Guide to Maintaining Access](https://www.hackingdream.net/2026/02/cobalt-strike-persistence-red-teamers.html)
-  - [Windows Userland Persistence: 12 Red Team Techniques](https://www.hackingdream.net/2026/02/windows-userland-persistence-12-red-team-techniques.html)
+- 博客
+  - [Does distribution registry support multi path?](https://dyrnq.com/does-distribution-registry-support-multi-path/)
 - Hexacorn
   - [WinHttpOpen user agents](https://www.hexacorn.com/blog/2026/02/14/winhttpopen-user-agents/)
   - [1 little known secret of CompatTelRunner.exe](https://www.hexacorn.com/blog/2026/02/14/1-little-known-secret-of-compattelrunner-exe/)
   - [1 little known secret of net.exe](https://www.hexacorn.com/blog/2026/02/14/1-little-known-secret-of-net-exe/)
   - [1 little known secret of icacls.exe](https://www.hexacorn.com/blog/2026/02/14/1-little-known-secret-of-icacls-exe/)
+- Hacking Dream
+  - [Cobalt Strike Beacon Commands: Red Team Field Guide](https://www.hackingdream.net/2026/02/cobalt-strike-beacon-commands-red-team-field-guide.html)
+  - [Cobalt Strike Persistence: The Red Teamer's Guide to Maintaining Access](https://www.hackingdream.net/2026/02/cobalt-strike-persistence-red-teamers.html)
+  - [Windows Userland Persistence: 12 Red Team Techniques](https://www.hackingdream.net/2026/02/windows-userland-persistence-12-red-team-techniques.html)
 - 奇客Solidot–传递最新科技情报
   - [Waymo 付费给 DoorDash 零工给自动驾驶汽车关车门](https://www.solidot.org/story?sid=83562)
   - [OpenAI 再次表示 DeepSeek 利用蒸馏训练其模型](https://www.solidot.org/story?sid=83561)
@@ -38,63 +38,63 @@
   - [Grok和Gemini瓜分ChatGPT丢失的市场](https://blog.upx8.com/Grok%E5%92%8CGemini%E7%93%9C%E5%88%86ChatGPT%E4%B8%A2%E5%A4%B1%E7%9A%84%E5%B8%82%E5%9C%BA)
 - 黑鸟
   - [小心AI推荐投毒 (AI Recommendation Poisoning)](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185279&idx=1&sn=5952d90ec1ba93adb9b245b387c13d63)
-- 天黑说嘿话
-  - [揭秘开源神器：TruffleHog，守护你的代码安全防线](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485989&idx=1&sn=9d461825ba1c06a61b65c0564c5d6f70)
+- 威努特安全网络
+  - [威努特2026年春节假期业务保障通知](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651140122&idx=1&sn=8dc47dbac2a95f4e1e7ee9f87dfaf08d)
 - 安全分析与研究
   - [使用EtherHiding技术隐藏C2通信流量窃密木马样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495677&idx=1&sn=3fd559041790e1955335108ac9acac99)
-- 长亭科技
-  - [喜迎新春，马跃新程！长亭科技与您共同守护网络安全！](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651390153&idx=1&sn=fde48d33b862e92b8fcac458ebc9c64f)
+- 天御攻防实验室
+  - [网络攻防的第一性原理](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486699&idx=1&sn=704065ee2c6b3d0760bb201cb0a357ff)
 - 安全研究GoSSIP
   - [G.O.S.S.I.P 2026 新春总动员（1）：512字节实现一个C语言编译器！](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501408&idx=1&sn=a566927c6d486cb08c58f37a974b779c)
-- 火线安全平台
-  - [火线安全春节放假通知](https://mp.weixin.qq.com/s?__biz=MzU4MjEwNzMzMg==&mid=2247494908&idx=1&sn=68f0e5e67b6934f208cccff49f38b099)
+- 天黑说嘿话
+  - [揭秘开源神器：TruffleHog，守护你的代码安全防线](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485989&idx=1&sn=9d461825ba1c06a61b65c0564c5d6f70)
+- 安全学术圈
+  - [得克萨斯大学圣安东尼奥分校 | 通过代码生成LLM对软件包幻觉进行全面分析](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495052&idx=1&sn=fa472c68b9688e1471655fee3329806f)
+- 丁爸 情报分析师的工具箱
+  - [【工具】美军在中东的军力部署互动地图](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154269&idx=1&sn=14eddd0d9713ca7a19ea66667acd751d)
+  - [【资料】战略评估](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154269&idx=2&sn=47e395e189f0357fc5587f9814764206)
+- 长亭科技
+  - [喜迎新春，马跃新程！长亭科技与您共同守护网络安全！](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651390153&idx=1&sn=fde48d33b862e92b8fcac458ebc9c64f)
 - 中国信息安全
   - [论坛·2025全球网安概览 | 2025年美国网络安全政策新进展](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259400&idx=1&sn=b9a22f208e095ff1c49364b9f74d2273)
   - [市场监管总局发布《互联网平台反垄断合规指引》，“全网最低价”等被列为新型垄断风险](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259400&idx=2&sn=dd518c8e2bb2975da457baf2485e4c2e)
   - [专家解读 | 明定位 强功能 加快繁荣数据市场生态](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259400&idx=3&sn=25a4b7e4ca5d86039c877ec15a34b352)
   - [发布 | 中国信通院发布《人工智能治理研究报告（2025年）》（附下载）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259400&idx=4&sn=a5c821b468f846dccf0af0b5d5f4100f)
   - [评论 | 打防结合系统治理网络犯罪](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259400&idx=5&sn=20c087435d262570cc0d2db8f015264a)
-- 看雪学苑
-  - [去间接跳转/模拟执行学习](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611114&idx=1&sn=fc44c27ffd6e4d0765228ba895da097e)
-  - [春节谨防勒索病毒突袭！看雪勒索病毒应急响应服务为您保驾护航](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611114&idx=2&sn=2ff74fb9bef3d4e31a6e4f2b468d01bc)
-- 丁爸 情报分析师的工具箱
-  - [【工具】美军在中东的军力部署互动地图](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154269&idx=1&sn=14eddd0d9713ca7a19ea66667acd751d)
-  - [【资料】战略评估](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154269&idx=2&sn=47e395e189f0357fc5587f9814764206)
-- 数世咨询
-  - [OpenClaw爆火：CISO 必须了解这些关键风险](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541759&idx=1&sn=d907d29ac1baa86b2682f31cb6578344)
-  - [漏洞扫描不是“点一下”：揭秘安服巡检背后的“硬功夫”](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541759&idx=2&sn=e1576b69d1de35ee786bdca2de933727)
 - 极客公园
   - [Seedance 2.0 炸场之后，豆包 Seed2.0 能否再度勇攀高峰？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099196&idx=1&sn=e4aa48e1dea0bb2d28939c0ee3642bb8)
   - [​马斯克的 AI 狂想，意外救活了沉寂三年的「钙钛矿」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099145&idx=1&sn=a6747fd52028c74e64d56d7e60fbafa2)
 - 火绒安全
   - [流氓软件卷土重来？恶意驱动作祟下发DDoS工具包](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530713&idx=1&sn=07ef414cafff1d7e02ed23a8b6aeca50)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530713&idx=2&sn=bff0dc2aa1e6227ab5c570f9f02dc980)
-- 情报分析师
-  - [多个案例看开源情报如何识破“外交官”掩护下的西方特工](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566719&idx=1&sn=1b01eba45d63540605c6f512b73bb166)
-  - [【深度研判】美国介入孟加拉国政局变动的战略分析](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566719&idx=2&sn=830d471c9b394af150308e2c9f706f5b)
-- 字节跳动技术团队
-  - [Agent Bucket：万亿级 Agent 原生存储桶](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247518527&idx=1&sn=2b0c1c55b768ff2f8d2526868a7a8803)
-- 威努特安全网络
-  - [威努特2026年春节假期业务保障通知](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651140122&idx=1&sn=8dc47dbac2a95f4e1e7ee9f87dfaf08d)
-- 天御攻防实验室
-  - [网络攻防的第一性原理](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486699&idx=1&sn=704065ee2c6b3d0760bb201cb0a357ff)
-- 360数字安全
-  - [春节假期|安全服务保障通知](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247584999&idx=1&sn=5ba07ee510ffa8d0c690966ed2914267)
+- 数世咨询
+  - [OpenClaw爆火：CISO 必须了解这些关键风险](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541759&idx=1&sn=d907d29ac1baa86b2682f31cb6578344)
+  - [漏洞扫描不是“点一下”：揭秘安服巡检背后的“硬功夫”](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541759&idx=2&sn=e1576b69d1de35ee786bdca2de933727)
 - 嘶吼专业版
   - [AiFrame攻击活动：30款恶意Chrome扩展程序伪装成AI助手窃取账号凭证](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586795&idx=1&sn=3412b269f33af165ac354da1cdac5829)
   - [新型Linux僵尸网络SSHStalker利用传统IRC协议实现命令与控制（C2）通信](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586795&idx=2&sn=17e0a533aaa6f8917d06bcb109196dda)
+- 看雪学苑
+  - [去间接跳转/模拟执行学习](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611114&idx=1&sn=fc44c27ffd6e4d0765228ba895da097e)
+  - [春节谨防勒索病毒突袭！看雪勒索病毒应急响应服务为您保驾护航](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611114&idx=2&sn=2ff74fb9bef3d4e31a6e4f2b468d01bc)
+- 情报分析师
+  - [多个案例看开源情报如何识破“外交官”掩护下的西方特工](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566719&idx=1&sn=1b01eba45d63540605c6f512b73bb166)
+  - [【深度研判】美国介入孟加拉国政局变动的战略分析](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566719&idx=2&sn=830d471c9b394af150308e2c9f706f5b)
+- 火线安全平台
+  - [火线安全春节放假通知](https://mp.weixin.qq.com/s?__biz=MzU4MjEwNzMzMg==&mid=2247494908&idx=1&sn=68f0e5e67b6934f208cccff49f38b099)
+- 字节跳动技术团队
+  - [Agent Bucket：万亿级 Agent 原生存储桶](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247518527&idx=1&sn=2b0c1c55b768ff2f8d2526868a7a8803)
 - Over Security - Cybersecurity news aggregator
   - [From Bing Search to Ransomware: Bumblebee and AdaptixC2 Deliver Akira](https://thedfirreport.com/2025/11/04/from-bing-search-to-ransomware-bumblebee-and-adaptixc2-deliver-akira-2/)
   - [Cat’s Got Your Files: Lynx Ransomware](https://thedfirreport.com/2025/12/17/cats-got-your-files-lynx-ransomware/)
   - [One threat actor responsible for 83% of recent Ivanti RCE attacks](https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/)
   - [Snail mail letters target Trezor and Ledger users in crypto-theft attacks](https://www.bleepingcomputer.com/news/security/snail-mail-letters-target-trezor-and-ledger-users-in-crypto-theft-attacks/)
   - [Analisi di phishing adattivo. Spoofing e esfiltrazione tramite Telegram](https://cert-agid.gov.it/news/analisi-di-phishing-adattivo-spoofing-e-esfiltrazione-tramite-telegram/)
-- Schneier on Security
-  - [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2026/02/upcoming-speaking-engagements-53.html)
 - DARKNAVY
   - [2025，我们活下来了，还服务了超十亿人](https://mp.weixin.qq.com/s?__biz=MzkyMjM5MTk3NQ==&mid=2247497838&idx=1&sn=ba251d9e6c8ea92539318c6e123a9fce)
-- 安全学术圈
-  - [得克萨斯大学圣安东尼奥分校 | 通过代码生成LLM对软件包幻觉进行全面分析](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495052&idx=1&sn=fa472c68b9688e1471655fee3329806f)
+- 360数字安全
+  - [春节假期|安全服务保障通知](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247584999&idx=1&sn=5ba07ee510ffa8d0c690966ed2914267)
+- Schneier on Security
+  - [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2026/02/upcoming-speaking-engagements-53.html)
 - Security Affairs
   - [Fintech firm Figure disclosed data breach after employee phishing attack](https://securityaffairs.com/187988/data-breach/fintech-firm-figure-disclosed-data-breach-after-employee-phishing-attack.html)
   - [U.S. CISA adds a flaw in BeyondTrust RS and PRA to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/187982/breaking-news/u-s-cisa-adds-a-flaw-in-beyondtrust-rs-and-pra-to-its-known-exploited-vulnerabilities-catalog.html)
