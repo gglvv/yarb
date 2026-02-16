@@ -1,5 +1,10 @@
 # 每日安全资讯（2026-02-16）
 
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [WordPress Plugin Ajax Upload for Gravity Forms - Arbitrary File Upload](https://cxsecurity.com/issue/WLB-2026020017)
+  - [Roundcube Webmail DOM-based XSS Exploit via SVG href Attribute](https://cxsecurity.com/issue/WLB-2026020016)
+- SecWiki News
+  - [SecWiki News 2026-02-15 Review](http://www.sec-wiki.com/?2026-02-15)
 - Recent Commits to cve:main
   - [Update Sun Feb 15 11:39:49 UTC 2026](https://github.com/trickest/cve/commit/057927e66183eac776d8496f7222c6d985264242)
 - InfoSec Write-ups - Medium
@@ -13,49 +18,44 @@
   - [Expanding React2Shell for Serverless Lambda Function](https://infosecwriteups.com/expanding-react2shell-for-serverless-lambda-function-647de21722b4?source=rss----7b722bfd1b8d---4)
   - [How a Forgotten QA Page Led to an $800 Bounty: Unauthorized Document Access](https://infosecwriteups.com/how-a-forgotten-qa-page-led-to-an-800-bounty-unauthorized-document-access-1065b05ab79d?source=rss----7b722bfd1b8d---4)
   - [Hacking OpenClaw](https://infosecwriteups.com/hacking-openclaw-07dc2003c31d?source=rss----7b722bfd1b8d---4)
-- SecWiki News
-  - [SecWiki News 2026-02-15 Review](http://www.sec-wiki.com/?2026-02-15)
-- CXSECURITY Database RSS Feed - CXSecurity.com
-  - [WordPress Plugin Ajax Upload for Gravity Forms - Arbitrary File Upload](https://cxsecurity.com/issue/WLB-2026020017)
-  - [Roundcube Webmail DOM-based XSS Exploit via SVG href Attribute](https://cxsecurity.com/issue/WLB-2026020016)
 - Objective-See's Blog
   - [ClickFix: Stopped at ⌘+V](https://objective-see.org/blog/blog_0x85.html)
-- Sandfly Security Blog RSS Feed
-  - [Advantages of Agentless EDR for Linux](https://sandflysecurity.com/blog/advantages-of-agentless-edr-for-linux)
-  - [BPFDoor Detection, Analysis, and Hunting Tactics on Linux](https://sandflysecurity.com/blog/bpfdoor-detection-analysis-and-hunting-tactics-on-linux)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [I Wasn’t Looking at the Target — I Was Watching the Hackers First](https://infosecwriteups.com/i-wasnt-looking-at-the-target-i-was-watching-the-hackers-first-866b552efd0f?source=rss----7b722bfd1b8d--bug_bounty)
   - [Expanding React2Shell for Serverless Lambda Function](https://infosecwriteups.com/expanding-react2shell-for-serverless-lambda-function-647de21722b4?source=rss----7b722bfd1b8d--bug_bounty)
   - [How a Forgotten QA Page Led to an $800 Bounty: Unauthorized Document Access](https://infosecwriteups.com/how-a-forgotten-qa-page-led-to-an-800-bounty-unauthorized-document-access-1065b05ab79d?source=rss----7b722bfd1b8d--bug_bounty)
   - [Hacking Google Drive Integrations: A Deep Dive into OAuth Security](https://infosecwriteups.com/hacking-google-drive-integrations-a-deep-dive-into-oauth-security-4e233bfcf395?source=rss----7b722bfd1b8d--bug_bounty)
   - [From Leak to Lead: How Dark Web Dumps Helped Me Find a Live Vulnerability ️‍♂️](https://infosecwriteups.com/from-leak-to-lead-how-dark-web-dumps-helped-me-find-a-live-vulnerability-%EF%B8%8F-%EF%B8%8F-f1b0ea82b335?source=rss----7b722bfd1b8d--bug_bounty)
+- Sandfly Security Blog RSS Feed
+  - [Advantages of Agentless EDR for Linux](https://sandflysecurity.com/blog/advantages-of-agentless-edr-for-linux)
+  - [BPFDoor Detection, Analysis, and Hunting Tactics on Linux](https://sandflysecurity.com/blog/bpfdoor-detection-analysis-and-hunting-tactics-on-linux)
 - Reverse Engineering
   - [vitoplantamura/BugChecker: SoftICE-like kernel debugger for Windows 11](https://www.reddit.com/r/ReverseEngineering/comments/1r5bddj/vitoplantamurabugchecker_softicelike_kernel/)
   - [IDA Pro 9.3 released](https://www.reddit.com/r/ReverseEngineering/comments/1r517j5/ida_pro_93_released/)
   - [[Tool Release] LCSAJdump: Universal Graph-Based ROP/JOP Gadget Finder (Finds "Shadow Gadgets" that linear scanners miss)](https://www.reddit.com/r/ReverseEngineering/comments/1r5sq5l/tool_release_lcsajdump_universal_graphbased/)
   - [Introducing IDA-Free-MCP: mcp server for IDA Free version (native)](https://www.reddit.com/r/ReverseEngineering/comments/1r57syc/introducing_idafreemcp_mcp_server_for_ida_free/)
-- 安全分析与研究
-  - [Linux版CS样本分析与配置解密](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495678&idx=1&sn=86f1ebe2d5b0f228d743b679336e3a31)
-- 黑海洋Wiki | Web开发工具包 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [美国防部将阿里百度比亚迪等列入“涉军企业”](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E5%B0%86%E9%98%BF%E9%87%8C%E7%99%BE%E5%BA%A6%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%AD%89%E5%88%97%E5%85%A5-%E6%B6%89%E5%86%9B%E4%BC%81%E4%B8%9A)
-  - [马斯克预言2026年底编程或将全面自动化](https://blog.upx8.com/%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A2%84%E8%A8%802026%E5%B9%B4%E5%BA%95%E7%BC%96%E7%A8%8B%E6%88%96%E5%B0%86%E5%85%A8%E9%9D%A2%E8%87%AA%E5%8A%A8%E5%8C%96)
-  - [SpaceX获准在越南推出星链卫星互联网服务](https://blog.upx8.com/SpaceX%E8%8E%B7%E5%87%86%E5%9C%A8%E8%B6%8A%E5%8D%97%E6%8E%A8%E5%87%BA%E6%98%9F%E9%93%BE%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E6%9C%8D%E5%8A%A1)
 - 奇客Solidot–传递最新科技情报
   - [地球暖化加速的原因](https://www.solidot.org/story?sid=83566)
   - [在高危漏洞披露前电信公司提前屏蔽 Telnet 流量](https://www.solidot.org/story?sid=83565)
   - [欧盟采取行动禁用无限滚动](https://www.solidot.org/story?sid=83564)
   - [最高法院称激活辅助驾驶功能后司机依旧需要承责](https://www.solidot.org/story?sid=83563)
+- 黑海洋Wiki | Web开发工具包 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
+  - [美国防部将阿里百度比亚迪等列入“涉军企业”](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E5%B0%86%E9%98%BF%E9%87%8C%E7%99%BE%E5%BA%A6%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%AD%89%E5%88%97%E5%85%A5-%E6%B6%89%E5%86%9B%E4%BC%81%E4%B8%9A)
+  - [马斯克预言2026年底编程或将全面自动化](https://blog.upx8.com/%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A2%84%E8%A8%802026%E5%B9%B4%E5%BA%95%E7%BC%96%E7%A8%8B%E6%88%96%E5%B0%86%E5%85%A8%E9%9D%A2%E8%87%AA%E5%8A%A8%E5%8C%96)
+  - [SpaceX获准在越南推出星链卫星互联网服务](https://blog.upx8.com/SpaceX%E8%8E%B7%E5%87%86%E5%9C%A8%E8%B6%8A%E5%8D%97%E6%8E%A8%E5%87%BA%E6%98%9F%E9%93%BE%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E6%9C%8D%E5%8A%A1)
+- 安全分析与研究
+  - [Linux版CS样本分析与配置解密](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495678&idx=1&sn=86f1ebe2d5b0f228d743b679336e3a31)
 - 黑鸟
   - [借助Claude逆向分析智能睡眠眼罩并发现安全问题](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185285&idx=1&sn=ed4d792e0de41fc1d59c66c766cf125d)
 - 青衣十三楼飞花堂
   - [已知三角形内任意一点，求其到三顶点距离和的最小值](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489029&idx=1&sn=be6b8314cdb12b197b8fa82e159ccade)
-- 网安杂谈
-  - [Datawhale Easy-Vibe 开源学习 task3 动手做出原型](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890004&idx=1&sn=32259454ba3e8aa27b52f3879c1ae973)
+- 安全研究GoSSIP
+  - [2026 年秋季｜香港中文大学周亚金课题组博士生招募（区块链安全方向）](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501413&idx=1&sn=d36876ea5f3e13feef1994caa4c9cdf6)
 - 丁爸 情报分析师的工具箱
   - [【AI】智能体是如何吐槽人类开源社区管理员的？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154361&idx=1&sn=bb4fd0f5ad850ed17e1f2f2b13c07921)
   - [【时政】美国马列主义毛泽东思想传播现状](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154300&idx=1&sn=b02b95285012ea48fb4b9d2641bd5b06)
-- 安全研究GoSSIP
-  - [2026 年秋季｜香港中文大学周亚金课题组博士生招募（区块链安全方向）](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501413&idx=1&sn=d36876ea5f3e13feef1994caa4c9cdf6)
+- 网安杂谈
+  - [Datawhale Easy-Vibe 开源学习 task3 动手做出原型](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890004&idx=1&sn=32259454ba3e8aa27b52f3879c1ae973)
 - 极客公园
   - [当 AI 开始报复人类，开源世界的第一起「自主攻击」事件](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099219&idx=1&sn=34b9cfed5809b81de7213cf766a120f0)
   - [豆包大模型 2.0 发布；用户吐槽 Deepseek 变冷淡了，官方回应；微信：抢红包「手气攻略」都是假的| 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099211&idx=1&sn=b3c73468d78b30ed05f2c7a1e4c7ec51)
@@ -67,31 +67,31 @@
   - [CTM360: Lumma Stealer and Ninja Browser malware campaign abusing Google Groups](https://www.bleepingcomputer.com/news/security/ctm360-lumma-stealer-and-ninja-browser-malware-campaign-abusing-google-groups/)
   - [Pastebin comments push ClickFix JavaScript attack to hijack crypto swaps](https://www.bleepingcomputer.com/news/security/pastebin-comments-push-clickfix-javascript-attack-to-hijack-crypto-swaps/)
   - [Inside Bashe: The Interview with the Ransomware Group Known as APT73](https://www.suspectfile.com/inside-bashe-the-interview-with-the-ransomware-group-known-as-apt73/)
-- 吾爱破解论坛
-  - [[链接]心流鼠标手势 - FlowMouse v1.2 Chro](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143645&idx=1&sn=0e8e895546419bca2b5b7f29f60922ca)
 - IT Service Management News
   - [Moltbook](http://blog.cesaregallotti.it/2026/02/moltbook.html)
+- DEF CON Announcements!
+  - [Hotel Room Blocks for DEF CON 34 are Open!](https://defcon.org/html/links/dc-news.html#34rooms)
+- 吾爱破解论坛
+  - [[链接]心流鼠标手势 - FlowMouse v1.2 Chro](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143645&idx=1&sn=0e8e895546419bca2b5b7f29f60922ca)
+- BorderGate
+  - [Credential Guard Part 2](https://www.bordergate.co.uk/credential-guard-part-2/)
 - Security Affairs
   - [Malicious npm and PyPI packages linked to Lazarus APT fake recruiter campaign](https://securityaffairs.com/188009/apt/malicious-npm-and-pypi-packages-llinked-to-lazarus-apt-fake-recruiter-campaign.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 84](https://securityaffairs.com/188004/malware/security-affairs-malware-newsletter-round-84.html)
   - [Security Affairs newsletter Round 563 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/187996/security/security-affairs-newsletter-round-563-by-pierluigi-paganini-international-edition.html)
-- Computer Forensics
-  - [Extracting LUKS2 encryption key from a swap partition](https://www.reddit.com/r/computerforensics/comments/1r5kcdw/extracting_luks2_encryption_key_from_a_swap/)
-  - [Break into forensics](https://www.reddit.com/r/computerforensics/comments/1r5jvtv/break_into_forensics/)
-- netsecstudents: Subreddit for students studying Network Security and its related subjects
-  - [GitHub - dereeqw/web-mitm-lab: Web traffic interception simulation tool for cybersecurity research and defensive learning in isolated lab environments.](https://www.reddit.com/r/netsecstudents/comments/1r5tf0x/github_dereeqwwebmitmlab_web_traffic_interception/)
-- DEF CON Announcements!
-  - [Hotel Room Blocks for DEF CON 34 are Open!](https://defcon.org/html/links/dc-news.html#34rooms)
-- BorderGate
-  - [Credential Guard Part 2](https://www.bordergate.co.uk/credential-guard-part-2/)
-- The Hacker News
-  - [Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging](https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html)
-- Social Engineering
-  - [Making a core group or breaking into an existing one](https://www.reddit.com/r/SocialEngineering/comments/1r5i12p/making_a_core_group_or_breaking_into_an_existing/)
 - Information Security
   - [When Your Antivirus Becomes the Malware Delivery System](https://www.reddit.com/r/Information_Security/comments/1r5u265/when_your_antivirus_becomes_the_malware_delivery/)
+- Social Engineering
+  - [Making a core group or breaking into an existing one](https://www.reddit.com/r/SocialEngineering/comments/1r5i12p/making_a_core_group_or_breaking_into_an_existing/)
+- Deep Web
+  - [Can you help me with some things please?](https://www.reddit.com/r/deepweb/comments/1r5nt2t/can_you_help_me_with_some_things_please/)
 - Your Open Hacker Community
   - [Need to hack into windows vista pc](https://www.reddit.com/r/HowToHack/comments/1r5596m/need_to_hack_into_windows_vista_pc/)
   - [having trouble with using john the ripper](https://www.reddit.com/r/HowToHack/comments/1r51w40/having_trouble_with_using_john_the_ripper/)
-- Deep Web
-  - [Can you help me with some things please?](https://www.reddit.com/r/deepweb/comments/1r5nt2t/can_you_help_me_with_some_things_please/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [GitHub - dereeqw/web-mitm-lab: Web traffic interception simulation tool for cybersecurity research and defensive learning in isolated lab environments.](https://www.reddit.com/r/netsecstudents/comments/1r5tf0x/github_dereeqwwebmitmlab_web_traffic_interception/)
+- The Hacker News
+  - [Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging](https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html)
+- Computer Forensics
+  - [Extracting LUKS2 encryption key from a swap partition](https://www.reddit.com/r/computerforensics/comments/1r5kcdw/extracting_luks2_encryption_key_from_a_swap/)
+  - [Break into forensics](https://www.reddit.com/r/computerforensics/comments/1r5jvtv/break_into_forensics/)
