@@ -1,5 +1,12 @@
 # 每日安全资讯（2026-02-16）
 
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [WordPress Plugin Ajax Upload for Gravity Forms - Arbitrary File Upload](https://cxsecurity.com/issue/WLB-2026020017)
+  - [Roundcube Webmail DOM-based XSS Exploit via SVG href Attribute](https://cxsecurity.com/issue/WLB-2026020016)
+- SecWiki News
+  - [SecWiki News 2026-02-15 Review](http://www.sec-wiki.com/?2026-02-15)
+- Recent Commits to cve:main
+  - [Update Sun Feb 15 11:39:49 UTC 2026](https://github.com/trickest/cve/commit/057927e66183eac776d8496f7222c6d985264242)
 - InfoSec Write-ups - Medium
   - [THM — ValenFind](https://infosecwriteups.com/thm-valenfind-c5a42e2cf5b2?source=rss----7b722bfd1b8d---4)
   - [Phishing — Merry Clickmas | Tryhackme | Day-2](https://infosecwriteups.com/phishing-merry-clickmas-tryhackme-day-2-7938ccab3b31?source=rss----7b722bfd1b8d---4)
@@ -11,13 +18,6 @@
   - [Expanding React2Shell for Serverless Lambda Function](https://infosecwriteups.com/expanding-react2shell-for-serverless-lambda-function-647de21722b4?source=rss----7b722bfd1b8d---4)
   - [How a Forgotten QA Page Led to an $800 Bounty: Unauthorized Document Access](https://infosecwriteups.com/how-a-forgotten-qa-page-led-to-an-800-bounty-unauthorized-document-access-1065b05ab79d?source=rss----7b722bfd1b8d---4)
   - [Hacking OpenClaw](https://infosecwriteups.com/hacking-openclaw-07dc2003c31d?source=rss----7b722bfd1b8d---4)
-- Recent Commits to cve:main
-  - [Update Sun Feb 15 11:39:49 UTC 2026](https://github.com/trickest/cve/commit/057927e66183eac776d8496f7222c6d985264242)
-- CXSECURITY Database RSS Feed - CXSecurity.com
-  - [WordPress Plugin Ajax Upload for Gravity Forms - Arbitrary File Upload](https://cxsecurity.com/issue/WLB-2026020017)
-  - [Roundcube Webmail DOM-based XSS Exploit via SVG href Attribute](https://cxsecurity.com/issue/WLB-2026020016)
-- SecWiki News
-  - [SecWiki News 2026-02-15 Review](http://www.sec-wiki.com/?2026-02-15)
 - Objective-See's Blog
   - [ClickFix: Stopped at ⌘+V](https://objective-see.org/blog/blog_0x85.html)
 - Bug Bounty in InfoSec Write-ups on Medium
@@ -45,23 +45,25 @@
   - [SpaceX获准在越南推出星链卫星互联网服务](https://blog.upx8.com/SpaceX%E8%8E%B7%E5%87%86%E5%9C%A8%E8%B6%8A%E5%8D%97%E6%8E%A8%E5%87%BA%E6%98%9F%E9%93%BE%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E6%9C%8D%E5%8A%A1)
 - 安全分析与研究
   - [Linux版CS样本分析与配置解密](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495678&idx=1&sn=86f1ebe2d5b0f228d743b679336e3a31)
-- 黑鸟
-  - [借助Claude逆向分析智能睡眠眼罩并发现安全问题](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185285&idx=1&sn=ed4d792e0de41fc1d59c66c766cf125d)
 - 青衣十三楼飞花堂
   - [已知三角形内任意一点，求其到三顶点距离和的最小值](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489029&idx=1&sn=be6b8314cdb12b197b8fa82e159ccade)
+- 黑鸟
+  - [借助Claude逆向分析智能睡眠眼罩并发现安全问题](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185285&idx=1&sn=ed4d792e0de41fc1d59c66c766cf125d)
+- 网安杂谈
+  - [Datawhale Easy-Vibe 开源学习 task3 动手做出原型](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890004&idx=1&sn=32259454ba3e8aa27b52f3879c1ae973)
 - 安全研究GoSSIP
   - [2026 年秋季｜香港中文大学周亚金课题组博士生招募（区块链安全方向）](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501413&idx=1&sn=d36876ea5f3e13feef1994caa4c9cdf6)
 - 丁爸 情报分析师的工具箱
   - [【AI】智能体是如何吐槽人类开源社区管理员的？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154361&idx=1&sn=bb4fd0f5ad850ed17e1f2f2b13c07921)
   - [【时政】美国马列主义毛泽东思想传播现状](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154300&idx=1&sn=b02b95285012ea48fb4b9d2641bd5b06)
-- 网安杂谈
-  - [Datawhale Easy-Vibe 开源学习 task3 动手做出原型](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890004&idx=1&sn=32259454ba3e8aa27b52f3879c1ae973)
-- 极客公园
-  - [当 AI 开始报复人类，开源世界的第一起「自主攻击」事件](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099219&idx=1&sn=34b9cfed5809b81de7213cf766a120f0)
-  - [豆包大模型 2.0 发布；用户吐槽 Deepseek 变冷淡了，官方回应；微信：抢红包「手气攻略」都是假的| 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099211&idx=1&sn=b3c73468d78b30ed05f2c7a1e4c7ec51)
 - 情报分析师
   - [六步掌握开源“识人术”，如何通过照片识别身份](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566741&idx=1&sn=5c51b8cf0bbbff5d9ea44852c6c6cc34)
   - [【热点研判】蒙古国改革内政谋振兴，我拓机遇需防范博弈暗流/美台签署对等贸易协定，我经贸版图面临新挑战/印度军备自主突进与风险齐现](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566741&idx=2&sn=ec51c611b25e7c694b0b4e74d456de7e)
+- 吾爱破解论坛
+  - [[链接]心流鼠标手势 - FlowMouse v1.2 Chro](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143645&idx=1&sn=0e8e895546419bca2b5b7f29f60922ca)
+- 极客公园
+  - [当 AI 开始报复人类，开源世界的第一起「自主攻击」事件](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099219&idx=1&sn=34b9cfed5809b81de7213cf766a120f0)
+  - [豆包大模型 2.0 发布；用户吐槽 Deepseek 变冷淡了，官方回应；微信：抢红包「手气攻略」都是假的| 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099211&idx=1&sn=b3c73468d78b30ed05f2c7a1e4c7ec51)
 - DEF CON Announcements!
   - [Hotel Room Blocks for DEF CON 34 are Open!](https://defcon.org/html/links/dc-news.html#34rooms)
 - Over Security - Cybersecurity news aggregator
@@ -71,28 +73,25 @@
   - [Inside Bashe: The Interview with the Ransomware Group Known as APT73](https://www.suspectfile.com/inside-bashe-the-interview-with-the-ransomware-group-known-as-apt73/)
 - IT Service Management News
   - [Moltbook](http://blog.cesaregallotti.it/2026/02/moltbook.html)
-- 吾爱破解论坛
-  - [[链接]心流鼠标手势 - FlowMouse v1.2 Chro](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143645&idx=1&sn=0e8e895546419bca2b5b7f29f60922ca)
-- BorderGate
-  - [Credential Guard Part 2](https://www.bordergate.co.uk/credential-guard-part-2/)
-- The Hacker News
-  - [Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging](https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html)
 - Security Affairs
   - [Malicious npm and PyPI packages linked to Lazarus APT fake recruiter campaign](https://securityaffairs.com/188009/apt/malicious-npm-and-pypi-packages-llinked-to-lazarus-apt-fake-recruiter-campaign.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 84](https://securityaffairs.com/188004/malware/security-affairs-malware-newsletter-round-84.html)
   - [Security Affairs newsletter Round 563 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/187996/security/security-affairs-newsletter-round-563-by-pierluigi-paganini-international-edition.html)
-- Deep Web
-  - [Can you help me with some things please?](https://www.reddit.com/r/deepweb/comments/1r5nt2t/can_you_help_me_with_some_things_please/)
-- Information Security
-  - [When Your Antivirus Becomes the Malware Delivery System](https://www.reddit.com/r/Information_Security/comments/1r5u265/when_your_antivirus_becomes_the_malware_delivery/)
-- netsecstudents: Subreddit for students studying Network Security and its related subjects
-  - [GitHub - dereeqw/web-mitm-lab: Web traffic interception simulation tool for cybersecurity research and defensive learning in isolated lab environments.](https://www.reddit.com/r/netsecstudents/comments/1r5tf0x/github_dereeqwwebmitmlab_web_traffic_interception/)
+- The Hacker News
+  - [Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging](https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html)
+- BorderGate
+  - [Credential Guard Part 2](https://www.bordergate.co.uk/credential-guard-part-2/)
 - Social Engineering
   - [Making a core group or breaking into an existing one](https://www.reddit.com/r/SocialEngineering/comments/1r5i12p/making_a_core_group_or_breaking_into_an_existing/)
 - Computer Forensics
   - [Extracting LUKS2 encryption key from a swap partition](https://www.reddit.com/r/computerforensics/comments/1r5kcdw/extracting_luks2_encryption_key_from_a_swap/)
   - [Break into forensics](https://www.reddit.com/r/computerforensics/comments/1r5jvtv/break_into_forensics/)
 - Your Open Hacker Community
-  - [having trouble with using john the ripper](https://www.reddit.com/r/HowToHack/comments/1r51w40/having_trouble_with_using_john_the_ripper/)
   - [Need to hack into windows vista pc](https://www.reddit.com/r/HowToHack/comments/1r5596m/need_to_hack_into_windows_vista_pc/)
-  - [Random Number - Help Me](https://www.reddit.com/r/HowToHack/comments/1r5q6nd/random_number_help_me/)
+  - [having trouble with using john the ripper](https://www.reddit.com/r/HowToHack/comments/1r51w40/having_trouble_with_using_john_the_ripper/)
+- Information Security
+  - [When Your Antivirus Becomes the Malware Delivery System](https://www.reddit.com/r/Information_Security/comments/1r5u265/when_your_antivirus_becomes_the_malware_delivery/)
+- Deep Web
+  - [Can you help me with some things please?](https://www.reddit.com/r/deepweb/comments/1r5nt2t/can_you_help_me_with_some_things_please/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [GitHub - dereeqw/web-mitm-lab: Web traffic interception simulation tool for cybersecurity research and defensive learning in isolated lab environments.](https://www.reddit.com/r/netsecstudents/comments/1r5tf0x/github_dereeqwwebmitmlab_web_traffic_interception/)
