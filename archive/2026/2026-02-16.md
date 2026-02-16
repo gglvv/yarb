@@ -1,34 +1,23 @@
 # 每日安全资讯（2026-02-16）
 
-- SecWiki News
-  - [SecWiki News 2026-02-15 Review](http://www.sec-wiki.com/?2026-02-15)
-- InfoSec Write-ups - Medium
-  - [THM — ValenFind](https://infosecwriteups.com/thm-valenfind-c5a42e2cf5b2?source=rss----7b722bfd1b8d---4)
-  - [Phishing — Merry Clickmas | Tryhackme | Day-2](https://infosecwriteups.com/phishing-merry-clickmas-tryhackme-day-2-7938ccab3b31?source=rss----7b722bfd1b8d---4)
-  - [HAWK_II — Cryptography Challenge Writeup](https://infosecwriteups.com/hawk-ii-cryptography-challenge-writeup-9b32187f4dd5?source=rss----7b722bfd1b8d---4)
-  - [Linux CLI — Shells Bells | Tryhackme | Day-1](https://infosecwriteups.com/linux-cli-shells-bells-tryhackme-day-1-f3f30ad7adb8?source=rss----7b722bfd1b8d---4)
-  - [Piercing the Veil of Timelapse: Encrypted Keys & The LAPS Revelation ️](https://infosecwriteups.com/piercing-the-veil-of-timelapse-encrypted-keys-the-laps-revelation-%EF%B8%8F-716bf0c289bb?source=rss----7b722bfd1b8d---4)
-  - [The “Dumb” Editor That Got Too Smart: When Feature Bloat Leads to RCE](https://infosecwriteups.com/the-dumb-editor-that-got-too-smart-when-feature-bloat-leads-to-rce-0fd08d9c62cd?source=rss----7b722bfd1b8d---4)
-  - [I Wasn’t Looking at the Target — I Was Watching the Hackers First](https://infosecwriteups.com/i-wasnt-looking-at-the-target-i-was-watching-the-hackers-first-866b552efd0f?source=rss----7b722bfd1b8d---4)
-  - [Expanding React2Shell for Serverless Lambda Function](https://infosecwriteups.com/expanding-react2shell-for-serverless-lambda-function-647de21722b4?source=rss----7b722bfd1b8d---4)
-  - [How a Forgotten QA Page Led to an $800 Bounty: Unauthorized Document Access](https://infosecwriteups.com/how-a-forgotten-qa-page-led-to-an-800-bounty-unauthorized-document-access-1065b05ab79d?source=rss----7b722bfd1b8d---4)
-  - [Hacking OpenClaw](https://infosecwriteups.com/hacking-openclaw-07dc2003c31d?source=rss----7b722bfd1b8d---4)
 - Recent Commits to cve:main
   - [Update Sun Feb 15 11:39:49 UTC 2026](https://github.com/trickest/cve/commit/057927e66183eac776d8496f7222c6d985264242)
-- CXSECURITY Database RSS Feed - CXSecurity.com
-  - [WordPress Plugin Ajax Upload for Gravity Forms - Arbitrary File Upload](https://cxsecurity.com/issue/WLB-2026020017)
-  - [Roundcube Webmail DOM-based XSS Exploit via SVG href Attribute](https://cxsecurity.com/issue/WLB-2026020016)
-- Objective-See's Blog
-  - [ClickFix: Stopped at ⌘+V](https://objective-see.org/blog/blog_0x85.html)
+- SecWiki News
+  - [SecWiki News 2026-02-15 Review](http://www.sec-wiki.com/?2026-02-15)
+- Sandfly Security Blog RSS Feed
+  - [Advantages of Agentless EDR for Linux](https://sandflysecurity.com/blog/advantages-of-agentless-edr-for-linux)
+  - [BPFDoor Detection, Analysis, and Hunting Tactics on Linux](https://sandflysecurity.com/blog/bpfdoor-detection-analysis-and-hunting-tactics-on-linux)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [I Wasn’t Looking at the Target — I Was Watching the Hackers First](https://infosecwriteups.com/i-wasnt-looking-at-the-target-i-was-watching-the-hackers-first-866b552efd0f?source=rss----7b722bfd1b8d--bug_bounty)
   - [Expanding React2Shell for Serverless Lambda Function](https://infosecwriteups.com/expanding-react2shell-for-serverless-lambda-function-647de21722b4?source=rss----7b722bfd1b8d--bug_bounty)
   - [How a Forgotten QA Page Led to an $800 Bounty: Unauthorized Document Access](https://infosecwriteups.com/how-a-forgotten-qa-page-led-to-an-800-bounty-unauthorized-document-access-1065b05ab79d?source=rss----7b722bfd1b8d--bug_bounty)
   - [Hacking Google Drive Integrations: A Deep Dive into OAuth Security](https://infosecwriteups.com/hacking-google-drive-integrations-a-deep-dive-into-oauth-security-4e233bfcf395?source=rss----7b722bfd1b8d--bug_bounty)
   - [From Leak to Lead: How Dark Web Dumps Helped Me Find a Live Vulnerability ️‍♂️](https://infosecwriteups.com/from-leak-to-lead-how-dark-web-dumps-helped-me-find-a-live-vulnerability-%EF%B8%8F-%EF%B8%8F-f1b0ea82b335?source=rss----7b722bfd1b8d--bug_bounty)
-- Sandfly Security Blog RSS Feed
-  - [Advantages of Agentless EDR for Linux](https://sandflysecurity.com/blog/advantages-of-agentless-edr-for-linux)
-  - [BPFDoor Detection, Analysis, and Hunting Tactics on Linux](https://sandflysecurity.com/blog/bpfdoor-detection-analysis-and-hunting-tactics-on-linux)
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [WordPress Plugin Ajax Upload for Gravity Forms - Arbitrary File Upload](https://cxsecurity.com/issue/WLB-2026020017)
+  - [Roundcube Webmail DOM-based XSS Exploit via SVG href Attribute](https://cxsecurity.com/issue/WLB-2026020016)
+- Objective-See's Blog
+  - [ClickFix: Stopped at ⌘+V](https://objective-see.org/blog/blog_0x85.html)
 - 奇客Solidot–传递最新科技情报
   - [地球暖化加速的原因](https://www.solidot.org/story?sid=83566)
   - [在高危漏洞披露前电信公司提前屏蔽 Telnet 流量](https://www.solidot.org/story?sid=83565)
@@ -44,36 +33,36 @@
   - [中国企业跻身奥运赞助商，日企缺席](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E8%B7%BB%E8%BA%AB%E5%A5%A5%E8%BF%90%E8%B5%9E%E5%8A%A9%E5%95%86-%E6%97%A5%E4%BC%81%E7%BC%BA%E5%B8%AD)
 - 黑鸟
   - [借助Claude逆向分析智能睡眠眼罩并发现安全问题](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185285&idx=1&sn=ed4d792e0de41fc1d59c66c766cf125d)
-- 青衣十三楼飞花堂
-  - [已知三角形内任意一点，求其到三顶点距离和的最小值](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489029&idx=1&sn=be6b8314cdb12b197b8fa82e159ccade)
-- 丁爸 情报分析师的工具箱
-  - [【时政】美国马列主义毛泽东思想传播现状](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154300&idx=1&sn=b02b95285012ea48fb4b9d2641bd5b06)
-- 安全研究GoSSIP
-  - [2026 年秋季｜香港中文大学周亚金课题组博士生招募（区块链安全方向）](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501413&idx=1&sn=d36876ea5f3e13feef1994caa4c9cdf6)
 - 网安杂谈
   - [Datawhale Easy-Vibe 开源学习 task3 动手做出原型](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890004&idx=1&sn=32259454ba3e8aa27b52f3879c1ae973)
+- 青衣十三楼飞花堂
+  - [已知三角形内任意一点，求其到三顶点距离和的最小值](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489029&idx=1&sn=be6b8314cdb12b197b8fa82e159ccade)
 - 极客公园
   - [当 AI 开始报复人类，开源世界的第一起「自主攻击」事件](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099219&idx=1&sn=34b9cfed5809b81de7213cf766a120f0)
   - [豆包大模型 2.0 发布；用户吐槽 Deepseek 变冷淡了，官方回应；微信：抢红包「手气攻略」都是假的| 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099211&idx=1&sn=b3c73468d78b30ed05f2c7a1e4c7ec51)
+- 情报分析师
+  - [六步掌握开源“识人术”，如何通过照片识别身份](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566741&idx=1&sn=5c51b8cf0bbbff5d9ea44852c6c6cc34)
+  - [【热点研判】蒙古国改革内政谋振兴，我拓机遇需防范博弈暗流/美台签署对等贸易协定，我经贸版图面临新挑战/印度军备自主突进与风险齐现](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566741&idx=2&sn=ec51c611b25e7c694b0b4e74d456de7e)
+- 丁爸 情报分析师的工具箱
+  - [【时政】美国马列主义毛泽东思想传播现状](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154300&idx=1&sn=b02b95285012ea48fb4b9d2641bd5b06)
+- 吾爱破解论坛
+  - [[链接]心流鼠标手势 - FlowMouse v1.2 Chro](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143645&idx=1&sn=0e8e895546419bca2b5b7f29f60922ca)
+- DEF CON Announcements!
+  - [Hotel Room Blocks for DEF CON 34 are Open!](https://defcon.org/html/links/dc-news.html#34rooms)
+- IT Service Management News
+  - [Moltbook](http://blog.cesaregallotti.it/2026/02/moltbook.html)
+- BorderGate
+  - [Credential Guard Part 2](https://www.bordergate.co.uk/credential-guard-part-2/)
+- 安全研究GoSSIP
+  - [2026 年秋季｜香港中文大学周亚金课题组博士生招募（区块链安全方向）](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501413&idx=1&sn=d36876ea5f3e13feef1994caa4c9cdf6)
 - Over Security - Cybersecurity news aggregator
   - [Windows 11 KB5077181 fixes boot failures linked to failed updates](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/)
   - [CTM360: Lumma Stealer and Ninja Browser malware campaign abusing Google Groups](https://www.bleepingcomputer.com/news/security/ctm360-lumma-stealer-and-ninja-browser-malware-campaign-abusing-google-groups/)
   - [Pastebin comments push ClickFix JavaScript attack to hijack crypto swaps](https://www.bleepingcomputer.com/news/security/pastebin-comments-push-clickfix-javascript-attack-to-hijack-crypto-swaps/)
   - [Inside Bashe: The Interview with the Ransomware Group Known as APT73](https://www.suspectfile.com/inside-bashe-the-interview-with-the-ransomware-group-known-as-apt73/)
-- 情报分析师
-  - [六步掌握开源“识人术”，如何通过照片识别身份](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566741&idx=1&sn=5c51b8cf0bbbff5d9ea44852c6c6cc34)
-  - [【热点研判】蒙古国改革内政谋振兴，我拓机遇需防范博弈暗流/美台签署对等贸易协定，我经贸版图面临新挑战/印度军备自主突进与风险齐现](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566741&idx=2&sn=ec51c611b25e7c694b0b4e74d456de7e)
-- DEF CON Announcements!
-  - [Hotel Room Blocks for DEF CON 34 are Open!](https://defcon.org/html/links/dc-news.html#34rooms)
-- IT Service Management News
-  - [Moltbook](http://blog.cesaregallotti.it/2026/02/moltbook.html)
-- 吾爱破解论坛
-  - [[链接]心流鼠标手势 - FlowMouse v1.2 Chro](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143645&idx=1&sn=0e8e895546419bca2b5b7f29f60922ca)
-- BorderGate
-  - [Credential Guard Part 2](https://www.bordergate.co.uk/credential-guard-part-2/)
-- The Hacker News
-  - [Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging](https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html)
 - Security Affairs
   - [Malicious npm and PyPI packages linked to Lazarus APT fake recruiter campaign](https://securityaffairs.com/188009/apt/malicious-npm-and-pypi-packages-llinked-to-lazarus-apt-fake-recruiter-campaign.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 84](https://securityaffairs.com/188004/malware/security-affairs-malware-newsletter-round-84.html)
   - [Security Affairs newsletter Round 563 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/187996/security/security-affairs-newsletter-round-563-by-pierluigi-paganini-international-edition.html)
+- The Hacker News
+  - [Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging](https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html)
