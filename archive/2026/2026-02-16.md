@@ -44,35 +44,35 @@
   - [借助Claude逆向分析智能睡眠眼罩并发现安全问题](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185285&idx=1&sn=ed4d792e0de41fc1d59c66c766cf125d)
 - 青衣十三楼飞花堂
   - [已知三角形内任意一点，求其到三顶点距离和的最小值](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489029&idx=1&sn=be6b8314cdb12b197b8fa82e159ccade)
-- 安全研究GoSSIP
-  - [2026 年秋季｜香港中文大学周亚金课题组博士生招募（区块链安全方向）](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501413&idx=1&sn=d36876ea5f3e13feef1994caa4c9cdf6)
+- 网安杂谈
+  - [Datawhale Easy-Vibe 开源学习 task3 动手做出原型](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890004&idx=1&sn=32259454ba3e8aa27b52f3879c1ae973)
 - 丁爸 情报分析师的工具箱
   - [【AI】智能体是如何吐槽人类开源社区管理员的？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154361&idx=1&sn=bb4fd0f5ad850ed17e1f2f2b13c07921)
   - [【时政】美国马列主义毛泽东思想传播现状](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154300&idx=1&sn=b02b95285012ea48fb4b9d2641bd5b06)
-- 网安杂谈
-  - [Datawhale Easy-Vibe 开源学习 task3 动手做出原型](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890004&idx=1&sn=32259454ba3e8aa27b52f3879c1ae973)
+- 安全研究GoSSIP
+  - [2026 年秋季｜香港中文大学周亚金课题组博士生招募（区块链安全方向）](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501413&idx=1&sn=d36876ea5f3e13feef1994caa4c9cdf6)
 - 极客公园
   - [当 AI 开始报复人类，开源世界的第一起「自主攻击」事件](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099219&idx=1&sn=34b9cfed5809b81de7213cf766a120f0)
   - [豆包大模型 2.0 发布；用户吐槽 Deepseek 变冷淡了，官方回应；微信：抢红包「手气攻略」都是假的| 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099211&idx=1&sn=b3c73468d78b30ed05f2c7a1e4c7ec51)
 - 情报分析师
   - [六步掌握开源“识人术”，如何通过照片识别身份](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566741&idx=1&sn=5c51b8cf0bbbff5d9ea44852c6c6cc34)
   - [【热点研判】蒙古国改革内政谋振兴，我拓机遇需防范博弈暗流/美台签署对等贸易协定，我经贸版图面临新挑战/印度军备自主突进与风险齐现](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566741&idx=2&sn=ec51c611b25e7c694b0b4e74d456de7e)
-- DEF CON Announcements!
-  - [Hotel Room Blocks for DEF CON 34 are Open!](https://defcon.org/html/links/dc-news.html#34rooms)
-- IT Service Management News
-  - [Moltbook](http://blog.cesaregallotti.it/2026/02/moltbook.html)
 - Over Security - Cybersecurity news aggregator
   - [Windows 11 KB5077181 fixes boot failures linked to failed updates](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/)
   - [CTM360: Lumma Stealer and Ninja Browser malware campaign abusing Google Groups](https://www.bleepingcomputer.com/news/security/ctm360-lumma-stealer-and-ninja-browser-malware-campaign-abusing-google-groups/)
   - [Pastebin comments push ClickFix JavaScript attack to hijack crypto swaps](https://www.bleepingcomputer.com/news/security/pastebin-comments-push-clickfix-javascript-attack-to-hijack-crypto-swaps/)
   - [Inside Bashe: The Interview with the Ransomware Group Known as APT73](https://www.suspectfile.com/inside-bashe-the-interview-with-the-ransomware-group-known-as-apt73/)
-- BorderGate
-  - [Credential Guard Part 2](https://www.bordergate.co.uk/credential-guard-part-2/)
-- The Hacker News
-  - [Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging](https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html)
+- DEF CON Announcements!
+  - [Hotel Room Blocks for DEF CON 34 are Open!](https://defcon.org/html/links/dc-news.html#34rooms)
+- IT Service Management News
+  - [Moltbook](http://blog.cesaregallotti.it/2026/02/moltbook.html)
 - 吾爱破解论坛
   - [[链接]心流鼠标手势 - FlowMouse v1.2 Chro](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143645&idx=1&sn=0e8e895546419bca2b5b7f29f60922ca)
+- BorderGate
+  - [Credential Guard Part 2](https://www.bordergate.co.uk/credential-guard-part-2/)
 - Security Affairs
   - [Malicious npm and PyPI packages linked to Lazarus APT fake recruiter campaign](https://securityaffairs.com/188009/apt/malicious-npm-and-pypi-packages-llinked-to-lazarus-apt-fake-recruiter-campaign.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 84](https://securityaffairs.com/188004/malware/security-affairs-malware-newsletter-round-84.html)
   - [Security Affairs newsletter Round 563 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/187996/security/security-affairs-newsletter-round-563-by-pierluigi-paganini-international-edition.html)
+- The Hacker News
+  - [Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging](https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html)
