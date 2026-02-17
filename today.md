@@ -1,17 +1,21 @@
 # 每日安全资讯（2026-02-17）
 
-- SecWiki News
-  - [SecWiki News 2026-02-16 Review](http://www.sec-wiki.com/?2026-02-16)
 - Recent Commits to cve:main
   - [Update Mon Feb 16 11:19:09 UTC 2026](https://github.com/trickest/cve/commit/2baa32d7d403b153a129832011215f89311a0373)
-- ElcomSoft blog
-  - [Perfect Acquisition: The True Physical Acquisition](https://blog.elcomsoft.com/2026/02/perfect-acquisition-the-true-physical-acquisition/)
-- Sukka's Blog
-  - [杀死那只鹦鹉 —— 「白话文」讲解一种探测 XTLS VLESS REALITY 的手段](https://blog.skk.moe/post/to-kill-a-parrot-detecting-xtls-vless-reality-server/)
+- SecWiki News
+  - [SecWiki News 2026-02-16 Review](http://www.sec-wiki.com/?2026-02-16)
 - ongoing by Tim Bray
   - [Open Source and GenAI?](https://www.tbray.org/ongoing/When/202x/2026/02/16/GenAI-and-OSS-opinion)
+- Sukka's Blog
+  - [杀死那只鹦鹉 —— 「白话文」讲解一种探测 XTLS VLESS REALITY 的手段](https://blog.skk.moe/post/to-kill-a-parrot-detecting-xtls-vless-reality-server/)
+- ElcomSoft blog
+  - [Perfect Acquisition: The True Physical Acquisition](https://blog.elcomsoft.com/2026/02/perfect-acquisition-the-true-physical-acquisition/)
 - MaskRay
   - [Call relocation types](https://maskray.me/blog/2026-02-16-call-relocation-types)
+- Reverse Engineering
+  - [/r/ReverseEngineering's Weekly Questions Thread](https://www.reddit.com/r/ReverseEngineering/comments/1r63qr4/rreverseengineerings_weekly_questions_thread/)
+  - [The Long Tail of LLM-Assisted Decompilation](https://www.reddit.com/r/ReverseEngineering/comments/1r6hfeb/the_long_tail_of_llmassisted_decompilation/)
+  - [[Showcase] I optimized my LCSAJ dumper to scan the full libc in 6 seconds. (Demo inside)](https://www.reddit.com/r/ReverseEngineering/comments/1r6ecev/showcase_i_optimized_my_lcsaj_dumper_to_scan_the/)
 - Malwarebytes
   - [ClickFix added nslookup commands to its arsenal for downloading RATs](https://www.malwarebytes.com/blog/news/2026/02/clickfix-added-nslookup-commands-to-its-arsenal-for-downloading-rats)
   - [A week in security (February 9 &#8211; February 15)](https://www.malwarebytes.com/blog/news/2026/02/a-week-in-security-february-9-february-15)
@@ -30,35 +34,35 @@
   - [The DEF CON 33 Hackers Almanack](https://shostack.org/blog/hackers-almanack-defcon-33/)
 - 黑鸟
   - [一款针对 Android 和 iOS 的新型间谍软件](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185309&idx=1&sn=cec689e79cf3a3245ff10c5536336425)
-- 安全学术圈
-  - [祝您马年大吉！](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495064&idx=1&sn=e49e32b18cb533fa61939430885db8a7)
+- 青衣十三楼飞花堂
+  - [一晃就过去了](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489033&idx=1&sn=8f30509331afb5f726f79bb1d16a8b02)
+- 安全研究GoSSIP
+  - [G.O.S.S.I.P 2026 新春总动员（2）：黑胶唱片，启动！](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501424&idx=1&sn=1ebe9847abddadfc724a3e8d5fff1828)
 - 中国信息安全
   - [辞旧迎新年 阖家共团圆](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259414&idx=1&sn=26c93c11dd2c9c89b16043ee2bc4822f)
-- 信息安全国家工程研究中心
-  - [骏马蹄疾，岁启新程](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247502991&idx=1&sn=8512dc0c2ff70d40cc0121cc7340ce48)
-- 补天平台
-  - [补天给白帽师傅们拜年啦！](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510306&idx=1&sn=64ab3255706b94d23937408980b3e1a3)
 - 默安科技
   - [今夜，默安伴您除夕守岁，网络守安。](https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247501682&idx=1&sn=70366033bea3227366af16d0e4a64d89)
 - 全频带阻塞干扰
   - [2026 • 节前必读 | 最新私房钱埋藏指南](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648959101&idx=1&sn=3efe5468de972671ca52dca56d4d7768)
+- 信息安全国家工程研究中心
+  - [骏马蹄疾，岁启新程](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247502991&idx=1&sn=8512dc0c2ff70d40cc0121cc7340ce48)
+- 数世咨询
+  - [数世咨询祝大家新春大吉！](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541765&idx=1&sn=b92bece91c7a1239f269130777ef9c55)
+- 安全学术圈
+  - [祝您马年大吉！](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495064&idx=1&sn=e49e32b18cb533fa61939430885db8a7)
+- 补天平台
+  - [补天给白帽师傅们拜年啦！](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510306&idx=1&sn=64ab3255706b94d23937408980b3e1a3)
+- 极客公园
+  - [千问 3.5，用第一性原理打破大模型的不可能三角](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099292&idx=1&sn=3d7e655d39eef224dcb7f34f17e54bb3)
+- 火绒安全
+  - [辞旧除夕夜 网安伴佳节](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530699&idx=1&sn=291a2667e39e3cc41b244556f7f704da)
+  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530699&idx=2&sn=769b0cf68a172918c014028f91e7a30f)
 - 黑伞安全
   - [春晚的"含硅量"与我们的"含金量"](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489926&idx=1&sn=815ddb7452888613e69c0e7ca46a6d6c)
 - 慢雾科技
   - [指纹浏览器行业安全风险深度分析](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247504339&idx=1&sn=2333dd057c0f07b7cb6ae3f331bef8ef)
-- 火绒安全
-  - [辞旧除夕夜 网安伴佳节](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530699&idx=1&sn=291a2667e39e3cc41b244556f7f704da)
-  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530699&idx=2&sn=769b0cf68a172918c014028f91e7a30f)
-- 极客公园
-  - [千问 3.5，用第一性原理打破大模型的不可能三角](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099292&idx=1&sn=3d7e655d39eef224dcb7f34f17e54bb3)
-- 数世咨询
-  - [数世咨询祝大家新春大吉！](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541765&idx=1&sn=b92bece91c7a1239f269130777ef9c55)
-- 安全研究GoSSIP
-  - [G.O.S.S.I.P 2026 新春总动员（2）：黑胶唱片，启动！](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501424&idx=1&sn=1ebe9847abddadfc724a3e8d5fff1828)
-- 看雪学苑
-  - [QBDI原理详解](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611115&idx=1&sn=293899176e4090adb7cfc5878204988c)
-- 吾爱破解论坛
-  - [（图作者 | @Aoemax）](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143634&idx=1&sn=e19b5ebbee5cfdfe7e8c1bcf0bb8ae6d)
+- 情报分析师
+  - [除夕日，谈谈开源情报的制胜关键](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566752&idx=1&sn=6ecb605fb47b31b00f5c687d48cf1432)
 - Over Security - Cybersecurity news aggregator
   - [Il recruiting si trasforma in arma di compromissione: così funziona la truffa e come difendersi](https://www.cybersecurity360.it/news/il-recruiting-si-trasforma-in-arma-di-compromissione-cosi-funziona-la-truffa-e-come-difendersi/)
   - [University of Pennsylvania - 623,750 breached accounts](https://haveibeenpwned.com/Breach/UniversityOfPennsylvania)
@@ -78,41 +82,27 @@
   - [How the Protective Security Policy Framework Shapes Australia’s Commonwealth Cyber Security Strategy](https://cyble.com/blog/2025-commonwealth-cyber-security-pspf-update/)
   - [“Your Best-Performing Ad Campaign Might Be a Bot” — Mike Schrobo Interview](https://thecyberexpress.com/ad-fraud-mike-schrobo-interview/)
   - [Chinese Bots Targeting Websites of Government Portals, Paranormal Activity Blogs](https://thecyberexpress.com/chinese-bots-lanzhou-website-traffic/)
-  - [APOIA.se - 450,764 breached accounts](https://haveibeenpwned.com/Breach/APOIAse)
-  - [Direttiva NIS2 nel settore alimentare: implicazioni per la cyber security](https://www.cybersecurity360.it/legal/direttiva-nis2-nel-settore-alimentare-implicazioni-per-la-cyber-security/)
-- 情报分析师
-  - [除夕日，谈谈开源情报的制胜关键](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566752&idx=1&sn=6ecb605fb47b31b00f5c687d48cf1432)
-- Dark Space Blogspot
-  - [Morto Federico Frusciante: Storia e Migliori Citazioni (1973-2026)](http://darkwhite666.blogspot.com/2026/02/morto-federico-frusciante-storia-e.html)
 - 360数字安全
   - [除夕｜马跃新春，“午”岁吉祥](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585000&idx=1&sn=62ffeffed0c85c6908bdd590d0c66b7b)
-- Securityinfo.it
-  - [Lo shotdown USA tarpa le ali alla CISA](https://www.securityinfo.it/2026/02/16/lo-shotdown-usa-tarpa-le-ali-alla-cisa/?utm_source=rss&utm_medium=rss&utm_campaign=lo-shotdown-usa-tarpa-le-ali-alla-cisa)
-- ICT Security Magazine
-  - [OpenClaw: un incubo di sicurezza che riscrive le regole dell’IA agentica](https://www.ictsecuritymagazine.com/notizie/openclaw-sicurezza-ia/)
-  - [Golden Power 2.0: verso un modello europeo di sovranità tecnologica](https://www.ictsecuritymagazine.com/notizie/golden-power-2-0/)
-- Schneier on Security
-  - [The Promptware Kill Chain](https://www.schneier.com/blog/archives/2026/02/the-promptware-kill-chain.html)
-- 网络安全回收站
-  - [从开源爆款到 OpenAI 收编：OpenClaw 体验、架构与 Prompt 全解析](https://mp.weixin.qq.com/s?__biz=Mzg2MTc1NDAxMA==&mid=2247485159&idx=1&sn=e4bd389610b4af7ec3285fd7b41dcd5d)
-- Have I Been Pwned latest breaches
-  - [University of Pennsylvania - 623,750 breached accounts](https://haveibeenpwned.com/Breach/UniversityOfPennsylvania)
-  - [APOIA.se - 450,764 breached accounts](https://haveibeenpwned.com/Breach/APOIAse)
-- 迪哥讲事
-  - [越权所导致的信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499078&idx=1&sn=f28877c2204ad239416a3ea14d10a0bd)
-- The Hacker News
-  - [Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens](https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html)
-  - [Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers](https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html)
-  - [Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware](https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html)
-  - [Safe and Inclusive E‑Society: How Lithuania Is Bracing for AI‑Driven Cyber Fraud](https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html)
-  - [New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft](https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html)
-  - [New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released](https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html)
-- Tor Project blog
-  - [New Release: Tor Browser 15.0.6](https://blog.torproject.org/new-release-tor-browser-1506/)
-  - [Keeping track of decisions using the ADR model](https://blog.torproject.org/tpa-adr/)
+- 看雪学苑
+  - [QBDI原理详解](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611115&idx=1&sn=293899176e4090adb7cfc5878204988c)
 - SANS Internet Storm Center, InfoCON: green
   - [2026 64-Bits Malware Trend, (Mon, Feb 16th)](https://isc.sans.edu/diary/rss/32718)
   - [ISC Stormcast For Monday, February 16th, 2026 https://isc.sans.edu/podcastdetail/9810, (Mon, Feb 16th)](https://isc.sans.edu/diary/rss/32716)
+- Have I Been Pwned latest breaches
+  - [University of Pennsylvania - 623,750 breached accounts](https://haveibeenpwned.com/Breach/UniversityOfPennsylvania)
+  - [APOIA.se - 450,764 breached accounts](https://haveibeenpwned.com/Breach/APOIAse)
+- Schneier on Security
+  - [The Promptware Kill Chain](https://www.schneier.com/blog/archives/2026/02/the-promptware-kill-chain.html)
+- Securityinfo.it
+  - [Lo shotdown USA tarpa le ali alla CISA](https://www.securityinfo.it/2026/02/16/lo-shotdown-usa-tarpa-le-ali-alla-cisa/?utm_source=rss&utm_medium=rss&utm_campaign=lo-shotdown-usa-tarpa-le-ali-alla-cisa)
+- 迪哥讲事
+  - [越权所导致的信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499078&idx=1&sn=f28877c2204ad239416a3ea14d10a0bd)
+- ICT Security Magazine
+  - [OpenClaw: un incubo di sicurezza che riscrive le regole dell’IA agentica](https://www.ictsecuritymagazine.com/notizie/openclaw-sicurezza-ia/)
+  - [Golden Power 2.0: verso un modello europeo di sovranità tecnologica](https://www.ictsecuritymagazine.com/notizie/golden-power-2-0/)
+- 网络安全回收站
+  - [从开源爆款到 OpenAI 收编：OpenClaw 体验、架构与 Prompt 全解析](https://mp.weixin.qq.com/s?__biz=Mzg2MTc1NDAxMA==&mid=2247485159&idx=1&sn=e4bd389610b4af7ec3285fd7b41dcd5d)
 - Full Disclosure
   - [SEC Consult SA-20260212-0 :: Multiple Vulnerabilities in various Solax Power Pocket WiFi models](https://seclists.org/fulldisclosure/2026/Feb/17)
   - [[Full Disclosure] CVE-2025-69690 & CVE-2025-69691 — Authenticated RCE in Netgate pfSense CE 2.7.2 and 2.8.0](https://seclists.org/fulldisclosure/2026/Feb/16)
@@ -129,10 +119,45 @@
   - [🚨 Public Disclosure: Remote BitLocker Bypass via Intel AMT — SYSTEM Access Without Login](https://seclists.org/fulldisclosure/2026/Feb/15)
   - [Firedancer Solana Validator - QUIC Transport Parameter UB and	Consensus-Splitting Cast Bug](https://seclists.org/fulldisclosure/2026/Feb/14)
   - [[SYSS-2025-014] Linksys MX4200 - Improper Verification of Source of a Communication Channel](https://seclists.org/fulldisclosure/2026/Feb/19)
+- 吾爱破解论坛
+  - [（图作者 | @Aoemax）](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143634&idx=1&sn=e19b5ebbee5cfdfe7e8c1bcf0bb8ae6d)
+- Dark Space Blogspot
+  - [Morto Federico Frusciante: Storia e Migliori Citazioni (1973-2026)](http://darkwhite666.blogspot.com/2026/02/morto-federico-frusciante-storia-e.html)
+- Tor Project blog
+  - [New Release: Tor Browser 15.0.6](https://blog.torproject.org/new-release-tor-browser-1506/)
+  - [Keeping track of decisions using the ADR model](https://blog.torproject.org/tpa-adr/)
 - Security Affairs
   - [A security flaw at DavaIndia Pharmacy allowed attackers to access customers’ data and more](https://securityaffairs.com/188056/security/a-security-flaw-at-davaindia-pharmacy-allowed-attackers-to-access-customers-data-and-more.html)
   - [ShinyHunters leaked 600K+ Canada Goose customer records, but the firm denies it was breached](https://securityaffairs.com/188046/data-breach/shinyhunters-leaked-600k-canada-goose-customer-records-but-the-firm-denies-it-was-breached.html)
   - [Microsoft alerts on DNS-based ClickFix variant delivering malware via nslookup](https://securityaffairs.com/188039/hacking/microsoft-alerts-on-dns-based-clickfix-variant-delivering-malware-via-nslookup.html)
+- The Hacker News
+  - [Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens](https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html)
+  - [Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers](https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html)
+  - [Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware](https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html)
+  - [Safe and Inclusive E‑Society: How Lithuania Is Bracing for AI‑Driven Cyber Fraud](https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html)
+  - [New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft](https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html)
+  - [New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released](https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html)
+- Social Engineering
+  - [My friend send me req from a fake girl account in snapchat?](https://www.reddit.com/r/SocialEngineering/comments/1r6e4kn/my_friend_send_me_req_from_a_fake_girl_account_in/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [TableTOP plateform](https://www.reddit.com/r/netsecstudents/comments/1r6ogvw/tabletop_plateform/)
+  - [Sequence-level abuse in financial SaaS: when valid transitions violate global invariants](https://www.reddit.com/r/netsecstudents/comments/1r61y7q/sequencelevel_abuse_in_financial_saas_when_valid/)
+  - [Not all financial vulnerabilities break rules Some just rearrange them.](https://www.reddit.com/r/netsecstudents/comments/1r62l3t/not_all_financial_vulnerabilities_break_rules/)
+- Your Open Hacker Community
+  - [How to override Bell Parental controls.](https://www.reddit.com/r/HowToHack/comments/1r6o8uf/how_to_override_bell_parental_controls/)
+  - [Need Help! Five Zero Dollers](https://www.reddit.com/r/HowToHack/comments/1r5vyt1/need_help_five_zero_dollers/)
+- Information Security
+  - [Should there be a statute of limitations for cybercrime?](https://www.reddit.com/r/Information_Security/comments/1r6hd7d/should_there_be_a_statute_of_limitations_for/)
+  - [7 Best IAM tools from real-world IT experience, what worked for you?](https://www.reddit.com/r/Information_Security/comments/1r6b1tq/7_best_iam_tools_from_realworld_it_experience/)
+- Blackhat Library: Hacking techniques and research
+  - [First in-the-wild capture of Openclaw configuration files retrieved from an Infostealer infection](https://www.reddit.com/r/blackhat/comments/1r634th/first_inthewild_capture_of_openclaw_configuration/)
+  - [Windows Server 2008 Barid Bank ATM Crashes](https://www.reddit.com/r/blackhat/comments/1r5zhcw/windows_server_2008_barid_bank_atm_crashes/)
+- Technical Information Security Content & Discussion
+  - [nono - kernel-enforced capability sandbox for AI agents](https://www.reddit.com/r/netsec/comments/1r6k4z9/nono_kernelenforced_capability_sandbox_for_ai/)
+  - [[Analysis] Massive Active GitHub Malware Campaign | Hundreds of Malicious Repositories Identified](https://www.reddit.com/r/netsec/comments/1r66u2r/analysis_massive_active_github_malware_campaign/)
+  - [When Audits Fail Part 2: From Pre-Auth SSRF to RCE in TRUfusion Enterprise](https://www.reddit.com/r/netsec/comments/1r6l5e3/when_audits_fail_part_2_from_preauth_ssrf_to_rce/)
+  - [sandboxec: A lightweight command sandbox for Linux, secure-by-default, built on Landlock.](https://www.reddit.com/r/netsec/comments/1r640ry/sandboxec_a_lightweight_command_sandbox_for_linux/)
+  - [New Joomla! Novarain/Tassos Framework Vulnerabilities Advisory](https://www.reddit.com/r/netsec/comments/1r64yhj/new_joomla_novaraintassos_framework/)
 - T00ls安全
   - [🐴 T00ls祝大家 马年大吉 🧧](https://mp.weixin.qq.com/s?__biz=Mzg3NzYzODU5NQ==&mid=2247485670&idx=1&sn=77941fda4e7ee9b58f0f9d314435fc48)
 - Security Weekly Podcast Network (Audio)
