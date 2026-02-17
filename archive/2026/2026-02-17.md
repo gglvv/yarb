@@ -1,13 +1,13 @@
 # 每日安全资讯（2026-02-17）
 
+- Recent Commits to cve:main
+  - [Update Mon Feb 16 11:19:09 UTC 2026](https://github.com/trickest/cve/commit/2baa32d7d403b153a129832011215f89311a0373)
 - Sukka's Blog
   - [杀死那只鹦鹉 —— 「白话文」讲解一种探测 XTLS VLESS REALITY 的手段](https://blog.skk.moe/post/to-kill-a-parrot-detecting-xtls-vless-reality-server/)
 - SecWiki News
   - [SecWiki News 2026-02-16 Review](http://www.sec-wiki.com/?2026-02-16)
 - ElcomSoft blog
   - [Perfect Acquisition: The True Physical Acquisition](https://blog.elcomsoft.com/2026/02/perfect-acquisition-the-true-physical-acquisition/)
-- Recent Commits to cve:main
-  - [Update Mon Feb 16 11:19:09 UTC 2026](https://github.com/trickest/cve/commit/2baa32d7d403b153a129832011215f89311a0373)
 - MaskRay
   - [Call relocation types](https://maskray.me/blog/2026-02-16-call-relocation-types)
 - Malwarebytes
@@ -15,45 +15,47 @@
   - [A week in security (February 9 &#8211; February 15)](https://www.malwarebytes.com/blog/news/2026/02/a-week-in-security-february-9-february-15)
 - Intigriti
   - [Chaining in action: techniques, terminology, and real-world impact on business](https://www.intigriti.com/blog/business-insights/chaining-in-action-techniques-terminology-and-real-world-impact-on-business)
-- 奇客Solidot–传递最新科技情报
-  - [巴比伦五号上传到 YouTube 可免费观看](https://www.solidot.org/story?sid=83570)
-  - [Ars Technica AI 记者为 AI 生成内容道歉](https://www.solidot.org/story?sid=83569)
-  - [OpenClaw 创始人加盟 OpenAI](https://www.solidot.org/story?sid=83568)
-  - [Vim 9.2 释出](https://www.solidot.org/story?sid=83567)
 - 黑海洋Wiki | Web开发工具包 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [美国国防部接近与Anthropic切断关系](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8%E6%8E%A5%E8%BF%91%E4%B8%8EAnthropic%E5%88%87%E6%96%AD%E5%85%B3%E7%B3%BB)
   - [资深主持人就 NotebookLM 语音起诉谷歌](https://blog.upx8.com/%E8%B5%84%E6%B7%B1%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%B0%B1-NotebookLM-%E8%AF%AD%E9%9F%B3%E8%B5%B7%E8%AF%89%E8%B0%B7%E6%AD%8C)
   - [苹果公司将于3月4日在纽约举行产品发布会](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B0%86%E4%BA%8E3%E6%9C%884%E6%97%A5%E5%9C%A8%E7%BA%BD%E7%BA%A6%E4%B8%BE%E8%A1%8C%E4%BA%A7%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A)
   - [人工智能使美国生产率翻倍](https://blog.upx8.com/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BD%BF%E7%BE%8E%E5%9B%BD%E7%94%9F%E4%BA%A7%E7%8E%87%E7%BF%BB%E5%80%8D)
-  - [阿里千问Qwen3.5：迈向原生多模态智能体](https://blog.upx8.com/%E9%98%BF%E9%87%8C%E5%8D%83%E9%97%AEQwen3-5-%E8%BF%88%E5%90%91%E5%8E%9F%E7%94%9F%E5%A4%9A%E6%A8%A1%E6%80%81%E6%99%BA%E8%83%BD%E4%BD%93)
-  - [华为以色列研发中心裁员12%](https://blog.upx8.com/%E5%8D%8E%E4%B8%BA%E4%BB%A5%E8%89%B2%E5%88%97%E7%A0%94%E5%8F%91%E4%B8%AD%E5%BF%83%E8%A3%81%E5%91%9812)
+- Shostack & Friends Blog
+  - [The DEF CON 33 Hackers Almanack](https://shostack.org/blog/hackers-almanack-defcon-33/)
+- 奇客Solidot–传递最新科技情报
+  - [巴比伦五号上传到 YouTube 可免费观看](https://www.solidot.org/story?sid=83570)
+  - [Ars Technica AI 记者为 AI 生成内容道歉](https://www.solidot.org/story?sid=83569)
+  - [OpenClaw 创始人加盟 OpenAI](https://www.solidot.org/story?sid=83568)
+  - [Vim 9.2 释出](https://www.solidot.org/story?sid=83567)
 - 锦行科技
   - [除夕・除旧｜马到成功](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494756&idx=1&sn=6a756326bccd7fb5f0dbf643794b846d)
 - 黑鸟
   - [一款针对 Android 和 iOS 的新型间谍软件](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185309&idx=1&sn=cec689e79cf3a3245ff10c5536336425)
-- Shostack & Friends Blog
-  - [The DEF CON 33 Hackers Almanack](https://shostack.org/blog/hackers-almanack-defcon-33/)
 - 安全研究GoSSIP
   - [G.O.S.S.I.P 2026 新春总动员（2）：黑胶唱片，启动！](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501424&idx=1&sn=1ebe9847abddadfc724a3e8d5fff1828)
 - 信息安全国家工程研究中心
   - [骏马蹄疾，岁启新程](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247502991&idx=1&sn=8512dc0c2ff70d40cc0121cc7340ce48)
 - 全频带阻塞干扰
   - [2026 • 节前必读 | 最新私房钱埋藏指南](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648959101&idx=1&sn=3efe5468de972671ca52dca56d4d7768)
-- 中国信息安全
-  - [辞旧迎新年 阖家共团圆](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259414&idx=1&sn=26c93c11dd2c9c89b16043ee2bc4822f)
+- 慢雾科技
+  - [指纹浏览器行业安全风险深度分析](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247504339&idx=1&sn=2333dd057c0f07b7cb6ae3f331bef8ef)
 - 默安科技
   - [今夜，默安伴您除夕守岁，网络守安。](https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247501682&idx=1&sn=70366033bea3227366af16d0e4a64d89)
-- 极客公园
-  - [千问 3.5，用第一性原理打破大模型的不可能三角](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099292&idx=1&sn=3d7e655d39eef224dcb7f34f17e54bb3)
+- 中国信息安全
+  - [辞旧迎新年 阖家共团圆](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259414&idx=1&sn=26c93c11dd2c9c89b16043ee2bc4822f)
 - 黑伞安全
   - [春晚的"含硅量"与我们的"含金量"](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489926&idx=1&sn=815ddb7452888613e69c0e7ca46a6d6c)
+- 极客公园
+  - [千问 3.5，用第一性原理打破大模型的不可能三角](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099292&idx=1&sn=3d7e655d39eef224dcb7f34f17e54bb3)
+- 情报分析师
+  - [除夕日，谈谈开源情报的制胜关键](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566752&idx=1&sn=6ecb605fb47b31b00f5c687d48cf1432)
 - 火绒安全
   - [辞旧除夕夜 网安伴佳节](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530699&idx=1&sn=291a2667e39e3cc41b244556f7f704da)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530699&idx=2&sn=769b0cf68a172918c014028f91e7a30f)
-- 情报分析师
-  - [除夕日，谈谈开源情报的制胜关键](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566752&idx=1&sn=6ecb605fb47b31b00f5c687d48cf1432)
-- 慢雾科技
-  - [指纹浏览器行业安全风险深度分析](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247504339&idx=1&sn=2333dd057c0f07b7cb6ae3f331bef8ef)
+- 看雪学苑
+  - [QBDI原理详解](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611115&idx=1&sn=293899176e4090adb7cfc5878204988c)
+- Securityinfo.it
+  - [Lo shotdown USA tarpa le ali alla CISA](https://www.securityinfo.it/2026/02/16/lo-shotdown-usa-tarpa-le-ali-alla-cisa/?utm_source=rss&utm_medium=rss&utm_campaign=lo-shotdown-usa-tarpa-le-ali-alla-cisa)
 - Over Security - Cybersecurity news aggregator
   - [Il recruiting si trasforma in arma di compromissione: così funziona la truffa e come difendersi](https://www.cybersecurity360.it/news/il-recruiting-si-trasforma-in-arma-di-compromissione-cosi-funziona-la-truffa-e-come-difendersi/)
   - [University of Pennsylvania - 623,750 breached accounts](https://haveibeenpwned.com/Breach/UniversityOfPennsylvania)
@@ -81,42 +83,33 @@
   - [New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS](https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/)
 - 迪哥讲事
   - [越权所导致的信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499078&idx=1&sn=f28877c2204ad239416a3ea14d10a0bd)
-- 360数字安全
-  - [除夕｜马跃新春，“午”岁吉祥](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585000&idx=1&sn=62ffeffed0c85c6908bdd590d0c66b7b)
-- Securityinfo.it
-  - [Lo shotdown USA tarpa le ali alla CISA](https://www.securityinfo.it/2026/02/16/lo-shotdown-usa-tarpa-le-ali-alla-cisa/?utm_source=rss&utm_medium=rss&utm_campaign=lo-shotdown-usa-tarpa-le-ali-alla-cisa)
-- SANS Internet Storm Center, InfoCON: green
-  - [2026 64-Bits Malware Trend, (Mon, Feb 16th)](https://isc.sans.edu/diary/rss/32718)
-  - [ISC Stormcast For Monday, February 16th, 2026 https://isc.sans.edu/podcastdetail/9810, (Mon, Feb 16th)](https://isc.sans.edu/diary/rss/32716)
+- Have I Been Pwned latest breaches
+  - [University of Pennsylvania - 623,750 breached accounts](https://haveibeenpwned.com/Breach/UniversityOfPennsylvania)
+  - [APOIA.se - 450,764 breached accounts](https://haveibeenpwned.com/Breach/APOIAse)
 - ICT Security Magazine
   - [OpenClaw: un incubo di sicurezza che riscrive le regole dell’IA agentica](https://www.ictsecuritymagazine.com/notizie/openclaw-sicurezza-ia/)
   - [Golden Power 2.0: verso un modello europeo di sovranità tecnologica](https://www.ictsecuritymagazine.com/notizie/golden-power-2-0/)
-- 看雪学苑
-  - [QBDI原理详解](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611115&idx=1&sn=293899176e4090adb7cfc5878204988c)
-- 网络安全回收站
-  - [从开源爆款到 OpenAI 收编：OpenClaw 体验、架构与 Prompt 全解析](https://mp.weixin.qq.com/s?__biz=Mzg2MTc1NDAxMA==&mid=2247485159&idx=1&sn=e4bd389610b4af7ec3285fd7b41dcd5d)
-- Dark Space Blogspot
-  - [Morto Federico Frusciante: Storia e Migliori Citazioni (1973-2026)](http://darkwhite666.blogspot.com/2026/02/morto-federico-frusciante-storia-e.html)
+- 360数字安全
+  - [除夕｜马跃新春，“午”岁吉祥](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585000&idx=1&sn=62ffeffed0c85c6908bdd590d0c66b7b)
 - 吾爱破解论坛
   - [（图作者 | @Aoemax）](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143634&idx=1&sn=e19b5ebbee5cfdfe7e8c1bcf0bb8ae6d)
+- Schneier on Security
+  - [The Promptware Kill Chain](https://www.schneier.com/blog/archives/2026/02/the-promptware-kill-chain.html)
+- 网络安全回收站
+  - [从开源爆款到 OpenAI 收编：OpenClaw 体验、架构与 Prompt 全解析](https://mp.weixin.qq.com/s?__biz=Mzg2MTc1NDAxMA==&mid=2247485159&idx=1&sn=e4bd389610b4af7ec3285fd7b41dcd5d)
+- SANS Internet Storm Center, InfoCON: green
+  - [2026 64-Bits Malware Trend, (Mon, Feb 16th)](https://isc.sans.edu/diary/rss/32718)
+  - [ISC Stormcast For Monday, February 16th, 2026 https://isc.sans.edu/podcastdetail/9810, (Mon, Feb 16th)](https://isc.sans.edu/diary/rss/32716)
+- Dark Space Blogspot
+  - [Morto Federico Frusciante: Storia e Migliori Citazioni (1973-2026)](http://darkwhite666.blogspot.com/2026/02/morto-federico-frusciante-storia-e.html)
+- Tor Project blog
+  - [Keeping track of decisions using the ADR model](https://blog.torproject.org/tpa-adr/)
 - Security Affairs
   - [A security flaw at DavaIndia Pharmacy allowed attackers to access customers’ data and more](https://securityaffairs.com/188056/security/a-security-flaw-at-davaindia-pharmacy-allowed-attackers-to-access-customers-data-and-more.html)
   - [ShinyHunters leaked 600K+ Canada Goose customer records, but the firm denies it was breached](https://securityaffairs.com/188046/data-breach/shinyhunters-leaked-600k-canada-goose-customer-records-but-the-firm-denies-it-was-breached.html)
   - [Microsoft alerts on DNS-based ClickFix variant delivering malware via nslookup](https://securityaffairs.com/188039/hacking/microsoft-alerts-on-dns-based-clickfix-variant-delivering-malware-via-nslookup.html)
   - [Google fixes first actively exploited Chrome zero-day of 2026](https://securityaffairs.com/188029/security/google-fixes-first-actively-exploited-chrome-zero-day-of-2026.html)
   - [Japanese sex toys maker Tenga discloses data breach](https://securityaffairs.com/188022/data-breach/japanese-sex-toys-maker-tenga-discloses-data-breach.html)
-- The Hacker News
-  - [Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens](https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html)
-  - [Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers](https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html)
-  - [Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware](https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html)
-  - [Safe and Inclusive E‑Society: How Lithuania Is Bracing for AI‑Driven Cyber Fraud](https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html)
-  - [New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft](https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html)
-  - [New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released](https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html)
-- Schneier on Security
-  - [The Promptware Kill Chain](https://www.schneier.com/blog/archives/2026/02/the-promptware-kill-chain.html)
-- Have I Been Pwned latest breaches
-  - [University of Pennsylvania - 623,750 breached accounts](https://haveibeenpwned.com/Breach/UniversityOfPennsylvania)
-  - [APOIA.se - 450,764 breached accounts](https://haveibeenpwned.com/Breach/APOIAse)
 - Full Disclosure
   - [SEC Consult SA-20260212-0 :: Multiple Vulnerabilities in various Solax Power Pocket WiFi models](https://seclists.org/fulldisclosure/2026/Feb/17)
   - [[Full Disclosure] CVE-2025-69690 & CVE-2025-69691 — Authenticated RCE in Netgate pfSense CE 2.7.2 and 2.8.0](https://seclists.org/fulldisclosure/2026/Feb/16)
@@ -133,7 +126,12 @@
   - [🚨 Public Disclosure: Remote BitLocker Bypass via Intel AMT — SYSTEM Access Without Login](https://seclists.org/fulldisclosure/2026/Feb/15)
   - [Firedancer Solana Validator - QUIC Transport Parameter UB and	Consensus-Splitting Cast Bug](https://seclists.org/fulldisclosure/2026/Feb/14)
   - [[SYSS-2025-014] Linksys MX4200 - Improper Verification of Source of a Communication Channel](https://seclists.org/fulldisclosure/2026/Feb/19)
-- Tor Project blog
-  - [Keeping track of decisions using the ADR model](https://blog.torproject.org/tpa-adr/)
+- The Hacker News
+  - [Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens](https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html)
+  - [Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers](https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html)
+  - [Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware](https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html)
+  - [Safe and Inclusive E‑Society: How Lithuania Is Bracing for AI‑Driven Cyber Fraud](https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html)
+  - [New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft](https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html)
+  - [New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released](https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html)
 - Security Weekly Podcast Network (Audio)
   - [Hardware-level zero trust, don't trust AI with your employees, and the news - J Wolfgang Goerlich, Matias Katz - ESW #446](http://sites.libsyn.com/18678/hardware-level-zero-trust-dont-trust-ai-with-your-employees-and-the-news-j-wolfgang-goerlich-matias-katz-esw-446)
