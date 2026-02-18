@@ -1,5 +1,7 @@
 # 每日安全资讯（2026-02-18）
 
+- Recent Commits to cve:main
+  - [Update Tue Feb 17 11:27:36 UTC 2026](https://github.com/trickest/cve/commit/458d954222d5c933468dcb6e5b0944b678c4c748)
 - InfoSec Write-ups - Medium
   - [Stop Trusting req.body: How I Broke an Express + MongoDB App with NoSQL Injection](https://infosecwriteups.com/stop-trusting-req-body-how-i-broke-an-express-mongodb-app-with-nosql-injection-ba92208ebe53?source=rss----7b722bfd1b8d---4)
   - [The Database Was Sold Online. but the Vulnerability Was Still Open](https://infosecwriteups.com/the-database-was-sold-online-but-the-vulnerability-was-still-open-57c386c3404b?source=rss----7b722bfd1b8d---4)
@@ -8,48 +10,42 @@
   - [THM — Hidden Deep In My Heart](https://infosecwriteups.com/thm-hidden-deep-in-my-heart-e33607e7fc16?source=rss----7b722bfd1b8d---4)
   - [OWASP Top 10 2025: Design Flaws | TryHackMe](https://infosecwriteups.com/owasp-top-10-2025-design-flaws-tryhackme-399969081f16?source=rss----7b722bfd1b8d---4)
   - [Breaking Tenant Isolation: Critical Cross-Tenant Data Access in Stripo’s AI Hub Campaign](https://infosecwriteups.com/breaking-tenant-isolation-critical-cross-tenant-data-access-in-stripos-ai-hub-campaign-ef9d69378314?source=rss----7b722bfd1b8d---4)
-- Recent Commits to cve:main
-  - [Update Tue Feb 17 11:27:36 UTC 2026](https://github.com/trickest/cve/commit/458d954222d5c933468dcb6e5b0944b678c4c748)
-- Microsoft Security Blog
-  - [Unify now or pay later: New research exposes the operational cost of a fragmented SOC](https://www.microsoft.com/en-us/security/blog/2026/02/17/unify-now-or-pay-later-new-research-exposes-the-operational-cost-of-a-fragmented-soc/)
 - SecWiki News
   - [SecWiki News 2026-02-17 Review](http://www.sec-wiki.com/?2026-02-17)
+- Microsoft Security Blog
+  - [Unify now or pay later: New research exposes the operational cost of a fragmented SOC](https://www.microsoft.com/en-us/security/blog/2026/02/17/unify-now-or-pay-later-new-research-exposes-the-operational-cost-of-a-fragmented-soc/)
 - Insinuator.net
   - [Vulnerability Disclosure: JWT Authentication Bypass in OpenID Connect Authenticator for Tomcat](https://insinuator.net/2026/02/jwt-authentication-bypass-in-openid-connect-authenticator-for-tomcat/)
-- Hacking Dream
-  - [Windows Event Log Analysis - Investigating Kerberos & AD Attacks](https://www.hackingdream.net/2026/02/windows-event-log-analysis-investigating-kerberos-ad-attacks.html)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [The Database Was Sold Online. but the Vulnerability Was Still Open](https://infosecwriteups.com/the-database-was-sold-online-but-the-vulnerability-was-still-open-57c386c3404b?source=rss----7b722bfd1b8d--bug_bounty)
   - [How I Escalated Privileges from “User” to “Admin”](https://infosecwriteups.com/how-i-escalated-privileges-from-user-to-admin-0e6aa72274fc?source=rss----7b722bfd1b8d--bug_bounty)
   - [Breaking Tenant Isolation: Critical Cross-Tenant Data Access in Stripo’s AI Hub Campaign](https://infosecwriteups.com/breaking-tenant-isolation-critical-cross-tenant-data-access-in-stripos-ai-hub-campaign-ef9d69378314?source=rss----7b722bfd1b8d--bug_bounty)
+- Securelist
+  - [Divide and conquer: how the new Keenadu backdoor exposed links between major Android botnets](https://securelist.com/keenadu-android-backdoor/118913/)
+- Hacking Dream
+  - [Windows Event Log Analysis - Investigating Kerberos & AD Attacks](https://www.hackingdream.net/2026/02/windows-event-log-analysis-investigating-kerberos-ad-attacks.html)
 - Reverse Engineering
   - [I built an autonomous AI reverse engineering agent (8,012 / 8,200 GTA SA functions reversed)](https://www.reddit.com/r/ReverseEngineering/comments/1r7gfeg/i_built_an_autonomous_ai_reverse_engineering/)
   - [GitHub - xKiian/datadome-vm: Reverse engineering the new Datadome VM 🔥](https://www.reddit.com/r/ReverseEngineering/comments/1r7cquc/github_xkiiandatadomevm_reverse_engineering_the/)
   - [Web Reverse Engineering streams](https://www.reddit.com/r/ReverseEngineering/comments/1r75rlr/web_reverse_engineering_streams/)
   - [Exploiting Reversing (ER) series | Article 06 | A Deep Dive Into Exploiting a Minifilter Driver (N-day) | Extended Version](https://www.reddit.com/r/ReverseEngineering/comments/1r6r0kx/exploiting_reversing_er_series_article_06_a_deep/)
   - [[Update] lcsajdump v1.1.0: Bad bytes ruining your ROP chain? Now supports Address Grouping/Deduplication](https://www.reddit.com/r/ReverseEngineering/comments/1r6zmli/update_lcsajdump_v110_bad_bytes_ruining_your_rop/)
+- SentinelOne
+  - [Shadow Agents: How SentinelOne Secures the AI Tools That Act Like Users](https://www.sentinelone.com/blog/how-sentinelone-secures-the-ai-tools-that-act-like-users/)
 - Malwarebytes
   - [Chrome &#8220;preloading&#8221; could be leaking your data and causing problems in Browser Guard](https://www.malwarebytes.com/blog/product/2026/02/chrome-preloading-could-be-leaking-your-data-and-causing-problems-in-browser-guard)
   - [Scam Guard for desktop: A second set of eyes for suspicious moments](https://www.malwarebytes.com/blog/product/2026/02/scam-guard-for-desktop-a-second-set-of-eyes-for-suspicious-moments)
   - [Update Chrome now: Zero-day bug allows code execution via malicious webpages](https://www.malwarebytes.com/blog/news/2026/02/update-chrome-now-zero-day-bug-allows-code-execution-via-malicious-webpages)
   - [Hobby coder accidentally creates vacuum robot army](https://www.malwarebytes.com/blog/news/2026/02/hobby-coder-accidentally-creates-vacuum-robot-army)
-- Securelist
-  - [Divide and conquer: how the new Keenadu backdoor exposed links between major Android botnets](https://securelist.com/keenadu-android-backdoor/118913/)
-- SentinelOne
-  - [Shadow Agents: How SentinelOne Secures the AI Tools That Act Like Users](https://www.sentinelone.com/blog/how-sentinelone-secures-the-ai-tools-that-act-like-users/)
-- Security Blog | Praetorian
-  - [MCP Server Security: The Hidden AI Attack Surface](https://www.praetorian.com/blog/mcp-server-security-the-hidden-ai-attack-surface/)
 - Wallarm
   - [Inside Modern API Attacks: What We Learn from the 2026 API ThreatStats Report](https://lab.wallarm.com/inside-modern-api-attacks-what-we-learn-from-the-2026-api-threatstats-report/)
+- Security Blog | Praetorian
+  - [MCP Server Security: The Hidden AI Attack Surface](https://www.praetorian.com/blog/mcp-server-security-the-hidden-ai-attack-surface/)
 - 奇客Solidot–传递最新科技情报
   - [虚假医疗信息的主要受众是老年人](https://www.solidot.org/story?sid=83574)
   - [希捷和西部数据证实其 2026 年硬盘产能已售罄](https://www.solidot.org/story?sid=83573)
   - [内存价格飙升推动二手笔记本销量上涨](https://www.solidot.org/story?sid=83572)
   - [切尔诺贝利工人后代的 DNA 突变](https://www.solidot.org/story?sid=83571)
-- rtl-sdr.com
-  - [Khanfar Software: Analog Radio Hunter](https://www.rtl-sdr.com/khanfar-software-analog-radio-hunter/)
-  - [Iridium-Sniffer: A Standalone Iridium Satellite Burst Detector and Demodulator](https://www.rtl-sdr.com/iridium-sniffer-a-standalone-iridium-satellite-burst-detector-and-demodulator/)
-  - [xSDR Crowdfunding Campaign Now Live](https://www.rtl-sdr.com/xsdr-crowdfunding-campaign-now-live/)
 - 安全分析与研究
   - [红队最新CS免杀木马样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495719&idx=1&sn=bb298e9a366dc740304c1a591b25bad3)
 - 锦行科技
@@ -65,10 +61,10 @@
   - [【情报】美国海军现役舰队约三分之一已集结在中东-要开打了吗？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154389&idx=2&sn=bc4e3f5a931d8756c046a139cd21ea81)
   - [【时政】AI讨论总台春晚版权保护声明](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154366&idx=1&sn=e7ec8f1950e41469af75529c6279321a)
   - [【时政】随着住房负担能力危机加剧，工薪阶层感受不到情人节的甜蜜](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154366&idx=2&sn=3c3bda457038ccec6343881ab8b10158)
-- NOVASEC
-  - [NOVASEC给大家拜年了!!!](https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490823&idx=1&sn=dd4d1de6d33ff4b2265d500a17de3f78)
 - 中国信息安全
   - [新年启新程 马到必成功](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259415&idx=1&sn=dfa2b89387aa970b6c69cb9a7b0b0d5a)
+- NOVASEC
+  - [NOVASEC给大家拜年了!!!](https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490823&idx=1&sn=dd4d1de6d33ff4b2265d500a17de3f78)
 - 火绒安全
   - [新春喜乐至 护网守平安](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530711&idx=1&sn=096ea8c17c02af86050eb073d18e8e23)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530711&idx=2&sn=8679b2d262e4381d8768a83ad646a1b5)
@@ -76,22 +72,32 @@
   - [对话任永亮：有 6000 万用户的测测，为什么要做一个机器人？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099385&idx=1&sn=c06256a22f0710bc0ac9e80cb90319a3)
   - [「机器人春晚」的 B 面：我们在欢笑中，接受了新型的人机关系](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099356&idx=1&sn=bad2851e3ddc61fb54cdb3e27fc1e991)
   - [阿里发布千问 3.5；宇树春晚武术表演刷新多项纪录；内存太贵，索尼将推迟发售下一代 PS 游戏机 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099310&idx=1&sn=2df4a88e8174c986d6540964deabe240)
-- 情报分析师
-  - [开源情报如何有力补充传统秘密情报](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566774&idx=1&sn=d82f07dec1d24588cda9796309207e36)
-  - [如何每天将开源情报纳入情报收集计划](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566773&idx=1&sn=05d01a10a30aabf0cd370ef97f418cc8)
 - 吴鲁加
   - [小而美，难，也不难](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485889&idx=1&sn=d6253531db975c532d712eaa933ad88e)
-- 360数字安全
-  - [大年初一 | 一马当先，“午”福临门](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585001&idx=1&sn=6158f74ac13dbd14b25d6f15c30ef7e3)
-- 威胁猎人Threat Hunter
-  - [骏马扬蹄奔新程，情报护航步步稳](https://mp.weixin.qq.com/s?__biz=MzI3NDY3NDUxNg==&mid=2247502797&idx=1&sn=edc302b4dd72aef38cd9a224ad60fc6b)
+- TrustedSec
+  - [Updated GSA Contractor CUI Protection Requirements](https://trustedsec.com/blog/updated-gsa-contractor-cui-protection-requirements)
 - IT Service Management News
   - [I maschi possono fare tutto (Febbraio 2026)](http://blog.cesaregallotti.it/2026/02/i-maschi-possono-fare-tutto-febbraio.html)
   - [ENISA EU ICT Supply Chain Security Toolbox](http://blog.cesaregallotti.it/2026/02/enisa-eu-ict-supply-chain-security.html)
+- Arturo Di Corinto
+  - [DIGITAL REPATRIATON](https://dicorinto.it/formazione/digital-repatriaton/)
+- 威胁猎人Threat Hunter
+  - [骏马扬蹄奔新程，情报护航步步稳](https://mp.weixin.qq.com/s?__biz=MzI3NDY3NDUxNg==&mid=2247502797&idx=1&sn=edc302b4dd72aef38cd9a224ad60fc6b)
+- Microsoft Security Blog
+  - [Unify now or pay later: New research exposes the operational cost of a fragmented SOC](https://www.microsoft.com/en-us/security/blog/2026/02/17/unify-now-or-pay-later-new-research-exposes-the-operational-cost-of-a-fragmented-soc/)
+- 情报分析师
+  - [开源情报如何有力补充传统秘密情报](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566774&idx=1&sn=d82f07dec1d24588cda9796309207e36)
+  - [如何每天将开源情报纳入情报收集计划](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566773&idx=1&sn=05d01a10a30aabf0cd370ef97f418cc8)
+- 360数字安全
+  - [大年初一 | 一马当先，“午”福临门](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585001&idx=1&sn=6158f74ac13dbd14b25d6f15c30ef7e3)
 - DARKNAVY
   - [当 AI 助手成为黑客攻击链的一环｜豆包手机安全分析](https://mp.weixin.qq.com/s?__biz=MzkyMjM5MTk3NQ==&mid=2247497826&idx=1&sn=88abb72a17195a537f2473dfcba5017a)
-- 看雪学苑
-  - [2026新春致谢 | 礼承厚意，马跃新程共青云（留言点赞送新春礼盒）](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611116&idx=1&sn=f1633e927af2bef9877647a7d917e099)
+- Securityinfo.it
+  - [Il malware che ruba password e ambienti delle IA locali](https://www.securityinfo.it/2026/02/17/il-malware-che-ruba-password-e-ambienti-delle-ia-locali/?utm_source=rss&utm_medium=rss&utm_campaign=il-malware-che-ruba-password-e-ambienti-delle-ia-locali)
+- ICT Security Magazine
+  - [Kill Switch Microsoft-ICC: quando la dipendenza tecnologica diventa un’arma geopolitica](https://www.ictsecuritymagazine.com/notizie/kill-switch/)
+  - [EDR killer BYOVD: il ransomware che spegne le difese endpoint](https://www.ictsecuritymagazine.com/cyber-crime/edr-killer-byovd-endpoint/)
+  - [L’evoluzione del SOC: dalla quinta generazione all’era dell’Intelligenza Artificiale](https://www.ictsecuritymagazine.com/articoli/evoluzione-soc/)
 - Over Security - Cybersecurity news aggregator
   - [Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites](https://www.bleepingcomputer.com/news/legal/spain-orders-nordvpn-protonvpn-to-block-laliga-piracy-sites/)
   - [Spain orders NordVPN and ProtonVPN to block LaLiga stream piracy](https://www.bleepingcomputer.com/news/legal/spain-orders-nordvpn-and-protonvpn-to-block-laliga-stream-piracy/)
@@ -116,30 +122,49 @@
   - [Analisi di un C2 per OSX](https://roccosicilia.com/2026/02/17/analisi-di-un-c2-per-osx/)
   - [Poland arrests suspect linked to Phobos ransomware operation](https://www.bleepingcomputer.com/news/security/poland-arrests-suspect-linked-to-phobos-ransomware-operation/)
   - [LATAM Businesses Hit by XWorm via Fake Financial Receipts: Full Campaign Analysis](https://any.run/cybersecurity-blog/xworm-latam-campaign/)
-  - [Ireland Opens GDPR Probe Into Grok’s AI-Generated Deepfakes of Children](https://thecyberexpress.com/grok-ai-generated-deepfakes-of-children/)
-- 吾爱破解论坛
-  - [【2026春节】解题领红包活动开始喽，解出就送论坛币！](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143650&idx=1&sn=a6a1625933aeca940669208bdf065f42)
-- 悬镜安全
-  - [大年初一，拜大年！](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647798152&idx=1&sn=cbdcd9854dbd6b27d32d08d9f3177aea)
-- TrustedSec
-  - [Updated GSA Contractor CUI Protection Requirements](https://trustedsec.com/blog/updated-gsa-contractor-cui-protection-requirements)
-- Arturo Di Corinto
-  - [DIGITAL REPATRIATON](https://dicorinto.it/formazione/digital-repatriaton/)
-- Securityinfo.it
-  - [Il malware che ruba password e ambienti delle IA locali](https://www.securityinfo.it/2026/02/17/il-malware-che-ruba-password-e-ambienti-delle-ia-locali/?utm_source=rss&utm_medium=rss&utm_campaign=il-malware-che-ruba-password-e-ambienti-delle-ia-locali)
-- Troy Hunt's Blog
-  - [Weekly Update 491](https://www.troyhunt.com/weekly-update-491/)
 - Have I Been Pwned latest breaches
   - [Canada Goose - 581,877 breached accounts](https://haveibeenpwned.com/Breach/CanadaGoose)
+- 悬镜安全
+  - [大年初一，拜大年！](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647798152&idx=1&sn=cbdcd9854dbd6b27d32d08d9f3177aea)
+- 看雪学苑
+  - [2026新春致谢 | 礼承厚意，马跃新程共青云（留言点赞送新春礼盒）](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611116&idx=1&sn=f1633e927af2bef9877647a7d917e099)
 - SANS Internet Storm Center, InfoCON: green
   - [Fake Incident Report Used in Phishing Campaign, (Tue, Feb 17th)](https://isc.sans.edu/diary/rss/32722)
   - [ISC Stormcast For Tuesday, February 17th, 2026 https://isc.sans.edu/podcastdetail/9812, (Tue, Feb 17th)](https://isc.sans.edu/diary/rss/32720)
-- Microsoft Security Blog
-  - [Unify now or pay later: New research exposes the operational cost of a fragmented SOC](https://www.microsoft.com/en-us/security/blog/2026/02/17/unify-now-or-pay-later-new-research-exposes-the-operational-cost-of-a-fragmented-soc/)
-- ICT Security Magazine
-  - [Kill Switch Microsoft-ICC: quando la dipendenza tecnologica diventa un’arma geopolitica](https://www.ictsecuritymagazine.com/notizie/kill-switch/)
-  - [EDR killer BYOVD: il ransomware che spegne le difese endpoint](https://www.ictsecuritymagazine.com/cyber-crime/edr-killer-byovd-endpoint/)
-  - [L’evoluzione del SOC: dalla quinta generazione all’era dell’Intelligenza Artificiale](https://www.ictsecuritymagazine.com/articoli/evoluzione-soc/)
+- Schneier on Security
+  - [Side-Channel Attacks Against LLMs](https://www.schneier.com/blog/archives/2026/02/side-channel-attacks-against-llms.html)
+- 吾爱破解论坛
+  - [【2026春节】解题领红包活动开始喽，解出就送论坛币！](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143650&idx=1&sn=a6a1625933aeca940669208bdf065f42)
+- Troy Hunt's Blog
+  - [Weekly Update 491](https://www.troyhunt.com/weekly-update-491/)
+- Security Affairs
+  - [SmartLoader hackers clone Oura MCP project to spread StealC malware](https://securityaffairs.com/188135/ai/smartloader-hackers-clone-oura-mcp-project-to-spread-stealc-malware.html)
+  - [Polish cybercrime Police arrest man linked to Phobos ransomware operation](https://securityaffairs.com/188128/cyber-crime/polish-cybercrime-police-arrest-man-linked-to-phobos-ransomware-operation.html)
+  - [Poorly crafted phishing campaign leverages bogus security incident report](https://securityaffairs.com/188116/security/poorly-crafted-phishing-campaign-leverages-bogus-security-incident-report.html)
+  - [South Korea slaps $25M fine on Dior, Louis Vuitton, Tiffany over Salesforce breach](https://securityaffairs.com/188064/hacking/south-korea-slaps-25m-fine-on-dior-louis-vuitton-tiffany-over-salesforce-breach.html)
+  - [Encrypted RCS messaging support lands in Apple’s iOS 26.4 developer build](https://securityaffairs.com/188105/security/encrypted-rcs-messaging-support-lands-in-apples-ios-26-4-developer-build.html)
+- Deep Web
+  - [I need to find this web link](https://www.reddit.com/r/deepweb/comments/1r6ymxt/i_need_to_find_this_web_link/)
+- Tor Project blog
+  - [New Alpha Release: Tor Browser 16.0a3](https://blog.torproject.org/new-alpha-release-tor-browser-160a3/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [unable to perform remoce code execution](https://www.reddit.com/r/netsecstudents/comments/1r7g93x/unable_to_perform_remoce_code_execution/)
+  - [A good LLM way to learn netsec in Feb 2026?](https://www.reddit.com/r/netsecstudents/comments/1r7do6i/a_good_llm_way_to_learn_netsec_in_feb_2026/)
+  - [DISTRIBUTED SYSTEMS DOING DISTRIBUTED THINGS](https://www.reddit.com/r/netsecstudents/comments/1r7ceem/distributed_systems_doing_distributed_things/)
+- Deeplinks
+  - [San Jose Can Protect Immigrants by Ending Flock Surveillance System](https://www.eff.org/deeplinks/2026/02/op-ed-san-jose-can-protect-immigrants-ending-flock-surveillance-system)
+  - [New Report Helps Journalists Dig Deeper Into Police Surveillance Technology](https://www.eff.org/press/releases/new-report-helps-journalists-dig-deeper-police-surveillance-technology)
+- Your Open Hacker Community
+  - [How can it be hacked?](https://www.reddit.com/r/HowToHack/comments/1r7bnhb/how_can_it_be_hacked/)
+  - [How do people hack databases?](https://www.reddit.com/r/HowToHack/comments/1r73ahp/how_do_people_hack_databases/)
+  - [Camera access?](https://www.reddit.com/r/HowToHack/comments/1r6tz9w/camera_access/)
+- Computer Forensics
+  - [Getting into computer forensics question](https://www.reddit.com/r/computerforensics/comments/1r7ikay/getting_into_computer_forensics_question/)
+  - [The Key to Switching Apps (A Registry-based Execution Artifact)](https://www.reddit.com/r/computerforensics/comments/1r760ey/the_key_to_switching_apps_a_registrybased/)
+  - [Experience with Axiom Cloud](https://www.reddit.com/r/computerforensics/comments/1r7bq5y/experience_with_axiom_cloud/)
+  - [axim or x ways ?](https://www.reddit.com/r/computerforensics/comments/1r75dnd/axim_or_x_ways/)
+- T00ls安全
+  - [🏠 T00ls祝大家 阖家团圆 💞-附红包封面](https://mp.weixin.qq.com/s?__biz=Mzg3NzYzODU5NQ==&mid=2247485739&idx=1&sn=fdd304d2e32f983c293ac74662377605)
 - The Hacker News
   - [Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster](https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html)
   - [Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies](https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html)
@@ -148,43 +173,9 @@
   - [My Day Getting My Hands Dirty with an NDR System](https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html)
   - [Microsoft Finds “Summarize with AI” Prompts Manipulating Chatbot Recommendations](https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html)
   - [Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta](https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html)
-- Deeplinks
-  - [San Jose Can Protect Immigrants by Ending Flock Surveillance System](https://www.eff.org/deeplinks/2026/02/op-ed-san-jose-can-protect-immigrants-ending-flock-surveillance-system)
-  - [New Report Helps Journalists Dig Deeper Into Police Surveillance Technology](https://www.eff.org/press/releases/new-report-helps-journalists-dig-deeper-police-surveillance-technology)
-- netsecstudents: Subreddit for students studying Network Security and its related subjects
-  - [unable to perform remoce code execution](https://www.reddit.com/r/netsecstudents/comments/1r7g93x/unable_to_perform_remoce_code_execution/)
-  - [A good LLM way to learn netsec in Feb 2026?](https://www.reddit.com/r/netsecstudents/comments/1r7do6i/a_good_llm_way_to_learn_netsec_in_feb_2026/)
-  - [DISTRIBUTED SYSTEMS DOING DISTRIBUTED THINGS](https://www.reddit.com/r/netsecstudents/comments/1r7ceem/distributed_systems_doing_distributed_things/)
-- Tor Project blog
-  - [New Alpha Release: Tor Browser 16.0a3](https://blog.torproject.org/new-alpha-release-tor-browser-160a3/)
-- Deep Web
-  - [I need to find this web link](https://www.reddit.com/r/deepweb/comments/1r6ymxt/i_need_to_find_this_web_link/)
-- Security Affairs
-  - [SmartLoader hackers clone Oura MCP project to spread StealC malware](https://securityaffairs.com/188135/ai/smartloader-hackers-clone-oura-mcp-project-to-spread-stealc-malware.html)
-  - [Polish cybercrime Police arrest man linked to Phobos ransomware operation](https://securityaffairs.com/188128/cyber-crime/polish-cybercrime-police-arrest-man-linked-to-phobos-ransomware-operation.html)
-  - [Poorly crafted phishing campaign leverages bogus security incident report](https://securityaffairs.com/188116/security/poorly-crafted-phishing-campaign-leverages-bogus-security-incident-report.html)
-  - [South Korea slaps $25M fine on Dior, Louis Vuitton, Tiffany over Salesforce breach](https://securityaffairs.com/188064/hacking/south-korea-slaps-25m-fine-on-dior-louis-vuitton-tiffany-over-salesforce-breach.html)
-  - [Encrypted RCS messaging support lands in Apple’s iOS 26.4 developer build](https://securityaffairs.com/188105/security/encrypted-rcs-messaging-support-lands-in-apples-ios-26-4-developer-build.html)
-  - [Hackers steal OpenClaw configuration in emerging AI agent threat](https://securityaffairs.com/188097/malware/hackers-steal-openclaw-configuration-in-emerging-ai-agent-threat.html)
 - Technical Information Security Content & Discussion
   - [Leaking secrets from the claud: AI coding tools are leaking secrets via configuration directories](https://www.reddit.com/r/netsec/comments/1r7j1zm/leaking_secrets_from_the_claud_ai_coding_tools/)
   - [Kraken Darknet Access via Clearnet Gateways – some observations](https://www.reddit.com/r/netsec/comments/1r7jdac/kraken_darknet_access_via_clearnet_gateways_some/)
   - [Log Poisoning in OpenClaw](https://www.reddit.com/r/netsec/comments/1r74ifj/log_poisoning_in_openclaw/)
   - [Prompt Injection Standardization: Text Techniques vs Intent](https://www.reddit.com/r/netsec/comments/1r745t9/prompt_injection_standardization_text_techniques/)
   - [Almost Impossible: Java Deserialization Through Broken Crypto in OpenText Directory Services](https://www.reddit.com/r/netsec/comments/1r6r7no/almost_impossible_java_deserialization_through/)
-- Schneier on Security
-  - [Side-Channel Attacks Against LLMs](https://www.schneier.com/blog/archives/2026/02/side-channel-attacks-against-llms.html)
-- Your Open Hacker Community
-  - [How can it be hacked?](https://www.reddit.com/r/HowToHack/comments/1r7bnhb/how_can_it_be_hacked/)
-  - [How do people hack databases?](https://www.reddit.com/r/HowToHack/comments/1r73ahp/how_do_people_hack_databases/)
-  - [Camera access?](https://www.reddit.com/r/HowToHack/comments/1r6tz9w/camera_access/)
-- Computer Forensics
-  - [Getting into computer forensics question](https://www.reddit.com/r/computerforensics/comments/1r7ikay/getting_into_computer_forensics_question/)
-  - [The Key to Switching Apps (A Registry-based Execution Artifact)](https://www.reddit.com/r/computerforensics/comments/1r760ey/the_key_to_switching_apps_a_registrybased/)
-  - [axim or x ways ?](https://www.reddit.com/r/computerforensics/comments/1r75dnd/axim_or_x_ways/)
-  - [Experience with Axiom Cloud](https://www.reddit.com/r/computerforensics/comments/1r7bq5y/experience_with_axiom_cloud/)
-- T00ls安全
-  - [🏠 T00ls祝大家 阖家团圆 💞-附红包封面](https://mp.weixin.qq.com/s?__biz=Mzg3NzYzODU5NQ==&mid=2247485739&idx=1&sn=fdd304d2e32f983c293ac74662377605)
-- Security Weekly Podcast Network (Audio)
-  - [Meatbags, AI Soul Harvest, DNS, LastPass, GS7, OpenClaw, MYSQL, Aaran Leyland, & More - SWN #556](http://sites.libsyn.com/18678/meatbags-ai-soul-harvest-dns-lastpass-gs7-openclaw-mysql-aaran-leyland-more-swn-556)
-  - [Conducting Secure Code Analysis with LLMs - ASW #370](http://sites.libsyn.com/18678/conducting-secure-code-analysis-with-llms-asw-370)
