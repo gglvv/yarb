@@ -1,39 +1,41 @@
 # 每日安全资讯（2026-02-19）
 
+- SecWiki News
+  - [SecWiki News 2026-02-18 Review](http://www.sec-wiki.com/?2026-02-18)
+- Der Flounder
+  - [Using Self Service+ as a privilege elevation tool](https://derflounder.wordpress.com/2026/02/18/using-self-service-as-a-privilege-elevation-tool/)
 - InfoSec Write-ups - Medium
   - [TryHackMe Relevant Walkthrough: From Anonymous Share to SYSTEM](https://infosecwriteups.com/tryhackme-relevant-walkthrough-from-anonymous-share-to-system-140b3b74a15d?source=rss----7b722bfd1b8d---4)
   - [Exam Review: Certified AI/ML Pentester (C-AI/MLPen)](https://infosecwriteups.com/exam-review-certified-ai-ml-pentester-c-ai-mlpen-d991a7704872?source=rss----7b722bfd1b8d---4)
   - [Unauthenticated Image Access and EXIF Location Leak, Easy P4, you can find under 2 mins](https://infosecwriteups.com/unauthenticated-image-access-and-exif-location-leak-easy-p4-you-can-find-under-2-mins-88e5a9064a91?source=rss----7b722bfd1b8d---4)
-- Der Flounder
-  - [Using Self Service+ as a privilege elevation tool](https://derflounder.wordpress.com/2026/02/18/using-self-service-as-a-privilege-elevation-tool/)
-- 博客
-  - [jwks](https://dyrnq.com/jwks/)
 - Recent Commits to cve:main
   - [Update Wed Feb 18 11:30:51 UTC 2026](https://github.com/trickest/cve/commit/f6cfd714c9d620cc12230203fff411b26b0aae5b)
 - ElcomSoft blog
   - [Forensic Analysis of Windows 10 and 11 Event Logs](https://blog.elcomsoft.com/2026/02/forensic-analysis-of-windows-10-and-11-event-logs/)
-- SecWiki News
-  - [SecWiki News 2026-02-18 Review](http://www.sec-wiki.com/?2026-02-18)
 - Cerbero Blog
   - [Memory Analysis Package 0.9](https://blog.cerbero.io/memory-analysis-package-0-9/)
-- Horizon3.ai
-  - [CVE-2026-1603](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-1603/)
+- 博客
+  - [jwks](https://dyrnq.com/jwks/)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [Unauthenticated Image Access and EXIF Location Leak, Easy P4, you can find under 2 mins](https://infosecwriteups.com/unauthenticated-image-access-and-exif-location-leak-easy-p4-you-can-find-under-2-mins-88e5a9064a91?source=rss----7b722bfd1b8d--bug_bounty)
+- Horizon3.ai
+  - [CVE-2026-1603](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-1603/)
+- The Trail of Bits Blog
+  - [Carelessness versus craftsmanship in cryptography](https://blog.trailofbits.com/2026/02/18/carelessness-versus-craftsmanship-in-cryptography/)
 - SentinelOne
   - [OneClaw: Discovery and Observability for the Agentic Era](https://www.sentinelone.com/blog/oneclaw-discovery-and-observability-for-the-agentic-era/)
 - Malwarebytes
   - [Betterment data breach might be worse than we thought](https://www.malwarebytes.com/blog/news/2026/02/betterment-data-breach-might-be-worse-than-we-thought)
   - [Job scam uses fake Google Forms site to harvest Google logins](https://www.malwarebytes.com/blog/scams/2026/02/job-scam-uses-fake-google-forms-site-to-harvest-google-logins)
   - [Scammers use fake “Gemini” AI chatbot to sell fake “Google Coin”](https://www.malwarebytes.com/blog/ai/2026/02/scammers-use-fake-gemini-ai-chatbot-to-sell-fake-google-coin)
-- The Trail of Bits Blog
-  - [Carelessness versus craftsmanship in cryptography](https://blog.trailofbits.com/2026/02/18/carelessness-versus-craftsmanship-in-cryptography/)
 - Reverse Engineering
   - [Mac Malware and You: An Introduction to Dylib Injection and Function Hooking](https://www.reddit.com/r/ReverseEngineering/comments/1r8impu/mac_malware_and_you_an_introduction_to_dylib/)
   - [Enhanced Android dynamic lib injector](https://www.reddit.com/r/ReverseEngineering/comments/1r7za46/enhanced_android_dynamic_lib_injector/)
   - [Android 30 different SSL pinning Bypass Frida](https://www.reddit.com/r/ReverseEngineering/comments/1r7zg6q/android_30_different_ssl_pinning_bypass_frida/)
 - Wallarm
   - [From Shadow APIs to Shadow AI: How the API Threat Model Is Expanding Faster Than Most Defenses](https://lab.wallarm.com/shadow-ai-api-security-risk/)
+- Checkmarx
+  - [Securing Code No One Actually Wrote](https://checkmarx.com/ai-llm-tools-in-application-security/securing-code-no-one-actually-wrote-2/)
 - Shostack & Friends Blog
   - [Vulnerability Finding: An Inflection Point](https://shostack.org/blog/vuln-finding-inflection/)
 - Black Hills Information Security, Inc.
@@ -46,19 +48,26 @@
   - [伪装成某端口排查工具红队样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495716&idx=1&sn=5707675235696199315a57ef787ec71a)
 - 锦行科技
   - [初二 · 归宁 | 携福，回门去](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494758&idx=1&sn=9e3243fb4f49b1c7c669423f22a526d4)
-- Checkmarx
-  - [Securing Code No One Actually Wrote](https://checkmarx.com/ai-llm-tools-in-application-security/securing-code-no-one-actually-wrote-2/)
 - 黑鸟
   - [日程邀请类钓鱼邮件攻击频发](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185358&idx=1&sn=43d0be448c377b82dd631b16e7b6cf82)
-- 火绒安全
-  - [好雨知时润九州 火绒相伴护无忧](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530724&idx=1&sn=67ea4ed3c4ccf3f63266f8e97c57c6f6)
-  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530724&idx=2&sn=43db7fb641ec88ca64f216e3f5a69b79)
 - 极客公园
   - [春晚之后，中国智造的「未来」选择了追觅](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099523&idx=1&sn=0b4afbb48880079bcd4cf3c6f84588f7)
   - [春晚机器人从跳舞到干活，这家公司把马斯克吹过的牛实现了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099508&idx=1&sn=e24f021a624c445f699ddeb6d732c8ef)
   - [王兴兴春晚后接受采访：人形机器人进入大众市场还要更多时间；Meta 眼镜年出货量突破 700 万；苹果多终端新增视频播客功能 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099398&idx=1&sn=798801a8070c5050906b4326bed69f95)
 - M01N Team
   - [一🐎当先，驰骋千里](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247494692&idx=1&sn=c70a376b709a2013d9eda472bbf1175b)
+- 火绒安全
+  - [好雨知时润九州 火绒相伴护无忧](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530724&idx=1&sn=67ea4ed3c4ccf3f63266f8e97c57c6f6)
+  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530724&idx=2&sn=43db7fb641ec88ca64f216e3f5a69b79)
+- ICT Security Magazine
+  - [Zero-day febbraio 2026: la crisi della patch management che ha rotto il modello patch-and-pray](https://www.ictsecuritymagazine.com/notizie/zero-day-2026-patch-management/)
+  - [La Belt and Road Initiative](https://www.ictsecuritymagazine.com/articoli/belt-and-road/)
+- Securityinfo.it
+  - [Davvero si può fare “jailbreak” a un caccia F-35?](https://www.securityinfo.it/2026/02/18/davvero-si-puo-fare-jailbreak-a-un-caccia-f-35/?utm_source=rss&utm_medium=rss&utm_campaign=davvero-si-puo-fare-jailbreak-a-un-caccia-f-35)
+- Have I Been Pwned latest breaches
+  - [Figure - 967,178 breached accounts](https://haveibeenpwned.com/Breach/Figure)
+- Javvad Malik
+  - [The Art of One-Upmanship](https://javvadmalik.com/2026/02/18/the-art-of-one-upmanship/)
 - Over Security - Cybersecurity news aggregator
   - [Hacking conference Def Con bans three people linked to Epstein](https://techcrunch.com/2026/02/18/hacking-conference-def-con-bans-three-people-linked-to-epstein/)
   - [Fed agencies ordered to patch Dell bug by Saturday after exploitation warning](https://therecord.media/fed-agencies-ordered-to-patch-dell-bug-after-exploitation-warning)
@@ -76,22 +85,14 @@
   - [Predator spyware used to infect phone belonging to Angolan journalist, report says](https://therecord.media/predator-spyware-used-to-infect-phone-angola-journalist)
   - [Data breach at fintech firm Figure affects nearly 1 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-figure-affects-nearly-1-million-accounts/)
   - [One Process, Every Metric: How Better Alert Enrichment Transforms SOC Performance](https://any.run/cybersecurity-blog/alert-enrichment-soc-performance/)
-- 迪哥讲事
-  - [几种绕过邮箱验证的实战技法](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499085&idx=1&sn=6cb18853b911fe1b578b3c0481fff6b7)
 - 360数字安全
   - [大年初二 | 马跃新程，福满“午”方](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585002&idx=1&sn=b5e5aed40f90db6e934350d40ba63431)
-- Securityinfo.it
-  - [Davvero si può fare “jailbreak” a un caccia F-35?](https://www.securityinfo.it/2026/02/18/davvero-si-puo-fare-jailbreak-a-un-caccia-f-35/?utm_source=rss&utm_medium=rss&utm_campaign=davvero-si-puo-fare-jailbreak-a-un-caccia-f-35)
+- Schneier on Security
+  - [AI Found Twelve New Vulnerabilities in OpenSSL](https://www.schneier.com/blog/archives/2026/02/ai-found-twelve-new-vulnerabilities-in-openssl.html)
+- 迪哥讲事
+  - [几种绕过邮箱验证的实战技法](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499085&idx=1&sn=6cb18853b911fe1b578b3c0481fff6b7)
 - NetSPI
   - [Ready for Red Teaming? How to Design Realistic, Intelligence-Driven Scenarios](https://www.netspi.com/blog/executive-blog/red-teaming/ready-for-red-teaming-how-to-design-realistic-intelligence-driven-scenarios/)
-- SANS Internet Storm Center, InfoCON: green
-  - [Tracking Malware Campaigns With Reused Material, (Wed, Feb 18th)](https://isc.sans.edu/diary/rss/32726)
-  - [ISC Stormcast For Wednesday, February 18th, 2026 https://isc.sans.edu/podcastdetail/9814, (Wed, Feb 18th)](https://isc.sans.edu/diary/rss/32724)
-- 安全行者老霍
-  - [Zen-AI-Pentest、Brutus、OpenClaw扫描器、Allama介绍](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485889&idx=1&sn=cd218e8262241dbd15ac6570d12f671b)
-- ICT Security Magazine
-  - [Zero-day febbraio 2026: la crisi della patch management che ha rotto il modello patch-and-pray](https://www.ictsecuritymagazine.com/notizie/zero-day-2026-patch-management/)
-  - [La Belt and Road Initiative](https://www.ictsecuritymagazine.com/articoli/belt-and-road/)
 - 吾爱破解论坛
   - [【2026春节】解题领红包活动开始喽，解出就送论坛币！
 
@@ -100,30 +101,43 @@
 ⏰ 第二题：Windows 初级题，今天 14:00 准时上线！题目超简单，哪怕你是逆向分析小白，也能借此机会入门尝试。让这次活动成为你技能提升的阶梯，边玩边学，收获满满！
 
 快来挑战吧，红包和技术双丰收！](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143652&idx=1&sn=4688bc9fe0df6670a0f04c4dd7f5c890)
+- 娜璋AI安全之家
+  - [2025年总结：微光如盏，谦以致远，万家灯火中的一小盏](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247502708&idx=1&sn=7783431eadfa44e0f2a518d049c6e28e)
+- 安全行者老霍
+  - [Zen-AI-Pentest、Brutus、OpenClaw扫描器、Allama介绍](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485889&idx=1&sn=cd218e8262241dbd15ac6570d12f671b)
+- SANS Internet Storm Center, InfoCON: green
+  - [Tracking Malware Campaigns With Reused Material, (Wed, Feb 18th)](https://isc.sans.edu/diary/rss/32726)
+  - [ISC Stormcast For Wednesday, February 18th, 2026 https://isc.sans.edu/podcastdetail/9814, (Wed, Feb 18th)](https://isc.sans.edu/diary/rss/32724)
 - Security Affairs
   - [French Ministry confirms data access to 1.2 Million bank accounts](https://securityaffairs.com/188200/hacking/french-ministry-confirms-data-access-to-1-2-million-bank-accounts.html)
   - [Notepad++ patches flaw used to hijack update system](https://securityaffairs.com/188192/hacking/notepad-patches-flaw-used-to-hijack-update-system.html)
   - [VS Code extensions with 125M+ installs expose users to cyberattacks](https://securityaffairs.com/188185/security/vs-code-extensions-with-125m-installs-expose-users-to-cyberattacks.html)
   - [China-linked APT weaponized Dell RecoverPoint zero-day since 2024](https://securityaffairs.com/188176/apt/china-linked-apt-weaponized-dell-recoverpoint-zero-day-since-2024.html)
   - [U.S. CISA adds Google Chromium CSS, Microsoft Windows, TeamT5 ThreatSonar Anti-Ransomware, and Zimbra flaws to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/188163/uncategorized/u-s-cisa-adds-google-chromium-css-microsoft-windows-teamt5-threatsonar-anti-ransomware-and-zimbra-flaws-to-its-known-exploited-vulnerabilities-catalog.html)
-- Schneier on Security
-  - [AI Found Twelve New Vulnerabilities in OpenSSL](https://www.schneier.com/blog/archives/2026/02/ai-found-twelve-new-vulnerabilities-in-openssl.html)
-- Deeplinks
-  - [EFF to Wisconsin Legislature: VPN Bans Are Still a Terrible Idea](https://www.eff.org/deeplinks/2026/02/eff-wisconsin-legislature-vpn-bans-are-still-terrible-idea)
+- Your Open Hacker Community
+  - [How to check where my phone number is currently active or linked to an account?](https://www.reddit.com/r/HowToHack/comments/1r7wc7p/how_to_check_where_my_phone_number_is_currently/)
 - Deep Web
   - [I built a Tor search engine focused on uptime, deduplication, and mirror stability, looking for feedback](https://www.reddit.com/r/deepweb/comments/1r7n92v/i_built_a_tor_search_engine_focused_on_uptime/)
-- Have I Been Pwned latest breaches
-  - [Figure - 967,178 breached accounts](https://haveibeenpwned.com/Breach/Figure)
+- Computer Forensics
+  - [GK Full File System and Symlinks](https://www.reddit.com/r/computerforensics/comments/1r8d6nn/gk_full_file_system_and_symlinks/)
+  - [Crow-Eye v0.7.1 is Here: Smarter Semantic Mapping & Sharper Identity Engines](https://www.reddit.com/r/computerforensics/comments/1r7t74p/croweye_v071_is_here_smarter_semantic_mapping/)
 - Technical Information Security Content & Discussion
   - [CRESCENTHARVEST: Iranian protestors and dissidents targeted in cyberespionage campaign](https://www.reddit.com/r/netsec/comments/1r89vac/crescentharvest_iranian_protestors_and_dissidents/)
 - Blackhat Library: Hacking techniques and research
   - [How to check where my phone number is currently active or linked to an account?](https://www.reddit.com/r/blackhat/comments/1r7wjhq/how_to_check_where_my_phone_number_is_currently/)
 - Social Engineering
   - [Fake confidence](https://www.reddit.com/r/SocialEngineering/comments/1r877qv/fake_confidence/)
-- Javvad Malik
-  - [The Art of One-Upmanship](https://javvadmalik.com/2026/02/18/the-art-of-one-upmanship/)
-- 娜璋AI安全之家
-  - [2025年总结：微光如盏，谦以致远，万家灯火中的一小盏](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247502708&idx=1&sn=7783431eadfa44e0f2a518d049c6e28e)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [Mosf integrated with AI](https://www.reddit.com/r/netsecstudents/comments/1r8193j/mosf_integrated_with_ai/)
+  - [Starting my journey into Pentesting – seeking feedback on my current roadmap](https://www.reddit.com/r/netsecstudents/comments/1r88uxr/starting_my_journey_into_pentesting_seeking/)
+  - [For those of you who tool SEC504, how much Linux and PS did you know in advance?](https://www.reddit.com/r/netsecstudents/comments/1r7pvqx/for_those_of_you_who_tool_sec504_how_much_linux/)
+- Deeplinks
+  - [EFF to Wisconsin Legislature: VPN Bans Are Still a Terrible Idea](https://www.eff.org/deeplinks/2026/02/eff-wisconsin-legislature-vpn-bans-are-still-terrible-idea)
+- GRAHAM CLULEY
+  - [Dutch police arrest man for “hacking” after accidentally sending him confidential files](https://www.bitdefender.com/en-us/blog/hotforsecurity/dutch-police-arrest-man-hacking-accidentally-sending-confidential-files)
+- Information Security
+  - [From IT Newbie to Okta Consultant: Prerequisite Knowledge, OEL, and Career Advice](https://www.reddit.com/r/Information_Security/comments/1r8546f/from_it_newbie_to_okta_consultant_prerequisite/)
+  - [Information security “The beginning”](https://www.reddit.com/r/Information_Security/comments/1r80a4m/information_security_the_beginning/)
 - T00ls安全
   - [🛡️ T00ls祝大家 岁岁平安 🍎](https://mp.weixin.qq.com/s?__biz=Mzg3NzYzODU5NQ==&mid=2247485686&idx=1&sn=6d26f408c622634e5917c2894f3bff8b)
 - The Hacker News
@@ -135,19 +149,5 @@
   - [3 Ways to Start Your Intelligent Workflow Program](https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html)
   - [Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware](https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html)
   - [CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update](https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html)
-- GRAHAM CLULEY
-  - [Dutch police arrest man for “hacking” after accidentally sending him confidential files](https://www.bitdefender.com/en-us/blog/hotforsecurity/dutch-police-arrest-man-hacking-accidentally-sending-confidential-files)
-- Your Open Hacker Community
-  - [How to check where my phone number is currently active or linked to an account?](https://www.reddit.com/r/HowToHack/comments/1r7wc7p/how_to_check_where_my_phone_number_is_currently/)
-- Computer Forensics
-  - [GK Full File System and Symlinks](https://www.reddit.com/r/computerforensics/comments/1r8d6nn/gk_full_file_system_and_symlinks/)
-  - [Crow-Eye v0.7.1 is Here: Smarter Semantic Mapping & Sharper Identity Engines](https://www.reddit.com/r/computerforensics/comments/1r7t74p/croweye_v071_is_here_smarter_semantic_mapping/)
-- netsecstudents: Subreddit for students studying Network Security and its related subjects
-  - [Mosf integrated with AI](https://www.reddit.com/r/netsecstudents/comments/1r8193j/mosf_integrated_with_ai/)
-  - [Starting my journey into Pentesting – seeking feedback on my current roadmap](https://www.reddit.com/r/netsecstudents/comments/1r88uxr/starting_my_journey_into_pentesting_seeking/)
-  - [For those of you who tool SEC504, how much Linux and PS did you know in advance?](https://www.reddit.com/r/netsecstudents/comments/1r7pvqx/for_those_of_you_who_tool_sec504_how_much_linux/)
-- Information Security
-  - [From IT Newbie to Okta Consultant: Prerequisite Knowledge, OEL, and Career Advice](https://www.reddit.com/r/Information_Security/comments/1r8546f/from_it_newbie_to_okta_consultant_prerequisite/)
-  - [Information security “The beginning”](https://www.reddit.com/r/Information_Security/comments/1r80a4m/information_security_the_beginning/)
 - Security Weekly Podcast Network (Audio)
   - [Security Money: The Index and NASDAQ Diverge - BSW #435](http://sites.libsyn.com/18678/security-money-the-index-and-nasdaq-diverge-bsw-435)
