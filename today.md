@@ -1,23 +1,17 @@
 # 每日安全资讯（2026-02-19）
 
-- SecWiki News
-  - [SecWiki News 2026-02-18 Review](http://www.sec-wiki.com/?2026-02-18)
 - Der Flounder
   - [Using Self Service+ as a privilege elevation tool](https://derflounder.wordpress.com/2026/02/18/using-self-service-as-a-privilege-elevation-tool/)
-- 博客
-  - [jwks](https://dyrnq.com/jwks/)
-- InfoSec Write-ups - Medium
-  - [TryHackMe Relevant Walkthrough: From Anonymous Share to SYSTEM](https://infosecwriteups.com/tryhackme-relevant-walkthrough-from-anonymous-share-to-system-140b3b74a15d?source=rss----7b722bfd1b8d---4)
-  - [Exam Review: Certified AI/ML Pentester (C-AI/MLPen)](https://infosecwriteups.com/exam-review-certified-ai-ml-pentester-c-ai-mlpen-d991a7704872?source=rss----7b722bfd1b8d---4)
-  - [Unauthenticated Image Access and EXIF Location Leak, Easy P4, you can find under 2 mins](https://infosecwriteups.com/unauthenticated-image-access-and-exif-location-leak-easy-p4-you-can-find-under-2-mins-88e5a9064a91?source=rss----7b722bfd1b8d---4)
-- ElcomSoft blog
-  - [Forensic Analysis of Windows 10 and 11 Event Logs](https://blog.elcomsoft.com/2026/02/forensic-analysis-of-windows-10-and-11-event-logs/)
+- SecWiki News
+  - [SecWiki News 2026-02-18 Review](http://www.sec-wiki.com/?2026-02-18)
 - Recent Commits to cve:main
   - [Update Wed Feb 18 11:30:51 UTC 2026](https://github.com/trickest/cve/commit/f6cfd714c9d620cc12230203fff411b26b0aae5b)
+- 博客
+  - [jwks](https://dyrnq.com/jwks/)
+- ElcomSoft blog
+  - [Forensic Analysis of Windows 10 and 11 Event Logs](https://blog.elcomsoft.com/2026/02/forensic-analysis-of-windows-10-and-11-event-logs/)
 - Cerbero Blog
   - [Memory Analysis Package 0.9](https://blog.cerbero.io/memory-analysis-package-0-9/)
-- Bug Bounty in InfoSec Write-ups on Medium
-  - [Unauthenticated Image Access and EXIF Location Leak, Easy P4, you can find under 2 mins](https://infosecwriteups.com/unauthenticated-image-access-and-exif-location-leak-easy-p4-you-can-find-under-2-mins-88e5a9064a91?source=rss----7b722bfd1b8d--bug_bounty)
 - Horizon3.ai
   - [CVE-2026-1603](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-1603/)
 - The Trail of Bits Blog
@@ -28,24 +22,24 @@
   - [Scammers use fake “Gemini” AI chatbot to sell fake “Google Coin”](https://www.malwarebytes.com/blog/ai/2026/02/scammers-use-fake-gemini-ai-chatbot-to-sell-fake-google-coin)
 - SentinelOne
   - [OneClaw: Discovery and Observability for the Agentic Era](https://www.sentinelone.com/blog/oneclaw-discovery-and-observability-for-the-agentic-era/)
-- Checkmarx
-  - [Securing Code No One Actually Wrote](https://checkmarx.com/ai-llm-tools-in-application-security/securing-code-no-one-actually-wrote-2/)
 - Wallarm
   - [From Shadow APIs to Shadow AI: How the API Threat Model Is Expanding Faster Than Most Defenses](https://lab.wallarm.com/shadow-ai-api-security-risk/)
+- Checkmarx
+  - [Securing Code No One Actually Wrote](https://checkmarx.com/ai-llm-tools-in-application-security/securing-code-no-one-actually-wrote-2/)
+- Black Hills Information Security, Inc.
+  - [OSINT: How to Find, Use, and Control Open-Source Intelligence](https://www.blackhillsinfosec.com/osint-how-to-find-use-and-control-open-source-intelligence/)
 - 奇客Solidot–传递最新科技情报
   - [加蓬屏蔽所有社交媒体](https://www.solidot.org/story?sid=83577)
   - [14 岁少年的折纸结构能承受自身万倍的重量](https://www.solidot.org/story?sid=83576)
   - [英国在13 年内关闭了 1.4 万家酒吧](https://www.solidot.org/story?sid=83575)
 - 安全分析与研究
   - [伪装成某端口排查工具红队样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495716&idx=1&sn=5707675235696199315a57ef787ec71a)
-- 黑鸟
-  - [日程邀请类钓鱼邮件攻击频发](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185358&idx=1&sn=43d0be448c377b82dd631b16e7b6cf82)
 - 锦行科技
   - [初二 · 归宁 | 携福，回门去](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494758&idx=1&sn=9e3243fb4f49b1c7c669423f22a526d4)
-- Black Hills Information Security, Inc.
-  - [OSINT: How to Find, Use, and Control Open-Source Intelligence](https://www.blackhillsinfosec.com/osint-how-to-find-use-and-control-open-source-intelligence/)
 - Shostack & Friends Blog
   - [Vulnerability Finding: An Inflection Point](https://shostack.org/blog/vuln-finding-inflection/)
+- 黑鸟
+  - [日程邀请类钓鱼邮件攻击频发](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185358&idx=1&sn=43d0be448c377b82dd631b16e7b6cf82)
 - M01N Team
   - [一🐎当先，驰骋千里](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247494692&idx=1&sn=c70a376b709a2013d9eda472bbf1175b)
 - 极客公园
@@ -57,6 +51,12 @@
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530724&idx=2&sn=43db7fb641ec88ca64f216e3f5a69b79)
 - 迪哥讲事
   - [几种绕过邮箱验证的实战技法](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499085&idx=1&sn=6cb18853b911fe1b578b3c0481fff6b7)
+- 安全行者老霍
+  - [Zen-AI-Pentest、Brutus、OpenClaw扫描器、Allama介绍](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485889&idx=1&sn=cd218e8262241dbd15ac6570d12f671b)
+- NetSPI
+  - [Ready for Red Teaming? How to Design Realistic, Intelligence-Driven Scenarios](https://www.netspi.com/blog/executive-blog/red-teaming/ready-for-red-teaming-how-to-design-realistic-intelligence-driven-scenarios/)
+- Have I Been Pwned latest breaches
+  - [Figure - 967,178 breached accounts](https://haveibeenpwned.com/Breach/Figure)
 - Over Security - Cybersecurity news aggregator
   - [Hacking conference Def Con bans three people linked to Epstein](https://techcrunch.com/2026/02/18/hacking-conference-def-con-bans-three-people-linked-to-epstein/)
   - [Fed agencies ordered to patch Dell bug by Saturday after exploitation warning](https://therecord.media/fed-agencies-ordered-to-patch-dell-bug-after-exploitation-warning)
@@ -80,15 +80,9 @@
   - [Data breach di Odido: quando il social engineering batte qualsiasi firewall](https://www.cybersecurity360.it/nuove-minacce/data-breach-di-odido-quando-il-social-engineering-batte-qualsiasi-firewall/)
   - [Deepfake su X, l’autorità irlandese apre l’indagine: la prova del fuoco per il DSA](https://www.cybersecurity360.it/legal/deepfake-su-x-lautorita-irlandese-apre-lindagine-la-prova-del-fuoco-per-il-dsa/)
   - [“Good enough” emulation: Fuzzing a single thread to uncover vulnerabilities](https://blog.talosintelligence.com/good-enough-emulation/)
-  - [Glendale man gets 5 years in prison for role in darknet drug ring](https://www.bleepingcomputer.com/news/security/glendale-man-gets-5-years-in-prison-for-role-in-darknet-drug-trafficking-operation/)
-  - [OpenAI’s New Enterprise Security Mode Locks Down ChatGPT Against Prompt Injection](https://thecyberexpress.com/openai-new-lockdown-mode/)
-  - [Fusion Fireside #16: Nearly 28 years on the Front Line of Fraud with Anton Jan Cozijnsen](https://www.threatfabric.com/blogs/fusion-fireside-16-nearly-28-years-on-the-front-line-of-fraud-with-anton-jan-cozijnsen)
-  - [La privacy by design del whistleblowing e come realizzarla](https://www.cybersecurity360.it/outlook/la-privacy-by-design-del-whistleblowing-e-come-realizzarla/)
-  - [Attackers Deploy Dormant Backdoors in Ivanti EPMM to Bypass Patching of Latest 0-Days](https://thecyberexpress.com/attackers-deploy-backdoors-in-ivanti-epmm/)
-  - [Zero-Day in Dell RecoverPoint Exploited by Chinese Hacker Group](https://thecyberexpress.com/cve-2026-22769-dell-recoverpoint/)
-  - [Figure - 967,178 breached accounts](https://haveibeenpwned.com/Breach/Figure)
-- Securityinfo.it
-  - [Davvero si può fare “jailbreak” a un caccia F-35?](https://www.securityinfo.it/2026/02/18/davvero-si-puo-fare-jailbreak-a-un-caccia-f-35/?utm_source=rss&utm_medium=rss&utm_campaign=davvero-si-puo-fare-jailbreak-a-un-caccia-f-35)
+- ICT Security Magazine
+  - [Zero-day febbraio 2026: la crisi della patch management che ha rotto il modello patch-and-pray](https://www.ictsecuritymagazine.com/notizie/zero-day-2026-patch-management/)
+  - [La Belt and Road Initiative](https://www.ictsecuritymagazine.com/articoli/belt-and-road/)
 - 吾爱破解论坛
   - [【2026春节】解题领红包活动开始喽，解出就送论坛币！
 
@@ -97,28 +91,15 @@
 ⏰ 第二题：Windows 初级题，今天 14:00 准时上线！题目超简单，哪怕你是逆向分析小白，也能借此机会入门尝试。让这次活动成为你技能提升的阶梯，边玩边学，收获满满！
 
 快来挑战吧，红包和技术双丰收！](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143652&idx=1&sn=4688bc9fe0df6670a0f04c4dd7f5c890)
-- Have I Been Pwned latest breaches
-  - [Figure - 967,178 breached accounts](https://haveibeenpwned.com/Breach/Figure)
-- Javvad Malik
-  - [The Art of One-Upmanship](https://javvadmalik.com/2026/02/18/the-art-of-one-upmanship/)
-- 安全行者老霍
-  - [Zen-AI-Pentest、Brutus、OpenClaw扫描器、Allama介绍](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485889&idx=1&sn=cd218e8262241dbd15ac6570d12f671b)
-- NetSPI
-  - [Ready for Red Teaming? How to Design Realistic, Intelligence-Driven Scenarios](https://www.netspi.com/blog/executive-blog/red-teaming/ready-for-red-teaming-how-to-design-realistic-intelligence-driven-scenarios/)
 - Schneier on Security
   - [AI Found Twelve New Vulnerabilities in OpenSSL](https://www.schneier.com/blog/archives/2026/02/ai-found-twelve-new-vulnerabilities-in-openssl.html)
 - SANS Internet Storm Center, InfoCON: green
   - [Tracking Malware Campaigns With Reused Material, (Wed, Feb 18th)](https://isc.sans.edu/diary/rss/32726)
   - [ISC Stormcast For Wednesday, February 18th, 2026 https://isc.sans.edu/podcastdetail/9814, (Wed, Feb 18th)](https://isc.sans.edu/diary/rss/32724)
-- 360数字安全
-  - [大年初二 | 马跃新程，福满“午”方](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585002&idx=1&sn=b5e5aed40f90db6e934350d40ba63431)
-- ICT Security Magazine
-  - [Zero-day febbraio 2026: la crisi della patch management che ha rotto il modello patch-and-pray](https://www.ictsecuritymagazine.com/notizie/zero-day-2026-patch-management/)
-  - [La Belt and Road Initiative](https://www.ictsecuritymagazine.com/articoli/belt-and-road/)
 - 娜璋AI安全之家
   - [2025年总结：微光如盏，谦以致远，万家灯火中的一小盏](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247502708&idx=1&sn=7783431eadfa44e0f2a518d049c6e28e)
-- GRAHAM CLULEY
-  - [Dutch police arrest man for “hacking” after accidentally sending him confidential files](https://www.bitdefender.com/en-us/blog/hotforsecurity/dutch-police-arrest-man-hacking-accidentally-sending-confidential-files)
+- Javvad Malik
+  - [The Art of One-Upmanship](https://javvadmalik.com/2026/02/18/the-art-of-one-upmanship/)
 - Security Affairs
   - [French Ministry confirms data access to 1.2 Million bank accounts](https://securityaffairs.com/188200/hacking/french-ministry-confirms-data-access-to-1-2-million-bank-accounts.html)
   - [Notepad++ patches flaw used to hijack update system](https://securityaffairs.com/188192/hacking/notepad-patches-flaw-used-to-hijack-update-system.html)
@@ -137,6 +118,12 @@
   - [3 Ways to Start Your Intelligent Workflow Program](https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html)
   - [Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware](https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html)
   - [CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update](https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html)
+- 360数字安全
+  - [大年初二 | 马跃新程，福满“午”方](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585002&idx=1&sn=b5e5aed40f90db6e934350d40ba63431)
+- GRAHAM CLULEY
+  - [Dutch police arrest man for “hacking” after accidentally sending him confidential files](https://www.bitdefender.com/en-us/blog/hotforsecurity/dutch-police-arrest-man-hacking-accidentally-sending-confidential-files)
+- Securityinfo.it
+  - [Davvero si può fare “jailbreak” a un caccia F-35?](https://www.securityinfo.it/2026/02/18/davvero-si-puo-fare-jailbreak-a-un-caccia-f-35/?utm_source=rss&utm_medium=rss&utm_campaign=davvero-si-puo-fare-jailbreak-a-un-caccia-f-35)
 - T00ls安全
   - [🛡️ T00ls祝大家 岁岁平安 🍎](https://mp.weixin.qq.com/s?__biz=Mzg3NzYzODU5NQ==&mid=2247485686&idx=1&sn=6d26f408c622634e5917c2894f3bff8b)
 - Security Weekly Podcast Network (Audio)
