@@ -2,20 +2,20 @@
 
 - Recent Commits to cve:main
   - [Update Thu Feb 19 11:25:32 UTC 2026](https://github.com/trickest/cve/commit/0b15653abab50078d6541fcd886f9b1e8b3487fa)
-- Tenable Blog
-  - [The Cloud and AI Velocity Trap: Why Governance Is Falling Behind Innovation](https://www.tenable.com/blog/cloud-ai-research-report-2026-governance-vs-innovation)
-- Jiajun的技术笔记
-  - [你好，2026！](https://jiajunhuang.com/articles/2026_02_19-hello_2026.md.html)
 - Microsoft Security Blog
   - [New e-book: Establishing a proactive defense with Microsoft Security Exposure Management](https://www.microsoft.com/en-us/security/blog/2026/02/19/new-e-book-establishing-a-proactive-defense-with-microsoft-security-exposure-management/)
   - [Running OpenClaw safely: identity, isolation, and runtime risk](https://www.microsoft.com/en-us/security/blog/2026/02/19/running-openclaw-safely-identity-isolation-runtime-risk/)
 - Google Online Security Blog
   - [Keeping Google Play & Android app ecosystems safe in 2025](http://security.googleblog.com/2026/02/keeping-google-play-android-app-ecosystem-safe-2025.html)
+- Jiajun的技术笔记
+  - [你好，2026！](https://jiajunhuang.com/articles/2026_02_19-hello_2026.md.html)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [Casdoor 2.55.0 Cross-Site Request Forgery (CSRF)](https://cxsecurity.com/issue/WLB-2026020021)
   - [grub-btrfs initramfs hook Command Injection](https://cxsecurity.com/issue/WLB-2026020020)
   - [Hyland OnBase Timer Service Unauthenticated .NET Remoting RCE](https://cxsecurity.com/issue/WLB-2026020019)
   - [Repetier-Server < = 1.4.10 - Unauthenticated Path Traversal / Local File Inclusion](https://cxsecurity.com/issue/WLB-2026020018)
+- Tenable Blog
+  - [The Cloud and AI Velocity Trap: Why Governance Is Falling Behind Innovation](https://www.tenable.com/blog/cloud-ai-research-report-2026-governance-vs-innovation)
 - SecWiki News
   - [SecWiki News 2026-02-19 Review](http://www.sec-wiki.com/?2026-02-19)
 - Blogs  dade
@@ -55,21 +55,15 @@
   - [春节 AI 模型大战，谁是最大赢家？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099610&idx=1&sn=91593bac1b2f3d316983cd4c48ea98f0)
   - [困在 AI 里的工作：你没有解放，而是有了更多「任务」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099589&idx=1&sn=a8d285d2450c18e7083855a653b7f3fa)
   - [特斯拉无人驾驶车正式下线；段永平、巴菲特大幅减持苹果；B 站春晚峰值 8600 万，弹幕爆发｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099572&idx=1&sn=ffbc18769002730a9864c90e7ee5e783)
-- 情报分析师
-  - [AI如何嵌入情报核心任务](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566782&idx=1&sn=edd89d39b9e1a17a9b3694415cd719c3)
-- 360数字安全
-  - [大年初三 | 马载安康，祥“午”盈庭](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585004&idx=1&sn=a7ee4c8e8a7f9ca19c3c3ba638c610f8)
+- TrustedSec
+  - [Notepad++ Plugins: Plug and Payload](https://trustedsec.com/blog/notepad-plugins-plug-and-payload)
 - Microsoft Security Blog
   - [New e-book: Establishing a proactive defense with Microsoft Security Exposure Management](https://www.microsoft.com/en-us/security/blog/2026/02/19/new-e-book-establishing-a-proactive-defense-with-microsoft-security-exposure-management/)
   - [Running OpenClaw safely: identity, isolation, and runtime risk](https://www.microsoft.com/en-us/security/blog/2026/02/19/running-openclaw-safely-identity-isolation-runtime-risk/)
-- 迪哥讲事
-  - [通过路径遍历所造成的信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499091&idx=1&sn=4b29bdbab216506c9da82409b940098d)
-- ICT Security Magazine
-  - [Il Chief Information Officer si reinventa: da tecnico a stratega del business](https://www.ictsecuritymagazine.com/notizie/chief-information-officer/)
-- bellingcat
-  - [Shipwrecks, Sham Papers and False Flags: Tracking the Company Behind It All](https://www.bellingcat.com/news/2026/02/19/shipwrecks-sham-papers-and-false-flags-tracking-the-company-behind-it-all/)
-- TrustedSec
-  - [Notepad++ Plugins: Plug and Payload](https://trustedsec.com/blog/notepad-plugins-plug-and-payload)
+- 360数字安全
+  - [大年初三 | 马载安康，祥“午”盈庭](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585004&idx=1&sn=a7ee4c8e8a7f9ca19c3c3ba638c610f8)
+- 情报分析师
+  - [AI如何嵌入情报核心任务](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566782&idx=1&sn=edd89d39b9e1a17a9b3694415cd719c3)
 - Over Security - Cybersecurity news aggregator
   - [Leading Japanese semiconductor supplier responding to ransomware attack](https://therecord.media/leading-japanese-semiconductor-supplier-ransomware)
   - [PromptSpy is the first known Android malware to use generative AI at runtime](https://www.bleepingcomputer.com/news/security/promptspy-is-the-first-known-android-malware-to-use-generative-ai-at-runtime/)
@@ -91,19 +85,47 @@
   - [How infostealers turn stolen credentials into real identities](https://www.bleepingcomputer.com/news/security/how-infostealers-turn-stolen-credentials-into-real-identities/)
   - [Attackers breach France’s national bank account database](https://therecord.media/attackers-breach-france-national-bank-account-database)
   - [Cyber Frontiers 2026](https://roccosicilia.com/2026/02/19/cyber-frontiers-2026/)
+- 安全行者老霍
+  - [挑选人工智能红队服务商越来越难](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485894&idx=1&sn=751108f6d9580da66019de9d0483e8b3)
+- Schneier on Security
+  - [Malicious AI](https://www.schneier.com/blog/archives/2026/02/malicious-ai.html)
+- bellingcat
+  - [Shipwrecks, Sham Papers and False Flags: Tracking the Company Behind It All](https://www.bellingcat.com/news/2026/02/19/shipwrecks-sham-papers-and-false-flags-tracking-the-company-behind-it-all/)
+- ICT Security Magazine
+  - [Il Chief Information Officer si reinventa: da tecnico a stratega del business](https://www.ictsecuritymagazine.com/notizie/chief-information-officer/)
+- Include Security Research Blog
+  - [The AWS Console and Terraform Security Gap](https://blog.includesecurity.com/2026/02/the-aws-console-and-terraform-security-gap/)
 - SANS Internet Storm Center, InfoCON: green
   - [Under the Hood of DynoWiper, (Thu, Feb 19th)](https://isc.sans.edu/diary/rss/32730)
   - [ISC Stormcast For Thursday, February 19th, 2026 https://isc.sans.edu/podcastdetail/9816, (Thu, Feb 19th)](https://isc.sans.edu/diary/rss/32728)
 - Google Online Security Blog
   - [Keeping Google Play & Android app ecosystems safe in 2025](http://security.googleblog.com/2026/02/keeping-google-play-android-app-ecosystem-safe-2025.html)
-- 安全行者老霍
-  - [挑选人工智能红队服务商越来越难](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485894&idx=1&sn=751108f6d9580da66019de9d0483e8b3)
-- GRAHAM CLULEY
-  - [Smashing Security podcast #455: Face off: Meta’s Glasses and America’s internet kill switch](https://grahamcluley.com/smashing-security-podcast-455/)
 - Daniel Miessler
   - [A Simple Framework for Being Anti-Fragile](https://danielmiessler.com/blog/antifragile-framework?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- Schneier on Security
-  - [Malicious AI](https://www.schneier.com/blog/archives/2026/02/malicious-ai.html)
+- Security Affairs
+  - [Germany’s national rail operator Deutsche Bahn hit by a DDoS attack](https://securityaffairs.com/188254/breaking-news/germanys-national-rail-operator-deutsche-bahn-hit-by-a-ddos-attack.html)
+  - [U.S. CISA adds Dell RecoverPoint and GitLab flaws to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/188243/hacking/u-s-cisa-adds-dell-recoverpoint-and-gitlab-flaws-to-its-known-exploited-vulnerabilities-catalog.html)
+  - [CISA alerts to critical auth bypass CVE-2026-1670 in Honeywell CCTVs](https://securityaffairs.com/188234/security/cisa-alerts-to-critical-auth-bypass-cve-2026-1670-in-honeywell-cctvs.html)
+  - [Irish regulator probes X after Grok allegedly generated sexual images of children](https://securityaffairs.com/188226/ai/irish-regulator-probes-x-after-grok-allegedly-generated-sexual-images-of-children.html)
+  - [Intellexa’s Predator spyware infected Angolan journalist’s device, Amnesty reports](https://securityaffairs.com/188215/malware/intellexas-predator-spyware-infected-angolan-journalists-device-amnesty-reports.html)
+- GRAHAM CLULEY
+  - [Smashing Security podcast #455: Face off: Meta’s Glasses and America’s internet kill switch](https://grahamcluley.com/smashing-security-podcast-455/)
+- Blackhat Library: Hacking techniques and research
+  - [2026 Infostealer Trends I'm Monitoring at Hudson Rock](https://www.reddit.com/r/blackhat/comments/1r8w3t2/2026_infostealer_trends_im_monitoring_at_hudson/)
+  - [I have created avideo watching python script that uses proxies (50000 views daily)](https://www.reddit.com/r/blackhat/comments/1r8tz73/i_have_created_avideo_watching_python_script_that/)
+- Your Open Hacker Community
+  - [Restoring, maintaining and updating the lost artifacts of the InfoSec underground - Obsidian Covenant](https://www.reddit.com/r/HowToHack/comments/1r972vt/restoring_maintaining_and_updating_the_lost/)
+  - [Rootkit Malware is Eating all my ram and i cant see it on rammap, windbg only thing i can find is the parts of the payload that is wroten on different adresses all living in hollowed windows processes](https://www.reddit.com/r/HowToHack/comments/1r97rtj/rootkit_malware_is_eating_all_my_ram_and_i_cant/)
+- Technical Information Security Content & Discussion
+  - [[CVE-2026-0714] TPM-sniffing LUKS Keys on an Embedded Device](https://www.reddit.com/r/netsec/comments/1r92evr/cve20260714_tpmsniffing_luks_keys_on_an_embedded/)
+  - [Compromising Cline's Production Releases just by Prompting an Issue Triager](https://www.reddit.com/r/netsec/comments/1r8vdkb/compromising_clines_production_releases_just_by/)
+- Deep Web
+  - [Alguém pode me recomedar imageboards da rede Onion?](https://www.reddit.com/r/deepweb/comments/1r9cnaw/alguém_pode_me_recomedar_imageboards_da_rede_onion/)
+  - [Who do gyus think is the best TryHackMe or HacktheBox](https://www.reddit.com/r/deepweb/comments/1r8uv53/who_do_gyus_think_is_the_best_tryhackme_or/)
+- 迪哥讲事
+  - [通过路径遍历所造成的信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499091&idx=1&sn=4b29bdbab216506c9da82409b940098d)
+- Computer Forensics
+  - [Adding flair to posts or segregating posts on content type](https://www.reddit.com/r/computerforensics/comments/1r8xa9k/adding_flair_to_posts_or_segregating_posts_on/)
 - The Hacker News
   - [PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence](https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html)
   - [INTERPOL Operation Red Card 2.0 Arrests 651 in African Cybercrime Crackdown](https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html)
@@ -112,14 +134,9 @@
   - [From Exposure to Exploitation: How AI Collapses Your Response Window](https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html)
   - [Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users](https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html)
   - [CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware](https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html)
-- Include Security Research Blog
-  - [The AWS Console and Terraform Security Gap](https://blog.includesecurity.com/2026/02/the-aws-console-and-terraform-security-gap/)
-- Security Affairs
-  - [Germany’s national rail operator Deutsche Bahn hit by a DDoS attack](https://securityaffairs.com/188254/breaking-news/germanys-national-rail-operator-deutsche-bahn-hit-by-a-ddos-attack.html)
-  - [U.S. CISA adds Dell RecoverPoint and GitLab flaws to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/188243/hacking/u-s-cisa-adds-dell-recoverpoint-and-gitlab-flaws-to-its-known-exploited-vulnerabilities-catalog.html)
-  - [CISA alerts to critical auth bypass CVE-2026-1670 in Honeywell CCTVs](https://securityaffairs.com/188234/security/cisa-alerts-to-critical-auth-bypass-cve-2026-1670-in-honeywell-cctvs.html)
-  - [Irish regulator probes X after Grok allegedly generated sexual images of children](https://securityaffairs.com/188226/ai/irish-regulator-probes-x-after-grok-allegedly-generated-sexual-images-of-children.html)
-  - [Intellexa’s Predator spyware infected Angolan journalist’s device, Amnesty reports](https://securityaffairs.com/188215/malware/intellexas-predator-spyware-infected-angolan-journalists-device-amnesty-reports.html)
+- Information Security
+  - [Automated scanners and initial access](https://www.reddit.com/r/Information_Security/comments/1r973fr/automated_scanners_and_initial_access/)
+  - [The Hidden Security Risk Lurking in Your Browser Extensions (And Why Security Leaders Should Care)](https://www.reddit.com/r/Information_Security/comments/1r90a42/the_hidden_security_risk_lurking_in_your_browser/)
 - T00ls安全
   - [🥢 T00ls祝大家 丰衣足食 🍲](https://mp.weixin.qq.com/s?__biz=Mzg3NzYzODU5NQ==&mid=2247485695&idx=1&sn=fbd3abebf935b662643a87e576d421da)
 - Security Weekly Podcast Network (Audio)
