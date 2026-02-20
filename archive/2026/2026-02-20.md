@@ -1,33 +1,35 @@
 # 每日安全资讯（2026-02-20）
 
-- SecWiki News
-  - [SecWiki News 2026-02-19 Review](http://www.sec-wiki.com/?2026-02-19)
+- Microsoft Security Blog
+  - [New e-book: Establishing a proactive defense with Microsoft Security Exposure Management](https://www.microsoft.com/en-us/security/blog/2026/02/19/new-e-book-establishing-a-proactive-defense-with-microsoft-security-exposure-management/)
+  - [Running OpenClaw safely: identity, isolation, and runtime risk](https://www.microsoft.com/en-us/security/blog/2026/02/19/running-openclaw-safely-identity-isolation-runtime-risk/)
 - Google Online Security Blog
   - [Keeping Google Play & Android app ecosystems safe in 2025](http://security.googleblog.com/2026/02/keeping-google-play-android-app-ecosystem-safe-2025.html)
-- Tenable Blog
-  - [The Cloud and AI Velocity Trap: Why Governance Is Falling Behind Innovation](https://www.tenable.com/blog/cloud-ai-research-report-2026-governance-vs-innovation)
+- SecWiki News
+  - [SecWiki News 2026-02-19 Review](http://www.sec-wiki.com/?2026-02-19)
+- Recent Commits to cve:main
+  - [Update Thu Feb 19 11:25:32 UTC 2026](https://github.com/trickest/cve/commit/0b15653abab50078d6541fcd886f9b1e8b3487fa)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [Casdoor 2.55.0 Cross-Site Request Forgery (CSRF)](https://cxsecurity.com/issue/WLB-2026020021)
   - [grub-btrfs initramfs hook Command Injection](https://cxsecurity.com/issue/WLB-2026020020)
   - [Hyland OnBase Timer Service Unauthenticated .NET Remoting RCE](https://cxsecurity.com/issue/WLB-2026020019)
   - [Repetier-Server < = 1.4.10 - Unauthenticated Path Traversal / Local File Inclusion](https://cxsecurity.com/issue/WLB-2026020018)
-- Microsoft Security Blog
-  - [New e-book: Establishing a proactive defense with Microsoft Security Exposure Management](https://www.microsoft.com/en-us/security/blog/2026/02/19/new-e-book-establishing-a-proactive-defense-with-microsoft-security-exposure-management/)
-  - [Running OpenClaw safely: identity, isolation, and runtime risk](https://www.microsoft.com/en-us/security/blog/2026/02/19/running-openclaw-safely-identity-isolation-runtime-risk/)
-- Recent Commits to cve:main
-  - [Update Thu Feb 19 11:25:32 UTC 2026](https://github.com/trickest/cve/commit/0b15653abab50078d6541fcd886f9b1e8b3487fa)
 - Jiajun的技术笔记
   - [你好，2026！](https://jiajunhuang.com/articles/2026_02_19-hello_2026.md.html)
+- Tenable Blog
+  - [The Cloud and AI Velocity Trap: Why Governance Is Falling Behind Innovation](https://www.tenable.com/blog/cloud-ai-research-report-2026-governance-vs-innovation)
+- Bug Bounty in InfoSec Write-ups on Medium
+  - [Breaking the Trust Boundary: SSRF via a Misconfigured Sentry Tunnel](https://infosecwriteups.com/breaking-the-trust-boundary-ssrf-via-a-misconfigured-sentry-tunnel-ed054820b743?source=rss----7b722bfd1b8d--bug_bounty)
 - Blogs  dade
   - [MacOS & Nix-Darwin](https://0xda.de/blog/2026/02/macos-nix-darwin/)
 - GuidePoint Security
   - [Ransomware Trends by Industry: Insights from the GRIT 2026 Ransomware & Cyber Threat Report](https://www.guidepointsecurity.com/blog/ransomware-trends-by-industry-2026-ransomware-cyber-threat-report/)
+- Securelist
+  - [Arkanix Stealer: a C++ & Python infostealer](https://securelist.com/arkanix-stealer/119006/)
 - Malwarebytes
   - [AI-generated passwords are a security risk](https://www.malwarebytes.com/blog/news/2026/02/ai-generated-passwords-are-a-security-risk)
   - [Intimate products maker Tenga spilled customer data](https://www.malwarebytes.com/blog/news/2026/02/intimate-products-producer-tenga-spilled-customer-data)
   - [Meta patents AI that could keep you posting from beyond the grave](https://www.malwarebytes.com/blog/ai/2026/02/meta-patents-ai-that-could-keep-you-posting-from-beyond-the-grave)
-- Securelist
-  - [Arkanix Stealer: a C++ & Python infostealer](https://securelist.com/arkanix-stealer/119006/)
 - Security Blog | Praetorian
   - [Praetorian Guard finds critical flaws in OpenClaw – And What It Means for Your Software Supply Chain](https://www.praetorian.com/blog/praetorian-guard-finds-critical-flaws-in-openclaw-and-what-it-means-for-your-software-supply-chain/)
 - 奇客Solidot–传递最新科技情报
@@ -35,34 +37,26 @@
   - [美国停止资助互联网自由项目](https://www.solidot.org/story?sid=83580)
   - [99% 的 40 岁以上成年人存在一处肩袖异常](https://www.solidot.org/story?sid=83579)
   - [Google 的新手机 Pixel 10a 基本上就是去年的 Pixel 9a](https://www.solidot.org/story?sid=83578)
+- rtl-sdr.com
+  - [Echo iOS KiwiSDR & OpenWebRX App now in Beta Testing](https://www.rtl-sdr.com/echo-ios-kiwisdr-openwebrx-app-now-in-beta-testing/)
+- 安全分析与研究
+  - [使用正常数字签名伪装成某简历钓鱼样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495717&idx=1&sn=e0245106d3be91041e626f459774c63e)
 - 锦行科技
   - [初三 · 敬宗 | 一脉相承，生生不息](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494759&idx=1&sn=2ef675377976de6843c89fa563cfcd1f)
 - 黑鸟
   - [真实案例：苹果手机间谍软件“捕食者”攻击全过程](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185370&idx=1&sn=73fe9dd2eabccd74c998a427180535e3)
 - 青衣十三楼飞花堂
   - [过年期间的数学扯淡](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489037&idx=1&sn=2886b98b370635068f82846ffff9fa07)
-- 丁爸 情报分析师的工具箱
-  - [【资料】美国新版《对外援助法》](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154398&idx=1&sn=952b5c2691381d4166f66ef53110a43a)
 - 极客公园
   - [春节 AI 模型大战，谁是最大赢家？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099610&idx=1&sn=91593bac1b2f3d316983cd4c48ea98f0)
   - [困在 AI 里的工作：你没有解放，而是有了更多「任务」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099589&idx=1&sn=a8d285d2450c18e7083855a653b7f3fa)
   - [特斯拉无人驾驶车正式下线；段永平、巴菲特大幅减持苹果；B 站春晚峰值 8600 万，弹幕爆发｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099572&idx=1&sn=ffbc18769002730a9864c90e7ee5e783)
+- 丁爸 情报分析师的工具箱
+  - [【资料】美国新版《对外援助法》](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154398&idx=1&sn=952b5c2691381d4166f66ef53110a43a)
 - 数世咨询
   - [2026网络安全技术趋势预测：在“永远不稳定”的世界中运行](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541771&idx=1&sn=1ebee9c50ce379f57590ca44a2c1c6ef)
 - 情报分析师
   - [AI如何嵌入情报核心任务](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566782&idx=1&sn=edd89d39b9e1a17a9b3694415cd719c3)
-- Microsoft Security Blog
-  - [New e-book: Establishing a proactive defense with Microsoft Security Exposure Management](https://www.microsoft.com/en-us/security/blog/2026/02/19/new-e-book-establishing-a-proactive-defense-with-microsoft-security-exposure-management/)
-  - [Running OpenClaw safely: identity, isolation, and runtime risk](https://www.microsoft.com/en-us/security/blog/2026/02/19/running-openclaw-safely-identity-isolation-runtime-risk/)
-- Google Online Security Blog
-  - [Keeping Google Play & Android app ecosystems safe in 2025](http://security.googleblog.com/2026/02/keeping-google-play-android-app-ecosystem-safe-2025.html)
-- ICT Security Magazine
-  - [Il Chief Information Officer si reinventa: da tecnico a stratega del business](https://www.ictsecuritymagazine.com/notizie/chief-information-officer/)
-- TrustedSec
-  - [Notepad++ Plugins: Plug and Payload](https://trustedsec.com/blog/notepad-plugins-plug-and-payload)
-- SANS Internet Storm Center, InfoCON: green
-  - [Under the Hood of DynoWiper, (Thu, Feb 19th)](https://isc.sans.edu/diary/rss/32730)
-  - [ISC Stormcast For Thursday, February 19th, 2026 https://isc.sans.edu/podcastdetail/9816, (Thu, Feb 19th)](https://isc.sans.edu/diary/rss/32728)
 - Over Security - Cybersecurity news aggregator
   - [Leading Japanese semiconductor supplier responding to ransomware attack](https://therecord.media/leading-japanese-semiconductor-supplier-ransomware)
   - [PromptSpy is the first known Android malware to use generative AI at runtime](https://www.bleepingcomputer.com/news/security/promptspy-is-the-first-known-android-malware-to-use-generative-ai-at-runtime/)
@@ -90,18 +84,30 @@
   - [Hackers target Microsoft Entra accounts in device code vishing attacks](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-entra-accounts-in-device-code-vishing-attacks/)
   - [Texas sues TP-Link over Chinese hacking risks, user deception](https://www.bleepingcomputer.com/news/security/texas-sues-tp-link-over-chinese-hacking-risks-user-deception/)
   - [First Android Malware Weaponizes Gemini AI to Evade Detection, Maintain Persistence](https://thecyberexpress.com/first-android-malware-promptspy/)
-  - [The Week in Vulnerabilities: SolarWinds, Ivanti, and Critical ICS Exposure](https://cyble.com/blog/cyble-weekly-vulnerability-report-feb-19/)
-  - [Police arrests 651 suspects in African cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-arrests-651-suspects-in-african-cybercrime-crackdown/)
-  - [Arkanix Stealer: a C++ & Python infostealer](https://securelist.com/arkanix-stealer/119006/)
-  - [Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia](https://www.group-ib.com/blog/indonesia-tax-impersonation-goldfactory-malware/)
-  - [India’s AI Revolution: Why This Is India’s Most Significant Moment](https://cyble.com/blog/india-ai-security-revolution-rising-threats/)
-  - [New 'Massiv' Android banking malware poses as an IPTV app](https://www.bleepingcomputer.com/news/security/new-massiv-android-banking-malware-poses-as-an-iptv-app/)
+- 迪哥讲事
+  - [通过路径遍历所造成的信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499091&idx=1&sn=4b29bdbab216506c9da82409b940098d)
+- 360数字安全
+  - [大年初三 | 马载安康，祥“午”盈庭](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585004&idx=1&sn=a7ee4c8e8a7f9ca19c3c3ba638c610f8)
+- Google Online Security Blog
+  - [Keeping Google Play & Android app ecosystems safe in 2025](http://security.googleblog.com/2026/02/keeping-google-play-android-app-ecosystem-safe-2025.html)
+- ICT Security Magazine
+  - [Il Chief Information Officer si reinventa: da tecnico a stratega del business](https://www.ictsecuritymagazine.com/notizie/chief-information-officer/)
+- Microsoft Security Blog
+  - [New e-book: Establishing a proactive defense with Microsoft Security Exposure Management](https://www.microsoft.com/en-us/security/blog/2026/02/19/new-e-book-establishing-a-proactive-defense-with-microsoft-security-exposure-management/)
+  - [Running OpenClaw safely: identity, isolation, and runtime risk](https://www.microsoft.com/en-us/security/blog/2026/02/19/running-openclaw-safely-identity-isolation-runtime-risk/)
+- Schneier on Security
+  - [Malicious AI](https://www.schneier.com/blog/archives/2026/02/malicious-ai.html)
+- SANS Internet Storm Center, InfoCON: green
+  - [Under the Hood of DynoWiper, (Thu, Feb 19th)](https://isc.sans.edu/diary/rss/32730)
+  - [ISC Stormcast For Thursday, February 19th, 2026 https://isc.sans.edu/podcastdetail/9816, (Thu, Feb 19th)](https://isc.sans.edu/diary/rss/32728)
+- TrustedSec
+  - [Notepad++ Plugins: Plug and Payload](https://trustedsec.com/blog/notepad-plugins-plug-and-payload)
 - bellingcat
   - [Shipwrecks, Sham Papers and False Flags: Tracking the Company Behind It All](https://www.bellingcat.com/news/2026/02/19/shipwrecks-sham-papers-and-false-flags-tracking-the-company-behind-it-all/)
 - 安全行者老霍
   - [挑选人工智能红队服务商越来越难](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485894&idx=1&sn=751108f6d9580da66019de9d0483e8b3)
-- Include Security Research Blog
-  - [The AWS Console and Terraform Security Gap](https://blog.includesecurity.com/2026/02/the-aws-console-and-terraform-security-gap/)
+- Daniel Miessler
+  - [A Simple Framework for Being Anti-Fragile](https://danielmiessler.com/blog/antifragile-framework?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - The Hacker News
   - [PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence](https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html)
   - [INTERPOL Operation Red Card 2.0 Arrests 651 in African Cybercrime Crackdown](https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html)
@@ -110,23 +116,17 @@
   - [From Exposure to Exploitation: How AI Collapses Your Response Window](https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html)
   - [Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users](https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html)
   - [CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware](https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html)
-- 360数字安全
-  - [大年初三 | 马载安康，祥“午”盈庭](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585004&idx=1&sn=a7ee4c8e8a7f9ca19c3c3ba638c610f8)
+- Include Security Research Blog
+  - [The AWS Console and Terraform Security Gap](https://blog.includesecurity.com/2026/02/the-aws-console-and-terraform-security-gap/)
 - GRAHAM CLULEY
   - [Smashing Security podcast #455: Face off: Meta’s Glasses and America’s internet kill switch](https://grahamcluley.com/smashing-security-podcast-455/)
-- T00ls安全
-  - [🥢 T00ls祝大家 丰衣足食 🍲](https://mp.weixin.qq.com/s?__biz=Mzg3NzYzODU5NQ==&mid=2247485695&idx=1&sn=fbd3abebf935b662643a87e576d421da)
 - Security Affairs
   - [Germany’s national rail operator Deutsche Bahn hit by a DDoS attack](https://securityaffairs.com/188254/breaking-news/germanys-national-rail-operator-deutsche-bahn-hit-by-a-ddos-attack.html)
   - [U.S. CISA adds Dell RecoverPoint and GitLab flaws to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/188243/hacking/u-s-cisa-adds-dell-recoverpoint-and-gitlab-flaws-to-its-known-exploited-vulnerabilities-catalog.html)
   - [CISA alerts to critical auth bypass CVE-2026-1670 in Honeywell CCTVs](https://securityaffairs.com/188234/security/cisa-alerts-to-critical-auth-bypass-cve-2026-1670-in-honeywell-cctvs.html)
   - [Irish regulator probes X after Grok allegedly generated sexual images of children](https://securityaffairs.com/188226/ai/irish-regulator-probes-x-after-grok-allegedly-generated-sexual-images-of-children.html)
   - [Intellexa’s Predator spyware infected Angolan journalist’s device, Amnesty reports](https://securityaffairs.com/188215/malware/intellexas-predator-spyware-infected-angolan-journalists-device-amnesty-reports.html)
-- Daniel Miessler
-  - [A Simple Framework for Being Anti-Fragile](https://danielmiessler.com/blog/antifragile-framework?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- Schneier on Security
-  - [Malicious AI](https://www.schneier.com/blog/archives/2026/02/malicious-ai.html)
-- 迪哥讲事
-  - [通过路径遍历所造成的信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499091&idx=1&sn=4b29bdbab216506c9da82409b940098d)
+- T00ls安全
+  - [🥢 T00ls祝大家 丰衣足食 🍲](https://mp.weixin.qq.com/s?__biz=Mzg3NzYzODU5NQ==&mid=2247485695&idx=1&sn=fbd3abebf935b662643a87e576d421da)
 - Security Weekly Podcast Network (Audio)
   - [Firmware Backdoors Be Spying On You - PSW #914](http://sites.libsyn.com/18678/firmware-backdoors-be-spying-on-you-psw-914)
