@@ -2,10 +2,12 @@
 
 - Tenable Blog
   - [Dynamic Objects in Active Directory: The Stealthy Threat](https://www.tenable.com/blog/active-directory-dynamic-objects-stealthy-threat)
-- SecWiki News
-  - [SecWiki News 2026-02-20 Review](http://www.sec-wiki.com/?2026-02-20)
 - Filippo Valsorda
   - [Turn Dependabot Off](https://words.filippo.io/dependabot/)
+- Recent Commits to cve:main
+  - [Update Fri Feb 20 11:15:46 UTC 2026](https://github.com/trickest/cve/commit/46d00d2140334e7adae62c2d45e2d9219eebb5cd)
+- SecWiki News
+  - [SecWiki News 2026-02-20 Review](http://www.sec-wiki.com/?2026-02-20)
 - InfoSec Write-ups - Medium
   - [Magician — Full Exploitation Walkthrough](https://infosecwriteups.com/magician-full-exploitation-walkthrough-53ed2b8e3063?source=rss----7b722bfd1b8d---4)
   - [Signed HackTheBox| Let’s Play With MSSQL & Silver Ticket ️| NLTM Reflection](https://infosecwriteups.com/signed-hackthebox-lets-play-with-mssql-silver-ticket-%EF%B8%8F-nltm-reflection-c59a826d3722?source=rss----7b722bfd1b8d---4)
@@ -13,24 +15,22 @@
   - [Designing an IAM AI Agent Using MCP Server and Entra ID](https://infosecwriteups.com/designing-an-iam-ai-agent-using-mcp-server-and-entra-id-2cb8f86c830f?source=rss----7b722bfd1b8d---4)
   - [The Database Was Sold Online… but the Vulnerability Was Still Open](https://infosecwriteups.com/the-database-was-sold-online-but-the-vulnerability-was-still-open-81b98a978b0b?source=rss----7b722bfd1b8d---4)
   - [How I Bypassed Email Verification Using an Exposed API Endpoint](https://infosecwriteups.com/how-i-bypassed-email-verification-using-an-exposed-api-endpoint-f85693c5c08a?source=rss----7b722bfd1b8d---4)
-- Recent Commits to cve:main
-  - [Update Fri Feb 20 11:15:46 UTC 2026](https://github.com/trickest/cve/commit/46d00d2140334e7adae62c2d45e2d9219eebb5cd)
 - Blogs  dade
   - [Experimenting with Nixos Anywhere](https://0xda.de/blog/2026/02/experimenting-with-nixos-anywhere/)
+- Bug Bounty in InfoSec Write-ups on Medium
+  - [The Database Was Sold Online… but the Vulnerability Was Still Open](https://infosecwriteups.com/the-database-was-sold-online-but-the-vulnerability-was-still-open-81b98a978b0b?source=rss----7b722bfd1b8d--bug_bounty)
+  - [How I Bypassed Email Verification Using an Exposed API Endpoint](https://infosecwriteups.com/how-i-bypassed-email-verification-using-an-exposed-api-endpoint-f85693c5c08a?source=rss----7b722bfd1b8d--bug_bounty)
+- Didier Stevens
+  - [Update: rtfdump.py Version 0.0.14](https://blog.didierstevens.com/2026/02/20/update-rtfdump-py-version-0-0-14/)
 - Binary Ninja
   - [Building a Custom Architecture and Platform: Part 1](https://binary.ninja/2026/02/20/quark-platform-part-1.html)
 - The Trail of Bits Blog
   - [Using threat modeling and prompt injection to audit Comet](https://blog.trailofbits.com/2026/02/20/using-threat-modeling-and-prompt-injection-to-audit-comet/)
-- SentinelOne
-  - [The Good, the Bad and the Ugly in Cybersecurity – Week 8](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-8-7/)
-- Bug Bounty in InfoSec Write-ups on Medium
-  - [The Database Was Sold Online… but the Vulnerability Was Still Open](https://infosecwriteups.com/the-database-was-sold-online-but-the-vulnerability-was-still-open-81b98a978b0b?source=rss----7b722bfd1b8d--bug_bounty)
-  - [How I Bypassed Email Verification Using an Exposed API Endpoint](https://infosecwriteups.com/how-i-bypassed-email-verification-using-an-exposed-api-endpoint-f85693c5c08a?source=rss----7b722bfd1b8d--bug_bounty)
 - Malwarebytes
   - [Age verification vendor Persona left frontend exposed, researchers say](https://www.malwarebytes.com/blog/news/2026/02/age-verification-vendor-persona-left-frontend-exposed)
   - [Facebook ads spread fake Windows 11 downloads that steal passwords and crypto wallets](https://www.malwarebytes.com/blog/scams/2026/02/facebook-ads-spread-fake-windows-11-downloads-that-steal-passwords-and-crypto-wallets)
-- Didier Stevens
-  - [Update: rtfdump.py Version 0.0.14](https://blog.didierstevens.com/2026/02/20/update-rtfdump-py-version-0-0-14/)
+- SentinelOne
+  - [The Good, the Bad and the Ugly in Cybersecurity – Week 8](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-8-7/)
 - Intigriti
   - [Intigriti Bug Bytes #233 - February 2026 🚀](https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-233-february-2026)
 - Security Blog | Praetorian
@@ -46,28 +46,14 @@
   - [初四 · 纳福 | 烟火起，万事兴](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494760&idx=1&sn=b1c748c7b8b5a9cf837f6000f2b21947)
 - 黑鸟
   - [安卓手机间谍软件正利用生成式AI进入一个新阶段](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185383&idx=1&sn=8f297be76803827999a1f2bde88e3ac9)
+- 丁爸 情报分析师的工具箱
+  - [【分析】美国为什么要搞委内瑞拉和伊朗，对中国石油供应会产生什么影响？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154407&idx=1&sn=e3c8b5ea66226522daeea45721c8360e)
 - 极客公园
   - [Vibe Coding，是怎么「玩废」程序员的？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099654&idx=1&sn=cef2715a32a80bc28f6623abdf731103)
   - [Gemini 3.1 Pro 曝光，能力翻倍价格不变，谷歌想重新定义 AI 竞争规则](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099652&idx=1&sn=a3459493d4441b53f6b32f7ae7473b85)
   - [Google 深夜更新 Gemini 3.1 模型；传 OpenAI 敲定 1000 亿美元融资；黄仁勋：3 月发「震惊世界」的芯片 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099644&idx=1&sn=748d9e0995e5df98fb52854bf7be9098)
 - 吴鲁加
   - [找餐厅这件事，一百条好评不如一个靠谱的朋友](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485897&idx=1&sn=a177268b2b3fdf3ce7524ace335a545d)
-- 数世咨询
-  - [报告解读：身份安全与供应链风险亟需更多关注](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541777&idx=1&sn=9c7883db2bd85c854b7e5e68d15fc0f7)
-- 看雪学苑
-  - [刺杀 VMP 3.9.4混淆](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611117&idx=2&sn=92a2e9a7cef6100e9eaf3fc5eb991381)
-- 吾爱破解论坛
-  - [昨天上线的Android初级题居然只有一百多位同学完成！忘了提醒大家，这其实是个游戏题，完全不需要逆向技术就能搞定。你们不会连游戏都打不过吧？😂 快来试试看！](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143654&idx=1&sn=d5ab287170350315fb6d4410861bbe9d)
-- 360数字安全
-  - [大年初四 | 马迎灶神，“午”谷丰登](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585006&idx=1&sn=814c0cb1df6ab17e7d4ea03d6ce6ff10)
-- Securityinfo.it
-  - [Finanza nel mirino, incidenti raddoppiati nel 2025](https://www.securityinfo.it/2026/02/20/finanza-nel-mirino-incidenti-raddoppiati-nel-2025/?utm_source=rss&utm_medium=rss&utm_campaign=finanza-nel-mirino-incidenti-raddoppiati-nel-2025)
-- 安全行者老霍
-  - [如何构建事件响应框架](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485905&idx=1&sn=2f7eca14cf73db1da60aa7363692c5af)
-- bellingcat
-  - [Viral Child Soldiers on TikTok: The ‘Disney Stars’ of Sudan’s Civil War](https://www.bellingcat.com/news/2026/02/20/viral-child-soldiers-on-tiktok-the-disney-stars-of-sudans-civil-war/)
-- 迪哥讲事
-  - [点击劫持所造成的账户劫持](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499098&idx=1&sn=e9d8b4070283e50c72a0338dbcd4dac2)
 - Over Security - Cybersecurity news aggregator
   - [‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA](https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/)
   - [Romanian hacker faces up to 7 years for breaching Oregon emergency management department](https://therecord.media/romanian-hacker-faces-7-years-oregon-breach)
@@ -99,19 +85,31 @@
   - [Indicatori di compromissione](https://www.certego.net/blog/indicatori-di-compromissione-mdr/)
   - [La compliance che non protegge. Quando il GDPR resta solo sulla carta](https://www.cybersecurity360.it/legal/privacy-dati-personali/la-compliance-che-non-protegge-quando-il-gdpr-resta-solo-sulla-carta/)
   - [CarMax - 431,371 breached accounts](https://haveibeenpwned.com/Breach/CarMax)
+- 360数字安全
+  - [大年初四 | 马迎灶神，“午”谷丰登](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585006&idx=1&sn=814c0cb1df6ab17e7d4ea03d6ce6ff10)
+- Securityinfo.it
+  - [Finanza nel mirino, incidenti raddoppiati nel 2025](https://www.securityinfo.it/2026/02/20/finanza-nel-mirino-incidenti-raddoppiati-nel-2025/?utm_source=rss&utm_medium=rss&utm_campaign=finanza-nel-mirino-incidenti-raddoppiati-nel-2025)
+- 安全行者老霍
+  - [如何构建事件响应框架](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485905&idx=1&sn=2f7eca14cf73db1da60aa7363692c5af)
+- 看雪学苑
+  - [刺杀 VMP 3.9.4混淆](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611117&idx=2&sn=92a2e9a7cef6100e9eaf3fc5eb991381)
+- 迪哥讲事
+  - [点击劫持所造成的账户劫持](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499098&idx=1&sn=e9d8b4070283e50c72a0338dbcd4dac2)
+- Have I Been Pwned latest breaches
+  - [CarMax - 431,371 breached accounts](https://haveibeenpwned.com/Breach/CarMax)
 - ICT Security Magazine
   - [LLM sovrani europei: chi guida la corsa all’intelligenza artificiale indipendente](https://www.ictsecuritymagazine.com/notizie/llm-sovrani-europei/)
+- 数世咨询
+  - [报告解读：身份安全与供应链风险亟需更多关注](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541777&idx=1&sn=9c7883db2bd85c854b7e5e68d15fc0f7)
 - Schneier on Security
   - [Friday Squid Blogging: Squid Cartoon](https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-cartoon-3.html)
   - [Ring Cancels Its Partnership with Flock](https://www.schneier.com/blog/archives/2026/02/ring-cancels-its-partnership-with-flock.html)
+- 吾爱破解论坛
+  - [昨天上线的Android初级题居然只有一百多位同学完成！忘了提醒大家，这其实是个游戏题，完全不需要逆向技术就能搞定。你们不会连游戏都打不过吧？😂 快来试试看！](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143654&idx=1&sn=d5ab287170350315fb6d4410861bbe9d)
 - SANS Internet Storm Center, InfoCON: green
   - [ISC Stormcast For Friday, February 20th, 2026 https://isc.sans.edu/podcastdetail/9818, (Fri, Feb 20th)](https://isc.sans.edu/diary/rss/32732)
-- Have I Been Pwned latest breaches
-  - [CarMax - 431,371 breached accounts](https://haveibeenpwned.com/Breach/CarMax)
 - GRAHAM CLULEY
   - [Spanish police say they have arrested hacker who booked luxury hotel rooms for just one cent](https://www.bitdefender.com/en-us/blog/hotforsecurity/spanish-police-say-they-have-arrested-hacker-who-booked-luxury-hotel-rooms-for-just-one-cent)
-- Deeplinks
-  - [EFF’s Policy on LLM-Assisted Contributions to Our Open-Source Projects](https://www.eff.org/deeplinks/2026/02/effs-policy-llm-assisted-contributions-our-open-source-projects)
 - The Hacker News
   - [BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration](https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html)
   - [Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems](https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html)
@@ -120,11 +118,17 @@
   - [Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case](https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html)
   - [FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025](https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html)
   - [Former Google Engineers Indicted Over Trade Secret Transfers to Iran](https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html)
+- Deeplinks
+  - [EFF’s Policy on LLM-Assisted Contributions to Our Open-Source Projects](https://www.eff.org/deeplinks/2026/02/effs-policy-llm-assisted-contributions-our-open-source-projects)
+- Krebs on Security
+  - [‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA](https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/)
 - Security Affairs
   - [PayPal discloses extended data leak linked to Loan App glitch](https://securityaffairs.com/188309/data-breach/paypal-discloses-extended-data-leak-linked-to-loan-app-glitch.html)
   - [North Korean IT worker scam nets Ukrainian five-year sentence in the U.S.](https://securityaffairs.com/188305/cyber-crime/north-korean-it-worker-scam-nets-ukrainian-five-year-sentence-in-the-u-s.html)
   - [FBI warns of surge in ATM Jackpotting, $20 Million lost in 2025](https://securityaffairs.com/188281/cyber-crime/fbi-warns-of-surge-in-atm-jackpotting-20-million-lost-in-2025.html)
   - [Red Card 2.0: INTERPOL busts scam networks across Africa, seizes millions](https://securityaffairs.com/188272/cyber-crime/red-card-2-0-interpol-busts-scam-networks-across-africa-seizes-millions.html)
   - [PromptSpy abuses Gemini AI to gain persistent access on Android](https://securityaffairs.com/188261/ai/promptspy-abuses-gemini-ai-to-gain-persistent-access-on-android.html)
+- bellingcat
+  - [Viral Child Soldiers on TikTok: The ‘Disney Stars’ of Sudan’s Civil War](https://www.bellingcat.com/news/2026/02/20/viral-child-soldiers-on-tiktok-the-disney-stars-of-sudans-civil-war/)
 - Security Weekly Podcast Network (Audio)
   - [Code of Hammurabi, RockYou, MimicRat, Trustconnect, Introsort, AI, Josh Marpet... - SWN #557](http://sites.libsyn.com/18678/code-of-hammurabi-rockyou-mimicrat-trustconnect-introsort-ai-josh-marpet-swn-557)
