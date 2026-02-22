@@ -1,28 +1,25 @@
 # 每日安全资讯（2026-02-22）
 
-- InfoSec Write-ups - Medium
-  - [The Day AI Designed a Better Dashboard Than Me: A UI/UX Case Study Using OpenAI Tools](https://infosecwriteups.com/the-day-ai-designed-a-better-dashboard-than-me-a-ui-ux-case-study-using-openai-tools-6b446b7eceb1?source=rss----7b722bfd1b8d---4)
-  - [The $1,300 Sequel: How a simple retesting made me earn 500$ more for the same bug](https://infosecwriteups.com/the-1-300-sequel-why-retesting-is-a-bug-hunters-secret-weapon-b2734005f209?source=rss----7b722bfd1b8d---4)
-  - [Splunk Basics — Did you SIEM | Tryhackme | Day-3](https://infosecwriteups.com/splunk-basics-did-you-siem-tryhackme-day-3-d5813d219eb7?source=rss----7b722bfd1b8d---4)
-  - [Hacking Microsoft IIS: From Recon to Advanced Fuzzing](https://infosecwriteups.com/hacking-microsoft-iis-from-recon-to-advanced-fuzzing-013989524fe2?source=rss----7b722bfd1b8d---4)
-- Recent Commits to cve:main
-  - [Update Sat Feb 21 11:27:49 UTC 2026](https://github.com/trickest/cve/commit/c8e5bcfafca7e59b11c4489e875f1dcd8d721707)
 - SecWiki News
   - [SecWiki News 2026-02-21 Review](http://www.sec-wiki.com/?2026-02-21)
+- Recent Commits to cve:main
+  - [Update Sat Feb 21 11:27:49 UTC 2026](https://github.com/trickest/cve/commit/c8e5bcfafca7e59b11c4489e875f1dcd8d721707)
+- Taxodium
+  - [怀念方大同](https://taxodium.ink/in-memory-of-khalil-fong-1.html)
 - ふるつき
   - [Daily AlpacaHack B-SIDE 2/17-20 ECRSA writeup](https://furutsuki.hatenablog.com/entry/2026/02/21/155330)
-- Bug Bounty in InfoSec Write-ups on Medium
-  - [The $1,300 Sequel: How a simple retesting made me earn 500$ more for the same bug](https://infosecwriteups.com/the-1-300-sequel-why-retesting-is-a-bug-hunters-secret-weapon-b2734005f209?source=rss----7b722bfd1b8d--bug_bounty)
-  - [Hacking Microsoft IIS: From Recon to Advanced Fuzzing](https://infosecwriteups.com/hacking-microsoft-iis-from-recon-to-advanced-fuzzing-013989524fe2?source=rss----7b722bfd1b8d--bug_bounty)
 - Blogs  dade
   - [Joiners, Movers, Leavers - An IaC Problem](https://0xda.de/blog/2026/02/joiners-movers-leavers-an-iac-problem/)
   - [Managing My Servers](https://0xda.de/blog/2026/02/managing-my-servers/)
+- Bug Bounty in InfoSec Write-ups on Medium
+  - [The $1,300 Sequel: How a simple retesting made me earn 500$ more for the same bug](https://infosecwriteups.com/the-1-300-sequel-why-retesting-is-a-bug-hunters-secret-weapon-b2734005f209?source=rss----7b722bfd1b8d--bug_bounty)
+  - [Hacking Microsoft IIS: From Recon to Advanced Fuzzing](https://infosecwriteups.com/hacking-microsoft-iis-from-recon-to-advanced-fuzzing-013989524fe2?source=rss----7b722bfd1b8d--bug_bounty)
 - Didier Stevens
   - [Update: rtfdump.py Version 0.0.15](https://blog.didierstevens.com/2026/02/21/update-rtfdump-py-version-0-0-15/)
-- Toooold
-  - [The Least Action Nature of AdvJudge-Zero: A Lagrangian Perspective on LLM Steering](https://toooold.com/2026/02/21/advjudge_least_action.html)
 - Hexacorn
   - [1 little known secret of sti_ci.dll](https://www.hexacorn.com/blog/2026/02/21/1-little-known-secret-of-sti_ci-dll/)
+- Toooold
+  - [The Least Action Nature of AdvJudge-Zero: A Lagrangian Perspective on LLM Steering](https://toooold.com/2026/02/21/advjudge_least_action.html)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [加拿大校园枪击案枪手作案数月前曾与人工智能发生涉枪支暴力对话](https://blog.upx8.com/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%A0%A1%E5%9B%AD%E6%9E%AA%E5%87%BB%E6%A1%88%E6%9E%AA%E6%89%8B%E4%BD%9C%E6%A1%88%E6%95%B0%E6%9C%88%E5%89%8D%E6%9B%BE%E4%B8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E7%94%9F%E6%B6%89%E6%9E%AA%E6%94%AF%E6%9A%B4%E5%8A%9B%E5%AF%B9%E8%AF%9D)
   - [亚马逊：黑客凭AI工具五周横扫600个防火墙](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A-%E9%BB%91%E5%AE%A2%E5%87%ADAI%E5%B7%A5%E5%85%B7%E4%BA%94%E5%91%A8%E6%A8%AA%E6%89%AB600%E4%B8%AA%E9%98%B2%E7%81%AB%E5%A2%99)
@@ -33,40 +30,40 @@
   - [初五 · 迎财 | 财门，已大开](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494761&idx=1&sn=59b36c443692f9a53d44be4c4af8550d)
 - 黑鸟
   - [清理Git已合并分支：源自CIA泄露的开发文档的一行命令](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185393&idx=1&sn=b237da3e6f0d84faf3ff4c0dfa1e05f7)
-- 数世咨询
-  - [Claude进军代码安全，引发'鲇鱼效应'](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541785&idx=1&sn=368499f71aa8e5c2b688da66b63fdada)
+- 网安杂谈
+  - [Datawhale Easy-Vibe 开源学习 task4 为原型注入AI能力](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890019&idx=1&sn=bffb5e53053318bd56da9179415c8354)
 - 火绒安全
   - [正月初五 财运到](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530744&idx=1&sn=0c8318303a0d689277824ab2fba28f7a)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530744&idx=2&sn=b03ab9b5f69bc35e042c808e1ed3d1f7)
-- 网安杂谈
-  - [Datawhale Easy-Vibe 开源学习 task4 为原型注入AI能力](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890019&idx=1&sn=bffb5e53053318bd56da9179415c8354)
-- 情报分析师
-  - [朝鲜九大会讨论哪些议题？](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566820&idx=1&sn=e9ba5f140cd31c562f09589d33154f67)
+- 数世咨询
+  - [Claude进军代码安全，引发'鲇鱼效应'](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541785&idx=1&sn=368499f71aa8e5c2b688da66b63fdada)
 - 极客公园
   - [啊？今年春节，爸妈反过来教我用 AI？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099706&idx=1&sn=663b5334444fb7dd93c4d98a03df1d8d)
   - [为什么所有人都觉得 MiniMax、智谱「太贵了」？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099695&idx=1&sn=5a8c3815fd5d6db73aa6409f061ac9e3)
   - [智谱、MiniMax 市值均突破 3000 亿元，超快手携程；曝 OpenAI 研发多款 AI 硬件；苹果或移除 App Store 退出登录功能 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099686&idx=1&sn=ac20d06546d0359ef33ccd4a0fc969e2)
+- 情报分析师
+  - [朝鲜九大会讨论哪些议题？](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566820&idx=1&sn=e9ba5f140cd31c562f09589d33154f67)
+- 360数字安全
+  - [大年初五 | 马迎财神，“午”福生财](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585007&idx=1&sn=521cd0c480ea9cda1f3daecc58dab953)
+- 吴鲁加
+  - [向深处走](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485905&idx=1&sn=20feddb1ae94dd3709a9f80df0ca54fd)
 - Over Security - Cybersecurity news aggregator
   - [Predator spyware hooks iOS SpringBoard to hide mic, camera activity](https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/)
   - [Amazon: AI-assisted hacker breached 600 FortiGate firewalls in 5 weeks](https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/)
 - 安全行者老霍
   - [如何组建网络安全应急响应团队](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485910&idx=1&sn=80a87811dd2bfdd28580a9213e95c5bd)
-- 吴鲁加
-  - [向深处走](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485905&idx=1&sn=20feddb1ae94dd3709a9f80df0ca54fd)
 - ICT Security Magazine
   - [Cybercrime 2026: l’automazione ha già superato le difese](https://www.ictsecuritymagazine.com/notizie/cybercrime-2026-novita/)
-- 360数字安全
-  - [大年初五 | 马迎财神，“午”福生财](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585007&idx=1&sn=521cd0c480ea9cda1f3daecc58dab953)
-- BorderGate
-  - [OpenBSD Firewalls](https://www.bordergate.co.uk/openbsd-firewalls/)
 - SANS Internet Storm Center, InfoCON: green
   - [Japanese-Language Phishing Emails, (Sat, Feb 21st)](https://isc.sans.edu/diary/rss/32734)
-- Security Affairs
-  - [U.S. CISA adds RoundCube Webmail flaws to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/188324/security/u-s-cisa-adds-roundcube-webmail-flaws-to-its-known-exploited-vulnerabilities-catalog.html)
-- T00ls安全
-  - [🤙 T00ls祝大家 六六大顺 🚀](https://mp.weixin.qq.com/s?__biz=Mzg3NzYzODU5NQ==&mid=2247485724&idx=1&sn=7bc22062e7ea4599a0de63957e52e089)
 - The Hacker News
   - [AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries](https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html)
   - [Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning](https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html)
   - [CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog](https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html)
   - [EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security](https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html)
+- BorderGate
+  - [OpenBSD Firewalls](https://www.bordergate.co.uk/openbsd-firewalls/)
+- Security Affairs
+  - [U.S. CISA adds RoundCube Webmail flaws to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/188324/security/u-s-cisa-adds-roundcube-webmail-flaws-to-its-known-exploited-vulnerabilities-catalog.html)
+- T00ls安全
+  - [🤙 T00ls祝大家 六六大顺 🚀](https://mp.weixin.qq.com/s?__biz=Mzg3NzYzODU5NQ==&mid=2247485724&idx=1&sn=7bc22062e7ea4599a0de63957e52e089)
