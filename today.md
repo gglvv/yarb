@@ -2,31 +2,34 @@
 
 - Recent Commits to cve:main
   - [Update Sat Feb 21 11:27:49 UTC 2026](https://github.com/trickest/cve/commit/c8e5bcfafca7e59b11c4489e875f1dcd8d721707)
-- Taxodium
-  - [怀念方大同](https://taxodium.ink/in-memory-of-khalil-fong-1.html)
 - SecWiki News
   - [SecWiki News 2026-02-21 Review](http://www.sec-wiki.com/?2026-02-21)
+- Taxodium
+  - [怀念方大同](https://taxodium.ink/in-memory-of-khalil-fong-1.html)
+- ふるつき
+  - [Daily AlpacaHack B-SIDE 2/17-20 ECRSA writeup](https://furutsuki.hatenablog.com/entry/2026/02/21/155330)
 - Blogs  dade
   - [Joiners, Movers, Leavers - An IaC Problem](https://0xda.de/blog/2026/02/joiners-movers-leavers-an-iac-problem/)
   - [Managing My Servers](https://0xda.de/blog/2026/02/managing-my-servers/)
-- ふるつき
-  - [Daily AlpacaHack B-SIDE 2/17-20 ECRSA writeup](https://furutsuki.hatenablog.com/entry/2026/02/21/155330)
+- Bug Bounty in InfoSec Write-ups on Medium
+  - [The $1,300 Sequel: How a simple retesting made me earn 500$ more for the same bug](https://infosecwriteups.com/the-1-300-sequel-why-retesting-is-a-bug-hunters-secret-weapon-b2734005f209?source=rss----7b722bfd1b8d--bug_bounty)
+  - [Hacking Microsoft IIS: From Recon to Advanced Fuzzing](https://infosecwriteups.com/hacking-microsoft-iis-from-recon-to-advanced-fuzzing-013989524fe2?source=rss----7b722bfd1b8d--bug_bounty)
 - Didier Stevens
   - [Update: rtfdump.py Version 0.0.15](https://blog.didierstevens.com/2026/02/21/update-rtfdump-py-version-0-0-15/)
-- Hexacorn
-  - [1 little known secret of sti_ci.dll](https://www.hexacorn.com/blog/2026/02/21/1-little-known-secret-of-sti_ci-dll/)
 - Toooold
   - [The Least Action Nature of AdvJudge-Zero: A Lagrangian Perspective on LLM Steering](https://toooold.com/2026/02/21/advjudge_least_action.html)
+- Hexacorn
+  - [1 little known secret of sti_ci.dll](https://www.hexacorn.com/blog/2026/02/21/1-little-known-secret-of-sti_ci-dll/)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [加拿大校园枪击案枪手作案数月前曾与人工智能发生涉枪支暴力对话](https://blog.upx8.com/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%A0%A1%E5%9B%AD%E6%9E%AA%E5%87%BB%E6%A1%88%E6%9E%AA%E6%89%8B%E4%BD%9C%E6%A1%88%E6%95%B0%E6%9C%88%E5%89%8D%E6%9B%BE%E4%B8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E7%94%9F%E6%B6%89%E6%9E%AA%E6%94%AF%E6%9A%B4%E5%8A%9B%E5%AF%B9%E8%AF%9D)
   - [亚马逊：黑客凭AI工具五周横扫600个防火墙](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A-%E9%BB%91%E5%AE%A2%E5%87%ADAI%E5%B7%A5%E5%85%B7%E4%BA%94%E5%91%A8%E6%A8%AA%E6%89%AB600%E4%B8%AA%E9%98%B2%E7%81%AB%E5%A2%99)
   - [自动发布 24 小时情报系统（开源）](https://blog.upx8.com/24)
   - [越南称特朗普承诺让其取得美国先进技术](https://blog.upx8.com/%E8%B6%8A%E5%8D%97%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AF%BA%E8%AE%A9%E5%85%B6%E5%8F%96%E5%BE%97%E7%BE%8E%E5%9B%BD%E5%85%88%E8%BF%9B%E6%8A%80%E6%9C%AF)
   - [X平台就欧盟委员会1.2亿欧元罚款提起上诉](https://blog.upx8.com/X%E5%B9%B3%E5%8F%B0%E5%B0%B1%E6%AC%A7%E7%9B%9F%E5%A7%94%E5%91%98%E4%BC%9A1-2%E4%BA%BF%E6%AC%A7%E5%85%83%E7%BD%9A%E6%AC%BE%E6%8F%90%E8%B5%B7%E4%B8%8A%E8%AF%89)
-- 锦行科技
-  - [初五 · 迎财 | 财门，已大开](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494761&idx=1&sn=59b36c443692f9a53d44be4c4af8550d)
 - 安全分析与研究
   - [银狐黑产最新攻击样本内存静态特征与威胁情报](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495728&idx=1&sn=4f8a713ea0d1d57c712845f754c25391)
+- 锦行科技
+  - [初五 · 迎财 | 财门，已大开](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494761&idx=1&sn=59b36c443692f9a53d44be4c4af8550d)
 - 黑鸟
   - [清理Git已合并分支：源自CIA泄露的开发文档的一行命令](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185393&idx=1&sn=b237da3e6f0d84faf3ff4c0dfa1e05f7)
 - 网安杂谈
@@ -53,10 +56,10 @@
   - [Amazon: AI-assisted hacker breached 600 FortiGate firewalls in 5 weeks](https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/)
 - SANS Internet Storm Center, InfoCON: green
   - [Japanese-Language Phishing Emails, (Sat, Feb 21st)](https://isc.sans.edu/diary/rss/32734)
-- BorderGate
-  - [OpenBSD Firewalls](https://www.bordergate.co.uk/openbsd-firewalls/)
 - ICT Security Magazine
   - [Cybercrime 2026: l’automazione ha già superato le difese](https://www.ictsecuritymagazine.com/notizie/cybercrime-2026-novita/)
+- BorderGate
+  - [OpenBSD Firewalls](https://www.bordergate.co.uk/openbsd-firewalls/)
 - The Hacker News
   - [AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries](https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html)
   - [Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning](https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html)
