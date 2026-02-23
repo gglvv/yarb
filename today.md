@@ -1,7 +1,7 @@
 # 每日安全资讯（2026-02-23）
 
-- SecWiki News
-  - [SecWiki News 2026-02-22 Review](http://www.sec-wiki.com/?2026-02-22)
+- Recent Commits to cve:main
+  - [Update Sun Feb 22 11:19:57 UTC 2026](https://github.com/trickest/cve/commit/62bfabd5c9f7ea679bcacf24ddd761b10bcec3a4)
 - InfoSec Write-ups - Medium
   - [Jeeves Retired Box from Hackthebox](https://infosecwriteups.com/jeeves-retired-box-from-hackthebox-9721cb65b1d9?source=rss----7b722bfd1b8d---4)
   - [How Domain Enumeration, Content Discovery, Leaked Secrets, and Service URLs Converge into…](https://infosecwriteups.com/how-domain-enumeration-content-discovery-leaked-secrets-and-service-urls-converge-into-0e6d459d3880?source=rss----7b722bfd1b8d---4)
@@ -13,26 +13,29 @@
   - [Walking An Application | TryHackMe Write-Up](https://infosecwriteups.com/walking-an-application-tryhackme-write-up-5d6601cf54e6?source=rss----7b722bfd1b8d---4)
   - [6. WebSocket Authorization Bypass Vulnerability leads to $$$](https://infosecwriteups.com/6-websocket-authorization-bypass-vulnerability-leads-to-7dd3aa376558?source=rss----7b722bfd1b8d---4)
   - [Lab: CORS vulnerability with basic origin reflection(Portswigger Labs)](https://infosecwriteups.com/lab-cors-vulnerability-with-basic-origin-reflection-portswigger-labs-1d7699266907?source=rss----7b722bfd1b8d---4)
+- SecWiki News
+  - [SecWiki News 2026-02-22 Review](http://www.sec-wiki.com/?2026-02-22)
 - MaskRay
   - [Bit-field layout](https://maskray.me/blog/2026-02-22-bit-field-layout)
-- Recent Commits to cve:main
-  - [Update Sun Feb 22 11:19:57 UTC 2026](https://github.com/trickest/cve/commit/62bfabd5c9f7ea679bcacf24ddd761b10bcec3a4)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [Breaking the Box: bypassing Node.js Filesystem Permissions via Symlinks (CVE-2025–55130)](https://infosecwriteups.com/breaking-the-box-bypassing-node-js-filesystem-permissions-via-symlinks-cve-2025-55130-0b9ad44920f9?source=rss----7b722bfd1b8d--bug_bounty)
   - [6. WebSocket Authorization Bypass Vulnerability leads to $$$](https://infosecwriteups.com/6-websocket-authorization-bypass-vulnerability-leads-to-7dd3aa376558?source=rss----7b722bfd1b8d--bug_bounty)
   - [Lab: CORS vulnerability with basic origin reflection(Portswigger Labs)](https://infosecwriteups.com/lab-cors-vulnerability-with-basic-origin-reflection-portswigger-labs-1d7699266907?source=rss----7b722bfd1b8d--bug_bounty)
   - [How I Bought a $1400 Jacket for Free Using a Business Logic Flaw](https://infosecwriteups.com/how-i-bought-a-1400-jacket-for-free-using-a-business-logic-flaw-3b60b31252d0?source=rss----7b722bfd1b8d--bug_bounty)
+- Reverse Engineering
+  - [Obfusk8: lightweight Obfuscation library based on C++17 / Header Only for windows binaries](https://www.reddit.com/r/ReverseEngineering/comments/1rbhj4v/obfusk8_lightweight_obfuscation_library_based_on/)
+  - [[ BETA UPDATE ] LCSAJdump v1.1.1-beta is out — x86-64 support finally lands](https://www.reddit.com/r/ReverseEngineering/comments/1rbsgdh/beta_update_lcsajdump_v111beta_is_out_x8664/)
 - Malwarebytes
   - [What can&#8217;t you say on TikTok?](https://www.malwarebytes.com/blog/podcast/2026/02/what-cant-you-say-on-tiktok)
+- 锦行科技
+  - [初六 · 除晦 | 启程，向美好](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494762&idx=1&sn=0897090aa47a383cbfbad3e12272807e)
 - 奇客Solidot–传递最新科技情报
   - [当AI成为生产资料，谈谈技术格局](https://www.solidot.org/story?sid=83591)
   - [DNA 技术和家谱数据库破解 1982 年的谋杀案](https://www.solidot.org/story?sid=83590)
-- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [日本调查：创意界九成人认为AI威胁饭碗](https://blog.upx8.com/%E6%97%A5%E6%9C%AC%E8%B0%83%E6%9F%A5-%E5%88%9B%E6%84%8F%E7%95%8C%E4%B9%9D%E6%88%90%E4%BA%BA%E8%AE%A4%E4%B8%BAAI%E5%A8%81%E8%83%81%E9%A5%AD%E7%A2%97)
-- 锦行科技
-  - [初六 · 除晦 | 启程，向美好](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494762&idx=1&sn=0897090aa47a383cbfbad3e12272807e)
 - 黑鸟
   - [工业设备的 TPM 加密防线，竟被一根探针轻松攻破？](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185434&idx=1&sn=59cc8895a527e7397c0240bff0ccac02)
+- 丁爸 情报分析师的工具箱
+  - [【反恐】叙利亚霍尔难民营崩溃，激进化思想恐进一步全球蔓延](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154417&idx=1&sn=e7a623c17bcf0f9a40cf90525623abd3)
 - 安全研究GoSSIP
   - [G.O.S.S.I.P 2026 新春总动员（3）：PDF Mario！](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501432&idx=1&sn=5240418c25d0ab99831fc99859a53e09)
 - 中国信息安全
@@ -40,39 +43,57 @@
   - [专家解读 | 鲁传颖：以数字技术服务能力提升扩大高水平开放](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259430&idx=2&sn=641ba8579ad50ceb3a7a8df6641c0d32)
   - [前沿 | 网络数据安全风险评估机制面临的问题与制度优化措施](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259430&idx=3&sn=c050d09357668cc8d0870110ee6e726b)
   - [观点 | 筑牢数字平台治理的法治根基](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259430&idx=4&sn=20df5e46befcd8036b64579b6273cc5e)
-- 丁爸 情报分析师的工具箱
-  - [【反恐】叙利亚霍尔难民营崩溃，激进化思想恐进一步全球蔓延](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154417&idx=1&sn=e7a623c17bcf0f9a40cf90525623abd3)
-- 数世咨询
-  - [2026全球事件响应报告：黑客屡屡得手的6大“绝招”](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541792&idx=1&sn=9a79cfaa4c0ca8a9e3c3e8ff7a83e5e5)
-- 360数字安全
-  - [大年初六 | 马驰新途，顺“午”启程](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585008&idx=1&sn=9ece33d622fc8b259f2efd0b2ae25491)
-- 吴鲁加
-  - [每周两篇，手工打造，写到第十年](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485910&idx=1&sn=f6bfb82994a887b51f5b661c1ae87b08)
-- 情报分析师
-  - [开源情报正变得日益艰难](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566824&idx=1&sn=8314434d6fb3380c5eeb8cb250064ab3)
-- 安全行者老霍
-  - [向董事会推销技术投资：CISO和CIO的战略指南](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485923&idx=1&sn=68641a2da1583dcc65d3fc3cd3758ba7)
 - 极客公园
   - [详读 2 万 3 千字的新「AI 宪法」之后，我理解了 Anthropic 的痛苦](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099776&idx=1&sn=bd8edc2dac8f5e6175a22e4b1647b441)
   - [《原神》动画开始制作；腾讯：元宝月活 1.14 亿；Xbox 换帅，菲尔·斯宾塞退休 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099775&idx=1&sn=d3ce1042498435246f31b808b08098ee)
-- Have I Been Pwned latest breaches
-  - [CarGurus - 12,461,887 breached accounts](https://haveibeenpwned.com/Breach/CarGurus)
-- 吾爱破解论坛
-  - [[链接]【2026春节】解题领红包活动开始喽，](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143664&idx=1&sn=5e142ed20bace450208ece886d30f4b1)
-- Over Security - Cybersecurity news aggregator
-  - [Arkanix Stealer pops up as short-lived AI info-stealer experiment](https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/)
-  - [CarGurus - 12,461,887 breached accounts](https://haveibeenpwned.com/Breach/CarGurus)
+- 数世咨询
+  - [2026全球事件响应报告：黑客屡屡得手的6大“绝招”](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541792&idx=1&sn=9a79cfaa4c0ca8a9e3c3e8ff7a83e5e5)
+- 情报分析师
+  - [开源情报正变得日益艰难](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566824&idx=1&sn=8314434d6fb3380c5eeb8cb250064ab3)
+- 360数字安全
+  - [大年初六 | 马驰新途，顺“午”启程](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585008&idx=1&sn=9ece33d622fc8b259f2efd0b2ae25491)
 - 看雪学苑
   - [深入理解 Windows 进程属性：从 PPID 欺骗到句柄继承](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611118&idx=1&sn=a0d7e079f341eecb81c81823f459b9ff)
   - [【新课预售中】吃透 Windows 内核攻防！专家带练120h+ 生产级实战+AI工具](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611118&idx=2&sn=da2102a2b27f97a3cb31ecbf7ef31b97)
+- 安全行者老霍
+  - [向董事会推销技术投资：CISO和CIO的战略指南](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485923&idx=1&sn=68641a2da1583dcc65d3fc3cd3758ba7)
+- Over Security - Cybersecurity news aggregator
+  - [Arkanix Stealer pops up as short-lived AI info-stealer experiment](https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/)
+  - [CarGurus - 12,461,887 breached accounts](https://haveibeenpwned.com/Breach/CarGurus)
+- 吾爱破解论坛
+  - [[链接]【2026春节】解题领红包活动开始喽，](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143664&idx=1&sn=5e142ed20bace450208ece886d30f4b1)
 - 网络安全回收站
   - [万字长文：Oh My OpenCode 深度架构分析报告](https://mp.weixin.qq.com/s?__biz=Mzg2MTc1NDAxMA==&mid=2247485174&idx=1&sn=8e72d83b043773deae9f612814c1aadc)
+- Dark Space Blogspot
+  - [I Precursori Di Bitcoin: DigiCash, E-Gold, Hashcash, B-Money e Bit Gold (1989-2005)](http://darkwhite666.blogspot.com/2026/02/i-precursori-di-bitcoin-digicash-e-gold.html)
+- Have I Been Pwned latest breaches
+  - [CarGurus - 12,461,887 breached accounts](https://haveibeenpwned.com/Breach/CarGurus)
+- 吴鲁加
+  - [每周两篇，手工打造，写到第十年](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485910&idx=1&sn=f6bfb82994a887b51f5b661c1ae87b08)
+- Information Security
+  - [Shadow AI is our biggest security blind spot](https://www.reddit.com/r/Information_Security/comments/1rc0e0s/shadow_ai_is_our_biggest_security_blind_spot/)
+  - [Is hybrid mesh security worth adopting in 2026?](https://www.reddit.com/r/Information_Security/comments/1rbikw2/is_hybrid_mesh_security_worth_adopting_in_2026/)
+  - [Anthropic launched Claude Code Security two days ago and cybersecurity stocks tanked. Thoughts?](https://www.reddit.com/r/Information_Security/comments/1rb8lo3/anthropic_launched_claude_code_security_two_days/)
+  - [security alert fatigue seems like a symptom not the actual disease](https://www.reddit.com/r/Information_Security/comments/1rbget6/security_alert_fatigue_seems_like_a_symptom_not/)
+  - [Removed ≠ Gone: Track Malicious Chrome Extensions with an Open Source Tool](https://www.reddit.com/r/Information_Security/comments/1rbg3nb/removed_gone_track_malicious_chrome_extensions/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [Getting into bug bounty in 2026. What’s the smart way to start today?](https://www.reddit.com/r/netsecstudents/comments/1rbl8ja/getting_into_bug_bounty_in_2026_whats_the_smart/)
+  - [Built a CLI tool that aggregates outputs from multiple security scanners into one report. Would you actually use this?](https://www.reddit.com/r/netsecstudents/comments/1rbmvsj/built_a_cli_tool_that_aggregates_outputs_from/)
+- Deep Web
+  - [team needed](https://www.reddit.com/r/deepweb/comments/1rbohc3/team_needed/)
+- Technical Information Security Content & Discussion
+  - [How a single typo led to RCE in Firefox](https://www.reddit.com/r/netsec/comments/1rbjdso/how_a_single_typo_led_to_rce_in_firefox/)
+  - [Malicious Chrome extension targeting Apple App Store Connect developers through fake ASO service - full analysis](https://www.reddit.com/r/netsec/comments/1rbzbyv/malicious_chrome_extension_targeting_apple_app/)
 - Full Disclosure
   - [SEC Consult SA-20260218-0 :: Multiple Critical Vulnerabilities in NesterSoft WorkTime (on-prem/cloud)](https://seclists.org/fulldisclosure/2026/Feb/31)
   - [[KIS-2026-04] SmarterMail <= 9518 (MailboxId) Reflected Cross-Site Scripting Vulnerability](https://seclists.org/fulldisclosure/2026/Feb/30)
-- Dark Space Blogspot
-  - [I Precursori Di Bitcoin: DigiCash, E-Gold, Hashcash, B-Money e Bit Gold (1989-2005)](http://darkwhite666.blogspot.com/2026/02/i-precursori-di-bitcoin-digicash-e-gold.html)
 - Security Affairs
   - [Luxury hotel stays for just €0.01. Spanish police arrest hacker](https://securityaffairs.com/188344/cyber-crime/luxury-hotel-stays-for-just-e0-01-spanish-police-arrest-hacker.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 85](https://securityaffairs.com/188337/malware/security-affairs-malware-newsletter-round-85.html)
   - [Security Affairs newsletter Round 564 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/188332/breaking-news/security-affairs-newsletter-round-564-by-pierluigi-paganini-international-edition.html)
+- Your Open Hacker Community
+  - [I could not find a dictionary](https://www.reddit.com/r/HowToHack/comments/1rbpqfe/i_could_not_find_a_dictionary/)
+  - [Remote computer access](https://www.reddit.com/r/HowToHack/comments/1rbookz/remote_computer_access/)
+  - [Hacking vs. Cloning; Expert’s input requested?](https://www.reddit.com/r/HowToHack/comments/1rb7n2o/hacking_vs_cloning_experts_input_requested/)
+  - [Help me please I think I have been hack or my girlfriend was hacked](https://www.reddit.com/r/HowToHack/comments/1rbgi7d/help_me_please_i_think_i_have_been_hack_or_my/)
+  - [Is it possible for someone to delete their phone number from your phone?](https://www.reddit.com/r/HowToHack/comments/1rbd5v8/is_it_possible_for_someone_to_delete_their_phone/)
