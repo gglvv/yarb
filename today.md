@@ -24,49 +24,43 @@
   - [How I Bought a $1400 Jacket for Free Using a Business Logic Flaw](https://infosecwriteups.com/how-i-bought-a-1400-jacket-for-free-using-a-business-logic-flaw-3b60b31252d0?source=rss----7b722bfd1b8d--bug_bounty)
 - Malwarebytes
   - [What can&#8217;t you say on TikTok?](https://www.malwarebytes.com/blog/podcast/2026/02/what-cant-you-say-on-tiktok)
+- 奇客Solidot–传递最新科技情报
+  - [当AI成为生产资料，谈谈技术格局](https://www.solidot.org/story?sid=83591)
+  - [DNA 技术和家谱数据库破解 1982 年的谋杀案](https://www.solidot.org/story?sid=83590)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [日本调查：创意界九成人认为AI威胁饭碗](https://blog.upx8.com/%E6%97%A5%E6%9C%AC%E8%B0%83%E6%9F%A5-%E5%88%9B%E6%84%8F%E7%95%8C%E4%B9%9D%E6%88%90%E4%BA%BA%E8%AE%A4%E4%B8%BAAI%E5%A8%81%E8%83%81%E9%A5%AD%E7%A2%97)
   - [宏碁华硕与诺基亚专利纠纷 部分PC暂停德国销售](https://blog.upx8.com/%E5%AE%8F%E7%A2%81%E5%8D%8E%E7%A1%95%E4%B8%8E%E8%AF%BA%E5%9F%BA%E4%BA%9A%E4%B8%93%E5%88%A9%E7%BA%A0%E7%BA%B7-%E9%83%A8%E5%88%86PC%E6%9A%82%E5%81%9C%E5%BE%B7%E5%9B%BD%E9%94%80%E5%94%AE)
   - [新任Xbox掌门人被指营造玩家人设](https://blog.upx8.com/%E6%96%B0%E4%BB%BBXbox%E6%8E%8C%E9%97%A8%E4%BA%BA%E8%A2%AB%E6%8C%87%E8%90%A5%E9%80%A0%E7%8E%A9%E5%AE%B6%E4%BA%BA%E8%AE%BE)
   - [谷歌副总裁警告称“大模型封装”与“模型聚合”将死](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%89%AF%E6%80%BB%E8%A3%81%E8%AD%A6%E5%91%8A%E7%A7%B0-%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B0%81%E8%A3%85-%E4%B8%8E-%E6%A8%A1%E5%9E%8B%E8%81%9A%E5%90%88-%E5%B0%86%E6%AD%BB)
-  - [重稀土价格急涨 中日对立担忧推升钇价翻倍](https://blog.upx8.com/%E9%87%8D%E7%A8%80%E5%9C%9F%E4%BB%B7%E6%A0%BC%E6%80%A5%E6%B6%A8-%E4%B8%AD%E6%97%A5%E5%AF%B9%E7%AB%8B%E6%8B%85%E5%BF%A7%E6%8E%A8%E5%8D%87%E9%92%87%E4%BB%B7%E7%BF%BB%E5%80%8D)
-  - [账号利用AI在日本众议院选举中组织参与了“反高市行动”](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E8%B4%A6%E5%8F%B7%E5%88%A9%E7%94%A8AI%E5%9C%A8%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%E4%B8%AD%E7%BB%84%E7%BB%87%E5%8F%82%E4%B8%8E%E4%BA%86-%E5%8F%8D%E9%AB%98%E5%B8%82%E8%A1%8C%E5%8A%A8)
-- 奇客Solidot–传递最新科技情报
-  - [当AI成为生产资料，谈谈技术格局](https://www.solidot.org/story?sid=83591)
-  - [DNA 技术和家谱数据库破解 1982 年的谋杀案](https://www.solidot.org/story?sid=83590)
 - 锦行科技
   - [初六 · 除晦 | 启程，向美好](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494762&idx=1&sn=0897090aa47a383cbfbad3e12272807e)
 - 黑鸟
   - [工业设备的 TPM 加密防线，竟被一根探针轻松攻破？](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185434&idx=1&sn=59cc8895a527e7397c0240bff0ccac02)
 - 安全研究GoSSIP
   - [G.O.S.S.I.P 2026 新春总动员（3）：PDF Mario！](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501432&idx=1&sn=5240418c25d0ab99831fc99859a53e09)
+- 丁爸 情报分析师的工具箱
+  - [【反恐】叙利亚霍尔难民营崩溃，激进化思想恐进一步全球蔓延](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154417&idx=1&sn=e7a623c17bcf0f9a40cf90525623abd3)
 - 中国信息安全
   - [论坛·2025全球网安概览 | 韧性悖论：2025年欧盟网络安全态势综述](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259430&idx=1&sn=6d8f77765668ffddbe2f1829ab50be90)
   - [专家解读 | 鲁传颖：以数字技术服务能力提升扩大高水平开放](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259430&idx=2&sn=641ba8579ad50ceb3a7a8df6641c0d32)
   - [前沿 | 网络数据安全风险评估机制面临的问题与制度优化措施](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259430&idx=3&sn=c050d09357668cc8d0870110ee6e726b)
   - [观点 | 筑牢数字平台治理的法治根基](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259430&idx=4&sn=20df5e46befcd8036b64579b6273cc5e)
-- 丁爸 情报分析师的工具箱
-  - [【反恐】叙利亚霍尔难民营崩溃，激进化思想恐进一步全球蔓延](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154417&idx=1&sn=e7a623c17bcf0f9a40cf90525623abd3)
 - 数世咨询
   - [2026全球事件响应报告：黑客屡屡得手的6大“绝招”](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541792&idx=1&sn=9a79cfaa4c0ca8a9e3c3e8ff7a83e5e5)
 - 极客公园
   - [详读 2 万 3 千字的新「AI 宪法」之后，我理解了 Anthropic 的痛苦](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099776&idx=1&sn=bd8edc2dac8f5e6175a22e4b1647b441)
   - [《原神》动画开始制作；腾讯：元宝月活 1.14 亿；Xbox 换帅，菲尔·斯宾塞退休 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099775&idx=1&sn=d3ce1042498435246f31b808b08098ee)
+- 吴鲁加
+  - [每周两篇，手工打造，写到第十年](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485910&idx=1&sn=f6bfb82994a887b51f5b661c1ae87b08)
 - 情报分析师
   - [开源情报正变得日益艰难](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566824&idx=1&sn=8314434d6fb3380c5eeb8cb250064ab3)
-- 360数字安全
-  - [大年初六 | 马驰新途，顺“午”启程](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585008&idx=1&sn=9ece33d622fc8b259f2efd0b2ae25491)
+- 吾爱破解论坛
+  - [[链接]【2026春节】解题领红包活动开始喽，](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143664&idx=1&sn=5e142ed20bace450208ece886d30f4b1)
+- Have I Been Pwned latest breaches
+  - [CarGurus - 12,461,887 breached accounts](https://haveibeenpwned.com/Breach/CarGurus)
 - Over Security - Cybersecurity news aggregator
   - [Arkanix Stealer pops up as short-lived AI info-stealer experiment](https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/)
   - [CarGurus - 12,461,887 breached accounts](https://haveibeenpwned.com/Breach/CarGurus)
-- 吴鲁加
-  - [每周两篇，手工打造，写到第十年](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485910&idx=1&sn=f6bfb82994a887b51f5b661c1ae87b08)
-- Have I Been Pwned latest breaches
-  - [CarGurus - 12,461,887 breached accounts](https://haveibeenpwned.com/Breach/CarGurus)
-- 安全行者老霍
-  - [向董事会推销技术投资：CISO和CIO的战略指南](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485923&idx=1&sn=68641a2da1583dcc65d3fc3cd3758ba7)
-- 吾爱破解论坛
-  - [[链接]【2026春节】解题领红包活动开始喽，](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143664&idx=1&sn=5e142ed20bace450208ece886d30f4b1)
 - Dark Space Blogspot
   - [I Precursori Di Bitcoin: DigiCash, E-Gold, Hashcash, B-Money e Bit Gold (1989-2005)](http://darkwhite666.blogspot.com/2026/02/i-precursori-di-bitcoin-digicash-e-gold.html)
 - 看雪学苑
@@ -77,7 +71,11 @@
   - [[KIS-2026-04] SmarterMail <= 9518 (MailboxId) Reflected Cross-Site Scripting Vulnerability](https://seclists.org/fulldisclosure/2026/Feb/30)
 - 网络安全回收站
   - [万字长文：Oh My OpenCode 深度架构分析报告](https://mp.weixin.qq.com/s?__biz=Mzg2MTc1NDAxMA==&mid=2247485174&idx=1&sn=8e72d83b043773deae9f612814c1aadc)
+- 360数字安全
+  - [大年初六 | 马驰新途，顺“午”启程](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585008&idx=1&sn=9ece33d622fc8b259f2efd0b2ae25491)
 - Security Affairs
   - [Luxury hotel stays for just €0.01. Spanish police arrest hacker](https://securityaffairs.com/188344/cyber-crime/luxury-hotel-stays-for-just-e0-01-spanish-police-arrest-hacker.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 85](https://securityaffairs.com/188337/malware/security-affairs-malware-newsletter-round-85.html)
   - [Security Affairs newsletter Round 564 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/188332/breaking-news/security-affairs-newsletter-round-564-by-pierluigi-paganini-international-edition.html)
+- 安全行者老霍
+  - [向董事会推销技术投资：CISO和CIO的战略指南](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485923&idx=1&sn=68641a2da1583dcc65d3fc3cd3758ba7)
