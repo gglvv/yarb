@@ -2,17 +2,10 @@
 
 - Recent Commits to cve:main
   - [Update Mon Feb 23 11:22:32 UTC 2026](https://github.com/trickest/cve/commit/24957148160aad13fa6a2f9f8fb941da9f167f5f)
-- SecWiki News
-  - [SecWiki News 2026-02-23 Review](http://www.sec-wiki.com/?2026-02-23)
-- CXSECURITY Database RSS Feed - CXSecurity.com
-  - [Oracle HTTP Server & WebLogic Proxy Plug-in – Unauthenticated Improper Access Control](https://cxsecurity.com/issue/WLB-2026020027)
-  - [FreeBSD rtsold 15.x Remote Code Execution via DNSSL](https://cxsecurity.com/issue/WLB-2026020026)
-  - [FileBrowser ≤ v2.57.0 - Path-Based Access Control Bypass via Multiple Leading Slashes in URL (Authenticated Authorization Byp](https://cxsecurity.com/issue/WLB-2026020025)
-  - [Icinga for Windows 1.13.3 - Incorrect Default Permissions Private Key Exposure](https://cxsecurity.com/issue/WLB-2026020024)
-  - [LangGraph SQLite Checkpoint - SQL Injection via Metadata Filter Key](https://cxsecurity.com/issue/WLB-2026020023)
-  - [Google Chrome <  145.0.7632.75 - CSSFontFeatureValuesMap Use-After-Free](https://cxsecurity.com/issue/WLB-2026020022)
 - 博客
   - [Do not using here string in base64 cmd](https://dyrnq.com/do-not-using-here-string-in-base64-cmd/)
+- SecWiki News
+  - [SecWiki News 2026-02-23 Review](http://www.sec-wiki.com/?2026-02-23)
 - Cerbero Blog
   - [Memory Challenge 17: Recollection](https://blog.cerbero.io/memory-challenge-17-recollection/)
 - Payatu
@@ -24,21 +17,28 @@
   - [Password managers keep your passwords safe, unless…](https://www.malwarebytes.com/blog/news/2026/02/password-managers-keep-your-passwords-safe-unless)
   - [Fake Huorong security site infects users with ValleyRAT](https://www.malwarebytes.com/blog/scams/2026/02/huorong)
   - [A week in security (February 16 &#8211; February 22)](https://www.malwarebytes.com/blog/news/2026/02/a-week-in-security-february-16-february-22)
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [Oracle HTTP Server & WebLogic Proxy Plug-in – Unauthenticated Improper Access Control](https://cxsecurity.com/issue/WLB-2026020027)
+  - [FreeBSD rtsold 15.x Remote Code Execution via DNSSL](https://cxsecurity.com/issue/WLB-2026020026)
+  - [FileBrowser ≤ v2.57.0 - Path-Based Access Control Bypass via Multiple Leading Slashes in URL (Authenticated Authorization Byp](https://cxsecurity.com/issue/WLB-2026020025)
+  - [Icinga for Windows 1.13.3 - Incorrect Default Permissions Private Key Exposure](https://cxsecurity.com/issue/WLB-2026020024)
+  - [LangGraph SQLite Checkpoint - SQL Injection via Metadata Filter Key](https://cxsecurity.com/issue/WLB-2026020023)
+  - [Google Chrome <  145.0.7632.75 - CSSFontFeatureValuesMap Use-After-Free](https://cxsecurity.com/issue/WLB-2026020022)
+- Reverse Engineering
+  - [/r/ReverseEngineering's Weekly Questions Thread](https://www.reddit.com/r/ReverseEngineering/comments/1rcbjee/rreverseengineerings_weekly_questions_thread/)
+  - [I got tired of digging through noisy driver patches, so I built a semantic diff engine for Windows kernel drivers](https://www.reddit.com/r/ReverseEngineering/comments/1rcpx6r/i_got_tired_of_digging_through_noisy_driver/)
+  - [Reverse Engineering the PROM for the SGI O2](https://www.reddit.com/r/ReverseEngineering/comments/1rcvqkm/reverse_engineering_the_prom_for_the_sgi_o2/)
+  - [GitHub - merces/awesome-hex-editors: A curated and enriched list of awesome hexadecimal editors for Windows, macOS, and Linux.](https://www.reddit.com/r/ReverseEngineering/comments/1rc6spa/github_mercesawesomehexeditors_a_curated_and/)
 - Checkmarx
   - [AI Code Needs AI Security: Why Claude’s Announcement Signals a Bigger Shift](https://checkmarx.com/blog/ai-code-needs-ai-security-why-claudes-announcement-signals-a-bigger-shift/)
 - 奇客Solidot–传递最新科技情报
   - [F-35 能被越狱安装第三方软件](https://www.solidot.org/story?sid=83596)
   - [Linux 7.0-rc1 释出](https://www.solidot.org/story?sid=83595)
   - [雏鸡也存在 Bouba/Kiki 效应](https://www.solidot.org/story?sid=83594)
-- 锦行科技
-  - [初七 · 庆生 |  人强，马壮](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494763&idx=1&sn=daac9311fe0683f9663670ab401b212d)
 - 威努特安全网络
   - [低空经济下无人机产业的网络安全挑战与应对策略](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651140125&idx=1&sn=40991f64a01972c71211342e67c0df0f)
-- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [Anthropic：深度求索等中企蒸馏了其AI模型](https://blog.upx8.com/Anthropic-%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%E7%AD%89%E4%B8%AD%E4%BC%81%E8%92%B8%E9%A6%8F%E4%BA%86%E5%85%B6AI%E6%A8%A1%E5%9E%8B)
-  - [巴拿马公告最高法院裁定长和港口合约无效](https://blog.upx8.com/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E5%85%AC%E5%91%8A%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A%E9%95%BF%E5%92%8C%E6%B8%AF%E5%8F%A3%E5%90%88%E7%BA%A6%E6%97%A0%E6%95%88)
-  - [阿联酋称挫败了针对重要部门的网络攻击](https://blog.upx8.com/%E9%98%BF%E8%81%94%E9%85%8B%E7%A7%B0%E6%8C%AB%E8%B4%A5%E4%BA%86%E9%92%88%E5%AF%B9%E9%87%8D%E8%A6%81%E9%83%A8%E9%97%A8%E7%9A%84%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB)
-  - [韩国三大电视台因版权问题起诉OpenAI](https://blog.upx8.com/%E9%9F%A9%E5%9B%BD%E4%B8%89%E5%A4%A7%E7%94%B5%E8%A7%86%E5%8F%B0%E5%9B%A0%E7%89%88%E6%9D%83%E9%97%AE%E9%A2%98%E8%B5%B7%E8%AF%89OpenAI)
+- 锦行科技
+  - [初七 · 庆生 |  人强，马壮](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494763&idx=1&sn=daac9311fe0683f9663670ab401b212d)
 - 黑鸟
   - [预装系统应用的隐私盲区：天气应用将位置收藏转化为可追踪唯一标识](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185440&idx=1&sn=2ff0bc702df0492ae1a4d133f9a6e69b)
 - 安全研究GoSSIP
@@ -51,29 +51,18 @@
 - 极客公园
   - [20 年生命 vs 2 小时训练，Sam Altman 开始算「人肉成本」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099800&idx=1&sn=42c25bf71b903a6d0dd51e004863c2f8)
   - [最强年货，华强北 AI 眼镜销量暴涨 80%；传腾讯元宝跌出苹果商店前 10；嫌犯用 GPT 生成暴力场景，OpenAI 报警 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099792&idx=1&sn=bcc73edbda21923d2919eb7f6f02e978)
+- 360数字安全
+  - [大年初七 | 马载千祥，“午”福绵长](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585011&idx=1&sn=ea5701e0e4010e28525722ce9a9d7ed2)
 - 数世咨询
   - [ATM深夜狂吐钞票，美国5年损失超4000万美元](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541796&idx=1&sn=f53aad4c55b7fc216b95d01e970ee2bf)
-- 迪哥讲事
-  - [2026年需重点关注的几类高价值漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499104&idx=1&sn=177f60dfbf265322390cd98eac4a2a81)
 - 吴鲁加
   - [春节归来，怎么跟你多出来的这 5 斤肉和解？](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485901&idx=1&sn=93d26af8d5216640f0ab6c51e7731a74)
 - 安全行者老霍
   - [OpenClaw集成VirusTotal扫描检测恶意ClawHub Skills](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485944&idx=1&sn=d7dc58f984521fbcc4c139d69a56778e)
-- 360数字安全
-  - [大年初七 | 马载千祥，“午”福绵长](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585011&idx=1&sn=ea5701e0e4010e28525722ce9a9d7ed2)
-- ICT Security Magazine
-  - [Whistleblowing e ritorsioni: le sentenze del 2025 che cambiano le regole del gioco](https://www.ictsecuritymagazine.com/notizie/whistleblowing-e-ritorsioni/)
-  - [e-Health: verso una sanità digitale](https://www.ictsecuritymagazine.com/articoli/e-health/)
 - Securityinfo.it
   - [Ring: una taglia a 4 zeri per forzare l’esecuzione in locale](https://www.securityinfo.it/2026/02/23/ring-una-taglia-a-4-zeri-per-forzare-lesecuzione-in-locale/?utm_source=rss&utm_medium=rss&utm_campaign=ring-una-taglia-a-4-zeri-per-forzare-lesecuzione-in-locale)
-- SANS Internet Storm Center, InfoCON: green
-  - [Another day, another malicious JPEG, (Mon, Feb 23rd)](https://isc.sans.edu/diary/rss/32738)
-  - [ISC Stormcast For Monday, February 23rd, 2026 https://isc.sans.edu/podcastdetail/9820, (Mon, Feb 23rd)](https://isc.sans.edu/diary/rss/32736)
 - NetSPI
   - [Stay Ahead of Cloud Threats: Introducing Azure and AWS Security Reviews](https://www.netspi.com/blog/executive-blog/cloud-pentesting/stay-ahead-of-cloud-threats-introducing-azure-and-aws-security-reviews/)
-- Daniel Miessler
-  - [Why I Hate Anthropic and You Should Too](https://danielmiessler.com/blog/why-you-should-hate-anthropic?utm_source=rss&utm_medium=feed&utm_campaign=website)
-  - [Bitter-Pilled Engineering](https://danielmiessler.com/blog/bitter-pilled-engineering?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - Over Security - Cybersecurity news aggregator
   - [Android mental health apps with 14.7M installs filled with security flaws](https://www.bleepingcomputer.com/news/security/android-mental-health-apps-with-147m-installs-filled-with-security-flaws/)
   - [Spain arrests suspected hacktivists for DDoSing govt sites](https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-anonymous-fenix-hacktivists-for-ddosing-govt-sites/)
@@ -98,6 +87,50 @@
   - [X vs EU: Platform Appeals Against €120M Digital Services Act Penalty](https://thecyberexpress.com/e120m-digital-services-act-penalty/)
   - [Analisi dei processi e teoria dei sistemi: un framework per mitigare i rischi dei LLM](https://www.cybersecurity360.it/cultura-cyber/analisi-dei-processi-e-teoria-dei-sistemi-un-framework-per-mitigare-i-rischi-dei-llm/)
   - [UAE Blocked AI-Powered Terrorist Cyberattacks Targeting Critical Infrastructure](https://thecyberexpress.com/uae-blocked-ai-powered-terrorist-cyberattacks/)
+- 迪哥讲事
+  - [2026年需重点关注的几类高价值漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499104&idx=1&sn=177f60dfbf265322390cd98eac4a2a81)
+- Schneier on Security
+  - [On the Security of Password Managers](https://www.schneier.com/blog/archives/2026/02/on-the-security-of-password-managers.html)
+- ICT Security Magazine
+  - [Whistleblowing e ritorsioni: le sentenze del 2025 che cambiano le regole del gioco](https://www.ictsecuritymagazine.com/notizie/whistleblowing-e-ritorsioni/)
+  - [e-Health: verso una sanità digitale](https://www.ictsecuritymagazine.com/articoli/e-health/)
+- SANS Internet Storm Center, InfoCON: green
+  - [Another day, another malicious JPEG, (Mon, Feb 23rd)](https://isc.sans.edu/diary/rss/32738)
+  - [ISC Stormcast For Monday, February 23rd, 2026 https://isc.sans.edu/podcastdetail/9820, (Mon, Feb 23rd)](https://isc.sans.edu/diary/rss/32736)
+- Daniel Miessler
+  - [Why I Hate Anthropic and You Should Too](https://danielmiessler.com/blog/why-you-should-hate-anthropic?utm_source=rss&utm_medium=feed&utm_campaign=website)
+  - [Bitter-Pilled Engineering](https://danielmiessler.com/blog/bitter-pilled-engineering?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- Security Affairs
+  - [Wormable XMRig campaign leverages BYOVD and timed kill switch for stealth](https://securityaffairs.com/188388/malware/wormable-xmrig-campaign-leverages-byovd-and-timed-kill-switch-for-stealth.html)
+  - [Romanian hacker pleads guilty to selling access to Oregon state networks](https://securityaffairs.com/188380/cyber-crime/romanian-hacker-pleads-guilty-to-selling-access-to-oregon-state-networks.html)
+  - [CVE-2026-1731 fuels ongoing attacks on BeyondTrust remote access products](https://securityaffairs.com/188370/hacking/cve-2026-1731-fuels-ongoing-attacks-on-beyondtrust-remote-access-products.html)
+  - [AI-powered campaign compromises 600 FortiGate systems worldwide](https://securityaffairs.com/188351/hacking/ai-powered-campaign-compromises-600-fortigate-systems-worldwide.html)
+  - [Anthropic unveils Claude Code Security to detect and fix code bugs](https://securityaffairs.com/188358/ai/anthropic-unveils-claude-code-security-to-detect-and-fix-code-bugs.html)
+- Technical Information Security Content & Discussion
+  - [Another exposed Supabase DB strikes: 20k+ attendees and FULL write access](https://www.reddit.com/r/netsec/comments/1rconlm/another_exposed_supabase_db_strikes_20k_attendees/)
+  - [Have you tried turning it off and on again? On bricking OT devices (part 2)](https://www.reddit.com/r/netsec/comments/1rcexc6/have_you_tried_turning_it_off_and_on_again_on/)
+  - [Scary datapoints re network visibility in Dragos annual report on OT cyberattacks](https://www.reddit.com/r/netsec/comments/1rc6t3w/scary_datapoints_re_network_visibility_in_dragos/)
+- Deep Web
+  - [Search](https://www.reddit.com/r/deepweb/comments/1rchd9x/search/)
+  - [Excavator](https://www.reddit.com/r/deepweb/comments/1rc85de/excavator/)
+- Computer Forensics
+  - [I was offered a position that is beyond my experience level](https://www.reddit.com/r/computerforensics/comments/1rce2ed/i_was_offered_a_position_that_is_beyond_my/)
+  - [windows 10 pro spool](https://www.reddit.com/r/computerforensics/comments/1rcfkyb/windows_10_pro_spool/)
+- Information Security
+  - [600 FortiGate firewalls compromised across 55 countries. not a zero-day. just exposed management ports and no MFA](https://www.reddit.com/r/Information_Security/comments/1rci7gc/600_fortigate_firewalls_compromised_across_55/)
+  - [Weatherzero](https://www.reddit.com/r/Information_Security/comments/1rcjzmo/weatherzero/)
+  - [Mapping the federal identity verification contract stack: IBM VIS modernization + Palantir analytics layer](https://www.reddit.com/r/Information_Security/comments/1rc6ria/mapping_the_federal_identity_verification/)
+  - [Checking Security Alerts During Business Hours” Is No Longer Enough](https://www.reddit.com/r/Information_Security/comments/1rcg7b0/checking_security_alerts_during_business_hours_is/)
+- Security Weekly Podcast Network (Audio)
+  - [Bringing intelligence to assets, new White House cybersecurity strategy, and the news - Tim Morris - ESW #447](http://sites.libsyn.com/18678/bringing-intelligence-to-assets-new-white-house-cybersecurity-strategy-and-the-news-tim-morris-esw-447)
+- Your Open Hacker Community
+  - [Is there a way to find my raw gps data?](https://www.reddit.com/r/HowToHack/comments/1rcwo9u/is_there_a_way_to_find_my_raw_gps_data/)
+  - [Please help me recover my dads photos and phone](https://www.reddit.com/r/HowToHack/comments/1rcbot8/please_help_me_recover_my_dads_photos_and_phone/)
+  - [Android 12, Moto g40, how to unlock](https://www.reddit.com/r/HowToHack/comments/1rcaj0f/android_12_moto_g40_how_to_unlock/)
+  - [iPhone Pictures Access](https://www.reddit.com/r/HowToHack/comments/1rcvv6n/iphone_pictures_access/)
+  - [Help to end network/device hacking attack please](https://www.reddit.com/r/HowToHack/comments/1rcfzsu/help_to_end_networkdevice_hacking_attack_please/)
+  - [Is this exe file safe?](https://www.reddit.com/r/HowToHack/comments/1rcq3br/is_this_exe_file_safe/)
+  - [How can i find someones social media account using only there name, country and date of birth?](https://www.reddit.com/r/HowToHack/comments/1rcmmji/how_can_i_find_someones_social_media_account/)
 - The Hacker News
   - [APT28 Targeted European Entities Using Webhook-Based Macro Malware](https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html)
   - [Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb](https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html)
@@ -105,13 +138,3 @@
   - [How Exposed Endpoints Increase Risk Across LLM Infrastructure](https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html)
   - [Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens](https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html)
   - [MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP](https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html)
-- Schneier on Security
-  - [On the Security of Password Managers](https://www.schneier.com/blog/archives/2026/02/on-the-security-of-password-managers.html)
-- Security Affairs
-  - [Wormable XMRig campaign leverages BYOVD and timed kill switch for stealth](https://securityaffairs.com/188388/malware/wormable-xmrig-campaign-leverages-byovd-and-timed-kill-switch-for-stealth.html)
-  - [Romanian hacker pleads guilty to selling access to Oregon state networks](https://securityaffairs.com/188380/cyber-crime/romanian-hacker-pleads-guilty-to-selling-access-to-oregon-state-networks.html)
-  - [CVE-2026-1731 fuels ongoing attacks on BeyondTrust remote access products](https://securityaffairs.com/188370/hacking/cve-2026-1731-fuels-ongoing-attacks-on-beyondtrust-remote-access-products.html)
-  - [AI-powered campaign compromises 600 FortiGate systems worldwide](https://securityaffairs.com/188351/hacking/ai-powered-campaign-compromises-600-fortigate-systems-worldwide.html)
-  - [Anthropic unveils Claude Code Security to detect and fix code bugs](https://securityaffairs.com/188358/ai/anthropic-unveils-claude-code-security-to-detect-and-fix-code-bugs.html)
-- Security Weekly Podcast Network (Audio)
-  - [Bringing intelligence to assets, new White House cybersecurity strategy, and the news - Tim Morris - ESW #447](http://sites.libsyn.com/18678/bringing-intelligence-to-assets-new-white-house-cybersecurity-strategy-and-the-news-tim-morris-esw-447)
