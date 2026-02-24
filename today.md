@@ -2,8 +2,6 @@
 
 - SecWiki News
   - [SecWiki News 2026-02-23 Review](http://www.sec-wiki.com/?2026-02-23)
-- Recent Commits to cve:main
-  - [Update Mon Feb 23 11:22:32 UTC 2026](https://github.com/trickest/cve/commit/24957148160aad13fa6a2f9f8fb941da9f167f5f)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [Oracle HTTP Server & WebLogic Proxy Plug-in – Unauthenticated Improper Access Control](https://cxsecurity.com/issue/WLB-2026020027)
   - [FreeBSD rtsold 15.x Remote Code Execution via DNSSL](https://cxsecurity.com/issue/WLB-2026020026)
@@ -11,6 +9,8 @@
   - [Icinga for Windows 1.13.3 - Incorrect Default Permissions Private Key Exposure](https://cxsecurity.com/issue/WLB-2026020024)
   - [LangGraph SQLite Checkpoint - SQL Injection via Metadata Filter Key](https://cxsecurity.com/issue/WLB-2026020023)
   - [Google Chrome <  145.0.7632.75 - CSSFontFeatureValuesMap Use-After-Free](https://cxsecurity.com/issue/WLB-2026020022)
+- Recent Commits to cve:main
+  - [Update Mon Feb 23 11:22:32 UTC 2026](https://github.com/trickest/cve/commit/24957148160aad13fa6a2f9f8fb941da9f167f5f)
 - 博客
   - [Do not using here string in base64 cmd](https://dyrnq.com/do-not-using-here-string-in-base64-cmd/)
 - Cerbero Blog
@@ -45,11 +45,19 @@
   - [评论 | 为网络治理现代化筑牢网络安全法治之基](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259448&idx=4&sn=695d651a2e9dd8dcc38dc0f11678738c)
 - 数世咨询
   - [ATM深夜狂吐钞票，美国5年损失超4000万美元](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541796&idx=1&sn=f53aad4c55b7fc216b95d01e970ee2bf)
+- 吴鲁加
+  - [春节归来，怎么跟你多出来的这 5 斤肉和解？](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485901&idx=1&sn=93d26af8d5216640f0ab6c51e7731a74)
+- 情报分析师
+  - [伊朗拒绝外运高浓铀坚持自主降浓，美伊核僵局埋下地区安全隐患](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566846&idx=1&sn=162d8afbe1797431399302fd4fabc8dc)
 - 极客公园
   - [20 年生命 vs 2 小时训练，Sam Altman 开始算「人肉成本」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099800&idx=1&sn=42c25bf71b903a6d0dd51e004863c2f8)
   - [最强年货，华强北 AI 眼镜销量暴涨 80%；传腾讯元宝跌出苹果商店前 10；嫌犯用 GPT 生成暴力场景，OpenAI 报警 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099792&idx=1&sn=bcc73edbda21923d2919eb7f6f02e978)
-- 吴鲁加
-  - [春节归来，怎么跟你多出来的这 5 斤肉和解？](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485901&idx=1&sn=93d26af8d5216640f0ab6c51e7731a74)
+- 安全行者老霍
+  - [OpenClaw集成VirusTotal扫描检测恶意ClawHub Skills](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485944&idx=1&sn=d7dc58f984521fbcc4c139d69a56778e)
+- 迪哥讲事
+  - [2026年需重点关注的几类高价值漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499104&idx=1&sn=177f60dfbf265322390cd98eac4a2a81)
+- 360数字安全
+  - [大年初七 | 马载千祥，“午”福绵长](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585011&idx=1&sn=ea5701e0e4010e28525722ce9a9d7ed2)
 - Over Security - Cybersecurity news aggregator
   - [Android mental health apps with 14.7M installs filled with security flaws](https://www.bleepingcomputer.com/news/security/android-mental-health-apps-with-147m-installs-filled-with-security-flaws/)
   - [Spain arrests suspected hacktivists for DDoSing govt sites](https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-anonymous-fenix-hacktivists-for-ddosing-govt-sites/)
@@ -74,30 +82,21 @@
   - [X vs EU: Platform Appeals Against €120M Digital Services Act Penalty](https://thecyberexpress.com/e120m-digital-services-act-penalty/)
   - [Analisi dei processi e teoria dei sistemi: un framework per mitigare i rischi dei LLM](https://www.cybersecurity360.it/cultura-cyber/analisi-dei-processi-e-teoria-dei-sistemi-un-framework-per-mitigare-i-rischi-dei-llm/)
   - [UAE Blocked AI-Powered Terrorist Cyberattacks Targeting Critical Infrastructure](https://thecyberexpress.com/uae-blocked-ai-powered-terrorist-cyberattacks/)
-- 迪哥讲事
-  - [2026年需重点关注的几类高价值漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499104&idx=1&sn=177f60dfbf265322390cd98eac4a2a81)
-- 安全行者老霍
-  - [OpenClaw集成VirusTotal扫描检测恶意ClawHub Skills](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485944&idx=1&sn=d7dc58f984521fbcc4c139d69a56778e)
-- SANS Internet Storm Center, InfoCON: green
-  - [Another day, another malicious JPEG, (Mon, Feb 23rd)](https://isc.sans.edu/diary/rss/32738)
-  - [ISC Stormcast For Monday, February 23rd, 2026 https://isc.sans.edu/podcastdetail/9820, (Mon, Feb 23rd)](https://isc.sans.edu/diary/rss/32736)
-- Schneier on Security
-  - [On the Security of Password Managers](https://www.schneier.com/blog/archives/2026/02/on-the-security-of-password-managers.html)
-- 360数字安全
-  - [大年初七 | 马载千祥，“午”福绵长](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585011&idx=1&sn=ea5701e0e4010e28525722ce9a9d7ed2)
-- Securityinfo.it
-  - [Ring: una taglia a 4 zeri per forzare l’esecuzione in locale](https://www.securityinfo.it/2026/02/23/ring-una-taglia-a-4-zeri-per-forzare-lesecuzione-in-locale/?utm_source=rss&utm_medium=rss&utm_campaign=ring-una-taglia-a-4-zeri-per-forzare-lesecuzione-in-locale)
 - ICT Security Magazine
   - [Whistleblowing e ritorsioni: le sentenze del 2025 che cambiano le regole del gioco](https://www.ictsecuritymagazine.com/notizie/whistleblowing-e-ritorsioni/)
   - [e-Health: verso una sanità digitale](https://www.ictsecuritymagazine.com/articoli/e-health/)
+- Schneier on Security
+  - [On the Security of Password Managers](https://www.schneier.com/blog/archives/2026/02/on-the-security-of-password-managers.html)
 - NetSPI
   - [Stay Ahead of Cloud Threats: Introducing Azure and AWS Security Reviews](https://www.netspi.com/blog/executive-blog/cloud-pentesting/stay-ahead-of-cloud-threats-introducing-azure-and-aws-security-reviews/)
-- Security Affairs
-  - [Wormable XMRig campaign leverages BYOVD and timed kill switch for stealth](https://securityaffairs.com/188388/malware/wormable-xmrig-campaign-leverages-byovd-and-timed-kill-switch-for-stealth.html)
-  - [Romanian hacker pleads guilty to selling access to Oregon state networks](https://securityaffairs.com/188380/cyber-crime/romanian-hacker-pleads-guilty-to-selling-access-to-oregon-state-networks.html)
-  - [CVE-2026-1731 fuels ongoing attacks on BeyondTrust remote access products](https://securityaffairs.com/188370/hacking/cve-2026-1731-fuels-ongoing-attacks-on-beyondtrust-remote-access-products.html)
-  - [AI-powered campaign compromises 600 FortiGate systems worldwide](https://securityaffairs.com/188351/hacking/ai-powered-campaign-compromises-600-fortigate-systems-worldwide.html)
-  - [Anthropic unveils Claude Code Security to detect and fix code bugs](https://securityaffairs.com/188358/ai/anthropic-unveils-claude-code-security-to-detect-and-fix-code-bugs.html)
+- Securityinfo.it
+  - [Ring: una taglia a 4 zeri per forzare l’esecuzione in locale](https://www.securityinfo.it/2026/02/23/ring-una-taglia-a-4-zeri-per-forzare-lesecuzione-in-locale/?utm_source=rss&utm_medium=rss&utm_campaign=ring-una-taglia-a-4-zeri-per-forzare-lesecuzione-in-locale)
+- Daniel Miessler
+  - [Why I Hate Anthropic and You Should Too](https://danielmiessler.com/blog/why-you-should-hate-anthropic?utm_source=rss&utm_medium=feed&utm_campaign=website)
+  - [Bitter-Pilled Engineering](https://danielmiessler.com/blog/bitter-pilled-engineering?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- SANS Internet Storm Center, InfoCON: green
+  - [Another day, another malicious JPEG, (Mon, Feb 23rd)](https://isc.sans.edu/diary/rss/32738)
+  - [ISC Stormcast For Monday, February 23rd, 2026 https://isc.sans.edu/podcastdetail/9820, (Mon, Feb 23rd)](https://isc.sans.edu/diary/rss/32736)
 - The Hacker News
   - [APT28 Targeted European Entities Using Webhook-Based Macro Malware](https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html)
   - [Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb](https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html)
@@ -105,8 +104,11 @@
   - [How Exposed Endpoints Increase Risk Across LLM Infrastructure](https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html)
   - [Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens](https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html)
   - [MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP](https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html)
-- Daniel Miessler
-  - [Why I Hate Anthropic and You Should Too](https://danielmiessler.com/blog/why-you-should-hate-anthropic?utm_source=rss&utm_medium=feed&utm_campaign=website)
-  - [Bitter-Pilled Engineering](https://danielmiessler.com/blog/bitter-pilled-engineering?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- Security Affairs
+  - [Wormable XMRig campaign leverages BYOVD and timed kill switch for stealth](https://securityaffairs.com/188388/malware/wormable-xmrig-campaign-leverages-byovd-and-timed-kill-switch-for-stealth.html)
+  - [Romanian hacker pleads guilty to selling access to Oregon state networks](https://securityaffairs.com/188380/cyber-crime/romanian-hacker-pleads-guilty-to-selling-access-to-oregon-state-networks.html)
+  - [CVE-2026-1731 fuels ongoing attacks on BeyondTrust remote access products](https://securityaffairs.com/188370/hacking/cve-2026-1731-fuels-ongoing-attacks-on-beyondtrust-remote-access-products.html)
+  - [AI-powered campaign compromises 600 FortiGate systems worldwide](https://securityaffairs.com/188351/hacking/ai-powered-campaign-compromises-600-fortigate-systems-worldwide.html)
+  - [Anthropic unveils Claude Code Security to detect and fix code bugs](https://securityaffairs.com/188358/ai/anthropic-unveils-claude-code-security-to-detect-and-fix-code-bugs.html)
 - Security Weekly Podcast Network (Audio)
   - [Bringing intelligence to assets, new White House cybersecurity strategy, and the news - Tim Morris - ESW #447](http://sites.libsyn.com/18678/bringing-intelligence-to-assets-new-white-house-cybersecurity-strategy-and-the-news-tim-morris-esw-447)
