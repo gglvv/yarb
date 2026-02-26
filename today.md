@@ -1,7 +1,5 @@
 # 每日安全资讯（2026-02-26）
 
-- Recent Commits to cve:main
-  - [Update Wed Feb 25 11:19:37 UTC 2026](https://github.com/trickest/cve/commit/724426897c4a399cc3c3846db23911898076f889)
 - SecWiki News
   - [SecWiki News 2026-02-25 Review](http://www.sec-wiki.com/?2026-02-25)
 - Google Online Security Blog
@@ -20,8 +18,13 @@
   - [CISA警告USR-W610物联网设备存在9.8分高危漏洞且已无补丁支持](https://www.anquanke.com/post/id/314851)
   - [Swiper曝高危原型污染漏洞CVE-2026-27212（CVSS 9.4）波及全球应用](https://www.anquanke.com/post/id/314840)
   - [谷歌大规模封禁OpenClaw引发开发者强烈不满](https://www.anquanke.com/post/id/314829)
+- Recent Commits to cve:main
+  - [Update Wed Feb 25 11:19:37 UTC 2026](https://github.com/trickest/cve/commit/724426897c4a399cc3c3846db23911898076f889)
 - 博客
   - [docker pull non docker hub registry using a mirror](https://dyrnq.com/docker-pull-non-docker-hub-registry-using-a-mirror/)
+- 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
+  - [恶意分子滥用Claude发动ClickFix攻击 向macOS用户分发信息窃取木马](https://www.4hou.com/posts/0M13)
+  - [Crazy勒索软件团伙滥用监控与远程工具实施网络入侵](https://www.4hou.com/posts/8gkW)
 - ElcomSoft blog
   - [USB Device Forensics on Windows 10 and 11](https://blog.elcomsoft.com/2026/02/usb-device-forensics-on-windows-10-and-11/)
 - GuidePoint Security
@@ -36,18 +39,8 @@
   - [Developer creates app to detect nearby smart glasses](https://www.malwarebytes.com/blog/news/2026/02/developer-creates-app-to-detect-nearby-smart-glasses)
 - daniel.haxx.se
   - [curl security moves again](https://daniel.haxx.se/blog/2026/02/25/curl-security-moves-again/)
-- Security Blog | Praetorian
-  - [AI-Powered CVE Research: Winning the Race Against Emerging Vulnerabilities](https://www.praetorian.com/blog/ai-powered-cve-research-winning-the-race-against-emerging-vulnerabilities/)
 - Dhole Moments
   - [Cryptography Engineering Has An Intrinsic Duty of Care](https://soatok.blog/2026/02/25/cryptography-engineering-has-an-intrinsic-duty-of-care/)
-- HackerNews
-  - [CarGurus 数据泄露导致 1240 万个账户信息曝光](https://hackernews.cc/archives/63104)
-  - [复合型钓鱼骗局欺骗 Bitpanda 用户](https://hackernews.cc/archives/63096)
-  - [亚马逊称俄语系黑客使用生成式人工智能工具入侵 600 台防火墙](https://hackernews.cc/archives/63089)
-  - [研究人员发现与俄罗斯、亚美尼亚相关的钓鱼行动入侵西方货运公司](https://hackernews.cc/archives/63083)
-  - [Lazarus Group 在中东和美国医疗领域攻击中使用 Medusa 勒索软件](https://hackernews.cc/archives/63075)
-  - [UAC-0050 利用伪造域名和 RMS 恶意软件攻击欧洲金融机构](https://hackernews.cc/archives/63071)
-  - [GitHub Codespaces 中的漏洞可操纵 Copilot 并获取 GITHUB_TOKEN](https://hackernews.cc/archives/63062)
 - 奇客Solidot–传递最新科技情报
   - [双语共享大脑意义系统，但略有差异](https://www.solidot.org/story?sid=83613)
   - [AI 总是在战争模拟游戏中推荐核打击](https://www.solidot.org/story?sid=83612)
@@ -57,11 +50,14 @@
   - [SpaceX 火箭重返大气层为高层大气引入金属污染](https://www.solidot.org/story?sid=83607)
   - [贝加尔湖与中国北方早在 7700 年前存在人类迁徙廊道](https://www.solidot.org/story?sid=83606)
   - [Discord 将年龄验证实施时间推迟到下半年](https://www.solidot.org/story?sid=83605)
-- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [三星发布会首次展现Gemini手机智能体](https://blog.upx8.com/%E4%B8%89%E6%98%9F%E5%8F%91%E5%B8%83%E4%BC%9A%E9%A6%96%E6%AC%A1%E5%B1%95%E7%8E%B0Gemini%E6%89%8B%E6%9C%BA%E6%99%BA%E8%83%BD%E4%BD%93)
-  - [中科院停止为30种开放获取期刊支付发表费](https://blog.upx8.com/%E4%B8%AD%E7%A7%91%E9%99%A2%E5%81%9C%E6%AD%A2%E4%B8%BA30%E7%A7%8D%E5%BC%80%E6%94%BE%E8%8E%B7%E5%8F%96%E6%9C%9F%E5%88%8A%E6%94%AF%E4%BB%98%E5%8F%91%E8%A1%A8%E8%B4%B9)
-  - [SK海力士拟在韩国投资以扩建芯片产能](https://blog.upx8.com/SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%8B%9F%E5%9C%A8%E9%9F%A9%E5%9B%BD%E6%8A%95%E8%B5%84%E4%BB%A5%E6%89%A9%E5%BB%BA%E8%8A%AF%E7%89%87%E4%BA%A7%E8%83%BD)
-  - [亚马逊AI助手Alexa+新增了多种个性选项](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8AAI%E5%8A%A9%E6%89%8BAlexa-%E6%96%B0%E5%A2%9E%E4%BA%86%E5%A4%9A%E7%A7%8D%E4%B8%AA%E6%80%A7%E9%80%89%E9%A1%B9)
+- HackerNews
+  - [CarGurus 数据泄露导致 1240 万个账户信息曝光](https://hackernews.cc/archives/63104)
+  - [复合型钓鱼骗局欺骗 Bitpanda 用户](https://hackernews.cc/archives/63096)
+  - [亚马逊称俄语系黑客使用生成式人工智能工具入侵 600 台防火墙](https://hackernews.cc/archives/63089)
+  - [研究人员发现与俄罗斯、亚美尼亚相关的钓鱼行动入侵西方货运公司](https://hackernews.cc/archives/63083)
+  - [Lazarus Group 在中东和美国医疗领域攻击中使用 Medusa 勒索软件](https://hackernews.cc/archives/63075)
+  - [UAC-0050 利用伪造域名和 RMS 恶意软件攻击欧洲金融机构](https://hackernews.cc/archives/63071)
+  - [GitHub Codespaces 中的漏洞可操纵 Copilot 并获取 GITHUB_TOKEN](https://hackernews.cc/archives/63062)
 - 安全分析与研究
   - [重要通造类银狐高级反沙箱样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495750&idx=1&sn=fd715571c2f649f7fda7ac3b4fb4ff55)
 - Black Hills Information Security, Inc.
@@ -78,55 +74,43 @@
   - [【安全圈】男子为向健身房要装修款远程破坏计算机系统被拘](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074182&idx=1&sn=cb1604b59fb1e01dc0d76bd5c3da36af)
   - [【安全圈】AI 竟能 “挖穿” 大疆扫地机？普通人靠 Claude 入侵全球 6700 台设备，智能家居安全警钟炸响](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074182&idx=2&sn=24fbae1c0315106c07082b08ac6b7bf2)
   - [【安全圈】外包商系统遭黑客入侵，沃尔沃集团近1.7万名北美员工资料外泄](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074182&idx=3&sn=6917184f30f7832bb6269b315d578aad)
+- 安全牛
+  - [AI加持智能过载：当每个安全工具思维相同时会发生什么？](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140556&idx=1&sn=004a6c4fa864d2a0f70e053b23bfc946)
+  - [庄荣文：锚定网络强国战略目标推进“十五五”网信事业实现良好开局；OpenAI 工程师因代码漏洞损失 25 万美元加密资产 | 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140556&idx=2&sn=5e20c15bf2fc75a843db1dd9f042a1ec)
 - 中国信息安全
   - [前沿 | 人民至上 敏捷协同：我国人工智能标识方案的理念与实践](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259489&idx=1&sn=011396649cc6500cbdede4fcffd2dbd0)
   - [专家解读 | 加快培育数据流通服务机构 夯实全国一体化数据市场基础](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259489&idx=2&sn=31fe96536e9b9495a5f01200d1b725eb)
   - [观点 | 加快人工智能领域国家安全能力建设](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259489&idx=3&sn=6f109875b2148e174077d74141ab0a22)
   - [评论 | 让孩子们在网络空间得到更好保护](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259489&idx=4&sn=fe6a1566375ba9707cad896b878e0de2)
-- 天黑说嘿话
-  - [【AI自动渗透】霸天虎修改版，支持国内模型提供商](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485993&idx=1&sn=104cf2f6cbb1b91858f1fb3df44ae362)
-- 安全牛
-  - [AI加持智能过载：当每个安全工具思维相同时会发生什么？](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140556&idx=1&sn=004a6c4fa864d2a0f70e053b23bfc946)
-  - [庄荣文：锚定网络强国战略目标推进“十五五”网信事业实现良好开局；OpenAI 工程师因代码漏洞损失 25 万美元加密资产 | 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140556&idx=2&sn=5e20c15bf2fc75a843db1dd9f042a1ec)
-- M01N Team
-  - [Claude Code Security启示录：构建智能化攻防新格局](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247494694&idx=1&sn=4e9e31ddc27b966cbf35285ca46ff443)
 - 数世咨询
   - [纯数据勒索增长11倍，勒索软件团伙想要马上有“钱”](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541814&idx=1&sn=769f87ec164e23484e9ddd05cb12f730)
-- 嘶吼专业版
-  - [Crazy勒索软件团伙滥用监控与远程工具实施网络入侵](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586830&idx=1&sn=8031569e8bac21ced8435754c9dcf1d2)
-  - [黑客滥用Claude发动ClickFix攻击 向macOS用户分发信息窃取木马](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586830&idx=2&sn=a6cb29b72aa7cbe9141423ae8e28f4d4)
+- 天黑说嘿话
+  - [【AI自动渗透】霸天虎修改版，支持国内模型提供商](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485993&idx=1&sn=104cf2f6cbb1b91858f1fb3df44ae362)
 - 极客公园
   - [AI 时代，一朵全球化的云，如何让中国 SaaS 市场不再反复元年](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099885&idx=1&sn=ce451d03acc650015ac0fba74c69891f)
   - [给扫地机器人装上「眼睛」：寻找家庭场景里的 FSD 时刻](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099884&idx=1&sn=db4960abdf564a85bef372f455144a63)
   - [华为 2025 年收入超 8800 亿；雷军：小米未来 5 年攻坚 AI、芯片；大疆起诉美国 FCC | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099871&idx=1&sn=c22aa2e415dec9880f0af8c62f5fc831)
-- 吴鲁加
-  - [推荐一个同事做的小工具：PDF书签易](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485919&idx=1&sn=9021edc5e88b3a031e906fafbedd5a35)
+- M01N Team
+  - [Claude Code Security启示录：构建智能化攻防新格局](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247494694&idx=1&sn=4e9e31ddc27b966cbf35285ca46ff443)
 - 火绒安全
   - [新岁启程 火绒伴您安心同行](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530795&idx=1&sn=26dcebe680685c187a19acf8c3abff57)
   - [火绒小问答 ——「个人版」常见恶意网址拦截或报毒](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530795&idx=2&sn=bfcdef84c43d42572c162d2f46396a88)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530795&idx=3&sn=50d857c2982358b72cc7a2a806bdac41)
+- 嘶吼专业版
+  - [Crazy勒索软件团伙滥用监控与远程工具实施网络入侵](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586830&idx=1&sn=8031569e8bac21ced8435754c9dcf1d2)
+  - [黑客滥用Claude发动ClickFix攻击 向macOS用户分发信息窃取木马](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586830&idx=2&sn=a6cb29b72aa7cbe9141423ae8e28f4d4)
 - 情报分析师
   - [情报员的方法，5步把情报技巧用在生活和工作中](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566876&idx=1&sn=a8b5162ba9b92a93cedda176439a6c24)
   - [【深度研判】大西洋理事会前沿部署倡议与军工资本关联深度分析](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566876&idx=2&sn=f63874a605451323413e4a8434f453ce)
   - [【热点研判】朝鲜九大制定新五年计划/巴基斯坦空袭阿富汗武装激化局势/日本内调反情报中心机制升级与“境外势力”活动定义扩张](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566876&idx=3&sn=0f4d74f687f7e3f52a64d8df85e6e9e3)
-- 看雪学苑
-  - [当 AI 助手成为黑客攻击链的一环｜豆包手机安全分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611129&idx=1&sn=87a0b2fcb577ee962a43c2e453b62220)
-  - [Apache ActiveMQ漏洞遭利用，LockBit勒索软件批量入侵企业](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611129&idx=2&sn=f70da9ce36978a9cc8c121f73a801b65)
-  - [【非虫新课】阶段二：安卓软件开发与逆向分析（工具篇）](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611129&idx=3&sn=d99d2d25c1de692e8fceae15dd42fa65)
-- 360数字安全
-  - [开工第一周，智能体接连“闯祸”：你的数字员工还安全吗？](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585064&idx=1&sn=48bd950ca05721e53e66bebab7cacd0c)
 - 毕方安全实验室
   - [OpenClaw 防攻击者指令破坏的安全加固方案探索](https://mp.weixin.qq.com/s?__biz=MzI1MTE3MDAwMw==&mid=2650436270&idx=1&sn=ef8a9d81bc163759a672526bf0c8f5eb)
-- 安全行者老霍
-  - [OpenClaw 安全性探讨](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486004&idx=1&sn=ec28738e25563d70dd83416516153ce7)
+- Arturo Di Corinto
+  - [Big Tech Wants Direct Access to Our Brains](https://dicorinto.it/articoli/big-tech-wants-direct-access-to-our-brains/)
+- 吴鲁加
+  - [推荐一个同事做的小工具：PDF书签易](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485919&idx=1&sn=9021edc5e88b3a031e906fafbedd5a35)
 - 迪哥讲事
   - [实战漏洞挖掘](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499115&idx=1&sn=8cd8fe1c9269c51c8f8195754b889ebc)
-- 吾爱破解论坛
-  - [[链接]【2026春节】解题领红包 今日上线Web](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143672&idx=1&sn=78f361db1c43a944ea9f3d43e2168b89)
-- IT Service Management News
-  - [Tassonomia incidenti ACN per Legge 90](http://blog.cesaregallotti.it/2026/02/tassonomia-incidenti-acn-per-legge-90.html)
-  - [CERT-EU Cyber Threat Intelligence Framework](http://blog.cesaregallotti.it/2026/02/cert-eu-cyber-threat-intelligence.html)
-  - [17-19 marzo: Security summit a Milano](http://blog.cesaregallotti.it/2026/02/17-19-marzo-security-summit-milano.html)
 - Over Security - Cybersecurity news aggregator
   - [Medical device maker UFP Technologies warns of data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/medical-device-maker-ufp-technologies-warns-of-data-stolen-in-cyberattack/)
   - [FTC says it won’t enforce COPPA against proper use of age verification tools](https://therecord.media/ftc-says-it-wont-enforce-coppa-age-verification)
@@ -173,24 +157,43 @@
   - [ICLR 2026 Oral｜火山引擎多媒体实验室提出RALI，探索画质理解大模型泛化性，节约96%开销助力实时部署](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247518549&idx=1&sn=b721b51e0f9341fb490b61bfa20014a0)
 - Securityinfo.it
   - [Claude Code Security crea il panico, ma… non uccide la cyber](https://www.securityinfo.it/2026/02/25/claude-code-security-crea-il-panico-ma-non-uccide-la-cyber/?utm_source=rss&utm_medium=rss&utm_campaign=claude-code-security-crea-il-panico-ma-non-uccide-la-cyber)
-- Arturo Di Corinto
-  - [Big Tech Wants Direct Access to Our Brains](https://dicorinto.it/articoli/big-tech-wants-direct-access-to-our-brains/)
+- 安全行者老霍
+  - [OpenClaw 安全性探讨](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486004&idx=1&sn=ec28738e25563d70dd83416516153ce7)
 - Have I Been Pwned latest breaches
   - [Canadian Tire - 38,306,562 breached accounts](https://haveibeenpwned.com/Breach/CanadianTire)
+- IT Service Management News
+  - [Tassonomia incidenti ACN per Legge 90](http://blog.cesaregallotti.it/2026/02/tassonomia-incidenti-acn-per-legge-90.html)
+  - [CERT-EU Cyber Threat Intelligence Framework](http://blog.cesaregallotti.it/2026/02/cert-eu-cyber-threat-intelligence.html)
+  - [17-19 marzo: Security summit a Milano](http://blog.cesaregallotti.it/2026/02/17-19-marzo-security-summit-milano.html)
+- 看雪学苑
+  - [当 AI 助手成为黑客攻击链的一环｜豆包手机安全分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611129&idx=1&sn=87a0b2fcb577ee962a43c2e453b62220)
+  - [Apache ActiveMQ漏洞遭利用，LockBit勒索软件批量入侵企业](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611129&idx=2&sn=f70da9ce36978a9cc8c121f73a801b65)
+  - [【非虫新课】阶段二：安卓软件开发与逆向分析（工具篇）](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611129&idx=3&sn=d99d2d25c1de692e8fceae15dd42fa65)
 - ICT Security Magazine
   - [AI offensiva: come l’intelligenza artificiale sta riscrivendo le regole del cybercrime](https://www.ictsecuritymagazine.com/notizie/ai-offensiva-cybercrime/)
   - [Sicurezza OT portuale: rischi cyber e strategie di difesa per i porti del Mediterraneo](https://www.ictsecuritymagazine.com/notizie/sicurezza-ot-portuale/)
-- Google Online Security Blog
-  - [Staying One Step Ahead: Strengthening Android’s Lead in Scam Protection](http://security.googleblog.com/2026/02/strengthening-android-lead-in-scam-protection.html)
+- 吾爱破解论坛
+  - [[链接]【2026春节】解题领红包 今日上线Web](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143672&idx=1&sn=78f361db1c43a944ea9f3d43e2168b89)
+- 360数字安全
+  - [开工第一周，智能体接连“闯祸”：你的数字员工还安全吗？](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585064&idx=1&sn=48bd950ca05721e53e66bebab7cacd0c)
+- Schneier on Security
+  - [Poisoning AI Training Data](https://www.schneier.com/blog/archives/2026/02/poisoning-ai-training-data.html)
 - SANS Internet Storm Center, InfoCON: green
   - [The CLAIR Model: A Synthesized Conceptual Framework for Mapping Critical Infrastructure Interdependencies &#x5b;Guest Diary&#x5d;, (Wed, Feb 25th)](https://isc.sans.edu/diary/rss/32748)
   - [ISC Stormcast For Wednesday, February 25th, 2026 https://isc.sans.edu/podcastdetail/9824, (Wed, Feb 25th)](https://isc.sans.edu/diary/rss/32746)
 - TG Soft Software House - News
   - [Report 2026 campagne <strong>Malware</strong><br type="_moz" />](http://www.tgsoft.it/italy/news_archivio.asp?id=1717)
-- Schneier on Security
-  - [Poisoning AI Training Data](https://www.schneier.com/blog/archives/2026/02/poisoning-ai-training-data.html)
 - GRAHAM CLULEY
   - [$10,000 bounty offered if you can hack Ring cameras to stop them sharing your data with Amazon](https://www.bitdefender.com/en-us/blog/hotforsecurity/10-000-bounty-hack-ring-cameras)
+- Security Affairs
+  - [Untrusted repositories turn Claude code into an attack vector](https://securityaffairs.com/188508/security/untrusted-repositories-turn-claude-code-into-an-attack-vector.html)
+  - [Critical Zyxel router flaw exposed devices to remote attacks](https://securityaffairs.com/188501/security/critical-zyxel-router-flaw-exposed-devices-to-remote-attacks.html)
+  - [ShinyHunters cyberattack on CarGurus impacts 12.4 Million users](https://securityaffairs.com/188491/cyber-crime/shinyhunters-cyberattack-on-cargurus-impacts-12-4-million-users.html)
+  - [Former U.S. Defense contractor executive sentenced for selling zero-day exploits to Russian broker Operation Zero](https://securityaffairs.com/188482/intelligence/former-u-s-defense-contractor-executive-sentenced-for-selling-zero-day-exploits-to-russian-broker-operation-zero.html)
+  - [U.S. CISA adds a flaw in Soliton Systems K.K FileZen to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/188473/hacking/u-s-cisa-adds-a-flaw-in-soliton-systems-k-k-filezen-to-its-known-exploited-vulnerabilities-catalog.html)
+  - [Lazarus APT group deployed Medusa Ransomware against Middle East target](https://securityaffairs.com/188460/apt/lazarus-apt-group-deployed-medusa-ransomware-against-middle-east-target.html)
+- Google Online Security Blog
+  - [Staying One Step Ahead: Strengthening Android’s Lead in Scam Protection](http://security.googleblog.com/2026/02/strengthening-android-lead-in-scam-protection.html)
 - The Hacker News
   - [Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries](https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html)
   - [Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration](https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html)
@@ -201,13 +204,6 @@
   - [Defense Contractor Employee Jailed for Selling 8 Zero-Days to Russian Broker](https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html)
   - [SolarWinds Patches 4 Critical Serv-U 15.5 Flaws Allowing Root Code Execution](https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html)
   - [CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability](https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html)
-- Security Affairs
-  - [Untrusted repositories turn Claude code into an attack vector](https://securityaffairs.com/188508/security/untrusted-repositories-turn-claude-code-into-an-attack-vector.html)
-  - [Critical Zyxel router flaw exposed devices to remote attacks](https://securityaffairs.com/188501/security/critical-zyxel-router-flaw-exposed-devices-to-remote-attacks.html)
-  - [ShinyHunters cyberattack on CarGurus impacts 12.4 Million users](https://securityaffairs.com/188491/cyber-crime/shinyhunters-cyberattack-on-cargurus-impacts-12-4-million-users.html)
-  - [Former U.S. Defense contractor executive sentenced for selling zero-day exploits to Russian broker Operation Zero](https://securityaffairs.com/188482/intelligence/former-u-s-defense-contractor-executive-sentenced-for-selling-zero-day-exploits-to-russian-broker-operation-zero.html)
-  - [U.S. CISA adds a flaw in Soliton Systems K.K FileZen to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/188473/hacking/u-s-cisa-adds-a-flaw-in-soliton-systems-k-k-filezen-to-its-known-exploited-vulnerabilities-catalog.html)
-  - [Lazarus APT group deployed Medusa Ransomware against Middle East target](https://securityaffairs.com/188460/apt/lazarus-apt-group-deployed-medusa-ransomware-against-middle-east-target.html)
 - Deeplinks
   - [☺️ Trust Us With Your Face | EFFector 38.4](https://www.eff.org/deeplinks/2026/02/trust-us-your-face-effector-384)
   - [How to Pick Your Password Manager](https://www.eff.org/deeplinks/2026/02/how-pick-your-password-manager)
