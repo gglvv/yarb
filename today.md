@@ -2,19 +2,14 @@
 
 - SecWiki News
   - [SecWiki News 2026-02-25 Review](http://www.sec-wiki.com/?2026-02-25)
-- Tenable Blog
-  - [CVE-2026-20127: Cisco Catalyst SD-WAN Controller/Manager Zero-Day Authentication Bypass Vulnerability Exploited in the Wild](https://www.tenable.com/blog/cve-2026-20127-cisco-catalyst-sd-wan-controllermanager-zero-day-authentication-bypass)
 - Recent Commits to cve:main
   - [Update Wed Feb 25 11:19:37 UTC 2026](https://github.com/trickest/cve/commit/724426897c4a399cc3c3846db23911898076f889)
-- Google Online Security Blog
-  - [Staying One Step Ahead: Strengthening Android’s Lead in Scam Protection](http://security.googleblog.com/2026/02/strengthening-android-lead-in-scam-protection.html)
-- 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
-  - [恶意分子滥用Claude发动ClickFix攻击 向macOS用户分发信息窃取木马](https://www.4hou.com/posts/0M13)
-  - [Crazy勒索软件团伙滥用监控与远程工具实施网络入侵](https://www.4hou.com/posts/8gkW)
+- Tenable Blog
+  - [CVE-2026-20127: Cisco Catalyst SD-WAN Controller/Manager Zero-Day Authentication Bypass Vulnerability Exploited in the Wild](https://www.tenable.com/blog/cve-2026-20127-cisco-catalyst-sd-wan-controllermanager-zero-day-authentication-bypass)
 - 博客
   - [docker pull non docker hub registry using a mirror](https://dyrnq.com/docker-pull-non-docker-hub-registry-using-a-mirror/)
-- ElcomSoft blog
-  - [USB Device Forensics on Windows 10 and 11](https://blog.elcomsoft.com/2026/02/usb-device-forensics-on-windows-10-and-11/)
+- Google Online Security Blog
+  - [Staying One Step Ahead: Strengthening Android’s Lead in Scam Protection](http://security.googleblog.com/2026/02/strengthening-android-lead-in-scam-protection.html)
 - 安全客-有思想的安全新媒体
   - [2025，AI Agent时代的主动防御：安全防御体系的重构之年](https://www.anquanke.com/post/id/314865)
   - [黑客在新型NPM供应链攻击中，将Pulsar远控木马隐匿于PNG图片内](https://www.anquanke.com/post/id/314815)
@@ -27,6 +22,11 @@
   - [CISA警告USR-W610物联网设备存在9.8分高危漏洞且已无补丁支持](https://www.anquanke.com/post/id/314851)
   - [Swiper曝高危原型污染漏洞CVE-2026-27212（CVSS 9.4）波及全球应用](https://www.anquanke.com/post/id/314840)
   - [谷歌大规模封禁OpenClaw引发开发者强烈不满](https://www.anquanke.com/post/id/314829)
+- 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
+  - [恶意分子滥用Claude发动ClickFix攻击 向macOS用户分发信息窃取木马](https://www.4hou.com/posts/0M13)
+  - [Crazy勒索软件团伙滥用监控与远程工具实施网络入侵](https://www.4hou.com/posts/8gkW)
+- ElcomSoft blog
+  - [USB Device Forensics on Windows 10 and 11](https://blog.elcomsoft.com/2026/02/usb-device-forensics-on-windows-10-and-11/)
 - GuidePoint Security
   - [5 Signs Your Organization Needs AI Governance](https://www.guidepointsecurity.com/blog/five-signs-your-organization-needs-ai-governance/)
 - Horizon3.ai
@@ -40,17 +40,17 @@
   - [Developer creates app to detect nearby smart glasses](https://www.malwarebytes.com/blog/news/2026/02/developer-creates-app-to-detect-nearby-smart-glasses)
 - SentinelOne
   - [From Access to Execution: Securing Identity in the Age of Autonomous Agents](https://www.sentinelone.com/blog/securing-identity-in-the-age-of-autonomous-agents/)
-- Quarkslab's blog
-  - [Intego X9: Why your macOS antivirus should not trust PIDs](http://blog.quarkslab.com/intego_lpe_macos_2.html)
 - daniel.haxx.se
   - [curl security moves again](https://daniel.haxx.se/blog/2026/02/25/curl-security-moves-again/)
+- Quarkslab's blog
+  - [Intego X9: Why your macOS antivirus should not trust PIDs](http://blog.quarkslab.com/intego_lpe_macos_2.html)
 - Security Blog | Praetorian
   - [AI-Powered CVE Research: Winning the Race Against Emerging Vulnerabilities](https://www.praetorian.com/blog/ai-powered-cve-research-winning-the-race-against-emerging-vulnerabilities/)
+- Dhole Moments
+  - [Cryptography Engineering Has An Intrinsic Duty of Care](https://soatok.blog/2026/02/25/cryptography-engineering-has-an-intrinsic-duty-of-care/)
 - HackerNews
   - [CarGurus 数据泄露导致 1240 万个账户信息曝光](https://hackernews.cc/archives/63104)
   - [复合型钓鱼骗局欺骗 Bitpanda 用户](https://hackernews.cc/archives/63096)
-- Black Hills Information Security, Inc.
-  - [Malware Analysis: How to Analyze and Understand Malware](https://www.blackhillsinfosec.com/malware-analysis-how-to-analyze-and-understand-malware/)
 - 奇客Solidot–传递最新科技情报
   - [双语共享大脑意义系统，但略有差异](https://www.solidot.org/story?sid=83613)
   - [AI 总是在战争模拟游戏中推荐核打击](https://www.solidot.org/story?sid=83612)
@@ -62,6 +62,8 @@
   - [Discord 将年龄验证实施时间推迟到下半年](https://www.solidot.org/story?sid=83605)
 - 安全分析与研究
   - [重要通造类银狐高级反沙箱样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495750&idx=1&sn=fd715571c2f649f7fda7ac3b4fb4ff55)
+- Black Hills Information Security, Inc.
+  - [Malware Analysis: How to Analyze and Understand Malware](https://www.blackhillsinfosec.com/malware-analysis-how-to-analyze-and-understand-malware/)
 - 威努特安全网络
   - [威努特钢铁行业勒索病毒防御体系构建指南](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651140173&idx=1&sn=2098fd887e8ec5767dd46c752a972879)
 - 黑鸟
@@ -82,35 +84,39 @@
 - 安全牛
   - [AI加持智能过载：当每个安全工具思维相同时会发生什么？](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140556&idx=1&sn=004a6c4fa864d2a0f70e053b23bfc946)
   - [庄荣文：锚定网络强国战略目标推进“十五五”网信事业实现良好开局；OpenAI 工程师因代码漏洞损失 25 万美元加密资产 | 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140556&idx=2&sn=5e20c15bf2fc75a843db1dd9f042a1ec)
-- 天黑说嘿话
-  - [【AI自动渗透】霸天虎修改版，支持国内模型提供商](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485993&idx=1&sn=104cf2f6cbb1b91858f1fb3df44ae362)
 - M01N Team
   - [Claude Code Security启示录：构建智能化攻防新格局](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247494694&idx=1&sn=4e9e31ddc27b966cbf35285ca46ff443)
 - 数世咨询
   - [纯数据勒索增长11倍，勒索软件团伙想要马上有“钱”](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541814&idx=1&sn=769f87ec164e23484e9ddd05cb12f730)
-- 嘶吼专业版
-  - [Crazy勒索软件团伙滥用监控与远程工具实施网络入侵](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586830&idx=1&sn=8031569e8bac21ced8435754c9dcf1d2)
-  - [黑客滥用Claude发动ClickFix攻击 向macOS用户分发信息窃取木马](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586830&idx=2&sn=a6cb29b72aa7cbe9141423ae8e28f4d4)
 - 极客公园
   - [AI 时代，一朵全球化的云，如何让中国 SaaS 市场不再反复元年](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099885&idx=1&sn=ce451d03acc650015ac0fba74c69891f)
   - [给扫地机器人装上「眼睛」：寻找家庭场景里的 FSD 时刻](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099884&idx=1&sn=db4960abdf564a85bef372f455144a63)
   - [华为 2025 年收入超 8800 亿；雷军：小米未来 5 年攻坚 AI、芯片；大疆起诉美国 FCC | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099871&idx=1&sn=c22aa2e415dec9880f0af8c62f5fc831)
-- 看雪学苑
-  - [当 AI 助手成为黑客攻击链的一环｜豆包手机安全分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611129&idx=1&sn=87a0b2fcb577ee962a43c2e453b62220)
-  - [Apache ActiveMQ漏洞遭利用，LockBit勒索软件批量入侵企业](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611129&idx=2&sn=f70da9ce36978a9cc8c121f73a801b65)
-  - [【非虫新课】阶段二：安卓软件开发与逆向分析（工具篇）](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611129&idx=3&sn=d99d2d25c1de692e8fceae15dd42fa65)
+- 天黑说嘿话
+  - [【AI自动渗透】霸天虎修改版，支持国内模型提供商](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485993&idx=1&sn=104cf2f6cbb1b91858f1fb3df44ae362)
 - 火绒安全
   - [新岁启程 火绒伴您安心同行](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530795&idx=1&sn=26dcebe680685c187a19acf8c3abff57)
   - [火绒小问答 ——「个人版」常见恶意网址拦截或报毒](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530795&idx=2&sn=bfcdef84c43d42572c162d2f46396a88)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530795&idx=3&sn=50d857c2982358b72cc7a2a806bdac41)
+- 嘶吼专业版
+  - [Crazy勒索软件团伙滥用监控与远程工具实施网络入侵](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586830&idx=1&sn=8031569e8bac21ced8435754c9dcf1d2)
+  - [黑客滥用Claude发动ClickFix攻击 向macOS用户分发信息窃取木马](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586830&idx=2&sn=a6cb29b72aa7cbe9141423ae8e28f4d4)
+- 看雪学苑
+  - [当 AI 助手成为黑客攻击链的一环｜豆包手机安全分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611129&idx=1&sn=87a0b2fcb577ee962a43c2e453b62220)
+  - [Apache ActiveMQ漏洞遭利用，LockBit勒索软件批量入侵企业](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611129&idx=2&sn=f70da9ce36978a9cc8c121f73a801b65)
+  - [【非虫新课】阶段二：安卓软件开发与逆向分析（工具篇）](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611129&idx=3&sn=d99d2d25c1de692e8fceae15dd42fa65)
 - 吴鲁加
   - [推荐一个同事做的小工具：PDF书签易](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485919&idx=1&sn=9021edc5e88b3a031e906fafbedd5a35)
 - 情报分析师
   - [情报员的方法，5步把情报技巧用在生活和工作中](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566876&idx=1&sn=a8b5162ba9b92a93cedda176439a6c24)
   - [【深度研判】大西洋理事会前沿部署倡议与军工资本关联深度分析](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566876&idx=2&sn=f63874a605451323413e4a8434f453ce)
   - [【热点研判】朝鲜九大制定新五年计划/巴基斯坦空袭阿富汗武装激化局势/日本内调反情报中心机制升级与“境外势力”活动定义扩张](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566876&idx=3&sn=0f4d74f687f7e3f52a64d8df85e6e9e3)
+- 吾爱破解论坛
+  - [[链接]【2026春节】解题领红包 今日上线Web](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143672&idx=1&sn=78f361db1c43a944ea9f3d43e2168b89)
 - 毕方安全实验室
   - [OpenClaw 防攻击者指令破坏的安全加固方案探索](https://mp.weixin.qq.com/s?__biz=MzI1MTE3MDAwMw==&mid=2650436270&idx=1&sn=ef8a9d81bc163759a672526bf0c8f5eb)
+- 迪哥讲事
+  - [实战漏洞挖掘](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499115&idx=1&sn=8cd8fe1c9269c51c8f8195754b889ebc)
 - Over Security - Cybersecurity news aggregator
   - [Medical device maker UFP Technologies warns of data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/medical-device-maker-ufp-technologies-warns-of-data-stolen-in-cyberattack/)
   - [FTC says it won’t enforce COPPA against proper use of age verification tools](https://therecord.media/ftc-says-it-wont-enforce-coppa-age-verification)
@@ -126,38 +132,57 @@
   - [Five Eyes allies warn hackers are actively exploiting Cisco SD-WAN flaws](https://therecord.media/five-eyes-warn-hackers-exploit-cisco-sd-wan)
   - [Kali & LLM: macOS with Claude Desktop GUI & Anthropic Sonnet LLM](https://www.kali.org/blog/kali-llm-claude-desktop/)
   - [Anthropic Claude Code Security: l’AI è parte integrante della superficie d’attacco e della difesa](https://www.cybersecurity360.it/news/anthropic-claude-code-security-lai-e-parte-integrante-della-superficie-di-attacco-e-della-difesa/)
-  - [PowerSchool, Chicago Public Schools to settle student data privacy lawsuit for $17 million](https://therecord.media/powerschool-cps-settle-proposed-class-action)
-- Chaos Computer Club - last 100 events feed
-  - [Ein Framework für digitale Souveränität: "Public Money? Public Code!" (wicmp11)](https://cdn.media.ccc.de/events/wicmp/wicmp11/h264-hd/wicmp11-18-deu-Ein_Framework_fuer_digitale_Souveraenitaet_Public_Money_Public_Code_hd.mp4)
+- Securityinfo.it
+  - [Claude Code Security crea il panico, ma… non uccide la cyber](https://www.securityinfo.it/2026/02/25/claude-code-security-crea-il-panico-ma-non-uccide-la-cyber/?utm_source=rss&utm_medium=rss&utm_campaign=claude-code-security-crea-il-panico-ma-non-uccide-la-cyber)
 - Arturo Di Corinto
   - [Big Tech Wants Direct Access to Our Brains](https://dicorinto.it/articoli/big-tech-wants-direct-access-to-our-brains/)
 - IT Service Management News
   - [Tassonomia incidenti ACN per Legge 90](http://blog.cesaregallotti.it/2026/02/tassonomia-incidenti-acn-per-legge-90.html)
   - [CERT-EU Cyber Threat Intelligence Framework](http://blog.cesaregallotti.it/2026/02/cert-eu-cyber-threat-intelligence.html)
   - [17-19 marzo: Security summit a Milano](http://blog.cesaregallotti.it/2026/02/17-19-marzo-security-summit-milano.html)
-- 360数字安全
-  - [开工第一周，智能体接连“闯祸”：你的数字员工还安全吗？](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585064&idx=1&sn=48bd950ca05721e53e66bebab7cacd0c)
-- 迪哥讲事
-  - [实战漏洞挖掘](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499115&idx=1&sn=8cd8fe1c9269c51c8f8195754b889ebc)
-- 安全行者老霍
-  - [OpenClaw 安全性探讨](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486004&idx=1&sn=ec28738e25563d70dd83416516153ce7)
 - Google Online Security Blog
   - [Staying One Step Ahead: Strengthening Android’s Lead in Scam Protection](http://security.googleblog.com/2026/02/strengthening-android-lead-in-scam-protection.html)
-- 吾爱破解论坛
-  - [[链接]【2026春节】解题领红包 今日上线Web](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143672&idx=1&sn=78f361db1c43a944ea9f3d43e2168b89)
-- Have I Been Pwned latest breaches
-  - [Canadian Tire - 38,306,562 breached accounts](https://haveibeenpwned.com/Breach/CanadianTire)
+- Chaos Computer Club - last 100 events feed
+  - [Ein Framework für digitale Souveränität: "Public Money? Public Code!" (wicmp11)](https://cdn.media.ccc.de/events/wicmp/wicmp11/h264-hd/wicmp11-18-deu-Ein_Framework_fuer_digitale_Souveraenitaet_Public_Money_Public_Code_hd.mp4)
+  - [Pushbenachrichtigungen ein Blocker für freie Smarthphones (wicmp11)](https://cdn.media.ccc.de/events/wicmp/wicmp11/h264-hd/wicmp11-19-deu-Pushbenachrichtigungen_ein_Blocker_fuer_freie_Smarthphones.mp4)
+  - [Opening (wicmp11)](https://cdn.media.ccc.de/events/wicmp/wicmp11/h264-hd/wicmp11-2-deu-Opening_hd.mp4)
+- 360数字安全
+  - [开工第一周，智能体接连“闯祸”：你的数字员工还安全吗？](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585064&idx=1&sn=48bd950ca05721e53e66bebab7cacd0c)
 - ICT Security Magazine
   - [AI offensiva: come l’intelligenza artificiale sta riscrivendo le regole del cybercrime](https://www.ictsecuritymagazine.com/notizie/ai-offensiva-cybercrime/)
   - [Sicurezza OT portuale: rischi cyber e strategie di difesa per i porti del Mediterraneo](https://www.ictsecuritymagazine.com/notizie/sicurezza-ot-portuale/)
-- 字节跳动技术团队
-  - [ICLR 2026 Oral｜火山引擎多媒体实验室提出RALI，探索画质理解大模型泛化性，节约96%开销助力实时部署](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247518549&idx=1&sn=b721b51e0f9341fb490b61bfa20014a0)
-- SANS Internet Storm Center, InfoCON: green
-  - [ISC Stormcast For Wednesday, February 25th, 2026 https://isc.sans.edu/podcastdetail/9824, (Wed, Feb 25th)](https://isc.sans.edu/diary/rss/32746)
-- Schneier on Security
-  - [Poisoning AI Training Data](https://www.schneier.com/blog/archives/2026/02/poisoning-ai-training-data.html)
 - TG Soft Software House - News
   - [Report 2026 campagne <strong>Malware</strong><br type="_moz" />](http://www.tgsoft.it/italy/news_archivio.asp?id=1717)
+- Schneier on Security
+  - [Poisoning AI Training Data](https://www.schneier.com/blog/archives/2026/02/poisoning-ai-training-data.html)
+- 安全行者老霍
+  - [OpenClaw 安全性探讨](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486004&idx=1&sn=ec28738e25563d70dd83416516153ce7)
+- Have I Been Pwned latest breaches
+  - [Canadian Tire - 38,306,562 breached accounts](https://haveibeenpwned.com/Breach/CanadianTire)
+- GRAHAM CLULEY
+  - [$10,000 bounty offered if you can hack Ring cameras to stop them sharing your data with Amazon](https://www.bitdefender.com/en-us/blog/hotforsecurity/10-000-bounty-hack-ring-cameras)
+- 字节跳动技术团队
+  - [ICLR 2026 Oral｜火山引擎多媒体实验室提出RALI，探索画质理解大模型泛化性，节约96%开销助力实时部署](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247518549&idx=1&sn=b721b51e0f9341fb490b61bfa20014a0)
+- Computer Forensics
+  - [Best tools to get imagen forensic to andorid open source?](https://www.reddit.com/r/computerforensics/comments/1reoh70/best_tools_to_get_imagen_forensic_to_andorid_open/)
+  - [FBI Digital Operations Specialist (Skillbridge)](https://www.reddit.com/r/computerforensics/comments/1re72l8/fbi_digital_operations_specialist_skillbridge/)
+  - [What are the best Companies that specializes in Digital Forensics?](https://www.reddit.com/r/computerforensics/comments/1re86mk/what_are_the_best_companies_that_specializes_in/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [Bachelor thesis idea suggestions](https://www.reddit.com/r/netsecstudents/comments/1re9asb/bachelor_thesis_idea_suggestions/)
+- Deeplinks
+  - [☺️ Trust Us With Your Face | EFFector 38.4](https://www.eff.org/deeplinks/2026/02/trust-us-your-face-effector-384)
+  - [How to Pick Your Password Manager](https://www.eff.org/deeplinks/2026/02/how-pick-your-password-manager)
+- Security Affairs
+  - [Untrusted repositories turn Claude code into an attack vector](https://securityaffairs.com/188508/security/untrusted-repositories-turn-claude-code-into-an-attack-vector.html)
+  - [Critical Zyxel router flaw exposed devices to remote attacks](https://securityaffairs.com/188501/security/critical-zyxel-router-flaw-exposed-devices-to-remote-attacks.html)
+  - [ShinyHunters cyberattack on CarGurus impacts 12.4 Million users](https://securityaffairs.com/188491/cyber-crime/shinyhunters-cyberattack-on-cargurus-impacts-12-4-million-users.html)
+  - [Former U.S. Defense contractor executive sentenced for selling zero-day exploits to Russian broker Operation Zero](https://securityaffairs.com/188482/intelligence/former-u-s-defense-contractor-executive-sentenced-for-selling-zero-day-exploits-to-russian-broker-operation-zero.html)
+  - [U.S. CISA adds a flaw in Soliton Systems K.K FileZen to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/188473/hacking/u-s-cisa-adds-a-flaw-in-soliton-systems-k-k-filezen-to-its-known-exploited-vulnerabilities-catalog.html)
+- Deep Web
+  - [Elude link off?](https://www.reddit.com/r/deepweb/comments/1reej58/elude_link_off/)
+  - [First trading platform on Tor](https://www.reddit.com/r/deepweb/comments/1reep8d/first_trading_platform_on_tor/)
+  - [Telegram](https://www.reddit.com/r/deepweb/comments/1rdxtio/telegram/)
+  - [Pode existir no futuro um navegador mais anônimo que o tor?](https://www.reddit.com/r/deepweb/comments/1rdxplg/pode_existir_no_futuro_um_navegador_mais_anônimo/)
 - Technical Information Security Content & Discussion
   - [I rendered 1,418 Unicode confusable pairs across 230 system fonts. 82 are pixel-identical, and the font your site uses determines which ones.](https://www.reddit.com/r/netsec/comments/1rebvdc/i_rendered_1418_unicode_confusable_pairs_across/)
   - [Large-Scale Online Deanonymization with LLMs](https://www.reddit.com/r/netsec/comments/1ree6j1/largescale_online_deanonymization_with_llms/)
@@ -165,29 +190,6 @@
   - [Tracking DPRK operator IPs over time by snooping on mailboxes](https://www.reddit.com/r/netsec/comments/1rebxrf/tracking_dprk_operator_ips_over_time_by_snooping/)
   - [TURN Server Security Best Practices - hardening checklist, IP range tables, and deployment patterns](https://www.reddit.com/r/netsec/comments/1re9az6/turn_server_security_best_practices_hardening/)
   - [Starkiller Phishing Kit: Why MFA Fails Against Real-Time Reverse Proxies — Technical Analysis + Rust PoC for TLS Fingerprinting](https://www.reddit.com/r/netsec/comments/1re5gds/starkiller_phishing_kit_why_mfa_fails_against/)
-- Security Affairs
-  - [Untrusted repositories turn Claude code into an attack vector](https://securityaffairs.com/188508/security/untrusted-repositories-turn-claude-code-into-an-attack-vector.html)
-  - [Critical Zyxel router flaw exposed devices to remote attacks](https://securityaffairs.com/188501/security/critical-zyxel-router-flaw-exposed-devices-to-remote-attacks.html)
-  - [ShinyHunters cyberattack on CarGurus impacts 12.4 Million users](https://securityaffairs.com/188491/cyber-crime/shinyhunters-cyberattack-on-cargurus-impacts-12-4-million-users.html)
-  - [Former U.S. Defense contractor executive sentenced for selling zero-day exploits to Russian broker Operation Zero](https://securityaffairs.com/188482/intelligence/former-u-s-defense-contractor-executive-sentenced-for-selling-zero-day-exploits-to-russian-broker-operation-zero.html)
-  - [U.S. CISA adds a flaw in Soliton Systems K.K FileZen to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/188473/hacking/u-s-cisa-adds-a-flaw-in-soliton-systems-k-k-filezen-to-its-known-exploited-vulnerabilities-catalog.html)
-  - [Lazarus APT group deployed Medusa Ransomware against Middle East target](https://securityaffairs.com/188460/apt/lazarus-apt-group-deployed-medusa-ransomware-against-middle-east-target.html)
-- Deeplinks
-  - [☺️ Trust Us With Your Face | EFFector 38.4](https://www.eff.org/deeplinks/2026/02/trust-us-your-face-effector-384)
-  - [How to Pick Your Password Manager](https://www.eff.org/deeplinks/2026/02/how-pick-your-password-manager)
-- GRAHAM CLULEY
-  - [$10,000 bounty offered if you can hack Ring cameras to stop them sharing your data with Amazon](https://www.bitdefender.com/en-us/blog/hotforsecurity/10-000-bounty-hack-ring-cameras)
-- Computer Forensics
-  - [Best tools to get imagen forensic to andorid open source?](https://www.reddit.com/r/computerforensics/comments/1reoh70/best_tools_to_get_imagen_forensic_to_andorid_open/)
-  - [FBI Digital Operations Specialist (Skillbridge)](https://www.reddit.com/r/computerforensics/comments/1re72l8/fbi_digital_operations_specialist_skillbridge/)
-  - [What are the best Companies that specializes in Digital Forensics?](https://www.reddit.com/r/computerforensics/comments/1re86mk/what_are_the_best_companies_that_specializes_in/)
-- netsecstudents: Subreddit for students studying Network Security and its related subjects
-  - [Bachelor thesis idea suggestions](https://www.reddit.com/r/netsecstudents/comments/1re9asb/bachelor_thesis_idea_suggestions/)
-- Deep Web
-  - [Elude link off?](https://www.reddit.com/r/deepweb/comments/1reej58/elude_link_off/)
-  - [First trading platform on Tor](https://www.reddit.com/r/deepweb/comments/1reep8d/first_trading_platform_on_tor/)
-  - [Telegram](https://www.reddit.com/r/deepweb/comments/1rdxtio/telegram/)
-  - [Pode existir no futuro um navegador mais anônimo que o tor?](https://www.reddit.com/r/deepweb/comments/1rdxplg/pode_existir_no_futuro_um_navegador_mais_anônimo/)
 - The Hacker News
   - [Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries](https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html)
   - [Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration](https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html)
