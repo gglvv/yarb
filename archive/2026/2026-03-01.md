@@ -1,17 +1,19 @@
 # 每日安全资讯（2026-03-01）
 
-- Recent Commits to cve:main
-  - [Update Sat Feb 28 11:18:23 UTC 2026](https://github.com/trickest/cve/commit/9cbf370c5880e0b98819df5b59877ed0a02c4256)
-- Der Flounder
-  - [Using the Jamf Pro API to delete computers from Jamf Pro](https://derflounder.wordpress.com/2026/02/28/using-the-jamf-pro-api-to-delete-computers-from-jamf-pro/)
-- paper - Last paper
-  - [评估大型语言模型在心理健康支持中的风险：自动化临床人工智能红队评估框架](https://paper.seebug.org/3466/)
 - SecWiki News
   - [SecWiki News 2026-02-28 Review](http://www.sec-wiki.com/?2026-02-28)
+- paper - Last paper
+  - [评估大型语言模型在心理健康支持中的风险：自动化临床人工智能红队评估框架](https://paper.seebug.org/3466/)
+- Der Flounder
+  - [Using the Jamf Pro API to delete computers from Jamf Pro](https://derflounder.wordpress.com/2026/02/28/using-the-jamf-pro-api-to-delete-computers-from-jamf-pro/)
+- Recent Commits to cve:main
+  - [Update Sat Feb 28 11:18:23 UTC 2026](https://github.com/trickest/cve/commit/9cbf370c5880e0b98819df5b59877ed0a02c4256)
 - ClevCode
   - [The Mystery of Skype](https://clevcode.org/the-mystery-of-skype/)
 - SentinelOne
   - [SentinelOne Intelligence Brief: Iranian Cyber Activity Outlook](https://www.sentinelone.com/blog/sentinelone-intelligence-brief-iranian-cyber-activity-outlook/)
+- Darren Martyn
+  - [Betify Casino 2026: Balancing Elite Gaming with Modern Cybersecurity](https://darrenmartyn.ie/2026/02/28/betify-casino-2026-balancing-elite-gaming-with-modern-cybersecurity/)
 - Tr0y's Blog
   - [2025 年度总结](https://www.tr0y.wang/2026/02/28/2025/)
 - 奇客Solidot–传递最新科技情报
@@ -37,87 +39,84 @@
   - [多米尼加总统称发现逾1.5亿吨稀土矿藏](https://blog.upx8.com/%E5%A4%9A%E7%B1%B3%E5%B0%BC%E5%8A%A0%E6%80%BB%E7%BB%9F%E7%A7%B0%E5%8F%91%E7%8E%B0%E9%80%BE1-5%E4%BA%BF%E5%90%A8%E7%A8%80%E5%9C%9F%E7%9F%BF%E8%97%8F)
   - [苹果公司与Netflix宣布共享F1赛事转播](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E4%B8%8ENetflix%E5%AE%A3%E5%B8%83%E5%85%B1%E4%BA%ABF1%E8%B5%9B%E4%BA%8B%E8%BD%AC%E6%92%AD)
   - [Perplexity全新AI代理系统 可实现全自动化工作流程？](https://blog.upx8.com/Perplexity%E5%85%A8%E6%96%B0AI%E4%BB%A3%E7%90%86%E7%B3%BB%E7%BB%9F-%E5%8F%AF%E5%AE%9E%E7%8E%B0%E5%85%A8%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B)
-  - [《宝可梦 风/波》将于2027年登陆Switch 2](https://blog.upx8.com/%E5%AE%9D%E5%8F%AF%E6%A2%A6-%E9%A3%8E-%E6%B3%A2-%E5%B0%86%E4%BA%8E2027%E5%B9%B4%E7%99%BB%E9%99%86Switch-2)
 - 安全分析与研究
   - [银狐黑产最新变种样本分析与威胁情报](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495753&idx=1&sn=23442d22ed819daecd4fced48003e00b)
 - 黑鸟
   - [以色列空袭伊朗期间，被黑客入侵的祈祷应用程序向伊朗人发送劝降通知](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185525&idx=1&sn=43791845b7523f2b64ecf4fd2b302c3f)
+- 代码卫士
+  - [特斯拉 Model 3 和 Cybertruck 存在多个漏洞，无线连接栈可遭拦截](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525250&idx=1&sn=d3f966b7d7e8878b93bfd7f39a3ed86b)
+  - [AI 编程助手 Cline CLI 2.3.0遭篡改，悄悄安装 OpenClaw](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525250&idx=2&sn=0896fff8eb0f9f9e2369a299930ff6c4)
 - 安全内参
   - [爆料！美军想用AI自动化攻击我国关基设施，电网是重点目标](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515604&idx=1&sn=6bea5ea396a3da79d1d8d9b0f0e6ff28)
   - [“星链”断网措施使得俄罗斯和乌克兰前线战事攻守易势](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515604&idx=2&sn=425214c31c2a22b51a7669c76e431969)
+- 天御攻防实验室
+  - [美国防部推进AI网络作战工具 重点锁定中国电网与关键基础设施漏洞](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486711&idx=1&sn=01691784270b9587404a4bf1dc5eee84)
 - 看雪学苑
   - [立法建言，聚力献策，《网络犯罪防治法》征求意见最后窗口期！](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611491&idx=1&sn=8569dd2a39ebd324dc5e51c31af57c4c)
   - [阿里CTF2026-license](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611491&idx=2&sn=1175d370b234c402a6652f7af8ef4b97)
   - [揭秘1Campaign：黑客如何利用“网页伪装”技术绕过谷歌广告审核](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611491&idx=3&sn=a669a4e6628bd4a53ebc8cc5c44f7327)
-- 代码卫士
-  - [特斯拉 Model 3 和 Cybertruck 存在多个漏洞，无线连接栈可遭拦截](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525250&idx=1&sn=d3f966b7d7e8878b93bfd7f39a3ed86b)
-  - [AI 编程助手 Cline CLI 2.3.0遭篡改，悄悄安装 OpenClaw](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525250&idx=2&sn=0896fff8eb0f9f9e2369a299930ff6c4)
-- 天御攻防实验室
-  - [美国防部推进AI网络作战工具 重点锁定中国电网与关键基础设施漏洞](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486711&idx=1&sn=01691784270b9587404a4bf1dc5eee84)
-- 丁爸 情报分析师的工具箱
-  - [【资料】美国未来外交政策纲领性文件-国务院机构战略计划（2026-2030）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154485&idx=1&sn=31d5ae1086b77fca902a665dbe96fe1c)
-- 天黑说嘿话
-  - [将OpenClaw接入微信：手把手教你部署24小时在线的AI助理](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485999&idx=1&sn=6e09e9995464cc9d4b961d960190fc3e)
-- 中国信息安全
-  - [通知 | 国家网信办等八部门联合印发《未成年人用户数量巨大和对未成年人群体具有显著影响的网络平台服务提供者认定办法》（附全文）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259622&idx=1&sn=3022fb41030bc1e02845db76ced36352)
-  - [国安部提醒：警惕光盘泄密的“隐形陷阱”](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259622&idx=2&sn=5afe29ee95ba76f4f323839428ab1bca)
-  - [关注 | 国家网信办发布《政务移动互联网应用程序备案工作指南（第一版）》（附全文）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259622&idx=3&sn=31464dddeaaf4892581c13c2d28a7c61)
-  - [评论 | 全链条惩治电信网络诈骗犯罪](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259622&idx=4&sn=b5d1ca7a7fe3ca6cd4a18ce19d439be4)
 - 安全圈
   - [【安全圈】ClawJacked 漏洞曝光：网站可远程劫持 OpenClaw AI 代理，开发者需立即升级](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074234&idx=1&sn=2f8e4442c9c605c764d28286413dffa2)
   - [【安全圈】“Vibe Coding”翻车：AI 社交网络 Moltbook 泄露 475 万条数据](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074234&idx=2&sn=5180d19efcb21fb235721580938c11df)
   - [【安全圈】恶意npm包“ambar-src”投毒Windows、Linux与macOS](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074234&idx=3&sn=6bf80090c0a276c836edd13d9b3b63e4)
   - [【安全圈】不用浏览器也能中招：Windows资源管理器成隐秘后门](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074234&idx=4&sn=2a4acaa0943a8a81ed7eda038d8f1330)
+- 中国信息安全
+  - [通知 | 国家网信办等八部门联合印发《未成年人用户数量巨大和对未成年人群体具有显著影响的网络平台服务提供者认定办法》（附全文）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259622&idx=1&sn=3022fb41030bc1e02845db76ced36352)
+  - [国安部提醒：警惕光盘泄密的“隐形陷阱”](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259622&idx=2&sn=5afe29ee95ba76f4f323839428ab1bca)
+  - [关注 | 国家网信办发布《政务移动互联网应用程序备案工作指南（第一版）》（附全文）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259622&idx=3&sn=31464dddeaaf4892581c13c2d28a7c61)
+  - [评论 | 全链条惩治电信网络诈骗犯罪](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259622&idx=4&sn=b5d1ca7a7fe3ca6cd4a18ce19d439be4)
+- 丁爸 情报分析师的工具箱
+  - [【资料】美国未来外交政策纲领性文件-国务院机构战略计划（2026-2030）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154485&idx=1&sn=31d5ae1086b77fca902a665dbe96fe1c)
+- 长亭科技
+  - [Claude “发现”，MonkeyScan “闭环”：AI 代码漏洞挖掘落地才是真能力](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651390189&idx=1&sn=b0e0e54993897e8fc65d4cf25fca2ea0)
+- 奇安信 CERT
+  - [安全热点周报：谷歌修复了今年攻击中首个被利用的 Chrome 零日漏洞](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504670&idx=1&sn=598e4ea6c7dc25cee2882cdb3ce26379)
+- 补天平台
+  - [重磅回归！2026年3月补天战神榜奖励再启，现金大奖等你来拿！](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510339&idx=1&sn=92792699915806e1aa76ad49b34b1e12)
 - 安全牛
   - [CNVD公开Apache Continuum命令注入漏洞；谷歌发布 Nano Banana 2，AI 图像生成安全与效率双升级 | 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140598&idx=1&sn=3bcbfa4869ea7f88e369b53c10f6b6aa)
   - [Google警告：黑客正在利用Gemini AI辅助网络攻击](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140598&idx=2&sn=f53b4d064709e6ccae0f02301f680165)
-- 长亭科技
-  - [Claude “发现”，MonkeyScan “闭环”：AI 代码漏洞挖掘落地才是真能力](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651390189&idx=1&sn=b0e0e54993897e8fc65d4cf25fca2ea0)
+- 天黑说嘿话
+  - [将OpenClaw接入微信：手把手教你部署24小时在线的AI助理](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485999&idx=1&sn=6e09e9995464cc9d4b961d960190fc3e)
+- 嘶吼专业版
+  - [思科Catalyst SD-WAN严重认证绕过漏洞遭长期入侵，可植入恶意节点控制网络](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586888&idx=1&sn=e09b85b1e6eebce36d4b3e398e6d4f83)
+  - [国家网络安全通报中心发布新一批重点防范境外恶意网址和恶意IP](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586888&idx=2&sn=f185f6bdcdacc7d09ab8d41cb7160297)
 - 极客公园
   - [Kimi Claw 实测：OpenClaw 热潮之下，自动化 AI 仍是拓荒期｜AI 上新](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653100121&idx=1&sn=d23e4e75cfba23d6e4099d5ef773f0cd)
   - [寻找内容「新栖息地」，爱奇艺用 AI 重塑行业想象力](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653100121&idx=2&sn=8e74fa5d0bf26eeae98a19742a791882)
   - [1100 亿美元背后，OpenAI「AGI 的三副面孔」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653100100&idx=1&sn=738e8f47357f990bcd8471289b4a8230)
   - [雷军：新 SU7 车门内置机械结构；OpenAI 官宣 1100 亿美元融资；阿里或将推 AI 眼镜、指环｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653100091&idx=1&sn=469822c38b68c46373a6005eeb6d8fb8)
-- 奇安信 CERT
-  - [安全热点周报：谷歌修复了今年攻击中首个被利用的 Chrome 零日漏洞](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504670&idx=1&sn=598e4ea6c7dc25cee2882cdb3ce26379)
-- 补天平台
-  - [重磅回归！2026年3月补天战神榜奖励再启，现金大奖等你来拿！](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510339&idx=1&sn=92792699915806e1aa76ad49b34b1e12)
-- 吾爱破解论坛
-  - [[链接]【春节】解题领红包 之十一 {MCP 中](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143682&idx=1&sn=2a5e9a789d1c1d40e5d64184920a3533)
-- 嘶吼专业版
-  - [思科Catalyst SD-WAN严重认证绕过漏洞遭长期入侵，可植入恶意节点控制网络](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586888&idx=1&sn=e09b85b1e6eebce36d4b3e398e6d4f83)
-  - [国家网络安全通报中心发布新一批重点防范境外恶意网址和恶意IP](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586888&idx=2&sn=f185f6bdcdacc7d09ab8d41cb7160297)
 - 数世咨询
   - [莫恐慌：Claude Code Security 离颠覆者还远](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541840&idx=1&sn=d4f6332dbc27b67163e8be2546eb4b60)
-- 墨菲安全
-  - [【重磅发布】2025年度软件供应链投毒风险研究报告](https://mp.weixin.qq.com/s?__biz=MzkwOTM0MjI5NQ==&mid=2247488313&idx=1&sn=cfe10e4fb7c021377ca68087cccbfeed)
-- 360数字安全
-  - [Claude变身顶级黑客？150GB政府数据遭窃，“以模治模”成关键](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585089&idx=1&sn=698da6167bb732287dbdd57038720cea)
 - 安全行者老霍
   - [AI 智能体正悄然重塑企业安全风险格局](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485975&idx=1&sn=105dc707ce5d9eb3c21291e53ab310b7)
+- 墨菲安全
+  - [【重磅发布】2025年度软件供应链投毒风险研究报告](https://mp.weixin.qq.com/s?__biz=MzkwOTM0MjI5NQ==&mid=2247488313&idx=1&sn=cfe10e4fb7c021377ca68087cccbfeed)
+- 表图
+  - [8家网络安全上市公司更新2025年业绩快报](https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247484968&idx=1&sn=768a873856e338de4755f28504e43a69)
+- 吾爱破解论坛
+  - [[链接]【春节】解题领红包 之十一 {MCP 中](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143682&idx=1&sn=2a5e9a789d1c1d40e5d64184920a3533)
+- 悬镜安全
+  - [AI赋能安全 | 悬镜安全荣登《ISC.AI 2025创新性案例报告》](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647798260&idx=1&sn=35f30e9de103f74eca922e600c618162)
 - Over Security - Cybersecurity news aggregator
   - [QuickLens Chrome extension steals crypto, shows ClickFix attack](https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/)
   - [$4.8M in crypto stolen after Korean tax agency exposes wallet seed](https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/)
   - [Who is the Kimwolf Botmaster “Dort”?](https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/)
-- 悬镜安全
-  - [AI赋能安全 | 悬镜安全荣登《ISC.AI 2025创新性案例报告》](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647798260&idx=1&sn=35f30e9de103f74eca922e600c618162)
-- Lenny Zeltser
-  - [From Chief Opinion Officer to Action-Taker](https://zeltser.com/chief-opinion-officer-to-action-taker/)
-- 表图
-  - [8家网络安全上市公司更新2025年业绩快报](https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247484968&idx=1&sn=768a873856e338de4755f28504e43a69)
-- The Hacker News
-  - [ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket](https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html)
-  - [Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement](https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html)
-  - [Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute](https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html)
+- 360数字安全
+  - [Claude变身顶级黑客？150GB政府数据遭窃，“以模治模”成关键](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585089&idx=1&sn=698da6167bb732287dbdd57038720cea)
+- ICT Security Magazine
+  - [Cybersecurity 2026: dalla difesa del perimetro alla resilienza come disciplina](https://www.ictsecuritymagazine.com/cyber-security/cybersecurity-2026/)
 - Daniel Miessler
   - [The Great Transition](https://danielmiessler.com/blog/the-great-transition?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- Krebs on Security
-  - [Who is the Kimwolf Botmaster “Dort”?](https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/)
-- 纽创信安
-  - [密流智能开源全同态加密核心项目](https://mp.weixin.qq.com/s?__biz=MzAwNTczMjAzMg==&mid=2650240885&idx=1&sn=bb43d83494f9c35434a602cadd536bf7)
 - Security Affairs
   - [Canadian Tire 2025 data breach impacts 38 million users](https://securityaffairs.com/188659/data-breach/canadian-tire-2025-data-breach-impacts-38-million-users.html)
   - [Iran ’s Internet near-totally blacked out amid US, Israeli strikes](https://securityaffairs.com/188648/cyber-warfare-2/iran-s-internet-near-totally-blacked-out-amid-us-israeli-strikes.html)
   - [Microsoft warns of RAT delivered through trojanized gaming utilities](https://securityaffairs.com/188639/malware/microsoft-warns-of-rat-delivered-through-trojanized-gaming-utilities.html)
-- ICT Security Magazine
-  - [Cybersecurity 2026: dalla difesa del perimetro alla resilienza come disciplina](https://www.ictsecuritymagazine.com/cyber-security/cybersecurity-2026/)
+- Lenny Zeltser
+  - [From Chief Opinion Officer to Action-Taker](https://zeltser.com/chief-opinion-officer-to-action-taker/)
+- 纽创信安
+  - [密流智能开源全同态加密核心项目](https://mp.weixin.qq.com/s?__biz=MzAwNTczMjAzMg==&mid=2650240885&idx=1&sn=bb43d83494f9c35434a602cadd536bf7)
+- The Hacker News
+  - [ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket](https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html)
+  - [Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement](https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html)
+  - [Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute](https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html)
