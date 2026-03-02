@@ -1,31 +1,31 @@
 # 每日安全资讯（2026-03-02）
 
-- SecWiki News
-  - [SecWiki News 2026-03-01 Review](http://www.sec-wiki.com/?2026-03-01)
 - Recent Commits to cve:main
   - [Update Sun Mar  1 11:20:09 UTC 2026](https://github.com/trickest/cve/commit/7d71df608c240c03e3faae23873368854d93c2c4)
+- SecWiki News
+  - [SecWiki News 2026-03-01 Review](http://www.sec-wiki.com/?2026-03-01)
+- Malware-Traffic-Analysis.net - Blog Entries
+  - [2026-02-28: Traffic Analysis Exercise - Easy as 123](https://www.malware-traffic-analysis.net/2026/02/28/index.html)
 - Reverse Engineering
   - [IDAssistMCP - An integrated MCP server plugin for IDA Pro](https://www.reddit.com/r/ReverseEngineering/comments/1rib44v/idassistmcp_an_integrated_mcp_server_plugin_for/)
   - [Reverse engineering “Hello World” in QuickBasic 3.0: bloat & bytecode from 1987 AD](https://www.reddit.com/r/ReverseEngineering/comments/1ri0kmx/reverse_engineering_hello_world_in_quickbasic_30/)
   - [IDAssist - AI augmented RE plugin for IDA Pro](https://www.reddit.com/r/ReverseEngineering/comments/1rib4v4/idassist_ai_augmented_re_plugin_for_ida_pro/)
-- Malware-Traffic-Analysis.net - Blog Entries
-  - [2026-02-28: Traffic Analysis Exercise - Easy as 123](https://www.malware-traffic-analysis.net/2026/02/28/index.html)
+- 安全分析与研究
+  - [银狐黑产最新攻击样本行为特征与威胁情报](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495754&idx=1&sn=dbea1647ffd7811575c6a5a7bb0d77c4)
 - 奇客Solidot–传递最新科技情报
   - [美国加州和科罗拉多州计划要求在操作系统层级验证用户年龄](https://www.solidot.org/story?sid=83648)
   - [Anthropic 的 Claude 在苹果美国区免费应用榜跃居第一](https://www.solidot.org/story?sid=83647)
-- 安全分析与研究
-  - [银狐黑产最新攻击样本行为特征与威胁情报](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495754&idx=1&sn=dbea1647ffd7811575c6a5a7bb0d77c4)
+- 黑鸟
+  - [伊朗实时开源情报（OSINT）仪表板网站](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185550&idx=1&sn=3af02a5d0ba896a573e4e97811c62953)
 - depy
   - [DepyDocs4.0 使用手册](https://docs.x0.pub/view/?view_id=2f96ae810d64a6369ab7e11951530d78)
   - [Test Notes](https://docs.x0.pub/view/?view_id=780fde5b47f139a58067fa3885c09bfb)
-- 黑鸟
-  - [伊朗实时开源情报（OSINT）仪表板网站](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185550&idx=1&sn=3af02a5d0ba896a573e4e97811c62953)
 - 青衣十三楼飞花堂
   - [四道几何挑战](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489047&idx=1&sn=a332d9e0b7c29af2ac6c5a6c26105035)
-- 丁爸 情报分析师的工具箱
-  - [【情报】中央情报局协助确定了伊朗领导人开会时间地点，随后发动打击行动](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154519&idx=1&sn=438debee6e48f4254c5222e33e67bf57)
 - 天御攻防实验室
   - [美以对伊朗的协同打击凸显了华盛顿如何将进攻性网络行动纳入军事行动](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486716&idx=1&sn=9aa30204a8c53b9a1c24ab7ed138713e)
+- 丁爸 情报分析师的工具箱
+  - [【情报】中央情报局协助确定了伊朗领导人开会时间地点，随后发动打击行动](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154519&idx=1&sn=438debee6e48f4254c5222e33e67bf57)
 - 天黑说嘿话
   - [手把手教你 Openclaw 在 Mac 上本地化部署，保姆级教程！接入飞书打造私人 AI 助手](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486001&idx=1&sn=07233ab4a6d764f9f4c340a5cacabdb4)
 - 安全圈
@@ -33,26 +33,26 @@
   - [【安全圈】黑客利用Claude批量生成漏洞窃取政府数据](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074254&idx=2&sn=92bf6443aa4d7fddab0bda209138d268)
   - [【安全圈】特朗普禁止联邦机构使用AI，Claude被列为安全风险](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074254&idx=3&sn=5a2a5b7a78448653927fb05d1430940a)
   - [【安全圈】OpenClaw本地网关漏洞导致AI代理成攻击入口](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074254&idx=4&sn=220582e3efca7ffda799725da03f01c4)
-- dotNet安全矩阵
-  - [从会话管理模式解读 .NET 身份验证绕过漏洞](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500955&idx=1&sn=9ef7fcbc67f98a450db87dd9c4ca65d9)
-  - [从安全分析视角一文解读 .NET 越权漏洞](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500955&idx=2&sn=070df2e12c19f963f7b7cae112249e25)
 - 极客公园
   - [28 亿分手费、前首富豪赌、华盛顿暗手……华纳 90 天易主大戏，比好莱坞更疯狂的权谋剧本](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653100162&idx=1&sn=29b1eaab9becd29e2051c9f4afa657c6)
   - [App 开始消失，我们正在进入一个「不会用软件」的时代](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653100161&idx=1&sn=065c5600047c0e44fbadbf348344dfc4)
   - [小米 VisionGT 超跑亮相；DeepSeek V4 或下周亮相；宝可梦 30 周年玩偶引发抢购潮 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653100143&idx=1&sn=01e26f39da3a1d57eaca6ff978f14710)
-- 漏洞战争
-  - [NDSS 2026 论文清单及摘要（上）](https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486060&idx=1&sn=2ed581b7ad4a96197103b393cdfea9a7)
-  - [NDSS 2026论文清单及摘要（中）](https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486060&idx=2&sn=75c9796f6cfd6cf0ea4c4ffd390dd333)
-  - [NDSS 2026论文清单及摘要（下）](https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486060&idx=3&sn=b2d8e7d8dbdb8671d797ec81df76296f)
+- dotNet安全矩阵
+  - [从会话管理模式解读 .NET 身份验证绕过漏洞](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500955&idx=1&sn=9ef7fcbc67f98a450db87dd9c4ca65d9)
+  - [从安全分析视角一文解读 .NET 越权漏洞](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500955&idx=2&sn=070df2e12c19f963f7b7cae112249e25)
+- 嘶吼专业版
+  - [立法建言，聚力献策，《网络犯罪防治法》征求意见最后窗口期！](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586894&idx=1&sn=96191b1a67cbaf5eedcced471e3f4100)
 - 情报分析师
   - [情报的“隐形制高点”，复盘美以“史诗狂怒”行动的三条胜负线（第四部分）](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566952&idx=1&sn=8fee43966a313e32880716e2209d979f)
   - [2026年2月28日美以联合行动的重点打击目标与策略分析（第一部分）](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566952&idx=2&sn=9579f405502129f65c77c7794cdfd418)
   - [美以联合打击伊朗事件下海湾地区中资企业风险评估（第二部分）](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566952&idx=3&sn=34c55ccf9d5619f2fda2cb6c78c5aeec)
   - [【深度研判】美第五舰队总部遭袭，伊朗精准打击能力对我海外利益保护的镜像警示（第三部分）](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566952&idx=4&sn=8473fea912669f42f55abe13638ab8b6)
-- 吴鲁加
-  - [墨水屏、散步和 AI：我的工作流](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485939&idx=1&sn=cf8c40e6df6ea182ee615e10a37fdb53)
 - Beacon Tower Lab
   - [从网络空间测绘视角看“咆哮的狮子”行动下的伊朗-以色列冲突态势](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487996&idx=1&sn=aa723e030cb0798788df77a2ee7cdfaf)
+- 漏洞战争
+  - [NDSS 2026 论文清单及摘要（上）](https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486060&idx=1&sn=2ed581b7ad4a96197103b393cdfea9a7)
+  - [NDSS 2026论文清单及摘要（中）](https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486060&idx=2&sn=75c9796f6cfd6cf0ea4c4ffd390dd333)
+  - [NDSS 2026论文清单及摘要（下）](https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486060&idx=3&sn=b2d8e7d8dbdb8671d797ec81df76296f)
 - 安全行者老霍
   - [中小企业真正需要哪些网络安全措施？](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486019&idx=1&sn=88e32f7db187ad1f75729bac3a43a051)
 - Over Security - Cybersecurity news aggregator
@@ -63,20 +63,13 @@
   - [Oblivion, il nuovo malware Android che “abbassa la soglia” degli attacchi](https://www.cybersecurity360.it/news/oblivion-il-nuovo-malware-android-che-abbassa-la-soglia-degli-attacchi/)
   - [Fuzzing embedded systems - Part 2, Writing a fuzzer with LibAFL](https://blog.sparrrgh.me/fuzzing/embedded/2025/01/26/fuzzing-embedded-systems-2.html)
   - [Fuzzing embedded systems - Part 1, Introduction](https://blog.sparrrgh.me//fuzzing/embedded/2024/06/05/fuzzing-embedded-systems-1.html)
-- 嘶吼专业版
-  - [立法建言，聚力献策，《网络犯罪防治法》征求意见最后窗口期！](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586894&idx=1&sn=96191b1a67cbaf5eedcced471e3f4100)
-- 白帽子章华鹏
-  - [【重磅发布】2025年度软件供应链投毒风险研究报告](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650238666&idx=1&sn=829023abf8a883fac0eba4cc6406ec9a)
-- Computer Forensics
-  - [Trouble with volatility3](https://www.reddit.com/r/computerforensics/comments/1rhjkbo/trouble_with_volatility3/)
+- 吴鲁加
+  - [墨水屏、散步和 AI：我的工作流](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485939&idx=1&sn=cf8c40e6df6ea182ee615e10a37fdb53)
 - Security Affairs
   - [ShinyHunters leaked the full Odido dataset](https://securityaffairs.com/188709/data-breach/shinyhunters-leaked-the-full-odido-dataset.html)
   - [Claude code abused to steal 150GB in cyberattack on Mexican agencies](https://securityaffairs.com/188696/ai/claude-code-abused-to-steal-150gb-in-cyberattack-on-mexican-agencies.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 86](https://securityaffairs.com/188691/malware/security-affairs-malware-newsletter-round-86.html)
   - [CVE-2025-64328 exploitation impacts 900 Sangoma FreePBX instances](https://securityaffairs.com/188679/uncategorized/cve-2025-64328-exploitation-impacts-900-sangoma-freepbx-instances.html)
   - [Security Affairs newsletter Round 565 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/188669/security/security-affairs-newsletter-round-565-by-pierluigi-paganini-international-edition.html)
-- Your Open Hacker Community
-  - [School firewall](https://www.reddit.com/r/HowToHack/comments/1ribhry/school_firewall/)
-  - [How was all my security cameras turned off for 11 minutes ??? What exactly blocked most people’s cameras in my area](https://www.reddit.com/r/HowToHack/comments/1rhm0vv/how_was_all_my_security_cameras_turned_off_for_11/)
-- Technical Information Security Content & Discussion
-  - [r/netsec monthly discussion & tool thread](https://www.reddit.com/r/netsec/comments/1rhyn04/rnetsec_monthly_discussion_tool_thread/)
+- 白帽子章华鹏
+  - [【重磅发布】2025年度软件供应链投毒风险研究报告](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650238666&idx=1&sn=829023abf8a883fac0eba4cc6406ec9a)
