@@ -1,17 +1,17 @@
 # 每日安全资讯（2026-03-02）
 
-- SecWiki News
-  - [SecWiki News 2026-03-01 Review](http://www.sec-wiki.com/?2026-03-01)
 - Recent Commits to cve:main
   - [Update Sun Mar  1 11:20:09 UTC 2026](https://github.com/trickest/cve/commit/7d71df608c240c03e3faae23873368854d93c2c4)
+- SecWiki News
+  - [SecWiki News 2026-03-01 Review](http://www.sec-wiki.com/?2026-03-01)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-02-28: Traffic Analysis Exercise - Easy as 123](https://www.malware-traffic-analysis.net/2026/02/28/index.html)
-- depy
-  - [DepyDocs3.0 使用手册](https://docs.x0.pub/view/?view_id=2f96ae810d64a6369ab7e11951530d78)
-  - [Test Notes](https://docs.x0.pub/view/?view_id=780fde5b47f139a58067fa3885c09bfb)
 - 奇客Solidot–传递最新科技情报
   - [美国加州和科罗拉多州计划要求在操作系统层级验证用户年龄](https://www.solidot.org/story?sid=83648)
   - [Anthropic 的 Claude 在苹果美国区免费应用榜跃居第一](https://www.solidot.org/story?sid=83647)
+- depy
+  - [DepyDocs3.0 使用手册](https://docs.x0.pub/view/?view_id=2f96ae810d64a6369ab7e11951530d78)
+  - [Test Notes](https://docs.x0.pub/view/?view_id=780fde5b47f139a58067fa3885c09bfb)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [亚马逊：阿联酋数据中心被“击中”起火断电](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A-%E9%98%BF%E8%81%94%E9%85%8B%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E8%A2%AB-%E5%87%BB%E4%B8%AD-%E8%B5%B7%E7%81%AB%E6%96%AD%E7%94%B5)
   - [苹果商店在阿拉伯联合酋长国暂时关闭](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%95%86%E5%BA%97%E5%9C%A8%E9%98%BF%E6%8B%89%E4%BC%AF%E8%81%94%E5%90%88%E9%85%8B%E9%95%BF%E5%9B%BD%E6%9A%82%E6%97%B6%E5%85%B3%E9%97%AD)
@@ -19,19 +19,19 @@
   - [玩家非法泄露游戏未公开内容被警方抓获](https://blog.upx8.com/%E7%8E%A9%E5%AE%B6%E9%9D%9E%E6%B3%95%E6%B3%84%E9%9C%B2%E6%B8%B8%E6%88%8F%E6%9C%AA%E5%85%AC%E5%BC%80%E5%86%85%E5%AE%B9%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%8A%93%E8%8E%B7)
 - 黑鸟
   - [伊朗实时开源情报（OSINT）仪表板网站](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185550&idx=1&sn=3af02a5d0ba896a573e4e97811c62953)
-- 青衣十三楼飞花堂
-  - [四道几何挑战](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489047&idx=1&sn=a332d9e0b7c29af2ac6c5a6c26105035)
 - 天御攻防实验室
   - [美以对伊朗的协同打击凸显了华盛顿如何将进攻性网络行动纳入军事行动](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486716&idx=1&sn=9aa30204a8c53b9a1c24ab7ed138713e)
-- 丁爸 情报分析师的工具箱
-  - [【情报】中央情报局协助确定了伊朗领导人开会时间地点，随后发动打击行动](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154519&idx=1&sn=438debee6e48f4254c5222e33e67bf57)
+- 青衣十三楼飞花堂
+  - [四道几何挑战](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489047&idx=1&sn=a332d9e0b7c29af2ac6c5a6c26105035)
+- 天黑说嘿话
+  - [手把手教你 Openclaw 在 Mac 上本地化部署，保姆级教程！接入飞书打造私人 AI 助手](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486001&idx=1&sn=07233ab4a6d764f9f4c340a5cacabdb4)
 - 安全圈
   - [【安全圈】Windows CLFS漏洞PoC公开：普通用户两次API调用即可触发不可恢复蓝屏](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074254&idx=1&sn=ff5f13cf1f85685f93f04e01f75455c2)
   - [【安全圈】黑客利用Claude批量生成漏洞窃取政府数据](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074254&idx=2&sn=92bf6443aa4d7fddab0bda209138d268)
   - [【安全圈】特朗普禁止联邦机构使用AI，Claude被列为安全风险](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074254&idx=3&sn=5a2a5b7a78448653927fb05d1430940a)
   - [【安全圈】OpenClaw本地网关漏洞导致AI代理成攻击入口](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074254&idx=4&sn=220582e3efca7ffda799725da03f01c4)
-- 天黑说嘿话
-  - [手把手教你 Openclaw 在 Mac 上本地化部署，保姆级教程！接入飞书打造私人 AI 助手](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486001&idx=1&sn=07233ab4a6d764f9f4c340a5cacabdb4)
+- 丁爸 情报分析师的工具箱
+  - [【情报】中央情报局协助确定了伊朗领导人开会时间地点，随后发动打击行动](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154519&idx=1&sn=438debee6e48f4254c5222e33e67bf57)
 - dotNet安全矩阵
   - [从会话管理模式解读 .NET 身份验证绕过漏洞](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500955&idx=1&sn=9ef7fcbc67f98a450db87dd9c4ca65d9)
   - [从安全分析视角一文解读 .NET 越权漏洞](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500955&idx=2&sn=070df2e12c19f963f7b7cae112249e25)
@@ -41,12 +41,6 @@
   - [小米 VisionGT 超跑亮相；DeepSeek V4 或下周亮相；宝可梦 30 周年玩偶引发抢购潮 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653100143&idx=1&sn=01e26f39da3a1d57eaca6ff978f14710)
 - 嘶吼专业版
   - [立法建言，聚力献策，《网络犯罪防治法》征求意见最后窗口期！](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586894&idx=1&sn=96191b1a67cbaf5eedcced471e3f4100)
-- 吴鲁加
-  - [墨水屏、散步和 AI：我的工作流](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485939&idx=1&sn=cf8c40e6df6ea182ee615e10a37fdb53)
-- 漏洞战争
-  - [NDSS 2026 论文清单及摘要（上）](https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486060&idx=1&sn=2ed581b7ad4a96197103b393cdfea9a7)
-  - [NDSS 2026论文清单及摘要（中）](https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486060&idx=2&sn=75c9796f6cfd6cf0ea4c4ffd390dd333)
-  - [NDSS 2026论文清单及摘要（下）](https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486060&idx=3&sn=b2d8e7d8dbdb8671d797ec81df76296f)
 - 情报分析师
   - [情报的“隐形制高点”，复盘美以“史诗狂怒”行动的三条胜负线（第四部分）](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566952&idx=1&sn=8fee43966a313e32880716e2209d979f)
   - [2026年2月28日美以联合行动的重点打击目标与策略分析（第一部分）](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566952&idx=2&sn=9579f405502129f65c77c7794cdfd418)
@@ -62,6 +56,12 @@
   - [Oblivion, il nuovo malware Android che “abbassa la soglia” degli attacchi](https://www.cybersecurity360.it/news/oblivion-il-nuovo-malware-android-che-abbassa-la-soglia-degli-attacchi/)
   - [Fuzzing embedded systems - Part 2, Writing a fuzzer with LibAFL](https://blog.sparrrgh.me/fuzzing/embedded/2025/01/26/fuzzing-embedded-systems-2.html)
   - [Fuzzing embedded systems - Part 1, Introduction](https://blog.sparrrgh.me//fuzzing/embedded/2024/06/05/fuzzing-embedded-systems-1.html)
+- 漏洞战争
+  - [NDSS 2026 论文清单及摘要（上）](https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486060&idx=1&sn=2ed581b7ad4a96197103b393cdfea9a7)
+  - [NDSS 2026论文清单及摘要（中）](https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486060&idx=2&sn=75c9796f6cfd6cf0ea4c4ffd390dd333)
+  - [NDSS 2026论文清单及摘要（下）](https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486060&idx=3&sn=b2d8e7d8dbdb8671d797ec81df76296f)
+- 吴鲁加
+  - [墨水屏、散步和 AI：我的工作流](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485939&idx=1&sn=cf8c40e6df6ea182ee615e10a37fdb53)
 - Security Affairs
   - [ShinyHunters leaked the full Odido dataset](https://securityaffairs.com/188709/data-breach/shinyhunters-leaked-the-full-odido-dataset.html)
   - [Claude code abused to steal 150GB in cyberattack on Mexican agencies](https://securityaffairs.com/188696/ai/claude-code-abused-to-steal-150gb-in-cyberattack-on-mexican-agencies.html)
