@@ -1,74 +1,76 @@
 # 每日安全资讯（2026-03-08）
 
-- Recent Commits to cve:main
-  - [Update Sat Mar  7 11:22:44 UTC 2026](https://github.com/trickest/cve/commit/3ab2a2245f8a701da744c117ea355867afff843a)
 - SecWiki News
   - [SecWiki News 2026-03-07 Review](http://www.sec-wiki.com/?2026-03-07)
 - Taxodium
   - [Zine#47](https://taxodium.ink/47.html)
+- Recent Commits to cve:main
+  - [Update Sat Mar  7 11:22:44 UTC 2026](https://github.com/trickest/cve/commit/3ab2a2245f8a701da744c117ea355867afff843a)
 - Dancho Danchev's Blog - Mind Streams of Information Security Knowledge
   - [When Data Mining Conti Leaks Leads to Actual Binaries and to a Hardcoded C2 With an Encryption Key on Tripod.com - Part Two](https://ddanchev.blogspot.com/2026/03/when-data-mining-conti-leaks-leads-to.html)
-- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [索尼似乎在PlayStation游戏上测试动态定价](https://blog.upx8.com/%E7%B4%A2%E5%B0%BC%E4%BC%BC%E4%B9%8E%E5%9C%A8PlayStation%E6%B8%B8%E6%88%8F%E4%B8%8A%E6%B5%8B%E8%AF%95%E5%8A%A8%E6%80%81%E5%AE%9A%E4%BB%B7)
-  - [Anthropic与Mozilla合作以增强Firefox安全性](https://blog.upx8.com/Anthropic%E4%B8%8EMozilla%E5%90%88%E4%BD%9C%E4%BB%A5%E5%A2%9E%E5%BC%BAFirefox%E5%AE%89%E5%85%A8%E6%80%A7)
-- 皮相
-  - [Token 也许会是现实世界这个游戏的点券](https://mp.weixin.qq.com/s?__biz=MzI0NDA5MDYyNA==&mid=2648257322&idx=1&sn=37f98ecfea05b0f5740f625b74d5a9f3)
 - 奇客Solidot–传递最新科技情报
   - [在卫星照片披露美国军事基地损失之后 Planet Labs 停止发布卫星照片](https://www.solidot.org/story?sid=83711)
   - [AI 翻译工具会将“幻觉”加入到维基百科文章](https://www.solidot.org/story?sid=83710)
   - [苹果禁止美国用户下载字节跳动的其它应用](https://www.solidot.org/story?sid=83709)
   - [小行星 2024 YR4 不会撞击月球](https://www.solidot.org/story?sid=83708)
   - [OpenWrt 25.12.0 释出](https://www.solidot.org/story?sid=83707)
-- 丁爸 情报分析师的工具箱
-  - [【工具】免费部署且自由组合的开源情报指挥中心大屏：可自动生成情报报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154689&idx=1&sn=43e0f09107160a41c04f77a2db3227da)
-  - [【资料】人工智能武器化——恐怖主义与战争的下一阶段](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154689&idx=2&sn=274e51c048ba820f5a3a7565c6ef2b5f)
-- 看雪学苑
-  - [CISCN-2025-初赛题解 NPUSEC](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611852&idx=1&sn=34b98be534d0fa60724aadd9938ad62e)
-  - [Linux Pwn 番外篇 | 系统讲解从用户态堆栈利用到内核提权的完整攻击链路](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611852&idx=2&sn=19193170d64460db8c9128671f37b527)
-- 吾爱破解论坛
-  - [【开放注册公告】吾爱破解论坛2026年3月13日十八周年开放注册公告](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143710&idx=1&sn=813e42980aac372212c07f4a3d6d7446)
+- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
+  - [索尼似乎在PlayStation游戏上测试动态定价](https://blog.upx8.com/%E7%B4%A2%E5%B0%BC%E4%BC%BC%E4%B9%8E%E5%9C%A8PlayStation%E6%B8%B8%E6%88%8F%E4%B8%8A%E6%B5%8B%E8%AF%95%E5%8A%A8%E6%80%81%E5%AE%9A%E4%BB%B7)
+  - [Anthropic与Mozilla合作以增强Firefox安全性](https://blog.upx8.com/Anthropic%E4%B8%8EMozilla%E5%90%88%E4%BD%9C%E4%BB%A5%E5%A2%9E%E5%BC%BAFirefox%E5%AE%89%E5%85%A8%E6%80%A7)
 - 安全分析与研究
   - [银狐黑产组织最新变种攻击样本与威胁情报](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495833&idx=1&sn=744b3145d3fe34ef2fe496f36196dcbe)
+- 皮相
+  - [Token 也许会是现实世界这个游戏的点券](https://mp.weixin.qq.com/s?__biz=MzI0NDA5MDYyNA==&mid=2648257322&idx=1&sn=37f98ecfea05b0f5740f625b74d5a9f3)
 - 黑鸟
   - [伪装成救命预警APP：一场针对在以色列人员的定向间谍攻击](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185622&idx=1&sn=984fc492e19e96d1c6e82a02009a90fc)
 - 天御攻防实验室
   - [白宫发布特朗普的《美国网络战略》](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486761&idx=1&sn=542634d952fc86787a2d66178be157be)
+- 丁爸 情报分析师的工具箱
+  - [【工具】免费部署且自由组合的开源情报指挥中心大屏：可自动生成情报报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154689&idx=1&sn=43e0f09107160a41c04f77a2db3227da)
+  - [【资料】人工智能武器化——恐怖主义与战争的下一阶段](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154689&idx=2&sn=274e51c048ba820f5a3a7565c6ef2b5f)
+- 青衣十三楼飞花堂
+  - [一上来就“拉窗帘”的，教培机构教出来的吗](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489076&idx=1&sn=ce40ee59430153a9af6d7034f416856b)
+- 全频带阻塞干扰
+  - [领导人系列：内塔尼亚胡是如何使用手机的？](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648959149&idx=1&sn=f849df8dd230e59c2fcd4f991ec78b28)
 - 安全圈
   - [【安全圈】上海一男子破解无人机“黑飞”50多次，最高飞到2700米，已被刑拘](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074335&idx=1&sn=1712423c02d0e2fba75f30492162048c)
   - [【安全圈】维基百科遭自传播 JavaScript 蠕虫攻击，大量页面被篡改](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074335&idx=2&sn=5db447a323b8399ef2c35e90b96eccd3)
   - [【安全圈】WordPress 会员插件漏洞遭利用，攻击者可创建管理员账户](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074335&idx=3&sn=701d79e4920ac96f99b26a882526964c)
-- 全频带阻塞干扰
-  - [领导人系列：内塔尼亚胡是如何使用手机的？](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648959149&idx=1&sn=f849df8dd230e59c2fcd4f991ec78b28)
+- 吾爱破解论坛
+  - [【开放注册公告】吾爱破解论坛2026年3月13日十八周年开放注册公告](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143710&idx=1&sn=813e42980aac372212c07f4a3d6d7446)
+- 看雪学苑
+  - [CISCN-2025-初赛题解 NPUSEC](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611852&idx=1&sn=34b98be534d0fa60724aadd9938ad62e)
+  - [Linux Pwn 番外篇 | 系统讲解从用户态堆栈利用到内核提权的完整攻击链路](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611852&idx=2&sn=19193170d64460db8c9128671f37b527)
+- 数世咨询
+  - [警报！OpenClaw 们现失控风险：AI智能体为何沦为数字刺客？](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541941&idx=1&sn=dd56a847ffc23603e66c26e8e0431beb)
+  - [甲方数据泄露 防火墙厂商成被告](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541934&idx=1&sn=9c461941fe26630d0691572a8104f307)
 - 极客公园
   - [浏览器已死？Tabbit 实测：AI 接管鼠标，人类负责修 bug｜AI 上新](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653100565&idx=1&sn=f09d213ad0f40e3ebb32685dae5cc82a)
   - [比亚迪王传福终结「电动化上半场」：9 分钟充饱，不再有「电动爹」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653100544&idx=1&sn=18161a29fe3d1a6b480e36bce8423be6)
   - [腾讯免费安 OpenClaw，千人鹅厂排队；小米测「龙虾」智能体，仅支持 17系机型；存储全年或涨两倍，PC 面临新冲击｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653100534&idx=1&sn=926bd881e62cf6af932521f1b860fdc7)
-- 数世咨询
-  - [警报！OpenClaw 们现失控风险：AI智能体为何沦为数字刺客？](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541941&idx=1&sn=dd56a847ffc23603e66c26e8e0431beb)
-  - [甲方数据泄露 防火墙厂商成被告](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541934&idx=1&sn=9c461941fe26630d0691572a8104f307)
 - 枇杷熟了
   - [枇杷熟了-全球网络安全日报2026-03-07](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489935&idx=1&sn=099ac3b22e917305f7d601fd62b6f177)
-- 青衣十三楼飞花堂
-  - [一上来就“拉窗帘”的，教培机构教出来的吗](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489076&idx=1&sn=ce40ee59430153a9af6d7034f416856b)
-- Dark Space Blogspot
-  - [Significato Del Messaggio TIM: "Modifica Contrattuale: Per Le Mutate Condizioni"](http://darkwhite666.blogspot.com/2026/03/significato-del-messaggio-tim-modifica.html)
-- SANS Internet Storm Center, InfoCON: green
-  - [YARA-X 1.14.0 Release, (Sat, Mar 7th)](https://isc.sans.edu/diary/rss/32774)
 - 安全行者老霍
   - [嵌入式系统的渗透测试](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486031&idx=1&sn=8a175ece18c203b441c3aa560375210d)
+- Chaos Computer Club - last 100 events feed
+  - [Closing (uplink2026)](https://cdn.media.ccc.de/conferences/uplink/2026/h264-hd/uplink2026-11-deu-Closing_hd.mp4)
+- Dark Space Blogspot
+  - [Significato Del Messaggio TIM: "Modifica Contrattuale: Per Le Mutate Condizioni"](http://darkwhite666.blogspot.com/2026/03/significato-del-messaggio-tim-modifica.html)
 - bellingcat
   - [New Footage Shows Wanted Kinahan Cartel Kingpins Post-Sanctions](https://www.bellingcat.com/news/2026/03/07/new-footage-shows-wanted-kinahan-cartel-kingpins-post-sanctions/)
   - [The Incendiary Bomb Never Seen in Israel Before](https://www.bellingcat.com/news/2026/03/07/the-incendiary-bomb-never-seen-in-israel-before/)
-- The Hacker News
-  - [OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html)
-  - [Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model](https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html)
+- SANS Internet Storm Center, InfoCON: green
+  - [YARA-X 1.14.0 Release, (Sat, Mar 7th)](https://isc.sans.edu/diary/rss/32774)
 - Over Security - Cybersecurity news aggregator
   - [Termite ransomware breaches linked to ClickFix CastleRAT attacks](https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/)
   - [Ecco la strategia cyber “For America”: un segnale per l’Europa](https://www.cybersecurity360.it/cybersecurity-nazionale/ecco-la-strategia-cyber-for-america-un-segnale-per-leuropa/)
   - [Microsoft: Hackers abusing AI at every stage of cyberattacks](https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/)
-- Deeplinks
-  - [Admiring Our Heroes for International Women’s Day: Celebrating Women Who Have Received EFF Awards](https://www.eff.org/deeplinks/2026/03/admiring-our-heroes-international-womens-day-celebrating-women-who-have-received)
+- The Hacker News
+  - [OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html)
+  - [Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model](https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html)
 - Security Affairs
   - [FBI probing intrusion into a system managing sensitive surveillance information](https://securityaffairs.com/189087/hacking/fbi-probing-intrusion-into-system-managing-sensitive-surveillance-information.html)
   - [Reading White House President Trump’s Cyber Strategy for America (March 2026)](https://securityaffairs.com/189083/security/reading-white-house-president-trumps-cyber-strategy-for-america-march-2026.html)
   - [Iran-linked hackers target IP cameras across Israel and Gulf states for military intelligence](https://securityaffairs.com/189069/cyber-warfare-2/iran-linked-hackers-target-ip-cameras-across-israel-and-gulf-states-for-military-intelligence.html)
+- Deeplinks
+  - [Admiring Our Heroes for International Women’s Day: Celebrating Women Who Have Received EFF Awards](https://www.eff.org/deeplinks/2026/03/admiring-our-heroes-international-womens-day-celebrating-women-who-have-received)
