@@ -1,11 +1,11 @@
 # 每日安全资讯（2026-03-08）
 
+- Recent Commits to cve:main
+  - [Update Sat Mar  7 11:22:44 UTC 2026](https://github.com/trickest/cve/commit/3ab2a2245f8a701da744c117ea355867afff843a)
 - SecWiki News
   - [SecWiki News 2026-03-07 Review](http://www.sec-wiki.com/?2026-03-07)
 - Taxodium
   - [Zine#47](https://taxodium.ink/47.html)
-- Recent Commits to cve:main
-  - [Update Sat Mar  7 11:22:44 UTC 2026](https://github.com/trickest/cve/commit/3ab2a2245f8a701da744c117ea355867afff843a)
 - Dancho Danchev's Blog - Mind Streams of Information Security Knowledge
   - [When Data Mining Conti Leaks Leads to Actual Binaries and to a Hardcoded C2 With an Encryption Key on Tripod.com - Part Two](https://ddanchev.blogspot.com/2026/03/when-data-mining-conti-leaks-leads-to.html)
 - 奇客Solidot–传递最新科技情报
@@ -21,48 +21,47 @@
   - [YouTube将私信测试扩展到更多欧洲国家](https://blog.upx8.com/YouTube%E5%B0%86%E7%A7%81%E4%BF%A1%E6%B5%8B%E8%AF%95%E6%89%A9%E5%B1%95%E5%88%B0%E6%9B%B4%E5%A4%9A%E6%AC%A7%E6%B4%B2%E5%9B%BD%E5%AE%B6)
   - [印度卡纳塔克邦拟禁止16岁以下使用社媒](https://blog.upx8.com/%E5%8D%B0%E5%BA%A6%E5%8D%A1%E7%BA%B3%E5%A1%94%E5%85%8B%E9%82%A6%E6%8B%9F%E7%A6%81%E6%AD%A216%E5%B2%81%E4%BB%A5%E4%B8%8B%E4%BD%BF%E7%94%A8%E7%A4%BE%E5%AA%92)
   - [中国光伏热潮助推2025年能源排放小幅下降](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%85%89%E4%BC%8F%E7%83%AD%E6%BD%AE%E5%8A%A9%E6%8E%A82025%E5%B9%B4%E8%83%BD%E6%BA%90%E6%8E%92%E6%94%BE%E5%B0%8F%E5%B9%85%E4%B8%8B%E9%99%8D)
-  - [中国公安查处盗版漫画网站运营者 日方检举](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%AE%89%E6%9F%A5%E5%A4%84%E7%9B%97%E7%89%88%E6%BC%AB%E7%94%BB%E7%BD%91%E7%AB%99%E8%BF%90%E8%90%A5%E8%80%85-%E6%97%A5%E6%96%B9%E6%A3%80%E4%B8%BE)
-- 皮相
-  - [Token 也许会是现实世界这个游戏的点券](https://mp.weixin.qq.com/s?__biz=MzI0NDA5MDYyNA==&mid=2648257322&idx=1&sn=37f98ecfea05b0f5740f625b74d5a9f3)
-- 青衣十三楼飞花堂
-  - [一上来就“拉窗帘”的，教培机构教出来的吗](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489076&idx=1&sn=ce40ee59430153a9af6d7034f416856b)
 - 黑鸟
   - [伪装成救命预警APP：一场针对在以色列人员的定向间谍攻击](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185622&idx=1&sn=984fc492e19e96d1c6e82a02009a90fc)
-- 天御攻防实验室
-  - [白宫发布特朗普的《美国网络战略》](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486761&idx=1&sn=542634d952fc86787a2d66178be157be)
-- 全频带阻塞干扰
-  - [领导人系列：内塔尼亚胡是如何使用手机的？](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648959149&idx=1&sn=f849df8dd230e59c2fcd4f991ec78b28)
+- 皮相
+  - [Token 也许会是现实世界这个游戏的点券](https://mp.weixin.qq.com/s?__biz=MzI0NDA5MDYyNA==&mid=2648257322&idx=1&sn=37f98ecfea05b0f5740f625b74d5a9f3)
+- 丁爸 情报分析师的工具箱
+  - [【工具】免费部署且自由组合的开源情报指挥中心大屏：可自动生成情报报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154689&idx=1&sn=43e0f09107160a41c04f77a2db3227da)
+  - [【资料】人工智能武器化——恐怖主义与战争的下一阶段](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154689&idx=2&sn=274e51c048ba820f5a3a7565c6ef2b5f)
 - 看雪学苑
   - [CISCN-2025-初赛题解 NPUSEC](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611852&idx=1&sn=34b98be534d0fa60724aadd9938ad62e)
   - [Linux Pwn 番外篇 | 系统讲解从用户态堆栈利用到内核提权的完整攻击链路](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611852&idx=2&sn=19193170d64460db8c9128671f37b527)
+- 全频带阻塞干扰
+  - [领导人系列：内塔尼亚胡是如何使用手机的？](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648959149&idx=1&sn=f849df8dd230e59c2fcd4f991ec78b28)
+- 青衣十三楼飞花堂
+  - [一上来就“拉窗帘”的，教培机构教出来的吗](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489076&idx=1&sn=ce40ee59430153a9af6d7034f416856b)
+- 天御攻防实验室
+  - [白宫发布特朗普的《美国网络战略》](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486761&idx=1&sn=542634d952fc86787a2d66178be157be)
 - 安全圈
   - [【安全圈】上海一男子破解无人机“黑飞”50多次，最高飞到2700米，已被刑拘](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074335&idx=1&sn=1712423c02d0e2fba75f30492162048c)
   - [【安全圈】维基百科遭自传播 JavaScript 蠕虫攻击，大量页面被篡改](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074335&idx=2&sn=5db447a323b8399ef2c35e90b96eccd3)
   - [【安全圈】WordPress 会员插件漏洞遭利用，攻击者可创建管理员账户](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074335&idx=3&sn=701d79e4920ac96f99b26a882526964c)
-- 丁爸 情报分析师的工具箱
-  - [【工具】免费部署且自由组合的开源情报指挥中心大屏：可自动生成情报报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154689&idx=1&sn=43e0f09107160a41c04f77a2db3227da)
-  - [【资料】人工智能武器化——恐怖主义与战争的下一阶段](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154689&idx=2&sn=274e51c048ba820f5a3a7565c6ef2b5f)
+- 吾爱破解论坛
+  - [【开放注册公告】吾爱破解论坛2026年3月13日十八周年开放注册公告](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143710&idx=1&sn=813e42980aac372212c07f4a3d6d7446)
 - 极客公园
   - [浏览器已死？Tabbit 实测：AI 接管鼠标，人类负责修 bug｜AI 上新](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653100565&idx=1&sn=f09d213ad0f40e3ebb32685dae5cc82a)
   - [比亚迪王传福终结「电动化上半场」：9 分钟充饱，不再有「电动爹」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653100544&idx=1&sn=18161a29fe3d1a6b480e36bce8423be6)
   - [腾讯免费安 OpenClaw，千人鹅厂排队；小米测「龙虾」智能体，仅支持 17系机型；存储全年或涨两倍，PC 面临新冲击｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653100534&idx=1&sn=926bd881e62cf6af932521f1b860fdc7)
 - 枇杷熟了
   - [枇杷熟了-全球网络安全日报2026-03-07](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489935&idx=1&sn=099ac3b22e917305f7d601fd62b6f177)
-- 吾爱破解论坛
-  - [【开放注册公告】吾爱破解论坛2026年3月13日十八周年开放注册公告](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143710&idx=1&sn=813e42980aac372212c07f4a3d6d7446)
+- 安全行者老霍
+  - [嵌入式系统的渗透测试](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486031&idx=1&sn=8a175ece18c203b441c3aa560375210d)
+- bellingcat
+  - [New Footage Shows Wanted Kinahan Cartel Kingpins Post-Sanctions](https://www.bellingcat.com/news/2026/03/07/new-footage-shows-wanted-kinahan-cartel-kingpins-post-sanctions/)
+  - [The Incendiary Bomb Never Seen in Israel Before](https://www.bellingcat.com/news/2026/03/07/the-incendiary-bomb-never-seen-in-israel-before/)
 - Over Security - Cybersecurity news aggregator
   - [Termite ransomware breaches linked to ClickFix CastleRAT attacks](https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/)
   - [Ecco la strategia cyber “For America”: un segnale per l’Europa](https://www.cybersecurity360.it/cybersecurity-nazionale/ecco-la-strategia-cyber-for-america-un-segnale-per-leuropa/)
   - [Microsoft: Hackers abusing AI at every stage of cyberattacks](https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/)
-- 安全行者老霍
-  - [嵌入式系统的渗透测试](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486031&idx=1&sn=8a175ece18c203b441c3aa560375210d)
-- Dark Space Blogspot
-  - [Significato Del Messaggio TIM: "Modifica Contrattuale: Per Le Mutate Condizioni"](http://darkwhite666.blogspot.com/2026/03/significato-del-messaggio-tim-modifica.html)
-- bellingcat
-  - [New Footage Shows Wanted Kinahan Cartel Kingpins Post-Sanctions](https://www.bellingcat.com/news/2026/03/07/new-footage-shows-wanted-kinahan-cartel-kingpins-post-sanctions/)
-  - [The Incendiary Bomb Never Seen in Israel Before](https://www.bellingcat.com/news/2026/03/07/the-incendiary-bomb-never-seen-in-israel-before/)
 - SANS Internet Storm Center, InfoCON: green
   - [YARA-X 1.14.0 Release, (Sat, Mar 7th)](https://isc.sans.edu/diary/rss/32774)
+- Dark Space Blogspot
+  - [Significato Del Messaggio TIM: "Modifica Contrattuale: Per Le Mutate Condizioni"](http://darkwhite666.blogspot.com/2026/03/significato-del-messaggio-tim-modifica.html)
 - Security Affairs
   - [FBI probing intrusion into a system managing sensitive surveillance information](https://securityaffairs.com/189087/hacking/fbi-probing-intrusion-into-system-managing-sensitive-surveillance-information.html)
   - [Reading White House President Trump’s Cyber Strategy for America (March 2026)](https://securityaffairs.com/189083/security/reading-white-house-president-trumps-cyber-strategy-for-america-march-2026.html)
