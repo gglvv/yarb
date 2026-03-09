@@ -1,5 +1,9 @@
 # 每日安全资讯（2026-03-09）
 
+- Recent Commits to cve:main
+  - [Update Sun Mar  8 11:31:05 UTC 2026](https://github.com/trickest/cve/commit/54596bc659ecb564e8bef696e733daf2d5cdf9bd)
+- Der Flounder
+  - [Using the Jamf Pro API to deploy installer packages using MDM commands](https://derflounder.wordpress.com/2026/03/08/using-the-jamf-pro-api-to-deploy-installer-packages-using-mdm-commands/)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [PluckCMS 4.7.10 Unrestricted File Upload](https://cxsecurity.com/issue/WLB-2026030016)
   - [Python-Multipart < 0.0.22 - Path Traversal / Arbitrary File Write (CVE-2026-24486)](https://cxsecurity.com/issue/WLB-2026030015)
@@ -8,27 +12,19 @@
   - [Craft CMS 4.x & 5.x  RCE via Blocklist Bypass](https://cxsecurity.com/issue/WLB-2026030012)
   - [pac4j-jwt <  4.5.9, <  5.7.9, <  6.3.3 JwtAuthenticator Authentication Bypass via JWE-wrapped PlainJWT](https://cxsecurity.com/issue/WLB-2026030011)
   - [AirPlay Dual‑Mode Discovery Scanner for Flipper Zero ESP32 WiFi Dev Board](https://cxsecurity.com/issue/WLB-2026030010)
-- Recent Commits to cve:main
-  - [Update Sun Mar  8 11:31:05 UTC 2026](https://github.com/trickest/cve/commit/54596bc659ecb564e8bef696e733daf2d5cdf9bd)
-- Der Flounder
-  - [Using the Jamf Pro API to deploy installer packages using MDM commands](https://derflounder.wordpress.com/2026/03/08/using-the-jamf-pro-api-to-deploy-installer-packages-using-mdm-commands/)
-- Zdziarski
-  - [The Link Between Christian Nationalism and Hitler’s Germany](https://www.zdziarski.com/blog/?p=13746)
 - SecWiki News
   - [SecWiki News 2026-03-08 Review](http://www.sec-wiki.com/?2026-03-08)
+- Zdziarski
+  - [The Link Between Christian Nationalism and Hitler’s Germany](https://www.zdziarski.com/blog/?p=13746)
 - ClevCode
   - [Security in the Age of Agents](https://clevcode.org/security-in-the-age-of-agents/)
+- Didier Stevens
+  - [Update: base64dump.py Version 0.0.29](https://blog.didierstevens.com/2026/03/08/update-base64dump-py-version-0-0-29/)
 - Reverse Engineering
   - [GhostWeaver - a malware that lives up to its name](https://www.reddit.com/r/ReverseEngineering/comments/1ro58wd/ghostweaver_a_malware_that_lives_up_to_its_name/)
   - [[Update] I know I've shared LCSAJdump before, but v1.1.2 just mapped the entire x86_64 libc graph in <10s. It's now faster than ROPgadget while finding JOPs/Shadow Gadgets they physically miss.](https://www.reddit.com/r/ReverseEngineering/comments/1rob9wk/update_i_know_ive_shared_lcsajdump_before_but/)
 - Malwarebytes
   - [Ring doorbells: Won&#8217;t you see my neighbor? (Lock and Code S07E05)](https://www.malwarebytes.com/blog/podcast/2026/03/ring-doorbells-wont-you-see-my-neighbor-lock-and-code-s07e05)
-- Didier Stevens
-  - [Update: base64dump.py Version 0.0.29](https://blog.didierstevens.com/2026/03/08/update-base64dump-py-version-0-0-29/)
-- 黑鸟
-  - [避开英文AI写作套路：别让AI检测工具成了写作的枷锁](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185628&idx=1&sn=0c2be2783ae96bbcf2bb950264d8b2a7)
-- 皮相
-  - [掌控信息，而不是被信息掌控](https://mp.weixin.qq.com/s?__biz=MzI0NDA5MDYyNA==&mid=2648257329&idx=1&sn=20908ae6e8fb09950b5e1f7a5b5c2f96)
 - 奇客Solidot–传递最新科技情报
   - [印尼和印度卡纳塔克邦将禁止 16 岁以下儿童使用社媒](https://www.solidot.org/story?sid=83713)
   - [NASA DART 探测器确认改变了小行星的轨道](https://www.solidot.org/story?sid=83712)
@@ -36,32 +32,38 @@
   - [银狐黑产最新攻击样本分析与威胁情报](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495834&idx=1&sn=4b82337cc0e2974333b25d90d5647c92)
 - 威努特安全网络
   - [AI掀起工业安全新挑战，看威努特“白环境”如何破局？](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651140394&idx=1&sn=0e5620bf49f24b5568ff1e4ef8038226)
+- 黑鸟
+  - [避开英文AI写作套路：别让AI检测工具成了写作的枷锁](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185628&idx=1&sn=0c2be2783ae96bbcf2bb950264d8b2a7)
+- 丁爸 情报分析师的工具箱
+  - [【工具】美伊冲突实时追踪网站](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154705&idx=1&sn=0102f2a546013e48b672f14ce0c51edc)
 - 青衣十三楼飞花堂
   - [没有昨天倒角的那道难](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489091&idx=1&sn=953e6b420327d8e585b226ef19cb5e03)
   - [初一下学期的倒角难题挑战](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489084&idx=1&sn=7ac8a6e3a7424ff4a2770d84b52bc237)
-- 丁爸 情报分析师的工具箱
-  - [【工具】美伊冲突实时追踪网站](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154705&idx=1&sn=0102f2a546013e48b672f14ce0c51edc)
+- 非尝咸鱼贩
+  - [重访斯洛伐克：打卡名人机位和后朋克专辑封面](https://mp.weixin.qq.com/s?__biz=Mzk0NDE3MTkzNQ==&mid=2247485830&idx=1&sn=15fc406e15a254a81f974244bcd26415)
+- 皮相
+  - [掌控信息，而不是被信息掌控](https://mp.weixin.qq.com/s?__biz=MzI0NDA5MDYyNA==&mid=2648257329&idx=1&sn=20908ae6e8fb09950b5e1f7a5b5c2f96)
+- 极客公园
+  - [给 OpenAI 造机器人的人，看见了可怕的未来](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653100595&idx=1&sn=820ed2e94b292ee22abf1bf09b8f1d7a)
+  - [为什么「从 1 数到 10」这件事，所有视频模型都不会？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653100564&idx=1&sn=e74e00270a8dd1f1877718ce39705161)
+  - [雷军：未来每周只需工作 3 天；腾讯 QQ 官方接入「龙虾」，1 账号 5 个；ChatGPT「成人模式」推迟发布 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653100586&idx=1&sn=01356e98916bcad168b1f73ac79b8bbc)
 - 安全圈
   - [【安全圈】紧急！思科发布最高级别预警，一口气修复48个漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074459&idx=1&sn=ef939eb4d183296256162bca1d577177)
   - [【安全圈】重磅！IBM X-Force报告：AI驱动攻击狂飙，勒索软件激增49%](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074459&idx=2&sn=41aac7caec6bd6da98ec4c7c6b1f785f)
   - [【安全圈】紧急！游戏平台遭黑客入侵，1500万账户数据泄露，波及PSN/Xbox/Steam/Epic](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074459&idx=3&sn=a9c6660530e537b38ec8593c0ab2427c)
   - [【安全圈】高危0day突袭！俄APT28借MSHTML漏洞突破防线，政企紧急戒备](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074459&idx=4&sn=f3ae22e08096eab2957816229960f85b)
-- 极客公园
-  - [给 OpenAI 造机器人的人，看见了可怕的未来](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653100595&idx=1&sn=820ed2e94b292ee22abf1bf09b8f1d7a)
-  - [为什么「从 1 数到 10」这件事，所有视频模型都不会？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653100564&idx=1&sn=e74e00270a8dd1f1877718ce39705161)
-  - [雷军：未来每周只需工作 3 天；腾讯 QQ 官方接入「龙虾」，1 账号 5 个；ChatGPT「成人模式」推迟发布 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653100586&idx=1&sn=01356e98916bcad168b1f73ac79b8bbc)
 - 电子物证
   - [【实用 APK 分析模板：溯源链路与研判分析汇总】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048940&idx=1&sn=33d8cc14cb5d2c6864a954d5d914ef05)
   - [【一图看懂】常用哈希算法原理](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048940&idx=2&sn=2168b140333bc7f61ead1f792ddf5fb1)
+- 安全行者老霍
+  - [托管安全服务：实操指南--如何外包网络防御而不失控](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486032&idx=1&sn=e3f8ddfe984fd9bfaf7f76bb594ddb4f)
 - 火绒安全
   - [芳华启新程｜火绒致敬每一位独立坚守、勇敢担当的她](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247531229&idx=1&sn=e92394a8a2e718fb9db072690c8c26fb)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247531229&idx=2&sn=4d4e0a088996299136178d6f1fe15c0b)
-- 非尝咸鱼贩
-  - [重访斯洛伐克：打卡名人机位和后朋克专辑封面](https://mp.weixin.qq.com/s?__biz=Mzk0NDE3MTkzNQ==&mid=2247485830&idx=1&sn=15fc406e15a254a81f974244bcd26415)
-- 安全行者老霍
-  - [托管安全服务：实操指南--如何外包网络防御而不失控](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486032&idx=1&sn=e3f8ddfe984fd9bfaf7f76bb594ddb4f)
 - Dark Space Blogspot
   - [I Protagonisti Delle Crypto Wars: Da Zimmermann a Durov](http://darkwhite666.blogspot.com/2026/03/i-protagonisti-delle-crypto-wars-da.html)
+- 自在安全
+  - [如何利用 AI 分析 CVE-2025-20393 思科安全邮件网关 CVSS10 满分复杂匿名 RCE 漏洞](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492706&idx=1&sn=fdd3a02e537a160a014f2b3e2870d60e)
 - cavallette
   - [Problema hardware / Hardware issue](https://cavallette.noblogs.org/2026/03/10038)
 - Over Security - Cybersecurity news aggregator
@@ -71,16 +73,33 @@
   - [Ransomware Group Securotrop Claims Breach of Universal Mailing Service, Says 490GB of Data Stolen](https://www.suspectfile.com/ransomware-group-securotrop-claims-breach-of-universal-mailing-service-says-490gb-of-data-stolen/)
   - [Women in Cybersecurity Reveal the Skills That Built Their Confidence](https://thecyberexpress.com/women-in-cybersecurity-give-to-gain/)
   - [Top 50 Women Leaders in Cybersecurity to Watch in 2026](https://thecyberexpress.com/top-50-women-in-cybersecurity-to-watch-in-2026/)
+- Social Engineering
+  - [I'm a Dentist. What are some Books that will help me raise concern, motivation, and compliance in patients?](https://www.reddit.com/r/SocialEngineering/comments/1rok3hh/im_a_dentist_what_are_some_books_that_will_help/)
+  - [People's weaknesses, do you know any?](https://www.reddit.com/r/SocialEngineering/comments/1robdad/peoples_weaknesses_do_you_know_any/)
+- bellingcat
+  - [Video Shows US Tomahawk Missile Strike Next to Girls’ School in Iran](https://www.bellingcat.com/news/2026/03/08/video-shows-us-tomahawk-missile-strike-next-to-girls-school-in-iran/)
 - Your Open Hacker Community
   - [How do hackers receive money without getting their bank accounts tracked ?](https://www.reddit.com/r/HowToHack/comments/1rntz18/how_do_hackers_receive_money_without_getting/)
   - [Hostname discovery on network](https://www.reddit.com/r/HowToHack/comments/1ro0d9c/hostname_discovery_on_network/)
   - [Retrieve information from old Galaxy S Advance (locked)](https://www.reddit.com/r/HowToHack/comments/1ro1e6m/retrieve_information_from_old_galaxy_s_advance/)
   - [How to hack a Shenzhen MT61?](https://www.reddit.com/r/HowToHack/comments/1ro2o3m/how_to_hack_a_shenzhen_mt61/)
-  - [how to unencrypt .vbk files?](https://www.reddit.com/r/HowToHack/comments/1ro8mgx/how_to_unencrypt_vbk_files/)
   - [Bypass vpn detection in survey website](https://www.reddit.com/r/HowToHack/comments/1rnxvts/bypass_vpn_detection_in_survey_website/)
+  - [how to unencrypt .vbk files?](https://www.reddit.com/r/HowToHack/comments/1ro8mgx/how_to_unencrypt_vbk_files/)
   - [I need help](https://www.reddit.com/r/HowToHack/comments/1ro24hm/i_need_help/)
 - Krebs on Security
   - [How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/)
+- Technical Information Security Content & Discussion
+  - [Fake Claude Code Install Guides Spread Amatera Infostealer in New “InstallFix” Malvertising Campaign](https://www.reddit.com/r/netsec/comments/1robwok/fake_claude_code_install_guides_spread_amatera/)
+  - [AirSnitch: Demystifying and Breaking Client Isolation in Wi-Fi Networks](https://www.reddit.com/r/netsec/comments/1rojhfl/airsnitch_demystifying_and_breaking_client/)
+  - [From Chrome Extension Supply-Chain Compromise to Host Malware: Technical Breakdown of the ShotBird Campaign](https://www.reddit.com/r/netsec/comments/1rob5no/from_chrome_extension_supplychain_compromise_to/)
+- Security Affairs
+  - [Critical Nginx UI flaw CVE-2026-27944 exposes server backups](https://securityaffairs.com/189123/security/critical-nginx-ui-flaw-cve-2026-27944-exposes-server-backups.html)
+  - [Massive GitHub malware operation spreads BoryptGrab stealer](https://securityaffairs.com/189110/malware/massive-github-malware-operation-spreads-boryptgrab-stealer.html)
+  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 87](https://securityaffairs.com/189103/malware/security-affairs-malware-newsletter-round-87.html)
+  - [Security Affairs newsletter Round 566 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/189094/breaking-news/security-affairs-newsletter-round-566-by-pierluigi-paganini-international-edition.html)
+- Information Security
+  - [Sentinel-ThreatWall](https://www.reddit.com/r/Information_Security/comments/1rodji8/sentinelthreatwall/)
+  - [Is user training as preventative as we’d hope?](https://www.reddit.com/r/Information_Security/comments/1rnx1qx/is_user_training_as_preventative_as_wed_hope/)
 - netsecstudents: Subreddit for students studying Network Security and its related subjects
   - [Free Workshop: Understanding IAM (Identity & Access Management)](https://www.reddit.com/r/netsecstudents/comments/1rof0t0/free_workshop_understanding_iam_identity_access/)
   - [OpenShell——An open-source reverse shell management server written in Go.](https://www.reddit.com/r/netsecstudents/comments/1roahws/openshellan_opensource_reverse_shell_management/)
@@ -89,25 +108,6 @@
   - [Soon to be Ex-marketing technology bloke looking to enter cyber sec, Would love if i could request some aid in a project i'm working on for my CV](https://www.reddit.com/r/netsecstudents/comments/1ro2311/soon_to_be_exmarketing_technology_bloke_looking/)
   - [Built a self-hosted subdomain monitoring tool for bug bounty](https://www.reddit.com/r/netsecstudents/comments/1rnwrm0/built_a_selfhosted_subdomain_monitoring_tool_for/)
   - [Sto provando a spiegare come funziona davvero Internet: feedback tecnico benvenuto](https://www.reddit.com/r/netsecstudents/comments/1rnwbl8/sto_provando_a_spiegare_come_funziona_davvero/)
-- 自在安全
-  - [如何利用 AI 分析 CVE-2025-20393 思科安全邮件网关 CVSS10 满分复杂匿名 RCE 漏洞](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492706&idx=1&sn=fdd3a02e537a160a014f2b3e2870d60e)
 - Blackhat Library: Hacking techniques and research
   - [We used Kolega to find and fix real vulnerabilities in high-quality open source projects](https://www.reddit.com/r/blackhat/comments/1ro3wpp/we_used_kolega_to_find_and_fix_real/)
   - [Security professionals: what’s a vulnerability you discovered that made you question how the system ever passed testing?](https://www.reddit.com/r/blackhat/comments/1rnptnd/security_professionals_whats_a_vulnerability_you/)
-- Information Security
-  - [Sentinel-ThreatWall](https://www.reddit.com/r/Information_Security/comments/1rodji8/sentinelthreatwall/)
-  - [Is user training as preventative as we’d hope?](https://www.reddit.com/r/Information_Security/comments/1rnx1qx/is_user_training_as_preventative_as_wed_hope/)
-- Technical Information Security Content & Discussion
-  - [Fake Claude Code Install Guides Spread Amatera Infostealer in New “InstallFix” Malvertising Campaign](https://www.reddit.com/r/netsec/comments/1robwok/fake_claude_code_install_guides_spread_amatera/)
-  - [AirSnitch: Demystifying and Breaking Client Isolation in Wi-Fi Networks](https://www.reddit.com/r/netsec/comments/1rojhfl/airsnitch_demystifying_and_breaking_client/)
-  - [From Chrome Extension Supply-Chain Compromise to Host Malware: Technical Breakdown of the ShotBird Campaign](https://www.reddit.com/r/netsec/comments/1rob5no/from_chrome_extension_supplychain_compromise_to/)
-- bellingcat
-  - [Video Shows US Tomahawk Missile Strike Next to Girls’ School in Iran](https://www.bellingcat.com/news/2026/03/08/video-shows-us-tomahawk-missile-strike-next-to-girls-school-in-iran/)
-- Social Engineering
-  - [I'm a Dentist. What are some Books that will help me raise concern, motivation, and compliance in patients?](https://www.reddit.com/r/SocialEngineering/comments/1rok3hh/im_a_dentist_what_are_some_books_that_will_help/)
-  - [People's weaknesses, do you know any?](https://www.reddit.com/r/SocialEngineering/comments/1robdad/peoples_weaknesses_do_you_know_any/)
-- Security Affairs
-  - [Critical Nginx UI flaw CVE-2026-27944 exposes server backups](https://securityaffairs.com/189123/security/critical-nginx-ui-flaw-cve-2026-27944-exposes-server-backups.html)
-  - [Massive GitHub malware operation spreads BoryptGrab stealer](https://securityaffairs.com/189110/malware/massive-github-malware-operation-spreads-boryptgrab-stealer.html)
-  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 87](https://securityaffairs.com/189103/malware/security-affairs-malware-newsletter-round-87.html)
-  - [Security Affairs newsletter Round 566 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/189094/breaking-news/security-affairs-newsletter-round-566-by-pierluigi-paganini-international-edition.html)
