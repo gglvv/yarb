@@ -1,9 +1,5 @@
 # 每日安全资讯（2026-03-09）
 
-- Recent Commits to cve:main
-  - [Update Sun Mar  8 11:31:05 UTC 2026](https://github.com/trickest/cve/commit/54596bc659ecb564e8bef696e733daf2d5cdf9bd)
-- Zdziarski
-  - [The Link Between Christian Nationalism and Hitler’s Germany](https://www.zdziarski.com/blog/?p=13746)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [PluckCMS 4.7.10 Unrestricted File Upload](https://cxsecurity.com/issue/WLB-2026030016)
   - [Python-Multipart < 0.0.22 - Path Traversal / Arbitrary File Write (CVE-2026-24486)](https://cxsecurity.com/issue/WLB-2026030015)
@@ -16,6 +12,10 @@
   - [SecWiki News 2026-03-08 Review](http://www.sec-wiki.com/?2026-03-08)
 - Der Flounder
   - [Using the Jamf Pro API to deploy installer packages using MDM commands](https://derflounder.wordpress.com/2026/03/08/using-the-jamf-pro-api-to-deploy-installer-packages-using-mdm-commands/)
+- Zdziarski
+  - [The Link Between Christian Nationalism and Hitler’s Germany](https://www.zdziarski.com/blog/?p=13746)
+- Recent Commits to cve:main
+  - [Update Sun Mar  8 11:31:05 UTC 2026](https://github.com/trickest/cve/commit/54596bc659ecb564e8bef696e733daf2d5cdf9bd)
 - ClevCode
   - [Security in the Age of Agents](https://clevcode.org/security-in-the-age-of-agents/)
 - Didier Stevens
@@ -32,16 +32,14 @@
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [龙岗拟出台措施 支持OpenClaw&OPC发展](https://blog.upx8.com/%E9%BE%99%E5%B2%97%E6%8B%9F%E5%87%BA%E5%8F%B0%E6%8E%AA%E6%96%BD-%E6%94%AF%E6%8C%81OpenClaw-OPC%E5%8F%91%E5%B1%95)
   - [AI 聊天机器人将用户引导至非法在线赌场](https://blog.upx8.com/AI-%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%86%E7%94%A8%E6%88%B7%E5%BC%95%E5%AF%BC%E8%87%B3%E9%9D%9E%E6%B3%95%E5%9C%A8%E7%BA%BF%E8%B5%8C%E5%9C%BA)
-  - [伊朗就新任最高领袖人选达成多数共识](https://blog.upx8.com/%E4%BC%8A%E6%9C%97%E5%B0%B1%E6%96%B0%E4%BB%BB%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%BA%BA%E9%80%89%E8%BE%BE%E6%88%90%E5%A4%9A%E6%95%B0%E5%85%B1%E8%AF%86)
-  - [三星称愿与OpenAI等更多公司达成战略合作](https://blog.upx8.com/%E4%B8%89%E6%98%9F%E7%A7%B0%E6%84%BF%E4%B8%8EOpenAI%E7%AD%89%E6%9B%B4%E5%A4%9A%E5%85%AC%E5%8F%B8%E8%BE%BE%E6%88%90%E6%88%98%E7%95%A5%E5%90%88%E4%BD%9C)
 - 皮相
   - [掌控信息，而不是被信息掌控](https://mp.weixin.qq.com/s?__biz=MzI0NDA5MDYyNA==&mid=2648257329&idx=1&sn=20908ae6e8fb09950b5e1f7a5b5c2f96)
 - 黑鸟
   - [避开英文AI写作套路：别让AI检测工具成了写作的枷锁](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185628&idx=1&sn=0c2be2783ae96bbcf2bb950264d8b2a7)
-- 青衣十三楼飞花堂
-  - [初一下学期的倒角难题挑战](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489084&idx=1&sn=7ac8a6e3a7424ff4a2770d84b52bc237)
 - 威努特安全网络
   - [AI掀起工业安全新挑战，看威努特“白环境”如何破局？](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651140394&idx=1&sn=0e5620bf49f24b5568ff1e4ef8038226)
+- 青衣十三楼飞花堂
+  - [初一下学期的倒角难题挑战](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489084&idx=1&sn=7ac8a6e3a7424ff4a2770d84b52bc237)
 - 丁爸 情报分析师的工具箱
   - [【工具】美伊冲突实时追踪网站](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154705&idx=1&sn=0102f2a546013e48b672f14ce0c51edc)
 - 非尝咸鱼贩
@@ -61,8 +59,6 @@
 - 火绒安全
   - [芳华启新程｜火绒致敬每一位独立坚守、勇敢担当的她](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247531229&idx=1&sn=e92394a8a2e718fb9db072690c8c26fb)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247531229&idx=2&sn=4d4e0a088996299136178d6f1fe15c0b)
-- 安全行者老霍
-  - [托管安全服务：实操指南--如何外包网络防御而不失控](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486032&idx=1&sn=e3f8ddfe984fd9bfaf7f76bb594ddb4f)
 - Over Security - Cybersecurity news aggregator
   - [How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/)
   - [EU court adviser says banks must immediately refund phishing victims](https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/)
@@ -70,34 +66,31 @@
   - [Ransomware Group Securotrop Claims Breach of Universal Mailing Service, Says 490GB of Data Stolen](https://www.suspectfile.com/ransomware-group-securotrop-claims-breach-of-universal-mailing-service-says-490gb-of-data-stolen/)
   - [Women in Cybersecurity Reveal the Skills That Built Their Confidence](https://thecyberexpress.com/women-in-cybersecurity-give-to-gain/)
   - [Top 50 Women Leaders in Cybersecurity to Watch in 2026](https://thecyberexpress.com/top-50-women-in-cybersecurity-to-watch-in-2026/)
-- bellingcat
-  - [Video Shows US Tomahawk Missile Strike Next to Girls’ School in Iran](https://www.bellingcat.com/news/2026/03/08/video-shows-us-tomahawk-missile-strike-next-to-girls-school-in-iran/)
-- cavallette
-  - [Problema hardware / Hardware issue](https://cavallette.noblogs.org/2026/03/10038)
-- 自在安全
-  - [如何利用 AI 分析 CVE-2025-20393 思科安全邮件网关 CVSS10 满分复杂匿名 RCE 漏洞](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492706&idx=1&sn=fdd3a02e537a160a014f2b3e2870d60e)
+- 安全行者老霍
+  - [托管安全服务：实操指南--如何外包网络防御而不失控](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486032&idx=1&sn=e3f8ddfe984fd9bfaf7f76bb594ddb4f)
 - Dark Space Blogspot
   - [I Protagonisti Delle Crypto Wars: Da Zimmermann a Durov](http://darkwhite666.blogspot.com/2026/03/i-protagonisti-delle-crypto-wars-da.html)
-- Security Affairs
-  - [Critical Nginx UI flaw CVE-2026-27944 exposes server backups](https://securityaffairs.com/189123/security/critical-nginx-ui-flaw-cve-2026-27944-exposes-server-backups.html)
-  - [Massive GitHub malware operation spreads BoryptGrab stealer](https://securityaffairs.com/189110/malware/massive-github-malware-operation-spreads-boryptgrab-stealer.html)
-  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 87](https://securityaffairs.com/189103/malware/security-affairs-malware-newsletter-round-87.html)
-  - [Security Affairs newsletter Round 566 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/189094/breaking-news/security-affairs-newsletter-round-566-by-pierluigi-paganini-international-edition.html)
-- Blackhat Library: Hacking techniques and research
-  - [We used Kolega to find and fix real vulnerabilities in high-quality open source projects](https://www.reddit.com/r/blackhat/comments/1ro3wpp/we_used_kolega_to_find_and_fix_real/)
-  - [Security professionals: what’s a vulnerability you discovered that made you question how the system ever passed testing?](https://www.reddit.com/r/blackhat/comments/1rnptnd/security_professionals_whats_a_vulnerability_you/)
+- 自在安全
+  - [如何利用 AI 分析 CVE-2025-20393 思科安全邮件网关 CVSS10 满分复杂匿名 RCE 漏洞](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492706&idx=1&sn=fdd3a02e537a160a014f2b3e2870d60e)
+- cavallette
+  - [Problema hardware / Hardware issue](https://cavallette.noblogs.org/2026/03/10038)
+- bellingcat
+  - [Video Shows US Tomahawk Missile Strike Next to Girls’ School in Iran](https://www.bellingcat.com/news/2026/03/08/video-shows-us-tomahawk-missile-strike-next-to-girls-school-in-iran/)
+- Information Security
+  - [Sentinel-ThreatWall](https://www.reddit.com/r/Information_Security/comments/1rodji8/sentinelthreatwall/)
+  - [Is user training as preventative as we’d hope?](https://www.reddit.com/r/Information_Security/comments/1rnx1qx/is_user_training_as_preventative_as_wed_hope/)
 - Technical Information Security Content & Discussion
   - [Fake Claude Code Install Guides Spread Amatera Infostealer in New “InstallFix” Malvertising Campaign](https://www.reddit.com/r/netsec/comments/1robwok/fake_claude_code_install_guides_spread_amatera/)
   - [From Chrome Extension Supply-Chain Compromise to Host Malware: Technical Breakdown of the ShotBird Campaign](https://www.reddit.com/r/netsec/comments/1rob5no/from_chrome_extension_supplychain_compromise_to/)
   - [AirSnitch: Demystifying and Breaking Client Isolation in Wi-Fi Networks](https://www.reddit.com/r/netsec/comments/1rojhfl/airsnitch_demystifying_and_breaking_client/)
-- Krebs on Security
-  - [How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/)
+- Blackhat Library: Hacking techniques and research
+  - [We used Kolega to find and fix real vulnerabilities in high-quality open source projects](https://www.reddit.com/r/blackhat/comments/1ro3wpp/we_used_kolega_to_find_and_fix_real/)
+  - [Security professionals: what’s a vulnerability you discovered that made you question how the system ever passed testing?](https://www.reddit.com/r/blackhat/comments/1rnptnd/security_professionals_whats_a_vulnerability_you/)
 - Social Engineering
   - [I'm a Dentist. What are some Books that will help me raise concern, motivation, and compliance in patients?](https://www.reddit.com/r/SocialEngineering/comments/1rok3hh/im_a_dentist_what_are_some_books_that_will_help/)
   - [People's weaknesses, do you know any?](https://www.reddit.com/r/SocialEngineering/comments/1robdad/peoples_weaknesses_do_you_know_any/)
-- Information Security
-  - [Sentinel-ThreatWall](https://www.reddit.com/r/Information_Security/comments/1rodji8/sentinelthreatwall/)
-  - [Is user training as preventative as we’d hope?](https://www.reddit.com/r/Information_Security/comments/1rnx1qx/is_user_training_as_preventative_as_wed_hope/)
+- Krebs on Security
+  - [How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/)
 - netsecstudents: Subreddit for students studying Network Security and its related subjects
   - [Free Workshop: Understanding IAM (Identity & Access Management)](https://www.reddit.com/r/netsecstudents/comments/1rof0t0/free_workshop_understanding_iam_identity_access/)
   - [OpenShell——An open-source reverse shell management server written in Go.](https://www.reddit.com/r/netsecstudents/comments/1roahws/openshellan_opensource_reverse_shell_management/)
@@ -114,3 +107,8 @@
   - [how to unencrypt .vbk files?](https://www.reddit.com/r/HowToHack/comments/1ro8mgx/how_to_unencrypt_vbk_files/)
   - [Bypass vpn detection in survey website](https://www.reddit.com/r/HowToHack/comments/1rnxvts/bypass_vpn_detection_in_survey_website/)
   - [I need help](https://www.reddit.com/r/HowToHack/comments/1ro24hm/i_need_help/)
+- Security Affairs
+  - [Critical Nginx UI flaw CVE-2026-27944 exposes server backups](https://securityaffairs.com/189123/security/critical-nginx-ui-flaw-cve-2026-27944-exposes-server-backups.html)
+  - [Massive GitHub malware operation spreads BoryptGrab stealer](https://securityaffairs.com/189110/malware/massive-github-malware-operation-spreads-boryptgrab-stealer.html)
+  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 87](https://securityaffairs.com/189103/malware/security-affairs-malware-newsletter-round-87.html)
+  - [Security Affairs newsletter Round 566 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/189094/breaking-news/security-affairs-newsletter-round-566-by-pierluigi-paganini-international-edition.html)
