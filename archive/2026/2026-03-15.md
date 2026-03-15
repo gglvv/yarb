@@ -1,14 +1,16 @@
 # 每日安全资讯（2026-03-15）
 
+- Recent Commits to cve:main
+  - [Update Sat Mar 14 11:14:35 UTC 2026](https://github.com/trickest/cve/commit/155809a1c2d69ac735a95c0b670795240c3701e2)
 - SecWiki News
   - [SecWiki News 2026-03-14 Review](http://www.sec-wiki.com/?2026-03-14)
+- obaby 𝐢‍𝐧⃝ void
+  - [开源项目目录📇](https://zhongxiaojie.cn/2026/03/593/)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [Microsoft Windows MSHTML Security Feature Bypass Vulnerability](https://cxsecurity.com/issue/WLB-2026030020)
   - [Qualcomm GPU Driver Memory Corruption Vulnerability in Android Devices](https://cxsecurity.com/issue/WLB-2026030019)
   - [Frappe Framework < 14.99.0 and < 15.84.0 Unauthenticated SQL Injection](https://cxsecurity.com/issue/WLB-2026030018)
   - [PyJWT <  2.12.0 crit header bypass / Insufficient crit validation](https://cxsecurity.com/issue/WLB-2026030017)
-- Recent Commits to cve:main
-  - [Update Sat Mar 14 11:14:35 UTC 2026](https://github.com/trickest/cve/commit/155809a1c2d69ac735a95c0b670795240c3701e2)
 - InfoSec Write-ups - Medium
   - [AI Jailbreaking : How Hackers Can Bypass AI Safety](https://infosecwriteups.com/ai-jailbreaking-how-hackers-can-bypass-ai-safety-c1d853724ff8?source=rss----7b722bfd1b8d---4)
   - [File Inclusion | TryHackMe Write-up | Farros](https://infosecwriteups.com/file-inclusion-tryhackme-write-up-farros-4d5927909ac8?source=rss----7b722bfd1b8d---4)
@@ -20,8 +22,8 @@
   - [Why Our Amazon Scrapers Broke Every 14 Days — And Why We Stopped Fixing Them](https://infosecwriteups.com/why-our-amazon-scrapers-broke-every-14-days-and-why-we-stopped-fixing-them-adf0879d4e9c?source=rss----7b722bfd1b8d---4)
   - [How Hackers Find Gold in Public GitHub Repositories](https://infosecwriteups.com/how-hackers-find-gold-in-public-github-repositories-ba9f244d60c4?source=rss----7b722bfd1b8d---4)
   - [This Tiny Stick Can Do What a $200 Flipper Zero Can’t (If You Know How)](https://infosecwriteups.com/this-tiny-stick-can-do-what-a-200-flipper-zero-cant-if-you-know-how-eab580e4d560?source=rss----7b722bfd1b8d---4)
-- obaby 𝐢‍𝐧⃝ void
-  - [开源项目目录📇](https://zhongxiaojie.cn/2026/03/593/)
+- Bug Bounty in InfoSec Write-ups on Medium
+  - [How Hackers Find Gold in Public GitHub Repositories](https://infosecwriteups.com/how-hackers-find-gold-in-public-github-repositories-ba9f244d60c4?source=rss----7b722bfd1b8d--bug_bounty)
 - Didier Stevens
   - [Update: oledump.py Version 0.0.84](https://blog.didierstevens.com/2026/03/14/update-oledump-py-version-0-0-84/)
 - 奇客Solidot–传递最新科技情报
@@ -32,6 +34,8 @@
   - [真菌对生命至关重要](https://www.solidot.org/story?sid=83764)
 - 黑鸟
   - [Odido路由器秘密将遥测数据发送到一家土耳其人工智能公司](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185759&idx=1&sn=021cd8691ae173f6390b43fefe55972d)
+- 安全客
+  - [3.17上海炸场！AI龙虾大会来了：全民养虾时代，解锁人机共生新玩法](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789744&idx=1&sn=0abf1e1ddb5e43429dbe06d499916eb7)
 - 青衣十三楼飞花堂
   - [不许作辅助线下的情况下能用三角函数暴力求解吗？](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489125&idx=1&sn=2423e7c261a97e9fa0687282823de0f8)
 - 丁爸 情报分析师的工具箱
@@ -39,56 +43,54 @@
 - 看雪学苑
   - [HGAME 2026复现](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458612077&idx=1&sn=c66bc5a24d6fa102332f98f8c550be5e)
   - [招募课程讲师（兼职）！名利双收](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458612077&idx=2&sn=5532a79564482da0fd9fb08f76a34c01)
-- 安全客
-  - [3.17上海炸场！AI龙虾大会来了：全民养虾时代，解锁人机共生新玩法](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789744&idx=1&sn=0abf1e1ddb5e43429dbe06d499916eb7)
-- 奇安信 CERT
-  - [今日（2026年3月14日）OpenClaw 最新安全动态总结](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504745&idx=1&sn=c90d160c9d648a7a8810e031eeccf2e2)
-  - [安全热点周报：n8n 严重安全漏洞已遭利用，仍有 24700 个实例处于暴露状态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504745&idx=2&sn=b1d3ac2be88aeacf1c9a86c78f542eb5)
-  - [奇安信集团2026年03月补丁库更新通告-第一次更新](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504745&idx=3&sn=b65ab4aef70bbfd92e72ff63ed897e0c)
-- 腾讯安全威胁情报中心
-  - [“银狐”盯上“小龙虾” | 针对 OpenClaw 热点流量的工业化钓鱼活动](https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247511363&idx=1&sn=9485e074967faba84eae17b1522382c4)
-- 中国信息安全
-  - [“十五五”规划纲要，全文发布！](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664260179&idx=1&sn=63f3243930910de4e9243ee7eb3ab3c8)
-  - [政府工作报告，全文来了！](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664260179&idx=2&sn=1b1cf82d5d1a5565b01264048f9e44fc)
-  - [5家平台运营机构，被约谈！](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664260179&idx=3&sn=ecbf859b8e5ac206a2bbb218a2dc36ae)
-- 安全圈
-  - [【安全圈】两会网络安全最强音：2026年政府工作报告重点解读](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074689&idx=1&sn=1a33c2a4ba65ccb09812490c10156d2d)
-  - [【安全圈】紧急预警！Chrome再曝两个高危漏洞已被在野利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074689&idx=2&sn=df039d7dd8bb90f3e37e7590c242a92e)
-  - [【安全圈】3月漏洞风暴：思科48个洞、微软83个CVE，这个月不太平](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074689&idx=3&sn=925594fed2ebed6205ae0da7c35ab3fd)
 - 数世咨询
   - [RSAC 2026创新沙盒 | Crash Override：从被动扫描走向主动溯源，重塑软件供应链安全底座](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542065&idx=1&sn=bc9509f5072d1a79f10cd6d3ba9323f8)
   - [工信部：使用“龙虾”“六要六不要”！](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542065&idx=2&sn=6df239ddc3c29d37f05254926846a2ed)
   - [“龙虾”卸载指南，来了！](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542065&idx=3&sn=8ecce15655e29377f165ec357d69675c)
+- 软件安全与逆向分析
+  - [Frida17.8引入的大招：基于eBPF的系统调用跟踪模块技术原理解析](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485065&idx=1&sn=b0cbe4e7838e498c0c0238409e6ccc4e)
 - 极客公园
   - [9 块 9 交个朋友，字节的 ArkClaw 可能更适合普通人 ｜AI 上新](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653101135&idx=1&sn=15b972eed61c17d61489e772b17c8e25)
   - [为了让机器人学会做家务，这家公司做了一副 200 美元的「技能手套」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653101134&idx=1&sn=d9eb6064f79ef589832b01e7d4022f58)
   - [苹果降低 App Store 佣金费率；市监总局整治「大字吸睛，小字免责」广告乱象；OpenClaw 创始人喊话百度 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653101133&idx=1&sn=5caf32844d85c1e876327fc9ffde194a)
+- 奇安信 CERT
+  - [今日（2026年3月14日）OpenClaw 最新安全动态总结](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504745&idx=1&sn=c90d160c9d648a7a8810e031eeccf2e2)
+  - [安全热点周报：n8n 严重安全漏洞已遭利用，仍有 24700 个实例处于暴露状态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504745&idx=2&sn=b1d3ac2be88aeacf1c9a86c78f542eb5)
+  - [奇安信集团2026年03月补丁库更新通告-第一次更新](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504745&idx=3&sn=b65ab4aef70bbfd92e72ff63ed897e0c)
+- 安全圈
+  - [【安全圈】两会网络安全最强音：2026年政府工作报告重点解读](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074689&idx=1&sn=1a33c2a4ba65ccb09812490c10156d2d)
+  - [【安全圈】紧急预警！Chrome再曝两个高危漏洞已被在野利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074689&idx=2&sn=df039d7dd8bb90f3e37e7590c242a92e)
+  - [【安全圈】3月漏洞风暴：思科48个洞、微软83个CVE，这个月不太平](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074689&idx=3&sn=925594fed2ebed6205ae0da7c35ab3fd)
 - 枇杷熟了
   - [枇杷熟了-全球网络安全日报2026-03-14](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489972&idx=1&sn=b520ae35794132fb58b90b667eac7a39)
+- 中国信息安全
+  - [“十五五”规划纲要，全文发布！](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664260179&idx=1&sn=63f3243930910de4e9243ee7eb3ab3c8)
+  - [政府工作报告，全文来了！](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664260179&idx=2&sn=1b1cf82d5d1a5565b01264048f9e44fc)
+  - [5家平台运营机构，被约谈！](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664260179&idx=3&sn=ecbf859b8e5ac206a2bbb218a2dc36ae)
+- 腾讯安全威胁情报中心
+  - [“银狐”盯上“小龙虾” | 针对 OpenClaw 热点流量的工业化钓鱼活动](https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247511363&idx=1&sn=9485e074967faba84eae17b1522382c4)
 - 安全行者老霍
   - [人工智能正快速扩展--您的网络安全是否跟得上？](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486090&idx=1&sn=0a2f82f456afb2c15ad63cc1edb66eb4)
-- 软件安全与逆向分析
-  - [Frida17.8引入的大招：基于eBPF的系统调用跟踪模块技术原理解析](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485065&idx=1&sn=b0cbe4e7838e498c0c0238409e6ccc4e)
 - 情报分析师
   - [如何调查美国全球军事基地布局的方法](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567046&idx=1&sn=1bc1f3081ef0889207c514f81fb1964d)
   - [美国参议院3月11日听证会所谓指控“我如何控制美国药品供应链”](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567046&idx=2&sn=6714093c8b852841a2f34073bc535eb7)
+- SANS Internet Storm Center, InfoCON: green
+  - [SmartApeSG campaign uses ClickFix page to push Remcos RAT, (Sat, Mar 14th)](https://isc.sans.edu/diary/rss/32796)
 - Over Security - Cybersecurity news aggregator
   - [Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/)
   - [AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code](https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/)
   - [Crimes against NTDLL - Implementing Early Cascade Injection](https://fluxsec.red/implementing-early-cascade-injection-rust)
   - [Women in Cybersecurity: One Step That Can Change the Industry](https://thecyberexpress.com/diversity-and-inclusion-in-cybersecurity/)
-- SANS Internet Storm Center, InfoCON: green
-  - [SmartApeSG campaign uses ClickFix page to push Remcos RAT, (Sat, Mar 14th)](https://isc.sans.edu/diary/rss/32796)
 - Schneier on Security
   - [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2026/03/upcoming-speaking-engagements-54.html)
-- bellingcat
-  - [Ex-UFC Fighter and Kinahan ‘Friend’ Mounir Lazzez Linked to Iran Sanctions](https://www.bellingcat.com/news/2026/03/14/ex-ufc-fighter-and-kinahan-friend-mounir-lazzez-linked-to-iran-sanctions/)
 - Lenny Zeltser
   - [Build Better Security Product Strategies Using Your AI Tool](https://zeltser.com/security-product-strategy-with-ai/)
+- The Hacker News
+  - [OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration](https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html)
+  - [GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers](https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html)
 - Security Affairs
   - [Starbucks data breach impacts 889 employees](https://securityaffairs.com/189438/security/starbucks-data-breach-impacts-889-employees.html)
   - [Storm-2561 lures victims to spoofed VPN sites to harvest corporate logins](https://securityaffairs.com/189426/cyber-crime/storm-2561-lures-victims-to-spoofed-vpn-sites-to-harvest-corporate-logins.html)
   - [Interpol – Operation Synergia III leads to 45,000 malicious IPs dismantled and 94 arrests worldwide](https://securityaffairs.com/189420/cyber-crime/interpol-operation-synergia-iii-leads-to-45000-malicious-ips-dismantled-and-94-arrests-worldwide.html)
-- The Hacker News
-  - [OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration](https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html)
-  - [GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers](https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html)
+- bellingcat
+  - [Ex-UFC Fighter and Kinahan ‘Friend’ Mounir Lazzez Linked to Iran Sanctions](https://www.bellingcat.com/news/2026/03/14/ex-ufc-fighter-and-kinahan-friend-mounir-lazzez-linked-to-iran-sanctions/)
