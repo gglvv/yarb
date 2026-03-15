@@ -1,31 +1,23 @@
 # 每日安全资讯（2026-03-15）
 
-- InfoSec Write-ups - Medium
-  - [AI Jailbreaking : How Hackers Can Bypass AI Safety](https://infosecwriteups.com/ai-jailbreaking-how-hackers-can-bypass-ai-safety-c1d853724ff8?source=rss----7b722bfd1b8d---4)
-  - [File Inclusion | TryHackMe Write-up | Farros](https://infosecwriteups.com/file-inclusion-tryhackme-write-up-farros-4d5927909ac8?source=rss----7b722bfd1b8d---4)
-  - [The AI-BOM Nightmare: Why You Can’t Cryptographically Hash a Concept](https://infosecwriteups.com/the-ai-bom-nightmare-why-you-cant-cryptographically-hash-a-concept-548bef164aed?source=rss----7b722bfd1b8d---4)
-  - [The “Unzip” of Death: Why Using Your Old WinRAR Is a Dangerous Trap](https://infosecwriteups.com/the-unzip-of-death-why-using-your-old-winrar-is-a-dangerous-trap-18203a2c9fff?source=rss----7b722bfd1b8d---4)
-  - [The Prestige of Malware: Unmasking ClickFix, Destructor Hijacking, and the “Dictionary Symphony”](https://infosecwriteups.com/the-prestige-of-malware-unmasking-clickfix-destructor-hijacking-and-the-dictionary-symphony-1c980f5582e5?source=rss----7b722bfd1b8d---4)
-  - [Ability to Add Non-Friends as Co-Hosts in Facebook Group Events](https://infosecwriteups.com/ability-to-add-non-friends-as-co-hosts-in-facebook-group-events-6e099da3bc42?source=rss----7b722bfd1b8d---4)
-  - [OWASP Top 10 for Agentic AI Applications VS Top 10 OWASP LLM & GenAI Security Risks: The Ultimate…](https://infosecwriteups.com/owasp-top-10-for-agentic-ai-applications-vs-top-10-owasp-llm-genai-security-risks-the-ultimate-81420b921d94?source=rss----7b722bfd1b8d---4)
-  - [Why Our Amazon Scrapers Broke Every 14 Days — And Why We Stopped Fixing Them](https://infosecwriteups.com/why-our-amazon-scrapers-broke-every-14-days-and-why-we-stopped-fixing-them-adf0879d4e9c?source=rss----7b722bfd1b8d---4)
-  - [How Hackers Find Gold in Public GitHub Repositories](https://infosecwriteups.com/how-hackers-find-gold-in-public-github-repositories-ba9f244d60c4?source=rss----7b722bfd1b8d---4)
-  - [This Tiny Stick Can Do What a $200 Flipper Zero Can’t (If You Know How)](https://infosecwriteups.com/this-tiny-stick-can-do-what-a-200-flipper-zero-cant-if-you-know-how-eab580e4d560?source=rss----7b722bfd1b8d---4)
+- Recent Commits to cve:main
+  - [Update Sat Mar 14 11:14:35 UTC 2026](https://github.com/trickest/cve/commit/155809a1c2d69ac735a95c0b670795240c3701e2)
+- SecWiki News
+  - [SecWiki News 2026-03-14 Review](http://www.sec-wiki.com/?2026-03-14)
+- obaby 𝐢‍𝐧⃝ void
+  - [开源项目目录📇](https://zhongxiaojie.cn/2026/03/593/)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [Microsoft Windows MSHTML Security Feature Bypass Vulnerability](https://cxsecurity.com/issue/WLB-2026030020)
   - [Qualcomm GPU Driver Memory Corruption Vulnerability in Android Devices](https://cxsecurity.com/issue/WLB-2026030019)
   - [Frappe Framework < 14.99.0 and < 15.84.0 Unauthenticated SQL Injection](https://cxsecurity.com/issue/WLB-2026030018)
   - [PyJWT <  2.12.0 crit header bypass / Insufficient crit validation](https://cxsecurity.com/issue/WLB-2026030017)
-- SecWiki News
-  - [SecWiki News 2026-03-14 Review](http://www.sec-wiki.com/?2026-03-14)
-- obaby 𝐢‍𝐧⃝ void
-  - [开源项目目录📇](https://zhongxiaojie.cn/2026/03/593/)
-- Recent Commits to cve:main
-  - [Update Sat Mar 14 11:14:35 UTC 2026](https://github.com/trickest/cve/commit/155809a1c2d69ac735a95c0b670795240c3701e2)
 - Didier Stevens
   - [Update: oledump.py Version 0.0.84](https://blog.didierstevens.com/2026/03/14/update-oledump-py-version-0-0-84/)
-- Bug Bounty in InfoSec Write-ups on Medium
-  - [How Hackers Find Gold in Public GitHub Repositories](https://infosecwriteups.com/how-hackers-find-gold-in-public-github-repositories-ba9f244d60c4?source=rss----7b722bfd1b8d--bug_bounty)
+- Reverse Engineering
+  - [Cross-Platform GUI for APK Decompilation, Analysis, and Recompilation](https://www.reddit.com/r/ReverseEngineering/comments/1rtkchv/crossplatform_gui_for_apk_decompilation_analysis/)
+  - [I rewrote my ELF loader in Rust and added new features!](https://www.reddit.com/r/ReverseEngineering/comments/1rtmpvp/i_rewrote_my_elf_loader_in_rust_and_added_new/)
+  - [If you’re working with Akamai sensors and need to gen correctly, here’s a correctly VM-decompiled version for Akamai 3.0.](https://www.reddit.com/r/ReverseEngineering/comments/1rt4kj4/if_youre_working_with_akamai_sensors_and_need_to/)
+  - [Reverse Engineering Android 16 Memory Management: Solving the Knox-Induced 512B Sector Fragmentation Paradox](https://www.reddit.com/r/ReverseEngineering/comments/1rtnvyr/reverse_engineering_android_16_memory_management/)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [Meta因AI投资成本酝酿新一轮大规模裁员](https://blog.upx8.com/Meta%E5%9B%A0AI%E6%8A%95%E8%B5%84%E6%88%90%E6%9C%AC%E9%85%9D%E9%85%BF%E6%96%B0%E4%B8%80%E8%BD%AE%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%A3%81%E5%91%98)
   - [企业微信已支持一键扫码接入OpenClaw](https://blog.upx8.com/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E5%B7%B2%E6%94%AF%E6%8C%81%E4%B8%80%E9%94%AE%E6%89%AB%E7%A0%81%E6%8E%A5%E5%85%A5OpenClaw)
@@ -40,33 +32,37 @@
   - [Digg 重启失败](https://www.solidot.org/story?sid=83766)
   - [英特尔芯片加速全同态加密计算](https://www.solidot.org/story?sid=83765)
   - [真菌对生命至关重要](https://www.solidot.org/story?sid=83764)
-- 看雪学苑
-  - [HGAME 2026复现](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458612077&idx=1&sn=c66bc5a24d6fa102332f98f8c550be5e)
-  - [招募课程讲师（兼职）！名利双收](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458612077&idx=2&sn=5532a79564482da0fd9fb08f76a34c01)
-- 丁爸 情报分析师的工具箱
-  - [【龙虾报告】伊朗导弹型号详细分析报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154819&idx=1&sn=dde160464f2f19c313bd15f284b4c3fc)
 - 黑鸟
   - [Odido路由器秘密将遥测数据发送到一家土耳其人工智能公司](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185759&idx=1&sn=021cd8691ae173f6390b43fefe55972d)
 - 青衣十三楼飞花堂
   - [不许作辅助线下的情况下能用三角函数暴力求解吗？](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489125&idx=1&sn=2423e7c261a97e9fa0687282823de0f8)
-- 软件安全与逆向分析
-  - [Frida17.8引入的大招：基于eBPF的系统调用跟踪模块技术原理解析](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485065&idx=1&sn=b0cbe4e7838e498c0c0238409e6ccc4e)
-- 极客公园
-  - [9 块 9 交个朋友，字节的 ArkClaw 可能更适合普通人 ｜AI 上新](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653101135&idx=1&sn=15b972eed61c17d61489e772b17c8e25)
-  - [为了让机器人学会做家务，这家公司做了一副 200 美元的「技能手套」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653101134&idx=1&sn=d9eb6064f79ef589832b01e7d4022f58)
-  - [苹果降低 App Store 佣金费率；市监总局整治「大字吸睛，小字免责」广告乱象；OpenClaw 创始人喊话百度 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653101133&idx=1&sn=5caf32844d85c1e876327fc9ffde194a)
+- 丁爸 情报分析师的工具箱
+  - [【龙虾报告】伊朗导弹型号详细分析报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154819&idx=1&sn=dde160464f2f19c313bd15f284b4c3fc)
+- 看雪学苑
+  - [HGAME 2026复现](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458612077&idx=1&sn=c66bc5a24d6fa102332f98f8c550be5e)
+  - [招募课程讲师（兼职）！名利双收](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458612077&idx=2&sn=5532a79564482da0fd9fb08f76a34c01)
 - 中国信息安全
   - [“十五五”规划纲要，全文发布！](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664260179&idx=1&sn=63f3243930910de4e9243ee7eb3ab3c8)
   - [政府工作报告，全文来了！](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664260179&idx=2&sn=1b1cf82d5d1a5565b01264048f9e44fc)
   - [5家平台运营机构，被约谈！](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664260179&idx=3&sn=ecbf859b8e5ac206a2bbb218a2dc36ae)
+- 奇安信 CERT
+  - [今日（2026年3月14日）OpenClaw 最新安全动态总结](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504745&idx=1&sn=c90d160c9d648a7a8810e031eeccf2e2)
+  - [安全热点周报：n8n 严重安全漏洞已遭利用，仍有 24700 个实例处于暴露状态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504745&idx=2&sn=b1d3ac2be88aeacf1c9a86c78f542eb5)
+  - [奇安信集团2026年03月补丁库更新通告-第一次更新](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504745&idx=3&sn=b65ab4aef70bbfd92e72ff63ed897e0c)
 - 安全圈
   - [【安全圈】两会网络安全最强音：2026年政府工作报告重点解读](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074689&idx=1&sn=1a33c2a4ba65ccb09812490c10156d2d)
   - [【安全圈】紧急预警！Chrome再曝两个高危漏洞已被在野利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074689&idx=2&sn=df039d7dd8bb90f3e37e7590c242a92e)
   - [【安全圈】3月漏洞风暴：思科48个洞、微软83个CVE，这个月不太平](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074689&idx=3&sn=925594fed2ebed6205ae0da7c35ab3fd)
-- 枇杷熟了
-  - [枇杷熟了-全球网络安全日报2026-03-14](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489972&idx=1&sn=b520ae35794132fb58b90b667eac7a39)
 - 腾讯安全威胁情报中心
   - [“银狐”盯上“小龙虾” | 针对 OpenClaw 热点流量的工业化钓鱼活动](https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247511363&idx=1&sn=9485e074967faba84eae17b1522382c4)
+- 极客公园
+  - [9 块 9 交个朋友，字节的 ArkClaw 可能更适合普通人 ｜AI 上新](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653101135&idx=1&sn=15b972eed61c17d61489e772b17c8e25)
+  - [为了让机器人学会做家务，这家公司做了一副 200 美元的「技能手套」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653101134&idx=1&sn=d9eb6064f79ef589832b01e7d4022f58)
+  - [苹果降低 App Store 佣金费率；市监总局整治「大字吸睛，小字免责」广告乱象；OpenClaw 创始人喊话百度 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653101133&idx=1&sn=5caf32844d85c1e876327fc9ffde194a)
+- 枇杷熟了
+  - [枇杷熟了-全球网络安全日报2026-03-14](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489972&idx=1&sn=b520ae35794132fb58b90b667eac7a39)
+- 软件安全与逆向分析
+  - [Frida17.8引入的大招：基于eBPF的系统调用跟踪模块技术原理解析](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485065&idx=1&sn=b0cbe4e7838e498c0c0238409e6ccc4e)
 - 安全行者老霍
   - [人工智能正快速扩展--您的网络安全是否跟得上？](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486090&idx=1&sn=0a2f82f456afb2c15ad63cc1edb66eb4)
 - Over Security - Cybersecurity news aggregator
@@ -74,22 +70,43 @@
   - [AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code](https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/)
   - [Crimes against NTDLL - Implementing Early Cascade Injection](https://fluxsec.red/implementing-early-cascade-injection-rust)
   - [Women in Cybersecurity: One Step That Can Change the Industry](https://thecyberexpress.com/diversity-and-inclusion-in-cybersecurity/)
-- Schneier on Security
-  - [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2026/03/upcoming-speaking-engagements-54.html)
-- 奇安信 CERT
-  - [今日（2026年3月14日）OpenClaw 最新安全动态总结](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504745&idx=1&sn=c90d160c9d648a7a8810e031eeccf2e2)
-  - [安全热点周报：n8n 严重安全漏洞已遭利用，仍有 24700 个实例处于暴露状态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504745&idx=2&sn=b1d3ac2be88aeacf1c9a86c78f542eb5)
-  - [奇安信集团2026年03月补丁库更新通告-第一次更新](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504745&idx=3&sn=b65ab4aef70bbfd92e72ff63ed897e0c)
-- Lenny Zeltser
-  - [Build Better Security Product Strategies Using Your AI Tool](https://zeltser.com/security-product-strategy-with-ai/)
 - SANS Internet Storm Center, InfoCON: green
   - [SmartApeSG campaign uses ClickFix page to push Remcos RAT, (Sat, Mar 14th)](https://isc.sans.edu/diary/rss/32796)
+- bellingcat
+  - [Ex-UFC Fighter and Kinahan ‘Friend’ Mounir Lazzez Linked to Iran Sanctions](https://www.bellingcat.com/news/2026/03/14/ex-ufc-fighter-and-kinahan-friend-mounir-lazzez-linked-to-iran-sanctions/)
+- Lenny Zeltser
+  - [Build Better Security Product Strategies Using Your AI Tool](https://zeltser.com/security-product-strategy-with-ai/)
+- Schneier on Security
+  - [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2026/03/upcoming-speaking-engagements-54.html)
 - Security Affairs
   - [Starbucks data breach impacts 889 employees](https://securityaffairs.com/189438/security/starbucks-data-breach-impacts-889-employees.html)
   - [Storm-2561 lures victims to spoofed VPN sites to harvest corporate logins](https://securityaffairs.com/189426/cyber-crime/storm-2561-lures-victims-to-spoofed-vpn-sites-to-harvest-corporate-logins.html)
   - [Interpol – Operation Synergia III leads to 45,000 malicious IPs dismantled and 94 arrests worldwide](https://securityaffairs.com/189420/cyber-crime/interpol-operation-synergia-iii-leads-to-45000-malicious-ips-dismantled-and-94-arrests-worldwide.html)
+- Blackhat Library: Hacking techniques and research
+  - [I built a privacy-focused messaging platform with no signups and no installs. Looking for feedback.](https://www.reddit.com/r/blackhat/comments/1rtlpbc/i_built_a_privacyfocused_messaging_platform_with/)
+- Technical Information Security Content & Discussion
+  - [Analysis of 1,808 MCP servers: 66% had security findings, 427 critical (tool poisoning, toxic data flows, code execution)](https://www.reddit.com/r/netsec/comments/1rtxacu/analysis_of_1808_mcp_servers_66_had_security/)
+- Your Open Hacker Community
+  - [20 Year Old Software Can't Use](https://www.reddit.com/r/HowToHack/comments/1rt4mr2/20_year_old_software_cant_use/)
+  - [Brother keeps looking into my phone](https://www.reddit.com/r/HowToHack/comments/1rtuy3j/brother_keeps_looking_into_my_phone/)
+  - [How to use inspect to find a password?](https://www.reddit.com/r/HowToHack/comments/1rtotoa/how_to_use_inspect_to_find_a_password/)
+  - [What are some cool Sub-GHz files to use?](https://www.reddit.com/r/HowToHack/comments/1rtdlbb/what_are_some_cool_subghz_files_to_use/)
+  - [Are there any AI tools which helps in hacking](https://www.reddit.com/r/HowToHack/comments/1rt6k80/are_there_any_ai_tools_which_helps_in_hacking/)
+- Information Security
+  - [Operationalizing Mandiant's Attack Lifecycle, the Kill Chain, Mitre's ATT&CK, and the Diamond Model with Practical Examples](https://www.reddit.com/r/Information_Security/comments/1rtpgb4/operationalizing_mandiants_attack_lifecycle_the/)
+  - [Iran appears to have conducted a significant cyberattack against a U.S. company, a first since the war started](https://www.reddit.com/r/Information_Security/comments/1rt6ahz/iran_appears_to_have_conducted_a_significant/)
 - The Hacker News
   - [OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration](https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html)
   - [GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers](https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html)
-- bellingcat
-  - [Ex-UFC Fighter and Kinahan ‘Friend’ Mounir Lazzez Linked to Iran Sanctions](https://www.bellingcat.com/news/2026/03/14/ex-ufc-fighter-and-kinahan-friend-mounir-lazzez-linked-to-iran-sanctions/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [The mental model for Linux privesc](https://www.reddit.com/r/netsecstudents/comments/1rtsgcy/the_mental_model_for_linux_privesc/)
+  - [scans2any: A tool for merging infrastructure scan results and generating reports/scripts](https://www.reddit.com/r/netsecstudents/comments/1rth050/scans2any_a_tool_for_merging_infrastructure_scan/)
+  - [I built a phishing detection simulator to study human behavior in the GenAI era – 569 decisions so far](https://www.reddit.com/r/netsecstudents/comments/1rtksww/i_built_a_phishing_detection_simulator_to_study/)
+- Social Engineering
+  - [do people approach strangers at nerd/cosplay parties?](https://www.reddit.com/r/SocialEngineering/comments/1rtvfnt/do_people_approach_strangers_at_nerdcosplay/)
+  - [How can I stop acting like this in conversations?](https://www.reddit.com/r/SocialEngineering/comments/1rtz37y/how_can_i_stop_acting_like_this_in_conversations/)
+  - [I went to Miami specifically to force myself to practice social skills and it exposed a lot about me](https://www.reddit.com/r/SocialEngineering/comments/1rtbhj6/i_went_to_miami_specifically_to_force_myself_to/)
+  - [Stop being everyone's emotional support](https://www.reddit.com/r/SocialEngineering/comments/1rtz0nz/stop_being_everyones_emotional_support/)
+  - [Descobrir nome do dono deste numero](https://www.reddit.com/r/SocialEngineering/comments/1rtsbpz/descobrir_nome_do_dono_deste_numero/)
+  - [I built a phishing detection simulator to study how well people resist social engineering in the GenAI era – 569 decisions so far](https://www.reddit.com/r/SocialEngineering/comments/1rtkyjl/i_built_a_phishing_detection_simulator_to_study/)
+  - [What is a dark secret of an industry you’ve worked in that the general public would be horrified to know?](https://www.reddit.com/r/SocialEngineering/comments/1rt9r3k/what_is_a_dark_secret_of_an_industry_youve_worked/)
