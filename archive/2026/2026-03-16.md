@@ -2,10 +2,6 @@
 
 - SecWiki News
   - [SecWiki News 2026-03-15 Review](http://www.sec-wiki.com/?2026-03-15)
-- Recent Commits to cve:main
-  - [Update Sun Mar 15 11:21:27 UTC 2026](https://github.com/trickest/cve/commit/0d61883bdb78d584d22ebc4e8a2f4ccbd0824fac)
-- 博客
-  - [Error: Package ‘mysql-client-core-8.0’ has no installation candidate](https://dyrnq.com/error-package-mysql-client-core-8-0-has-no-installation-candidate/)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [zumba/json-serializer zumba/json-serializer <  3.2.3 RCE](https://cxsecurity.com/issue/WLB-2026030023)
   - [Wekan 8.31.0 - 8.33Meteor DDP notificationUsers Sensitive Data Leak](https://cxsecurity.com/issue/WLB-2026030022)
@@ -15,6 +11,10 @@
   - [A Practical Web Pentesting CTF Challenge — Step-by-Step Walkthrough](https://infosecwriteups.com/a-practical-web-pentesting-ctf-challenge-step-by-step-walkthrough-2c2bc2d63ef7?source=rss----7b722bfd1b8d---4)
   - [IDOR in Purchase Order Cancellation Allows Unauthorized Users to Cancel Other Users’ POs](https://infosecwriteups.com/idor-in-purchase-order-cancellation-allows-unauthorized-users-to-cancel-other-users-pos-bb9cbf4f7548?source=rss----7b722bfd1b8d---4)
   - [Bypassing Threads Block System: Blocked Users Can Still View Custom Feed Content](https://infosecwriteups.com/bypassing-threads-block-system-blocked-users-can-still-view-custom-feed-content-61a320325691?source=rss----7b722bfd1b8d---4)
+- Recent Commits to cve:main
+  - [Update Sun Mar 15 11:21:27 UTC 2026](https://github.com/trickest/cve/commit/0d61883bdb78d584d22ebc4e8a2f4ccbd0824fac)
+- 博客
+  - [Error: Package ‘mysql-client-core-8.0’ has no installation candidate](https://dyrnq.com/error-package-mysql-client-core-8-0-has-no-installation-candidate/)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [Google Paid Hackers $17 Million in 2025 — Here’s Why](https://infosecwriteups.com/google-paid-hackers-17-million-in-2025-heres-why-5f5fc65d827e?source=rss----7b722bfd1b8d--bug_bounty)
   - [A Practical Web Pentesting CTF Challenge — Step-by-Step Walkthrough](https://infosecwriteups.com/a-practical-web-pentesting-ctf-challenge-step-by-step-walkthrough-2c2bc2d63ef7?source=rss----7b722bfd1b8d--bug_bounty)
@@ -38,40 +38,40 @@
   - [One hundred curl graphs](https://daniel.haxx.se/blog/2026/03/15/one-hundred-curl-graphs/)
 - Chen's Blog
   - [提权实录：通过命名管道劫持可写服务](https://gh0st.cn/archives/2026-03-16/1)
-- 奇客Solidot–传递最新科技情报
-  - [工业用氦气出现短缺](https://www.solidot.org/story?sid=83773)
-  - [研究称 AI 的生产力提升仅为每周 16 分钟](https://www.solidot.org/story?sid=83772)
-  - [Windows 11 二月更新可能导致部分三星笔记本电脑用户无法访问 C 盘](https://www.solidot.org/story?sid=83771)
 - 安全分析与研究
   - [终端安全对抗技术入门教程](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495947&idx=1&sn=cefa12490ca1fc8387b064ba6a856377)
 - 黑鸟
   - [成本96美元的便携式防空导弹火箭及发射器](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185783&idx=1&sn=1f723b06da9273d859ae4fcff8a09dda)
-- 威努特安全网络
-  - [迪拜石油核心数据遭窃，能源设施安全拉响警报](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651140879&idx=1&sn=f72f983dda65be8a4f29ad1f727a836d)
-- 青衣十三楼飞花堂
-  - [号称史上最难逻辑谜题(三神)](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489130&idx=1&sn=dd2b784b785e7a9db315307ddbe51829)
-- 丁爸 情报分析师的工具箱
-  - [【龙虾报告】伊朗导弹供应链分析](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154826&idx=1&sn=e33da38d5235e760b8485a19231b8531)
-- 安全研究GoSSIP
-  - [2026 年秋季｜北京航空航天大学博士生招募 （浏览器指纹 / Web安全 /卫星互联网安全）](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501506&idx=1&sn=cc2392869b911137904dbd58a975c879)
 - 奇安信 CERT
   - [今日（2026年3月15日）OpenClaw 最新安全动态总结](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504752&idx=1&sn=3f8b3795d28cca77cf0e92200f5b3ec1)
+- 丁爸 情报分析师的工具箱
+  - [【龙虾报告】伊朗导弹供应链分析](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154826&idx=1&sn=e33da38d5235e760b8485a19231b8531)
+- 威努特安全网络
+  - [迪拜石油核心数据遭窃，能源设施安全拉响警报](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651140879&idx=1&sn=f72f983dda65be8a4f29ad1f727a836d)
+- 奇客Solidot–传递最新科技情报
+  - [工业用氦气出现短缺](https://www.solidot.org/story?sid=83773)
+  - [研究称 AI 的生产力提升仅为每周 16 分钟](https://www.solidot.org/story?sid=83772)
+  - [Windows 11 二月更新可能导致部分三星笔记本电脑用户无法访问 C 盘](https://www.solidot.org/story?sid=83771)
 - 网安杂谈
   - [养虾用哪家CodingPlan更好呢？](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890162&idx=1&sn=760108572bf38ab49c2d3e5ae9267e14)
-- 火绒安全
-  - [消费者权益日｜安全护消费 责任暖生活](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247531430&idx=1&sn=6437d41be13a9da9e52e28a8c7ae5b76)
-  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247531430&idx=2&sn=8331d35f54b184de21513784bd8e2dbc)
+- 青衣十三楼飞花堂
+  - [号称史上最难逻辑谜题(三神)](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489130&idx=1&sn=dd2b784b785e7a9db315307ddbe51829)
 - 极客公园
   - [把「顶配」做成「标配」，追觅掌握洗地机高端市场话语权](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653101178&idx=1&sn=ac407a053772bdc7e045dba317c10c67)
   - [AWE 2026 五大观察，比 AI 和机器人更吸睛的是「它」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653101168&idx=1&sn=79f3d14ec3031a40602f435b0d9eb6b8)
   - [消息称 DeepSeek V4 和腾讯新混元模型将同时于4月发布；传 Kimi 新一轮融资估值涨至180亿美元；部分院校禁用「小龙虾」| 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653101152&idx=1&sn=8c668377549a4fff56b1669b1e4cd8ef)
-- 枇杷熟了
-  - [枇杷熟了-全球网络安全日报2026-03-15](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489977&idx=1&sn=24bf2eafc1856281231f63bf33566ccc)
+- 安全研究GoSSIP
+  - [2026 年秋季｜北京航空航天大学博士生招募 （浏览器指纹 / Web安全 /卫星互联网安全）](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501506&idx=1&sn=cc2392869b911137904dbd58a975c879)
 - 复旦白泽战队
   - [🦞养虾人注意了！你的白泽龙虾安全助手已上线](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247498031&idx=1&sn=1a5cac61a4514eb07a23e9734b741879)
 - 安全行者老霍
   - [我们如何黑掉麦肯锡和Jack & Jill的AI平台](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486095&idx=1&sn=27c860abfb996ba1736385eb20b6f8d9)
   - [数字主权如何成为一项代理业务](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486096&idx=1&sn=6d360b1729b7407bc9c19d735c0b10e5)
+- 枇杷熟了
+  - [枇杷熟了-全球网络安全日报2026-03-15](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489977&idx=1&sn=24bf2eafc1856281231f63bf33566ccc)
+- 火绒安全
+  - [消费者权益日｜安全护消费 责任暖生活](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247531430&idx=1&sn=6437d41be13a9da9e52e28a8c7ae5b76)
+  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247531430&idx=2&sn=8331d35f54b184de21513784bd8e2dbc)
 - Over Security - Cybersecurity news aggregator
   - [OpenAI says ChatGPT ads are not rolling out globally for now](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/)
   - [Betterleaks, a new open-source secrets scanner to replace Gitleaks](https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/)
@@ -82,26 +82,6 @@
   - [Baydöner - 1,266,822 breached accounts](https://haveibeenpwned.com/Breach/Baydoner)
 - Desync InfoSec
   - [OpenClaw 安全风险分析与网络流量检测方案](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489519&idx=1&sn=d9afbc30b7030a0e40965f68d67fb144)
-- Security Affairs
-  - [Payload Ransomware claims the hack of Royal Bahrain Hospital](https://securityaffairs.com/189467/cyber-crime/payload-ransomware-claims-the-hack-of-royal-bahrain-hospital.html)
-  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 88](https://securityaffairs.com/189459/breaking-news/security-affairs-malware-newsletter-round-88.html)
-  - [Security Affairs newsletter Round 567 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/189451/breaking-news/security-affairs-newsletter-round-567-by-pierluigi-paganini-international-edition.html)
-- Technical Information Security Content & Discussion
-  - [The rise of malicious repositories on GitHub](https://www.reddit.com/r/netsec/comments/1ruphzh/the_rise_of_malicious_repositories_on_github/)
-  - [We audited authorization in 30 AI agent frameworks — 93% rely on unscoped API keys](https://www.reddit.com/r/netsec/comments/1ruefpo/we_audited_authorization_in_30_ai_agent/)
-  - [GlassWorm V2 analysis: Part 2. Infrastructure rotation and GitHub injection](https://www.reddit.com/r/netsec/comments/1ruekc5/glassworm_v2_analysis_part_2_infrastructure/)
-  - [Quick question for people running CrowdStrike, Zscaler, Netskope or similar in production.](https://www.reddit.com/r/netsec/comments/1ru4cwc/quick_question_for_people_running_crowdstrike/)
-  - [CVE-2024-45163: Remote DoS in Mirai C2 – research writeup + what it led me to build](https://www.reddit.com/r/netsec/comments/1ru6xxl/cve202445163_remote_dos_in_mirai_c2_research/)
-- Deep Web
-  - [Try to bring agentic capabilities to any website - Experiment](https://www.reddit.com/r/deepweb/comments/1rugkpn/try_to_bring_agentic_capabilities_to_any_website/)
-  - [Who can help me with D* ??](https://www.reddit.com/r/deepweb/comments/1ru0lml/who_can_help_me_with_d/)
-- Deeplinks
-  - [The Foilies 2026](https://www.eff.org/deeplinks/2026/03/foilies-2026)
-- Social Engineering
-  - [Resolving Cognitive Dissonance?](https://www.reddit.com/r/SocialEngineering/comments/1rut2w5/resolving_cognitive_dissonance/)
-- Your Open Hacker Community
-  - [How Can I Start As A White Hat Hacker On Linux Mint?](https://www.reddit.com/r/HowToHack/comments/1rum9f3/how_can_i_start_as_a_white_hat_hacker_on_linux/)
-  - [Anyone see this on their rayhunter and what it means?](https://www.reddit.com/r/HowToHack/comments/1ru1dws/anyone_see_this_on_their_rayhunter_and_what_it/)
 - netsecstudents: Subreddit for students studying Network Security and its related subjects
   - [I organized everything I learned about bug bounty into one structured vault](https://www.reddit.com/r/netsecstudents/comments/1ruj9z3/i_organized_everything_i_learned_about_bug_bounty/)
   - [Struggling finding purpose in cybersecurity.](https://www.reddit.com/r/netsecstudents/comments/1ru7vbb/struggling_finding_purpose_in_cybersecurity/)
@@ -109,5 +89,25 @@
   - [Looking for serious people interested in Cybersecurity / CTFs (learning community)](https://www.reddit.com/r/netsecstudents/comments/1ruimbe/looking_for_serious_people_interested_in/)
   - [Se può essere d’aiuto a qualcuno :)](https://www.reddit.com/r/netsecstudents/comments/1rufoct/se_può_essere_daiuto_a_qualcuno/)
   - [How should a beginner build a cybersecurity portfolio while studying networking ?](https://www.reddit.com/r/netsecstudents/comments/1ru5rfa/how_should_a_beginner_build_a_cybersecurity/)
+- Deep Web
+  - [Try to bring agentic capabilities to any website - Experiment](https://www.reddit.com/r/deepweb/comments/1rugkpn/try_to_bring_agentic_capabilities_to_any_website/)
+  - [Who can help me with D* ??](https://www.reddit.com/r/deepweb/comments/1ru0lml/who_can_help_me_with_d/)
+- Deeplinks
+  - [The Foilies 2026](https://www.eff.org/deeplinks/2026/03/foilies-2026)
+- Your Open Hacker Community
+  - [How Can I Start As A White Hat Hacker On Linux Mint?](https://www.reddit.com/r/HowToHack/comments/1rum9f3/how_can_i_start_as_a_white_hat_hacker_on_linux/)
+  - [Anyone see this on their rayhunter and what it means?](https://www.reddit.com/r/HowToHack/comments/1ru1dws/anyone_see_this_on_their_rayhunter_and_what_it/)
+- Security Affairs
+  - [Payload Ransomware claims the hack of Royal Bahrain Hospital](https://securityaffairs.com/189467/cyber-crime/payload-ransomware-claims-the-hack-of-royal-bahrain-hospital.html)
+  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 88](https://securityaffairs.com/189459/breaking-news/security-affairs-malware-newsletter-round-88.html)
+  - [Security Affairs newsletter Round 567 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/189451/breaking-news/security-affairs-newsletter-round-567-by-pierluigi-paganini-international-edition.html)
+- Social Engineering
+  - [Resolving Cognitive Dissonance?](https://www.reddit.com/r/SocialEngineering/comments/1rut2w5/resolving_cognitive_dissonance/)
+- Technical Information Security Content & Discussion
+  - [The rise of malicious repositories on GitHub](https://www.reddit.com/r/netsec/comments/1ruphzh/the_rise_of_malicious_repositories_on_github/)
+  - [We audited authorization in 30 AI agent frameworks — 93% rely on unscoped API keys](https://www.reddit.com/r/netsec/comments/1ruefpo/we_audited_authorization_in_30_ai_agent/)
+  - [GlassWorm V2 analysis: Part 2. Infrastructure rotation and GitHub injection](https://www.reddit.com/r/netsec/comments/1ruekc5/glassworm_v2_analysis_part_2_infrastructure/)
+  - [Quick question for people running CrowdStrike, Zscaler, Netskope or similar in production.](https://www.reddit.com/r/netsec/comments/1ru4cwc/quick_question_for_people_running_crowdstrike/)
+  - [CVE-2024-45163: Remote DoS in Mirai C2 – research writeup + what it led me to build](https://www.reddit.com/r/netsec/comments/1ru6xxl/cve202445163_remote_dos_in_mirai_c2_research/)
 - 网安寻路人
   - [《人工智能示范法4.0》十大核心修改与人工智能法治十大进阶议题](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247508167&idx=1&sn=469aafd075e808ede5a058245f7fc4d0)
