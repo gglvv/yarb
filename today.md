@@ -1,21 +1,17 @@
 # 每日安全资讯（2026-03-22）
 
-- SecWiki News
-  - [SecWiki News 2026-03-21 Review](http://www.sec-wiki.com/?2026-03-21)
-- Recent Commits to cve:main
-  - [Update Sat Mar 21 11:17:21 UTC 2026](https://github.com/trickest/cve/commit/ade55219f876c8aaa9a7b44b851d2b05aa2f7277)
-- No Headback
-  - [AI panic](http://xargin.com/ai-panic/)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [Windows RRAS Remote Code Execution Vulnerability (CVE-2026-26111) - SE-RCE Exploit](https://cxsecurity.com/issue/WLB-2026030030)
   - [Linux Kernel 5.8 <  5.15.25 - Local Privilege Escalation  Exploit](https://cxsecurity.com/issue/WLB-2026030029)
   - [Discourse < = 2026.2.1 Authenticated Missing Authorization](https://cxsecurity.com/issue/WLB-2026030028)
+- Recent Commits to cve:main
+  - [Update Sat Mar 21 11:17:21 UTC 2026](https://github.com/trickest/cve/commit/ade55219f876c8aaa9a7b44b851d2b05aa2f7277)
+- SecWiki News
+  - [SecWiki News 2026-03-21 Review](http://www.sec-wiki.com/?2026-03-21)
 - Taxodium
   - [在 Emacs 中用 Elfeed 阅读订阅流](https://taxodium.ink/use-elfeed-to-read-feed-in-emacs.html)
-- Reverse Engineering
-  - [Turbo Pascal 3.02A, deconstructed](https://www.reddit.com/r/ReverseEngineering/comments/1s03gpl/turbo_pascal_302a_deconstructed/)
-  - [Black Rock Shooter: the Game was Made by Madmen. I’ve Been Solo Reverse Engineering it for Two Years as My First Big Project and Am Finally Ripping Its Engine Wide Open.](https://www.reddit.com/r/ReverseEngineering/comments/1rzdkn6/black_rock_shooter_the_game_was_made_by_madmen/)
-  - [Widevine Leak](https://www.reddit.com/r/ReverseEngineering/comments/1rzu0jk/widevine_leak/)
+- No Headback
+  - [AI panic](http://xargin.com/ai-panic/)
 - daniel.haxx.se
   - [bye bye RTMP](https://daniel.haxx.se/blog/2026/03/21/bye-bye-rtmp/)
 - 奇客Solidot–传递最新科技情报
@@ -46,57 +42,35 @@
 - 极客公园
   - [OpenAI 曝光 「北极星」项目，「2028 大失业」可能真要来了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653101793&idx=1&sn=4a1a023b7c63db114758cebdb94a924f)
   - [误导推特投资者，马斯克面临 26 亿美元赔偿；iPhone Fold 预计今年九月发布；贝索斯筹集 1000 亿美元投资 AI 改造制造业 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653101788&idx=1&sn=c5480b0036f4c8c6a1b8e621a3096143)
+- 吾爱破解论坛
+  - [【2026春节解题红包】WriteUP(2、3、4、5、6、7、9）](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143789&idx=1&sn=978cff967f354a5bbe24d9e5147a8827)
 - 表图
   - [[译苑雅集Vol. 7]数字孪生：AI时代的关键中间层，如何把知识从“人脑”释放为生产力](https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247484978&idx=1&sn=1003872e2b427d3e026f8150e583ea2d)
 - 情报分析师
   - [从情报视角解读2026年美国情报界年度评估报告的弦外之音与行动密码](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567115&idx=1&sn=c5d0adac2527761ea0f7bec7593a8049)
   - [AI 代理化间谍行动对国家安全研究的启示：机器是否已开始承担部分谍报执行功能](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567115&idx=2&sn=6349a5f858146935d7a0da65ce1d7f1d)
   - [摩萨德+8200部队一场用了20年下的棋，2026年在德黑兰收官](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567115&idx=3&sn=7d225c1fa0fe46dbf5aed02e1d3eaba8)
+- IT Service Management News
+  - [Il tribunale di Roma annulla la multa del Garante e ChatGPT](http://blog.cesaregallotti.it/2026/03/il-tribunale-di-roma-annulla-la-multa.html)
+  - [Applicazioni che indicano la posizione](http://blog.cesaregallotti.it/2026/03/applicazioni-che-indicano-la-posizione.html)
 - Over Security - Cybersecurity news aggregator
   - [Trivy vulnerability scanner breach pushed infostealer via GitHub Actions](https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/)
   - [Google adds ‘Advanced Flow’ for safe APK sideloading on Android](https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/)
   - [Microsoft Azure Monitor alerts abused in callback phishing campaigns](https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/)
-- LastKnight.com Feed
-  - [Giorgia Meloni a Pulp Podcast: anatomia di una Masterclass](https://mgpf.it/2026/03/21/giorgia-meloni-a-pulp-podcast-anatomia-di-una-masterclass.html)
-- 吾爱破解论坛
-  - [【2026春节解题红包】WriteUP(2、3、4、5、6、7、9）](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143789&idx=1&sn=978cff967f354a5bbe24d9e5147a8827)
-- IT Service Management News
-  - [Il tribunale di Roma annulla la multa del Garante e ChatGPT](http://blog.cesaregallotti.it/2026/03/il-tribunale-di-roma-annulla-la-multa.html)
-  - [Applicazioni che indicano la posizione](http://blog.cesaregallotti.it/2026/03/applicazioni-che-indicano-la-posizione.html)
 - 安全行者老霍
   - [在边缘设备上部署人工智能的5个安全考量](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486182&idx=1&sn=94080ba43bd88e87774a93f81bf77a69)
 - 许师傅讲安全
   - [从古法审计到AI时代：jar-analyzer 的开发史](https://mp.weixin.qq.com/s?__biz=MzkzOTQzOTE1NQ==&mid=2247483924&idx=1&sn=6430bb08bc56c4aa0f34046c37abdb73)
+- LastKnight.com Feed
+  - [Giorgia Meloni a Pulp Podcast: anatomia di una Masterclass](https://mgpf.it/2026/03/21/giorgia-meloni-a-pulp-podcast-anatomia-di-una-masterclass.html)
+- Security Affairs
+  - [WorldLeaks ransomware group breached the City of Los Angels](https://securityaffairs.com/189753/data-breach/worldleaks-group-breached-the-city-of-los-angels.html)
+  - [PolyShell flaw exposes Magento and Adobe Commerce to file upload attacks](https://securityaffairs.com/189744/security/polyshell-flaw-exposes-magento-and-adobe-commerce-to-file-upload-attacks.html)
 - The Hacker News
   - [FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks](https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html)
   - [Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager](https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html)
   - [Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages](https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html)
   - [CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026](https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html)
-- Deep Web
-  - [How can I use safely on MacBook Pro 13, 2023, M2 chip](https://www.reddit.com/r/deepweb/comments/1rzjs6h/how_can_i_use_safely_on_macbook_pro_13_2023_m2/)
-  - [How to hypotheticaly get gun on dark web??](https://www.reddit.com/r/deepweb/comments/1rzf1ae/how_to_hypotheticaly_get_gun_on_dark_web/)
-- Security Affairs
-  - [WorldLeaks ransomware group breached the City of Los Angels](https://securityaffairs.com/189753/data-breach/worldleaks-group-breached-the-city-of-los-angels.html)
-  - [PolyShell flaw exposes Magento and Adobe Commerce to file upload attacks](https://securityaffairs.com/189744/security/polyshell-flaw-exposes-magento-and-adobe-commerce-to-file-upload-attacks.html)
-- Blackhat Library: Hacking techniques and research
-  - [Authorities Dismantle Global Malicious Proxy Service that Deployed Malware and Defrauded Thousands of U.S. Persons, Businesses, and Financial Institutions of Millions of Dollars in Losses](https://www.reddit.com/r/blackhat/comments/1rzksn8/authorities_dismantle_global_malicious_proxy/)
-  - [How to scan RFID chips from further distances](https://www.reddit.com/r/blackhat/comments/1rztnrh/how_to_scan_rfid_chips_from_further_distances/)
-- Information Security
-  - [Participants needed for university research on deepfake detection (18+, 8–10 min)](https://www.reddit.com/r/Information_Security/comments/1rzvqkq/participants_needed_for_university_research_on/)
-- Social Engineering
-  - [Progetto Startup: cosa sta diventando virale su tutte le piattaforme.](https://www.reddit.com/r/SocialEngineering/comments/1s033k9/progetto_startup_cosa_sta_diventando_virale_su/)
-- Computer Forensics
-  - [Automated CLI tool for proprietary CCTV conversion (.mfs to .mp4) with integrated SHA-256 hashing and forensic metadata logging](https://www.reddit.com/r/computerforensics/comments/1rzv3oo/automated_cli_tool_for_proprietary_cctv/)
-- netsecstudents: Subreddit for students studying Network Security and its related subjects
-  - [Participants needed for university research on deepfake detection (18+, 8–10 min)](https://www.reddit.com/r/netsecstudents/comments/1rzw4an/participants_needed_for_university_research_on/)
-  - [Looking for an architecture review: Should I scale my SOHO ZTNA project, or pivot to a new topic for employability?](https://www.reddit.com/r/netsecstudents/comments/1rzocjv/looking_for_an_architecture_review_should_i_scale/)
-- Your Open Hacker Community
-  - [How much information can actually be extracted from a QR code?](https://www.reddit.com/r/HowToHack/comments/1rzqhhj/how_much_information_can_actually_be_extracted/)
-- Technical Information Security Content & Discussion
-  - [ONNX Hub silent=True suppresses all trust verification, enabling supply chain attacks on ML model loading (CVE-2026-28500, CVSS 9.1, no patch available)](https://www.reddit.com/r/netsec/comments/1s02jrq/onnx_hub_silenttrue_suppresses_all_trust/)
-  - [Trivy Under Attack Again: Widespread GitHub Actions Tag Compromise Exposes CI/CD Secrets Attackers](https://www.reddit.com/r/netsec/comments/1rziu2w/trivy_under_attack_again_widespread_github/)
-  - [LLVM Adventures: Fuzzing Apache Modules](https://www.reddit.com/r/netsec/comments/1s03z8j/llvm_adventures_fuzzing_apache_modules/)
-  - [Evaluating AI and ML in Network Security: A Comprehensive Literature Review](https://www.reddit.com/r/netsec/comments/1rzji68/evaluating_ai_and_ml_in_network_security_a/)
 - DEFION Research Labs
   - [Ruckus Unleashed: Multiple vulnerabilities exploited](/en/research-labs/ruckus-unleashed-multiple-vulnerabilities-exploited)
   - [Pwn2Own Automotive 2024: Hacking the Autel MaxiCharger](/en/research-labs/pwn2own-automotive-2024-hacking-the-autel-maxicharger)
