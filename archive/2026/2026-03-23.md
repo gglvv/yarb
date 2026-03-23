@@ -1,12 +1,12 @@
 # 每日安全资讯（2026-03-23）
 
+- Recent Commits to cve:main
+  - [Update Sun Mar 22 11:16:25 UTC 2026](https://github.com/trickest/cve/commit/22eefc6ec76a4287afdcb9687313bf7acb498849)
 - InfoSec Write-ups - Medium
   - [Infrastructure Pivoting: How CTI Analysts Expand From a Single IOC to a Full Attacker Network](https://infosecwriteups.com/infrastructure-pivoting-how-cti-analysts-expand-from-a-single-ioc-to-a-full-attacker-network-1295d50ec29c?source=rss----7b722bfd1b8d---4)
   - [Ploutus Malware: Uptick in ATM jackpotting incidents prompts FBI warning](https://infosecwriteups.com/ploutus-malware-uptick-in-atm-jackpotting-incidents-prompts-fbi-warning-554a944847b6?source=rss----7b722bfd1b8d---4)
   - [How I Found a Hardcoded RSA Private Key in a Major Crypto Exchange’s Frontend](https://infosecwriteups.com/how-i-found-a-hardcoded-rsa-private-key-in-a-major-crypto-exchanges-frontend-dd27b6a78fb2?source=rss----7b722bfd1b8d---4)
   - [Found a Denial of Service Vulnerability in a Major Company’s Production Infrastructure Using Shodan](https://infosecwriteups.com/found-a-denial-of-service-vulnerability-in-a-major-companys-production-infrastructure-using-shodan-e5f766a4df79?source=rss----7b722bfd1b8d---4)
-- Recent Commits to cve:main
-  - [Update Sun Mar 22 11:16:25 UTC 2026](https://github.com/trickest/cve/commit/22eefc6ec76a4287afdcb9687313bf7acb498849)
 - SecWiki News
   - [SecWiki News 2026-03-22 Review](http://www.sec-wiki.com/?2026-03-22)
 - Bug Bounty in InfoSec Write-ups on Medium
@@ -23,46 +23,46 @@
   - [A Compilation of BitCoin Wallet Addresses from the RAMP (Russian Anonymous Marketplace) Forum Members - A Compilation](https://ddanchev.blogspot.com/2026/03/a-compilation-of-bitcoin-wallet.html)
   - [A Compilation of Personally Identifiable Email Address Accounts Belonging to RAMP (Russian Anonymous Marketplace) Forum - A Compilation](https://ddanchev.blogspot.com/2026/03/a-compilation-of-personally.html)
   - [When Data Mining Conti Leaks Leads to Actual Binaries and to a Hardcoded C2 With an Encryption Key on Tripod.com - Part Three](https://ddanchev.blogspot.com/2026/03/when-data-mining-conti-leaks-leads-to_029886864.html)
+- K4YT3X
+  - [The Lies About Online Age Verification](https://k4yt3x.com/the-lies-about-online-age-verification/)
 - 奇客Solidot–传递最新科技情报
   - [视觉小说数据库创始人去世](https://www.solidot.org/story?sid=83833)
   - [猪脑成功冷冻](https://www.solidot.org/story?sid=83832)
   - [全球暖化加剧极端干旱热浪事件的发生频率](https://www.solidot.org/story?sid=83831)
   - [Cloudflare 将 archive.today 归类为 C&C/Botnet](https://www.solidot.org/story?sid=83830)
-- K4YT3X
-  - [The Lies About Online Age Verification](https://k4yt3x.com/the-lies-about-online-age-verification/)
 - 青衣十三楼飞花堂
   - [动态规划，丧心病狂的初一数学题](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489194&idx=1&sn=775b422fdc94add387dfea77845b84e3)
-- 黑鸟
-  - [面向末日断网场景的离线文明知识库与AI系统](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185913&idx=1&sn=ec96c588c07d97ff5be27190f82cce07)
 - 奇安信 CERT
   - [今日（2026年3月22日）OpenClaw 最新安全动态总结](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504832&idx=1&sn=fb196f56b7631adb1968b4042bd9cac6)
 - 丁爸 情报分析师的工具箱
   - [【情报】美军在前线吃紧，总统在后方紧吃](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154887&idx=1&sn=0f3ba0c2a0ce6fc29b5e2c7161f190e2)
+- 黑鸟
+  - [面向末日断网场景的离线文明知识库与AI系统](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185913&idx=1&sn=ec96c588c07d97ff5be27190f82cce07)
+- 极客公园
+  - [英伟达的智驾野心，藏不住了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653101816&idx=1&sn=f819244af71951a3162373f58795dee6)
+  - [库克：AI是对人能力的放大，而非取代人；月之暗面回应 Cursor 套壳 Kimi K2.5；曝 ChatGPT 广告测试推进缓慢｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653101814&idx=1&sn=a3f84943b2f0e24bfcd47e06bf9a0c12)
+- 吾爱破解论坛
+  - [春节解题领红包之九 {Web 中级题} 题解 - wasm逆向](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143829&idx=1&sn=3c2d8a67bec3f2ce6d77b00755e30f4a)
+  - [吾爱破解 2026 春节所有题 WP](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143823&idx=1&sn=57a9b6a177ee699784b31dec11599551)
 - 安全圈
   - [【安全圈】5人搭建社工库网站开盒被抓](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074976&idx=1&sn=9fafc0632128392559f64f63200415e5)
   - [【安全圈】雷神加速器称遭受恶意网络攻击，正在紧急修复](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074976&idx=2&sn=e72d8795927cec67487fc7585275db0a)
   - [【安全圈】CVE-2026-3888：Ubuntu 桌面版 24.04+ 易受提权漏洞攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074976&idx=3&sn=e44d3940cd71a59f922c6c604f93c4a8)
 - 网安杂谈
   - [好消息微信可以一键扫码接入原版 OpenClaw了](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890212&idx=1&sn=bc2626036ab95f41c825d185bcf676bc)
-- 极客公园
-  - [英伟达的智驾野心，藏不住了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653101816&idx=1&sn=f819244af71951a3162373f58795dee6)
-  - [库克：AI是对人能力的放大，而非取代人；月之暗面回应 Cursor 套壳 Kimi K2.5；曝 ChatGPT 广告测试推进缓慢｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653101814&idx=1&sn=a3f84943b2f0e24bfcd47e06bf9a0c12)
+- 国家互联网应急中心CNCERT
+  - [OpenClaw安全使用实践指南](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501343&idx=1&sn=1a9689d763d8aaeafb15cdf47165df06)
 - 电子物证
   - [【各类存储芯片数据删除恢复攻略】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048948&idx=1&sn=8f6a1c634236f17052a5cf4dcd4e237a)
   - [【数据的存储、删除、恢复与完全清除】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048948&idx=2&sn=4235bea00b0ddec8a4b4a4ac59f7261a)
-- 吾爱破解论坛
-  - [春节解题领红包之九 {Web 中级题} 题解 - wasm逆向](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143829&idx=1&sn=3c2d8a67bec3f2ce6d77b00755e30f4a)
-  - [吾爱破解 2026 春节所有题 WP](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143823&idx=1&sn=57a9b6a177ee699784b31dec11599551)
+- 安全行者老霍
+  - [2026年安全团队必备的顶级威胁情报平台](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486173&idx=1&sn=8da541859c040ef40c534ad2ec9a838f)
+- Dark Space Blogspot
+  - [Funko Pop e Action Figures: Crisi Momentanea o Definitiva?](http://darkwhite666.blogspot.com/2026/03/funko-pop-e-action-figures-crisi.html)
 - Over Security - Cybersecurity news aggregator
   - [If not friend, why friend-shaped?](https://catchingphish.com/posts/f/if-not-friend-why-friend-shaped)
   - [VoidStealer malware steals Chrome master key via debugger trick](https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/)
   - [lxterminal - terminal color - best for readability (at least for me)](https://trueliarx.blogspot.com/2026/03/lxterminal-terminal-color-best-for.html)
-- 国家互联网应急中心CNCERT
-  - [OpenClaw安全使用实践指南](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501343&idx=1&sn=1a9689d763d8aaeafb15cdf47165df06)
-- Dark Space Blogspot
-  - [Funko Pop e Action Figures: Crisi Momentanea o Definitiva?](http://darkwhite666.blogspot.com/2026/03/funko-pop-e-action-figures-crisi.html)
-- 安全行者老霍
-  - [2026年安全团队必备的顶级威胁情报平台](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486173&idx=1&sn=8da541859c040ef40c534ad2ec9a838f)
 - Security Affairs
   - [Russia-linked actors target WhatsApp and Signal in phishing campaign](https://securityaffairs.com/189808/intelligence/russia-linked-actors-target-whatsapp-and-signal-in-phishing-campaign.html)
   - [Oracle fixes critical RCE flaw CVE-2026-21992 in Identity Manager](https://securityaffairs.com/189796/security/oracle-fixes-critical-rce-flaw-cve-2026-21992-in-identity-manager.html)
