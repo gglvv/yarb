@@ -12,17 +12,23 @@
 - Bug Bounty in InfoSec Write-ups on Medium
   - [How I Found a Hardcoded RSA Private Key in a Major Crypto Exchange’s Frontend](https://infosecwriteups.com/how-i-found-a-hardcoded-rsa-private-key-in-a-major-crypto-exchanges-frontend-dd27b6a78fb2?source=rss----7b722bfd1b8d--bug_bounty)
   - [Found a Denial of Service Vulnerability in a Major Company’s Production Infrastructure Using Shodan](https://infosecwriteups.com/found-a-denial-of-service-vulnerability-in-a-major-companys-production-infrastructure-using-shodan-e5f766a4df79?source=rss----7b722bfd1b8d--bug_bounty)
-- HAHWUL
-  - [Building AI-Friendly CLIs](https://www.hahwul.com/posts/2026/building-ai-friendly-clis/)
+- Reverse Engineering
+  - [Reversing World Conqueror 4's asset encryption — AES-256-CBC with 5 header variants, key extracted from .so](https://www.reddit.com/r/ReverseEngineering/comments/1s0s4l1/reversing_world_conqueror_4s_asset_encryption/)
+  - [Hyoketsu - Solving the Vendor Dependency Problem in Reverse Engineering](https://www.reddit.com/r/ReverseEngineering/comments/1s0d0bd/hyoketsu_solving_the_vendor_dependency_problem_in/)
+  - [I built a tool to search and extract specific classes from very large JAR files](https://www.reddit.com/r/ReverseEngineering/comments/1s0knvx/i_built_a_tool_to_search_and_extract_specific/)
 - Malwarebytes
   - [This is all it takes to stop a train (Lock and Code S07E06)](https://www.malwarebytes.com/blog/podcast/2026/03/this-is-all-it-takes-to-stop-a-train-lock-and-code-s07e06)
-- daniel.haxx.se
-  - [NTLM and SMB go opt-in](https://daniel.haxx.se/blog/2026/03/22/ntlm-and-smb-go-opt-in/)
+- HAHWUL
+  - [Building AI-Friendly CLIs](https://www.hahwul.com/posts/2026/building-ai-friendly-clis/)
 - Dancho Danchev's Blog - Mind Streams of Information Security Knowledge
   - [A Domains Portfolio Belonging to RAMP (Russian Anonymous Marketplace) Forum Members - A Compilation](https://ddanchev.blogspot.com/2026/03/a-domains-portfolio-belonging-to-ramp.html)
   - [A Compilation of BitCoin Wallet Addresses from the RAMP (Russian Anonymous Marketplace) Forum Members - A Compilation](https://ddanchev.blogspot.com/2026/03/a-compilation-of-bitcoin-wallet.html)
   - [A Compilation of Personally Identifiable Email Address Accounts Belonging to RAMP (Russian Anonymous Marketplace) Forum - A Compilation](https://ddanchev.blogspot.com/2026/03/a-compilation-of-personally.html)
   - [When Data Mining Conti Leaks Leads to Actual Binaries and to a Hardcoded C2 With an Encryption Key on Tripod.com - Part Three](https://ddanchev.blogspot.com/2026/03/when-data-mining-conti-leaks-leads-to_029886864.html)
+- daniel.haxx.se
+  - [NTLM and SMB go opt-in](https://daniel.haxx.se/blog/2026/03/22/ntlm-and-smb-go-opt-in/)
+- K4YT3X
+  - [The Lies About Online Age Verification](https://k4yt3x.com/the-lies-about-online-age-verification/)
 - 奇客Solidot–传递最新科技情报
   - [视觉小说数据库创始人去世](https://www.solidot.org/story?sid=83833)
   - [猪脑成功冷冻](https://www.solidot.org/story?sid=83832)
@@ -30,16 +36,12 @@
   - [Cloudflare 将 archive.today 归类为 C&C/Botnet](https://www.solidot.org/story?sid=83830)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [多项研究显示数字设备正在让我们变笨](https://blog.upx8.com/%E5%A4%9A%E9%A1%B9%E7%A0%94%E7%A9%B6%E6%98%BE%E7%A4%BA%E6%95%B0%E5%AD%97%E8%AE%BE%E5%A4%87%E6%AD%A3%E5%9C%A8%E8%AE%A9%E6%88%91%E4%BB%AC%E5%8F%98%E7%AC%A8)
-  - [美国SEC终止对法拉第未来长达四年的调查](https://blog.upx8.com/%E7%BE%8E%E5%9B%BDSEC%E7%BB%88%E6%AD%A2%E5%AF%B9%E6%B3%95%E6%8B%89%E7%AC%AC%E6%9C%AA%E6%9D%A5%E9%95%BF%E8%BE%BE%E5%9B%9B%E5%B9%B4%E7%9A%84%E8%B0%83%E6%9F%A5)
-  - [Jellyfish 评测：开源 AI 短剧工作流，想解决人物漂移和流程割裂](https://blog.upx8.com/Jellyfish-AI)
 - 黑鸟
   - [面向末日断网场景的离线文明知识库与AI系统](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185913&idx=1&sn=ec96c588c07d97ff5be27190f82cce07)
 - 奇安信 CERT
   - [今日（2026年3月22日）OpenClaw 最新安全动态总结](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504832&idx=1&sn=fb196f56b7631adb1968b4042bd9cac6)
 - 丁爸 情报分析师的工具箱
   - [【情报】美军在前线吃紧，总统在后方紧吃](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154887&idx=1&sn=0f3ba0c2a0ce6fc29b5e2c7161f190e2)
-- 网安杂谈
-  - [好消息微信可以一键扫码接入原版 OpenClaw了](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890212&idx=1&sn=bc2626036ab95f41c825d185bcf676bc)
 - 安全圈
   - [【安全圈】5人搭建社工库网站开盒被抓](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074976&idx=1&sn=9fafc0632128392559f64f63200415e5)
   - [【安全圈】雷神加速器称遭受恶意网络攻击，正在紧急修复](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074976&idx=2&sn=e72d8795927cec67487fc7585275db0a)
@@ -47,24 +49,52 @@
 - 电子物证
   - [【各类存储芯片数据删除恢复攻略】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048948&idx=1&sn=8f6a1c634236f17052a5cf4dcd4e237a)
   - [【数据的存储、删除、恢复与完全清除】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048948&idx=2&sn=4235bea00b0ddec8a4b4a4ac59f7261a)
+- 网安杂谈
+  - [好消息微信可以一键扫码接入原版 OpenClaw了](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890212&idx=1&sn=bc2626036ab95f41c825d185bcf676bc)
 - 极客公园
   - [英伟达的智驾野心，藏不住了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653101816&idx=1&sn=f819244af71951a3162373f58795dee6)
   - [库克：AI是对人能力的放大，而非取代人；月之暗面回应 Cursor 套壳 Kimi K2.5；曝 ChatGPT 广告测试推进缓慢｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653101814&idx=1&sn=a3f84943b2f0e24bfcd47e06bf9a0c12)
+- 国家互联网应急中心CNCERT
+  - [OpenClaw安全使用实践指南](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501343&idx=1&sn=1a9689d763d8aaeafb15cdf47165df06)
+- 安全行者老霍
+  - [2026年安全团队必备的顶级威胁情报平台](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486173&idx=1&sn=8da541859c040ef40c534ad2ec9a838f)
 - 吾爱破解论坛
+  - [春节解题领红包之九 {Web 中级题} 题解 - wasm逆向](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143829&idx=1&sn=3c2d8a67bec3f2ce6d77b00755e30f4a)
   - [吾爱破解 2026 春节所有题 WP](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143823&idx=1&sn=57a9b6a177ee699784b31dec11599551)
+- Dark Space Blogspot
+  - [Funko Pop e Action Figures: Crisi Momentanea o Definitiva?](http://darkwhite666.blogspot.com/2026/03/funko-pop-e-action-figures-crisi.html)
 - Over Security - Cybersecurity news aggregator
   - [If not friend, why friend-shaped?](https://catchingphish.com/posts/f/if-not-friend-why-friend-shaped)
   - [VoidStealer malware steals Chrome master key via debugger trick](https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/)
   - [lxterminal - terminal color - best for readability (at least for me)](https://trueliarx.blogspot.com/2026/03/lxterminal-terminal-color-best-for.html)
-- 安全行者老霍
-  - [2026年安全团队必备的顶级威胁情报平台](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486173&idx=1&sn=8da541859c040ef40c534ad2ec9a838f)
-- Dark Space Blogspot
-  - [Funko Pop e Action Figures: Crisi Momentanea o Definitiva?](http://darkwhite666.blogspot.com/2026/03/funko-pop-e-action-figures-crisi.html)
+- Social Engineering
+  - ["From Texas to Tehran: A Multilingual, IRGC-affiliated Influence Operation on X, Instagram and Bluesky" by Ella Murray and Darren Linvill | Clemson University Media Forensics Hub Report](https://www.reddit.com/r/SocialEngineering/comments/1s0zqpu/from_texas_to_tehran_a_multilingual/)
+  - [Advice/Books For Autistics?](https://www.reddit.com/r/SocialEngineering/comments/1s0yy5n/advicebooks_for_autistics/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [Someone built a free WiFi hacking lab in a VM — 6 virtual wireless interfaces, live target networks, zero hardware](https://www.reddit.com/r/netsecstudents/comments/1s0m4qw/someone_built_a_free_wifi_hacking_lab_in_a_vm_6/)
+  - [Need help](https://www.reddit.com/r/netsecstudents/comments/1s0u8ev/need_help/)
+- Information Security
+  - [acme-proxy : Solve HTTP-01 challenge without exposing port 80 on the internet](https://www.reddit.com/r/Information_Security/comments/1s0w3ac/acmeproxy_solve_http01_challenge_without_exposing/)
+- Computer Forensics
+  - [Windows: Forensic Imaging OpenSource Tools with CLI Support](https://www.reddit.com/r/computerforensics/comments/1s0x0pk/windows_forensic_imaging_opensource_tools_with/)
+- Technical Information Security Content & Discussion
+  - [CanisterWorm Gets Teeth: TeamPCP's Kubernetes Wiper Targets Iran](https://www.reddit.com/r/netsec/comments/1s0lvk9/canisterworm_gets_teeth_teampcps_kubernetes_wiper/)
+  - [Agent skill marketplace supply chain attack: 121 skills across 7 repos vulnerable to GitHub username hijacking, 5 scanners disagree by 10x on malicious skill rates (arXiv:2603.16572)](https://www.reddit.com/r/netsec/comments/1s0dmuv/agent_skill_marketplace_supply_chain_attack_121/)
+- Deep Web
+  - [funny](https://www.reddit.com/r/deepweb/comments/1s10gfk/funny/)
+  - [¿As entrado ala deep web ?](https://www.reddit.com/r/deepweb/comments/1s0q6ak/as_entrado_ala_deep_web/)
 - Security Affairs
   - [Russia-linked actors target WhatsApp and Signal in phishing campaign](https://securityaffairs.com/189808/intelligence/russia-linked-actors-target-whatsapp-and-signal-in-phishing-campaign.html)
   - [Oracle fixes critical RCE flaw CVE-2026-21992 in Identity Manager](https://securityaffairs.com/189796/security/oracle-fixes-critical-rce-flaw-cve-2026-21992-in-identity-manager.html)
   - [U.S. CISA adds Apple, Laravel Livewire and Craft CMS flaws to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/189776/security/u-s-cisa-adds-apple-laravel-livewire-and-craft-cms-flaws-to-its-known-exploited-vulnerabilities-catalog.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 89](https://securityaffairs.com/189771/security/security-affairs-malware-newsletter-round-89.html)
   - [Security Affairs newsletter Round 568 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/189765/breaking-news/security-affairs-newsletter-round-568-by-pierluigi-paganini-international-edition.html)
+- Your Open Hacker Community
+  - [Pdf injection is still a thing in 2026?](https://www.reddit.com/r/HowToHack/comments/1s0g03n/pdf_injection_is_still_a_thing_in_2026/)
+  - [Hacking into an android](https://www.reddit.com/r/HowToHack/comments/1s0rd9k/hacking_into_an_android/)
+  - [Any Steganography course recommendations?](https://www.reddit.com/r/HowToHack/comments/1s0le1y/any_steganography_course_recommendations/)
+  - [Jailbroken firestick help](https://www.reddit.com/r/HowToHack/comments/1s0mfxo/jailbroken_firestick_help/)
+  - [I got an android 8.0 car multimedia from China and the seller refuses to give me the Developer Options password, can they do/track/hack something on the device remotely? Is there a way to somehow hack/bypass this password?](https://www.reddit.com/r/HowToHack/comments/1s0ebgr/i_got_an_android_80_car_multimedia_from_china_and/)
+  - [Getting harassed on Instagram.](https://www.reddit.com/r/HowToHack/comments/1s0id8d/getting_harassed_on_instagram/)
 - 网安寻路人
   - [借鉴OpenClaw架构哲学重塑政府能力与服务模式——以广州南沙为例](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247508179&idx=1&sn=2af9fa891f33f0a0e38b3364e4a3fa78)
