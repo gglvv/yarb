@@ -1,9 +1,9 @@
 # 每日安全资讯（2026-03-23）
 
-- SecWiki News
-  - [SecWiki News 2026-03-22 Review](http://www.sec-wiki.com/?2026-03-22)
 - Recent Commits to cve:main
   - [Update Sun Mar 22 11:16:25 UTC 2026](https://github.com/trickest/cve/commit/22eefc6ec76a4287afdcb9687313bf7acb498849)
+- SecWiki News
+  - [SecWiki News 2026-03-22 Review](http://www.sec-wiki.com/?2026-03-22)
 - InfoSec Write-ups - Medium
   - [Infrastructure Pivoting: How CTI Analysts Expand From a Single IOC to a Full Attacker Network](https://infosecwriteups.com/infrastructure-pivoting-how-cti-analysts-expand-from-a-single-ioc-to-a-full-attacker-network-1295d50ec29c?source=rss----7b722bfd1b8d---4)
   - [Ploutus Malware: Uptick in ATM jackpotting incidents prompts FBI warning](https://infosecwriteups.com/ploutus-malware-uptick-in-atm-jackpotting-incidents-prompts-fbi-warning-554a944847b6?source=rss----7b722bfd1b8d---4)
@@ -29,13 +29,13 @@
   - [When Data Mining Conti Leaks Leads to Actual Binaries and to a Hardcoded C2 With an Encryption Key on Tripod.com - Part Three](https://ddanchev.blogspot.com/2026/03/when-data-mining-conti-leaks-leads-to_029886864.html)
 - K4YT3X
   - [The Lies About Online Age Verification](https://k4yt3x.com/the-lies-about-online-age-verification/)
+- 黑鸟
+  - [面向末日断网场景的离线文明知识库与AI系统](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185913&idx=1&sn=ec96c588c07d97ff5be27190f82cce07)
 - 奇客Solidot–传递最新科技情报
   - [视觉小说数据库创始人去世](https://www.solidot.org/story?sid=83833)
   - [猪脑成功冷冻](https://www.solidot.org/story?sid=83832)
   - [全球暖化加剧极端干旱热浪事件的发生频率](https://www.solidot.org/story?sid=83831)
   - [Cloudflare 将 archive.today 归类为 C&C/Botnet](https://www.solidot.org/story?sid=83830)
-- 黑鸟
-  - [面向末日断网场景的离线文明知识库与AI系统](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185913&idx=1&sn=ec96c588c07d97ff5be27190f82cce07)
 - 青衣十三楼飞花堂
   - [动态规划，丧心病狂的初一数学题](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489194&idx=1&sn=775b422fdc94add387dfea77845b84e3)
 - 丁爸 情报分析师的工具箱
@@ -44,10 +44,6 @@
   - [今日（2026年3月22日）OpenClaw 最新安全动态总结](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504832&idx=1&sn=fb196f56b7631adb1968b4042bd9cac6)
 - 网安杂谈
   - [好消息微信可以一键扫码接入原版 OpenClaw了](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890212&idx=1&sn=bc2626036ab95f41c825d185bcf676bc)
-- 安全圈
-  - [【安全圈】5人搭建社工库网站开盒被抓](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074976&idx=1&sn=9fafc0632128392559f64f63200415e5)
-  - [【安全圈】雷神加速器称遭受恶意网络攻击，正在紧急修复](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074976&idx=2&sn=e72d8795927cec67487fc7585275db0a)
-  - [【安全圈】CVE-2026-3888：Ubuntu 桌面版 24.04+ 易受提权漏洞攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074976&idx=3&sn=e44d3940cd71a59f922c6c604f93c4a8)
 - 电子物证
   - [【各类存储芯片数据删除恢复攻略】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048948&idx=1&sn=8f6a1c634236f17052a5cf4dcd4e237a)
   - [【数据的存储、删除、恢复与完全清除】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048948&idx=2&sn=4235bea00b0ddec8a4b4a4ac59f7261a)
@@ -57,16 +53,39 @@
 - 吾爱破解论坛
   - [春节解题领红包之九 {Web 中级题} 题解 - wasm逆向](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143829&idx=1&sn=3c2d8a67bec3f2ce6d77b00755e30f4a)
   - [吾爱破解 2026 春节所有题 WP](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143823&idx=1&sn=57a9b6a177ee699784b31dec11599551)
+- 安全圈
+  - [【安全圈】5人搭建社工库网站开盒被抓](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074976&idx=1&sn=9fafc0632128392559f64f63200415e5)
+  - [【安全圈】雷神加速器称遭受恶意网络攻击，正在紧急修复](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074976&idx=2&sn=e72d8795927cec67487fc7585275db0a)
+  - [【安全圈】CVE-2026-3888：Ubuntu 桌面版 24.04+ 易受提权漏洞攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652074976&idx=3&sn=e44d3940cd71a59f922c6c604f93c4a8)
 - 国家互联网应急中心CNCERT
   - [OpenClaw安全使用实践指南](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501343&idx=1&sn=1a9689d763d8aaeafb15cdf47165df06)
-- 安全行者老霍
-  - [2026年安全团队必备的顶级威胁情报平台](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486173&idx=1&sn=8da541859c040ef40c534ad2ec9a838f)
 - Dark Space Blogspot
   - [Funko Pop e Action Figures: Crisi Momentanea o Definitiva?](http://darkwhite666.blogspot.com/2026/03/funko-pop-e-action-figures-crisi.html)
 - Over Security - Cybersecurity news aggregator
   - [If not friend, why friend-shaped?](https://catchingphish.com/posts/f/if-not-friend-why-friend-shaped)
   - [VoidStealer malware steals Chrome master key via debugger trick](https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/)
   - [lxterminal - terminal color - best for readability (at least for me)](https://trueliarx.blogspot.com/2026/03/lxterminal-terminal-color-best-for.html)
+- 安全行者老霍
+  - [2026年安全团队必备的顶级威胁情报平台](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486173&idx=1&sn=8da541859c040ef40c534ad2ec9a838f)
+- Social Engineering
+  - [Advice/Books For Autistics?](https://www.reddit.com/r/SocialEngineering/comments/1s0yy5n/advicebooks_for_autistics/)
+  - ["From Texas to Tehran: A Multilingual, IRGC-affiliated Influence Operation on X, Instagram and Bluesky" by Ella Murray and Darren Linvill | Clemson University Media Forensics Hub Report](https://www.reddit.com/r/SocialEngineering/comments/1s0zqpu/from_texas_to_tehran_a_multilingual/)
+- Your Open Hacker Community
+  - [File Transfers on machines you just got a shell on](https://www.reddit.com/r/HowToHack/comments/1s0uywc/file_transfers_on_machines_you_just_got_a_shell_on/)
+  - [Pdf injection is still a thing in 2026?](https://www.reddit.com/r/HowToHack/comments/1s0g03n/pdf_injection_is_still_a_thing_in_2026/)
+  - [Hacking into an android](https://www.reddit.com/r/HowToHack/comments/1s0rd9k/hacking_into_an_android/)
+  - [Any Steganography course recommendations?](https://www.reddit.com/r/HowToHack/comments/1s0le1y/any_steganography_course_recommendations/)
+  - [Jailbroken firestick help](https://www.reddit.com/r/HowToHack/comments/1s0mfxo/jailbroken_firestick_help/)
+  - [I got an android 8.0 car multimedia from China and the seller refuses to give me the Developer Options password, can they do/track/hack something on the device remotely? Is there a way to somehow hack/bypass this password?](https://www.reddit.com/r/HowToHack/comments/1s0ebgr/i_got_an_android_80_car_multimedia_from_china_and/)
+  - [Getting harassed on Instagram.](https://www.reddit.com/r/HowToHack/comments/1s0id8d/getting_harassed_on_instagram/)
+- Information Security
+  - [acme-proxy : Solve HTTP-01 challenge without exposing port 80 on the internet](https://www.reddit.com/r/Information_Security/comments/1s0w3ac/acmeproxy_solve_http01_challenge_without_exposing/)
+- Deep Web
+  - [funny](https://www.reddit.com/r/deepweb/comments/1s10gfk/funny/)
+  - [¿As entrado ala deep web ?](https://www.reddit.com/r/deepweb/comments/1s0q6ak/as_entrado_ala_deep_web/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [Someone built a free WiFi hacking lab in a VM — 6 virtual wireless interfaces, live target networks, zero hardware](https://www.reddit.com/r/netsecstudents/comments/1s0m4qw/someone_built_a_free_wifi_hacking_lab_in_a_vm_6/)
+  - [Need help](https://www.reddit.com/r/netsecstudents/comments/1s0u8ev/need_help/)
 - Security Affairs
   - [Russia-linked actors target WhatsApp and Signal in phishing campaign](https://securityaffairs.com/189808/intelligence/russia-linked-actors-target-whatsapp-and-signal-in-phishing-campaign.html)
   - [Oracle fixes critical RCE flaw CVE-2026-21992 in Identity Manager](https://securityaffairs.com/189796/security/oracle-fixes-critical-rce-flaw-cve-2026-21992-in-identity-manager.html)
@@ -78,24 +97,5 @@
   - [Agent skill marketplace supply chain attack: 121 skills across 7 repos vulnerable to GitHub username hijacking, 5 scanners disagree by 10x on malicious skill rates (arXiv:2603.16572)](https://www.reddit.com/r/netsec/comments/1s0dmuv/agent_skill_marketplace_supply_chain_attack_121/)
 - Computer Forensics
   - [Windows: Forensic Imaging OpenSource Tools with CLI Support](https://www.reddit.com/r/computerforensics/comments/1s0x0pk/windows_forensic_imaging_opensource_tools_with/)
-- Information Security
-  - [acme-proxy : Solve HTTP-01 challenge without exposing port 80 on the internet](https://www.reddit.com/r/Information_Security/comments/1s0w3ac/acmeproxy_solve_http01_challenge_without_exposing/)
-- Deep Web
-  - [funny](https://www.reddit.com/r/deepweb/comments/1s10gfk/funny/)
-  - [¿As entrado ala deep web ?](https://www.reddit.com/r/deepweb/comments/1s0q6ak/as_entrado_ala_deep_web/)
-- Your Open Hacker Community
-  - [File Transfers on machines you just got a shell on](https://www.reddit.com/r/HowToHack/comments/1s0uywc/file_transfers_on_machines_you_just_got_a_shell_on/)
-  - [Pdf injection is still a thing in 2026?](https://www.reddit.com/r/HowToHack/comments/1s0g03n/pdf_injection_is_still_a_thing_in_2026/)
-  - [Hacking into an android](https://www.reddit.com/r/HowToHack/comments/1s0rd9k/hacking_into_an_android/)
-  - [Any Steganography course recommendations?](https://www.reddit.com/r/HowToHack/comments/1s0le1y/any_steganography_course_recommendations/)
-  - [Jailbroken firestick help](https://www.reddit.com/r/HowToHack/comments/1s0mfxo/jailbroken_firestick_help/)
-  - [I got an android 8.0 car multimedia from China and the seller refuses to give me the Developer Options password, can they do/track/hack something on the device remotely? Is there a way to somehow hack/bypass this password?](https://www.reddit.com/r/HowToHack/comments/1s0ebgr/i_got_an_android_80_car_multimedia_from_china_and/)
-  - [Getting harassed on Instagram.](https://www.reddit.com/r/HowToHack/comments/1s0id8d/getting_harassed_on_instagram/)
-- netsecstudents: Subreddit for students studying Network Security and its related subjects
-  - [Someone built a free WiFi hacking lab in a VM — 6 virtual wireless interfaces, live target networks, zero hardware](https://www.reddit.com/r/netsecstudents/comments/1s0m4qw/someone_built_a_free_wifi_hacking_lab_in_a_vm_6/)
-  - [Need help](https://www.reddit.com/r/netsecstudents/comments/1s0u8ev/need_help/)
-- Social Engineering
-  - [Advice/Books For Autistics?](https://www.reddit.com/r/SocialEngineering/comments/1s0yy5n/advicebooks_for_autistics/)
-  - ["From Texas to Tehran: A Multilingual, IRGC-affiliated Influence Operation on X, Instagram and Bluesky" by Ella Murray and Darren Linvill | Clemson University Media Forensics Hub Report](https://www.reddit.com/r/SocialEngineering/comments/1s0zqpu/from_texas_to_tehran_a_multilingual/)
 - 网安寻路人
   - [借鉴OpenClaw架构哲学重塑政府能力与服务模式——以广州南沙为例](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247508179&idx=1&sn=2af9fa891f33f0a0e38b3364e4a3fa78)
