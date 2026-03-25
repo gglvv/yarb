@@ -1,19 +1,34 @@
 # 每日安全资讯（2026-03-25）
 
-- Tenable Blog
-  - [Meet Tenable Hexa AI: Agentic AI for exposure management](https://www.tenable.com/blog/hexa-ai-agentic-ai-for-exposure-management)
 - Microsoft Security Blog
   - [Governing AI agent behavior: Aligning user, developer, role, and organizational intent](https://techcommunity.microsoft.com/blog/microsoft-security-blog/governing-ai-agent-behavior-aligning-user-developer-role-and-organizational-inte/4503551)
+- SecWiki News
+  - [SecWiki News 2026-03-24 Review](http://www.sec-wiki.com/?2026-03-24)
 - 博客
   - [win11](https://dyrnq.com/win11/)
+- 先知安全技术社区
+  - [Java 安全 · AI & Security 两大技术图谱正式上线！](https://xz.aliyun.com/news/91828)
+- Tenable Blog
+  - [Meet Tenable Hexa AI: Agentic AI for exposure management](https://www.tenable.com/blog/hexa-ai-agentic-ai-for-exposure-management)
+- InfoSec Write-ups - Medium
+  - [Privilege Escalation: How Broken Access Control Led to Full Account Takeover](https://infosecwriteups.com/privilege-escalation-how-broken-access-control-led-to-full-account-takeover-c7b42bb9f47b?source=rss----7b722bfd1b8d---4)
+  - [GCP Penetration Testing: A Step-by-Step Attack Guide](https://infosecwriteups.com/gcp-penetration-testing-a-step-by-step-attack-guide-9e39bc3eb96d?source=rss----7b722bfd1b8d---4)
+  - [Misconfigured SSO Led to a Critical Issue](https://infosecwriteups.com/misconfigured-sso-led-to-a-critical-issue-81c4c11d1a48?source=rss----7b722bfd1b8d---4)
+  - [Insecure Output Handling: SQL Injection Through LLM Output (Part 2)](https://infosecwriteups.com/insecure-output-handling-sql-injection-through-llm-output-part-2-1cb4f931c31a?source=rss----7b722bfd1b8d---4)
 - Darknet – Hacking Tools, Hacker News & Cyber Security
   - [MSSQLand – Lightweight MS-SQL Interaction Tool for Lateral Movement and Post-Exploitation](https://www.darknet.org.uk/2026/03/mssqland-lightweight-ms-sql-interaction-tool-for-lateral-movement-and-post-exploitation/)
-- 先知安全技术社区
-  - [Java 安全 · AI & Security 两大技术图谱正式上线！](https://xz.aliyun.com/news/91828)
+- ArthurChiao's Blog
+  - [OpenClaw：技术解读和给 AI 应用开发的启示（2026）](https://arthurchiao.art/blog/openclaw-technical-notes-zh/)
 - paper - Last paper
   - [静默颠覆：通过卫星系统供应链植入物实施的传感器欺骗攻击](https://paper.seebug.org/3475/)
+- obaby 𝐢‍𝐧⃝ void
+  - [野心家](https://zhongxiaojie.cn/2026/03/667/)
 - 先知安全技术社区
   - [Java 安全 · AI & Security 两大技术图谱正式上线！](https://xz.aliyun.com/news/91828)
+- Recent Commits to cve:main
+  - [Update Tue Mar 24 11:13:12 UTC 2026](https://github.com/trickest/cve/commit/9be363b14394db29b6406b7b8bd17ee94b468a7a)
+- No Headback
+  - [AI 巡检与 AI 排障](http://xargin.com/ai-debugging/)
 - 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
   - [“养龙虾” 安全危机！官方发布 “关于OpenClaw安全应用的风险提示”](https://www.4hou.com/posts/DxMk)
   - [美国国务院发布全球范围安全警示](https://www.4hou.com/posts/6MrN)
@@ -22,21 +37,8 @@
   - [新型网络攻击InstallFix曝光：伪装CLI工具安装指令，诱导执行恶意命令](https://www.4hou.com/posts/2X6A)
   - [嘶吼安全动态｜工信部部署2026年信息通信业安全生产和网络运行安全工作 Copilot及Cursor等AI编码助手曝规则文件注入漏洞](https://www.4hou.com/posts/7MvB)
   - [从“可用”到“可信”：梆梆安全打造省级政务APP安全建设新标杆，护航政务服务行稳致远](https://www.4hou.com/posts/KGM8)
-- ArthurChiao's Blog
-  - [OpenClaw：技术解读和给 AI 应用开发的启示（2026）](https://arthurchiao.art/blog/openclaw-technical-notes-zh/)
-- No Headback
-  - [AI 巡检与 AI 排障](http://xargin.com/ai-debugging/)
-- obaby 𝐢‍𝐧⃝ void
-  - [野心家](https://zhongxiaojie.cn/2026/03/667/)
-- Recent Commits to cve:main
-  - [Update Tue Mar 24 11:13:12 UTC 2026](https://github.com/trickest/cve/commit/9be363b14394db29b6406b7b8bd17ee94b468a7a)
-- SecWiki News
-  - [SecWiki News 2026-03-24 Review](http://www.sec-wiki.com/?2026-03-24)
-- InfoSec Write-ups - Medium
-  - [Privilege Escalation: How Broken Access Control Led to Full Account Takeover](https://infosecwriteups.com/privilege-escalation-how-broken-access-control-led-to-full-account-takeover-c7b42bb9f47b?source=rss----7b722bfd1b8d---4)
-  - [GCP Penetration Testing: A Step-by-Step Attack Guide](https://infosecwriteups.com/gcp-penetration-testing-a-step-by-step-attack-guide-9e39bc3eb96d?source=rss----7b722bfd1b8d---4)
-  - [Misconfigured SSO Led to a Critical Issue](https://infosecwriteups.com/misconfigured-sso-led-to-a-critical-issue-81c4c11d1a48?source=rss----7b722bfd1b8d---4)
-  - [Insecure Output Handling: SQL Injection Through LLM Output (Part 2)](https://infosecwriteups.com/insecure-output-handling-sql-injection-through-llm-output-part-2-1cb4f931c31a?source=rss----7b722bfd1b8d---4)
+- Taxodium
+  - [Kagi Translate 使用分享](https://taxodium.ink/my-experience-with-kagi-translate.html)
 - Darknet – Hacking Tools, Hacker News & Cyber Security
   - [MSSQLand – Lightweight MS-SQL Interaction Tool for Lateral Movement and Post-Exploitation](https://www.darknet.org.uk/2026/03/mssqland-lightweight-ms-sql-interaction-tool-for-lateral-movement-and-post-exploitation/)
 - GuidePoint Security
@@ -53,22 +55,28 @@
   - [Tracing Blockchain-Controlled Malware Across Chains: A Joint Investigation by VMRay and Iknaio](https://www.vmray.com/tracing-blockchain-controlled-malware-across-chains-a-joint-investigation-by-vmray-and-iknaio/)
 - The Trail of Bits Blog
   - [Spotting issues in DeFi with dimensional analysis](https://blog.trailofbits.com/2026/03/24/spotting-issues-in-defi-with-dimensional-analysis/)
-- Reverse Engineering
-  - [Reverse Engineering a "Zombie" Smart Scale: My journey with QardioBase2 after the app vanished.](https://www.reddit.com/r/ReverseEngineering/comments/1s28fmn/reverse_engineering_a_zombie_smart_scale_my/)
 - Malwarebytes
   - [FBI, CISA warn of Russian hackers hijacking Signal and WhatsApp accounts](https://www.malwarebytes.com/blog/news/2026/03/fbi-cisa-warn-of-russian-hackers-hijacking-signal-and-whatsapp-accounts)
   - [Scam compounds hiring &#8220;AI models&#8221; to seal the deal in deepfake video calls](https://www.malwarebytes.com/blog/news/2026/03/scam-compounds-hiring-ai-models-to-seal-deal-in-deepfake-video-calls)
 - Intigriti
   - [Vulnerability disclosure for AI safeguards. How open should programs be and what incentives are necessary?](https://www.intigriti.com/blog/business-insights/vulnerability-disclosure-for-ai-safeguards-how-open-should-programs-be-and-what-i)
-- Offensive Security Blog: Latest Trends in Hacking | Praetorian
-  - [Azure APIM Signup Bypass: 97.9% of Developer Portals Still Exploitable Anonymously and from the Internet](https://www.praetorian.com/blog/azure-apim-signup-bypass/)
 - text/plain
   - [Windows: Choose Where To Get Apps](https://textslashplain.com/2026/03/24/windows-choose-where-to-get-apps/)
+- Checkmarx
+  - [Checkmarx DAST for the AI Coding Era: Runtime Security at Machine Speed](https://checkmarx.com/blog/checkmarx-dast-for-the-ai-coding-era/)
+  - [Checkmarx Security Update](https://checkmarx.com/blog/checkmarx-security-update/)
+- Offensive Security Blog: Latest Trends in Hacking | Praetorian
+  - [Azure APIM Signup Bypass: 97.9% of Developer Portals Still Exploitable Anonymously and from the Internet](https://www.praetorian.com/blog/azure-apim-signup-bypass/)
 - rtl-sdr.com
   - [Saveitforparts: Testing a Prototype Discovery Drive Az/El Antenna Rotator](https://www.rtl-sdr.com/saveitforparts-testing-a-prototype-discovery-drive-az-el-antenna-rotator/)
   - [Wavelingo: Real-Time AI Shortwave Translation for the KiwiSDR Network](https://www.rtl-sdr.com/wavelingo-real-time-ai-shortwave-translation-for-the-kiwisdr-network/)
   - [GridDown: An Offline-First Situational Awareness Platform with RTL-SDR, SARSAT, Meshtastic](https://www.rtl-sdr.com/griddown-an-offline-first-situational-awareness-platform-with-rtl-sdr-sarsat-meshtastic/)
   - [RDF-J / ECM-J System: TDoA Signal Location Finding and Electronic Jamming with HackRF](https://www.rtl-sdr.com/rdf-j-ecm-j-system-tdoa-signal-location-finding-and-electronic-jamming-with-hackrf/)
+- HackerNews
+  - [朝鲜黑客滥用 VS Code 自动运行任务部署 StoatWaffle 恶意软件](https://hackernews.cc/archives/63942)
+  - [FBI 警告：Handala 黑客利用 Telegram 实施恶意软件攻击](https://hackernews.cc/archives/63941)
+  - [微软警告：IRS 钓鱼邮件波及 2.9 万用户，远程管理工具成攻击新载体](https://hackernews.cc/archives/63943)
+  - [马自达披露安全漏洞：员工及合作伙伴数据遭泄露](https://hackernews.cc/archives/63940)
 - 奇客Solidot–传递最新科技情报
   - [LG Display 量产刷新率在 1-120Hz 之间自动调节的笔记本显示屏](https://www.solidot.org/story?sid=83860)
   - [Intoxalock 遭到网络攻击导致美国多地汽车无法启动](https://www.solidot.org/story?sid=83858)
@@ -83,35 +91,27 @@
   - [Reddit 考虑对用户进行验证](https://www.solidot.org/story?sid=83849)
   - [干旱可能会促进耐抗生素微生物生长](https://www.solidot.org/story?sid=83848)
   - [美国禁售外国公司制造的新消费级路由器](https://www.solidot.org/story?sid=83847)
-- Checkmarx
-  - [Checkmarx DAST for the AI Coding Era: Runtime Security at Machine Speed](https://checkmarx.com/blog/checkmarx-dast-for-the-ai-coding-era/)
-  - [Checkmarx Security Update](https://checkmarx.com/blog/checkmarx-security-update/)
-- HackerNews
-  - [朝鲜黑客滥用 VS Code 自动运行任务部署 StoatWaffle 恶意软件](https://hackernews.cc/archives/63942)
-  - [FBI 警告：Handala 黑客利用 Telegram 实施恶意软件攻击](https://hackernews.cc/archives/63941)
-  - [微软警告：IRS 钓鱼邮件波及 2.9 万用户，远程管理工具成攻击新载体](https://hackernews.cc/archives/63943)
-  - [马自达披露安全漏洞：员工及合作伙伴数据遭泄露](https://hackernews.cc/archives/63940)
 - 安全分析与研究
   - [进程操作技术（下）——进程注入与线程劫持](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496574&idx=1&sn=a55d02786deb520a03241f5f019cd889)
-- 黑鸟
-  - [关键基础设施的路由安全：一文读懂BGP替代者SCION](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185947&idx=1&sn=a79c089f1b90dbfb73e6f1ab67e6a425)
 - 雷神众测
   - [雷神众测漏洞周报2026.3.16-2026.3.22](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503735&idx=1&sn=2f1ae3388f3a9c703a7606d6b2ca7d44)
-- 威努特安全网络
-  - [威努特电力监控系统专用备份方案筑牢能源安全防线](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651141119&idx=1&sn=e8921e884db48defc19c82dd98ceefa0)
+- 黑鸟
+  - [关键基础设施的路由安全：一文读懂BGP替代者SCION](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185947&idx=1&sn=a79c089f1b90dbfb73e6f1ab67e6a425)
 - 青衣十三楼飞花堂
   - [不作任何辅助线的情况下用纯三角变换如何求解](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489208&idx=1&sn=730b41aa041034fdda8d6fdda235727d)
+- 威努特安全网络
+  - [威努特电力监控系统专用备份方案筑牢能源安全防线](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651141119&idx=1&sn=e8921e884db48defc19c82dd98ceefa0)
 - 代码卫士
   - [QNAP QVR Pro 严重漏洞可导致系统遭远程访问](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525536&idx=1&sn=374ba844d9e8b8936f3ab544ef312259)
   - [马自达员工和合作伙伴个人数据遭泄露](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525536&idx=2&sn=cfdc9d201f452aff7792d5fba9d0607f)
 - 安全内参
   - [PB级罕见规模！外包巨头遭网络攻击，1PB数据疑似泄露](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515717&idx=1&sn=94640f2c622895f4e0194affd6312d6a)
   - [Agentic AI安全与治理厂商Geordie AI获得RSAC 2026创新沙盒冠军](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515717&idx=2&sn=f6831edc3e179575cec99a27d5ac3f68)
-- 奇安信 CERT
-  - [今日（2026年3月24日）OpenClaw 最新安全动态总结](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504843&idx=1&sn=054bd28092957b5b5bb7a3944a10cd3a)
 - 绿盟科技研究通讯
   - [RSAC 2026创新沙盒 | Geordie AI：企业 AI Agent 安全治理体系的构建者](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499664&idx=1&sn=c95bffce592edd62621c0c667a7f0eef)
   - [RSAC 2026创新沙盒 | ZeroPath：从告警堆积到可执行修复](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499664&idx=2&sn=71166c9a43aacfda29079ebe6beb30a7)
+- 奇安信 CERT
+  - [今日（2026年3月24日）OpenClaw 最新安全动态总结](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504843&idx=1&sn=054bd28092957b5b5bb7a3944a10cd3a)
 - 微步在线研究响应中心
   - [AI Coding Agent最新攻击总结：7大漏洞利用手法](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508389&idx=1&sn=a3afdb49432f816d071a103ec98add35)
 - 看雪学苑
@@ -122,121 +122,66 @@
   - [一图读懂《网络安全技术 信息安全风险管理指导》](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247503253&idx=1&sn=b9d06e82a7c2d026f8269b4fcbbbefdc)
 - 丁爸 情报分析师的工具箱
   - [【龙虾报告】中东战争动态（3.24）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154922&idx=1&sn=5522de2b24b39f2cee9bee674c60da6d)
-- 信安之路
-  - [永久密钥：VIP99-SUPER-MAX66-PRO88-TOP01](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500490&idx=1&sn=762e60933c97ec1c066625d075a3ecfd)
-- 安全圈
-  - [【安全圈】马自达通报安全事件：员工和合作伙伴数据遭泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075041&idx=1&sn=ae9e793a53a8639e64c1a2ab362f1677)
-  - [【安全圈】朝鲜黑客滥用 VS Code 自动运行任务部署 StoatWaffle 恶意软件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075041&idx=2&sn=5ef9c2fe6a9380067fe867df753048fc)
-  - [【安全圈】微软警告：IRS 钓鱼邮件波及 2.9 万用户，远程管理工具成攻击新载体](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075041&idx=3&sn=92dcf5afd39cf49ed5a78059f7727089)
 - 威胁棱镜
   - [Virus Bulletin 2024 议题慢递](https://mp.weixin.qq.com/s?__biz=MzkyMzE5ODExNQ==&mid=2247488540&idx=1&sn=e1caba209ab0c0fcfc0b491b5e4348e2)
-- 网安杂谈
-  - [Openclaw最新版本3.22翻车，是研究下卸载和降级的时候了](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890250&idx=1&sn=62840fdfb421421640d3dc036ec3ad3d)
-  - [【赠书2本】红队实战指南：AI驱动的渗透测试、红队评估和漏洞挖掘](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890250&idx=2&sn=1ca01bbcde640b131dd2e02b7248f3f9)
-- 青藤云安全
-  - [网络安全AI智能体在金融业落地挑战与实践探索](https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650851051&idx=1&sn=b4397373a8a85429156db109f66933a0)
+- 信安之路
+  - [永久密钥：VIP99-SUPER-MAX66-PRO88-TOP01](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500490&idx=1&sn=762e60933c97ec1c066625d075a3ecfd)
 - 中国信息安全
   - [专题·原创 | 《中华人民共和国网络安全法》修改内容解读与产业合规实践路径](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664260605&idx=1&sn=9dee5cc17e60fa5e058a6a6286248a88)
   - [任贤良：抢抓人工智能发展战略机遇期，携手构建网络空间命运共同体](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664260605&idx=2&sn=3e6975c695bb297d1c53942574c77b78)
   - [“龙虾”热来袭！OpenClaw能帮我们做哪些？又藏有哪些风险？](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664260605&idx=3&sn=33338ba58f085ecc5e7e5169e27188cc)
   - [观点 | 建设开放共享安全的全国一体化数据市场](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664260605&idx=4&sn=1f90d862ef41ebd2ea2cc9926fb7aa80)
   - [评论 | 依法斩断AI“投毒”产业链](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664260605&idx=5&sn=a60866512605271d0698b3924acd1524)
-- 安全牛
-  - [对话2026｜47天新规下，企业SSL证书安全的核心解法](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140856&idx=1&sn=289a042db951bcf9163e7b6e3ef33ac8)
-  - [2026年勒索软件攻击深度解析：根源、新威胁与务实防御策略](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140856&idx=2&sn=33f19cf47c6fe2e562939b629846c5d3)
-- 数世咨询
-  - [人工智能极大提升了效率和效能，对网络犯罪分子而言](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542212&idx=1&sn=288165111c7ddc7d17c89dcab9208037)
-  - [【个人免费】安恒“龙虾卫士”——ClawdSecBot个人版全面开源！](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542212&idx=2&sn=57d3896f9b8b23ec132597113ae60525)
 - 极客公园
   - [打车，不只是为了从 A 到 B](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653101971&idx=1&sn=52ae19ed46823611c8384b33ada1a649)
   - [OpenClaw 还在屏幕里打工，Looki 已经「走进」你的生活](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653101934&idx=1&sn=e6e5f87220a3350de9635976f3f39516)
   - [苹果 WWDC26 定档 6 月 9 日，AI 是重点；OpenAI 施压谷歌，将 ChatGPT 列为默认搜索引擎；4 成美国人想买中国新能源车｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653101954&idx=1&sn=81dc59e09ee2c1ef137f4abaee056e7b)
-- 慢雾科技
-  - [SlowMist Agent Security Skill 正式发布，守护 AI Agent 每一道防线](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247504542&idx=1&sn=877bb46e71ffb4b97ef69748773ee304)
-- 火绒安全
-  - [开发者注意！Litellm遭遇供应链攻击 火绒已可全面拦截](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247531719&idx=1&sn=47d0455ee05ed5d0886a068d9056b0e7)
-  - [火绒小问答--「个人版」漏洞驱动拦截](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247531719&idx=2&sn=6c13aa1569009c689804a5e471f2fc88)
-  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247531704&idx=2&sn=7d9f93c5d1279874a6196c03287af998)
-  - [反向代理加持！虚假OpenClaw安装包成新一代高危窃密木马](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247531704&idx=1&sn=ee5528e05040dbfa37d3e62a83285ed6)
-- 嘶吼专业版
-  - [新型网络攻击InstallFix曝光：伪装CLI工具安装指令，诱导执行恶意命令](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587334&idx=1&sn=11b09d42dea8ca2983950cee5cbd0004)
-  - [嘶吼安全动态｜工信部部署2026年信息通信业安全生产和网络运行安全工作 Copilot及Cursor等AI编码助手曝规则文件注入漏洞](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587334&idx=2&sn=13c14c65944712b54b9bd2e8ae678683)
+- 安全牛
+  - [对话2026｜47天新规下，企业SSL证书安全的核心解法](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140856&idx=1&sn=289a042db951bcf9163e7b6e3ef33ac8)
+  - [2026年勒索软件攻击深度解析：根源、新威胁与务实防御策略](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140856&idx=2&sn=33f19cf47c6fe2e562939b629846c5d3)
+- 青藤云安全
+  - [网络安全AI智能体在金融业落地挑战与实践探索](https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650851051&idx=1&sn=b4397373a8a85429156db109f66933a0)
+- 数世咨询
+  - [人工智能极大提升了效率和效能，对网络犯罪分子而言](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542212&idx=1&sn=288165111c7ddc7d17c89dcab9208037)
+  - [【个人免费】安恒“龙虾卫士”——ClawdSecBot个人版全面开源！](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542212&idx=2&sn=57d3896f9b8b23ec132597113ae60525)
 - 情报分析师
   - [真正的情报高手，第一步从来不是搜集信息！你看到的信息越多判断反而越差，情报圈最忌讳的三大信息陷阱](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567216&idx=1&sn=d69c314fa51974d72752d6af21464b7e)
   - [【热点研判】日本在霍尔木兹问题上向美国表示愿合作但强调法律边界/韩国加入霍尔木兹联合声明/霍尔木兹危机与韩美同盟"最宽裂缝"](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567216&idx=2&sn=53ce4ce22a5e61ea5292dec7746d517c)
   - [多模型、多平台协同下的国家安全威胁识别研究：单一平台治理为何不足](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567216&idx=3&sn=5d27885e552a924e893bd5f2b8826c2f)
   - [一个邮箱地址，他怎么找出了你的所有社交账号、手机号、泄露密码？Maltego实战拆解](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567216&idx=4&sn=1423d48020f3827fd55e9f15748cac49)
-- 吴鲁加
-  - [忘掉经验](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485981&idx=1&sn=a5d23989beabf38b4d889404d62b282f)
+- 网安杂谈
+  - [Openclaw最新版本3.22翻车，是研究下卸载和降级的时候了](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890250&idx=1&sn=62840fdfb421421640d3dc036ec3ad3d)
+  - [【赠书2本】红队实战指南：AI驱动的渗透测试、红队评估和漏洞挖掘](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890250&idx=2&sn=1ca01bbcde640b131dd2e02b7248f3f9)
+- 安全圈
+  - [【安全圈】马自达通报安全事件：员工和合作伙伴数据遭泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075041&idx=1&sn=ae9e793a53a8639e64c1a2ab362f1677)
+  - [【安全圈】朝鲜黑客滥用 VS Code 自动运行任务部署 StoatWaffle 恶意软件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075041&idx=2&sn=5ef9c2fe6a9380067fe867df753048fc)
+  - [【安全圈】微软警告：IRS 钓鱼邮件波及 2.9 万用户，远程管理工具成攻击新载体](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075041&idx=3&sn=92dcf5afd39cf49ed5a78059f7727089)
+- 慢雾科技
+  - [SlowMist Agent Security Skill 正式发布，守护 AI Agent 每一道防线](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247504542&idx=1&sn=877bb46e71ffb4b97ef69748773ee304)
+- 嘶吼专业版
+  - [新型网络攻击InstallFix曝光：伪装CLI工具安装指令，诱导执行恶意命令](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587334&idx=1&sn=11b09d42dea8ca2983950cee5cbd0004)
+  - [嘶吼安全动态｜工信部部署2026年信息通信业安全生产和网络运行安全工作 Copilot及Cursor等AI编码助手曝规则文件注入漏洞](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587334&idx=2&sn=13c14c65944712b54b9bd2e8ae678683)
+- 火绒安全
+  - [开发者注意！Litellm遭遇供应链攻击 火绒已可全面拦截](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247531719&idx=1&sn=47d0455ee05ed5d0886a068d9056b0e7)
+  - [火绒小问答--「个人版」漏洞驱动拦截](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247531719&idx=2&sn=6c13aa1569009c689804a5e471f2fc88)
+  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247531704&idx=2&sn=7d9f93c5d1279874a6196c03287af998)
+  - [反向代理加持！虚假OpenClaw安装包成新一代高危窃密木马](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247531704&idx=1&sn=ee5528e05040dbfa37d3e62a83285ed6)
 - 墨菲安全
   - [墨菲安全发布SCA 4.0：AI原生、Skills 检测](https://mp.weixin.qq.com/s?__biz=MzkwOTM0MjI5NQ==&mid=2247488355&idx=1&sn=80031d58f3bd1bc3c20fa1668ac823b1)
 - TrustedSec
   - [Building a Detection Foundation: Part 4 - Sysmon](https://trustedsec.com/blog/building-a-detection-foundation-part-4-sysmon)
 - 360数字安全
   - [RSAC 2026 | Agent安全与AI SOC引领变革](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585522&idx=1&sn=f4653049ed5af9346555762657456353)
+- Securityinfo.it
+  - [API sotto attacco: la sicurezza dell’AI passa dall’infrastruttura applicativa](https://www.securityinfo.it/2026/03/24/api-sotto-attacco-la-sicurezza-dellai-passa-dallinfrastruttura-applicativa/?utm_source=rss&utm_medium=rss&utm_campaign=api-sotto-attacco-la-sicurezza-dellai-passa-dallinfrastruttura-applicativa)
+- Microsoft Security Blog
+  - [Governing AI agent behavior: Aligning user, developer, role, and organizational intent](https://techcommunity.microsoft.com/blog/microsoft-security-blog/governing-ai-agent-behavior-aligning-user-developer-role-and-organizational-inte/4503551)
 - 吾爱破解论坛
   - [【兑现十年前的承诺】通过逆向分析老游戏XXX梦大富翁来制作外挂BGM启动器](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143956&idx=1&sn=03302088398557641f81db20baca12b7)
-- bellingcat
-  - [Munition Remnants Pictured at Site of Deadly Chad Strike Match Weapon Previously Used by Sudan’s RSF](https://www.bellingcat.com/news/2026/03/24/munition-remnants-pictured-at-site-of-deadly-chad-strike-match-weapon-previously-used-by-sudans-rsf/)
-- Arturo Di Corinto
-  - [SCIOPERO GIORNALISTI](https://dicorinto.it/associazionismo/sciopero-giornalisti/)
-  - [Stampa Romana: ora garanzie concrete per i colleghi di Gedi](https://dicorinto.it/associazionismo/stampa-romana-ora-garanzie-concrete-per-i-colleghi-di-gedi/)
 - 迪哥讲事
   - [参数未校验所导致的账户劫持](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499209&idx=1&sn=e5e689ed7346043adff271f8e5cdac9e)
 - 安全行者老霍
   - [网络安全必须跟上人工智能发展的步伐](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486224&idx=1&sn=c545d4d3d3e8419a87525cb0c296b923)
-- Microsoft Security Blog
-  - [Governing AI agent behavior: Aligning user, developer, role, and organizational intent](https://techcommunity.microsoft.com/blog/microsoft-security-blog/governing-ai-agent-behavior-aligning-user-developer-role-and-organizational-inte/4503551)
-- ICT Security Magazine
-  - [Sangfor Technologies: sicurezza informatica e infrastruttura iperconvergente per la trasformazione digitale](https://www.ictsecuritymagazine.com/notizie/sangfor-technologies-sicurezza-digitale/)
-  - [TeamPCP worm cloud-native: quando la tua infrastruttura diventa un data center criminale](https://www.ictsecuritymagazine.com/articoli/teampcp-worm-cloud-native/)
-- Securityinfo.it
-  - [API sotto attacco: la sicurezza dell’AI passa dall’infrastruttura applicativa](https://www.securityinfo.it/2026/03/24/api-sotto-attacco-la-sicurezza-dellai-passa-dallinfrastruttura-applicativa/?utm_source=rss&utm_medium=rss&utm_campaign=api-sotto-attacco-la-sicurezza-dellai-passa-dallinfrastruttura-applicativa)
-- NetSPI
-  - [LiteLLM Supply Chain Compromise](https://www.netspi.com/blog/executive-blog/ai-ml-pentesting/litellm-supply-chain-compromise/)
-- Javvad Malik
-  - [The Tut of Superiority](https://javvadmalik.com/2026/03/24/the-tut-of-superiority/)
-- SANS Internet Storm Center, InfoCON: green
-  - [Detecting IP KVMs, (Tue, Mar 24th)](https://isc.sans.edu/diary/rss/32824)
-  - [ISC Stormcast For Tuesday, March 24th, 2026 https://isc.sans.edu/podcastdetail/9862, (Tue, Mar 24th)](https://isc.sans.edu/diary/rss/32822)
-- Schneier on Security
-  - [Team Mirai and Democracy](https://www.schneier.com/blog/archives/2026/03/team-mirai-and-democracy.html)
-- 悬镜安全
-  - [紧急AI投毒情报 | 热门AI模型网关LiteLLM遭受供应链投毒，总下载量超4.8亿次！](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647798867&idx=1&sn=d51e8b89a95e1c12d7c4db220befd443)
-- Troy Hunt's Blog
-  - [Weekly Update 496](https://www.troyhunt.com/weekly-update-496/)
-- TaoSecurity Blog
-  - [Mandiant Global Median Dwell Time Deteriorates from 11 to 14 Days](https://taosecurity.blogspot.com/2026/03/mandiant-global-median-dwell-time.html)
-- Chaos Computer Club - last 100 events feed
-  - [Digitale Souveränität und Open Source (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84132-deu-Digitale_Souveraenitaet_und_Open_Source_hd.mp4)
-  - [Update im Unterholz: wie ein Kanton sein waldbauliches Beitragswesen digitalisiert (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84288-deu-Update_im_Unterholz_wie_ein_Kanton_sein_waldbauliches_Beitragswesen_digitalisiert_hd.mp4)
-  - [Einsatz von FOSSGIS und offenen Geodaten in der forstlichen Lehre (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84303-deu-Einsatz_von_FOSSGIS_und_offenen_Geodaten_in_der_forstlichen_Lehre_hd.mp4)
-  - [Von der datensatz- zur modulbasierten Datenintegration mit der UDP Data Automation (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-83197-deu-Von_der_datensatz-_zur_modulbasierten_Datenintegration_mit_der_UDP_Data_Automation_hd.mp4)
-  - [Ein offenes dezentrales Netzwerk für Metadaten (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-83749-deu-Ein_offenes_dezentrales_Netzwerk_fuer_Metadaten_hd.mp4)
-  - [Von lokal bis verteilt: DuckDB, Sedona und Spark für moderne Geodatenanalyse (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-82988-deu-Von_lokal_bis_verteilt_DuckDB_Sedona_und_Spark_fuer_moderne_Geodatenanalyse_hd.mp4)
-  - [Eröffnung (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-85173-deu-Eroeffnung_hd.mp4)
-  - [Metadateneditor Berlin – Effizient erfassen, prüfen und veröffentlichen (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84245-deu-Metadateneditor_Berlin_-_Effizient_erfassen_pruefen_und_veroeffentlichen_hd.mp4)
-  - [XMAS-Plugin - XPlanung und andere Anwendungsschemas mit QGIS (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-82470-deu-XMAS-Plugin_-_XPlanung_und_andere_Anwendungsschemas_mit_QGIS_hd.mp4)
-  - [Datenkataloge mit STAC und OGC API Records (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84115-deu-Datenkataloge_mit_STAC_und_OGC_API_Records_hd.mp4)
-  - [WebGIS-Framework für multidimensionale Potenzialanalyse nachhaltiger Wärmeversorgung (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84316-deu-WebGIS-Framework_fuer_multidimensionale_Potenzialanalyse_nachhaltiger_Waermeversorgung_hd.mp4)
-  - [XPlanung-light - Übertragung des "keep it simple and stupid"-Prinzips auf XPlanung (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84232-eng-XPlanung-light_-_Uebertragung_des_keep_it_simple_and_stupid-Prinzips_auf_XPlanung_hd.mp4)
-  - [Das FAIR4G Projekt - FAIRer Einsatz von open geospatial Software: Status und Trends (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84112-deu-Das_FAIR4G_Projekt_-_FAIRer_Einsatz_von_open_geospatial_Software_Status_und_Trends_hd.mp4)
-  - [Von der Quelle zur API: Standardisierte Nahe-Echtzeit-Datenintegration in die UDP (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-83595-deu-Von_der_Quelle_zur_API_Standardisierte_Nahe-Echtzeit-Datenintegration_in_die_UDP_hd.mp4)
-  - [Open Data im Umweltbundesamt (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84237-deu-Open_Data_im_Umweltbundesamt_hd.mp4)
-  - [Harmonisierung heterogener Geodaten mit Open-Source-Pipelines (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84273-deu-Harmonisierung_heterogener_Geodaten_mit_Open-Source-Pipelines_hd.mp4)
-  - [Wir spielen mit offenen Karten - Der FOSSGIS e.V. (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84034-deu-Wir_spielen_mit_offenen_Karten_-_Der_FOSSGIS_eV_hd.mp4)
-  - [Cyber Resilience Act und Open Source – aktueller Stand aus den Arbeitsgruppen (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84345-deu-Cyber_Resilience_Act_und_Open_Source_-_aktueller_Stand_aus_den_Arbeitsgruppen_hd.mp4)
-  - [Sichere Softwarelieferketten mit openCode (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-83971-deu-Sichere_Softwarelieferketten_mit_openCode_hd.mp4)
-  - [Mercator ist dein Freund (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-82776-deu-Mercator_ist_dein_Freund_hd.mp4)
-  - [Warum es eine gute Idee war, eine FOSSGIS-Firma zu gründen (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84329-deu-Warum_es_eine_gute_Idee_war_eine_FOSSGIS-Firma_zu_gruenden_hd.mp4)
-  - [Das Masterportal in einer behördlichen Cloudumgebung (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84259-deu-Das_Masterportal_in_einer_behoerdlichen_Cloudumgebung_hd.mp4)
-  - [Open Data und Open Source-Strategie des BKG (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84052-deu-Open_Data_und_Open_Source-Strategie_des_BKG_hd.mp4)
-  - [basemap.de 2026 Neues von der AG SmartMapping (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84326-deu-basemapde_2026_Neues_von_der_AG_SmartMapping_hd.mp4)
-  - [Mit Open Source zum Lakehouse-Cluster mit nativer Geo-Unterstützung (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84233-deu-Mit_Open_Source_zum_Lakehouse-Cluster_mit_nativer_Geo-Unterstuetzung_hd.mp4)
-  - [Volltextsuche in Echtzeitdaten mit pg_search (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84143-deu-Volltextsuche_in_Echtzeitdaten_mit_pg_search_hd.mp4)
-  - [Ein Ansatz zur Optimierung von raumbezogenen Datenbankabfragen mit PostGIS (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-83926-deu-Ein_Ansatz_zur_Optimierung_von_raumbezogenen_Datenbankabfragen_mit_PostGIS_hd.mp4)
-- Microsoft Browser Vulnerability Research
-  - [Using Markov Models for Password Complexity Estimation in Microsoft Edge](https://microsoftedge.github.io/edgevr/posts/Using-Markov-model-for-password-complexity-estimation-in-microsoft-edge/)
 - Over Security - Cybersecurity news aggregator
   - [PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug](https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/)
   - [UK pilot program to test social media restrictions on families before government decides on ban](https://therecord.media/uk-social-media-ban-pilot)
@@ -262,8 +207,76 @@
   - [Yanluowang ransomware access broker gets 81 months in prison](https://www.bleepingcomputer.com/news/security/yanluowang-ransomware-access-broker-gets-81-months-in-prison/)
   - [Russian hacker who helped Yanluowang ransomware gang gets nearly 7 year prison sentence](https://therecord.media/hacker-russian-ransomware-sentenced-doj)
   - [Dutch Ministry of Finance discloses breach affecting employees](https://www.bleepingcomputer.com/news/security/dutch-ministry-of-finance-discloses-breach-affecting-employees/)
-  - [Russian Access Broker Gets Nearly 7 Yrs for Enabling Millions in Ransomware Extortion](https://thecyberexpress.com/russian-access-broker-gets-7-yrs-prison-time/)
-  - [Cyber attacchi, Italia tra i Paesi più colpiti: ma quanto tempo serve alle aziende per ripartire?](https://www.cybersecurity360.it/nuove-minacce/cyber-attacchi-italia-tra-i-paesi-piu-colpiti-ma-quanto-tempo-serve-alle-aziende-per-ripartire/)
+- 悬镜安全
+  - [紧急AI投毒情报 | 热门AI模型网关LiteLLM遭受供应链投毒，总下载量超4.8亿次！](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647798867&idx=1&sn=d51e8b89a95e1c12d7c4db220befd443)
+- bellingcat
+  - [Munition Remnants Pictured at Site of Deadly Chad Strike Match Weapon Previously Used by Sudan’s RSF](https://www.bellingcat.com/news/2026/03/24/munition-remnants-pictured-at-site-of-deadly-chad-strike-match-weapon-previously-used-by-sudans-rsf/)
+- Chaos Computer Club - last 100 events feed
+  - [Von der datensatz- zur modulbasierten Datenintegration mit der UDP Data Automation (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-83197-deu-Von_der_datensatz-_zur_modulbasierten_Datenintegration_mit_der_UDP_Data_Automation_hd.mp4)
+  - [Von der Quelle zur API: Standardisierte Nahe-Echtzeit-Datenintegration in die UDP (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-83595-deu-Von_der_Quelle_zur_API_Standardisierte_Nahe-Echtzeit-Datenintegration_in_die_UDP_hd.mp4)
+  - [Harmonisierung heterogener Geodaten mit Open-Source-Pipelines (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84273-deu-Harmonisierung_heterogener_Geodaten_mit_Open-Source-Pipelines_hd.mp4)
+  - [Ein Ansatz zur Optimierung von raumbezogenen Datenbankabfragen mit PostGIS (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-83926-deu-Ein_Ansatz_zur_Optimierung_von_raumbezogenen_Datenbankabfragen_mit_PostGIS_hd.mp4)
+  - [Eröffnung (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-85173-deu-Eroeffnung_hd.mp4)
+  - [Ein offenes dezentrales Netzwerk für Metadaten (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-83749-deu-Ein_offenes_dezentrales_Netzwerk_fuer_Metadaten_hd.mp4)
+  - [Sichere Softwarelieferketten mit openCode (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-83971-deu-Sichere_Softwarelieferketten_mit_openCode_hd.mp4)
+  - [Cloud-native Geodateninfrastrukturen: Skalierbarer Open-Source-Ansatz mit Kubernetes (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84130-deu-Cloud-native_Geodateninfrastrukturen_Skalierbarer_Open-Source-Ansatz_mit_Kubernetes_hd.mp4)
+  - [Warum es eine gute Idee war, eine FOSSGIS-Firma zu gründen (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84329-deu-Warum_es_eine_gute_Idee_war_eine_FOSSGIS-Firma_zu_gruenden_hd.mp4)
+  - [GeoServer-Cloud v2.28: Cloud-optimierte Geodatenformate und Speicherlösungen (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84210-deu-GeoServer-Cloud_v228_Cloud-optimierte_Geodatenformate_und_Speicherloesungen_hd.mp4)
+  - [Open Source und Geo in 2026 (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84330-deu-Open_Source_und_Geo_in_2026_hd.mp4)
+  - [basemap.de 2026 Neues von der AG SmartMapping (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84326-deu-basemapde_2026_Neues_von_der_AG_SmartMapping_hd.mp4)
+  - [Digitale Souveränität und Open Source (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84132-deu-Digitale_Souveraenitaet_und_Open_Source_hd.mp4)
+  - [Einsatz von FOSSGIS und offenen Geodaten in der forstlichen Lehre (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84303-deu-Einsatz_von_FOSSGIS_und_offenen_Geodaten_in_der_forstlichen_Lehre_hd.mp4)
+  - [Cyber Resilience Act und Open Source – aktueller Stand aus den Arbeitsgruppen (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84345-deu-Cyber_Resilience_Act_und_Open_Source_-_aktueller_Stand_aus_den_Arbeitsgruppen_hd.mp4)
+  - [Metadateneditor Berlin – Effizient erfassen, prüfen und veröffentlichen (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84245-deu-Metadateneditor_Berlin_-_Effizient_erfassen_pruefen_und_veroeffentlichen_hd.mp4)
+  - [Update im Unterholz: wie ein Kanton sein waldbauliches Beitragswesen digitalisiert (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84288-deu-Update_im_Unterholz_wie_ein_Kanton_sein_waldbauliches_Beitragswesen_digitalisiert_hd.mp4)
+  - [Open Data im Umweltbundesamt (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84237-deu-Open_Data_im_Umweltbundesamt_hd.mp4)
+  - [Mit Open Source zum Lakehouse-Cluster mit nativer Geo-Unterstützung (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84233-deu-Mit_Open_Source_zum_Lakehouse-Cluster_mit_nativer_Geo-Unterstuetzung_hd.mp4)
+  - [Raumzeitliches Datenmanagement in souveränen Cloud-Umgebungen (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84347-deu-Raumzeitliches_Datenmanagement_in_souveraenen_Cloud-Umgebungen_hd.mp4)
+  - [Volltextsuche in Echtzeitdaten mit pg_search (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84143-deu-Volltextsuche_in_Echtzeitdaten_mit_pg_search_hd.mp4)
+  - [XPlanung-light - Übertragung des "keep it simple and stupid"-Prinzips auf XPlanung (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84232-eng-XPlanung-light_-_Uebertragung_des_keep_it_simple_and_stupid-Prinzips_auf_XPlanung_hd.mp4)
+  - [Das FAIR4G Projekt - FAIRer Einsatz von open geospatial Software: Status und Trends (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84112-deu-Das_FAIR4G_Projekt_-_FAIRer_Einsatz_von_open_geospatial_Software_Status_und_Trends_hd.mp4)
+  - [ParkingSpacePotential - Platz machen für die Verkehrswende (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84348-deu-ParkingSpacePotential_-_Platz_machen_fuer_die_Verkehrswende_hd.mp4)
+  - [Geodaten-Management mit PostGIS (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84196-deu-Geodaten-Management_mit_PostGIS_hd.mp4)
+  - [Von lokal bis verteilt: DuckDB, Sedona und Spark für moderne Geodatenanalyse (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-82988-deu-Von_lokal_bis_verteilt_DuckDB_Sedona_und_Spark_fuer_moderne_Geodatenanalyse_hd.mp4)
+  - [PostgreSQL und Postgis für Einsteiger (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84280-deu-PostgreSQL_und_Postgis_fuer_Einsteiger_hd.mp4)
+  - [XMAS-Plugin - XPlanung und andere Anwendungsschemas mit QGIS (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-82470-deu-XMAS-Plugin_-_XPlanung_und_andere_Anwendungsschemas_mit_QGIS_hd.mp4)
+  - [WebGIS-Framework für multidimensionale Potenzialanalyse nachhaltiger Wärmeversorgung (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84316-deu-WebGIS-Framework_fuer_multidimensionale_Potenzialanalyse_nachhaltiger_Waermeversorgung_hd.mp4)
+  - [Datenkataloge mit STAC und OGC API Records (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84115-deu-Datenkataloge_mit_STAC_und_OGC_API_Records_hd.mp4)
+  - [Mercator ist dein Freund (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-82776-deu-Mercator_ist_dein_Freund_hd.mp4)
+  - [Open Data und Open Source-Strategie des BKG (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84052-deu-Open_Data_und_Open_Source-Strategie_des_BKG_hd.mp4)
+  - [Wir spielen mit offenen Karten - Der FOSSGIS e.V. (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84034-deu-Wir_spielen_mit_offenen_Karten_-_Der_FOSSGIS_eV_hd.mp4)
+  - [Nutzung räumlicher Daten für eine strategische vertikale Nachverdichtung (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-82771-deu-Nutzung_raeumlicher_Daten_fuer_eine_strategische_vertikale_Nachverdichtung_hd.mp4)
+  - [Das Masterportal in einer behördlichen Cloudumgebung (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84259-deu-Das_Masterportal_in_einer_behoerdlichen_Cloudumgebung_hd.mp4)
+  - [Was tun, wenn plötzlich das Team wächst. (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84198-deu-Was_tun_wenn_ploetzlich_das_Team_waechst_hd.mp4)
+- Javvad Malik
+  - [The Tut of Superiority](https://javvadmalik.com/2026/03/24/the-tut-of-superiority/)
+- Arturo Di Corinto
+  - [SCIOPERO GIORNALISTI](https://dicorinto.it/associazionismo/sciopero-giornalisti/)
+  - [Stampa Romana: ora garanzie concrete per i colleghi di Gedi](https://dicorinto.it/associazionismo/stampa-romana-ora-garanzie-concrete-per-i-colleghi-di-gedi/)
+- SANS Internet Storm Center, InfoCON: green
+  - [Detecting IP KVMs, (Tue, Mar 24th)](https://isc.sans.edu/diary/rss/32824)
+  - [ISC Stormcast For Tuesday, March 24th, 2026 https://isc.sans.edu/podcastdetail/9862, (Tue, Mar 24th)](https://isc.sans.edu/diary/rss/32822)
+- NetSPI
+  - [LiteLLM Supply Chain Compromise](https://www.netspi.com/blog/executive-blog/ai-ml-pentesting/litellm-supply-chain-compromise/)
+- ICT Security Magazine
+  - [Sangfor Technologies: sicurezza informatica e infrastruttura iperconvergente per la trasformazione digitale](https://www.ictsecuritymagazine.com/notizie/sangfor-technologies-sicurezza-digitale/)
+  - [TeamPCP worm cloud-native: quando la tua infrastruttura diventa un data center criminale](https://www.ictsecuritymagazine.com/articoli/teampcp-worm-cloud-native/)
+- Schneier on Security
+  - [Team Mirai and Democracy](https://www.schneier.com/blog/archives/2026/03/team-mirai-and-democracy.html)
+- Microsoft Browser Vulnerability Research
+  - [Using Markov Models for Password Complexity Estimation in Microsoft Edge](https://microsoftedge.github.io/edgevr/posts/Using-Markov-model-for-password-complexity-estimation-in-microsoft-edge/)
+- 吴鲁加
+  - [忘掉经验](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485981&idx=1&sn=a5d23989beabf38b4d889404d62b282f)
+- TaoSecurity Blog
+  - [Mandiant Global Median Dwell Time Deteriorates from 11 to 14 Days](https://taosecurity.blogspot.com/2026/03/mandiant-global-median-dwell-time.html)
+- Troy Hunt's Blog
+  - [Weekly Update 496](https://www.troyhunt.com/weekly-update-496/)
+- Security Affairs
+  - [Data breach at Dutch Ministry of Finance impacts staff following cyberattack](https://securityaffairs.com/189929/data-breach/data-breach-at-dutch-ministry-of-finance-impacts-staff-following-cyberattack.html)
+  - [QualDerm Partners December 2025 data breach impacts over 3 Million people](https://securityaffairs.com/189917/data-breach/qualderm-partners-december-2025-data-breach-impacts-over-3-million-people.html)
+  - [Citrix NetScaler critical flaw could leak data, update now](https://securityaffairs.com/189908/security/citrix-netscaler-critical-flaw-could-leak-data-update-now.html)
+  - [81-month sentence for Russian hacker behind major ransomware campaigns](https://securityaffairs.com/189900/cyber-crime/81-month-sentence-for-russian-hacker-behind-major-ransomware-campaigns.html)
+  - [North Korea-linked threat actors abuse VS Code auto-run to spread StoatWaffle malware](https://securityaffairs.com/189880/security/north-korea-linked-threat-actors-abuse-vs-code-auto-run-to-spread-stoatwaffle-malware.html)
 - Tor Project blog
   - [New Release: Tor Browser 15.0.8](https://blog.torproject.org/new-release-tor-browser-1508/)
 - The Hacker News
@@ -276,50 +289,9 @@
   - [TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials](https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html)
   - [U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage](https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html)
   - [Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks](https://thehackernews.com/2026/03/citrix-urges-patching-critical.html)
-- Security Affairs
-  - [Data breach at Dutch Ministry of Finance impacts staff following cyberattack](https://securityaffairs.com/189929/data-breach/data-breach-at-dutch-ministry-of-finance-impacts-staff-following-cyberattack.html)
-  - [QualDerm Partners December 2025 data breach impacts over 3 Million people](https://securityaffairs.com/189917/data-breach/qualderm-partners-december-2025-data-breach-impacts-over-3-million-people.html)
-  - [Citrix NetScaler critical flaw could leak data, update now](https://securityaffairs.com/189908/security/citrix-netscaler-critical-flaw-could-leak-data-update-now.html)
-  - [81-month sentence for Russian hacker behind major ransomware campaigns](https://securityaffairs.com/189900/cyber-crime/81-month-sentence-for-russian-hacker-behind-major-ransomware-campaigns.html)
-  - [North Korea-linked threat actors abuse VS Code auto-run to spread StoatWaffle malware](https://securityaffairs.com/189880/security/north-korea-linked-threat-actors-abuse-vs-code-auto-run-to-spread-stoatwaffle-malware.html)
-- Deep Web
-  - [Torch or ahmia witch one is best ??!](https://www.reddit.com/r/deepweb/comments/1s2ftez/torch_or_ahmia_witch_one_is_best/)
-  - [Anti-Ddos tools for .onion?](https://www.reddit.com/r/deepweb/comments/1s2a6or/antiddos_tools_for_onion/)
 - Deeplinks
   - [Nicole Ozer Named as Electronic Frontier Foundation’s Executive Director](https://www.eff.org/press/releases/nicole-ozer-named-electronic-frontier-foundations-executive-director)
   - [UK Politicians Continue to Miss the Point in Latest Social Media Ban Proposal](https://www.eff.org/deeplinks/2026/03/uk-politicians-continue-miss-point-latest-social-media-ban-proposal)
-- Your Open Hacker Community
-  - [Is installing a new windows makes your hacked pc completly safe?](https://www.reddit.com/r/HowToHack/comments/1s2qgtm/is_installing_a_new_windows_makes_your_hacked_pc/)
-  - [Suggest me topics](https://www.reddit.com/r/HowToHack/comments/1s25zdx/suggest_me_topics/)
-- Blackhat Library: Hacking techniques and research
-  - [I built a deterministic security firewall API for AI agents (Python SDK, free tier)](https://www.reddit.com/r/blackhat/comments/1s2esr9/i_built_a_deterministic_security_firewall_api_for/)
-  - [the biggest problem with security scanners might be what they do to people](https://www.reddit.com/r/blackhat/comments/1s2ao6z/the_biggest_problem_with_security_scanners_might/)
-  - [Suggest me topics](https://www.reddit.com/r/blackhat/comments/1s260ol/suggest_me_topics/)
-  - [Cybersecurity is Failing with AI](https://www.reddit.com/r/blackhat/comments/1s20ei2/cybersecurity_is_failing_with_ai/)
-- Computer Forensics
-  - [DF Training Information](https://www.reddit.com/r/computerforensics/comments/1s2rho1/df_training_information/)
-- Information Security
-  - [Does this approach to GDPR for SMBs make sense?](https://www.reddit.com/r/Information_Security/comments/1s2nug0/does_this_approach_to_gdpr_for_smbs_make_sense/)
-  - [Thoughts on hiring a vCISO?](https://www.reddit.com/r/Information_Security/comments/1s2eqs9/thoughts_on_hiring_a_vciso/)
-  - [NemoClaw installation made eay [one-line installer]](https://www.reddit.com/r/Information_Security/comments/1s2i4gz/nemoclaw_installation_made_eay_oneline_installer/)
-  - [Does your Zero Trust strategy actually account for unmanaged endpoints?](https://www.reddit.com/r/Information_Security/comments/1s2b85x/does_your_zero_trust_strategy_actually_account/)
-  - [𝗦𝗩𝗚 𝗦𝗺𝘂𝗴𝗴𝗹𝗶𝗻𝗴 𝗖𝗮𝗺𝗽𝗮𝗶𝗴𝗻 𝗛𝗶𝘁𝘀 𝗖𝗼𝗹𝗼𝗺𝗯𝗶𝗮𝗻 𝗢𝗿𝗴𝗮𝗻𝗶𝘇𝗮𝘁𝗶𝗼𝗻𝘀](https://www.reddit.com/r/Information_Security/comments/1s26ece/𝗦𝗩𝗚_𝗦𝗺𝘂𝗴𝗴𝗹𝗶𝗻𝗴_𝗖𝗮𝗺𝗽𝗮𝗶𝗴𝗻_𝗛𝗶𝘁𝘀_𝗖𝗼𝗹𝗼𝗺𝗯𝗶𝗮𝗻/)
-  - [As organizations scale, managing web access manually becomes unsustainable.](https://www.reddit.com/r/Information_Security/comments/1s2cmqb/as_organizations_scale_managing_web_access/)
-- Social Engineering
-  - [Social Engineering Class & Free Ticket](https://www.reddit.com/r/SocialEngineering/comments/1s2pikk/social_engineering_class_free_ticket/)
-  - [The "False Choice" technique: How to control a decision while giving the illusion of absolute freedom. 🎭](https://www.reddit.com/r/SocialEngineering/comments/1s2tkrn/the_false_choice_technique_how_to_control_a/)
-- netsecstudents: Subreddit for students studying Network Security and its related subjects
-  - [litellm 1.82.8 on PyPI was compromised - steals SSH keys, cloud creds, K8s secrets, and installs a persistent backdoor](https://www.reddit.com/r/netsecstudents/comments/1s2gj03/litellm_1828_on_pypi_was_compromised_steals_ssh/)
-  - [Skill advice - learning the C language](https://www.reddit.com/r/netsecstudents/comments/1s2cu1h/skill_advice_learning_the_c_language/)
-  - [Every Sliver C2 Tutorial Was Outdated. So I Wrote My Own](https://www.reddit.com/r/netsecstudents/comments/1s26xyo/every_sliver_c2_tutorial_was_outdated_so_i_wrote/)
-- Technical Information Security Content & Discussion
-  - [How a Poisoned Security Scanner Became the Key to Backdooring LiteLLM](https://www.reddit.com/r/netsec/comments/1s2n2bo/how_a_poisoned_security_scanner_became_the_key_to/)
-  - [Corelan: Debugging - WinDBG & WinDBGX Fundamentals -](https://www.reddit.com/r/netsec/comments/1s2pkyh/corelan_debugging_windbg_windbgx_fundamentals/)
-  - [The Age-Gated Internet: Child Safety, Identity Infrastructure, and the Not So Quiet Re-Architecting of the Web](https://www.reddit.com/r/netsec/comments/1s2sg1n/the_agegated_internet_child_safety_identity/)
-  - [We rewrote SoftHSMv2 (the default PKCS#11 software HSM) in Rust — 617+ tests, PQC support, memory-safe key handling](https://www.reddit.com/r/netsec/comments/1s2f3le/we_rewrote_softhsmv2_the_default_pkcs11_software/)
-  - [We scanned 900 MCP configs on GitHub. 75% had security problems.](https://www.reddit.com/r/netsec/comments/1s2j0zl/we_scanned_900_mcp_configs_on_github_75_had/)
-  - [Forensic Readiness Is Becoming a Strategic Security Discipline](https://www.reddit.com/r/netsec/comments/1s2alc9/forensic_readiness_is_becoming_a_strategic/)
-  - [With the rise of SaaS and cloud applications, the browser has become the new workplace. That's where net-security comes in.](https://www.reddit.com/r/netsec/comments/1s2cryp/with_the_rise_of_saas_and_cloud_applications_the/)
 - Security Weekly Podcast Network (Audio)
   - [Scam Baiting, AI, and the New Grift Economy, Part 1 - Rinoa Poison - SWN #566](http://sites.libsyn.com/18678/scam-baiting-ai-and-the-new-grift-economy-part-1-rinoa-poison-swn-566)
   - [Why Proactive Security Is Far Better Than Patching - Erik Nost - ASW #375](http://sites.libsyn.com/18678/why-proactive-security-is-far-better-than-patching-erik-nost-asw-375)
