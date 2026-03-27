@@ -1,25 +1,11 @@
 # 每日安全资讯（2026-03-27）
 
-- SecWiki News
-  - [SecWiki News 2026-03-26 Review](http://www.sec-wiki.com/?2026-03-26)
+- Recent Commits to cve:main
+  - [Update Thu Mar 26 11:18:19 UTC 2026](https://github.com/trickest/cve/commit/f62649dbd1616d294d28046ead928a353ea0db41)
 - InfoSec Write-ups - Medium
   - [From Delaying Certifications to Passing eJPT: My Real Journey](https://infosecwriteups.com/from-delaying-certifications-to-passing-ejpt-my-real-journey-5dbebaf5b8c0?source=rss----7b722bfd1b8d---4)
   - [Django CSRF Token: Misconfiguration or Misunderstanding?](https://infosecwriteups.com/django-csrf-token-misconfiguration-or-misunderstanding-c0054c815fc7?source=rss----7b722bfd1b8d---4)
   - [Improper Input Handling Leading to Client Side Code Execution and Backend Information Disclosure](https://infosecwriteups.com/improper-input-handling-leading-to-client-side-code-execution-and-backend-information-disclosure-fe58853f9f0c?source=rss----7b722bfd1b8d---4)
-- Recent Commits to cve:main
-  - [Update Thu Mar 26 11:18:19 UTC 2026](https://github.com/trickest/cve/commit/f62649dbd1616d294d28046ead928a353ea0db41)
-- No Headback
-  - [CLI Everything 和 AI native infra](http://xargin.com/ai-native-infra/)
-- CXSECURITY Database RSS Feed - CXSecurity.com
-  - [esiclivre 0.2.2 SQL Injection](https://cxsecurity.com/issue/WLB-2026030034)
-  - [Payara Server Cross Site Scripting](https://cxsecurity.com/issue/WLB-2026030035)
-  - [SiYuan < = v3.6.1 Note unauthenticated arbitrary file read (path traversal)](https://cxsecurity.com/issue/WLB-2026030033)
-  - [Tenda AC21 V1.0 V16.03.08.16 - Stack Buffer Overflow in SetNetControlList](https://cxsecurity.com/issue/WLB-2026030032)
-  - [WWBN AVideo < = 26.0 - Authenticated SQL Injection](https://cxsecurity.com/issue/WLB-2026030031)
-- Sucuri Blog
-  - [Web Shells: Types, Mitigation & Removal](https://blog.sucuri.net/2026/03/web-shells.html)
-- ElcomSoft blog
-  - [Distributed Password Recovery Goes 64-bit: Ready for RTX 5090](https://blog.elcomsoft.com/2026/03/distributed-password-recovery-goes-64-bit-ready-for-rtx-5090/)
 - Tenable Blog
   - [Uncover prompt injection, insider threats with the Tenable One Model Refusal Detection](https://www.tenable.com/blog/uncover-prompt-injection-insider-threats-model-refusal-detection)
 - 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
@@ -27,39 +13,47 @@
   - [美亚柏科培育的取证圈“小龙虾”来了](https://www.4hou.com/posts/8gwr)
   - [AI时代中国网络安全产业的五年变局|| 影子AI之困：企业数据安全最大的灰犀牛](https://www.4hou.com/posts/vwXn)
   - [嘶吼安全动态｜工信部征求AI安全治理标准，规范模型上下文协议安全 浙江警方破获特大电商数据泄露案，200万条订单信息被贩卖](https://www.4hou.com/posts/rpQL)
-- Sandfly Security Blog RSS Feed
-  - [Destination Linux Podcast: Tor, VPNs and Anonymity Risks](https://sandflysecurity.com/blog/destination-linux-podcast-tor-vpns-and-anonymity-risks)
-  - [Linux Password Hash Risks and Security Overview](https://sandflysecurity.com/blog/linux-password-hash-risks-and-security-overview)
-  - [Destination Linux Cybersecurity Interview with Craig Rowland](https://sandflysecurity.com/blog/destination-linux-cybersecurity-interview-with-craig-rowland)
-  - [Sandfly 5.5 - AI Linux Forensics Analysis Demo](https://sandflysecurity.com/blog/sandfly-5-5-ai-linux-forensics-analysis-demo)
-  - [Sandfly 5.7 - Performance Upgrade](https://sandflysecurity.com/blog/sandfly-57-performance-upgrade)
+- No Headback
+  - [CLI Everything 和 AI native infra](http://xargin.com/ai-native-infra/)
+- Sucuri Blog
+  - [Web Shells: Types, Mitigation & Removal](https://blog.sucuri.net/2026/03/web-shells.html)
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [esiclivre 0.2.2 SQL Injection](https://cxsecurity.com/issue/WLB-2026030034)
+  - [Payara Server Cross Site Scripting](https://cxsecurity.com/issue/WLB-2026030035)
+  - [SiYuan < = v3.6.1 Note unauthenticated arbitrary file read (path traversal)](https://cxsecurity.com/issue/WLB-2026030033)
+  - [Tenda AC21 V1.0 V16.03.08.16 - Stack Buffer Overflow in SetNetControlList](https://cxsecurity.com/issue/WLB-2026030032)
+  - [WWBN AVideo < = 26.0 - Authenticated SQL Injection](https://cxsecurity.com/issue/WLB-2026030031)
+- ElcomSoft blog
+  - [Distributed Password Recovery Goes 64-bit: Ready for RTX 5090](https://blog.elcomsoft.com/2026/03/distributed-password-recovery-goes-64-bit-ready-for-rtx-5090/)
+- SecWiki News
+  - [SecWiki News 2026-03-26 Review](http://www.sec-wiki.com/?2026-03-26)
+- Insinuator.net
+  - [Methodology for Assessing Kubernetes Namespace-Based Multi-Tenancy Setups](https://insinuator.net/2026/03/methodology-for-assessing-namespace-based-multi-tenancy-setups/)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [From Delaying Certifications to Passing eJPT: My Real Journey](https://infosecwriteups.com/from-delaying-certifications-to-passing-ejpt-my-real-journey-5dbebaf5b8c0?source=rss----7b722bfd1b8d--bug_bounty)
   - [Improper Input Handling Leading to Client Side Code Execution and Backend Information Disclosure](https://infosecwriteups.com/improper-input-handling-leading-to-client-side-code-execution-and-backend-information-disclosure-fe58853f9f0c?source=rss----7b722bfd1b8d--bug_bounty)
   - [A Practical Workflow for Fuzzing and Scanning in Bug Bounty](https://infosecwriteups.com/a-practical-workflow-for-fuzzing-and-scanning-in-bug-bounty-64fa00ded29b?source=rss----7b722bfd1b8d--bug_bounty)
-- Insinuator.net
-  - [Methodology for Assessing Kubernetes Namespace-Based Multi-Tenancy Setups](https://insinuator.net/2026/03/methodology-for-assessing-namespace-based-multi-tenancy-setups/)
 - Securelist
   - [An AI gateway designed to steal your data](https://securelist.com/litellm-supply-chain-attack/119257/)
   - [Coruna: the framework used in Operation Triangulation](https://securelist.com/coruna-framework-updated-operation-triangulation-exploit/119228/)
+- Malwarebytes
+  - [Infiniti Stealer: a new macOS infostealer using ClickFix and Python/Nuitka](https://www.malwarebytes.com/blog/threat-intel/2026/03/infiniti-stealer-a-new-macos-infostealer-using-clickfix-and-python-nuitka)
+  - [GlassWorm attack installs fake browser extension for surveillance](https://www.malwarebytes.com/blog/news/2026/03/glassworm-attack-installs-fake-browser-extension-for-surveillance)
+  - [Landmark verdicts put Meta’s “addiction machine” platforms on trial](https://www.malwarebytes.com/blog/news/2026/03/landmark-verdicts-put-metas-addiction-machine-platforms-on-trial)
 - Reverse Engineering
   - [r2gopclntabParser: A radare2-based Go gopclntab parser for recovering function symbols from Go binaries, including fully stripped ones.](https://www.reddit.com/r/ReverseEngineering/comments/1s4jphj/r2gopclntabparser_a_radare2based_go_gopclntab/)
   - [Latest Akamai v3 deobfuscator static reversal of dynamic per request](https://www.reddit.com/r/ReverseEngineering/comments/1s4a1he/latest_akamai_v3_deobfuscator_static_reversal_of/)
   - [My DAP couldn't display Arabic text, so I reverse engineered the firmware format to fix it](https://www.reddit.com/r/ReverseEngineering/comments/1s3z0gl/my_dap_couldnt_display_arabic_text_so_i_reverse/)
 - Sucuri Blog
   - [Web Shells: Types, Mitigation & Removal](https://blog.sucuri.net/2026/03/web-shells.html)
-- Malwarebytes
-  - [Infiniti Stealer: a new macOS infostealer using ClickFix and Python/Nuitka](https://www.malwarebytes.com/blog/threat-intel/2026/03/infiniti-stealer-a-new-macos-infostealer-using-clickfix-and-python-nuitka)
-  - [GlassWorm attack installs fake browser extension for surveillance](https://www.malwarebytes.com/blog/news/2026/03/glassworm-attack-installs-fake-browser-extension-for-surveillance)
-  - [Landmark verdicts put Meta’s “addiction machine” platforms on trial](https://www.malwarebytes.com/blog/news/2026/03/landmark-verdicts-put-metas-addiction-machine-platforms-on-trial)
 - daniel.haxx.se
   - [Don’t trust, verify](https://daniel.haxx.se/blog/2026/03/26/dont-trust-verify/)
+- bishopfox.com
+  - [strongSwan CVE-2026-25075: Integer Underflow in VPN Authentication](https://bishopfox.com/blog/strongswan-cve-2026-25075-integer-underflow-in-vpn-authentication)
 - 明天的乌云
   - [Agent与人的协作关系](https://blog.xlab.app/p/79b64b8e/)
 - 绿盟科技技术博客
   - [对标2026 RSAC创新沙盒冠军，方向竟如此一致！绿盟科技以中国方案守护AI智能体安全](https://blog.nsfocus.net/%e5%af%b9%e6%a0%872026-rsac%e5%88%9b%e6%96%b0%e6%b2%99%e7%9b%92%e5%86%a0%e5%86%9b%ef%bc%8c%e6%96%b9%e5%90%91%e7%ab%9f%e5%a6%82%e6%ad%a4%e4%b8%80%e8%87%b4%ef%bc%81%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80/)
-- bishopfox.com
-  - [strongSwan CVE-2026-25075: Integer Underflow in VPN Authentication](https://bishopfox.com/blog/strongswan-cve-2026-25075-integer-underflow-in-vpn-authentication)
 - 奇客Solidot–传递最新科技情报
   - [实验室培育食管恢复猪的吞咽能力](https://www.solidot.org/story?sid=83888)
   - [微软将默认收集 GitHub Copilot 交互数据训练 AI](https://www.solidot.org/story?sid=83887)
@@ -75,37 +69,44 @@
   - [每日安全动态推送(26/3/26)](https://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&mid=2651960410&idx=1&sn=c641d4f8039d4c92f6cd464c878b83e2)
 - 黑鸟
   - [Coruna框架与三角测量行动的技术同源性报告](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185973&idx=1&sn=edf2b4003ac2adf03c04a19bd43a86f6)
-- 威努特安全网络
-  - [工信部发文部署2026年ICT行业网络运行安全工作](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651141141&idx=1&sn=f9b22028b4f4d49ffd42e8a87daeef05)
 - 安全分析与研究
   - [内存执行技术——无文件攻击的核心](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496612&idx=1&sn=eb8e6cbcc52e32b1a4e921d301b2a5fc)
-- 代码卫士
-  - [TP-Link：速修复这个严重的路由器认证绕过漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525554&idx=1&sn=c3b2f7032bfd43bff06a8e5940645966)
-  - [Citrix：尽快修复这两个 NetScaler 漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525554&idx=2&sn=1cd600c5708dc44ab8e2421ef606e780)
+- 青衣十三楼飞花堂
+  - [数三角形个数](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489232&idx=1&sn=7a703391009d44ddd63c6f170fa947d8)
 - 信安之路
   - [快来看，编辑器正在帮我挖漏洞啦！](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500501&idx=1&sn=5c53d57ac297669909b6cf318e1d66cf)
 - 安全内参
   - [RSAC 2026现场：全球网络安全大厂都发布了哪些新品？](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515737&idx=1&sn=13f173b53afaeba0486304816d29a743)
   - [欧洲最大渔港因勒索攻击运营中断，被迫人工维持货运作业](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515737&idx=2&sn=991c4b4fe68294e72d7dbc302fb2bac1)
-- 奇安信 CERT
-  - [今日（2026年3月26日）OpenClaw 最新安全动态总结](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504870&idx=1&sn=07ca2c138d03c6f7310ca93653e558d9)
-- 微步在线研究响应中心
-  - [大规模失陷！Apifox遭投毒，请立即排查](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508474&idx=1&sn=0c54bef0fb110b738a49459efda40b59)
+- 代码卫士
+  - [TP-Link：速修复这个严重的路由器认证绕过漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525554&idx=1&sn=c3b2f7032bfd43bff06a8e5940645966)
+  - [Citrix：尽快修复这两个 NetScaler 漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525554&idx=2&sn=1cd600c5708dc44ab8e2421ef606e780)
+- 天御攻防实验室
+  - [美四位前国家安全局局长同台献艺](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486841&idx=1&sn=0d511f03f9281007d6a6784a76587939)
+- 全频带阻塞干扰
+  - [震惊！无人机企业总工办公室查出窃听器！](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648959187&idx=1&sn=53aecf3d31ff342f194ace011cfd734e)
+- 白帽100安全攻防实验室
+  - [MongoBleed 供应链攻击逆向分析报告（详细版）](https://mp.weixin.qq.com/s?__biz=MzIxMDYyNTk3Nw==&mid=2247515488&idx=1&sn=5cae19817531182237bba95dbca9314c)
+- 威努特安全网络
+  - [工信部发文部署2026年ICT行业网络运行安全工作](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651141141&idx=1&sn=f9b22028b4f4d49ffd42e8a87daeef05)
+- 绿盟科技研究通讯
+  - [OpenClaw安全实战系列二：白名单也防不住？复盘CVE-2026-28363授权绕过全过程](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499691&idx=1&sn=9a5c0303bdfcc6f525fdcc2db947beb8)
+- 绿盟科技CERT
+  - [【安全事件】AI基础设施LiteLLM供应链投毒预警通告](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489507&idx=1&sn=34b44ac3e9bb12cda50508a3286940d4)
+  - [【安全事件】Apifox桌面客户端遭供应链投毒分析](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489507&idx=2&sn=31fafa29056a73a0841d4d11d998b83d)
 - 看雪学苑
   - [Android 内核加载未签名驱动的一次实践](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458612669&idx=1&sn=65a2b6f05bec21859650f8e99655337c)
   - [GitHub上惊现“空投”骗局，5000美元诱饵背后是钱包清零陷阱](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458612669&idx=2&sn=f0517edf34122c07c37bab4c50c0eb9c)
-- 绿盟科技研究通讯
-  - [OpenClaw安全实战系列二：白名单也防不住？复盘CVE-2026-28363授权绕过全过程](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499691&idx=1&sn=9a5c0303bdfcc6f525fdcc2db947beb8)
-- 全频带阻塞干扰
-  - [震惊！无人机企业总工办公室查出窃听器！](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648959187&idx=1&sn=53aecf3d31ff342f194ace011cfd734e)
 - 安全学术圈
   - [奥尔登堡大学 | SoK：从 CTI 报告中自动化抽取 TTP——我们真的做到这一步了吗？](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495169&idx=1&sn=2ffc09f2445ae8a081c07f1955e76be0)
-- 奇安信威胁情报中心
-  - [又一个开发工具沦陷，Apifox遭供应链投毒攻击](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518109&idx=1&sn=b9d326d632994618da5d45bf84923834)
-- 白帽100安全攻防实验室
-  - [MongoBleed 供应链攻击逆向分析报告（详细版）](https://mp.weixin.qq.com/s?__biz=MzIxMDYyNTk3Nw==&mid=2247515488&idx=1&sn=5cae19817531182237bba95dbca9314c)
-- 天御攻防实验室
-  - [美四位前国家安全局局长同台献艺](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486841&idx=1&sn=0d511f03f9281007d6a6784a76587939)
+- 奇安信 CERT
+  - [今日（2026年3月26日）OpenClaw 最新安全动态总结](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504870&idx=1&sn=07ca2c138d03c6f7310ca93653e558d9)
+- 丁爸 情报分析师的工具箱
+  - [【智能简报】全球安全态势报告3.25-3.26](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154937&idx=1&sn=47287e5aee3b6501a7c587428fc4a409)
+- 微步在线研究响应中心
+  - [大规模失陷！Apifox遭投毒，请立即排查](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508474&idx=1&sn=0c54bef0fb110b738a49459efda40b59)
+- 安全研究GoSSIP
+  - [G.O.S.S.I.P 阅读推荐 2026-03-26 先污染后治理](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501532&idx=1&sn=95dc19eddef4062a22d0db205b45d01c)
 - 天黑说嘿话
   - [AI赋能CTF比赛-Web类(burpmcp+kalimcp)](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486032&idx=1&sn=009cb8113ec064236ef2974e38388c55)
 - 中国信息安全
@@ -114,79 +115,63 @@
   - [专家解读 | 健全衍生数据治理机制 释放数字经济新动能](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664260693&idx=3&sn=da8ef1bfcd42c30e873294357d5a6760)
   - [观点 | 探索人工智能环境下的数据安全治理路径](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664260693&idx=4&sn=8a8256db611c822ec41970205612b749)
   - [评论 | 强化打击跨境电诈的执法合力](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664260693&idx=5&sn=18cd5fe3be220b29b08d65cd0349e874)
-- 丁爸 情报分析师的工具箱
-  - [【智能简报】全球安全态势报告3.25-3.26](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154937&idx=1&sn=47287e5aee3b6501a7c587428fc4a409)
 - 软件安全与逆向分析
   - [安卓逆向第二阶段正式完结！三阶段来了，EXP开发、Frida与AI逆向机器人、算法还原与模拟、设备指纹与游戏分析。木鱼沙箱内测](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485085&idx=1&sn=967334ef09adfaa7d93c6b34c7a9ed6c)
-- M01N Team
-  - [LiteLLM 供应链投毒深度分析：从 TeamPCP 连环攻击到全生态沦陷判](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247494863&idx=1&sn=7dfc3a5beaa6eb8e38a24f1450827fbd)
-  - [APIFox 供应链投毒事件复盘：从 Electron 安全配置缺陷到 CDN 劫持](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247494863&idx=2&sn=dbaabd7f93aaa9c961bbf753976cc17d)
-- 安全圈
-  - [【安全圈】虚假OpenClaw代币赠礼活动瞄准GitHub开发者实施钱包清空骗局](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075088&idx=1&sn=71cd7820c01815c7b770f53e468fcd83)
-  - [【安全圈】卡巴斯基示警微软用户：无代码 AI 工具沦为网络钓鱼“隐形外衣”](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075088&idx=2&sn=71496ed1e08e5c9b7d745e2d11c04b19)
-  - [【安全圈】热门 Python 库 LiteLLM 遭供应链攻击，后门窃取凭证和认证令牌](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075088&idx=3&sn=5830d0e4862c2617707d91d60742e15d)
-- 微步在线
-  - [硅基员工一名，即将空降](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650185716&idx=1&sn=4822cbbaeadf4c6113dd2632326daade)
-- 安全研究GoSSIP
-  - [G.O.S.S.I.P 阅读推荐 2026-03-26 先污染后治理](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501532&idx=1&sn=95dc19eddef4062a22d0db205b45d01c)
 - 安全牛
   - [Gemini API密钥“静默升级”：一场隐藏在AI浪潮中的账单炸弹](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140889&idx=1&sn=b2d4a8b26464d331013e1f118f354b41)
   - [Google提前至2029年部署抗量子加密，行业迁移压力加剧；GitHub通知机制被滥用，OpenClaw开发者遭钱包清空型钓鱼攻击 | 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140889&idx=2&sn=fa0ebd11a7dfbb16b542893888c5bb2d)
   - [《AI赋能数据安全自动化运营实践》 报告调研启动](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140889&idx=3&sn=76dc7fa39eafac28e61dda555020bd24)
+- 黑哥虾撩
+  - [Apifox 供应链攻击事件（AiPy自查）](https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484515&idx=1&sn=1917db6a29df23615dd978ef942aeedf)
+- 奇安信威胁情报中心
+  - [又一个开发工具沦陷，Apifox遭供应链投毒攻击](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518109&idx=1&sn=b9d326d632994618da5d45bf84923834)
+- 微步在线
+  - [硅基员工一名，即将空降](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650185716&idx=1&sn=4822cbbaeadf4c6113dd2632326daade)
 - NOVASEC
   - [【工具】revsuit dns/http/mysql/rmi/ldap/ftp Log记录器更新](https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490831&idx=1&sn=8717605c3aa831d22f361dec78a46d3a)
+- 安全圈
+  - [【安全圈】虚假OpenClaw代币赠礼活动瞄准GitHub开发者实施钱包清空骗局](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075088&idx=1&sn=71cd7820c01815c7b770f53e468fcd83)
+  - [【安全圈】卡巴斯基示警微软用户：无代码 AI 工具沦为网络钓鱼“隐形外衣”](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075088&idx=2&sn=71496ed1e08e5c9b7d745e2d11c04b19)
+  - [【安全圈】热门 Python 库 LiteLLM 遭供应链攻击，后门窃取凭证和认证令牌](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075088&idx=3&sn=5830d0e4862c2617707d91d60742e15d)
 - 补天平台
   - [AI Skills 安全分析：机遇与挑战并存的双刃剑](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510480&idx=1&sn=b70d693a686b11728c0a61e6adfa9d7c)
+- M01N Team
+  - [LiteLLM 供应链投毒深度分析：从 TeamPCP 连环攻击到全生态沦陷判](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247494863&idx=1&sn=7dfc3a5beaa6eb8e38a24f1450827fbd)
+  - [APIFox 供应链投毒事件复盘：从 Electron 安全配置缺陷到 CDN 劫持](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247494863&idx=2&sn=dbaabd7f93aaa9c961bbf753976cc17d)
+- 数世咨询
+  - [RSAC：不要将预算从现有安全工具转向人工智能](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542244&idx=1&sn=45b8602bcbb29f0d00224e37ac19d480)
+  - [直播预约 | 见证一名硅基员工 空降过程](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542244&idx=2&sn=50a0ecc7646b0087eb1e10e158973b37)
 - 极客公园
   - [那个靠「玩灯」出圈的手机品牌，现在想用 AI 让你自己在手机上造 App](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653102128&idx=1&sn=cc4a28361739d0b5830ad84e6ae6dec4)
   - [前阿里 90 后 P10 ，要造 AI 世代的「哈利波特」，而入口是一张 NFC 卡片](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653102094&idx=1&sn=50f318e048c74ef811f172b1a3066341)
   - [赚钱和 AI，Keep 都想要](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653102094&idx=2&sn=9b045946dc05f59d939c3d8b00b03ce6)
 - 腾讯安全威胁情报中心
   - [OpenClaw 近期安全漏洞修复汇总报告](https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247511501&idx=1&sn=dee1f9ede8c0605190a859354bb8cbdd)
+- 枇杷熟了
+  - [紧急预警 | AI开发者必看LiteLLM遭PyPI供应链投毒](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489999&idx=1&sn=342415eb7c1402f6320d8f78b18b4350)
 - 嘶吼专业版
   - [AI时代中国网络安全产业的五年变局|| 影子AI之困：企业数据安全最大的灰犀牛](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587409&idx=1&sn=cdc17965f73fd15763743dd115c4b459)
   - [下周一截止！《2026 AI+网络安全产业生态图谱》调研申报即将结束](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587409&idx=2&sn=1343194cff398c96447eaa5196541227)
   - [嘶吼安全动态｜工信部征求AI安全治理标准，规范模型上下文协议安全 浙江警方破获特大电商数据泄露案，200万条订单信息被贩卖](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587409&idx=3&sn=00827adf1dbc72ef482293f85cf1da3c)
-- 黑哥虾撩
-  - [Apifox 供应链攻击事件（AiPy自查）](https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484515&idx=1&sn=1917db6a29df23615dd978ef942aeedf)
-- 绿盟科技CERT
-  - [【安全事件】AI基础设施LiteLLM供应链投毒预警通告](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489507&idx=1&sn=34b44ac3e9bb12cda50508a3286940d4)
-  - [【安全事件】Apifox桌面客户端遭供应链投毒分析](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489507&idx=2&sn=31fafa29056a73a0841d4d11d998b83d)
+- 美团技术团队
+  - [2026 美团科研合作课题 | 公开征集启动](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782413&idx=1&sn=060ff0526e84e1813875104a55c1f0c2)
 - 情报分析师
   - [你发的每一条动态，都是别人眼里的情报！情报视角下的社交平台，普通人到底暴露了多少自己](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567246&idx=1&sn=b9308bb001ac36390f7c42cc422f1e64)
   - [美日关键矿产行动计划深度分析——稀土价格规则重构、制度性去我化与我战略风险研判](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567246&idx=2&sn=68868dab77f89d57932ba1e4502b675f)
-- 数世咨询
-  - [RSAC：不要将预算从现有安全工具转向人工智能](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542244&idx=1&sn=45b8602bcbb29f0d00224e37ac19d480)
-  - [直播预约 | 见证一名硅基员工 空降过程](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542244&idx=2&sn=50a0ecc7646b0087eb1e10e158973b37)
-- 美团技术团队
-  - [2026 美团科研合作课题 | 公开征集启动](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782413&idx=1&sn=060ff0526e84e1813875104a55c1f0c2)
-- Chaos Computer Club - last 100 events feed
-  - [Archivierung von OpenStreetMap (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84221-deu-Archivierung_von_OpenStreetMap_hd.mp4)
-  - [Weinberg digital: Smarte Weinberge mit QGIS & QField (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84117-deu-Weinberg_digital_Smarte_Weinberge_mit_QGIS_QField_hd.mp4)
-  - [Wie zuverlässig sind OpenStreetMap-Daten für LKW-Routing? (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84163-deu-Wie_zuverlaessig_sind_OpenStreetMap-Daten_fuer_LKW-Routing_hd.mp4)
-  - [QGIS Web Client - Neues aus dem Projekt (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84218-deu-QGIS_Web_Client_-_Neues_aus_dem_Projekt_hd.mp4)
-  - [Bustracking mit der EFA JSON API: Daten- und Analyse-Update (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84260-deu-Bustracking_mit_der_EFA_JSON_API_Daten-_und_Analyse-Update_hd.mp4)
-  - [QGIS basierte Windparkplanung für alle mit dem SATURN Planer (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84068-deu-QGIS_basierte_Windparkplanung_fuer_alle_mit_dem_SATURN_Planer_hd.mp4)
-  - [Smarte Wege im Chaos: Echtzeit-Mobilitätsanalysen für Katastropheneinsätze (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84274-deu-Smarte_Wege_im_Chaos_Echtzeit-Mobilitaetsanalysen_fuer_Katastropheneinsaetze_hd.mp4)
-  - [Kombination des Openrouteservice mit Emissionsmodelldaten des Umweltbundesamtes (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84262-deu-Kombination_des_Openrouteservice_mit_Emissionsmodelldaten_des_Umweltbundesamtes_hd.mp4)
-  - [Schnellere Karten, kleinere MapLibre Vektorkacheln und weitere Neuerungen (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-83258-deu-Schnellere_Karten_kleinere_MapLibre_Vektorkacheln_und_weitere_Neuerungen_hd.mp4)
-  - [Arbeit mit standardisierten Karten - Dynamische Kartenerstellung mit PyQGIS (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84267-deu-Arbeit_mit_standardisierten_Karten_-_Dynamische_Kartenerstellung_mit_PyQGIS_hd.mp4)
-  - [Erfahrungsbericht Mergin Maps: eine 'neue' Open-Source-Lösung für Felddatenerfassung (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84252-deu-Erfahrungsbericht_Mergin_Maps_eine_neue_Open-Source-Loesung_fuer_Felddatenerfassung_hd.mp4)
-  - [Stadtnavi - Eine einheitliche Lösung für verschiedene Angebote (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84343-deu-Stadtnavi_-_Eine_einheitliche_Loesung_fuer_verschiedene_Angebote_hd.mp4)
-  - [GeoServer 3 – Der große technische Umbau (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84217-deu-GeoServer_3_-_Der_grosse_technische_Umbau_hd.mp4)
-  - [Herausforderung Adresse im Versorgungsunternehmen (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-83746-deu-Herausforderung_Adresse_im_Versorgungsunternehmen_hd.mp4)
-  - [Mapbender in neuem Design und Unterstützung weiterer Datenquellen (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-83719-deu-Mapbender_in_neuem_Design_und_Unterstuetzung_weiterer_Datenquellen_hd.mp4)
-  - [QField in der Forstwirtschaft: Mobile Planung und Kartierung im Naturraum (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84337-deu-QField_in_der_Forstwirtschaft_Mobile_Planung_und_Kartierung_im_Naturraum_hd.mp4)
-  - [OpenStreetMap-Daten als Grundlage für Routing – wie gut funktioniert das wirklich? (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84139-deu-OpenStreetMap-Daten_als_Grundlage_fuer_Routing_-_wie_gut_funktioniert_das_wirklich_hd.mp4)
-  - [Routing mit MOTIS (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-82939-deu-Routing_mit_MOTIS_hd.mp4)
-- bellingcat
-  - [Evidence Points to US Scattering Mines over Iranian Village](https://www.bellingcat.com/news/2026/03/26/us-iran-mines-israel-village-missile-munitions-weapons-war-conflict/)
-- 枇杷熟了
-  - [紧急预警 | AI开发者必看LiteLLM遭PyPI供应链投毒](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489999&idx=1&sn=342415eb7c1402f6320d8f78b18b4350)
 - 安全行者老霍
   - [首席信息安全官要保障现实和未来的安全](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486212&idx=1&sn=688d20f76c8b75beac01bc3f35986cc1)
+- bellingcat
+  - [Evidence Points to US Scattering Mines over Iranian Village](https://www.bellingcat.com/news/2026/03/26/us-iran-mines-israel-village-missile-munitions-weapons-war-conflict/)
 - 吾爱破解论坛
   - [AIDA64 8.25.8200 Business 逆向工程与Keygen实战](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143991&idx=1&sn=8721fe93154f30d3c405ba980ba2df5d)
+- TrustedSec
+  - [Policy as Code: Stop Writing Policies and Start Compiling Them](https://trustedsec.com/blog/policy-as-code-stop-writing-policies-and-start-compiling-them)
+- ICT Security Magazine
+  - [TeamPCP avvelena LiteLLM: la supply chain Python per sviluppatori AI sotto attacco](https://www.ictsecuritymagazine.com/notizie/litellm-supply-chain/)
+  - [LAPSUS$ rivendica data breach di AstraZeneca: codice sorgente, chiavi cloud e dati interni in vendita sul Dark Web](https://www.ictsecuritymagazine.com/notizie/lapsus-astrazeneca/)
+  - [Il Giappone autorizza l'”Hack Back”: da ottobre 2026 Tokyo potrà colpire i cyber-attaccanti](https://www.ictsecuritymagazine.com/notizie/giappone-hack-back/)
+- 迪哥讲事
+  - [xss绕过](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499225&idx=1&sn=e6f32a6479cafdf08aabc05e2239f03d)
 - Over Security - Cybersecurity news aggregator
   - [Web Shells: Types, Mitigation & Removal](https://blog.sucuri.net/2026/03/web-shells.html)
   - [Ajax football club hack exposed fan data, enabled ticket hijack](https://www.bleepingcomputer.com/news/security/ajax-football-club-hack-exposed-fan-data-enabled-ticket-hijack/)
@@ -221,67 +206,55 @@
   - [Resilienza digitale 2.0: integrare l’AI nel perimetro di sicurezza DORA](https://www.cybersecurity360.it/legal/resilienza-digitale-2-0-integrare-lai-nel-perimetro-di-sicurezza-dora/)
   - [La nuova Cyber Strategy USA va oltre i confini nazionali: i 6 pilastri operativi](https://www.cybersecurity360.it/cybersecurity-nazionale/la-nuova-cyber-strategy-usa-va-oltre-i-confini-nazionali-i-6-pilastri-operativi/)
   - [Node.js Fixes Critical Flaws, Patches DoS Risk in Latest Security Update](https://thecyberexpress.com/nodejs-cve-2026-21637/)
-  - [Attacco alla sanità: ecco perché una cartella clinica vale fino a mille euro nel dark web](https://www.cybersecurity360.it/news/attacco-alla-sanita-ecco-perche-una-cartella-clinica-vale-fino-a-mille-euro-nel-dark-web/)
-  - [Coruna: the framework used in Operation Triangulation](https://securelist.com/coruna-framework-updated-operation-triangulation-exploit/119228/)
-  - [Port of Vigo Hit by Ransomware Attack, Cargo Systems Disrupted](https://thecyberexpress.com/port-of-vigo-cyberattack-disrupts-systems/)
-  - [The Energy Sector’s Ransomware Nightmare: Why Critical Infrastructure Can’t Catch a Break](https://cyble.com/blog/energy-sector-ransomware-attack-report/)
-- Have I Been Pwned latest breaches
-  - [Scuf Gaming - 128,683 breached accounts](https://haveibeenpwned.com/Breach/ScufGaming)
-  - [Sound Radix - 292,993 breached accounts](https://haveibeenpwned.com/Breach/SoundRadix)
-- TrustedSec
-  - [Policy as Code: Stop Writing Policies and Start Compiling Them](https://trustedsec.com/blog/policy-as-code-stop-writing-policies-and-start-compiling-them)
-- SANS Internet Storm Center, InfoCON: green
-  - [TeamPCP Supply Chain Campaign: Update 001 - Checkmarx Scope Wider Than Reported, CISA KEV Entry, and Detection Tools Available, (Thu, Mar 26th)](https://isc.sans.edu/diary/rss/32834)
-  - [ISC Stormcast For Thursday, March 26th, 2026 https://isc.sans.edu/podcastdetail/9866, (Thu, Mar 26th)](https://isc.sans.edu/diary/rss/32832)
-- ICT Security Magazine
-  - [TeamPCP avvelena LiteLLM: la supply chain Python per sviluppatori AI sotto attacco](https://www.ictsecuritymagazine.com/notizie/litellm-supply-chain/)
-  - [LAPSUS$ rivendica data breach di AstraZeneca: codice sorgente, chiavi cloud e dati interni in vendita sul Dark Web](https://www.ictsecuritymagazine.com/notizie/lapsus-astrazeneca/)
-  - [Il Giappone autorizza l'”Hack Back”: da ottobre 2026 Tokyo potrà colpire i cyber-attaccanti](https://www.ictsecuritymagazine.com/notizie/giappone-hack-back/)
 - Schneier on Security
   - [As the US Midterms Approach, AI Is Going to Emerge as a Key Issue Concerning Voters](https://www.schneier.com/blog/archives/2026/03/as-the-us-midterms-approach-ai-is-going-to-emerge-as-a-key-issue-concerning-voters.html)
 - 熵减矩阵
   - [NVIDIA 对 Agent 安全问题交出的答卷：OpenShell 深度架构分析](https://mp.weixin.qq.com/s?__biz=Mzg2MTc1NDAxMA==&mid=2247485196&idx=1&sn=013d08a1a57a2973ef1e35ba1c8e09d0)
-- The Hacker News
-  - [China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks](https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html)
-  - [[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks](https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html)
-  - [Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website](https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html)
-  - [Masters of Imitation: How Hackers and Art Forgers Perfect the Art of Deception](https://thehackernews.com/2026/03/masters-of-imitation-how-hackers-and.html)
-  - [ThreatsDay Bulletin: PQC Push, AI Vuln Hunting, Pirated Traps, Phishing Kits & 20 More Stories](https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html)
-  - [Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in Recent Mass Attacks](https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html)
-  - [WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites](https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html)
+- Have I Been Pwned latest breaches
+  - [Scuf Gaming - 128,683 breached accounts](https://haveibeenpwned.com/Breach/ScufGaming)
+  - [Sound Radix - 292,993 breached accounts](https://haveibeenpwned.com/Breach/SoundRadix)
+- SANS Internet Storm Center, InfoCON: green
+  - [TeamPCP Supply Chain Campaign: Update 001 - Checkmarx Scope Wider Than Reported, CISA KEV Entry, and Detection Tools Available, (Thu, Mar 26th)](https://isc.sans.edu/diary/rss/32834)
+  - [ISC Stormcast For Thursday, March 26th, 2026 https://isc.sans.edu/podcastdetail/9866, (Thu, Mar 26th)](https://isc.sans.edu/diary/rss/32832)
+- Chaos Computer Club - last 100 events feed
+  - [Archivierung von OpenStreetMap (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84221-deu-Archivierung_von_OpenStreetMap_hd.mp4)
+  - [Weinberg digital: Smarte Weinberge mit QGIS & QField (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84117-deu-Weinberg_digital_Smarte_Weinberge_mit_QGIS_QField_hd.mp4)
+  - [QGIS Web Client - Neues aus dem Projekt (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84218-deu-QGIS_Web_Client_-_Neues_aus_dem_Projekt_hd.mp4)
+  - [Bezahltes Mapping – Beispiel Barrierefreie Reisekette (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84142-deu-Bezahltes_Mapping_-_Beispiel_Barrierefreie_Reisekette_hd.mp4)
+  - [Fußverkehrssicherheit mit offenen Daten verbessern (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84269-deu-Fussverkehrssicherheit_mit_offenen_Daten_verbessern_hd.mp4)
+  - [QGIS basierte Windparkplanung für alle mit dem SATURN Planer (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84068-deu-QGIS_basierte_Windparkplanung_fuer_alle_mit_dem_SATURN_Planer_hd.mp4)
+  - [Flurstückssuche in QGIS - Zum Stand eines deutschlandweiten Ansatzes (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84277-deu-Flurstueckssuche_in_QGIS_-_Zum_Stand_eines_deutschlandweiten_Ansatzes_hd.mp4)
+  - [Wie zuverlässig sind OpenStreetMap-Daten für LKW-Routing? (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84163-deu-Wie_zuverlaessig_sind_OpenStreetMap-Daten_fuer_LKW-Routing_hd.mp4)
+  - [Erfahrungsbericht Mergin Maps: eine 'neue' Open-Source-Lösung für Felddatenerfassung (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84252-deu-Erfahrungsbericht_Mergin_Maps_eine_neue_Open-Source-Loesung_fuer_Felddatenerfassung_hd.mp4)
+  - [Herausforderung Adresse im Versorgungsunternehmen (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-83746-deu-Herausforderung_Adresse_im_Versorgungsunternehmen_hd.mp4)
+  - [Mapbender in neuem Design und Unterstützung weiterer Datenquellen (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-83719-deu-Mapbender_in_neuem_Design_und_Unterstuetzung_weiterer_Datenquellen_hd.mp4)
+  - [QField in der Forstwirtschaft: Mobile Planung und Kartierung im Naturraum (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84337-deu-QField_in_der_Forstwirtschaft_Mobile_Planung_und_Kartierung_im_Naturraum_hd.mp4)
+  - [Smarte Wege im Chaos: Echtzeit-Mobilitätsanalysen für Katastropheneinsätze (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84274-deu-Smarte_Wege_im_Chaos_Echtzeit-Mobilitaetsanalysen_fuer_Katastropheneinsaetze_hd.mp4)
+  - [Schnellere Karten, kleinere MapLibre Vektorkacheln und weitere Neuerungen (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-83258-deu-Schnellere_Karten_kleinere_MapLibre_Vektorkacheln_und_weitere_Neuerungen_hd.mp4)
+  - [GeoServer 3 – Der große technische Umbau (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84217-deu-GeoServer_3_-_Der_grosse_technische_Umbau_hd.mp4)
+  - [Datenräume - Wie kann die GDI-DE beim Ausbau Erneuerbarer helfen? (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84281-deu-Datenraeume_-_Wie_kann_die_GDI-DE_beim_Ausbau_Erneuerbarer_helfen_hd.mp4)
+  - [Viele Hände, schnelles Ende - QGIS-Server-Light (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84282-deu-Viele_Haende_schnelles_Ende_-_QGIS-Server-Light_hd.mp4)
+  - [Warum ich nach 25 Jahren den MapServer immer noch lieb habe (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84033-deu-Warum_ich_nach_25_Jahren_den_MapServer_immer_noch_lieb_habe_hd.mp4)
+  - [Stadtnavi - Eine einheitliche Lösung für verschiedene Angebote (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84343-deu-Stadtnavi_-_Eine_einheitliche_Loesung_fuer_verschiedene_Angebote_hd.mp4)
+  - [Bustracking mit der EFA JSON API: Daten- und Analyse-Update (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84260-deu-Bustracking_mit_der_EFA_JSON_API_Daten-_und_Analyse-Update_hd.mp4)
+  - [Kombination des Openrouteservice mit Emissionsmodelldaten des Umweltbundesamtes (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84262-deu-Kombination_des_Openrouteservice_mit_Emissionsmodelldaten_des_Umweltbundesamtes_hd.mp4)
+  - [Leaflet 2.0 kommt – jetzt ist es offiziell! (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84225-deu-Leaflet_20_kommt_-_jetzt_ist_es_offiziell_hd.mp4)
+  - [Routing mit MOTIS (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-82939-deu-Routing_mit_MOTIS_hd.mp4)
+  - [Arbeit mit standardisierten Karten - Dynamische Kartenerstellung mit PyQGIS (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84267-deu-Arbeit_mit_standardisierten_Karten_-_Dynamische_Kartenerstellung_mit_PyQGIS_hd.mp4)
+  - [OpenStreetMap-Daten als Grundlage für Routing – wie gut funktioniert das wirklich? (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84139-deu-OpenStreetMap-Daten_als_Grundlage_fuer_Routing_-_wie_gut_funktioniert_das_wirklich_hd.mp4)
+  - [QGIS vs. R - der Live-Vergleich (fossgis2026)](https://cdn.media.ccc.de/events/fossgis/2026/h264-hd/fossgis2026-84146-deu-QGIS_vs_R_-_der_Live-Vergleich_hd.mp4)
 - GRAHAM CLULEY
   - [World Leaks data extortion: What you need to know](https://www.fortra.com/blog/world-leaks-data-extortion-what-you-need-know)
   - [Smashing Security podcast #460: Never knock on the door of a nuclear submarine base and ask for a selfie](https://grahamcluley.com/smashing-security-podcast-460/)
-- Deep Web
-  - [Epstein](https://www.reddit.com/r/deepweb/comments/1s4hiym/epstein/)
 - Tor Project blog
   - [New Release: Tails 7.6](https://blog.torproject.org/new-release-tails-7_6/)
+- Computer Forensics
+  - [How are we pulling iMessages from iCloud?](https://www.reddit.com/r/computerforensics/comments/1s4jlcs/how_are_we_pulling_imessages_from_icloud/)
+  - [Forensic audit on ex-admin: How to track unauthorized file copying and lateral movement?](https://www.reddit.com/r/computerforensics/comments/1s46113/forensic_audit_on_exadmin_how_to_track/)
+  - [Champlain MS in Digital Forensic Science vs. MS in Digital Forensic Analytics](https://www.reddit.com/r/computerforensics/comments/1s3ywhg/champlain_ms_in_digital_forensic_science_vs_ms_in/)
 - Blackhat Library: Hacking techniques and research
   - [Guys just poll it](https://www.reddit.com/r/blackhat/comments/1s4gi2r/guys_just_poll_it/)
   - [YC demo day had 196 startups… nobody’s talking about the security side of all this](https://www.reddit.com/r/blackhat/comments/1s44y67/yc_demo_day_had_196_startups_nobodys_talking/)
-- Information Security
-  - [Participants needed for university research on deepfake detection (18+, Computing Related Fields, 8–10 min)](https://www.reddit.com/r/Information_Security/comments/1s4c5pb/participants_needed_for_university_research_on/)
-  - [Detection Engineers/SOC Analysts: Wondering about what was the most useful thing you guys found that really helped to bridge the gap in terms of the lack of context in order to fine tune the alert more easily. -or claim as False Positive quickly-](https://www.reddit.com/r/Information_Security/comments/1s4hmgv/detection_engineerssoc_analysts_wondering_about/)
-  - [Meet LeakNet - the ransomware group that gets you to hack yourself](https://www.reddit.com/r/Information_Security/comments/1s4gnz6/meet_leaknet_the_ransomware_group_that_gets_you/)
-  - [Risk Justification Engine - Is this a framework engine that would help CISOS](https://www.reddit.com/r/Information_Security/comments/1s4bajh/risk_justification_engine_is_this_a_framework/)
-  - [Risk Justification Engine - Is this a Frame that help with politics flow](https://www.reddit.com/r/Information_Security/comments/1s4b7se/risk_justification_engine_is_this_a_frame_that/)
-  - [How a single unpatched Go dependency almost cost us a SOC 2 certification](https://www.reddit.com/r/Information_Security/comments/1s42n24/how_a_single_unpatched_go_dependency_almost_cost/)
-- 迪哥讲事
-  - [xss绕过](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499225&idx=1&sn=e6f32a6479cafdf08aabc05e2239f03d)
-- Security Affairs
-  - [U.S. CISA adds a Langflow flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/190018/security/u-s-cisa-adds-a-langflow-flaw-to-its-known-exploited-vulnerabilities-catalog.html)
-  - [Coruna exploit reveals evolution of Triangulation iOS exploitation framework](https://securityaffairs.com/190010/security/coruna-exploit-reveals-evolution-of-triangulation-ios-exploitation-framework.html)
-  - [Researchers uncover WebRTC skimmer bypassing traditional defenses](https://securityaffairs.com/190002/malware/researchers-uncover-webrtc-skimmer-bypassing-traditional-defenses.html)
-  - [Russian authorities arrest alleged LeakBase admin behind stolen data marketplace](https://securityaffairs.com/189994/cyber-crime/russian-authorities-arrest-alleged-leakbase-admin-behind-stolen-data-marketplace.html)
-- netsecstudents: Subreddit for students studying Network Security and its related subjects
-  - [can you guys pls explain to me how email account get hacked and what to do after?](https://www.reddit.com/r/netsecstudents/comments/1s4oa91/can_you_guys_pls_explain_to_me_how_email_account/)
-  - [Shadow AI is outpacing IT’s ability to track it, and the real issue isn’t security](https://www.reddit.com/r/netsecstudents/comments/1s44eom/shadow_ai_is_outpacing_its_ability_to_track_it/)
-  - [Looking for a beginner learning partner in cybersecurity](https://www.reddit.com/r/netsecstudents/comments/1s46poq/looking_for_a_beginner_learning_partner_in/)
-  - [This might sound cheesy, but does anyone know of a community/group I could join focused on netsec?](https://www.reddit.com/r/netsecstudents/comments/1s40ovb/this_might_sound_cheesy_but_does_anyone_know_of_a/)
-  - [Made a CTF from a server I actually had in production — 10 routes, AI coach optional](https://www.reddit.com/r/netsecstudents/comments/1s43qlg/made_a_ctf_from_a_server_i_actually_had_in/)
-- Deeplinks
-  - [Traffic Violation! License Plate Reader Mission Creep Is Already Here](https://www.eff.org/deeplinks/2026/03/traffic-violation-license-plate-reader-mission-creep-already-here)
-  - [Supreme Court Agrees With EFF: ISPs Don't Have To Be Copyright Enforcers](https://www.eff.org/deeplinks/2026/03/supreme-court-agrees-eff-isps-dont-have-be-copyright-enforcers)
 - Technical Information Security Content & Discussion
   - [Disabling Security Features in a Locked BIOS](https://www.reddit.com/r/netsec/comments/1s4l9k8/disabling_security_features_in_a_locked_bios/)
   - [Making NTLM-Relaying Relevant Again by Attacking Web Servers with WebRelayX](https://www.reddit.com/r/netsec/comments/1s46mif/making_ntlmrelaying_relevant_again_by_attacking/)
@@ -294,9 +267,36 @@
 - Your Open Hacker Community
   - [getting sims saves off a locked computer](https://www.reddit.com/r/HowToHack/comments/1s4ibha/getting_sims_saves_off_a_locked_computer/)
   - [What is the most profitable thing in hacking without the need to be a NSA level hacker?](https://www.reddit.com/r/HowToHack/comments/1s3uxum/what_is_the_most_profitable_thing_in_hacking/)
-- Computer Forensics
-  - [How are we pulling iMessages from iCloud?](https://www.reddit.com/r/computerforensics/comments/1s4jlcs/how_are_we_pulling_imessages_from_icloud/)
-  - [Forensic audit on ex-admin: How to track unauthorized file copying and lateral movement?](https://www.reddit.com/r/computerforensics/comments/1s46113/forensic_audit_on_exadmin_how_to_track/)
-  - [Champlain MS in Digital Forensic Science vs. MS in Digital Forensic Analytics](https://www.reddit.com/r/computerforensics/comments/1s3ywhg/champlain_ms_in_digital_forensic_science_vs_ms_in/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [can you guys pls explain to me how email account get hacked and what to do after?](https://www.reddit.com/r/netsecstudents/comments/1s4oa91/can_you_guys_pls_explain_to_me_how_email_account/)
+  - [Looking for a beginner learning partner in cybersecurity](https://www.reddit.com/r/netsecstudents/comments/1s46poq/looking_for_a_beginner_learning_partner_in/)
+  - [Shadow AI is outpacing IT’s ability to track it, and the real issue isn’t security](https://www.reddit.com/r/netsecstudents/comments/1s44eom/shadow_ai_is_outpacing_its_ability_to_track_it/)
+  - [This might sound cheesy, but does anyone know of a community/group I could join focused on netsec?](https://www.reddit.com/r/netsecstudents/comments/1s40ovb/this_might_sound_cheesy_but_does_anyone_know_of_a/)
+  - [Made a CTF from a server I actually had in production — 10 routes, AI coach optional](https://www.reddit.com/r/netsecstudents/comments/1s43qlg/made_a_ctf_from_a_server_i_actually_had_in/)
+- Security Affairs
+  - [U.S. CISA adds a Langflow flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/190018/security/u-s-cisa-adds-a-langflow-flaw-to-its-known-exploited-vulnerabilities-catalog.html)
+  - [Coruna exploit reveals evolution of Triangulation iOS exploitation framework](https://securityaffairs.com/190010/security/coruna-exploit-reveals-evolution-of-triangulation-ios-exploitation-framework.html)
+  - [Researchers uncover WebRTC skimmer bypassing traditional defenses](https://securityaffairs.com/190002/malware/researchers-uncover-webrtc-skimmer-bypassing-traditional-defenses.html)
+  - [Russian authorities arrest alleged LeakBase admin behind stolen data marketplace](https://securityaffairs.com/189994/cyber-crime/russian-authorities-arrest-alleged-leakbase-admin-behind-stolen-data-marketplace.html)
+- The Hacker News
+  - [China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks](https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html)
+  - [[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks](https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html)
+  - [Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website](https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html)
+  - [Masters of Imitation: How Hackers and Art Forgers Perfect the Art of Deception](https://thehackernews.com/2026/03/masters-of-imitation-how-hackers-and.html)
+  - [ThreatsDay Bulletin: PQC Push, AI Vuln Hunting, Pirated Traps, Phishing Kits & 20 More Stories](https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html)
+  - [Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in Recent Mass Attacks](https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html)
+  - [WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites](https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html)
+- Deeplinks
+  - [Traffic Violation! License Plate Reader Mission Creep Is Already Here](https://www.eff.org/deeplinks/2026/03/traffic-violation-license-plate-reader-mission-creep-already-here)
+  - [Supreme Court Agrees With EFF: ISPs Don't Have To Be Copyright Enforcers](https://www.eff.org/deeplinks/2026/03/supreme-court-agrees-eff-isps-dont-have-be-copyright-enforcers)
+- Deep Web
+  - [Epstein](https://www.reddit.com/r/deepweb/comments/1s4hiym/epstein/)
+- Information Security
+  - [Participants needed for university research on deepfake detection (18+, Computing Related Fields, 8–10 min)](https://www.reddit.com/r/Information_Security/comments/1s4c5pb/participants_needed_for_university_research_on/)
+  - [Detection Engineers/SOC Analysts: Wondering about what was the most useful thing you guys found that really helped to bridge the gap in terms of the lack of context in order to fine tune the alert more easily. -or claim as False Positive quickly-](https://www.reddit.com/r/Information_Security/comments/1s4hmgv/detection_engineerssoc_analysts_wondering_about/)
+  - [Meet LeakNet - the ransomware group that gets you to hack yourself](https://www.reddit.com/r/Information_Security/comments/1s4gnz6/meet_leaknet_the_ransomware_group_that_gets_you/)
+  - [Risk Justification Engine - Is this a framework engine that would help CISOS](https://www.reddit.com/r/Information_Security/comments/1s4bajh/risk_justification_engine_is_this_a_framework/)
+  - [Risk Justification Engine - Is this a Frame that help with politics flow](https://www.reddit.com/r/Information_Security/comments/1s4b7se/risk_justification_engine_is_this_a_frame_that/)
+  - [How a single unpatched Go dependency almost cost us a SOC 2 certification](https://www.reddit.com/r/Information_Security/comments/1s42n24/how_a_single_unpatched_go_dependency_almost_cost/)
 - Security Weekly Podcast Network (Audio)
   - [Scanning The Internet with Linux Tools - PSW #919](http://sites.libsyn.com/18678/scanning-the-internet-with-linux-tools-psw-919)
