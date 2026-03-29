@@ -1,22 +1,22 @@
 # 每日安全资讯（2026-03-29）
 
-- Recent Commits to cve:main
-  - [Update Sat Mar 28 11:16:01 UTC 2026](https://github.com/trickest/cve/commit/fac668182ba3d233fe09404a165fcc846d761c19)
 - InfoSec Write-ups - Medium
   - [FAT CAT (Forensics)— KJSSE CTF 3.0](https://infosecwriteups.com/fat-cat-forensics-kjsse-ctf-3-0-389909256dc5?source=rss----7b722bfd1b8d---4)
   - [Proving Grounds — Practice — Access](https://infosecwriteups.com/proving-grounds-practice-access-a6e6a89f4ae6?source=rss----7b722bfd1b8d---4)
   - [How I Spent 30 Days Chasing a $40,000 Bug Bounty And What I Learned the Hard Way](https://infosecwriteups.com/how-i-spent-30-days-chasing-a-40-000-bug-bounty-and-what-i-learned-the-hard-way-dc35caf61142?source=rss----7b722bfd1b8d---4)
   - [From a Silent Math Error to Certificate Bypass: Uncovering an Integer Overflow in a TLS Parser](https://infosecwriteups.com/from-a-silent-math-error-to-certificate-bypass-uncovering-an-integer-overflow-in-a-tls-parser-b73b86696f74?source=rss----7b722bfd1b8d---4)
   - [Azure Blob Storage Misconfigurations: Attacker’s Gateway to Data](https://infosecwriteups.com/azure-blob-storage-misconfigurations-attackers-gateway-to-data-b7d8e957440e?source=rss----7b722bfd1b8d---4)
-- SecWiki News
-  - [SecWiki News 2026-03-28 Review](http://www.sec-wiki.com/?2026-03-28)
 - No Headback
   - [Harness or not harness, it is a question](http://xargin.com/harness-or-not-harness-it-is-a-question/)
+- SecWiki News
+  - [SecWiki News 2026-03-28 Review](http://www.sec-wiki.com/?2026-03-28)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [How I Spent 30 Days Chasing a $40,000 Bug Bounty And What I Learned the Hard Way](https://infosecwriteups.com/how-i-spent-30-days-chasing-a-40-000-bug-bounty-and-what-i-learned-the-hard-way-dc35caf61142?source=rss----7b722bfd1b8d--bug_bounty)
   - [From a Silent Math Error to Certificate Bypass: Uncovering an Integer Overflow in a TLS Parser](https://infosecwriteups.com/from-a-silent-math-error-to-certificate-bypass-uncovering-an-integer-overflow-in-a-tls-parser-b73b86696f74?source=rss----7b722bfd1b8d--bug_bounty)
 - Toooold
   - [The Blessing of Dimensionality: How TurboQuant Uses the JL Lemma to Compress KV Caches with Zero Bias](https://toooold.com/2026/03/28/turboquant.html)
+- Recent Commits to cve:main
+  - [Update Sat Mar 28 11:16:01 UTC 2026](https://github.com/trickest/cve/commit/fac668182ba3d233fe09404a165fcc846d761c19)
 - Dancho Danchev's Blog - Mind Streams of Information Security Knowledge
   - [A Full List of Usernames and Handles from the XSS Cybercrime Friendly Forum - A Compilation](https://ddanchev.blogspot.com/2026/03/a-full-list-of-usernames-and-handles_28.html)
   - [Dissecting the XSS Cybercrime Friendly Forum Community - An Analysis](https://ddanchev.blogspot.com/2026/03/dissecting-xss-cybercrime-friendly.html)
@@ -27,81 +27,88 @@
   - [“黑暗”比光速更快](https://www.solidot.org/story?sid=83903)
   - [金·斯坦利·罗宾森称殖民火星是毫无意义的](https://www.solidot.org/story?sid=83902)
   - [长期吸入硅尘会导致矿工肺功能不可逆转的下降](https://www.solidot.org/story?sid=83901)
-- Light Cube
-  - [纯靠 Vibe，搞定 macOS 上的 HITMAN 外挂](https://github.red/hitman6-beater/)
 - 黑鸟
   - [JCal工具：爱泼斯坦所有行程被放进谷歌日历](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186004&idx=1&sn=daa8ede6456eb1cfad5f4cc4081d0a20)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [扎克伯格曾就DOGE提出向马斯克提供帮助](https://blog.upx8.com/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E6%9B%BE%E5%B0%B1DOGE%E6%8F%90%E5%87%BA%E5%90%91%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8F%90%E4%BE%9B%E5%B8%AE%E5%8A%A9)
   - [软银拿下400亿美元贷款 加码OpenAI投资](https://blog.upx8.com/%E8%BD%AF%E9%93%B6%E6%8B%BF%E4%B8%8B400%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B4%B7%E6%AC%BE-%E5%8A%A0%E7%A0%81OpenAI%E6%8A%95%E8%B5%84)
   - [伊朗拒绝两艘中国船只通过霍尔木兹海峡](https://blog.upx8.com/%E4%BC%8A%E6%9C%97%E6%8B%92%E7%BB%9D%E4%B8%A4%E8%89%98%E4%B8%AD%E5%9B%BD%E8%88%B9%E5%8F%AA%E9%80%9A%E8%BF%87%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1)
-- 安全分析与研究
-  - [APT攻击完整流程](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496623&idx=1&sn=46d2e0509d21684111d590a274b027bb)
-- 漕河泾小黑屋
-  - [ProcIR-面向安全工程师的一键式应急响应工具](https://mp.weixin.qq.com/s?__biz=MzA4NzQwNzY3OQ==&mid=2247484049&idx=1&sn=7091f36d40164fcd7e8a3d5dc7371e3d)
 - 青衣十三楼飞花堂
   - [已知a+b=5，求√(a+1)+√(b+3)最大值](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489237&idx=1&sn=0016f09e460ccff504fb5f85973d30f8)
-- 奇安信 CERT
-  - [今日（2026年3月28日）OpenClaw 最新安全动态总结](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504879&idx=1&sn=8f9f9e66b6b0b835f3fad611fb835ecb)
-- 天御攻防实验室
-  - [数亿台苹果手机面临被黑客入侵的风险](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486853&idx=1&sn=8eb2fe1c6931341dd6eaf776a7c97717)
-- 丁爸 情报分析师的工具箱
-  - [【龙虾报告】美军对伊朗的地面行动会在哪里？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154958&idx=1&sn=30cee0f10ae0d3571c86dfb3eca625db)
 - 看雪学苑
   - [APP frida 检测绕过详解：定位 JNI 动态注册 Native 函数，Hook 核心检测函数](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458612708&idx=1&sn=5afc9fc4907505c16a534e10fb762401)
-- 安全圈
-  - [【安全圈】突发！FBI 局长遭伊朗黑客 “开盒”](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075160&idx=1&sn=909870ed4b9e7d5e2a8685c55b23159a)
-  - [【安全圈】警惕！只需一个举动，你可能已经犯罪](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075160&idx=2&sn=17ef85e58e17f2257b11047e530dfaae)
-  - [【安全圈】24小时68起数据泄露！攻击者单日狂扫10家巴西企业](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075160&idx=3&sn=2dd513bcf92a984f5c5fa8694f2befec)
+- 安全分析与研究
+  - [APT攻击完整流程](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496623&idx=1&sn=46d2e0509d21684111d590a274b027bb)
+- 丁爸 情报分析师的工具箱
+  - [【龙虾报告】美军对伊朗的地面行动会在哪里？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154958&idx=1&sn=30cee0f10ae0d3571c86dfb3eca625db)
+- 天御攻防实验室
+  - [数亿台苹果手机面临被黑客入侵的风险](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486853&idx=1&sn=8eb2fe1c6931341dd6eaf776a7c97717)
+- 奇安信 CERT
+  - [今日（2026年3月28日）OpenClaw 最新安全动态总结](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504879&idx=1&sn=8f9f9e66b6b0b835f3fad611fb835ecb)
+- Light Cube
+  - [纯靠 Vibe，搞定 macOS 上的 HITMAN 外挂](https://github.red/hitman6-beater/)
+- 漕河泾小黑屋
+  - [ProcIR-面向安全工程师的一键式应急响应工具](https://mp.weixin.qq.com/s?__biz=MzA4NzQwNzY3OQ==&mid=2247484049&idx=1&sn=7091f36d40164fcd7e8a3d5dc7371e3d)
 - 极客公园
   - [大模型卷算力，vivo 悄悄押注了「看懂世界」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653102312&idx=1&sn=545ab22b7a978106c1d8f76898151de7)
   - [从全民养虾到产业落地，腾讯云在 Agent 时代押注了什么？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653102302&idx=1&sn=2713b50f3628075b11a950e627755428)
   - [谷歌推《黑客帝国》同名 AI；传智元机器人量产超万台；央视：使用人脸识别时，千万穿好衣服 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653102301&idx=1&sn=3c5145ef66067ac153be1242d1f14f9d)
 - 吴鲁加
   - [好为人师地提几个 AI 学习建议](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485989&idx=1&sn=dae3b12dd8a7882297680dc1d2bf9b43)
+- 安全行者老霍
+  - [2026年五大最佳新一代终端防护平台](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486222&idx=1&sn=fdbd31c39358e9bfd9d0cceb13e01168)
+- 吾爱破解论坛
+  - [2026春节题目](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144051&idx=1&sn=8e3bcbd1cd8985aa50905dd54028fcf2)
+- 安全圈
+  - [【安全圈】突发！FBI 局长遭伊朗黑客 “开盒”](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075160&idx=1&sn=909870ed4b9e7d5e2a8685c55b23159a)
+  - [【安全圈】警惕！只需一个举动，你可能已经犯罪](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075160&idx=2&sn=17ef85e58e17f2257b11047e530dfaae)
+  - [【安全圈】24小时68起数据泄露！攻击者单日狂扫10家巴西企业](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075160&idx=3&sn=2dd513bcf92a984f5c5fa8694f2befec)
 - Over Security - Cybersecurity news aggregator
   - [Hack iraniano al capo dell’FBI: ecco le ricadute](https://www.cybersecurity360.it/nuove-minacce/hack-iraniano-al-capo-dellfbi-ecco-le-ricadute/)
   - [Attacchi cyber a Commissione Ue e Fbi: che sta succedendo?](https://www.cybersecurity360.it/nuove-minacce/attacchi-cyber-a-commissione-ue-e-fbi-che-sta-succedendo/)
   - [New Infinity Stealer malware grabs macOS data via ClickFix lures](https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/)
   - [Attacco a Ita Airways, allarme per utenti Volare](https://www.cybersecurity360.it/nuove-minacce/attacco-a-ita-airways-allarme-per-utenti-volare/)
 - Chaos Computer Club - last 100 events feed
-  - [Shift your FOCIS: Digitale Souveränität mit ALASCA (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-20-deu-Shift_your_FOCIS_Digitale_Souveraenitaet_mit_ALASCA_hd.mp4)
-  - [Dinge erklären (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-23-deu-Dinge_erklaeren_hd.mp4)
-  - [Einstieg in die Entwicklung von Dateisystemen mit FUSE (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-71-deu-Einstieg_in_die_Entwicklung_von_Dateisystemen_mit_FUSE_hd.mp4)
-  - [Der Kunde lügt immer. Und im Support kann niemand lesen. (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-22-deu-Der_Kunde_luegt_immer_Und_im_Support_kann_niemand_lesen_hd.mp4)
-  - [Btrfs und Snapper in Debian Sid (siduction) (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-72-deu-Btrfs_und_Snapper_in_Debian_Sid_siduction_hd.mp4)
-  - [Der eigene Blog mit Hugo – Ein Praxisbeispiel (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-39-deu-Der_eigene_Blog_mit_Hugo_-_Ein_Praxisbeispiel_hd.mp4)
   - [Tracking (Protection) so weit das Auge reicht (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-30-deu-Tracking_Protection_so_weit_das_Auge_reicht_hd.mp4)
-  - [Geschichten aus 15 Jahren Linux auf dem Unternehmensdesktop (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-24-deu-Geschichten_aus_15_Jahren_Linux_auf_dem_Unternehmensdesktop_hd.mp4)
-  - [Automatisierung: Zwischen magischer Effizienz und bitterer Realität (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-54-deu-Automatisierung_Zwischen_magischer_Effizienz_und_bitterer_Realitaet_hd.mp4)
-  - [(Keine) Fotos bitte! (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-28-deu-Keine_Fotos_bitte_hd.mp4)
-  - [Kinder(rechte) und der Einstieg ins Netz und das Fediverse (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-29-deu-Kinder_rechte_und_der_Einstieg_ins_Netz_und_das_Fediverse_hd.mp4)
   - [Ansible Filter 101: Wie Filter die Arbeit erleichtern (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-56-deu-Ansible_Filter_101_Wie_Filter_die_Arbeit_erleichtern_hd.mp4)
+  - [Der Kunde lügt immer. Und im Support kann niemand lesen. (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-22-deu-Der_Kunde_luegt_immer_Und_im_Support_kann_niemand_lesen_hd.mp4)
+  - [UnifiedPush (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-51-deu-UnifiedPush_hd.mp4)
+  - [Einstieg in die Entwicklung von Dateisystemen mit FUSE (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-71-deu-Einstieg_in_die_Entwicklung_von_Dateisystemen_mit_FUSE_hd.mp4)
+  - [Dinge erklären (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-23-deu-Dinge_erklaeren_hd.mp4)
+  - [Automatisierung: Zwischen magischer Effizienz und bitterer Realität (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-54-deu-Automatisierung_Zwischen_magischer_Effizienz_und_bitterer_Realitaet_hd.mp4)
+  - [Der eigene Blog mit Hugo – Ein Praxisbeispiel (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-39-deu-Der_eigene_Blog_mit_Hugo_-_Ein_Praxisbeispiel_hd.mp4)
+  - [KI-Chat mit eigener Suchmaschine: RAG in YaCy (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-53-deu-KI-Chat_mit_eigener_Suchmaschine_RAG_in_YaCy_hd.mp4)
   - [Warum gute Software unsichtbar ist – und wie wir das ändern (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-151-deu-Warum_gute_Software_unsichtbar_ist_-_und_wie_wir_das_aendern_hd.mp4)
   - [Lizenzierung freier Software: Was Entwickler wissen müssen (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-31-deu-Lizenzierung_freier_Software_Was_Entwickler_wissen_muessen_hd.mp4)
-  - [KI-Chat mit eigener Suchmaschine: RAG in YaCy (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-53-deu-KI-Chat_mit_eigener_Suchmaschine_RAG_in_YaCy_hd.mp4)
+  - [Designing Teamtype (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-40-deu-Designing_Teamtype_hd.mp4)
+  - [Warum selbst Signal bei Google und Apple anklopft (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-68-deu-Warum_selbst_Signal_bei_Google_und_Apple_anklopft_hd.mp4)
+  - [Freitagnachmittag: Zeit für ein Deployment! (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-37-deu-Freitagnachmittag_Zeit_fuer_ein_Deployment_hd.mp4)
   - [Own your AI (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-42-deu-Own_your_AI_hd.mp4)
-- SANS Internet Storm Center, InfoCON: green
-  - [TeamPCP Supply Chain Campaign: Update 003 - Operational Tempo Shift as Campaign Enters Monetization Phase With No New Compromises in 48 Hours, (Sat, Mar 28th)](https://isc.sans.edu/diary/rss/32842)
-- Lenny Zeltser
-  - [Scope Security Assessments for Attack Paths, Not Org Charts](https://zeltser.com/security-assessment-scope/)
-- 安全行者老霍
-  - [2026年五大最佳新一代终端防护平台](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486222&idx=1&sn=fdbd31c39358e9bfd9d0cceb13e01168)
-- 吾爱破解论坛
-  - [2026春节题目](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144051&idx=1&sn=8e3bcbd1cd8985aa50905dd54028fcf2)
-- Security Affairs
-  - [ShinyHunters claims the hack of the European Commission](https://securityaffairs.com/190095/data-breach/shinyhunters-claims-the-hack-of-the-european-commission.html)
-  - [Iran-linked group Handala hacked FBI Director Kash Patel’s personal email account](https://securityaffairs.com/190088/intelligence/iran-linked-group-handala-hacked-fbi-director-kash-patels-personal-email-account.html)
-  - [U.S. CISA adds a flaw in F5 BIG-IP AMP to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/190076/uncategorized/u-s-cisa-adds-a-flaw-in-f5-big-ip-amp-to-its-known-exploited-vulnerabilities-catalog.html)
+  - [Geschichten aus 15 Jahren Linux auf dem Unternehmensdesktop (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-24-deu-Geschichten_aus_15_Jahren_Linux_auf_dem_Unternehmensdesktop_hd.mp4)
+  - [(Keine) Fotos bitte! (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-28-deu-Keine_Fotos_bitte_hd.mp4)
+  - [Android ohne Überwachung: FOSS-Apps auf dem Smartphone (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-150-deu-Android_ohne_Ueberwachung_FOSS-Apps_auf_dem_Smartphone_hd.mp4)
+  - [Btrfs und Snapper in Debian Sid (siduction) (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-72-deu-Btrfs_und_Snapper_in_Debian_Sid_siduction_hd.mp4)
+  - [Shift your FOCIS: Digitale Souveränität mit ALASCA (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-20-deu-Shift_your_FOCIS_Digitale_Souveraenitaet_mit_ALASCA_hd.mp4)
+  - [Kinder(rechte) und der Einstieg ins Netz und das Fediverse (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-29-deu-Kinder_rechte_und_der_Einstieg_ins_Netz_und_das_Fediverse_hd.mp4)
+  - [🐦 Von der Vogel-Kamera zum eigenen KI-Modell 🤖 (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-52-deu-Von_der_Vogel-Kamera_zum_eigenen_KI-Modell_hd.mp4)
+  - [Lightning Talks (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-57-deu-Lightning_Talks_hd.mp4)
 - LastKnight.com Feed
   - [Il giorno in cui l’America ha condannato i social…](https://mgpf.it/2026/03/28/il-giorno-in-cui-lamerica-ha-condannato-i-social.html)
-- OnionSec
-  - [找工作后的体会](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485759&idx=1&sn=e79fcfc86d298b50803f478d5218a397)
+- SANS Internet Storm Center, InfoCON: green
+  - [TeamPCP Supply Chain Campaign: Update 003 - Operational Tempo Shift as Campaign Enters Monetization Phase With No New Compromises in 48 Hours, (Sat, Mar 28th)](https://isc.sans.edu/diary/rss/32842)
+- Daniel Miessler
+  - [The Most Important Ideas in AI Right Now](https://danielmiessler.com/blog/the-most-important-ideas-in-ai?utm_source=rss&utm_medium=feed&utm_campaign=website)
+  - [What Happens When AI Stops Being Artificially Cheap](https://danielmiessler.com/blog/ai-stops-being-artificially-cheap?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - The Hacker News
   - [Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack](https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html)
   - [Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug](https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html)
   - [TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign](https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html)
   - [CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation](https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html)
-- Daniel Miessler
-  - [The Most Important Ideas in AI Right Now](https://danielmiessler.com/blog/the-most-important-ideas-in-ai?utm_source=rss&utm_medium=feed&utm_campaign=website)
-  - [What Happens When AI Stops Being Artificially Cheap](https://danielmiessler.com/blog/ai-stops-being-artificially-cheap?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- Security Affairs
+  - [ShinyHunters claims the hack of the European Commission](https://securityaffairs.com/190095/data-breach/shinyhunters-claims-the-hack-of-the-european-commission.html)
+  - [Iran-linked group Handala hacked FBI Director Kash Patel’s personal email account](https://securityaffairs.com/190088/intelligence/iran-linked-group-handala-hacked-fbi-director-kash-patels-personal-email-account.html)
+  - [U.S. CISA adds a flaw in F5 BIG-IP AMP to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/190076/uncategorized/u-s-cisa-adds-a-flaw-in-f5-big-ip-amp-to-its-known-exploited-vulnerabilities-catalog.html)
+- Lenny Zeltser
+  - [Scope Security Assessments for Attack Paths, Not Org Charts](https://zeltser.com/security-assessment-scope/)
+- OnionSec
+  - [找工作后的体会](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485759&idx=1&sn=e79fcfc86d298b50803f478d5218a397)
