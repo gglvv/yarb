@@ -2,8 +2,6 @@
 
 - SecWiki News
   - [SecWiki News 2026-03-28 Review](http://www.sec-wiki.com/?2026-03-28)
-- No Headback
-  - [Harness or not harness, it is a question](http://xargin.com/harness-or-not-harness-it-is-a-question/)
 - Recent Commits to cve:main
   - [Update Sat Mar 28 11:16:01 UTC 2026](https://github.com/trickest/cve/commit/fac668182ba3d233fe09404a165fcc846d761c19)
 - InfoSec Write-ups - Medium
@@ -12,14 +10,25 @@
   - [How I Spent 30 Days Chasing a $40,000 Bug Bounty And What I Learned the Hard Way](https://infosecwriteups.com/how-i-spent-30-days-chasing-a-40-000-bug-bounty-and-what-i-learned-the-hard-way-dc35caf61142?source=rss----7b722bfd1b8d---4)
   - [From a Silent Math Error to Certificate Bypass: Uncovering an Integer Overflow in a TLS Parser](https://infosecwriteups.com/from-a-silent-math-error-to-certificate-bypass-uncovering-an-integer-overflow-in-a-tls-parser-b73b86696f74?source=rss----7b722bfd1b8d---4)
   - [Azure Blob Storage Misconfigurations: Attacker’s Gateway to Data](https://infosecwriteups.com/azure-blob-storage-misconfigurations-attackers-gateway-to-data-b7d8e957440e?source=rss----7b722bfd1b8d---4)
+- No Headback
+  - [Harness or not harness, it is a question](http://xargin.com/harness-or-not-harness-it-is-a-question/)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [How I Spent 30 Days Chasing a $40,000 Bug Bounty And What I Learned the Hard Way](https://infosecwriteups.com/how-i-spent-30-days-chasing-a-40-000-bug-bounty-and-what-i-learned-the-hard-way-dc35caf61142?source=rss----7b722bfd1b8d--bug_bounty)
   - [From a Silent Math Error to Certificate Bypass: Uncovering an Integer Overflow in a TLS Parser](https://infosecwriteups.com/from-a-silent-math-error-to-certificate-bypass-uncovering-an-integer-overflow-in-a-tls-parser-b73b86696f74?source=rss----7b722bfd1b8d--bug_bounty)
 - Toooold
   - [The Blessing of Dimensionality: How TurboQuant Uses the JL Lemma to Compress KV Caches with Zero Bias](https://toooold.com/2026/03/28/turboquant.html)
+- Reverse Engineering
+  - [Blog: Decompiling the White House's New App](https://www.reddit.com/r/ReverseEngineering/comments/1s6ef0t/blog_decompiling_the_white_houses_new_app/)
+  - [Agent reverse-engineers website APIs from inside your browser](https://www.reddit.com/r/ReverseEngineering/comments/1s6dh5i/agent_reverseengineers_website_apis_from_inside/)
 - Dancho Danchev's Blog - Mind Streams of Information Security Knowledge
   - [A Full List of Usernames and Handles from the XSS Cybercrime Friendly Forum - A Compilation](https://ddanchev.blogspot.com/2026/03/a-full-list-of-usernames-and-handles_28.html)
   - [Dissecting the XSS Cybercrime Friendly Forum Community - An Analysis](https://ddanchev.blogspot.com/2026/03/dissecting-xss-cybercrime-friendly.html)
+- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
+  - [扎克伯格曾就DOGE提出向马斯克提供帮助](https://blog.upx8.com/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E6%9B%BE%E5%B0%B1DOGE%E6%8F%90%E5%87%BA%E5%90%91%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8F%90%E4%BE%9B%E5%B8%AE%E5%8A%A9)
+  - [软银拿下400亿美元贷款 加码OpenAI投资](https://blog.upx8.com/%E8%BD%AF%E9%93%B6%E6%8B%BF%E4%B8%8B400%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B4%B7%E6%AC%BE-%E5%8A%A0%E7%A0%81OpenAI%E6%8A%95%E8%B5%84)
+  - [伊朗拒绝两艘中国船只通过霍尔木兹海峡](https://blog.upx8.com/%E4%BC%8A%E6%9C%97%E6%8B%92%E7%BB%9D%E4%B8%A4%E8%89%98%E4%B8%AD%E5%9B%BD%E8%88%B9%E5%8F%AA%E9%80%9A%E8%BF%87%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1)
+  - [AI顶级会议拒受制裁机构论文引发抗议](https://blog.upx8.com/AI%E9%A1%B6%E7%BA%A7%E4%BC%9A%E8%AE%AE%E6%8B%92%E5%8F%97%E5%88%B6%E8%A3%81%E6%9C%BA%E6%9E%84%E8%AE%BA%E6%96%87%E5%BC%95%E5%8F%91%E6%8A%97%E8%AE%AE)
+  - [7-Eleven推出手机下单门店取货服务](https://blog.upx8.com/7-Eleven%E6%8E%A8%E5%87%BA%E6%89%8B%E6%9C%BA%E4%B8%8B%E5%8D%95%E9%97%A8%E5%BA%97%E5%8F%96%E8%B4%A7%E6%9C%8D%E5%8A%A1)
 - 奇客Solidot–传递最新科技情报
   - [奥地利计划禁止 14 岁以下儿童使用社媒](https://www.solidot.org/story?sid=83906)
   - [太空中的精子会像失控宇航员那样翻滚](https://www.solidot.org/story?sid=83905)
@@ -27,20 +36,12 @@
   - [“黑暗”比光速更快](https://www.solidot.org/story?sid=83903)
   - [金·斯坦利·罗宾森称殖民火星是毫无意义的](https://www.solidot.org/story?sid=83902)
   - [长期吸入硅尘会导致矿工肺功能不可逆转的下降](https://www.solidot.org/story?sid=83901)
-- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [扎克伯格曾就DOGE提出向马斯克提供帮助](https://blog.upx8.com/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E6%9B%BE%E5%B0%B1DOGE%E6%8F%90%E5%87%BA%E5%90%91%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8F%90%E4%BE%9B%E5%B8%AE%E5%8A%A9)
-  - [软银拿下400亿美元贷款 加码OpenAI投资](https://blog.upx8.com/%E8%BD%AF%E9%93%B6%E6%8B%BF%E4%B8%8B400%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B4%B7%E6%AC%BE-%E5%8A%A0%E7%A0%81OpenAI%E6%8A%95%E8%B5%84)
-  - [伊朗拒绝两艘中国船只通过霍尔木兹海峡](https://blog.upx8.com/%E4%BC%8A%E6%9C%97%E6%8B%92%E7%BB%9D%E4%B8%A4%E8%89%98%E4%B8%AD%E5%9B%BD%E8%88%B9%E5%8F%AA%E9%80%9A%E8%BF%87%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1)
-  - [AI顶级会议拒受制裁机构论文引发抗议](https://blog.upx8.com/AI%E9%A1%B6%E7%BA%A7%E4%BC%9A%E8%AE%AE%E6%8B%92%E5%8F%97%E5%88%B6%E8%A3%81%E6%9C%BA%E6%9E%84%E8%AE%BA%E6%96%87%E5%BC%95%E5%8F%91%E6%8A%97%E8%AE%AE)
-  - [7-Eleven推出手机下单门店取货服务](https://blog.upx8.com/7-Eleven%E6%8E%A8%E5%87%BA%E6%89%8B%E6%9C%BA%E4%B8%8B%E5%8D%95%E9%97%A8%E5%BA%97%E5%8F%96%E8%B4%A7%E6%9C%8D%E5%8A%A1)
-  - [伊朗黑客声称入侵了FBI局长个人电子邮件](https://blog.upx8.com/%E4%BC%8A%E6%9C%97%E9%BB%91%E5%AE%A2%E5%A3%B0%E7%A7%B0%E5%85%A5%E4%BE%B5%E4%BA%86FBI%E5%B1%80%E9%95%BF%E4%B8%AA%E4%BA%BA%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6)
-  - [援助古巴的美国人返回时在机场被没收手机](https://blog.upx8.com/%E6%8F%B4%E5%8A%A9%E5%8F%A4%E5%B7%B4%E7%9A%84%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%BF%94%E5%9B%9E%E6%97%B6%E5%9C%A8%E6%9C%BA%E5%9C%BA%E8%A2%AB%E6%B2%A1%E6%94%B6%E6%89%8B%E6%9C%BA)
 - Light Cube
   - [纯靠 Vibe，搞定 macOS 上的 HITMAN 外挂](https://github.red/hitman6-beater/)
-- 青衣十三楼飞花堂
-  - [已知a+b=5，求√(a+1)+√(b+3)最大值](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489237&idx=1&sn=0016f09e460ccff504fb5f85973d30f8)
 - 黑鸟
   - [JCal工具：爱泼斯坦所有行程被放进谷歌日历](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186004&idx=1&sn=daa8ede6456eb1cfad5f4cc4081d0a20)
+- 青衣十三楼飞花堂
+  - [已知a+b=5，求√(a+1)+√(b+3)最大值](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489237&idx=1&sn=0016f09e460ccff504fb5f85973d30f8)
 - 漕河泾小黑屋
   - [ProcIR-面向安全工程师的一键式应急响应工具](https://mp.weixin.qq.com/s?__biz=MzA4NzQwNzY3OQ==&mid=2247484049&idx=1&sn=7091f36d40164fcd7e8a3d5dc7371e3d)
 - 奇安信 CERT
@@ -61,30 +62,49 @@
   - [谷歌推《黑客帝国》同名 AI；传智元机器人量产超万台；央视：使用人脸识别时，千万穿好衣服 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653102301&idx=1&sn=3c5145ef66067ac153be1242d1f14f9d)
 - 吴鲁加
   - [好为人师地提几个 AI 学习建议](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485989&idx=1&sn=dae3b12dd8a7882297680dc1d2bf9b43)
+- LastKnight.com Feed
+  - [Il giorno in cui l’America ha condannato i social…](https://mgpf.it/2026/03/28/il-giorno-in-cui-lamerica-ha-condannato-i-social.html)
 - Over Security - Cybersecurity news aggregator
   - [Hack iraniano al capo dell’FBI: ecco le ricadute](https://www.cybersecurity360.it/nuove-minacce/hack-iraniano-al-capo-dellfbi-ecco-le-ricadute/)
   - [Attacchi cyber a Commissione Ue e Fbi: che sta succedendo?](https://www.cybersecurity360.it/nuove-minacce/attacchi-cyber-a-commissione-ue-e-fbi-che-sta-succedendo/)
   - [New Infinity Stealer malware grabs macOS data via ClickFix lures](https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/)
   - [Attacco a Ita Airways, allarme per utenti Volare](https://www.cybersecurity360.it/nuove-minacce/attacco-a-ita-airways-allarme-per-utenti-volare/)
-- LastKnight.com Feed
-  - [Il giorno in cui l’America ha condannato i social…](https://mgpf.it/2026/03/28/il-giorno-in-cui-lamerica-ha-condannato-i-social.html)
 - 安全行者老霍
   - [2026年五大最佳新一代终端防护平台](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486222&idx=1&sn=fdbd31c39358e9bfd9d0cceb13e01168)
 - 吾爱破解论坛
   - [2026春节题目](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144051&idx=1&sn=8e3bcbd1cd8985aa50905dd54028fcf2)
-- Lenny Zeltser
-  - [Scope Security Assessments for Attack Paths, Not Org Charts](https://zeltser.com/security-assessment-scope/)
+- Security Affairs
+  - [ShinyHunters claims the hack of the European Commission](https://securityaffairs.com/190095/data-breach/shinyhunters-claims-the-hack-of-the-european-commission.html)
+  - [Iran-linked group Handala hacked FBI Director Kash Patel’s personal email account](https://securityaffairs.com/190088/intelligence/iran-linked-group-handala-hacked-fbi-director-kash-patels-personal-email-account.html)
+  - [U.S. CISA adds a flaw in F5 BIG-IP AMP to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/190076/uncategorized/u-s-cisa-adds-a-flaw-in-f5-big-ip-amp-to-its-known-exploited-vulnerabilities-catalog.html)
 - SANS Internet Storm Center, InfoCON: green
   - [TeamPCP Supply Chain Campaign: Update 003 - Operational Tempo Shift as Campaign Enters Monetization Phase With No New Compromises in 48 Hours, (Sat, Mar 28th)](https://isc.sans.edu/diary/rss/32842)
+- Your Open Hacker Community
+  - [Microsoft word doc password locked](https://www.reddit.com/r/HowToHack/comments/1s5yszv/microsoft_word_doc_password_locked/)
+  - [MacBook vs Gaming Laptop for Coding + Cybersecurity (₹1L budget, India)](https://www.reddit.com/r/HowToHack/comments/1s688v2/macbook_vs_gaming_laptop_for_coding_cybersecurity/)
+  - [what the hell happened to doxbin?](https://www.reddit.com/r/HowToHack/comments/1s6fzhc/what_the_hell_happened_to_doxbin/)
+  - [Samsung a56 <samsung knox> removal not working](https://www.reddit.com/r/HowToHack/comments/1s5y3o9/samsung_a56_samsung_knox_removal_not_working/)
 - The Hacker News
   - [Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack](https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html)
   - [Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug](https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html)
   - [CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation](https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html)
   - [TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign](https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html)
-- Security Affairs
-  - [ShinyHunters claims the hack of the European Commission](https://securityaffairs.com/190095/data-breach/shinyhunters-claims-the-hack-of-the-european-commission.html)
-  - [Iran-linked group Handala hacked FBI Director Kash Patel’s personal email account](https://securityaffairs.com/190088/intelligence/iran-linked-group-handala-hacked-fbi-director-kash-patels-personal-email-account.html)
-  - [U.S. CISA adds a flaw in F5 BIG-IP AMP to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/190076/uncategorized/u-s-cisa-adds-a-flaw-in-f5-big-ip-amp-to-its-known-exploited-vulnerabilities-catalog.html)
+- Social Engineering
+  - [What Is Brain Rot in Real Life? The Science Behind Your Shrinking Attention Span](https://www.reddit.com/r/SocialEngineering/comments/1s6bwuv/what_is_brain_rot_in_real_life_the_science_behind/)
+- Computer Forensics
+  - [An open-source forensic exporter for ChatGPT conversations (SHA-256 hashing, verification, full project enumeration)](https://www.reddit.com/r/computerforensics/comments/1s6cx7e/an_opensource_forensic_exporter_for_chatgpt/)
+  - [Crow-Eye v0.8.0 - Now with full offline artifact importing and a new acquisition engine](https://www.reddit.com/r/computerforensics/comments/1s6cj3w/croweye_v080_now_with_full_offline_artifact/)
+- Technical Information Security Content & Discussion
+  - [The Sequels Are Never As Good, But We're Still In Pain (Citrix NetScaler CVE-2026-3055 Memory Overread) - watchTowr Labs](https://www.reddit.com/r/netsec/comments/1s6bdxi/the_sequels_are_never_as_good_but_were_still_in/)
+  - [Chaining file upload bypass and stored XSS to create admin accounts: walkthrough with Docker PoC lab](https://www.reddit.com/r/netsec/comments/1s5zzw1/chaining_file_upload_bypass_and_stored_xss_to/)
+  - [pentest-ai - 6 Claude Code subagents for offensive security research (engagement planning, recon analysis, exploit methodology, detection engineering, STIG compliance, report writing)](https://www.reddit.com/r/netsec/comments/1s677pu/pentestai_6_claude_code_subagents_for_offensive/)
+  - [We Social Engineered Our Own AI](https://www.reddit.com/r/netsec/comments/1s69zbg/we_social_engineered_our_own_ai/)
+- Lenny Zeltser
+  - [Scope Security Assessments for Attack Paths, Not Org Charts](https://zeltser.com/security-assessment-scope/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [You can now 1v1 someone in ranked phishing](https://www.reddit.com/r/netsecstudents/comments/1s6a1od/you_can_now_1v1_someone_in_ranked_phishing/)
+  - [Looking for sone Serious People for CTFs, Red Teaming & Hackathons](https://www.reddit.com/r/netsecstudents/comments/1s5z7j9/looking_for_sone_serious_people_for_ctfs_red/)
+  - [Are certifications enough for cybersecurity??](https://www.reddit.com/r/netsecstudents/comments/1s5tw46/are_certifications_enough_for_cybersecurity/)
 - OnionSec
   - [找工作后的体会](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485759&idx=1&sn=e79fcfc86d298b50803f478d5218a397)
 - Daniel Miessler
