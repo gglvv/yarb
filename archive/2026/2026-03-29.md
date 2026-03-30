@@ -1,11 +1,11 @@
 # 每日安全资讯（2026-03-29）
 
-- No Headback
-  - [Harness or not harness, it is a question](http://xargin.com/harness-or-not-harness-it-is-a-question/)
 - SecWiki News
   - [SecWiki News 2026-03-28 Review](http://www.sec-wiki.com/?2026-03-28)
 - Recent Commits to cve:main
   - [Update Sat Mar 28 11:16:01 UTC 2026](https://github.com/trickest/cve/commit/fac668182ba3d233fe09404a165fcc846d761c19)
+- No Headback
+  - [Harness or not harness, it is a question](http://xargin.com/harness-or-not-harness-it-is-a-question/)
 - InfoSec Write-ups - Medium
   - [FAT CAT (Forensics)— KJSSE CTF 3.0](https://infosecwriteups.com/fat-cat-forensics-kjsse-ctf-3-0-389909256dc5?source=rss----7b722bfd1b8d---4)
   - [Proving Grounds — Practice — Access](https://infosecwriteups.com/proving-grounds-practice-access-a6e6a89f4ae6?source=rss----7b722bfd1b8d---4)
@@ -27,94 +27,91 @@
   - [“黑暗”比光速更快](https://www.solidot.org/story?sid=83903)
   - [金·斯坦利·罗宾森称殖民火星是毫无意义的](https://www.solidot.org/story?sid=83902)
   - [长期吸入硅尘会导致矿工肺功能不可逆转的下降](https://www.solidot.org/story?sid=83901)
-- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [扎克伯格曾就DOGE提出向马斯克提供帮助](https://blog.upx8.com/%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E6%9B%BE%E5%B0%B1DOGE%E6%8F%90%E5%87%BA%E5%90%91%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8F%90%E4%BE%9B%E5%B8%AE%E5%8A%A9)
-  - [软银拿下400亿美元贷款 加码OpenAI投资](https://blog.upx8.com/%E8%BD%AF%E9%93%B6%E6%8B%BF%E4%B8%8B400%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B4%B7%E6%AC%BE-%E5%8A%A0%E7%A0%81OpenAI%E6%8A%95%E8%B5%84)
 - Light Cube
   - [纯靠 Vibe，搞定 macOS 上的 HITMAN 外挂](https://github.red/hitman6-beater/)
-- 安全分析与研究
-  - [APT攻击完整流程](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496623&idx=1&sn=46d2e0509d21684111d590a274b027bb)
-- 青衣十三楼飞花堂
-  - [已知a+b=5，求√(a+1)+√(b+3)最大值](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489237&idx=1&sn=0016f09e460ccff504fb5f85973d30f8)
 - 黑鸟
   - [JCal工具：爱泼斯坦所有行程被放进谷歌日历](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186004&idx=1&sn=daa8ede6456eb1cfad5f4cc4081d0a20)
-- 漕河泾小黑屋
-  - [ProcIR-面向安全工程师的一键式应急响应工具](https://mp.weixin.qq.com/s?__biz=MzA4NzQwNzY3OQ==&mid=2247484049&idx=1&sn=7091f36d40164fcd7e8a3d5dc7371e3d)
+- 安全分析与研究
+  - [APT攻击完整流程](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496623&idx=1&sn=46d2e0509d21684111d590a274b027bb)
 - 奇安信 CERT
   - [今日（2026年3月28日）OpenClaw 最新安全动态总结](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504879&idx=1&sn=8f9f9e66b6b0b835f3fad611fb835ecb)
-- 天御攻防实验室
-  - [数亿台苹果手机面临被黑客入侵的风险](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486853&idx=1&sn=8eb2fe1c6931341dd6eaf776a7c97717)
+- 漕河泾小黑屋
+  - [ProcIR-面向安全工程师的一键式应急响应工具](https://mp.weixin.qq.com/s?__biz=MzA4NzQwNzY3OQ==&mid=2247484049&idx=1&sn=7091f36d40164fcd7e8a3d5dc7371e3d)
+- 青衣十三楼飞花堂
+  - [已知a+b=5，求√(a+1)+√(b+3)最大值](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489237&idx=1&sn=0016f09e460ccff504fb5f85973d30f8)
 - 看雪学苑
   - [APP frida 检测绕过详解：定位 JNI 动态注册 Native 函数，Hook 核心检测函数](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458612708&idx=1&sn=5afc9fc4907505c16a534e10fb762401)
-- 丁爸 情报分析师的工具箱
-  - [【龙虾报告】美军对伊朗的地面行动会在哪里？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154958&idx=1&sn=30cee0f10ae0d3571c86dfb3eca625db)
+- 天御攻防实验室
+  - [数亿台苹果手机面临被黑客入侵的风险](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486853&idx=1&sn=8eb2fe1c6931341dd6eaf776a7c97717)
 - 安全圈
   - [【安全圈】突发！FBI 局长遭伊朗黑客 “开盒”](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075160&idx=1&sn=909870ed4b9e7d5e2a8685c55b23159a)
   - [【安全圈】警惕！只需一个举动，你可能已经犯罪](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075160&idx=2&sn=17ef85e58e17f2257b11047e530dfaae)
   - [【安全圈】24小时68起数据泄露！攻击者单日狂扫10家巴西企业](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075160&idx=3&sn=2dd513bcf92a984f5c5fa8694f2befec)
-- 吴鲁加
-  - [好为人师地提几个 AI 学习建议](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485989&idx=1&sn=dae3b12dd8a7882297680dc1d2bf9b43)
+- 丁爸 情报分析师的工具箱
+  - [【龙虾报告】美军对伊朗的地面行动会在哪里？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154958&idx=1&sn=30cee0f10ae0d3571c86dfb3eca625db)
 - 极客公园
   - [大模型卷算力，vivo 悄悄押注了「看懂世界」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653102312&idx=1&sn=545ab22b7a978106c1d8f76898151de7)
   - [从全民养虾到产业落地，腾讯云在 Agent 时代押注了什么？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653102302&idx=1&sn=2713b50f3628075b11a950e627755428)
   - [谷歌推《黑客帝国》同名 AI；传智元机器人量产超万台；央视：使用人脸识别时，千万穿好衣服 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653102301&idx=1&sn=3c5145ef66067ac153be1242d1f14f9d)
+- 吴鲁加
+  - [好为人师地提几个 AI 学习建议](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485989&idx=1&sn=dae3b12dd8a7882297680dc1d2bf9b43)
 - Over Security - Cybersecurity news aggregator
   - [Hack iraniano al capo dell’FBI: ecco le ricadute](https://www.cybersecurity360.it/nuove-minacce/hack-iraniano-al-capo-dellfbi-ecco-le-ricadute/)
   - [Attacchi cyber a Commissione Ue e Fbi: che sta succedendo?](https://www.cybersecurity360.it/nuove-minacce/attacchi-cyber-a-commissione-ue-e-fbi-che-sta-succedendo/)
   - [New Infinity Stealer malware grabs macOS data via ClickFix lures](https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/)
   - [Attacco a Ita Airways, allarme per utenti Volare](https://www.cybersecurity360.it/nuove-minacce/attacco-a-ita-airways-allarme-per-utenti-volare/)
-- LastKnight.com Feed
-  - [Il giorno in cui l’America ha condannato i social…](https://mgpf.it/2026/03/28/il-giorno-in-cui-lamerica-ha-condannato-i-social.html)
+- 安全行者老霍
+  - [2026年五大最佳新一代终端防护平台](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486222&idx=1&sn=fdbd31c39358e9bfd9d0cceb13e01168)
 - Chaos Computer Club - last 100 events feed
-  - [Der Kunde lügt immer. Und im Support kann niemand lesen. (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-22-deu-Der_Kunde_luegt_immer_Und_im_Support_kann_niemand_lesen_hd.mp4)
   - [Own your AI (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-42-deu-Own_your_AI_hd.mp4)
-  - [Deklarative Netzwerkkonfiguration mit NixOS (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-17-deu-Deklarative_Netzwerkkonfiguration_mit_NixOS_hd.mp4)
   - [Der eigene Blog mit Hugo – Ein Praxisbeispiel (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-39-deu-Der_eigene_Blog_mit_Hugo_-_Ein_Praxisbeispiel_hd.mp4)
-  - [Geschichten aus 15 Jahren Linux auf dem Unternehmensdesktop (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-24-deu-Geschichten_aus_15_Jahren_Linux_auf_dem_Unternehmensdesktop_hd.mp4)
-  - [Freitagnachmittag: Zeit für ein Deployment! (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-37-deu-Freitagnachmittag_Zeit_fuer_ein_Deployment_hd.mp4)
   - [Warum kommt meine Mail nicht an? Ein Überblick. (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-47-deu-Warum_kommt_meine_Mail_nicht_an_Ein_Ueberblick_hd.mp4)
   - [Virtual Reality mit Eigenbau-Hardware (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-64-deu-Virtual_Reality_mit_Eigenbau-Hardware_hd.mp4)
-  - [Shift your FOCIS: Digitale Souveränität mit ALASCA (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-20-deu-Shift_your_FOCIS_Digitale_Souveraenitaet_mit_ALASCA_hd.mp4)
   - [Btrfs und Snapper in Debian Sid (siduction) (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-72-deu-Btrfs_und_Snapper_in_Debian_Sid_siduction_hd.mp4)
-  - [Lightning Talks (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-57-deu-Lightning_Talks_hd.mp4)
   - [Dinge erklären (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-23-deu-Dinge_erklaeren_hd.mp4)
-  - [Neues vom digital-souveränen Open-Source-Arbeitsplatz (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-35-deu-Neues_vom_digital-souveraenen_Open-Source-Arbeitsplatz_hd.mp4)
-  - [Easy Going: Programmierung mit Go (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-25-deu-Easy_Going_Programmierung_mit_Go_hd.mp4)
-  - [Tracking (Protection) so weit das Auge reicht (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-30-deu-Tracking_Protection_so_weit_das_Auge_reicht_hd.mp4)
-  - [Digitale Abhängigkeiten in der E-Mobilität und Alternativen (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-33-deu-Digitale_Abhaengigkeiten_in_der_E-Mobilitaet_und_Alternativen_hd.mp4)
+  - [Lizenzierung freier Software: Was Entwickler wissen müssen (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-31-deu-Lizenzierung_freier_Software_Was_Entwickler_wissen_muessen_hd.mp4)
+  - [Open Source als Allheilmittel für digitale Souveränität? (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-34-deu-Open_Source_als_Allheilmittel_fuer_digitale_Souveraenitaet_hd.mp4)
   - [Eine kleine Einführung in resiliente Datensicherung (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-65-deu-Eine_kleine_Einfuehrung_in_resiliente_Datensicherung_hd.mp4)
   - [Kinder(rechte) und der Einstieg ins Netz und das Fediverse (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-29-deu-Kinder_rechte_und_der_Einstieg_ins_Netz_und_das_Fediverse_hd.mp4)
   - [Automatisierung: Zwischen magischer Effizienz und bitterer Realität (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-54-deu-Automatisierung_Zwischen_magischer_Effizienz_und_bitterer_Realitaet_hd.mp4)
   - [(Keine) Fotos bitte! (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-28-deu-Keine_Fotos_bitte_hd.mp4)
-  - [Reproducible Linux Systems with Nix & NixOS (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-19-deu-Reproducible_Linux_Systems_with_Nix_NixOS_hd.mp4)
   - [RAG und KI in EGroupware (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-46-deu-RAG_und_KI_in_EGroupware_hd.mp4)
-  - [Migrating Legacy and Proprietary Databases to PostgreSQL (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-59-eng-Migrating_Legacy_and_Proprietary_Databases_to_PostgreSQL_hd.mp4)
-  - [MeshCore – Kurznachrichten ohne Internet und Handyvertrag (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-62-deu-MeshCore_-_Kurznachrichten_ohne_Internet_und_Handyvertrag_hd.mp4)
   - [Ansible Filter 101: Wie Filter die Arbeit erleichtern (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-56-deu-Ansible_Filter_101_Wie_Filter_die_Arbeit_erleichtern_hd.mp4)
-  - [KI-Chat mit eigener Suchmaschine: RAG in YaCy (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-53-deu-KI-Chat_mit_eigener_Suchmaschine_RAG_in_YaCy_hd.mp4)
-  - [Benchmarking von selbst gehosteten LLMs (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-43-deu-Benchmarking_von_selbst_gehosteten_LLMs_hd.mp4)
-  - [Warum selbst Signal bei Google und Apple anklopft (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-68-deu-Warum_selbst_Signal_bei_Google_und_Apple_anklopft_hd.mp4)
   - [Warum gute Software unsichtbar ist – und wie wir das ändern (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-151-deu-Warum_gute_Software_unsichtbar_ist_-_und_wie_wir_das_aendern_hd.mp4)
   - [Android ohne Überwachung: FOSS-Apps auf dem Smartphone (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-150-deu-Android_ohne_Ueberwachung_FOSS-Apps_auf_dem_Smartphone_hd.mp4)
-  - [Qubes OS: Flexible Virtualization For (Not Only) Power Users (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-18-eng-Qubes_OS_Flexible_Virtualization_For_Not_Only_Power_Users_hd.mp4)
-  - [Open Source als Allheilmittel für digitale Souveränität? (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-34-deu-Open_Source_als_Allheilmittel_fuer_digitale_Souveraenitaet_hd.mp4)
-  - [Souveränität im Smart Home – (F)OSS alleine ist keine Lösung (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-38-deu-Souveraenitaet_im_Smart_Home_-_F_OSS_alleine_ist_keine_Loesung_hd.mp4)
-  - [UnifiedPush (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-51-deu-UnifiedPush_hd.mp4)
-  - [E-Mail, Kalender, Kontakte und Dateien mit Stalwart (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-49-deu-E-Mail_Kalender_Kontakte_und_Dateien_mit_Stalwart_hd.mp4)
   - [Designing Teamtype (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-40-deu-Designing_Teamtype_hd.mp4)
-  - [Die Stärken des Device Mappers – von dm-cache bis dm-zoned (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-70-deu-Die_Staerken_des_Device_Mappers_-_von_dm-cache_bis_dm-zoned_hd.mp4)
-  - [Galera-Cluster mit Docker: Architektur und Betrieb (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-58-deu-Galera-Cluster_mit_Docker_Architektur_und_Betrieb_hd.mp4)
   - [Antennen-Software unter Linux (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-61-deu-Antennen-Software_unter_Linux_hd.mp4)
-  - [Zero to Vibe – Using local AI for Development (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-44-deu-Zero_to_Vibe_-_Using_local_AI_for_Development_hd.mp4)
   - [PostgreSQL-Abfragepläne verstehen (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-60-deu-PostgreSQL-Abfrageplaene_verstehen_hd.mp4)
-  - [Mit OpenStreetMap digital souverän Ideen verwirklichen (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-36-deu-Mit_OpenStreetMap_digital_souveraen_Ideen_verwirklichen_hd.mp4)
   - [E-Mails mit Rspamd filtern – ein Rundgang durch die Module (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-48-deu-E-Mails_mit_Rspamd_filtern_-_ein_Rundgang_durch_die_Module_hd.mp4)
   - [Einstieg in die Entwicklung von Dateisystemen mit FUSE (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-71-deu-Einstieg_in_die_Entwicklung_von_Dateisystemen_mit_FUSE_hd.mp4)
   - [Let's Talk About Sex – Programme züchten mit Evolution (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-27-deu-Lets_Talk_About_Sex_-_Programme_zuechten_mit_Evolution_hd.mp4)
+  - [Shift your FOCIS: Digitale Souveränität mit ALASCA (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-20-deu-Shift_your_FOCIS_Digitale_Souveraenitaet_mit_ALASCA_hd.mp4)
+  - [Souveränität im Smart Home – (F)OSS alleine ist keine Lösung (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-38-deu-Souveraenitaet_im_Smart_Home_-_F_OSS_alleine_ist_keine_Loesung_hd.mp4)
+  - [UnifiedPush (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-51-deu-UnifiedPush_hd.mp4)
   - [🐦 Von der Vogel-Kamera zum eigenen KI-Modell 🤖 (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-52-deu-Von_der_Vogel-Kamera_zum_eigenen_KI-Modell_hd.mp4)
-  - [Lizenzierung freier Software: Was Entwickler wissen müssen (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-31-deu-Lizenzierung_freier_Software_Was_Entwickler_wissen_muessen_hd.mp4)
-- 安全行者老霍
-  - [2026年五大最佳新一代终端防护平台](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486222&idx=1&sn=fdbd31c39358e9bfd9d0cceb13e01168)
+  - [Lightning Talks (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-57-deu-Lightning_Talks_hd.mp4)
+  - [Die Stärken des Device Mappers – von dm-cache bis dm-zoned (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-70-deu-Die_Staerken_des_Device_Mappers_-_von_dm-cache_bis_dm-zoned_hd.mp4)
+  - [Mit OpenStreetMap digital souverän Ideen verwirklichen (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-36-deu-Mit_OpenStreetMap_digital_souveraen_Ideen_verwirklichen_hd.mp4)
+  - [Zero to Vibe – Using local AI for Development (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-44-deu-Zero_to_Vibe_-_Using_local_AI_for_Development_hd.mp4)
+  - [Geschichten aus 15 Jahren Linux auf dem Unternehmensdesktop (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-24-deu-Geschichten_aus_15_Jahren_Linux_auf_dem_Unternehmensdesktop_hd.mp4)
+  - [Neues vom digital-souveränen Open-Source-Arbeitsplatz (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-35-deu-Neues_vom_digital-souveraenen_Open-Source-Arbeitsplatz_hd.mp4)
+  - [Freitagnachmittag: Zeit für ein Deployment! (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-37-deu-Freitagnachmittag_Zeit_fuer_ein_Deployment_hd.mp4)
+  - [Easy Going: Programmierung mit Go (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-25-deu-Easy_Going_Programmierung_mit_Go_hd.mp4)
+  - [Deklarative Netzwerkkonfiguration mit NixOS (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-17-deu-Deklarative_Netzwerkkonfiguration_mit_NixOS_hd.mp4)
+  - [Tracking (Protection) so weit das Auge reicht (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-30-deu-Tracking_Protection_so_weit_das_Auge_reicht_hd.mp4)
+  - [Der Kunde lügt immer. Und im Support kann niemand lesen. (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-22-deu-Der_Kunde_luegt_immer_Und_im_Support_kann_niemand_lesen_hd.mp4)
+  - [Digitale Abhängigkeiten in der E-Mobilität und Alternativen (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-33-deu-Digitale_Abhaengigkeiten_in_der_E-Mobilitaet_und_Alternativen_hd.mp4)
+  - [Qubes OS: Flexible Virtualization For (Not Only) Power Users (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-18-eng-Qubes_OS_Flexible_Virtualization_For_Not_Only_Power_Users_hd.mp4)
+  - [E-Mail, Kalender, Kontakte und Dateien mit Stalwart (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-49-deu-E-Mail_Kalender_Kontakte_und_Dateien_mit_Stalwart_hd.mp4)
+  - [KI-Chat mit eigener Suchmaschine: RAG in YaCy (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-53-deu-KI-Chat_mit_eigener_Suchmaschine_RAG_in_YaCy_hd.mp4)
+  - [MeshCore – Kurznachrichten ohne Internet und Handyvertrag (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-62-deu-MeshCore_-_Kurznachrichten_ohne_Internet_und_Handyvertrag_hd.mp4)
+  - [Warum selbst Signal bei Google und Apple anklopft (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-68-deu-Warum_selbst_Signal_bei_Google_und_Apple_anklopft_hd.mp4)
+  - [Benchmarking von selbst gehosteten LLMs (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-43-deu-Benchmarking_von_selbst_gehosteten_LLMs_hd.mp4)
+  - [Migrating Legacy and Proprietary Databases to PostgreSQL (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-59-eng-Migrating_Legacy_and_Proprietary_Databases_to_PostgreSQL_hd.mp4)
+  - [Galera-Cluster mit Docker: Architektur und Betrieb (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-58-deu-Galera-Cluster_mit_Docker_Architektur_und_Betrieb_hd.mp4)
+  - [Reproducible Linux Systems with Nix & NixOS (clt26)](https://cdn.media.ccc.de/events/clt/2026/h264-hd/clt26-19-deu-Reproducible_Linux_Systems_with_Nix_NixOS_hd.mp4)
+- LastKnight.com Feed
+  - [Il giorno in cui l’America ha condannato i social…](https://mgpf.it/2026/03/28/il-giorno-in-cui-lamerica-ha-condannato-i-social.html)
 - SANS Internet Storm Center, InfoCON: green
   - [TeamPCP Supply Chain Campaign: Update 003 - Operational Tempo Shift as Campaign Enters Monetization Phase With No New Compromises in 48 Hours, (Sat, Mar 28th)](https://isc.sans.edu/diary/rss/32842)
 - 吾爱破解论坛
@@ -126,12 +123,26 @@
   - [Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug](https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html)
   - [TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign](https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html)
   - [CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation](https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html)
+- Social Engineering
+  - [13 Ways Society Is Manipulated](https://www.reddit.com/r/SocialEngineering/comments/1s7389f/13_ways_society_is_manipulated/)
+- Computer Forensics
+  - [NVME forensics advice pls](https://www.reddit.com/r/computerforensics/comments/1s76qhs/nvme_forensics_advice_pls/)
+- Blackhat Library: Hacking techniques and research
+  - [security reviews slow down everything except the stuff that actually needs reviewing](https://www.reddit.com/r/blackhat/comments/1s6rw08/security_reviews_slow_down_everything_except_the/)
+- Information Security
+  - [The $8 million music heist that required zero hacking skills](https://www.reddit.com/r/Information_Security/comments/1s77wd9/the_8_million_music_heist_that_required_zero/)
+  - [Leadership wants cloud AI, but our privacy constraints say no, has anyone set up governance for on-prem?](https://www.reddit.com/r/Information_Security/comments/1s6s02o/leadership_wants_cloud_ai_but_our_privacy/)
+  - [When I'm not logged in, how long does Google retain my IP address and any other data that might be used to identify me or my device? What happens if I am signed in after deleting my Search History? Additionally, when deleting Search History on Safari but with Google as Search Engine?](https://www.reddit.com/r/Information_Security/comments/1s6pi6s/when_im_not_logged_in_how_long_does_google_retain/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [Jetpack Compose: How to mock API data when local auth bypass results in a ghost/white screen?](https://www.reddit.com/r/netsecstudents/comments/1s6zayx/jetpack_compose_how_to_mock_api_data_when_local/)
+  - [Full breakdown of the TeamPCP WAV steganography technique with detection methods and hands-on Python code](https://www.reddit.com/r/netsecstudents/comments/1s6wrms/full_breakdown_of_the_teampcp_wav_steganography/)
+  - [I built a CTF the way I wanted to play one... Maybe it lands for some of you here too.](https://www.reddit.com/r/netsecstudents/comments/1s6gulc/i_built_a_ctf_the_way_i_wanted_to_play_one_maybe/)
+- Technical Information Security Content & Discussion
+  - [Breakdown: How TeamPCP hid malware inside WAV files using audio steganography](https://www.reddit.com/r/netsec/comments/1s6weca/breakdown_how_teampcp_hid_malware_inside_wav/)
+  - [Please, We Beg, Just One Weekend Free Of Appliances (Citrix NetScaler CVE-2026-3055 Memory Overread Part 2) - watchTowr Labs](https://www.reddit.com/r/netsec/comments/1s75kb9/please_we_beg_just_one_weekend_free_of_appliances/)
+  - [OAuth Consent and Device Code Phishing for Red Teams](https://www.reddit.com/r/netsec/comments/1s6ig2y/oauth_consent_and_device_code_phishing_for_red/)
 - Security Affairs
-  - [ShinyHunters claims the hack of the European Commission](https://securityaffairs.com/190095/data-breach/shinyhunters-claims-the-hack-of-the-european-commission.html)
-  - [Iran-linked group Handala hacked FBI Director Kash Patel’s personal email account](https://securityaffairs.com/190088/intelligence/iran-linked-group-handala-hacked-fbi-director-kash-patels-personal-email-account.html)
-  - [U.S. CISA adds a flaw in F5 BIG-IP AMP to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/190076/uncategorized/u-s-cisa-adds-a-flaw-in-f5-big-ip-amp-to-its-known-exploited-vulnerabilities-catalog.html)
-- Daniel Miessler
-  - [The Most Important Ideas in AI Right Now](https://danielmiessler.com/blog/the-most-important-ideas-in-ai?utm_source=rss&utm_medium=feed&utm_campaign=website)
-  - [What Happens When AI Stops Being Artificially Cheap](https://danielmiessler.com/blog/ai-stops-being-artificially-cheap?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- OnionSec
-  - [找工作后的体会](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485759&idx=1&sn=e79fcfc86d298b50803f478d5218a397)
+  - [Urgent Alert: NetScaler bug CVE-2026-3055 probed by attackers could leak sensitive data](https://securityaffairs.com/190131/hacking/urgent-alert-netscaler-bug-cve-2026-3055-probed-by-attackers-could-leak-sensitive-data.html)
+  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 90](https://securityaffairs.com/190123/malware/security-affairs-malware-newsletter-round-90.html)
+  - [Security Affairs newsletter Round 569 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/190104/uncategorized/security-affairs-newsletter-round-569-by-pierluigi-paganini-international-edition.html)
+  - [Apple issues urgent lock screen warnings for unpatched iPhones and iPads](https://securityaffairs.com/190109/security/apple-issues-urgent-lock-screen-warnings-for-unpatched-iphones-and-ipads.html)
