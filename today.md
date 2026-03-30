@@ -1,11 +1,5 @@
 # 每日安全资讯（2026-03-30）
 
-- Recent Commits to cve:main
-  - [Update Sun Mar 29 11:09:45 UTC 2026](https://github.com/trickest/cve/commit/357a62ea359579c4329e5180fe426104344552c8)
-- SecWiki News
-  - [SecWiki News 2026-03-29 Review](http://www.sec-wiki.com/?2026-03-29)
-- obaby 𝐢‍𝐧⃝ void
-  - [m3u8 downloader v26.03.28](https://zhongxiaojie.cn/2026/03/741/)
 - InfoSec Write-ups - Medium
   - [PSFuzz: Rethinking Web Fuzzing in the Age of AI](https://infosecwriteups.com/psfuzz-rethinking-web-fuzzing-in-the-age-of-ai-9fe0c2df0952?source=rss----7b722bfd1b8d---4)
   - [From OSCP Prep to HTB CPTS: How I Conquered the Exam in 7 Days](https://infosecwriteups.com/from-oscp-prep-to-htb-cpts-how-i-conquered-the-exam-in-7-days-350b6f692bd5?source=rss----7b722bfd1b8d---4)
@@ -13,6 +7,12 @@
   - [Finding an IDOR in User Profile API: A $15,000 Journey to Critical](https://infosecwriteups.com/finding-an-idor-in-user-profile-api-a-15-000-journey-to-critical-0f05e583c00b?source=rss----7b722bfd1b8d---4)
 - Zdziarski
   - [The Link Between Christian Nationalism and Nazi Germany](https://www.zdziarski.com/blog/?p=13746)
+- SecWiki News
+  - [SecWiki News 2026-03-29 Review](http://www.sec-wiki.com/?2026-03-29)
+- obaby 𝐢‍𝐧⃝ void
+  - [m3u8 downloader v26.03.28](https://zhongxiaojie.cn/2026/03/741/)
+- Recent Commits to cve:main
+  - [Update Sun Mar 29 11:09:45 UTC 2026](https://github.com/trickest/cve/commit/357a62ea359579c4329e5180fe426104344552c8)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [PSFuzz: Rethinking Web Fuzzing in the Age of AI](https://infosecwriteups.com/psfuzz-rethinking-web-fuzzing-in-the-age-of-ai-9fe0c2df0952?source=rss----7b722bfd1b8d--bug_bounty)
   - [Finding an IDOR in User Profile API: A $15,000 Journey to Critical](https://infosecwriteups.com/finding-an-idor-in-user-profile-api-a-15-000-journey-to-critical-0f05e583c00b?source=rss----7b722bfd1b8d--bug_bounty)
@@ -27,33 +27,36 @@
 - 奇客Solidot–传递最新科技情报
   - [高效烹饪番茄和胡萝卜](https://www.solidot.org/story?sid=83908)
   - [Google TurboQuant AI 压缩算法大幅减少大模型内存使用](https://www.solidot.org/story?sid=83907)
-- 安全分析与研究
-  - [伪装成ToDesk网站的银狐TMD壳最新攻击样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496624&idx=1&sn=87584de7703440fedb1ec80905de290a)
 - 奇安信 CERT
   - [今日（2026年3月29日）OpenClaw 最新安全动态总结](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504880&idx=1&sn=b9c67976633e36dd3f77c347b0a5159b)
-- 青衣十三楼飞花堂
-  - [初中三角形面积练习题](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489245&idx=1&sn=347731c75edcdb93b32ca9496ee40bdb)
 - 黑鸟
   - [白宫官方APP被曝存在定位追踪、供应链等安全风险](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186013&idx=1&sn=dad8d4cd513ce9a6c37a572a4ad66883)
-- 微步在线
-  - [只需要一句话，就能……](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650185754&idx=1&sn=a82ece52c06c1e09039fa26496b2c97e)
-- 电子物证
-  - [【各类型文件头与隐写术】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048959&idx=1&sn=d41edb83b2b87b93e34c1eaa64ccdf43)
-  - [【AI生成图片的隐形指纹与取证对策】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048959&idx=2&sn=56328dbd6ee34fb84b7191d2ca78b4fe)
+- 青衣十三楼飞花堂
+  - [初中三角形面积练习题](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489245&idx=1&sn=347731c75edcdb93b32ca9496ee40bdb)
 - 丁爸 情报分析师的工具箱
   - [【智能报告】中东及全球安全态势总结与预测（3.29）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154970&idx=1&sn=9395cfb022da0b5d223bb4bc3369e378)
 - 软件安全与逆向分析
   - [Frida官方下场做Frida隐藏功能，strongfrida快要死了？17.9.0引入的新功能全解读](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485091&idx=1&sn=96238a9b1f9a023b9d7b2cdf7c9bbb93)
+- 微步在线
+  - [只需要一句话，就能……](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650185754&idx=1&sn=a82ece52c06c1e09039fa26496b2c97e)
+- 安全分析与研究
+  - [伪装成ToDesk网站的银狐TMD壳最新攻击样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496624&idx=1&sn=87584de7703440fedb1ec80905de290a)
 - 情报分析师
   - [一张卫星图片，终结了一场战争的叙事谎言——GEOINT与商业卫星的情报革命](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567374&idx=1&sn=2d3013989f17c0884679cc76d548a871)
+- 安全行者老霍
+  - [Starkiller 钓鱼套件利用 AitM 反向代理绕过多因素身份验证](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486238&idx=1&sn=0ec917e2f83d7228b31ecf191d05e944)
+- 吾爱破解论坛
+  - [【2026春节】解题领红包 【2-9】WP 通杀](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144060&idx=1&sn=16fc31d74eae3031720f9d408e26211a)
+  - [【2026春节】解题领红包【10.Windows 高级题 11.MCP 中级题】WP 通杀](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144060&idx=2&sn=e0bc61e89bc142f6669e5e9fbf1bc565)
+- 电子物证
+  - [【各类型文件头与隐写术】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048959&idx=1&sn=d41edb83b2b87b93e34c1eaa64ccdf43)
+  - [【AI生成图片的隐形指纹与取证对策】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048959&idx=2&sn=56328dbd6ee34fb84b7191d2ca78b4fe)
 - 极客公园
   - [特斯拉、SpaceX 明年或合并；iPhone 18 Pro 屏幕曝光；刘慈欣：最科幻的是，人类发现宇宙是代码 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653102331&idx=1&sn=6afd31e7b614755bded85eb7a89f9a03)
 - Over Security - Cybersecurity news aggregator
   - [FBI confirms hack of Director Patel's personal email inbox](https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/)
   - [Notification Callback Routines e CommandLine tampering](https://roccosicilia.com/2026/03/29/notification-callback-routines-e-commandline-tampering/)
   - [File read flaw in Smart Slider plugin impacts 500K WordPress sites](https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/)
-- 安全行者老霍
-  - [Starkiller 钓鱼套件利用 AitM 反向代理绕过多因素身份验证](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486238&idx=1&sn=0ec917e2f83d7228b31ecf191d05e944)
 - Full Disclosure
   - [APPLE-SA-03-24-2026-10 Xcode 26.4](https://seclists.org/fulldisclosure/2026/Mar/25)
   - [APPLE-SA-03-24-2026-9 Safari 26.4](https://seclists.org/fulldisclosure/2026/Mar/24)
@@ -69,20 +72,13 @@
   - [OpenClaw MEDIA: Protocol Prompt Injection - File Disclosure Bypassing Tool Permissions (Silently Fixed, Report Denied)](https://seclists.org/fulldisclosure/2026/Mar/14)
   - [Dovecot Security Advisory OXDC-2026-0001](https://seclists.org/fulldisclosure/2026/Mar/13)
   - [CVE-2026-33150, CVE-2026-33179: libfuse io_uring memory safety vulnerabilities (use-after-free, NULL deref)](https://seclists.org/fulldisclosure/2026/Mar/12)
-- 吾爱破解论坛
-  - [【2026春节】解题领红包 【2-9】WP 通杀](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144060&idx=1&sn=16fc31d74eae3031720f9d408e26211a)
-  - [【2026春节】解题领红包【10.Windows 高级题 11.MCP 中级题】WP 通杀](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144060&idx=2&sn=e0bc61e89bc142f6669e5e9fbf1bc565)
+- Your Open Hacker Community
+  - [FlaskForge | Flask Cookie Decoder/Encoder/Cracker TOOL](https://www.reddit.com/r/HowToHack/comments/1s77bxn/flaskforge_flask_cookie_decoderencodercracker_tool/)
 - Security Affairs
   - [Urgent Alert: NetScaler bug CVE-2026-3055 probed by attackers could leak sensitive data](https://securityaffairs.com/190131/hacking/urgent-alert-netscaler-bug-cve-2026-3055-probed-by-attackers-could-leak-sensitive-data.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 90](https://securityaffairs.com/190123/malware/security-affairs-malware-newsletter-round-90.html)
   - [Security Affairs newsletter Round 569 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/190104/uncategorized/security-affairs-newsletter-round-569-by-pierluigi-paganini-international-edition.html)
   - [Apple issues urgent lock screen warnings for unpatched iPhones and iPads](https://securityaffairs.com/190109/security/apple-issues-urgent-lock-screen-warnings-for-unpatched-iphones-and-ipads.html)
-- Computer Forensics
-  - [NVME forensics advice pls](https://www.reddit.com/r/computerforensics/comments/1s76qhs/nvme_forensics_advice_pls/)
-- Technical Information Security Content & Discussion
-  - [Breakdown: How TeamPCP hid malware inside WAV files using audio steganography](https://www.reddit.com/r/netsec/comments/1s6weca/breakdown_how_teampcp_hid_malware_inside_wav/)
-  - [Please, We Beg, Just One Weekend Free Of Appliances (Citrix NetScaler CVE-2026-3055 Memory Overread Part 2) - watchTowr Labs](https://www.reddit.com/r/netsec/comments/1s75kb9/please_we_beg_just_one_weekend_free_of_appliances/)
-  - [OAuth Consent and Device Code Phishing for Red Teams](https://www.reddit.com/r/netsec/comments/1s6ig2y/oauth_consent_and_device_code_phishing_for_red/)
 - netsecstudents: Subreddit for students studying Network Security and its related subjects
   - [Jetpack Compose: How to mock API data when local auth bypass results in a ghost/white screen?](https://www.reddit.com/r/netsecstudents/comments/1s6zayx/jetpack_compose_how_to_mock_api_data_when_local/)
   - [Full breakdown of the TeamPCP WAV steganography technique with detection methods and hands-on Python code](https://www.reddit.com/r/netsecstudents/comments/1s6wrms/full_breakdown_of_the_teampcp_wav_steganography/)
@@ -91,7 +87,11 @@
   - [The $8 million music heist that required zero hacking skills](https://www.reddit.com/r/Information_Security/comments/1s77wd9/the_8_million_music_heist_that_required_zero/)
   - [Leadership wants cloud AI, but our privacy constraints say no, has anyone set up governance for on-prem?](https://www.reddit.com/r/Information_Security/comments/1s6s02o/leadership_wants_cloud_ai_but_our_privacy/)
   - [When I'm not logged in, how long does Google retain my IP address and any other data that might be used to identify me or my device? What happens if I am signed in after deleting my Search History? Additionally, when deleting Search History on Safari but with Google as Search Engine?](https://www.reddit.com/r/Information_Security/comments/1s6pi6s/when_im_not_logged_in_how_long_does_google_retain/)
-- Your Open Hacker Community
-  - [FlaskForge | Flask Cookie Decoder/Encoder/Cracker TOOL](https://www.reddit.com/r/HowToHack/comments/1s77bxn/flaskforge_flask_cookie_decoderencodercracker_tool/)
 - Blackhat Library: Hacking techniques and research
   - [security reviews slow down everything except the stuff that actually needs reviewing](https://www.reddit.com/r/blackhat/comments/1s6rw08/security_reviews_slow_down_everything_except_the/)
+- Computer Forensics
+  - [NVME forensics advice pls](https://www.reddit.com/r/computerforensics/comments/1s76qhs/nvme_forensics_advice_pls/)
+- Technical Information Security Content & Discussion
+  - [Breakdown: How TeamPCP hid malware inside WAV files using audio steganography](https://www.reddit.com/r/netsec/comments/1s6weca/breakdown_how_teampcp_hid_malware_inside_wav/)
+  - [Please, We Beg, Just One Weekend Free Of Appliances (Citrix NetScaler CVE-2026-3055 Memory Overread Part 2) - watchTowr Labs](https://www.reddit.com/r/netsec/comments/1s75kb9/please_we_beg_just_one_weekend_free_of_appliances/)
+  - [OAuth Consent and Device Code Phishing for Red Teams](https://www.reddit.com/r/netsec/comments/1s6ig2y/oauth_consent_and_device_code_phishing_for_red/)
