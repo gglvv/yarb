@@ -1,11 +1,9 @@
 # 每日安全资讯（2026-04-05）
 
-- Armin Ronacher's Thoughts and Writings
-  - [Absurd In Production](https://lucumr.pocoo.org/2026/4/4/absurd-in-production/)
-- Recent Commits to cve:main
-  - [Update Sat Apr  4 11:17:07 UTC 2026](https://github.com/trickest/cve/commit/e0995c7ef9eaefd938175188419062070a1f716e)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [Linux Kernel mseal Invariant Violation (Linux kernel 6.17-7.0 rc5)](https://cxsecurity.com/issue/WLB-2026040003)
+- Recent Commits to cve:main
+  - [Update Sat Apr  4 11:17:07 UTC 2026](https://github.com/trickest/cve/commit/e0995c7ef9eaefd938175188419062070a1f716e)
 - InfoSec Write-ups - Medium
   - [How I Simulated a Supply Chain Attack on Thousands of Servers — and Made $25K](https://infosecwriteups.com/how-i-simulated-a-supply-chain-attack-on-thousands-of-servers-and-made-25k-7d36647cbf36?source=rss----7b722bfd1b8d---4)
   - [Bug Hunting Without Touching the Target: The Power of External Intelligence](https://infosecwriteups.com/bug-hunting-without-touching-the-target-the-power-of-external-intelligence-c40d0b0c4d27?source=rss----7b722bfd1b8d---4)
@@ -16,6 +14,8 @@
   - [My MacBook Ran Out of Storage Mid-Deadline. So I Built the Tool That Fixed It Forever.](https://infosecwriteups.com/my-macbook-ran-out-of-storage-mid-deadline-so-i-built-the-tool-that-fixed-it-forever-73e202a7eb32?source=rss----7b722bfd1b8d---4)
 - SecWiki News
   - [SecWiki News 2026-04-04 Review](http://www.sec-wiki.com/?2026-04-04)
+- Armin Ronacher's Thoughts and Writings
+  - [Absurd In Production](https://lucumr.pocoo.org/2026/4/4/absurd-in-production/)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [How I Simulated a Supply Chain Attack on Thousands of Servers — and Made $25K](https://infosecwriteups.com/how-i-simulated-a-supply-chain-attack-on-thousands-of-servers-and-made-25k-7d36647cbf36?source=rss----7b722bfd1b8d--bug_bounty)
   - [Bug Hunting Without Touching the Target: The Power of External Intelligence](https://infosecwriteups.com/bug-hunting-without-touching-the-target-the-power-of-external-intelligence-c40d0b0c4d27?source=rss----7b722bfd1b8d--bug_bounty)
@@ -31,34 +31,36 @@
   - [美国近半数计划中的数据中心项目推迟或取消](https://www.solidot.org/story?sid=83962)
   - [律师滥用 AI 生成虚假案例的事件激增](https://www.solidot.org/story?sid=83961)
   - [Gentoo GNU/Hurd 不是愚人节玩笑](https://www.solidot.org/story?sid=83960)
+- 黑鸟
+  - [无需Root，安卓手机也能跑Linux容器](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186183&idx=1&sn=592b08b0afe896e39b216ed23e8a0974)
+- 奇安信 CERT
+  - [今日（2026年4月4日）OpenClaw 最新安全动态总结](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505118&idx=1&sn=8915ae51926cc275984f9fe242a077f8)
+- 绿盟科技研究通讯
+  - [可信数据空间（九）基于通用GPU的密态AI数据空间](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499781&idx=1&sn=42fb437a1317f9631b4f63ccf38c2b95)
+- 青衣十三楼飞花堂
+  - [郭汝瑰回忆录](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489271&idx=1&sn=87da7b967fd795a836fd290a9a77f030)
+- 看雪学苑
+  - [X-Perseus AI初窥](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613034&idx=1&sn=7c92ad0714b3a8d23823556d90992a44)
+  - [30小时教你进阶CTF-密码学](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613034&idx=2&sn=ad5a9194675c2f37619735324b25ccff)
+- 丁爸 情报分析师的工具箱
+  - [【工具】查询全球数据中心位置](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155047&idx=1&sn=094a99509136146d939c1acd9122c561)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [特斯拉奥斯汀工厂2025年员工人数减少22%](https://blog.upx8.com/%E7%89%B9%E6%96%AF%E6%8B%89%E5%A5%A5%E6%96%AF%E6%B1%80%E5%B7%A5%E5%8E%822025%E5%B9%B4%E5%91%98%E5%B7%A5%E4%BA%BA%E6%95%B0%E5%87%8F%E5%B0%9122)
   - [远程医疗巨头客户支持系统遭到黑客攻击](https://blog.upx8.com/%E8%BF%9C%E7%A8%8B%E5%8C%BB%E7%96%97%E5%B7%A8%E5%A4%B4%E5%AE%A2%E6%88%B7%E6%94%AF%E6%8C%81%E7%B3%BB%E7%BB%9F%E9%81%AD%E5%88%B0%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB)
   - [原小米字节硬件高管徐睿加入Meta公司](https://blog.upx8.com/%E5%8E%9F%E5%B0%8F%E7%B1%B3%E5%AD%97%E8%8A%82%E7%A1%AC%E4%BB%B6%E9%AB%98%E7%AE%A1%E5%BE%90%E7%9D%BF%E5%8A%A0%E5%85%A5Meta%E5%85%AC%E5%8F%B8)
   - [迪拜甲骨文大楼外立面遭防空系统拦截碎片击中](https://blog.upx8.com/%E8%BF%AA%E6%8B%9C%E7%94%B2%E9%AA%A8%E6%96%87%E5%A4%A7%E6%A5%BC%E5%A4%96%E7%AB%8B%E9%9D%A2%E9%81%AD%E9%98%B2%E7%A9%BA%E7%B3%BB%E7%BB%9F%E6%8B%A6%E6%88%AA%E7%A2%8E%E7%89%87%E5%87%BB%E4%B8%AD)
-- 黑鸟
-  - [无需Root，安卓手机也能跑Linux容器](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186183&idx=1&sn=592b08b0afe896e39b216ed23e8a0974)
-- 奇安信 CERT
-  - [今日（2026年4月4日）OpenClaw 最新安全动态总结](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505118&idx=1&sn=8915ae51926cc275984f9fe242a077f8)
-- 青衣十三楼飞花堂
-  - [郭汝瑰回忆录](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489271&idx=1&sn=87da7b967fd795a836fd290a9a77f030)
-- 丁爸 情报分析师的工具箱
-  - [【工具】查询全球数据中心位置](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155047&idx=1&sn=094a99509136146d939c1acd9122c561)
 - 安全圈
   - [【安全圈】紧急！工信部提醒苹果用户：尽快升级系统版本](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075336&idx=1&sn=dbaee9a70f04da0c08ecf5603b2550b9)
   - [【安全圈】英伟达 RTX 3060 等显卡遭遇新型“锤击”威胁，黑客可接管你的电脑](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075336&idx=2&sn=a2dea47e14faf5ede5d213f9190319e1)
   - [【安全圈】欧盟官网遭入侵致 350GB 数据泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075336&idx=3&sn=ec68d2ee03a7d0e6b9b401c801aabcdd)
-- 看雪学苑
-  - [X-Perseus AI初窥](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613034&idx=1&sn=7c92ad0714b3a8d23823556d90992a44)
-  - [30小时教你进阶CTF-密码学](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613034&idx=2&sn=ad5a9194675c2f37619735324b25ccff)
-- 极客公园
-  - [小米上调三款在售手机零售价；Meta 被曝低调组建独立智能硬件团队；上市前夕，OpenAI 再传高管人事动荡 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653102769&idx=1&sn=a1ffd0c61ca003c8897a5cc8e43cd548)
-- 情报分析师
-  - [真正危险的，不是假新闻，而是带方向的真信息！舆论场里最可怕的武器，情报分析如何识别操纵性叙事](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567444&idx=1&sn=31dc4faa744551439c78f643a4e49e62)
-- 绿盟科技研究通讯
-  - [可信数据空间（九）基于通用GPU的密态AI数据空间](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499781&idx=1&sn=42fb437a1317f9631b4f63ccf38c2b95)
 - 复旦白泽战队
   - [研究分享｜大模型高压下集体 “对齐失效”？复旦 × 创智 × 牛津发布 AutoControl-Arena: 前沿 AI 风险评测迈向自动化](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247498211&idx=1&sn=fe89ccacbe037815575f91a1aee1e303)
+- 情报分析师
+  - [真正危险的，不是假新闻，而是带方向的真信息！舆论场里最可怕的武器，情报分析如何识别操纵性叙事](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567444&idx=1&sn=31dc4faa744551439c78f643a4e49e62)
+- 迪哥讲事
+  - [挖洞所必须的一些信息泄露和js分析工具](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499293&idx=1&sn=4ae771ce1f8b8aeaaf10f2530d4b477f)
+- 安全行者老霍
+  - [了解 AWS 托管 MCP 服务器的 IAM](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486324&idx=1&sn=b3b5680f90a114802bcd6470133d05d7)
 - Over Security - Cybersecurity news aggregator
   - [Axios npm hack used fake Teams error fix to hijack maintainer account](https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/)
   - [LinkedIn secretly scans for 6,000+ Chrome extensions, collects data](https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/)
@@ -66,35 +68,34 @@
   - [After fighting malware for decades, this cybersecurity veteran is now hacking drones](https://techcrunch.com/2026/04/04/after-fighting-malware-for-decades-this-cybersecurity-veteran-is-now-hacking-drones/)
   - [Crunchyroll - 1,195,684 breached accounts](https://haveibeenpwned.com/Breach/Crunchyroll)
   - [SongTrivia2 - 291,739 breached accounts](https://haveibeenpwned.com/Breach/SongTrivia2)
-- 迪哥讲事
-  - [挖洞所必须的一些信息泄露和js分析工具](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499293&idx=1&sn=4ae771ce1f8b8aeaaf10f2530d4b477f)
 - Chaos Computer Club - last 100 events feed
   - [Bike to yourself - Mit Radreisen den eigenen Körper und Geist erfahren (eh23)](https://cdn.media.ccc.de/events/eh2026/h264-hd/eh23-109-deu-Bike_to_yourself_-_Mit_Radreisen_den_eigenen_Koerper_und_Geist_erfahren_hd.mp4)
   - [EscapeRoom im Wohnzimmer - und hunderte sind via Kamera dabei... (eh23)](https://cdn.media.ccc.de/events/eh2026/h264-hd/eh23-105-deu-EscapeRoom_im_Wohnzimmer_-_und_hunderte_sind_via_Kamera_dabei_hd.mp4)
   - [The commit history is a lie. Aber muss das so bleiben? (eh23)](https://cdn.media.ccc.de/events/eh2026/h264-hd/eh23-115-deu-The_commit_history_is_a_lie_Aber_muss_das_so_bleiben_hd.mp4)
   - [Ghost in the stochastic parrot (eh23)](https://cdn.media.ccc.de/events/eh2026/h264-hd/eh23-61-eng-Ghost_in_the_stochastic_parrot_hd.mp4)
   - [The Paper is a Lie: Practical Data Forensics for Scientific Data (eh23)](https://cdn.media.ccc.de/events/eh2026/h264-hd/eh23-10-eng-The_Paper_is_a_Lie_Practical_Data_Forensics_for_Scientific_Data_hd.mp4)
-  - [Public-Public Data-DNA: Verwaltungsdaten in die OSM (eh23)](https://cdn.media.ccc.de/events/eh2026/h264-hd/eh23-107-deu-Public-Public_Data-DNA_Verwaltungsdaten_in_die_OSM_hd.mp4)
   - [No Magic, Just Modbus – Einführung in die OT-Sicherheit (eh23)](https://cdn.media.ccc.de/events/eh2026/h264-hd/eh23-103-deu-No_Magic_Just_Modbus_-_Einfuehrung_in_die_OT-Sicherheit_hd.mp4)
   - [Consent Theater & Interface Oper: Dark Patterns im Alltag (eh23)](https://cdn.media.ccc.de/events/eh2026/h264-hd/eh23-25-deu-Consent_Theater_Interface_Oper_Dark_Patterns_im_Alltag_hd.mp4)
   - [How NOT to IPv6 (eh23)](https://cdn.media.ccc.de/events/eh2026/h264-hd/eh23-126-deu-How_NOT_to_IPv6_hd.mp4)
   - [A decade of certificate transparency and what may come next (eh23)](https://cdn.media.ccc.de/events/eh2026/h264-hd/eh23-50-eng-A_decade_of_certificate_transparency_and_what_may_come_next_hd.mp4)
+  - [Gotta Hack 'Em All! Pokémon (eh23)](https://cdn.media.ccc.de/events/eh2026/h264-hd/eh23-98-deu-Gotta_Hack_Em_All_Pokemon_hd.mp4)
+  - [Public-Public Data-DNA: Verwaltungsdaten in die OSM (eh23)](https://cdn.media.ccc.de/events/eh2026/h264-hd/eh23-107-deu-Public-Public_Data-DNA_Verwaltungsdaten_in_die_OSM_hd.mp4)
   - [Open Source Lizenzen: Wenn die Welt in Belgien zuhause ist und andere Absurditäten (eh23)](https://cdn.media.ccc.de/events/eh2026/h264-hd/eh23-110-deu-Open_Source_Lizenzen_Wenn_die_Welt_in_Belgien_zuhause_ist_und_andere_Absurditaeten_hd.mp4)
+- 极客公园
+  - [小米上调三款在售手机零售价；Meta 被曝低调组建独立智能硬件团队；上市前夕，OpenAI 再传高管人事动荡 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653102769&idx=1&sn=a1ffd0c61ca003c8897a5cc8e43cd548)
+- LastKnight.com Feed
+  - [Sei il migliore, il più geniale, non c’è nessuno al mondo come te](https://mgpf.it/2026/04/04/sei-il-migliore.html)
+- RedTeam
+  - [axios 被黑始末](https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484631&idx=1&sn=a80def7886ac0793e043e3c9c13ac48d)
 - Have I Been Pwned latest breaches
   - [Crunchyroll - 1,195,684 breached accounts](https://haveibeenpwned.com/Breach/Crunchyroll)
   - [SongTrivia2 - 291,739 breached accounts](https://haveibeenpwned.com/Breach/SongTrivia2)
-- 安全行者老霍
-  - [了解 AWS 托管 MCP 服务器的 IAM](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486324&idx=1&sn=b3b5680f90a114802bcd6470133d05d7)
 - Desync InfoSec
   - [一次点击的代价：Lunar Spider 发动近两个月入侵完整分析](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489769&idx=1&sn=d3cd4326321c27774f49ec645d46acf1)
   - [从 Bing 搜索到勒索软件：Bumblebee 投递 Akira 完整分析](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489769&idx=2&sn=29aa882d0eb41dc812d8864aaf4426cd)
-- LastKnight.com Feed
-  - [Sei il migliore, il più geniale, non c’è nessuno al mondo come te](https://mgpf.it/2026/04/04/sei-il-migliore.html)
 - Security Affairs
   - [Qilin ransomware group claims the hack of German political party Die Linke](https://securityaffairs.com/190348/cyber-crime/qilin-ransomware-group-claims-the-hack-of-german-political-party-die-linke.html)
   - [U.S. CISA adds a flaw in TrueConf Client to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/190341/security/u-s-cisa-adds-a-flaw-in-trueconf-client-to-its-known-exploited-vulnerabilities-catalog.html)
   - [European Commission breach exposed data of 30 EU entities, CERT-EU says](https://securityaffairs.com/190333/security/european-commission-breach-exposed-data-of-30-eu-entities-cert-eu-says.html)
-- RedTeam
-  - [axios 被黑始末](https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484631&idx=1&sn=a80def7886ac0793e043e3c9c13ac48d)
 - 网安寻路人
   - [公共场所视频监控与人脸识别的治理路径：国际经验与中国方案](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247508308&idx=1&sn=ca50eaca53ac9740ca1e6b7731a040ac)
