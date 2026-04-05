@@ -1,25 +1,13 @@
 # 每日安全资讯（2026-04-05）
 
-- SecWiki News
-  - [SecWiki News 2026-04-04 Review](http://www.sec-wiki.com/?2026-04-04)
-- CXSECURITY Database RSS Feed - CXSecurity.com
-  - [Linux Kernel mseal Invariant Violation (Linux kernel 6.17-7.0 rc5)](https://cxsecurity.com/issue/WLB-2026040003)
 - Armin Ronacher's Thoughts and Writings
   - [Absurd In Production](https://lucumr.pocoo.org/2026/4/4/absurd-in-production/)
 - Recent Commits to cve:main
   - [Update Sat Apr  4 11:17:07 UTC 2026](https://github.com/trickest/cve/commit/e0995c7ef9eaefd938175188419062070a1f716e)
-- Bug Bounty in InfoSec Write-ups on Medium
-  - [How I Simulated a Supply Chain Attack on Thousands of Servers — and Made $25K](https://infosecwriteups.com/how-i-simulated-a-supply-chain-attack-on-thousands-of-servers-and-made-25k-7d36647cbf36?source=rss----7b722bfd1b8d--bug_bounty)
-  - [Bug Hunting Without Touching the Target: The Power of External Intelligence](https://infosecwriteups.com/bug-hunting-without-touching-the-target-the-power-of-external-intelligence-c40d0b0c4d27?source=rss----7b722bfd1b8d--bug_bounty)
-  - [GraphQL Security: How I Found and Exploited Critical IDOR and Authorization Bypass in a…](https://infosecwriteups.com/graphql-security-how-i-found-and-exploited-critical-idor-and-authorization-bypass-in-a-42ab78e13642?source=rss----7b722bfd1b8d--bug_bounty)
-- Reverse Engineering
-  - [Analysis of WannaCry](https://www.reddit.com/r/ReverseEngineering/comments/1scdm63/analysis_of_wannacry/)
-  - [How I stole AES keys from a microcontroller using power analysis (ChipWhisperer walkthrough)](https://www.reddit.com/r/ReverseEngineering/comments/1scls65/how_i_stole_aes_keys_from_a_microcontroller_using/)
-  - [x64dbg Reversing a Jump Tutorial | Breakpoints, Zero Flag, Binary Patching & Cracking Basics - YouTube](https://www.reddit.com/r/ReverseEngineering/comments/1sc99hq/x64dbg_reversing_a_jump_tutorial_breakpoints_zero/)
-  - [Segway-Ninebot Mobility App BLE protocol reversing](https://www.reddit.com/r/ReverseEngineering/comments/1scavcs/segwayninebot_mobility_app_ble_protocol_reversing/)
-  - [UE5 DX12 Hook (ImGui Overlay, CommandQueue Tracking, No Flicker)](https://www.reddit.com/r/ReverseEngineering/comments/1sccqcq/ue5_dx12_hook_imgui_overlay_commandqueue_tracking/)
-  - [I built a CTF-style AI security game. Looking for feedback from students and professionals](https://www.reddit.com/r/ReverseEngineering/comments/1scjog7/i_built_a_ctfstyle_ai_security_game_looking_for/)
-  - [Shopee.tw App Reverse Engineer Need](https://www.reddit.com/r/ReverseEngineering/comments/1sc9p55/shopeetw_app_reverse_engineer_need/)
+- SecWiki News
+  - [SecWiki News 2026-04-04 Review](http://www.sec-wiki.com/?2026-04-04)
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [Linux Kernel mseal Invariant Violation (Linux kernel 6.17-7.0 rc5)](https://cxsecurity.com/issue/WLB-2026040003)
 - Dancho Danchev's Blog - Mind Streams of Information Security Knowledge
   - [Dancho Danchev's New Ebook - "Dancho Danchev 2026 Third Edition Memoir"](https://ddanchev.blogspot.com/2026/04/dancho-danchevs-new-ebook-dancho.html)
   - [Dancho Danchev's New Ebook - "Данчо Данчев: Сенките на Киберпространството" - In Bulgarian](https://ddanchev.blogspot.com/2026/04/dancho-danchevs-new-ebook-in-bulgarian.html)
@@ -31,6 +19,10 @@
   - [美国近半数计划中的数据中心项目推迟或取消](https://www.solidot.org/story?sid=83962)
   - [律师滥用 AI 生成虚假案例的事件激增](https://www.solidot.org/story?sid=83961)
   - [Gentoo GNU/Hurd 不是愚人节玩笑](https://www.solidot.org/story?sid=83960)
+- 黑鸟
+  - [无需Root，安卓手机也能跑Linux容器](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186183&idx=1&sn=592b08b0afe896e39b216ed23e8a0974)
+- 绿盟科技研究通讯
+  - [可信数据空间（九）基于通用GPU的密态AI数据空间](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499781&idx=1&sn=42fb437a1317f9631b4f63ccf38c2b95)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [特斯拉奥斯汀工厂2025年员工人数减少22%](https://blog.upx8.com/%E7%89%B9%E6%96%AF%E6%8B%89%E5%A5%A5%E6%96%AF%E6%B1%80%E5%B7%A5%E5%8E%822025%E5%B9%B4%E5%91%98%E5%B7%A5%E4%BA%BA%E6%95%B0%E5%87%8F%E5%B0%9122)
   - [远程医疗巨头客户支持系统遭到黑客攻击](https://blog.upx8.com/%E8%BF%9C%E7%A8%8B%E5%8C%BB%E7%96%97%E5%B7%A8%E5%A4%B4%E5%AE%A2%E6%88%B7%E6%94%AF%E6%8C%81%E7%B3%BB%E7%BB%9F%E9%81%AD%E5%88%B0%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB)
@@ -39,18 +31,13 @@
   - [网信办就《数字虚拟人信息服务管理办法》征求意见](https://blog.upx8.com/%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%B0%B1-%E6%95%B0%E5%AD%97%E8%99%9A%E6%8B%9F%E4%BA%BA%E4%BF%A1%E6%81%AF%E6%9C%8D%E5%8A%A1%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95-%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81)
   - [WebRTC的隐私泄露风险：基于ping0.cc的IP收集机制分析](https://blog.upx8.com/WebRTC-ping0-cc-IP)
   - [中国银联发布智能体支付开放协议框架，构建智能支付新生态](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%81%94%E5%8F%91%E5%B8%83%E6%99%BA%E8%83%BD%E4%BD%93%E6%94%AF%E4%BB%98%E5%BC%80%E6%94%BE%E5%8D%8F%E8%AE%AE%E6%A1%86%E6%9E%B6-%E6%9E%84%E5%BB%BA%E6%99%BA%E8%83%BD%E6%94%AF%E4%BB%98%E6%96%B0%E7%94%9F%E6%80%81)
-  - [意大利法院裁定Netflix平台涨价违法，消费者最高可获500欧元赔偿](https://blog.upx8.com/%E6%84%8F%E5%A4%A7%E5%88%A9%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9ANetflix%E5%B9%B3%E5%8F%B0%E6%B6%A8%E4%BB%B7%E8%BF%9D%E6%B3%95-%E6%B6%88%E8%B4%B9%E8%80%85%E6%9C%80%E9%AB%98%E5%8F%AF%E8%8E%B7500%E6%AC%A7%E5%85%83%E8%B5%94%E5%81%BF)
-- 黑鸟
-  - [无需Root，安卓手机也能跑Linux容器](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186183&idx=1&sn=592b08b0afe896e39b216ed23e8a0974)
-- 绿盟科技研究通讯
-  - [可信数据空间（九）基于通用GPU的密态AI数据空间](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499781&idx=1&sn=42fb437a1317f9631b4f63ccf38c2b95)
-- 奇安信 CERT
-  - [今日（2026年4月4日）OpenClaw 最新安全动态总结](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505118&idx=1&sn=8915ae51926cc275984f9fe242a077f8)
 - 丁爸 情报分析师的工具箱
   - [【工具】查询全球数据中心位置](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155047&idx=1&sn=094a99509136146d939c1acd9122c561)
 - 看雪学苑
   - [X-Perseus AI初窥](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613034&idx=1&sn=7c92ad0714b3a8d23823556d90992a44)
   - [30小时教你进阶CTF-密码学](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613034&idx=2&sn=ad5a9194675c2f37619735324b25ccff)
+- 奇安信 CERT
+  - [今日（2026年4月4日）OpenClaw 最新安全动态总结](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505118&idx=1&sn=8915ae51926cc275984f9fe242a077f8)
 - 安全圈
   - [【安全圈】紧急！工信部提醒苹果用户：尽快升级系统版本](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075336&idx=1&sn=dbaee9a70f04da0c08ecf5603b2550b9)
   - [【安全圈】英伟达 RTX 3060 等显卡遭遇新型“锤击”威胁，黑客可接管你的电脑](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075336&idx=2&sn=a2dea47e14faf5ede5d213f9190319e1)
@@ -61,18 +48,12 @@
   - [小米上调三款在售手机零售价；Meta 被曝低调组建独立智能硬件团队；上市前夕，OpenAI 再传高管人事动荡 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653102769&idx=1&sn=a1ffd0c61ca003c8897a5cc8e43cd548)
 - 复旦白泽战队
   - [研究分享｜大模型高压下集体 “对齐失效”？复旦 × 创智 × 牛津发布 AutoControl-Arena: 前沿 AI 风险评测迈向自动化](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247498211&idx=1&sn=fe89ccacbe037815575f91a1aee1e303)
-- Have I Been Pwned latest breaches
-  - [Crunchyroll - 1,195,684 breached accounts](https://haveibeenpwned.com/Breach/Crunchyroll)
-  - [SongTrivia2 - 291,739 breached accounts](https://haveibeenpwned.com/Breach/SongTrivia2)
-- LastKnight.com Feed
-  - [Sei il migliore, il più geniale, non c’è nessuno al mondo come te](https://mgpf.it/2026/04/04/sei-il-migliore.html)
-- RedTeam
-  - [axios 被黑始末](https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484631&idx=1&sn=a80def7886ac0793e043e3c9c13ac48d)
 - 安全行者老霍
   - [了解 AWS 托管 MCP 服务器的 IAM](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486324&idx=1&sn=b3b5680f90a114802bcd6470133d05d7)
-- Desync InfoSec
-  - [一次点击的代价：Lunar Spider 发动近两个月入侵完整分析](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489769&idx=1&sn=d3cd4326321c27774f49ec645d46acf1)
-  - [从 Bing 搜索到勒索软件：Bumblebee 投递 Akira 完整分析](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489769&idx=2&sn=29aa882d0eb41dc812d8864aaf4426cd)
+- 迪哥讲事
+  - [挖洞所必须的一些信息泄露和js分析工具](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499293&idx=1&sn=4ae771ce1f8b8aeaaf10f2530d4b477f)
+- LastKnight.com Feed
+  - [Sei il migliore, il più geniale, non c’è nessuno al mondo come te](https://mgpf.it/2026/04/04/sei-il-migliore.html)
 - Over Security - Cybersecurity news aggregator
   - [Axios npm hack used fake Teams error fix to hijack maintainer account](https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/)
   - [LinkedIn secretly scans for 6,000+ Chrome extensions, collects data](https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/)
@@ -80,27 +61,17 @@
   - [After fighting malware for decades, this cybersecurity veteran is now hacking drones](https://techcrunch.com/2026/04/04/after-fighting-malware-for-decades-this-cybersecurity-veteran-is-now-hacking-drones/)
   - [Crunchyroll - 1,195,684 breached accounts](https://haveibeenpwned.com/Breach/Crunchyroll)
   - [SongTrivia2 - 291,739 breached accounts](https://haveibeenpwned.com/Breach/SongTrivia2)
-- 迪哥讲事
-  - [挖洞所必须的一些信息泄露和js分析工具](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499293&idx=1&sn=4ae771ce1f8b8aeaaf10f2530d4b477f)
-- netsecstudents: Subreddit for students studying Network Security and its related subjects
-  - [Did my first OSINT investigation project — would love feedback from others learning](https://www.reddit.com/r/netsecstudents/comments/1scniy6/did_my_first_osint_investigation_project_would/)
-  - [JWT is more dangerous than I thought (if implemented wrong)](https://www.reddit.com/r/netsecstudents/comments/1sck1uv/jwt_is_more_dangerous_than_i_thought_if/)
-  - [Need respondants for my thesis on dark web](https://www.reddit.com/r/netsecstudents/comments/1scl1b1/need_respondants_for_my_thesis_on_dark_web/)
-  - [What are the next steps for App Sec?](https://www.reddit.com/r/netsecstudents/comments/1sbuvgz/what_are_the_next_steps_for_app_sec/)
-- Blackhat Library: Hacking techniques and research
-  - [Best WiFi security settings + question about associated devices](https://www.reddit.com/r/blackhat/comments/1sc9y9g/best_wifi_security_settings_question_about/)
-- Social Engineering
-  - [How The Bible Protects Human Trafficking](https://www.reddit.com/r/SocialEngineering/comments/1sciuvq/how_the_bible_protects_human_trafficking/)
+- Desync InfoSec
+  - [一次点击的代价：Lunar Spider 发动近两个月入侵完整分析](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489769&idx=1&sn=d3cd4326321c27774f49ec645d46acf1)
+  - [从 Bing 搜索到勒索软件：Bumblebee 投递 Akira 完整分析](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489769&idx=2&sn=29aa882d0eb41dc812d8864aaf4426cd)
 - Security Affairs
   - [Qilin ransomware group claims the hack of German political party Die Linke](https://securityaffairs.com/190348/cyber-crime/qilin-ransomware-group-claims-the-hack-of-german-political-party-die-linke.html)
   - [U.S. CISA adds a flaw in TrueConf Client to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/190341/security/u-s-cisa-adds-a-flaw-in-trueconf-client-to-its-known-exploited-vulnerabilities-catalog.html)
   - [European Commission breach exposed data of 30 EU entities, CERT-EU says](https://securityaffairs.com/190333/security/european-commission-breach-exposed-data-of-30-eu-entities-cert-eu-says.html)
-- Information Security
-  - [Die besten websiten die man braucht um herauszufinden was über einen selbst alles im Internet zu finden ist?](https://www.reddit.com/r/Information_Security/comments/1scjbwk/die_besten_websiten_die_man_braucht_um/)
-  - [Analysis of cifrat new mobile variant of RAT](https://www.reddit.com/r/Information_Security/comments/1sc2ont/analysis_of_cifrat_new_mobile_variant_of_rat/)
-  - [Looking for a Part-Time Co-Founder (Sales Focus) – Ahmedabad Preferred](https://www.reddit.com/r/Information_Security/comments/1sbzif7/looking_for_a_parttime_cofounder_sales_focus/)
-  - [Your CI/CD security scanner probably has access to secrets it will never need](https://www.reddit.com/r/Information_Security/comments/1sbuid2/your_cicd_security_scanner_probably_has_access_to/)
-- Technical Information Security Content & Discussion
-  - [Proof-of-Personhood Without Biometrics: The IRLid Protocol](https://www.reddit.com/r/netsec/comments/1sc3fju/proofofpersonhood_without_biometrics_the_irlid/)
+- RedTeam
+  - [axios 被黑始末](https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484631&idx=1&sn=a80def7886ac0793e043e3c9c13ac48d)
+- Have I Been Pwned latest breaches
+  - [Crunchyroll - 1,195,684 breached accounts](https://haveibeenpwned.com/Breach/Crunchyroll)
+  - [SongTrivia2 - 291,739 breached accounts](https://haveibeenpwned.com/Breach/SongTrivia2)
 - 网安寻路人
   - [公共场所视频监控与人脸识别的治理路径：国际经验与中国方案](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247508308&idx=1&sn=ca50eaca53ac9740ca1e6b7731a040ac)
