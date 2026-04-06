@@ -1,16 +1,21 @@
 # 每日安全资讯（2026-04-06）
 
+- SecWiki News
+  - [SecWiki News 2026-04-05 Review](http://www.sec-wiki.com/?2026-04-05)
+- Recent Commits to cve:main
+  - [Update Sun Apr  5 11:15:42 UTC 2026](https://github.com/trickest/cve/commit/3446c5b0343069dd9ac28220ae7d05680d562bda)
 - InfoSec Write-ups - Medium
   - [The Invisible Threat: Detecting Early-Stage Phishing & Scam Campaigns](https://infosecwriteups.com/the-invisible-threat-detecting-early-stage-phishing-scam-campaigns-c5d36ef97336?source=rss----7b722bfd1b8d---4)
   - [Inside SC-200: What It Takes to Become a Microsoft Security Analyst](https://infosecwriteups.com/inside-sc-200-what-it-takes-to-become-a-microsoft-security-analyst-16391c166025?source=rss----7b722bfd1b8d---4)
-- Recent Commits to cve:main
-  - [Update Sun Apr  5 11:15:42 UTC 2026](https://github.com/trickest/cve/commit/3446c5b0343069dd9ac28220ae7d05680d562bda)
 - Zdziarski
   - [The Link Between Christian Nationalism and Nazi Germany](https://www.zdziarski.com/blog/?p=13746)
-- SecWiki News
-  - [SecWiki News 2026-04-05 Review](http://www.sec-wiki.com/?2026-04-05)
 - CCC Event Blog
   - [FSCK 2026 – Episode IV in Backnang](https://events.ccc.de/2026/04/06/fsck-2026/)
+- Reverse Engineering
+  - [Reverse engineering PerimeterX’s new VM](https://www.reddit.com/r/ReverseEngineering/comments/1scyvt2/reverse_engineering_perimeterxs_new_vm/)
+  - [Inside WannaCry: Exploit, Worming, and TOR Communication Explained](https://www.reddit.com/r/ReverseEngineering/comments/1sd2brh/inside_wannacry_exploit_worming_and_tor/)
+  - [Revived "Sniper Shooter Free" — patched to work on modern Android](https://www.reddit.com/r/ReverseEngineering/comments/1sd7yvi/revived_sniper_shooter_free_patched_to_work_on/)
+  - [IW8 is safe and works fine? I'm interested in using it to learn how the game was developed, as well as the files, compilation process, etc.](https://www.reddit.com/r/ReverseEngineering/comments/1sdc3ku/iw8_is_safe_and_works_fine_im_interested_in_using/)
 - Malwarebytes
   - [Killer robots are here. Now what? (Lock and Code S07E07)](https://www.malwarebytes.com/blog/podcast/2026/04/killer-robots-are-here-now-what-lock-and-code-s07e07)
 - 奇客Solidot–传递最新科技情报
@@ -19,21 +24,19 @@
   - [Ubuntu 26.04 LTS 的最低内存需求提高到 6GB](https://www.solidot.org/story?sid=83965)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [卫星公司应美国要求 停止发布中东图像](https://blog.upx8.com/%E5%8D%AB%E6%98%9F%E5%85%AC%E5%8F%B8%E5%BA%94%E7%BE%8E%E5%9B%BD%E8%A6%81%E6%B1%82-%E5%81%9C%E6%AD%A2%E5%8F%91%E5%B8%83%E4%B8%AD%E4%B8%9C%E5%9B%BE%E5%83%8F)
-  - [伊朗全国断网37天 创全球史上最久纪录](https://blog.upx8.com/%E4%BC%8A%E6%9C%97%E5%85%A8%E5%9B%BD%E6%96%AD%E7%BD%9137%E5%A4%A9-%E5%88%9B%E5%85%A8%E7%90%83%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%B9%85%E7%BA%AA%E5%BD%95)
-  - [俄国家原子能公司从伊朗布什尔核电站撤离198人](https://blog.upx8.com/%E4%BF%84%E5%9B%BD%E5%AE%B6%E5%8E%9F%E5%AD%90%E8%83%BD%E5%85%AC%E5%8F%B8%E4%BB%8E%E4%BC%8A%E6%9C%97%E5%B8%83%E4%BB%80%E5%B0%94%E6%A0%B8%E7%94%B5%E7%AB%99%E6%92%A4%E7%A6%BB198%E4%BA%BA)
 - 锦行科技
   - [春和景明，时序清明](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494824&idx=1&sn=cdd67277d0ad635a47e3bb7e29054dbd)
-- Shostack & Friends Blog
-  - [DevSecOps: Lessons from the ST:TNG Crew](https://shostack.org/blog/devsecops-lessons-from-st-tng-crew/)
 - 黑鸟
   - [当广告流量分发与效果跟踪系统被用于网络攻击后](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186200&idx=1&sn=c42c4aac2d4b6f1c72ca24f4761884d9)
-- 安全学术圈
-  - [2026年度CCF-蚂蚁科研基金（网络空间安全领域）](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495192&idx=1&sn=a42da0cbcc07b762f6a33e4d7465ee15)
+- Shostack & Friends Blog
+  - [DevSecOps: Lessons from the ST:TNG Crew](https://shostack.org/blog/devsecops-lessons-from-st-tng-crew/)
 - 奇安信 CERT
   - [今日（2026年4月5日）OpenClaw 最新安全动态总结](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505123&idx=1&sn=3a2b70b468d4f859ddcf9d8e98b7532b)
 - 丁爸 情报分析师的工具箱
   - [【技巧】零开发基础用龙虾搭建本地开源情报指挥大屏](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155060&idx=1&sn=40bccf0b8a1c27f746128089230d4772)
   - [【智能报告】全球态势综合情报简报（4.5）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155060&idx=3&sn=a27c1b029a4584a499a239b9c0893df9)
+- 安全学术圈
+  - [2026年度CCF-蚂蚁科研基金（网络空间安全领域）](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495192&idx=1&sn=a42da0cbcc07b762f6a33e4d7465ee15)
 - 安全圈
   - [【安全圈】抖音网页版突发网络崩溃，用户访问受阻](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075364&idx=1&sn=52167459e404697e69e6b6f8f6609edf)
   - [【安全圈】Linux 内核维护者崩溃了！AI 每天狂塞 10 份漏洞报告](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075364&idx=2&sn=33a8436b6dcf51f88f8a1244ce1ab87d)
@@ -55,11 +58,11 @@
   - [Traffic violation scams switch to QR codes in new phishing texts](https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/)
   - [New FortiClient EMS flaw exploited in attacks, emergency patch released](https://www.bleepingcomputer.com/news/security/new-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/)
   - [Hackers exploit React2Shell in automated credential theft campaign](https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/)
+- 安全行者老霍
+  - [2026年最佳企业级AI安全解决方案](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486367&idx=1&sn=5ca7783dd2a61b499b75074bb3e5811f)
 - Desync InfoSec
   - [开发者凭据经济：为什么暴露数据是供应链战争的新前线](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489787&idx=1&sn=88c1945092361c7fd8136c7cd0c63d7d)
   - [从 Bing 搜索到勒索软件：Bumblebee 与 AdaptixC2 联手部署 Akira](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489787&idx=2&sn=1cf23d3bbd9a3c71844ad6f16b5e90b0)
-- 安全行者老霍
-  - [2026年最佳企业级AI安全解决方案](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486367&idx=1&sn=5ca7783dd2a61b499b75074bb3e5811f)
 - The Hacker News
   - [$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation](https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html)
   - [36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants](https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html)
@@ -68,6 +71,18 @@
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 91](https://securityaffairs.com/190379/malware/security-affairs-malware-newsletter-round-91.html)
   - [Image or Malware? Read until the end and answer in comments :)](https://securityaffairs.com/190358/hacking/image-or-malware-read-until-the-end-and-answer-in-comments.html)
   - [Security Affairs newsletter Round 571 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/190368/breaking-news/security-affairs-newsletter-round-571-by-pierluigi-paganini-international-edition.html)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [Any tools that help predict risky data exposure instead of just reacting?](https://www.reddit.com/r/netsecstudents/comments/1sd03kk/any_tools_that_help_predict_risky_data_exposure/)
+  - [How do you prepare for interviews (cyber roles)?](https://www.reddit.com/r/netsecstudents/comments/1scrknz/how_do_you_prepare_for_interviews_cyber_roles/)
+- Technical Information Security Content & Discussion
+  - [GDDRHammer and GeForge: GDDR6 GPU Rowhammer to root shell (IEEE S&P 2026, exploit code available)](https://www.reddit.com/r/netsec/comments/1sd7hzh/gddrhammer_and_geforge_gddr6_gpu_rowhammer_to/)
+- Deep Web
+  - [The fake story of dark web](https://www.reddit.com/r/deepweb/comments/1sdaqna/the_fake_story_of_dark_web/)
+- Your Open Hacker Community
+  - [Simple x86 Buffer Overflow & Shellcode Example](https://www.reddit.com/r/HowToHack/comments/1sdd874/simple_x86_buffer_overflow_shellcode_example/)
+  - [overhauling the firmware on a cheap digital cam](https://www.reddit.com/r/HowToHack/comments/1scwntf/overhauling_the_firmware_on_a_cheap_digital_cam/)
+  - [How to replicate or connect the victim to the FakeAP without human interaction](https://www.reddit.com/r/HowToHack/comments/1scst7e/how_to_replicate_or_connect_the_victim_to_the/)
+  - [Help me figure out my old password!](https://www.reddit.com/r/HowToHack/comments/1sd0wgv/help_me_figure_out_my_old_password/)
 - Daniel Miessler
   - [Moving Inter and Cross-Domain Advances from Decades to Days](https://danielmiessler.com/blog/moving-inter-and-cross-domain-advances-from-decades-to-days?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - 希潭实验室
