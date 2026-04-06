@@ -26,10 +26,10 @@
   - [卫星公司应美国要求 停止发布中东图像](https://blog.upx8.com/%E5%8D%AB%E6%98%9F%E5%85%AC%E5%8F%B8%E5%BA%94%E7%BE%8E%E5%9B%BD%E8%A6%81%E6%B1%82-%E5%81%9C%E6%AD%A2%E5%8F%91%E5%B8%83%E4%B8%AD%E4%B8%9C%E5%9B%BE%E5%83%8F)
 - 锦行科技
   - [春和景明，时序清明](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494824&idx=1&sn=cdd67277d0ad635a47e3bb7e29054dbd)
-- 黑鸟
-  - [当广告流量分发与效果跟踪系统被用于网络攻击后](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186200&idx=1&sn=c42c4aac2d4b6f1c72ca24f4761884d9)
 - Shostack & Friends Blog
   - [DevSecOps: Lessons from the ST:TNG Crew](https://shostack.org/blog/devsecops-lessons-from-st-tng-crew/)
+- 黑鸟
+  - [当广告流量分发与效果跟踪系统被用于网络攻击后](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186200&idx=1&sn=c42c4aac2d4b6f1c72ca24f4761884d9)
 - 奇安信 CERT
   - [今日（2026年4月5日）OpenClaw 最新安全动态总结](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505123&idx=1&sn=3a2b70b468d4f859ddcf9d8e98b7532b)
 - 丁爸 情报分析师的工具箱
@@ -37,10 +37,6 @@
   - [【智能报告】全球态势综合情报简报（4.5）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155060&idx=3&sn=a27c1b029a4584a499a239b9c0893df9)
 - 安全学术圈
   - [2026年度CCF-蚂蚁科研基金（网络空间安全领域）](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495192&idx=1&sn=a42da0cbcc07b762f6a33e4d7465ee15)
-- 安全圈
-  - [【安全圈】抖音网页版突发网络崩溃，用户访问受阻](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075364&idx=1&sn=52167459e404697e69e6b6f8f6609edf)
-  - [【安全圈】Linux 内核维护者崩溃了！AI 每天狂塞 10 份漏洞报告](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075364&idx=2&sn=33a8436b6dcf51f88f8a1244ce1ab87d)
-  - [【安全圈】黑进 FBI 局长邮箱、删光 20 万台电脑数据，伊朗黑客开辟“第二战场”](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075364&idx=3&sn=941f57ae59f7e0d942613e1975f30a87)
 - 中国信息安全
   - [工信部提醒：苹果用户警惕网络攻击，及时升级版本、修复漏洞](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261030&idx=1&sn=0e642eac58fd18e6e2f843afd9e37717)
   - [公告 | 国家数据局就《数据产权登记工作指引（试行）》（公开征求意见稿）公开征求意见](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261030&idx=2&sn=cc525c947d4405f9e0886b382b11d2c2)
@@ -49,33 +45,35 @@
 - 极客公园
   - [如果有一天周杰伦用 AI 写歌，你还会听吗？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653102791&idx=1&sn=a14f46b343717105f95b12d5f046ee39)
   - [Anthropic 宣布封杀 OpenClaw；马斯克要求参与 SpaceX IPO 的公司购买 Grok；拼多多创始人黄峥或在攻读生命科学博士｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653102806&idx=1&sn=799f407280daf5978a0e08ec7e747a93)
-- 情报分析师
-  - [别盯着绝密文件了，最值钱的情报都在网上裸奔](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567445&idx=1&sn=68c6a12de89c4f630dba686c00a1c5ed)
+- 安全圈
+  - [【安全圈】抖音网页版突发网络崩溃，用户访问受阻](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075364&idx=1&sn=52167459e404697e69e6b6f8f6609edf)
+  - [【安全圈】Linux 内核维护者崩溃了！AI 每天狂塞 10 份漏洞报告](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075364&idx=2&sn=33a8436b6dcf51f88f8a1244ce1ab87d)
+  - [【安全圈】黑进 FBI 局长邮箱、删光 20 万台电脑数据，伊朗黑客开辟“第二战场”](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075364&idx=3&sn=941f57ae59f7e0d942613e1975f30a87)
 - 火绒安全
   - [清明|春阳和熙 守护同行](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247531889&idx=1&sn=6b5e969e28b29a828565038fdc822bfa)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247531889&idx=2&sn=0eaacdb6dedd4aeacbae89b73f5ddfd2)
+- 情报分析师
+  - [别盯着绝密文件了，最值钱的情报都在网上裸奔](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567445&idx=1&sn=68c6a12de89c4f630dba686c00a1c5ed)
 - Over Security - Cybersecurity news aggregator
   - [Traffic violation scams switch to QR codes in new phishing texts](https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/)
   - [New FortiClient EMS flaw exploited in attacks, emergency patch released](https://www.bleepingcomputer.com/news/security/new-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/)
   - [Hackers exploit React2Shell in automated credential theft campaign](https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/)
+- Chaos Computer Club - last 100 events feed
+  - [Infrastructure Review and Closing (eh23)](https://cdn.media.ccc.de/events/eh2026/h264-hd/eh23-7-deu-Infrastructure_Review_and_Closing_hd.mp4)
 - 安全行者老霍
   - [2026年最佳企业级AI安全解决方案](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486367&idx=1&sn=5ca7783dd2a61b499b75074bb3e5811f)
-- Desync InfoSec
-  - [开发者凭据经济：为什么暴露数据是供应链战争的新前线](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489787&idx=1&sn=88c1945092361c7fd8136c7cd0c63d7d)
-  - [从 Bing 搜索到勒索软件：Bumblebee 与 AdaptixC2 联手部署 Akira](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489787&idx=2&sn=1cf23d3bbd9a3c71844ad6f16b5e90b0)
 - The Hacker News
   - [$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation](https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html)
   - [36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants](https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html)
   - [Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS](https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html)
-- Security Affairs
-  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 91](https://securityaffairs.com/190379/malware/security-affairs-malware-newsletter-round-91.html)
-  - [Image or Malware? Read until the end and answer in comments :)](https://securityaffairs.com/190358/hacking/image-or-malware-read-until-the-end-and-answer-in-comments.html)
-  - [Security Affairs newsletter Round 571 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/190368/breaking-news/security-affairs-newsletter-round-571-by-pierluigi-paganini-international-edition.html)
+- Desync InfoSec
+  - [开发者凭据经济：为什么暴露数据是供应链战争的新前线](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489787&idx=1&sn=88c1945092361c7fd8136c7cd0c63d7d)
+  - [从 Bing 搜索到勒索软件：Bumblebee 与 AdaptixC2 联手部署 Akira](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489787&idx=2&sn=1cf23d3bbd9a3c71844ad6f16b5e90b0)
+- Technical Information Security Content & Discussion
+  - [GDDRHammer and GeForge: GDDR6 GPU Rowhammer to root shell (IEEE S&P 2026, exploit code available)](https://www.reddit.com/r/netsec/comments/1sd7hzh/gddrhammer_and_geforge_gddr6_gpu_rowhammer_to/)
 - netsecstudents: Subreddit for students studying Network Security and its related subjects
   - [Any tools that help predict risky data exposure instead of just reacting?](https://www.reddit.com/r/netsecstudents/comments/1sd03kk/any_tools_that_help_predict_risky_data_exposure/)
   - [How do you prepare for interviews (cyber roles)?](https://www.reddit.com/r/netsecstudents/comments/1scrknz/how_do_you_prepare_for_interviews_cyber_roles/)
-- Technical Information Security Content & Discussion
-  - [GDDRHammer and GeForge: GDDR6 GPU Rowhammer to root shell (IEEE S&P 2026, exploit code available)](https://www.reddit.com/r/netsec/comments/1sd7hzh/gddrhammer_and_geforge_gddr6_gpu_rowhammer_to/)
 - Deep Web
   - [The fake story of dark web](https://www.reddit.com/r/deepweb/comments/1sdaqna/the_fake_story_of_dark_web/)
 - Your Open Hacker Community
@@ -83,6 +81,10 @@
   - [overhauling the firmware on a cheap digital cam](https://www.reddit.com/r/HowToHack/comments/1scwntf/overhauling_the_firmware_on_a_cheap_digital_cam/)
   - [How to replicate or connect the victim to the FakeAP without human interaction](https://www.reddit.com/r/HowToHack/comments/1scst7e/how_to_replicate_or_connect_the_victim_to_the/)
   - [Help me figure out my old password!](https://www.reddit.com/r/HowToHack/comments/1sd0wgv/help_me_figure_out_my_old_password/)
+- Security Affairs
+  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 91](https://securityaffairs.com/190379/malware/security-affairs-malware-newsletter-round-91.html)
+  - [Image or Malware? Read until the end and answer in comments :)](https://securityaffairs.com/190358/hacking/image-or-malware-read-until-the-end-and-answer-in-comments.html)
+  - [Security Affairs newsletter Round 571 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/190368/breaking-news/security-affairs-newsletter-round-571-by-pierluigi-paganini-international-edition.html)
 - Daniel Miessler
   - [Moving Inter and Cross-Domain Advances from Decades to Days](https://danielmiessler.com/blog/moving-inter-and-cross-domain-advances-from-decades-to-days?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - 希潭实验室
