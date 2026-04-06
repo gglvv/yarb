@@ -2,25 +2,25 @@
 
 - SecWiki News
   - [SecWiki News 2026-04-05 Review](http://www.sec-wiki.com/?2026-04-05)
-- Recent Commits to cve:main
-  - [Update Sun Apr  5 11:15:42 UTC 2026](https://github.com/trickest/cve/commit/3446c5b0343069dd9ac28220ae7d05680d562bda)
 - InfoSec Write-ups - Medium
   - [The Invisible Threat: Detecting Early-Stage Phishing & Scam Campaigns](https://infosecwriteups.com/the-invisible-threat-detecting-early-stage-phishing-scam-campaigns-c5d36ef97336?source=rss----7b722bfd1b8d---4)
   - [Inside SC-200: What It Takes to Become a Microsoft Security Analyst](https://infosecwriteups.com/inside-sc-200-what-it-takes-to-become-a-microsoft-security-analyst-16391c166025?source=rss----7b722bfd1b8d---4)
+- Recent Commits to cve:main
+  - [Update Sun Apr  5 11:15:42 UTC 2026](https://github.com/trickest/cve/commit/3446c5b0343069dd9ac28220ae7d05680d562bda)
 - Zdziarski
   - [The Link Between Christian Nationalism and Nazi Germany](https://www.zdziarski.com/blog/?p=13746)
-- Malwarebytes
-  - [Killer robots are here. Now what? (Lock and Code S07E07)](https://www.malwarebytes.com/blog/podcast/2026/04/killer-robots-are-here-now-what-lock-and-code-s07e07)
 - CCC Event Blog
   - [FSCK 2026 – Episode IV in Backnang](https://events.ccc.de/2026/04/06/fsck-2026/)
+- Malwarebytes
+  - [Killer robots are here. Now what? (Lock and Code S07E07)](https://www.malwarebytes.com/blog/podcast/2026/04/killer-robots-are-here-now-what-lock-and-code-s07e07)
 - 奇客Solidot–传递最新科技情报
   - [认知投降导致 AI 用户放弃逻辑思维能力](https://www.solidot.org/story?sid=83967)
   - [AWS 工程师报告 Linux 7.0 下 PostgreSQL 性能暴降一半](https://www.solidot.org/story?sid=83966)
   - [Ubuntu 26.04 LTS 的最低内存需求提高到 6GB](https://www.solidot.org/story?sid=83965)
-- Shostack & Friends Blog
-  - [DevSecOps: Lessons from the ST:TNG Crew](https://shostack.org/blog/devsecops-lessons-from-st-tng-crew/)
 - 锦行科技
   - [春和景明，时序清明](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494824&idx=1&sn=cdd67277d0ad635a47e3bb7e29054dbd)
+- Shostack & Friends Blog
+  - [DevSecOps: Lessons from the ST:TNG Crew](https://shostack.org/blog/devsecops-lessons-from-st-tng-crew/)
 - 黑鸟
   - [当广告流量分发与效果跟踪系统被用于网络攻击后](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186200&idx=1&sn=c42c4aac2d4b6f1c72ca24f4761884d9)
 - 奇安信 CERT
@@ -42,26 +42,26 @@
 - 极客公园
   - [如果有一天周杰伦用 AI 写歌，你还会听吗？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653102791&idx=1&sn=a14f46b343717105f95b12d5f046ee39)
   - [Anthropic 宣布封杀 OpenClaw；马斯克要求参与 SpaceX IPO 的公司购买 Grok；拼多多创始人黄峥或在攻读生命科学博士｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653102806&idx=1&sn=799f407280daf5978a0e08ec7e747a93)
+- 情报分析师
+  - [别盯着绝密文件了，最值钱的情报都在网上裸奔](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567445&idx=1&sn=68c6a12de89c4f630dba686c00a1c5ed)
 - 火绒安全
   - [清明|春阳和熙 守护同行](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247531889&idx=1&sn=6b5e969e28b29a828565038fdc822bfa)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247531889&idx=2&sn=0eaacdb6dedd4aeacbae89b73f5ddfd2)
-- 情报分析师
-  - [别盯着绝密文件了，最值钱的情报都在网上裸奔](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567445&idx=1&sn=68c6a12de89c4f630dba686c00a1c5ed)
+- Over Security - Cybersecurity news aggregator
+  - [Traffic violation scams switch to QR codes in new phishing texts](https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/)
+  - [New FortiClient EMS flaw exploited in attacks, emergency patch released](https://www.bleepingcomputer.com/news/security/new-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/)
+  - [Hackers exploit React2Shell in automated credential theft campaign](https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/)
+- Chaos Computer Club - last 100 events feed
+  - [Infrastructure Review and Closing (eh23)](https://cdn.media.ccc.de/events/eh2026/h264-hd/eh23-7-deu-Infrastructure_Review_and_Closing_hd.mp4)
 - 安全行者老霍
   - [2026年最佳企业级AI安全解决方案](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486367&idx=1&sn=5ca7783dd2a61b499b75074bb3e5811f)
 - Desync InfoSec
   - [开发者凭据经济：为什么暴露数据是供应链战争的新前线](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489787&idx=1&sn=88c1945092361c7fd8136c7cd0c63d7d)
   - [从 Bing 搜索到勒索软件：Bumblebee 与 AdaptixC2 联手部署 Akira](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489787&idx=2&sn=1cf23d3bbd9a3c71844ad6f16b5e90b0)
-- Chaos Computer Club - last 100 events feed
-  - [Infrastructure Review and Closing (eh23)](https://cdn.media.ccc.de/events/eh2026/h264-hd/eh23-7-deu-Infrastructure_Review_and_Closing_hd.mp4)
 - Security Affairs
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 91](https://securityaffairs.com/190379/malware/security-affairs-malware-newsletter-round-91.html)
   - [Image or Malware? Read until the end and answer in comments :)](https://securityaffairs.com/190358/hacking/image-or-malware-read-until-the-end-and-answer-in-comments.html)
   - [Security Affairs newsletter Round 571 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/190368/breaking-news/security-affairs-newsletter-round-571-by-pierluigi-paganini-international-edition.html)
-- Over Security - Cybersecurity news aggregator
-  - [Traffic violation scams switch to QR codes in new phishing texts](https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/)
-  - [New FortiClient EMS flaw exploited in attacks, emergency patch released](https://www.bleepingcomputer.com/news/security/new-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/)
-  - [Hackers exploit React2Shell in automated credential theft campaign](https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/)
 - The Hacker News
   - [$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation](https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html)
   - [36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants](https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html)
