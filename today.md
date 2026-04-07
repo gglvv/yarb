@@ -4,18 +4,15 @@
   - [SecWiki News 2026-04-06 Review](http://www.sec-wiki.com/?2026-04-06)
 - Tenable Blog
   - [CVE-2026-35616: Fortinet FortiClientEMS improper access control vulnerability exploited in the wild](https://www.tenable.com/blog/cve-2026-35616-fortinet-forticlientems-improper-access-control-vulnerability-exploited-in-the)
-- Microsoft Security Blog
-  - [Inside an AI‑enabled device code phishing campaign](https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/)
-  - [Storm-1175 focuses gaze on vulnerable web-facing assets in high-tempo Medusa ransomware operations](https://www.microsoft.com/en-us/security/blog/2026/04/06/storm-1175-focuses-gaze-on-vulnerable-web-facing-assets-in-high-tempo-medusa-ransomware-operations/)
-- Filippo Valsorda
-  - [A Cryptography Engineer’s Perspective on Quantum Computing Timelines](https://words.filippo.io/crqc-timeline/)
 - Recent Commits to cve:main
   - [Update Mon Apr  6 11:09:56 UTC 2026](https://github.com/trickest/cve/commit/9f129a52f674fdf8560cd256a1307188fa52a320)
-- obaby 𝐢‍𝐧⃝ void
-  - [Baby Anti-Spam 自建反垃圾评论系统](https://zhongxiaojie.cn/2026/04/798/)
+- Filippo Valsorda
+  - [A Cryptography Engineer’s Perspective on Quantum Computing Timelines](https://words.filippo.io/crqc-timeline/)
 - 博客
   - [NVMe and PCIe](https://dyrnq.com/nvme-and-pcie/)
   - [MHz and MT/s](https://dyrnq.com/mhz-and-mt-s/)
+- obaby 𝐢‍𝐧⃝ void
+  - [Baby Anti-Spam 自建反垃圾评论系统](https://zhongxiaojie.cn/2026/04/798/)
 - InfoSec Write-ups - Medium
   - [Using Cloudflare’s Post-Quantum Tunnel to Protect Plex Remote Access on a Synology NAS](https://infosecwriteups.com/using-cloudflares-post-quantum-tunnel-to-protect-plex-remote-access-on-a-synology-nas-5745ae8b085e?source=rss----7b722bfd1b8d---4)
 - Cerbero Blog
@@ -25,12 +22,12 @@
   - [Top 7 Cybersecurity Companies in India – 2026 Edition](https://payatu.com/blog/top-7-cybersecurity-companies-in-india-2026-edition/)
 - Horizon3.ai
   - [CVE-2026-35616](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-35616/)
+- Malware-Traffic-Analysis.net - Blog Entries
+  - [2026-04-06: SmartApeSG activity](https://www.malware-traffic-analysis.net/2026/04/06/index.html)
 - VMRay
   - [An MSP’s Guide to Phishing Protection](https://www.vmray.com/msps-guide-to-phishing-protection/)
 - Malwarebytes
   - [A week in security (March 30 &#8211; April 5)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-march-30-april-5-2)
-- Malware-Traffic-Analysis.net - Blog Entries
-  - [2026-04-06: SmartApeSG activity](https://www.malware-traffic-analysis.net/2026/04/06/index.html)
 - Quarkslab's blog
   - [Milking the last drop of Intego - Time for Windows to get its LPE](http://blog.quarkslab.com/milking-the-last-drop-of-intego-time-for-windows-to-get-its-lpe.html)
 - Exploit-DB.com RSS Feed
@@ -70,18 +67,16 @@
 - 极客公园
   - [AI，为什么也需要睡觉？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653102820&idx=1&sn=bd0ecc226f72f2893eed991ef780afe2)
   - [传 GPT-6 4 月 14 日上线，性能暴涨；段永平改口怒夸泡泡玛特：中国产品国际化先驱；57 年后，宇航员重现经典「地球升起」照片](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653102849&idx=1&sn=388525c1dc3964ae9bcf25e8f3d53a83)
-- 漏洞战争
-  - [用 GPT-5.4 单挑 NCTF 团队赛，成功解出91.7%的题目](https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486075&idx=1&sn=5c8c4a448349149a72daf771e643ce93)
-- 恒脑与AI
-  - [4小时完成“国家级”攻击，Claude AI攻破全球最安全操作系统内核FreeBSD](https://mp.weixin.qq.com/s?__biz=MzI1MDU5NjYwNg==&mid=2247497419&idx=1&sn=e75e1d13934481529c2102688ed5c2c4)
 - 情报分析师
   - [伊朗腹地最惊险的美军生死营救全解析——断踝上校、7000英尺山脊、CIA假情报](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567480&idx=1&sn=b1530a191d3f16620f3374661ee76298)
+- 恒脑与AI
+  - [4小时完成“国家级”攻击，Claude AI攻破全球最安全操作系统内核FreeBSD](https://mp.weixin.qq.com/s?__biz=MzI1MDU5NjYwNg==&mid=2247497419&idx=1&sn=e75e1d13934481529c2102688ed5c2c4)
+- 漏洞战争
+  - [用 GPT-5.4 单挑 NCTF 团队赛，成功解出91.7%的题目](https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486075&idx=1&sn=5c8c4a448349149a72daf771e643ce93)
 - 吴鲁加
   - [暴雨中散步](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485993&idx=1&sn=dda9f0b4bcd9976176d1da048b23d847)
 - 迪哥讲事
   - [swagger管理未授权访问](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499280&idx=1&sn=2279cc81477d7556def17299db38f7fa)
-- ICT Security Magazine
-  - [Il CISO sotto processo: responsabilità personale, D.Lgs. 231 e la nuova esposizione legale](https://www.ictsecuritymagazine.com/notizie/ciso-d-lgs-231/)
 - Over Security - Cybersecurity news aggregator
   - [New GPUBreach attack enables system takeover via GPU rowhammer](https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/)
   - [Crypto Phishing and the Human Layer: The Real Weakness Is People](https://www.suspectfile.com/crypto-phishing-and-the-human-layer-the-real-weakness-is-people/)
@@ -100,26 +95,26 @@
   - [CISA orders feds to patch Fortinet flaw exploited in attacks by Friday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-fortinet-flaw-exploited-in-attacks-by-friday/)
   - [Why Simple Breach Monitoring is No Longer Enough](https://www.bleepingcomputer.com/news/security/why-simple-breach-monitoring-is-no-longer-enough/)
   - [Hackers threaten to leak data after cyberattack on German party Die Linke](https://therecord.media/hackers-threaten-to-leak-german-political-party-data)
-  - [Major outage hits Russian banking apps, metro payments across regions](https://therecord.media/outage-hits-russian-banking-apps)
-- Microsoft Security Blog
-  - [Inside an AI‑enabled device code phishing campaign](https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/)
-  - [Storm-1175 focuses gaze on vulnerable web-facing assets in high-tempo Medusa ransomware operations](https://www.microsoft.com/en-us/security/blog/2026/04/06/storm-1175-focuses-gaze-on-vulnerable-web-facing-assets-in-high-tempo-medusa-ransomware-operations/)
 - 安全行者老霍
   - [AI智能体能否逃离沙箱？](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486378&idx=1&sn=4d674f6cd7e29fa566bb1c963aed8880)
-- Future of Tech and Security: Strategy & Innovation with Raffy
-  - [AI Is Becoming an Operating System Layer](https://raffy.ch/blog/2026/04/06/ai-is-becoming-an-operating-system-layer/)
+- 自在安全
+  - [RAG从元数据Key到RCE：CVE-2026-22738 深度解析Spring AI向量存储中的SpEL表达式注入与逃逸](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492758&idx=1&sn=ed00cf04b239839ed1d0553fa0674579)
+- NetSPI
+  - [AI Fools Week: Don’t Let AI Fool Your Pentesting Strategy](https://www.netspi.com/blog/executive-blog/ai-ml-pentesting/ai-fools-week-dont-let-ai-fool-your-pentesting-strategy/)
+- ICT Security Magazine
+  - [Il CISO sotto processo: responsabilità personale, D.Lgs. 231 e la nuova esposizione legale](https://www.ictsecuritymagazine.com/notizie/ciso-d-lgs-231/)
 - SANS Internet Storm Center, InfoCON: green
   - [How often are redirects used in phishing in 2026&#x3f;, (Mon, Apr 6th)](https://isc.sans.edu/diary/rss/32870)
   - [ISC Stormcast For Monday, April 6th, 2026 https://isc.sans.edu/podcastdetail/9880, (Mon, Apr 6th)](https://isc.sans.edu/diary/rss/32868)
-- NetSPI
-  - [AI Fools Week: Don’t Let AI Fool Your Pentesting Strategy](https://www.netspi.com/blog/executive-blog/ai-ml-pentesting/ai-fools-week-dont-let-ai-fool-your-pentesting-strategy/)
-- BorderGate
-  - [AWS Instance Metadata Service Exploitation](https://www.bordergate.co.uk/aws-instance-metadata-service-exploitation/)
 - Lenny Zeltser
   - [Designing Security Products for Humans and AI Agents](https://zeltser.com/designing-for-humans-and-ai)
+- BorderGate
+  - [AWS Instance Metadata Service Exploitation](https://www.bordergate.co.uk/aws-instance-metadata-service-exploitation/)
 - Schneier on Security
   - [New Mexico’s Meta Ruling and Encryption](https://www.schneier.com/blog/archives/2026/04/new-mexicos-meta-ruling-and-encryption.html)
   - [Google Wants to Transition to Post-Quantum Cryptography by 2029](https://www.schneier.com/blog/archives/2026/04/google-wants-to-transition-to-post-quantum-cryptography-by-2029.html)
+- Future of Tech and Security: Strategy & Innovation with Raffy
+  - [AI Is Becoming an Operating System Layer](https://raffy.ch/blog/2026/04/06/ai-is-becoming-an-operating-system-layer/)
 - The Hacker News
   - [Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations](https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html)
   - [DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea](https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html)
@@ -128,8 +123,6 @@
   - [How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers](https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html)
   - [Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools](https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html)
   - [BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks](https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html)
-- 自在安全
-  - [RAG从元数据Key到RCE：CVE-2026-22738 深度解析Spring AI向量存储中的SpEL表达式注入与逃逸](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492758&idx=1&sn=ed00cf04b239839ed1d0553fa0674579)
 - Security Affairs
   - [Phishing LNK files and GitHub C2 power new DPRK cyber attacks](https://securityaffairs.com/190413/uncategorized/phishing-lnk-files-and-github-c2-power-new-dprk-cyber-attacks.html)
   - [BKA unmasks two REvil Ransomware operators behind 130+ German attacks](https://securityaffairs.com/190401/cyber-crime/bka-unmasks-two-revil-ransomware-operators-behind-130-german-attacks.html)
