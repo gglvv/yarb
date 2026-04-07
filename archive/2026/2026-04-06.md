@@ -1,72 +1,110 @@
 # 每日安全资讯（2026-04-06）
 
-- SecWiki News
-  - [SecWiki News 2026-04-05 Review](http://www.sec-wiki.com/?2026-04-05)
-- InfoSec Write-ups - Medium
-  - [The Invisible Threat: Detecting Early-Stage Phishing & Scam Campaigns](https://infosecwriteups.com/the-invisible-threat-detecting-early-stage-phishing-scam-campaigns-c5d36ef97336?source=rss----7b722bfd1b8d---4)
-  - [Inside SC-200: What It Takes to Become a Microsoft Security Analyst](https://infosecwriteups.com/inside-sc-200-what-it-takes-to-become-a-microsoft-security-analyst-16391c166025?source=rss----7b722bfd1b8d---4)
 - Recent Commits to cve:main
   - [Update Sun Apr  5 11:15:42 UTC 2026](https://github.com/trickest/cve/commit/3446c5b0343069dd9ac28220ae7d05680d562bda)
+- SecWiki News
+  - [SecWiki News 2026-04-05 Review](http://www.sec-wiki.com/?2026-04-05)
 - Zdziarski
   - [The Link Between Christian Nationalism and Nazi Germany](https://www.zdziarski.com/blog/?p=13746)
 - CCC Event Blog
   - [FSCK 2026 – Episode IV in Backnang](https://events.ccc.de/2026/04/06/fsck-2026/)
 - Malwarebytes
   - [Killer robots are here. Now what? (Lock and Code S07E07)](https://www.malwarebytes.com/blog/podcast/2026/04/killer-robots-are-here-now-what-lock-and-code-s07e07)
-- 奇客Solidot–传递最新科技情报
-  - [认知投降导致 AI 用户放弃逻辑思维能力](https://www.solidot.org/story?sid=83967)
-  - [AWS 工程师报告 Linux 7.0 下 PostgreSQL 性能暴降一半](https://www.solidot.org/story?sid=83966)
-  - [Ubuntu 26.04 LTS 的最低内存需求提高到 6GB](https://www.solidot.org/story?sid=83965)
-- 锦行科技
-  - [春和景明，时序清明](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494824&idx=1&sn=cdd67277d0ad635a47e3bb7e29054dbd)
 - Shostack & Friends Blog
   - [DevSecOps: Lessons from the ST:TNG Crew](https://shostack.org/blog/devsecops-lessons-from-st-tng-crew/)
+- 奇客Solidot–传递最新科技情报
+  - [德国公开俄罗斯勒索软件组织 REvil 头目的身份](https://www.solidot.org/story?sid=83970)
+  - [Chrome 148 将延迟加载视频和音频以改进性能](https://www.solidot.org/story?sid=83969)
+  - [美国科罗拉多州推出测均速相机系统](https://www.solidot.org/story?sid=83968)
+- bishopfox.com
+  - [Delivered by Trust: What the Axios Supply Chain Attack Means for Security Leaders](https://bishopfox.com/blog/delivered-by-trust-what-the-axios-supply-chain-attack-means-for-security-leaders)
 - 黑鸟
-  - [当广告流量分发与效果跟踪系统被用于网络攻击后](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186200&idx=1&sn=c42c4aac2d4b6f1c72ca24f4761884d9)
+  - [GandCrab和REvil勒索软件团伙头目被锁定](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186234&idx=1&sn=1dd8691df07acc0fbf10899d0fd078b4)
 - 奇安信 CERT
-  - [今日（2026年4月5日）OpenClaw 最新安全动态总结](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505123&idx=1&sn=3a2b70b468d4f859ddcf9d8e98b7532b)
-- 丁爸 情报分析师的工具箱
-  - [【技巧】零开发基础用龙虾搭建本地开源情报指挥大屏](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155060&idx=1&sn=40bccf0b8a1c27f746128089230d4772)
-  - [【智能报告】全球态势综合情报简报（4.5）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155060&idx=3&sn=a27c1b029a4584a499a239b9c0893df9)
+  - [今日（2026年4月6日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505147&idx=1&sn=89fe2878c3fb4cf1379fdb01ae46bf92)
+- 天御攻防实验室
+  - [美国空军进攻性网络作战单位——第98网络作战中队](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486867&idx=1&sn=8c3f6c79efe9f15e175ace37cf690c90)
 - 安全学术圈
-  - [2026年度CCF-蚂蚁科研基金（网络空间安全领域）](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495192&idx=1&sn=a42da0cbcc07b762f6a33e4d7465ee15)
+  - [2026年开源鸿蒙技术课题](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495207&idx=1&sn=3ebcd63487d8015fc8e7628e271c9dab)
 - 安全圈
-  - [【安全圈】抖音网页版突发网络崩溃，用户访问受阻](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075364&idx=1&sn=52167459e404697e69e6b6f8f6609edf)
-  - [【安全圈】Linux 内核维护者崩溃了！AI 每天狂塞 10 份漏洞报告](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075364&idx=2&sn=33a8436b6dcf51f88f8a1244ce1ab87d)
-  - [【安全圈】黑进 FBI 局长邮箱、删光 20 万台电脑数据，伊朗黑客开辟“第二战场”](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075364&idx=3&sn=941f57ae59f7e0d942613e1975f30a87)
-- 中国信息安全
-  - [工信部提醒：苹果用户警惕网络攻击，及时升级版本、修复漏洞](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261030&idx=1&sn=0e642eac58fd18e6e2f843afd9e37717)
-  - [公告 | 国家数据局就《数据产权登记工作指引（试行）》（公开征求意见稿）公开征求意见](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261030&idx=2&sn=cc525c947d4405f9e0886b382b11d2c2)
-  - [通知 | 网安标委发布5项网络安全标准化技术研究报告（附下载）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261030&idx=3&sn=bb0b70f6040ee0453bb37e7a36180809)
-  - [关注 | 北京启动“清朗京华 聚力净播”直播生态治理专项行动](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261030&idx=4&sn=a79401a876be4e44094089e9b5ac4e87)
+  - [【安全圈】俄罗斯打击VPN致全国银行瘫痪](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075396&idx=1&sn=c6085f131fdc450df2a07abfce2b968b)
+  - [【安全圈】用户隐私遭泄露，OpenClaw被黑客"PUA"成内鬼](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075396&idx=2&sn=c657f4db3859cf209543f15462b0f3a4)
+  - [【安全圈】3月勒索软件攻势创纪录](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075396&idx=3&sn=bb43052532ab728e0182f7d8751ce43d)
+- 恒脑与AI
+  - [4小时完成“国家级”攻击，Claude AI攻破全球最安全操作系统内核FreeBSD](https://mp.weixin.qq.com/s?__biz=MzI1MDU5NjYwNg==&mid=2247497419&idx=1&sn=e75e1d13934481529c2102688ed5c2c4)
 - 极客公园
-  - [如果有一天周杰伦用 AI 写歌，你还会听吗？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653102791&idx=1&sn=a14f46b343717105f95b12d5f046ee39)
-  - [Anthropic 宣布封杀 OpenClaw；马斯克要求参与 SpaceX IPO 的公司购买 Grok；拼多多创始人黄峥或在攻读生命科学博士｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653102806&idx=1&sn=799f407280daf5978a0e08ec7e747a93)
+  - [AI，为什么也需要睡觉？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653102820&idx=1&sn=bd0ecc226f72f2893eed991ef780afe2)
+  - [传 GPT-6 4 月 14 日上线，性能暴涨；段永平改口怒夸泡泡玛特：中国产品国际化先驱；57 年后，宇航员重现经典「地球升起」照片](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653102849&idx=1&sn=388525c1dc3964ae9bcf25e8f3d53a83)
 - 情报分析师
-  - [别盯着绝密文件了，最值钱的情报都在网上裸奔](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567445&idx=1&sn=68c6a12de89c4f630dba686c00a1c5ed)
-- 火绒安全
-  - [清明|春阳和熙 守护同行](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247531889&idx=1&sn=6b5e969e28b29a828565038fdc822bfa)
-  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247531889&idx=2&sn=0eaacdb6dedd4aeacbae89b73f5ddfd2)
+  - [伊朗腹地最惊险的美军生死营救全解析——断踝上校、7000英尺山脊、CIA假情报](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567480&idx=1&sn=b1530a191d3f16620f3374661ee76298)
+- 漏洞战争
+  - [用 GPT-5.4 单挑 NCTF 团队赛，成功解出91.7%的题目](https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486075&idx=1&sn=5c8c4a448349149a72daf771e643ce93)
+- 吴鲁加
+  - [暴雨中散步](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485993&idx=1&sn=dda9f0b4bcd9976176d1da048b23d847)
+- 迪哥讲事
+  - [swagger管理未授权访问](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499280&idx=1&sn=2279cc81477d7556def17299db38f7fa)
+- ICT Security Magazine
+  - [Il CISO sotto processo: responsabilità personale, D.Lgs. 231 e la nuova esposizione legale](https://www.ictsecuritymagazine.com/notizie/ciso-d-lgs-231/)
+- Microsoft Security Blog
+  - [Inside an AI‑enabled device code phishing campaign](https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/)
+  - [Storm-1175 focuses gaze on vulnerable web-facing assets in high-tempo Medusa ransomware operations](https://www.microsoft.com/en-us/security/blog/2026/04/06/storm-1175-focuses-gaze-on-vulnerable-web-facing-assets-in-high-tempo-medusa-ransomware-operations/)
 - Over Security - Cybersecurity news aggregator
-  - [Traffic violation scams switch to QR codes in new phishing texts](https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/)
-  - [New FortiClient EMS flaw exploited in attacks, emergency patch released](https://www.bleepingcomputer.com/news/security/new-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/)
-  - [Hackers exploit React2Shell in automated credential theft campaign](https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/)
-- Chaos Computer Club - last 100 events feed
-  - [Infrastructure Review and Closing (eh23)](https://cdn.media.ccc.de/events/eh2026/h264-hd/eh23-7-deu-Infrastructure_Review_and_Closing_hd.mp4)
+  - [New GPUBreach attack enables system takeover via GPU rowhammer](https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/)
+  - [Crypto Phishing and the Human Layer: The Real Weakness Is People](https://www.suspectfile.com/crypto-phishing-and-the-human-layer-the-real-weakness-is-people/)
+  - [FBI: Cyber fraud surges to $17.6 billion in losses as scams, crypto theft soar](https://therecord.media/cyber-fraud-surges-to-17-billion-fbi-ic3)
+  - [Medusa ransomware group using zero-days to launch attacks within 24 hours of breach, Microsoft says](https://therecord.media/medusa-ransomware-group-zero-days-microsoft)
+  - [Big tech vows to continue CSAM scanning in Europe despite expiration of law allowing it](https://therecord.media/big-tech-vows-to-continue-csam-scanning)
+  - [Microsoft fixes Classic Outlook bug causing email delivery issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/)
+  - [Disgruntled researcher leaks “BlueHammer” Windows zero-day exploit](https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/)
+  - [German police unmask two suspects linked to REvil ransomware gang](https://therecord.media/german-police-unmask-suspects-linked-revil-gandcrab)
+  - [Microsoft removes Support and Recovery Assistant from Windows](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/)
+  - [Watch this video of how a job interviewer exposes a North Korean fake IT worker](https://techcrunch.com/2026/04/06/watch-this-video-of-how-a-job-interviewer-exposes-a-north-korean-fake-it-worker/)
+  - [First stalkerware maker prosecuted since 2014 receives no jail time](https://therecord.media/stalkerware-maker-receives-no-jail-time)
+  - [Microsoft links Medusa ransomware affiliate to zero-day attacks](https://www.bleepingcomputer.com/news/security/microsoft-links-medusa-ransomware-affiliate-to-zero-day-attacks/)
+  - [Drift $280M crypto theft linked to 6-month in-person operation](https://www.bleepingcomputer.com/news/security/drift-280m-crypto-theft-linked-to-6-month-in-person-operation/)
+  - [Singapore, US warn of latest Fortinet bug being exploited in wild](https://therecord.media/singapore-us-warn-of-fortinet-bug-exploited)
+  - [CISA orders feds to patch Fortinet flaw exploited in attacks by Friday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-fortinet-flaw-exploited-in-attacks-by-friday/)
+  - [Why Simple Breach Monitoring is No Longer Enough](https://www.bleepingcomputer.com/news/security/why-simple-breach-monitoring-is-no-longer-enough/)
+  - [Hackers threaten to leak data after cyberattack on German party Die Linke](https://therecord.media/hackers-threaten-to-leak-german-political-party-data)
+  - [Major outage hits Russian banking apps, metro payments across regions](https://therecord.media/outage-hits-russian-banking-apps)
+  - [UK Businesses Are Being Targeted Through Their Middle East Supply Chains — What to Do Now](https://cyble.com/blog/middle-east-supply-chain-risk-uk-cyber-threats/)
+  - [75% of Cyberattacks Start with Phishing Emails, UAE Cyber Council Says](https://thecyberexpress.com/uae-phishing-emails-cyberattacks/)
+  - [North Korea Spent 6 Months Infiltrating Drift Protocol Only to Drain $285M in 12 Mins](https://thecyberexpress.com/drift-protocol-draining-285m-in-12-mins/)
+  - [Cyberattack Disrupts Massachusetts Emergency Dispatch, 911 Services Remain Active](https://thecyberexpress.com/massachusetts-emergency-cyberattack/)
+  - [A Compromised Tool Opened the Door to a 91GB European Commission Data Leak](https://thecyberexpress.com/european-commission-cloud-breach/)
+  - [Education Authority Cyberattack Disrupts Schools Across Northern Ireland](https://thecyberexpress.com/education-authority-cyberattack-ni-schools/)
+  - [FCC Moves to Fine Voxbeam $4.5M in Robocall Case Linked to Foreign Traffic](https://thecyberexpress.com/voxbeam-robocall-case-fcc-fines-firm/)
+  - [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
+- NetSPI
+  - [AI Fools Week: Don’t Let AI Fool Your Pentesting Strategy](https://www.netspi.com/blog/executive-blog/ai-ml-pentesting/ai-fools-week-dont-let-ai-fool-your-pentesting-strategy/)
 - 安全行者老霍
-  - [2026年最佳企业级AI安全解决方案](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486367&idx=1&sn=5ca7783dd2a61b499b75074bb3e5811f)
-- Desync InfoSec
-  - [开发者凭据经济：为什么暴露数据是供应链战争的新前线](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489787&idx=1&sn=88c1945092361c7fd8136c7cd0c63d7d)
-  - [从 Bing 搜索到勒索软件：Bumblebee 与 AdaptixC2 联手部署 Akira](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489787&idx=2&sn=1cf23d3bbd9a3c71844ad6f16b5e90b0)
-- Security Affairs
-  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 91](https://securityaffairs.com/190379/malware/security-affairs-malware-newsletter-round-91.html)
-  - [Image or Malware? Read until the end and answer in comments :)](https://securityaffairs.com/190358/hacking/image-or-malware-read-until-the-end-and-answer-in-comments.html)
-  - [Security Affairs newsletter Round 571 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/190368/breaking-news/security-affairs-newsletter-round-571-by-pierluigi-paganini-international-edition.html)
+  - [AI智能体能否逃离沙箱？](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486378&idx=1&sn=4d674f6cd7e29fa566bb1c963aed8880)
+- Schneier on Security
+  - [New Mexico’s Meta Ruling and Encryption](https://www.schneier.com/blog/archives/2026/04/new-mexicos-meta-ruling-and-encryption.html)
+  - [Google Wants to Transition to Post-Quantum Cryptography by 2029](https://www.schneier.com/blog/archives/2026/04/google-wants-to-transition-to-post-quantum-cryptography-by-2029.html)
+- BorderGate
+  - [AWS Instance Metadata Service Exploitation](https://www.bordergate.co.uk/aws-instance-metadata-service-exploitation/)
+- Future of Tech and Security: Strategy & Innovation with Raffy
+  - [AI Is Becoming an Operating System Layer](https://raffy.ch/blog/2026/04/06/ai-is-becoming-an-operating-system-layer/)
+- SANS Internet Storm Center, InfoCON: green
+  - [How often are redirects used in phishing in 2026&#x3f;, (Mon, Apr 6th)](https://isc.sans.edu/diary/rss/32870)
+  - [ISC Stormcast For Monday, April 6th, 2026 https://isc.sans.edu/podcastdetail/9880, (Mon, Apr 6th)](https://isc.sans.edu/diary/rss/32868)
 - The Hacker News
-  - [$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation](https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html)
-  - [36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants](https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html)
-  - [Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS](https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html)
+  - [Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations](https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html)
+  - [DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea](https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html)
+  - [Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps](https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html)
+  - [⚡ Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More](https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html)
+  - [How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers](https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html)
+  - [Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools](https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html)
+  - [BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks](https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html)
+- Security Affairs
+  - [Phishing LNK files and GitHub C2 power new DPRK cyber attacks](https://securityaffairs.com/190413/uncategorized/phishing-lnk-files-and-github-c2-power-new-dprk-cyber-attacks.html)
+  - [BKA unmasks two REvil Ransomware operators behind 130+ German attacks](https://securityaffairs.com/190401/cyber-crime/bka-unmasks-two-revil-ransomware-operators-behind-130-german-attacks.html)
+  - [Attackers Exploit RCE Flaw as 14,000 F5 BIG-IP APM Instances Remain Exposed](https://securityaffairs.com/190384/security/attackers-exploit-rce-flaw-as-14000-f5-big-ip-apm-instances-remain-exposed.html)
+  - [CVE-2026-35616: Fortinet fixes actively exploited high-severity flaw](https://securityaffairs.com/190392/hacking/cve-2026-35616-fortinet-fixes-actively-exploited-high-severity-flaw.html)
+- Krebs on Security
+  - [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
 - Daniel Miessler
-  - [Moving Inter and Cross-Domain Advances from Decades to Days](https://danielmiessler.com/blog/moving-inter-and-cross-domain-advances-from-decades-to-days?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- 希潭实验室
-  - [第160篇：AI联动IDA Pro MCP 实战逆向分析加密混淆 APK的通信数据包解密](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247488308&idx=1&sn=0f2f1000eeda26fd13e0a4224124706a)
+  - [Inference Costs Are Not Sustainable](https://danielmiessler.com/blog/inference-costs-are-not-sustainable?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- Security Weekly Podcast Network (Audio)
+  - [Battling payment fraud with tokenization and executive interviews from RSAC 2026 - Jimmy White, Thyaga Vasudevan, Brian Oh, Mickey Bresman, Ashish Jain - ESW #453](http://sites.libsyn.com/18678/battling-payment-fraud-with-tokenization-and-executive-interviews-from-rsac-2026-jimmy-white-thyaga-vasudevan-brian-oh-mickey-bresman-ashish-jain-esw-453)
