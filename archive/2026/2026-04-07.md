@@ -2,11 +2,11 @@
 
 - Recent Commits to cve:main
   - [Update Mon Apr  6 11:09:56 UTC 2026](https://github.com/trickest/cve/commit/9f129a52f674fdf8560cd256a1307188fa52a320)
-- Tenable Blog
-  - [CVE-2026-35616: Fortinet FortiClientEMS improper access control vulnerability exploited in the wild](https://www.tenable.com/blog/cve-2026-35616-fortinet-forticlientems-improper-access-control-vulnerability-exploited-in-the)
 - Microsoft Security Blog
   - [Inside an AI‑enabled device code phishing campaign](https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/)
   - [Storm-1175 focuses gaze on vulnerable web-facing assets in high-tempo Medusa ransomware operations](https://www.microsoft.com/en-us/security/blog/2026/04/06/storm-1175-focuses-gaze-on-vulnerable-web-facing-assets-in-high-tempo-medusa-ransomware-operations/)
+- Tenable Blog
+  - [CVE-2026-35616: Fortinet FortiClientEMS improper access control vulnerability exploited in the wild](https://www.tenable.com/blog/cve-2026-35616-fortinet-forticlientems-improper-access-control-vulnerability-exploited-in-the)
 - 博客
   - [NVMe and PCIe](https://dyrnq.com/nvme-and-pcie/)
   - [MHz and MT/s](https://dyrnq.com/mhz-and-mt-s/)
@@ -30,10 +30,10 @@
   - [Top 7 Cybersecurity Companies in India – 2026 Edition](https://payatu.com/blog/top-7-cybersecurity-companies-in-india-2026-edition/)
 - Horizon3.ai
   - [CVE-2026-35616](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-35616/)
-- VMRay
-  - [An MSP’s Guide to Phishing Protection](https://www.vmray.com/msps-guide-to-phishing-protection/)
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-04-06: SmartApeSG activity](https://www.malware-traffic-analysis.net/2026/04/06/index.html)
+- VMRay
+  - [An MSP’s Guide to Phishing Protection](https://www.vmray.com/msps-guide-to-phishing-protection/)
 - Malwarebytes
   - [A week in security (March 30 &#8211; April 5)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-march-30-april-5-2)
 - Exploit-DB.com RSS Feed
@@ -47,10 +47,10 @@
   - [[webapps] WBCE CMS 1.6.4 - Remote Code Execution](https://www.exploit-db.com/exploits/52489)
   - [[webapps] RiteCMS 3.1.0 - Authenticated Remote Code Execution](https://www.exploit-db.com/exploits/52488)
   - [[webapps] WordPress  Madara - Local File Inclusion](https://www.exploit-db.com/exploits/52487)
-- Offensive Security Blog: Latest Trends in Hacking | Praetorian
-  - [The Attack Helix: Praetorian Guard’s AI Architecture for Offensive Security](https://www.praetorian.com/blog/the-attack-helix-praetorian-guards-ai-architecture-for-offensive-security/)
 - bishopfox.com
   - [Delivered by Trust: What the Axios Supply Chain Attack Means for Security Leaders](https://bishopfox.com/blog/delivered-by-trust-what-the-axios-supply-chain-attack-means-for-security-leaders)
+- Offensive Security Blog: Latest Trends in Hacking | Praetorian
+  - [The Attack Helix: Praetorian Guard’s AI Architecture for Offensive Security](https://www.praetorian.com/blog/the-attack-helix-praetorian-guards-ai-architecture-for-offensive-security/)
 - 奇客Solidot–传递最新科技情报
   - [德国公开俄罗斯勒索软件组织 REvil 头目的身份](https://www.solidot.org/story?sid=83970)
   - [Chrome 148 将延迟加载视频和音频以改进性能](https://www.solidot.org/story?sid=83969)
@@ -59,10 +59,10 @@
   - [GandCrab和REvil勒索软件团伙头目被锁定](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186234&idx=1&sn=1dd8691df07acc0fbf10899d0fd078b4)
 - 奇安信 CERT
   - [今日（2026年4月6日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505147&idx=1&sn=89fe2878c3fb4cf1379fdb01ae46bf92)
-- 天御攻防实验室
-  - [美国空军进攻性网络作战单位——第98网络作战中队](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486867&idx=1&sn=8c3f6c79efe9f15e175ace37cf690c90)
 - 安全学术圈
   - [2026年开源鸿蒙技术课题](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495207&idx=1&sn=3ebcd63487d8015fc8e7628e271c9dab)
+- 天御攻防实验室
+  - [美国空军进攻性网络作战单位——第98网络作战中队](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486867&idx=1&sn=8c3f6c79efe9f15e175ace37cf690c90)
 - 安全圈
   - [【安全圈】俄罗斯打击VPN致全国银行瘫痪](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075396&idx=1&sn=c6085f131fdc450df2a07abfce2b968b)
   - [【安全圈】用户隐私遭泄露，OpenClaw被黑客"PUA"成内鬼](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075396&idx=2&sn=c657f4db3859cf209543f15462b0f3a4)
@@ -72,19 +72,28 @@
   - [传 GPT-6 4 月 14 日上线，性能暴涨；段永平改口怒夸泡泡玛特：中国产品国际化先驱；57 年后，宇航员重现经典「地球升起」照片](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653102849&idx=1&sn=388525c1dc3964ae9bcf25e8f3d53a83)
 - 恒脑与AI
   - [4小时完成“国家级”攻击，Claude AI攻破全球最安全操作系统内核FreeBSD](https://mp.weixin.qq.com/s?__biz=MzI1MDU5NjYwNg==&mid=2247497419&idx=1&sn=e75e1d13934481529c2102688ed5c2c4)
-- 漏洞战争
-  - [用 GPT-5.4 单挑 NCTF 团队赛，成功解出91.7%的题目](https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486075&idx=1&sn=5c8c4a448349149a72daf771e643ce93)
 - 情报分析师
   - [伊朗腹地最惊险的美军生死营救全解析——断踝上校、7000英尺山脊、CIA假情报](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567480&idx=1&sn=b1530a191d3f16620f3374661ee76298)
+- 漏洞战争
+  - [用 GPT-5.4 单挑 NCTF 团队赛，成功解出91.7%的题目](https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486075&idx=1&sn=5c8c4a448349149a72daf771e643ce93)
 - 吴鲁加
   - [暴雨中散步](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485993&idx=1&sn=dda9f0b4bcd9976176d1da048b23d847)
+- 迪哥讲事
+  - [swagger管理未授权访问](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499280&idx=1&sn=2279cc81477d7556def17299db38f7fa)
 - 安全行者老霍
   - [AI智能体能否逃离沙箱？](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486378&idx=1&sn=4d674f6cd7e29fa566bb1c963aed8880)
+- NetSPI
+  - [AI Fools Week: Don’t Let AI Fool Your Pentesting Strategy](https://www.netspi.com/blog/executive-blog/ai-ml-pentesting/ai-fools-week-dont-let-ai-fool-your-pentesting-strategy/)
+- ICT Security Magazine
+  - [Il CISO sotto processo: responsabilità personale, D.Lgs. 231 e la nuova esposizione legale](https://www.ictsecuritymagazine.com/notizie/ciso-d-lgs-231/)
+- SANS Internet Storm Center, InfoCON: green
+  - [How often are redirects used in phishing in 2026&#x3f;, (Mon, Apr 6th)](https://isc.sans.edu/diary/rss/32870)
+  - [ISC Stormcast For Monday, April 6th, 2026 https://isc.sans.edu/podcastdetail/9880, (Mon, Apr 6th)](https://isc.sans.edu/diary/rss/32868)
+- Future of Tech and Security: Strategy & Innovation with Raffy
+  - [AI Is Becoming an Operating System Layer](https://raffy.ch/blog/2026/04/06/ai-is-becoming-an-operating-system-layer/)
 - Microsoft Security Blog
   - [Inside an AI‑enabled device code phishing campaign](https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/)
   - [Storm-1175 focuses gaze on vulnerable web-facing assets in high-tempo Medusa ransomware operations](https://www.microsoft.com/en-us/security/blog/2026/04/06/storm-1175-focuses-gaze-on-vulnerable-web-facing-assets-in-high-tempo-medusa-ransomware-operations/)
-- ICT Security Magazine
-  - [Il CISO sotto processo: responsabilità personale, D.Lgs. 231 e la nuova esposizione legale](https://www.ictsecuritymagazine.com/notizie/ciso-d-lgs-231/)
 - Over Security - Cybersecurity news aggregator
   - [New GPUBreach attack enables system takeover via GPU rowhammer](https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/)
   - [Crypto Phishing and the Human Layer: The Real Weakness Is People](https://www.suspectfile.com/crypto-phishing-and-the-human-layer-the-real-weakness-is-people/)
@@ -112,22 +121,13 @@
   - [Education Authority Cyberattack Disrupts Schools Across Northern Ireland](https://thecyberexpress.com/education-authority-cyberattack-ni-schools/)
   - [FCC Moves to Fine Voxbeam $4.5M in Robocall Case Linked to Foreign Traffic](https://thecyberexpress.com/voxbeam-robocall-case-fcc-fines-firm/)
   - [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
-- 迪哥讲事
-  - [swagger管理未授权访问](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499280&idx=1&sn=2279cc81477d7556def17299db38f7fa)
-- NetSPI
-  - [AI Fools Week: Don’t Let AI Fool Your Pentesting Strategy](https://www.netspi.com/blog/executive-blog/ai-ml-pentesting/ai-fools-week-dont-let-ai-fool-your-pentesting-strategy/)
+- Schneier on Security
+  - [New Mexico’s Meta Ruling and Encryption](https://www.schneier.com/blog/archives/2026/04/new-mexicos-meta-ruling-and-encryption.html)
+  - [Google Wants to Transition to Post-Quantum Cryptography by 2029](https://www.schneier.com/blog/archives/2026/04/google-wants-to-transition-to-post-quantum-cryptography-by-2029.html)
 - Lenny Zeltser
   - [Designing Security Products for Humans and AI Agents](https://zeltser.com/designing-for-humans-and-ai)
 - BorderGate
   - [AWS Instance Metadata Service Exploitation](https://www.bordergate.co.uk/aws-instance-metadata-service-exploitation/)
-- Schneier on Security
-  - [New Mexico’s Meta Ruling and Encryption](https://www.schneier.com/blog/archives/2026/04/new-mexicos-meta-ruling-and-encryption.html)
-  - [Google Wants to Transition to Post-Quantum Cryptography by 2029](https://www.schneier.com/blog/archives/2026/04/google-wants-to-transition-to-post-quantum-cryptography-by-2029.html)
-- Future of Tech and Security: Strategy & Innovation with Raffy
-  - [AI Is Becoming an Operating System Layer](https://raffy.ch/blog/2026/04/06/ai-is-becoming-an-operating-system-layer/)
-- SANS Internet Storm Center, InfoCON: green
-  - [How often are redirects used in phishing in 2026&#x3f;, (Mon, Apr 6th)](https://isc.sans.edu/diary/rss/32870)
-  - [ISC Stormcast For Monday, April 6th, 2026 https://isc.sans.edu/podcastdetail/9880, (Mon, Apr 6th)](https://isc.sans.edu/diary/rss/32868)
 - The Hacker News
   - [Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations](https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html)
   - [DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea](https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html)
@@ -136,14 +136,14 @@
   - [How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers](https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html)
   - [Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools](https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html)
   - [BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks](https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html)
-- Krebs on Security
-  - [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
-- Daniel Miessler
-  - [Inference Costs Are Not Sustainable](https://danielmiessler.com/blog/inference-costs-are-not-sustainable?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - Security Affairs
   - [Phishing LNK files and GitHub C2 power new DPRK cyber attacks](https://securityaffairs.com/190413/uncategorized/phishing-lnk-files-and-github-c2-power-new-dprk-cyber-attacks.html)
   - [BKA unmasks two REvil Ransomware operators behind 130+ German attacks](https://securityaffairs.com/190401/cyber-crime/bka-unmasks-two-revil-ransomware-operators-behind-130-german-attacks.html)
   - [Attackers Exploit RCE Flaw as 14,000 F5 BIG-IP APM Instances Remain Exposed](https://securityaffairs.com/190384/security/attackers-exploit-rce-flaw-as-14000-f5-big-ip-apm-instances-remain-exposed.html)
   - [CVE-2026-35616: Fortinet fixes actively exploited high-severity flaw](https://securityaffairs.com/190392/hacking/cve-2026-35616-fortinet-fixes-actively-exploited-high-severity-flaw.html)
+- Krebs on Security
+  - [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
+- Daniel Miessler
+  - [Inference Costs Are Not Sustainable](https://danielmiessler.com/blog/inference-costs-are-not-sustainable?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - Security Weekly Podcast Network (Audio)
   - [Battling payment fraud with tokenization and executive interviews from RSAC 2026 - Jimmy White, Thyaga Vasudevan, Brian Oh, Mickey Bresman, Ashish Jain - ESW #453](http://sites.libsyn.com/18678/battling-payment-fraud-with-tokenization-and-executive-interviews-from-rsac-2026-jimmy-white-thyaga-vasudevan-brian-oh-mickey-bresman-ashish-jain-esw-453)
