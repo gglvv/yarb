@@ -2,38 +2,35 @@
 
 - SecWiki News
   - [SecWiki News 2026-04-06 Review](http://www.sec-wiki.com/?2026-04-06)
+- Tenable Blog
+  - [CVE-2026-35616: Fortinet FortiClientEMS improper access control vulnerability exploited in the wild](https://www.tenable.com/blog/cve-2026-35616-fortinet-forticlientems-improper-access-control-vulnerability-exploited-in-the)
 - Microsoft Security Blog
   - [Inside an AI‑enabled device code phishing campaign](https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/)
   - [Storm-1175 focuses gaze on vulnerable web-facing assets in high-tempo Medusa ransomware operations](https://www.microsoft.com/en-us/security/blog/2026/04/06/storm-1175-focuses-gaze-on-vulnerable-web-facing-assets-in-high-tempo-medusa-ransomware-operations/)
-- Tenable Blog
-  - [CVE-2026-35616: Fortinet FortiClientEMS improper access control vulnerability exploited in the wild](https://www.tenable.com/blog/cve-2026-35616-fortinet-forticlientems-improper-access-control-vulnerability-exploited-in-the)
-- obaby 𝐢‍𝐧⃝ void
-  - [Baby Anti-Spam 自建反垃圾评论系统](https://zhongxiaojie.cn/2026/04/798/)
+- Filippo Valsorda
+  - [A Cryptography Engineer’s Perspective on Quantum Computing Timelines](https://words.filippo.io/crqc-timeline/)
 - Recent Commits to cve:main
   - [Update Mon Apr  6 11:09:56 UTC 2026](https://github.com/trickest/cve/commit/9f129a52f674fdf8560cd256a1307188fa52a320)
+- obaby 𝐢‍𝐧⃝ void
+  - [Baby Anti-Spam 自建反垃圾评论系统](https://zhongxiaojie.cn/2026/04/798/)
 - 博客
   - [NVMe and PCIe](https://dyrnq.com/nvme-and-pcie/)
   - [MHz and MT/s](https://dyrnq.com/mhz-and-mt-s/)
-- Filippo Valsorda
-  - [A Cryptography Engineer’s Perspective on Quantum Computing Timelines](https://words.filippo.io/crqc-timeline/)
 - InfoSec Write-ups - Medium
   - [Using Cloudflare’s Post-Quantum Tunnel to Protect Plex Remote Access on a Synology NAS](https://infosecwriteups.com/using-cloudflares-post-quantum-tunnel-to-protect-plex-remote-access-on-a-synology-nas-5745ae8b085e?source=rss----7b722bfd1b8d---4)
+- Cerbero Blog
+  - [APFS Format Package](https://blog.cerbero.io/apfs-format-package/)
 - Payatu
   - [GDPR Meets DPDP: What Every Indian CISO Operating in the EU Must Know](https://payatu.com/blog/gdpr-meets-dpdp-what-every-indian-ciso-operating-in-the-eu-must-know/)
   - [Top 7 Cybersecurity Companies in India – 2026 Edition](https://payatu.com/blog/top-7-cybersecurity-companies-in-india-2026-edition/)
-- Cerbero Blog
-  - [APFS Format Package](https://blog.cerbero.io/apfs-format-package/)
 - Horizon3.ai
   - [CVE-2026-35616](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-35616/)
 - VMRay
   - [An MSP’s Guide to Phishing Protection](https://www.vmray.com/msps-guide-to-phishing-protection/)
-- Reverse Engineering
-  - [/r/ReverseEngineering's Weekly Questions Thread](https://www.reddit.com/r/ReverseEngineering/comments/1sdrln0/rreverseengineerings_weekly_questions_thread/)
-  - [Cracking a Malvertising DGA From the Device Side](https://www.reddit.com/r/ReverseEngineering/comments/1sdyged/cracking_a_malvertising_dga_from_the_device_side/)
-- Malware-Traffic-Analysis.net - Blog Entries
-  - [2026-04-06: SmartApeSG activity](https://www.malware-traffic-analysis.net/2026/04/06/index.html)
 - Malwarebytes
   - [A week in security (March 30 &#8211; April 5)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-march-30-april-5-2)
+- Malware-Traffic-Analysis.net - Blog Entries
+  - [2026-04-06: SmartApeSG activity](https://www.malware-traffic-analysis.net/2026/04/06/index.html)
 - Quarkslab's blog
   - [Milking the last drop of Intego - Time for Windows to get its LPE](http://blog.quarkslab.com/milking-the-last-drop-of-intego-time-for-windows-to-get-its-lpe.html)
 - Exploit-DB.com RSS Feed
@@ -57,15 +54,15 @@
   - [美国科罗拉多州推出测均速相机系统](https://www.solidot.org/story?sid=83968)
 - 黑鸟
   - [GandCrab和REvil勒索软件团伙头目被锁定](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186234&idx=1&sn=1dd8691df07acc0fbf10899d0fd078b4)
-- 天御攻防实验室
-  - [美国空军进攻性网络作战单位——第98网络作战中队](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486867&idx=1&sn=8c3f6c79efe9f15e175ace37cf690c90)
 - 奇安信 CERT
   - [今日（2026年4月6日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505147&idx=1&sn=89fe2878c3fb4cf1379fdb01ae46bf92)
-- 安全学术圈
-  - [2026年开源鸿蒙技术课题](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495207&idx=1&sn=3ebcd63487d8015fc8e7628e271c9dab)
+- 天御攻防实验室
+  - [美国空军进攻性网络作战单位——第98网络作战中队](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486867&idx=1&sn=8c3f6c79efe9f15e175ace37cf690c90)
 - 丁爸 情报分析师的工具箱
   - [【研究报告】人工智能军事技术在中东的扩散](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155113&idx=1&sn=1684938aad1f88450157298e4f3f0149)
   - [【情报实战】美军营救F-15E“攻击鹰”（Strike Eagle） 战斗机飞行员的位置在哪里？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155112&idx=1&sn=37a5de6ac1487e13ded6e7dda0e5bb68)
+- 安全学术圈
+  - [2026年开源鸿蒙技术课题](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495207&idx=1&sn=3ebcd63487d8015fc8e7628e271c9dab)
 - 安全圈
   - [【安全圈】俄罗斯打击VPN致全国银行瘫痪](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075396&idx=1&sn=c6085f131fdc450df2a07abfce2b968b)
   - [【安全圈】用户隐私遭泄露，OpenClaw被黑客"PUA"成内鬼](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075396&idx=2&sn=c657f4db3859cf209543f15462b0f3a4)
@@ -83,6 +80,8 @@
   - [暴雨中散步](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485993&idx=1&sn=dda9f0b4bcd9976176d1da048b23d847)
 - 迪哥讲事
   - [swagger管理未授权访问](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499280&idx=1&sn=2279cc81477d7556def17299db38f7fa)
+- ICT Security Magazine
+  - [Il CISO sotto processo: responsabilità personale, D.Lgs. 231 e la nuova esposizione legale](https://www.ictsecuritymagazine.com/notizie/ciso-d-lgs-231/)
 - Over Security - Cybersecurity news aggregator
   - [New GPUBreach attack enables system takeover via GPU rowhammer](https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/)
   - [Crypto Phishing and the Human Layer: The Real Weakness Is People](https://www.suspectfile.com/crypto-phishing-and-the-human-layer-the-real-weakness-is-people/)
@@ -102,31 +101,25 @@
   - [Why Simple Breach Monitoring is No Longer Enough](https://www.bleepingcomputer.com/news/security/why-simple-breach-monitoring-is-no-longer-enough/)
   - [Hackers threaten to leak data after cyberattack on German party Die Linke](https://therecord.media/hackers-threaten-to-leak-german-political-party-data)
   - [Major outage hits Russian banking apps, metro payments across regions](https://therecord.media/outage-hits-russian-banking-apps)
-  - [UK Businesses Are Being Targeted Through Their Middle East Supply Chains — What to Do Now](https://cyble.com/blog/middle-east-supply-chain-risk-uk-cyber-threats/)
-  - [75% of Cyberattacks Start with Phishing Emails, UAE Cyber Council Says](https://thecyberexpress.com/uae-phishing-emails-cyberattacks/)
 - Microsoft Security Blog
   - [Inside an AI‑enabled device code phishing campaign](https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/)
   - [Storm-1175 focuses gaze on vulnerable web-facing assets in high-tempo Medusa ransomware operations](https://www.microsoft.com/en-us/security/blog/2026/04/06/storm-1175-focuses-gaze-on-vulnerable-web-facing-assets-in-high-tempo-medusa-ransomware-operations/)
-- 自在安全
-  - [RAG从元数据Key到RCE：CVE-2026-22738 深度解析Spring AI向量存储中的SpEL表达式注入与逃逸](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492758&idx=1&sn=ed00cf04b239839ed1d0553fa0674579)
-- ICT Security Magazine
-  - [Il CISO sotto processo: responsabilità personale, D.Lgs. 231 e la nuova esposizione legale](https://www.ictsecuritymagazine.com/notizie/ciso-d-lgs-231/)
+- 安全行者老霍
+  - [AI智能体能否逃离沙箱？](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486378&idx=1&sn=4d674f6cd7e29fa566bb1c963aed8880)
+- Future of Tech and Security: Strategy & Innovation with Raffy
+  - [AI Is Becoming an Operating System Layer](https://raffy.ch/blog/2026/04/06/ai-is-becoming-an-operating-system-layer/)
 - SANS Internet Storm Center, InfoCON: green
   - [How often are redirects used in phishing in 2026&#x3f;, (Mon, Apr 6th)](https://isc.sans.edu/diary/rss/32870)
   - [ISC Stormcast For Monday, April 6th, 2026 https://isc.sans.edu/podcastdetail/9880, (Mon, Apr 6th)](https://isc.sans.edu/diary/rss/32868)
+- NetSPI
+  - [AI Fools Week: Don’t Let AI Fool Your Pentesting Strategy](https://www.netspi.com/blog/executive-blog/ai-ml-pentesting/ai-fools-week-dont-let-ai-fool-your-pentesting-strategy/)
+- BorderGate
+  - [AWS Instance Metadata Service Exploitation](https://www.bordergate.co.uk/aws-instance-metadata-service-exploitation/)
 - Lenny Zeltser
   - [Designing Security Products for Humans and AI Agents](https://zeltser.com/designing-for-humans-and-ai)
-- Future of Tech and Security: Strategy & Innovation with Raffy
-  - [AI Is Becoming an Operating System Layer](https://raffy.ch/blog/2026/04/06/ai-is-becoming-an-operating-system-layer/)
 - Schneier on Security
   - [New Mexico’s Meta Ruling and Encryption](https://www.schneier.com/blog/archives/2026/04/new-mexicos-meta-ruling-and-encryption.html)
   - [Google Wants to Transition to Post-Quantum Cryptography by 2029](https://www.schneier.com/blog/archives/2026/04/google-wants-to-transition-to-post-quantum-cryptography-by-2029.html)
-- 安全行者老霍
-  - [AI智能体能否逃离沙箱？](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486378&idx=1&sn=4d674f6cd7e29fa566bb1c963aed8880)
-- BorderGate
-  - [AWS Instance Metadata Service Exploitation](https://www.bordergate.co.uk/aws-instance-metadata-service-exploitation/)
-- NetSPI
-  - [AI Fools Week: Don’t Let AI Fool Your Pentesting Strategy](https://www.netspi.com/blog/executive-blog/ai-ml-pentesting/ai-fools-week-dont-let-ai-fool-your-pentesting-strategy/)
 - The Hacker News
   - [Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations](https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html)
   - [DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea](https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html)
@@ -135,6 +128,8 @@
   - [How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers](https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html)
   - [Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools](https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html)
   - [BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks](https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html)
+- 自在安全
+  - [RAG从元数据Key到RCE：CVE-2026-22738 深度解析Spring AI向量存储中的SpEL表达式注入与逃逸](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492758&idx=1&sn=ed00cf04b239839ed1d0553fa0674579)
 - Security Affairs
   - [Phishing LNK files and GitHub C2 power new DPRK cyber attacks](https://securityaffairs.com/190413/uncategorized/phishing-lnk-files-and-github-c2-power-new-dprk-cyber-attacks.html)
   - [BKA unmasks two REvil Ransomware operators behind 130+ German attacks](https://securityaffairs.com/190401/cyber-crime/bka-unmasks-two-revil-ransomware-operators-behind-130-german-attacks.html)
@@ -142,33 +137,6 @@
   - [CVE-2026-35616: Fortinet fixes actively exploited high-severity flaw](https://securityaffairs.com/190392/hacking/cve-2026-35616-fortinet-fixes-actively-exploited-high-severity-flaw.html)
 - Krebs on Security
   - [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
-- Information Security
-  - [How are you handling AI sprawl across SaaS right now](https://www.reddit.com/r/Information_Security/comments/1sdyji5/how_are_you_handling_ai_sprawl_across_saas_right/)
-- Blackhat Library: Hacking techniques and research
-  - [The Cybersecurity Quilt](https://www.reddit.com/r/blackhat/comments/1se4rls/the_cybersecurity_quilt/)
-  - [[ Removed by Reddit ]](https://www.reddit.com/r/blackhat/comments/1se9xvs/removed_by_reddit/)
-  - [I have refactored slurp s3 bucket enumerator to work with any s3 compatible cloud](https://www.reddit.com/r/blackhat/comments/1sdqytq/i_have_refactored_slurp_s3_bucket_enumerator_to/)
-- Technical Information Security Content & Discussion
-  - [Cracking a Malvertising DGA From the Device Side](https://www.reddit.com/r/netsec/comments/1sdv8dm/cracking_a_malvertising_dga_from_the_device_side/)
-  - [Using Cloudflare’s Post-Quantum Tunnel to Protect Plex Remote Access on a Synology NAS](https://www.reddit.com/r/netsec/comments/1se1qs6/using_cloudflares_postquantum_tunnel_to_protect/)
-  - [Closing the Kernel Backport Gap: Automated CVE Detection](https://www.reddit.com/r/netsec/comments/1sdxbxj/closing_the_kernel_backport_gap_automated_cve/)
-- Computer Forensics
-  - [Starting a business and the Experience Requirement](https://www.reddit.com/r/computerforensics/comments/1se2frn/starting_a_business_and_the_experience_requirement/)
-  - [EVTX Question](https://www.reddit.com/r/computerforensics/comments/1sdu0r4/evtx_question/)
-  - [sleuthkit is currently broken on debian testing](https://www.reddit.com/r/computerforensics/comments/1sdji1f/sleuthkit_is_currently_broken_on_debian_testing/)
-- Social Engineering
-  - [Working more hours doesn’t always mean getting more done](https://www.reddit.com/r/SocialEngineering/comments/1sdo589/working_more_hours_doesnt_always_mean_getting/)
-- Deep Web
-  - [Leak databases](https://www.reddit.com/r/deepweb/comments/1sdnyjs/leak_databases/)
-  - [Brazillian people here](https://www.reddit.com/r/deepweb/comments/1sdouo4/brazillian_people_here/)
-  - [what is the best way to increase brain power for certain amount of time ?](https://www.reddit.com/r/deepweb/comments/1sdwvak/what_is_the_best_way_to_increase_brain_power_for/)
-- netsecstudents: Subreddit for students studying Network Security and its related subjects
-  - [Traditional Network Engineer looking to get into Network Security focused roles. Is this a worthwhile path given it niche? What skills/certs should i focus on?](https://www.reddit.com/r/netsecstudents/comments/1se5ns7/traditional_network_engineer_looking_to_get_into/)
-- Your Open Hacker Community
-  - [Anyway to route the api to mock server?](https://www.reddit.com/r/HowToHack/comments/1sef8ao/anyway_to_route_the_api_to_mock_server/)
-  - [I need a PoC from assets.adobedtm.com](https://www.reddit.com/r/HowToHack/comments/1sdwfzx/i_need_a_poc_from_assetsadobedtmcom/)
-  - [I need guidance I am really frustrated (Read the body, mods plz do not delete it's genuine)](https://www.reddit.com/r/HowToHack/comments/1se4fa0/i_need_guidance_i_am_really_frustrated_read_the/)
-  - [802.15a sniffing](https://www.reddit.com/r/HowToHack/comments/1sdlcw8/80215a_sniffing/)
 - Daniel Miessler
   - [Inference Costs Are Not Sustainable](https://danielmiessler.com/blog/inference-costs-are-not-sustainable?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - Security Weekly Podcast Network (Audio)
