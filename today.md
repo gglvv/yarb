@@ -1,84 +1,82 @@
 # 每日安全资讯（2026-04-12）
 
-- InfoSec Write-ups - Medium
-  - [Phishing Mengurai Taktik Penyamaran Attacker untuk mengambil alih Akun](https://infosecwriteups.com/phishing-mengurai-taktik-penyamaran-attacker-untuk-mengambil-alih-akun-82e7569df7b9?source=rss----7b722bfd1b8d---4)
 - Armin Ronacher's Thoughts and Writings
   - [The Center Has a Bias](https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/)
-- Recent Commits to cve:main
-  - [Update Sat Apr 11 11:18:04 UTC 2026](https://github.com/trickest/cve/commit/6cb0733186b0e47d9708bfba8af3f7aae9177773)
 - SecWiki News
   - [SecWiki News 2026-04-11 Review](http://www.sec-wiki.com/?2026-04-11)
+- Recent Commits to cve:main
+  - [Update Sat Apr 11 11:18:04 UTC 2026](https://github.com/trickest/cve/commit/6cb0733186b0e47d9708bfba8af3f7aae9177773)
+- InfoSec Write-ups - Medium
+  - [Phishing Mengurai Taktik Penyamaran Attacker untuk mengambil alih Akun](https://infosecwriteups.com/phishing-mengurai-taktik-penyamaran-attacker-untuk-mengambil-alih-akun-82e7569df7b9?source=rss----7b722bfd1b8d---4)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [Exploiting LLM APIs with Excessive Agency (PortSwigger Lab Write-up)](https://infosecwriteups.com/exploiting-llm-apis-with-excessive-agency-portswigger-lab-write-up-df0650f736ae?source=rss----7b722bfd1b8d--bug_bounty)
   - [[CMesS] — Gila CMS 1.10.9](https://infosecwriteups.com/cmess-gila-cms-1-10-9-11ed31a8cd2d?source=rss----7b722bfd1b8d--bug_bounty)
   - [Network Segmentation Strategies: Implementing CISA’s Cybersecurity Best Practices for Layered…](https://infosecwriteups.com/network-segmentation-strategies-implementing-cisas-cybersecurity-best-practices-for-layered-7e053227770c?source=rss----7b722bfd1b8d--bug_bounty)
-- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [Arm首席执行官或兼掌软银前沿业务大权](https://blog.upx8.com/Arm%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E6%88%96%E5%85%BC%E6%8E%8C%E8%BD%AF%E9%93%B6%E5%89%8D%E6%B2%BF%E4%B8%9A%E5%8A%A1%E5%A4%A7%E6%9D%83)
-  - [亚马逊云游戏平台砍掉了第三方游戏购买](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E4%BA%91%E6%B8%B8%E6%88%8F%E5%B9%B3%E5%8F%B0%E7%A0%8D%E6%8E%89%E4%BA%86%E7%AC%AC%E4%B8%89%E6%96%B9%E6%B8%B8%E6%88%8F%E8%B4%AD%E4%B9%B0)
-  - [OpenAI指控马斯克搞法律突袭 扰乱诉讼](https://blog.upx8.com/OpenAI%E6%8C%87%E6%8E%A7%E9%A9%AC%E6%96%AF%E5%85%8B%E6%90%9E%E6%B3%95%E5%BE%8B%E7%AA%81%E8%A2%AD-%E6%89%B0%E4%B9%B1%E8%AF%89%E8%AE%BC)
-  - [普京：俄罗斯须自主研发有竞争力的AI模型](https://blog.upx8.com/%E6%99%AE%E4%BA%AC-%E4%BF%84%E7%BD%97%E6%96%AF%E9%A1%BB%E8%87%AA%E4%B8%BB%E7%A0%94%E5%8F%91%E6%9C%89%E7%AB%9E%E4%BA%89%E5%8A%9B%E7%9A%84AI%E6%A8%A1%E5%9E%8B)
-  - [超越OpenClaw！Hermes Agent一键脚本发布：会成长的AI智能体](https://blog.upx8.com/Hermes-Agent-OpenClaw)
 - 奇客Solidot–传递最新科技情报
   - [Red Hat 裁掉了中国工程团队](https://www.solidot.org/story?sid=84021)
   - [在 Firefox 浏览器上安装“所有”扩展会发生什么](https://www.solidot.org/story?sid=84020)
   - [全球夜间人造光亮度 8 年增加 16%](https://www.solidot.org/story?sid=84019)
   - [涉嫌向 Sam Altman 住宅扔燃烧瓶的嫌疑人被捕](https://www.solidot.org/story?sid=84018)
   - [Artemis II 宇航员返回地面](https://www.solidot.org/story?sid=84017)
+- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
+  - [Arm首席执行官或兼掌软银前沿业务大权](https://blog.upx8.com/Arm%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E6%88%96%E5%85%BC%E6%8E%8C%E8%BD%AF%E9%93%B6%E5%89%8D%E6%B2%BF%E4%B8%9A%E5%8A%A1%E5%A4%A7%E6%9D%83)
+  - [亚马逊云游戏平台砍掉了第三方游戏购买](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E4%BA%91%E6%B8%B8%E6%88%8F%E5%B9%B3%E5%8F%B0%E7%A0%8D%E6%8E%89%E4%BA%86%E7%AC%AC%E4%B8%89%E6%96%B9%E6%B8%B8%E6%88%8F%E8%B4%AD%E4%B9%B0)
+  - [OpenAI指控马斯克搞法律突袭 扰乱诉讼](https://blog.upx8.com/OpenAI%E6%8C%87%E6%8E%A7%E9%A9%AC%E6%96%AF%E5%85%8B%E6%90%9E%E6%B3%95%E5%BE%8B%E7%AA%81%E8%A2%AD-%E6%89%B0%E4%B9%B1%E8%AF%89%E8%AE%BC)
+- 黑鸟
+  - [Adobe正式官宣Reader漏洞已被在野利用，打开PDF可执行任意代码](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186333&idx=1&sn=0f961cc26fb5c839905fdc2e4a447893)
 - 安全客
   - [全国50城巡装过半！无锡龙虾x漫剧大会落幕，AI普惠深耕长三角](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789851&idx=1&sn=084dff75c5ce41928430748742042dcf)
-- 微步在线研究响应中心
-  - [Nginx曝新漏洞，特定配置下可实现任意文件读写](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508609&idx=1&sn=e96453088406b1327576791d35a60bde)
-- 看雪学苑
-  - [Polaris-Obfuscator中AliasAccess简要分析-反混淆](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613209&idx=1&sn=339f8a7fa83cab36c05aaae60966e541)
-  - [即客会 | 一站式活动管理系统](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613209&idx=2&sn=f925643d2e468d55b16e9c3088137a78)
+- 天御攻防实验室
+  - [NSA TAO负责人Mythos的漏洞利用能力已超过](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486896&idx=1&sn=afe3eb1ce512b0131bdb532b997ebf60)
+- 情报小蜜蜂
+  - [固态电池，离真正大规模量产还有多远？](https://mp.weixin.qq.com/s?__biz=MzU0NjY5ODQ3Mw==&mid=2247485991&idx=1&sn=f848c389ce1da70f34b0beb8ebfe10c6)
 - 丁爸 情报分析师的工具箱
   - [【报告】大型科技公司与硅谷如何重塑军事工业体系](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155155&idx=1&sn=89f34101f64881bc58c136459e2171d7)
   - [【报告】当战争成为科技产品：硅谷逻辑如何重塑军事人工智能](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155155&idx=2&sn=93da3412ab8167a2cfc4eb5f6cda3320)
-- 天御攻防实验室
-  - [NSA TAO负责人Mythos的漏洞利用能力已超过](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486896&idx=1&sn=afe3eb1ce512b0131bdb532b997ebf60)
-- 黑鸟
-  - [Adobe正式官宣Reader漏洞已被在野利用，打开PDF可执行任意代码](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186333&idx=1&sn=0f961cc26fb5c839905fdc2e4a447893)
-- 情报小蜜蜂
-  - [固态电池，离真正大规模量产还有多远？](https://mp.weixin.qq.com/s?__biz=MzU0NjY5ODQ3Mw==&mid=2247485991&idx=1&sn=f848c389ce1da70f34b0beb8ebfe10c6)
-- 电子物证
-  - [【APK / IPA 安装包获取及静态分析实战】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048966&idx=1&sn=6668c15343b722b72768795da90314c1)
-  - [【新手易懂】VeraCrypt加密卷创建与解密步骤详解](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048966&idx=2&sn=6b6edab540082e371fd201e7ad1c070f)
-- 极客公园
-  - [当换电「不值一提」，蔚来开始破圈](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653103802&idx=1&sn=d865509b3032b3f0560b208af821de08)
-  - [张雪冠军复刻赛车拍卖，1分钟内 500 万元封顶成交；蔡浩宇 AI 游戏公司推出新模型；阿里认领爆红视频模型 HappyHorse | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653103793&idx=1&sn=134c6606cf619404cb5d559482d178a6)
-- 情报分析师
-  - [以色列现役军人如何被伊朗渗透](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567543&idx=1&sn=c1734235adbc8c653f1fcc79080ed5e8)
-  - [人工智能重塑战争形态，2026美以伊战争AI深度应用与无人智能武器发展战略](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567543&idx=2&sn=fb218137ae57582846170dc389587c89)
+- 看雪学苑
+  - [Polaris-Obfuscator中AliasAccess简要分析-反混淆](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613209&idx=1&sn=339f8a7fa83cab36c05aaae60966e541)
+  - [即客会 | 一站式活动管理系统](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613209&idx=2&sn=f925643d2e468d55b16e9c3088137a78)
+- 微步在线研究响应中心
+  - [Nginx曝新漏洞，特定配置下可实现任意文件读写](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508609&idx=1&sn=e96453088406b1327576791d35a60bde)
 - 安全圈
   - [【安全圈】久病成黑客？男子自学编程，与妻子合作“代抢”医院号源，涉案金额超57万元](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075546&idx=1&sn=9a045324f1ff78774756b8efb57efde4)
   - [【安全圈】加密货币 ATM 巨头 Bitcoin Depot 遭黑客入侵，损失 366 万美元](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075546&idx=2&sn=8876814d45a7894a0eec1623c4593149)
   - [【安全圈】欧洲铁路公司 Eurail 数据泄露，30 万人受影响](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075546&idx=3&sn=d3863852a3157fbc5b9a5430b0b66768)
+- 电子物证
+  - [【APK / IPA 安装包获取及静态分析实战】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048966&idx=1&sn=6668c15343b722b72768795da90314c1)
+  - [【新手易懂】VeraCrypt加密卷创建与解密步骤详解](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048966&idx=2&sn=6b6edab540082e371fd201e7ad1c070f)
 - 软件安全与逆向分析
   - [使用这个工具你的AI可以省一半的Token](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485106&idx=1&sn=03017e4e54227de0bf39d95e98e65b81)
-- ICT Security Magazine
-  - [Threat Modeling nel 2026: analisi approfondita, aggiornata e operativa](https://www.ictsecuritymagazine.com/notizie/threat-modeling-2026/)
-- 深信服千里目安全技术中心
-  - [【高级持续威胁(APT)】BlackCat组织利用合法白程序侧加载投递Stealer分析](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525284&idx=1&sn=6a9f5f3cf5128cca6dc9e33e6b4aaec7)
-  - [网络安全信息与动态周报2026年第14期（3月30日-4月5日）](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525284&idx=2&sn=f095b78bf364db6cf4f9a40f5d307f72)
+- 极客公园
+  - [当换电「不值一提」，蔚来开始破圈](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653103802&idx=1&sn=d865509b3032b3f0560b208af821de08)
+  - [张雪冠军复刻赛车拍卖，1分钟内 500 万元封顶成交；蔡浩宇 AI 游戏公司推出新模型；阿里认领爆红视频模型 HappyHorse | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653103793&idx=1&sn=134c6606cf619404cb5d559482d178a6)
 - 吴鲁加
   - [清明祭祖感受到的争执](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486001&idx=1&sn=7041a43d537baa622e8227d71beb59ab)
+- 情报分析师
+  - [以色列现役军人如何被伊朗渗透](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567543&idx=1&sn=c1734235adbc8c653f1fcc79080ed5e8)
+  - [人工智能重塑战争形态，2026美以伊战争AI深度应用与无人智能武器发展战略](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567543&idx=2&sn=fb218137ae57582846170dc389587c89)
+- 安全行者老霍
+  - [大型语言模型能够以惊人的准确度大规模识别化名用户](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486399&idx=1&sn=d3372c2f62f7ab0a6f911f7f365683de)
 - Over Security - Cybersecurity news aggregator
   - [Over 20,000 crypto fraud victims identified in international crackdown](https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/)
   - [ChatGPT rolls out new $100 Pro subscription to challenge Claude](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/)
-- 熵减矩阵
-  - [Claude Code 安全体系深度分析](https://mp.weixin.qq.com/s?__biz=Mzg2MTc1NDAxMA==&mid=2247485285&idx=1&sn=95ad29e21e0f25094f656183d03962cf)
-- Dark Space Blogspot
-  - [Gioielli, Lingotti e Oro Da Investimento: Differenze Tra Prezzi Di Vendita](http://darkwhite666.blogspot.com/2026/04/gioielli-lingotti-e-oro-da-investimento.html)
+- 深信服千里目安全技术中心
+  - [【高级持续威胁(APT)】BlackCat组织利用合法白程序侧加载投递Stealer分析](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525284&idx=1&sn=6a9f5f3cf5128cca6dc9e33e6b4aaec7)
+  - [网络安全信息与动态周报2026年第14期（3月30日-4月5日）](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525284&idx=2&sn=f095b78bf364db6cf4f9a40f5d307f72)
 - Desync InfoSec
   - [微软智能体SOC：用AI重新定义安全运营的下一个十年](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489949&idx=1&sn=be58109442423a21471a4d6d4be6527c)
   - [Storm-1175 高频勒索攻击全链路：从 N-day 漏洞到 Medusa 部署最快仅 24 小时](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489949&idx=2&sn=7b943f69a1b768242793bacd88687ffc)
-- 安全行者老霍
-  - [大型语言模型能够以惊人的准确度大规模识别化名用户](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486399&idx=1&sn=d3372c2f62f7ab0a6f911f7f365683de)
+- Dark Space Blogspot
+  - [Gioielli, Lingotti e Oro Da Investimento: Differenze Tra Prezzi Di Vendita](http://darkwhite666.blogspot.com/2026/04/gioielli-lingotti-e-oro-da-investimento.html)
+- ICT Security Magazine
+  - [Threat Modeling nel 2026: analisi approfondita, aggiornata e operativa](https://www.ictsecuritymagazine.com/notizie/threat-modeling-2026/)
 - Security Affairs
   - [Censys finds 5,219 devices exposed to attacks by Iranian APTs, majority in U.S.](https://securityaffairs.com/190646/ics-scada/censys-finds-5219-devices-exposed-to-attacks-by-iranian-apts-majority-in-u-s.html)
   - [GlassWorm evolves with Zig dropper to infect multiple developer tools](https://securityaffairs.com/190638/malware/glassworm-evolves-with-zig-dropper-to-infect-multiple-developer-tools.html)
   - [CVE-2026-39987: Marimo RCE exploited in hours after disclosure](https://securityaffairs.com/190623/hacking/cve-2026-39987-marimo-rce-exploited-in-hours-after-disclosure.html)
 - The Hacker News
   - [Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data](https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html)
+- 熵减矩阵
+  - [Claude Code 安全体系深度分析](https://mp.weixin.qq.com/s?__biz=Mzg2MTc1NDAxMA==&mid=2247485285&idx=1&sn=95ad29e21e0f25094f656183d03962cf)
 - 希潭实验室
   - [第162篇：AI联动JADX + MCP + Claude实战还原深度加密混淆的 Java 程序](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247488345&idx=1&sn=28748dd8b257778e985e56bba8a614b8)
