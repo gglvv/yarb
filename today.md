@@ -1,7 +1,7 @@
 # 每日安全资讯（2026-04-13）
 
-- Recent Commits to cve:main
-  - [Update Sun Apr 12 11:18:45 UTC 2026](https://github.com/trickest/cve/commit/28abb9503d28d59c03e83d3abc80e080749431a5)
+- SecWiki News
+  - [SecWiki News 2026-04-12 Review](http://www.sec-wiki.com/?2026-04-12)
 - InfoSec Write-ups - Medium
   - [The False Comfort of Dashboards](https://infosecwriteups.com/the-false-comfort-of-dashboards-472b88954a56?source=rss----7b722bfd1b8d---4)
   - [ThreatLens: Automating IoC Detection Directly in Your Browser](https://infosecwriteups.com/threatlens-automating-ioc-detection-directly-in-your-browser-9547e3c7defa?source=rss----7b722bfd1b8d---4)
@@ -12,10 +12,10 @@
   - [Deception Scenario How Inverted Social Engineering is Redefining the Web3 Recruitment Trap](https://infosecwriteups.com/deception-scenario-how-inverted-social-engineering-is-redefining-the-web3-recruitment-trap-f02b387cd6df?source=rss----7b722bfd1b8d---4)
   - [CVE-2026-21876 — Root cause, Reproduction, Impact and Lessons Learned](https://infosecwriteups.com/cve-2026-21876-root-cause-reproduction-impact-and-lessons-learned-410909440568?source=rss----7b722bfd1b8d---4)
   - [OT Reconnaissance with Wireshark and GrassMarlin](https://infosecwriteups.com/ot-reconnaissance-with-wireshark-and-grassmarlin-26e68ed2aebd?source=rss----7b722bfd1b8d---4)
+- Recent Commits to cve:main
+  - [Update Sun Apr 12 11:18:45 UTC 2026](https://github.com/trickest/cve/commit/28abb9503d28d59c03e83d3abc80e080749431a5)
 - MaskRay
   - [Recent lld/ELF performance improvements](https://maskray.me/blog/2026-04-12-recent-lld-elf-performance-improvements)
-- SecWiki News
-  - [SecWiki News 2026-04-12 Review](http://www.sec-wiki.com/?2026-04-12)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [App using Cognito for SSO? Use this Methodology to find High Severity Issues](https://infosecwriteups.com/app-using-cognito-for-sso-use-this-methodology-to-find-high-severity-issues-b11a7ecfe0a1?source=rss----7b722bfd1b8d--bug_bounty)
 - Reverse Engineering
@@ -23,8 +23,6 @@
   - [drakoarmy/akamai-vm-reverse: Decompiled and cleaned Akamai v3 VM powering the latest sensor_data challenge script.](https://www.reddit.com/r/ReverseEngineering/comments/1sjau1i/drakoarmyakamaivmreverse_decompiled_and_cleaned/)
 - Dancho Danchev's Blog - Mind Streams of Information Security Knowledge
   - [Happy Easter](https://ddanchev.blogspot.com/2026/04/happy-easter.html)
-- 风之栖息地
-  - [纪念我那跌宕起伏的2025，也是工作三年多的小结](https://hurricane618.me/2026/04/12/my-2025-and-3-years-working-summary/)
 - 奇客Solidot–传递最新科技情报
   - [韩国移动运营商将为其用户提供 400 Kbps 基本数据传输率](https://www.solidot.org/story?sid=84025)
   - [反腐如何影响餐饮业](https://www.solidot.org/story?sid=84024)
@@ -32,59 +30,63 @@
   - [Rockstar 证实遭到入侵，但否认重要数据被盗](https://www.solidot.org/story?sid=84022)
 - 黑鸟
   - [无授权追踪：全球广告情报监控网络全面曝光](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186357&idx=1&sn=fae4053ffc4208043bd0b280b9b73555)
+- 风之栖息地
+  - [纪念我那跌宕起伏的2025，也是工作三年多的小结](https://hurricane618.me/2026/04/12/my-2025-and-3-years-working-summary/)
 - 安全学术圈
   - [四川大学；清华大学等：黑客还是幻觉？基于大语言模型的自动化渗透测试全面分析](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495243&idx=1&sn=d863eee8a987d434f3a2f3a2b5b608be)
+- 丁爸 情报分析师的工具箱
+  - [【研究报告】中东战争正威胁医疗供应链](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155164&idx=1&sn=5bc3561495ff4db363dee076d936a553)
+  - [【研究报告】2026年伊朗战争对美国通胀的影响](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155164&idx=2&sn=d3a686b7af399c6d0c0f688a12400516)
 - 中国信息安全
   - [4·15全民国家安全教育日 | 国家安全 头等大事](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261191&idx=1&sn=a65fa4f31b97ae7ce4200ebda6de5e93)
   - [4·15全民国家安全教育日 | 主题海报来了，请查收！](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261191&idx=2&sn=f535ef132b9c9209d6eb21018dc4c968)
-- 极客公园
-  - [宇树机器人逼近博尔特速度极限；Qwen 系列模型累计下载量近 10 亿；小米上调手机价格，K90 Pro Max 上涨 200 元| 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653103823&idx=1&sn=b4d4edad5be0dc85054ebee700e11354)
-- 情报分析师
-  - [美军轰炸了一所小学——问题是，那栋楼已经不再是军事目标十年了](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567574&idx=1&sn=95a99809a288ad1a473d2e073fe0ce7e)
 - 安全圈
   - [【安全圈】知名电脑检测软件 CPU-Z、HWMonitor 被入侵！安装包被投毒 开发者回应](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075585&idx=1&sn=beb1c4000130b2ff57bb5d4e98be2556)
   - [【安全圈】研究人员发现绕过 Apple Intelligence 安全机制的新方法](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075585&idx=2&sn=ae36143b50dc72b50ca6d9b7f9a9213b)
   - [【安全圈】欧洲铁路公司 Eurail 数据泄露，30 万人受影响](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075585&idx=3&sn=53c90760755df6379d29aaa9b00e6dfd)
-- RedTeam
-  - [规模化 SAST & SCA 漏洞修复](https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484644&idx=1&sn=2de6211f598ae85287dd08baa0b12b8d)
-- 娜璋AI安全之家
-  - [[AI安全论文] (49)JNCA24 网络威胁狩猎演化技术综述](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247502764&idx=1&sn=f8659afe9c9e7eec6dffdc9da72f0b24)
-- 安全行者老霍
-  - [无需编写任何代码，即可将 Claude Code 变成国家级攻击工具](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486492&idx=1&sn=b1b961826ab636829d145b0756394499)
-- Have I Been Pwned latest breaches
-  - [Hallmark - 1,736,520 breached accounts](https://haveibeenpwned.com/Breach/Hallmark)
-- ICT Security Magazine
-  - [APT31 spiava la Russia: cyber spionaggio cinese infiltrato nel tech russo per anni](https://www.ictsecuritymagazine.com/notizie/apt31-cina-spia-russia/)
+- 极客公园
+  - [宇树机器人逼近博尔特速度极限；Qwen 系列模型累计下载量近 10 亿；小米上调手机价格，K90 Pro Max 上涨 200 元| 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653103823&idx=1&sn=b4d4edad5be0dc85054ebee700e11354)
+- 情报分析师
+  - [美军轰炸了一所小学——问题是，那栋楼已经不再是军事目标十年了](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567574&idx=1&sn=95a99809a288ad1a473d2e073fe0ce7e)
 - Over Security - Cybersecurity news aggregator
   - [Parent Process ID Spoofing](https://roccosicilia.com/2026/04/12/parent-process-id-spoofing/)
   - [Critical Marimo pre-auth RCE flaw now under active exploitation](https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/)
   - [Hallmark - 1,736,520 breached accounts](https://haveibeenpwned.com/Breach/Hallmark)
+- 安全行者老霍
+  - [无需编写任何代码，即可将 Claude Code 变成国家级攻击工具](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486492&idx=1&sn=b1b961826ab636829d145b0756394499)
+- ICT Security Magazine
+  - [APT31 spiava la Russia: cyber spionaggio cinese infiltrato nel tech russo per anni](https://www.ictsecuritymagazine.com/notizie/apt31-cina-spia-russia/)
+- RedTeam
+  - [规模化 SAST & SCA 漏洞修复](https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484644&idx=1&sn=2de6211f598ae85287dd08baa0b12b8d)
+- Desync InfoSec
+  - [又一个Confluence倒下了：CVE-2023-22527漏洞导致ELPACO-team勒索软件入侵](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489979&idx=1&sn=7c177ee4f22f902eeb36bba930457fcf)
+  - [AI驱动漏洞海啸来袭：修复窗口从数周压缩到数小时](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489979&idx=2&sn=10e3e338edf91c89f0cba32705a61c67)
+- 娜璋AI安全之家
+  - [[AI安全论文] (49)JNCA24 网络威胁狩猎演化技术综述](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247502764&idx=1&sn=f8659afe9c9e7eec6dffdc9da72f0b24)
 - The Hacker News
   - [CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads](https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html)
   - [Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621](https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html)
+- 白帽子章华鹏
+  - [AI给企业安全带来的新挑战和机遇](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650238971&idx=1&sn=daf01d547fbd7134e49c4a346d961cd5)
+- Deep Web
+  - [ShadowNet v3.1.0 - Time Master/Misconception](https://www.reddit.com/r/deepweb/comments/1sjsw4p/shadownet_v310_time_mastermisconception/)
+  - [U guys how can a sell stuff on the dark web?](https://www.reddit.com/r/deepweb/comments/1sjc1tp/u_guys_how_can_a_sell_stuff_on_the_dark_web/)
+- Have I Been Pwned latest breaches
+  - [Hallmark - 1,736,520 breached accounts](https://haveibeenpwned.com/Breach/Hallmark)
+- Blackhat Library: Hacking techniques and research
+  - [I was tired of NDRs and EDRs flagging every C2 I tried, so I spent a month in x64 Assembly to see if pure syscalls actually make a difference.](https://www.reddit.com/r/blackhat/comments/1sj1893/i_was_tired_of_ndrs_and_edrs_flagging_every_c2_i/)
 - Security Affairs
   - [Adobe fixes actively exploited Acrobat Reader flaw CVE-2026-34621](https://securityaffairs.com/190697/security/adobe-fixes-actively-exploited-acrobat-reader-flaw-cve-2026-34621.html)
   - [Hackers claim control over Venice San Marco anti-flood pumps](https://securityaffairs.com/190679/hacktivism/hackers-claim-control-over-venice-san-marco-anti-flood-pumps.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 92](https://securityaffairs.com/190672/malware/security-affairs-malware-newsletter-round-92.html)
   - [Security Affairs newsletter Round 572 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/190662/security/security-affairs-newsletter-round-572-by-pierluigi-paganini-international-edition.html)
-- 白帽子章华鹏
-  - [AI给企业安全带来的新挑战和机遇](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650238971&idx=1&sn=daf01d547fbd7134e49c4a346d961cd5)
-- Desync InfoSec
-  - [又一个Confluence倒下了：CVE-2023-22527漏洞导致ELPACO-team勒索软件入侵](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489979&idx=1&sn=7c177ee4f22f902eeb36bba930457fcf)
-  - [AI驱动漏洞海啸来袭：修复窗口从数周压缩到数小时](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489979&idx=2&sn=10e3e338edf91c89f0cba32705a61c67)
-- Social Engineering
-  - [Try it](https://www.reddit.com/r/SocialEngineering/comments/1sje4nk/try_it/)
-  - [Dictionary of Body Language vs What Every Body is Saying](https://www.reddit.com/r/SocialEngineering/comments/1sj9mmt/dictionary_of_body_language_vs_what_every_body_is/)
-- Blackhat Library: Hacking techniques and research
-  - [I was tired of NDRs and EDRs flagging every C2 I tried, so I spent a month in x64 Assembly to see if pure syscalls actually make a difference.](https://www.reddit.com/r/blackhat/comments/1sj1893/i_was_tired_of_ndrs_and_edrs_flagging_every_c2_i/)
 - Your Open Hacker Community
   - [Truecaller](https://www.reddit.com/r/HowToHack/comments/1sjortu/truecaller/)
   - [Dealing with found usb sticks](https://www.reddit.com/r/HowToHack/comments/1sjevju/dealing_with_found_usb_sticks/)
   - [There is this exe game I'd like to change the code of.](https://www.reddit.com/r/HowToHack/comments/1sj9th9/there_is_this_exe_game_id_like_to_change_the_code/)
-- Deep Web
-  - [ShadowNet v3.1.0 - Time Master/Misconception](https://www.reddit.com/r/deepweb/comments/1sjsw4p/shadownet_v310_time_mastermisconception/)
-  - [Darkwire Forum](https://www.reddit.com/r/deepweb/comments/1sjp2ta/darkwire_forum/)
-  - [U guys how can a sell stuff on the dark web?](https://www.reddit.com/r/deepweb/comments/1sjc1tp/u_guys_how_can_a_sell_stuff_on_the_dark_web/)
+- Social Engineering
+  - [Try it](https://www.reddit.com/r/SocialEngineering/comments/1sje4nk/try_it/)
+  - [Dictionary of Body Language vs What Every Body is Saying](https://www.reddit.com/r/SocialEngineering/comments/1sj9mmt/dictionary_of_body_language_vs_what_every_body_is/)
 - 希潭实验室
   - [第163篇：借助AI + Claude + Skills 构建 APK 自动化安全分析工作流](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247488366&idx=1&sn=b0f5335a249f78c89e40144063792147)
 - Daniel Miessler
