@@ -44,35 +44,35 @@
   - [【安全圈】知名电脑检测软件 CPU-Z、HWMonitor 被入侵！安装包被投毒 开发者回应](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075585&idx=1&sn=beb1c4000130b2ff57bb5d4e98be2556)
   - [【安全圈】研究人员发现绕过 Apple Intelligence 安全机制的新方法](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075585&idx=2&sn=ae36143b50dc72b50ca6d9b7f9a9213b)
   - [【安全圈】欧洲铁路公司 Eurail 数据泄露，30 万人受影响](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075585&idx=3&sn=53c90760755df6379d29aaa9b00e6dfd)
-- 极客公园
-  - [宇树机器人逼近博尔特速度极限；Qwen 系列模型累计下载量近 10 亿；小米上调手机价格，K90 Pro Max 上涨 200 元| 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653103823&idx=1&sn=b4d4edad5be0dc85054ebee700e11354)
 - 情报分析师
   - [美军轰炸了一所小学——问题是，那栋楼已经不再是军事目标十年了](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567574&idx=1&sn=95a99809a288ad1a473d2e073fe0ce7e)
+- 极客公园
+  - [宇树机器人逼近博尔特速度极限；Qwen 系列模型累计下载量近 10 亿；小米上调手机价格，K90 Pro Max 上涨 200 元| 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653103823&idx=1&sn=b4d4edad5be0dc85054ebee700e11354)
 - Over Security - Cybersecurity news aggregator
   - [Parent Process ID Spoofing](https://roccosicilia.com/2026/04/12/parent-process-id-spoofing/)
   - [Critical Marimo pre-auth RCE flaw now under active exploitation](https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/)
   - [Hallmark - 1,736,520 breached accounts](https://haveibeenpwned.com/Breach/Hallmark)
-- 安全行者老霍
-  - [无需编写任何代码，即可将 Claude Code 变成国家级攻击工具](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486492&idx=1&sn=b1b961826ab636829d145b0756394499)
-- ICT Security Magazine
-  - [APT31 spiava la Russia: cyber spionaggio cinese infiltrato nel tech russo per anni](https://www.ictsecuritymagazine.com/notizie/apt31-cina-spia-russia/)
-- RedTeam
-  - [规模化 SAST & SCA 漏洞修复](https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484644&idx=1&sn=2de6211f598ae85287dd08baa0b12b8d)
 - Desync InfoSec
   - [又一个Confluence倒下了：CVE-2023-22527漏洞导致ELPACO-team勒索软件入侵](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489979&idx=1&sn=7c177ee4f22f902eeb36bba930457fcf)
   - [AI驱动漏洞海啸来袭：修复窗口从数周压缩到数小时](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489979&idx=2&sn=10e3e338edf91c89f0cba32705a61c67)
+- ICT Security Magazine
+  - [APT31 spiava la Russia: cyber spionaggio cinese infiltrato nel tech russo per anni](https://www.ictsecuritymagazine.com/notizie/apt31-cina-spia-russia/)
+- 安全行者老霍
+  - [无需编写任何代码，即可将 Claude Code 变成国家级攻击工具](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486492&idx=1&sn=b1b961826ab636829d145b0756394499)
+- RedTeam
+  - [规模化 SAST & SCA 漏洞修复](https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484644&idx=1&sn=2de6211f598ae85287dd08baa0b12b8d)
+- Have I Been Pwned latest breaches
+  - [Hallmark - 1,736,520 breached accounts](https://haveibeenpwned.com/Breach/Hallmark)
 - 娜璋AI安全之家
   - [[AI安全论文] (49)JNCA24 网络威胁狩猎演化技术综述](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247502764&idx=1&sn=f8659afe9c9e7eec6dffdc9da72f0b24)
+- 白帽子章华鹏
+  - [AI给企业安全带来的新挑战和机遇](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650238971&idx=1&sn=daf01d547fbd7134e49c4a346d961cd5)
 - The Hacker News
   - [CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads](https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html)
   - [Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621](https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html)
-- 白帽子章华鹏
-  - [AI给企业安全带来的新挑战和机遇](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650238971&idx=1&sn=daf01d547fbd7134e49c4a346d961cd5)
 - Deep Web
   - [ShadowNet v3.1.0 - Time Master/Misconception](https://www.reddit.com/r/deepweb/comments/1sjsw4p/shadownet_v310_time_mastermisconception/)
   - [U guys how can a sell stuff on the dark web?](https://www.reddit.com/r/deepweb/comments/1sjc1tp/u_guys_how_can_a_sell_stuff_on_the_dark_web/)
-- Have I Been Pwned latest breaches
-  - [Hallmark - 1,736,520 breached accounts](https://haveibeenpwned.com/Breach/Hallmark)
 - Blackhat Library: Hacking techniques and research
   - [I was tired of NDRs and EDRs flagging every C2 I tried, so I spent a month in x64 Assembly to see if pure syscalls actually make a difference.](https://www.reddit.com/r/blackhat/comments/1sj1893/i_was_tired_of_ndrs_and_edrs_flagging_every_c2_i/)
 - Security Affairs
@@ -80,14 +80,14 @@
   - [Hackers claim control over Venice San Marco anti-flood pumps](https://securityaffairs.com/190679/hacktivism/hackers-claim-control-over-venice-san-marco-anti-flood-pumps.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 92](https://securityaffairs.com/190672/malware/security-affairs-malware-newsletter-round-92.html)
   - [Security Affairs newsletter Round 572 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/190662/security/security-affairs-newsletter-round-572-by-pierluigi-paganini-international-edition.html)
+- Social Engineering
+  - [Try it](https://www.reddit.com/r/SocialEngineering/comments/1sje4nk/try_it/)
+  - [Dictionary of Body Language vs What Every Body is Saying](https://www.reddit.com/r/SocialEngineering/comments/1sj9mmt/dictionary_of_body_language_vs_what_every_body_is/)
 - Your Open Hacker Community
   - [Truecaller](https://www.reddit.com/r/HowToHack/comments/1sjortu/truecaller/)
   - [Dealing with found usb sticks](https://www.reddit.com/r/HowToHack/comments/1sjevju/dealing_with_found_usb_sticks/)
   - [There is this exe game I'd like to change the code of.](https://www.reddit.com/r/HowToHack/comments/1sj9th9/there_is_this_exe_game_id_like_to_change_the_code/)
-- Social Engineering
-  - [Try it](https://www.reddit.com/r/SocialEngineering/comments/1sje4nk/try_it/)
-  - [Dictionary of Body Language vs What Every Body is Saying](https://www.reddit.com/r/SocialEngineering/comments/1sj9mmt/dictionary_of_body_language_vs_what_every_body_is/)
-- 希潭实验室
-  - [第163篇：借助AI + Claude + Skills 构建 APK 自动化安全分析工作流](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247488366&idx=1&sn=b0f5335a249f78c89e40144063792147)
 - Daniel Miessler
   - [AI Only Has to Beat 3/10](https://danielmiessler.com/blog/ai-only-has-to-beat-3-out-of-10?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- 希潭实验室
+  - [第163篇：借助AI + Claude + Skills 构建 APK 自动化安全分析工作流](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247488366&idx=1&sn=b0f5335a249f78c89e40144063792147)
