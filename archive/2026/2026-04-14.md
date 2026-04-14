@@ -2,32 +2,36 @@
 
 - Recent Commits to cve:main
   - [Update Mon Apr 13 11:19:46 UTC 2026](https://github.com/trickest/cve/commit/ae71fafc6dc88bb7b60080178e5bbf1fa76dbc6a)
+- SecWiki News
+  - [SecWiki News 2026-04-13 Review](http://www.sec-wiki.com/?2026-04-13)
 - 安全客-有思想的安全新媒体
   - [工程化实战思维在红队技战术中的应用](https://www.anquanke.com/post/id/315292)
 - obaby 𝐢‍𝐧⃝ void
   - [虚惊一场](https://zhongxiaojie.cn/2026/04/915/)
-- SecWiki News
-  - [SecWiki News 2026-04-13 Review](http://www.sec-wiki.com/?2026-04-13)
+- Insinuator.net
+  - [Windows Early Boot Configuration: The CmControlVector and PspSystemMitigationOptions](https://insinuator.net/2026/04/windows-early-boot-configuration-the-cmcontrolvector-and-pspsystemmitigationoptions/)
 - Cerbero Blog
   - [Lua Decompiler Package](https://blog.cerbero.io/lua-decompiler-package/)
   - [LUAC Format Package](https://blog.cerbero.io/luac-format-package/)
-- Insinuator.net
-  - [Windows Early Boot Configuration: The CmControlVector and PspSystemMitigationOptions](https://insinuator.net/2026/04/windows-early-boot-configuration-the-cmcontrolvector-and-pspsystemmitigationoptions/)
 - Payatu
   - [Web Cache Poisoning vs Deception: The Dynamic Duo of Cache Attacks](https://payatu.com/blog/web-cache-poisoning-vs-deception-the-dynamic-duo-of-cache-attacks/)
-- Reverse Engineering
-  - [/r/ReverseEngineering's Weekly Questions Thread](https://www.reddit.com/r/ReverseEngineering/comments/1sk3apz/rreverseengineerings_weekly_questions_thread/)
 - Securelist
   - [JanelaRAT: a financial threat targeting users in Latin America](https://securelist.com/janelarat-financial-threat-in-latin-america/119332/)
+- VMRay
+  - [15 Incident Response Metrics for the Modern SOC Team](https://www.vmray.com/incident-response-metrics-for-modern-soc-team/)
+- Reverse Engineering
+  - [/r/ReverseEngineering's Weekly Questions Thread](https://www.reddit.com/r/ReverseEngineering/comments/1sk3apz/rreverseengineerings_weekly_questions_thread/)
 - Binary Ninja
   - [Binary Ninja 5.3 (Jotunheim)](https://binary.ninja/2026/04/13/binary-ninja-5.3-jotunheim.html)
 - Malwarebytes
   - [Simply opening a PDF could trigger this Adobe Reader zero-day](https://www.malwarebytes.com/blog/news/2026/04/simply-opening-a-pdf-could-trigger-this-adobe-reader-zero-day)
   - [A week in security (April 6 &#8211; April 12)](https://www.malwarebytes.com/blog/news/2026/04/a-week-in-security-april-6-april-12)
-- VMRay
-  - [15 Incident Response Metrics for the Modern SOC Team](https://www.vmray.com/incident-response-metrics-for-modern-soc-team/)
+- Hackerman's Hacking Tutorials
+  - [AI Borked my Keyboard - Reversing the Aula F108 Pro Software](https://parsiya.net/blog/ai-borked-keyboard/)
 - Checkmarx
   - [Checkmarx Application Security Guide to Claude Mythos](https://checkmarx.com/blog/checkmarx-application-security-guide-to-claude-mythos/)
+- 体验盒子
+  - [Flutter APK 体积144MB到23MB：瘦身实战](https://www.uedbox.com/post/119797/)
 - 绿盟科技技术博客
   - [绿盟科技通过中国信通院OpenClaw类智能体安全防护产品能力评测](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e9%80%9a%e8%bf%87%e4%b8%ad%e5%9b%bd%e4%bf%a1%e9%80%9a%e9%99%a2openclaw%e7%b1%bb%e6%99%ba%e8%83%bd%e4%bd%93%e5%ae%89%e5%85%a8%e9%98%b2%e6%8a%a4%e4%ba%a7%e5%93%81/)
   - [美国2026 RSAC热点研讨暨第十八届信息安全高级论坛成功召开](https://blog.nsfocus.net/%e7%be%8e%e5%9b%bd2026-rsac%e7%83%ad%e7%82%b9%e7%a0%94%e8%ae%a8%e6%9a%a8%e7%ac%ac%e5%8d%81%e5%85%ab%e5%b1%8a%e4%bf%a1%e6%81%af%e5%ae%89%e5%85%a8%e9%ab%98%e7%ba%a7%e8%ae%ba%e5%9d%9b%e6%88%90%e5%8a%9f/)
@@ -39,8 +43,6 @@
   - [CPUID é­ĺ…ĽäžľďźŒCPU-Z ĺ’Œ HWMonitor ä¸‹č˝˝é“žćŽĽč˘ŤçŻĄć”šäź ć’­ćść„č˝Żäťś](http://0.0.0.0:8080/post/64101)
   - [ĺžŽč˝ŻďźšĺŠ ć‹żĺ¤§ĺ‘˜ĺˇĽé­"č–Şčľ„ćľˇç›—"ć”ťĺ‡ťďźŒĺˇĽčľ„č˘ŤçŞƒ](http://0.0.0.0:8080/post/64100)
   - [Marimo ĺ…łé”Žé˘„čŽ¤čŻ RCE ćźć´žé­ä¸ťĺŠ¨ĺˆŠç”¨](http://0.0.0.0:8080/post/64099)
-- Hackerman's Hacking Tutorials
-  - [AI Borked my Keyboard - Reversing the Aula F108 Pro Software](https://parsiya.net/blog/ai-borked-keyboard/)
 - 奇客Solidot–传递最新科技情报
   - [扎克伯格可能很快会有他的 AI 克隆](https://www.solidot.org/story?sid=84036)
   - [计算机科学的黄金期可能已结束](https://www.solidot.org/story?sid=84035)
@@ -53,97 +55,98 @@
   - [美国人仍然偏爱阅读纸质书](https://www.solidot.org/story?sid=84028)
   - [赵长鹏自费出版了自己的自传](https://www.solidot.org/story?sid=84027)
   - [Linux 7.0 释出](https://www.solidot.org/story?sid=84026)
-- 体验盒子
-  - [Flutter APK 体积144MB到23MB：瘦身实战](https://www.uedbox.com/post/119797/)
-- 黑鸟
-  - [撑起全球半壁RDP恶意扫描的塞舌尔离岸托管网络](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186372&idx=1&sn=b97704a9a81471f8622d1cae3460aaed)
 - 安全分析与研究
   - [银狐名单类最新攻击样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496650&idx=1&sn=8c41fcd3aebad10eae54494e97188e16)
 - 威努特安全网络
   - [WinClaw龙虾🦞的十大高阶养成法](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651141315&idx=1&sn=02c885fa94abec83daaeebbee662b316)
-- 先进攻防
-  - [Claude Code Windows环境避坑指南](https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908890&idx=1&sn=6e7340c781a41250b3c8feb64301485d)
 - 奇安信 CERT
   - [【在野利用】Adobe Acrobat Reader 远程代码执行漏洞(CVE-2026-34621)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505216&idx=1&sn=2a570e936bed484504986c43d7242a2c)
   - [【已复现】Nginx ngx_http_dav_module 堆缓冲区溢出漏洞(CVE-2026-27654)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505216&idx=2&sn=20c8c942f3ee8f9b79a0f2ce1fea5a0d)
+- 黑鸟
+  - [撑起全球半壁RDP恶意扫描的塞舌尔离岸托管网络](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186372&idx=1&sn=b97704a9a81471f8622d1cae3460aaed)
+- 安全内参
+  - [Anthropic新模型颠覆网络安全：美英德政府加急评估影响，传统漏洞或不复存在](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515804&idx=1&sn=0b0221f05c3de44eccd583eb303ff59b)
+  - [军民并减：2027财年美国联邦网络安全预算的双线调整](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515804&idx=2&sn=e572819ad85aab347ec2a70fca4bfe34)
+- 代码卫士
+  - [Adobe 紧急修复已遭利用的 0day](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525746&idx=1&sn=5294bb3a6a8e16b13a220df8b12654c7)
+  - [Marimo 高危预认证 RCE 漏洞已遭活跃利用](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525746&idx=2&sn=777605c08e8d6f2e0dbad63e8f408da4)
 - 看雪学苑
   - [Linux arm64 内核Hook实现与校验绕过](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613330&idx=1&sn=a06f6c489372da6017fb6426da80ecc9)
   - [今晚8点直击 | 第二届智能渗透挑战赛·冠军之夜](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613330&idx=2&sn=e1e50ed859ae41fd1efc229526fa98a8)
   - [黑客借助 Claude Code 与 GPT-4.1，攻破墨西哥九家政府机构，窃取数亿公民数据](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613330&idx=3&sn=fdae4b86e89d852bbfe93df7ef780460)
-- 代码卫士
-  - [Adobe 紧急修复已遭利用的 0day](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525746&idx=1&sn=5294bb3a6a8e16b13a220df8b12654c7)
-  - [Marimo 高危预认证 RCE 漏洞已遭活跃利用](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525746&idx=2&sn=777605c08e8d6f2e0dbad63e8f408da4)
-- 安全内参
-  - [Anthropic新模型颠覆网络安全：美英德政府加急评估影响，传统漏洞或不复存在](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515804&idx=1&sn=0b0221f05c3de44eccd583eb303ff59b)
-  - [军民并减：2027财年美国联邦网络安全预算的双线调整](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515804&idx=2&sn=e572819ad85aab347ec2a70fca4bfe34)
+- 先进攻防
+  - [Claude Code Windows环境避坑指南](https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908890&idx=1&sn=6e7340c781a41250b3c8feb64301485d)
 - 信息安全国家工程研究中心
   - [三部门部署网络安全标识管理工作](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247503502&idx=1&sn=be02d023033fc903d90ead992eb68ce8)
+- 威胁棱镜
+  - [威胁情报生态系统的产出与共享](https://mp.weixin.qq.com/s?__biz=MzkyMzE5ODExNQ==&mid=2247488610&idx=1&sn=de9310c0ae3396cb8c0cd9d5559c3f40)
 - 安全圈
   - [【安全圈】黑客利用 Claude 和 ChatGPT 入侵多家墨西哥政府机构](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075617&idx=1&sn=ae5ccccf31e54fadb3a3ae3a96442518)
   - [【安全圈】国际联合行动识别超 2 万名加密货币诈骗受害者](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075617&idx=2&sn=e0977dea287f90ca2172e2f363610190)
   - [【安全圈】十亿条 CISA KEV 修复记录分析揭示人力安全模式的极限](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075617&idx=3&sn=37b38b70dab479d02d3f08d8edad460b)
+- XCTF联赛
+  - [集结号吹响！XCTF“百城千赛・AI+安全万人计划”正式开放招募](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516244&idx=1&sn=3b64df569ffcef04eee699b2c9ce8758)
+- 安全牛
+  - [渗透测试：褪去光鲜外衣后的真实图景与职业思考](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141018&idx=1&sn=277a7e6e06d2bd36e297e79ff4e4c7a7)
+  - [五部门联合发布 AI 拟人化互动服务新规，7 月 15 日起施行；中央网信办联合约谈 7 家票务平台，严禁技术手段干扰12306安全运行 | 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141018&idx=2&sn=ea74e60c7670ab46aae3b13487dfab27)
+- NOVASEC
+  - [【工具】Copier-Plus：批量保存Burp报文](https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490844&idx=1&sn=ddb2f750d0d68eda8089b78ec603eaf5)
+- 情报分析师
+  - [伊朗搜索队满山转悠，方向全错了！CIA是怎么做到的](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567588&idx=1&sn=405c815c1eb18af7b490a6dada1244e1)
+  - [【深度研判】2026年4月8日美国驻贝鲁特大使馆遭袭事件情报分析报告](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567588&idx=2&sn=620b20cde280db411c119e398b6d9033)
+  - [他说自己只是个生意人，但他的莫斯科地址让调查员停了下来](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567588&idx=3&sn=1b09f7cb6e75f8f3c02149df151eaac0)
 - 中国信息安全
   - [专题·具身智能安全 | 具身智能安全风险分析与应对措施建议](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261264&idx=1&sn=6415e10cd733b8c943a2bae65ef26174)
   - [通知 | 中央网信办：加强网络直播打赏规范管理](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261264&idx=2&sn=c5e1e4bc7546623b8139875f4438227f)
   - [4·15全民国家安全教育日 | 10个实用的网络安全小常识](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261264&idx=3&sn=9a9c696f1c3b041ea1f81439e5e3a5ce)
   - [聚焦 | 第三届北京市总体国家安全观理论研讨会在京举行](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261264&idx=4&sn=faadedc08369172b7614d87d0d51f3c2)
   - [观点 | 词元供给，如何“用得起”“用得好”](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261264&idx=5&sn=690db2b0328685f3a61fc4814f872cd8)
-- 软件安全与逆向分析
-  - [安卓内核Hook技术实现分析与应用](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485111&idx=1&sn=f933f9d819aa2fa0d502768de65dd600)
-- 威胁棱镜
-  - [威胁情报生态系统的产出与共享](https://mp.weixin.qq.com/s?__biz=MzkyMzE5ODExNQ==&mid=2247488610&idx=1&sn=de9310c0ae3396cb8c0cd9d5559c3f40)
-- M01N Team
-  - [AI安全案例分析 | Grafana 平台零点击间接注入威胁](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247494946&idx=1&sn=cfb436b16c06bf1e2fda6abfc1d7a050)
+- 慢雾科技
+  - [慢雾邀您共赴 2026 香港 Web3 嘉年华及多场行业盛会](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247504713&idx=1&sn=b3c6dee54d890e1751ac7bb28d28bc74)
 - 火绒安全
   - [火绒安全解决方案｜御险于未然  互联网企业勒索防护解决方案](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247531968&idx=1&sn=9959b6f82a42b129ef908d19cfeacbd2)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247531968&idx=2&sn=a9f7047f8665c16b36a1b8dd2b181bc0)
-- NOVASEC
-  - [【工具】Copier-Plus：批量保存Burp报文](https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490844&idx=1&sn=ddb2f750d0d68eda8089b78ec603eaf5)
-- 安全牛
-  - [渗透测试：褪去光鲜外衣后的真实图景与职业思考](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141018&idx=1&sn=277a7e6e06d2bd36e297e79ff4e4c7a7)
-  - [五部门联合发布 AI 拟人化互动服务新规，7 月 15 日起施行；中央网信办联合约谈 7 家票务平台，严禁技术手段干扰12306安全运行 | 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141018&idx=2&sn=ea74e60c7670ab46aae3b13487dfab27)
-- 慢雾科技
-  - [慢雾邀您共赴 2026 香港 Web3 嘉年华及多场行业盛会](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247504713&idx=1&sn=b3c6dee54d890e1751ac7bb28d28bc74)
-- 复旦白泽战队
-  - [从漏洞到规则：安全知识自动提取的初步探索](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247498222&idx=1&sn=be9999e3b98053641c2a73c08075df30)
-- 数世咨询
-  - [人工智能在SOC中应用的两个真实案例](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542545&idx=1&sn=00c342744deebc04c09a2d8a384100b0)
-- 情报分析师
-  - [伊朗搜索队满山转悠，方向全错了！CIA是怎么做到的](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567588&idx=1&sn=405c815c1eb18af7b490a6dada1244e1)
-  - [【深度研判】2026年4月8日美国驻贝鲁特大使馆遭袭事件情报分析报告](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567588&idx=2&sn=620b20cde280db411c119e398b6d9033)
-  - [他说自己只是个生意人，但他的莫斯科地址让调查员停了下来](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567588&idx=3&sn=1b09f7cb6e75f8f3c02149df151eaac0)
-- XCTF联赛
-  - [集结号吹响！XCTF“百城千赛・AI+安全万人计划”正式开放招募](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516244&idx=1&sn=3b64df569ffcef04eee699b2c9ce8758)
 - 字节跳动安全中心
   - [漏洞预警：LiteLLM未鉴权命令执行](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496155&idx=1&sn=293c661a5e3b2eb381943c7f3fc8f410)
+- M01N Team
+  - [AI安全案例分析 | Grafana 平台零点击间接注入威胁](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247494946&idx=1&sn=cfb436b16c06bf1e2fda6abfc1d7a050)
+- 复旦白泽战队
+  - [从漏洞到规则：安全知识自动提取的初步探索](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247498222&idx=1&sn=be9999e3b98053641c2a73c08075df30)
 - 极客公园
   - [越来越多的人，已经把小红书玩成了 AI 孵化器](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653103883&idx=1&sn=6bda1d310c08c517ef5932c6e06302ed)
   - [在黑客松上，开发者们下注鸿蒙](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653103868&idx=1&sn=c59b57af47e204da2a33a6e8814ba8e0)
   - [马斯克推出海外微信 XChat；OpenAI「星门」项目三位核心成员跳槽 Meta；苹果 AI 智能眼镜设计细节曝光 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653103837&idx=1&sn=2fc671c5140b92e8083707036e370b3a)
 - 吴鲁加
   - [AI 时代，我们为什么还要学习？](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486007&idx=1&sn=cc4b12cef7c7677298579e3cfd29595a)
+- 迪哥讲事
+  - [如何分析查看js文件](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499307&idx=1&sn=8bf5380e0da8d5c18581fef9bd9afe4b)
+- 数世咨询
+  - [人工智能在SOC中应用的两个真实案例](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542545&idx=1&sn=00c342744deebc04c09a2d8a384100b0)
+- 软件安全与逆向分析
+  - [安卓内核Hook技术实现分析与应用](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485111&idx=1&sn=f933f9d819aa2fa0d502768de65dd600)
+- 安全行者老霍
+  - [思科推出大语言模型安全排行榜：为 AI 安全带来透明度](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486469&idx=1&sn=39eefb3d12722793658872e1bda18a90)
+  - [Anthropic：你们所有的零日漏洞，都归 Mythos 所有](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486476&idx=1&sn=cfd924fc1b97cb4790286504d193128e)
 - 深信服千里目安全技术中心
   - [【漏洞通告】Nginx 缓冲区溢出漏洞 CVE-2026-27654](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525295&idx=1&sn=57c607219c1557cadb6de52ccf6c2dc0)
 - 字节跳动技术团队
   - [CVPR 2026 | 火山引擎多媒体实验室提出TempR1，显著增强多模态大模型视频时序理解能力](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247519230&idx=1&sn=209fae1cf3181ef41ad3d6ed766ea077)
-- Securityinfo.it
-  - [Social media vietati ai minori? In Australia non sta funzionando](https://www.securityinfo.it/2026/04/13/social-media-vietati-ai-minori-in-australia-non-sta-funzionando/?utm_source=rss&utm_medium=rss&utm_campaign=social-media-vietati-ai-minori-in-australia-non-sta-funzionando)
-- 360数字安全
-  - [筑牢开源安全防线，360荣膺开源鸿蒙社区漏洞挖掘双料大奖](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585686&idx=1&sn=ffbce29f6487a5f230b70e838191385b)
-- SANS Internet Storm Center, InfoCON: green
-  - [Scans for EncystPHP Webshell, (Mon, Apr 13th)](https://isc.sans.edu/diary/rss/32892)
-  - [ISC Stormcast For Monday, April 13th, 2026 https://isc.sans.edu/podcastdetail/9888, (Mon, Apr 13th)](https://isc.sans.edu/diary/rss/32890)
-- Schneier on Security
-  - [On Anthropic’s Mythos Preview and Project Glasswing](https://www.schneier.com/blog/archives/2026/04/on-anthropics-mythos-preview-and-project-glasswing.html)
-  - [AI Chatbots and Trust](https://www.schneier.com/blog/archives/2026/04/ai-chatbots-and-trust.html)
-- 迪哥讲事
-  - [如何分析查看js文件](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499307&idx=1&sn=8bf5380e0da8d5c18581fef9bd9afe4b)
 - ICT Security Magazine
   - [Violenza di genere online: Polizia Postale, Big Tech e società civile a confronto](https://www.ictsecuritymagazine.com/notizie/violenza-di-genere-online-polizia-postale/)
   - [Anthropic lancia il Project Glasswing: Claude Mythos trova migliaia di zero-day in ogni sistema operativo e browser](https://www.ictsecuritymagazine.com/notizie/anthropic-project-glasswing/)
   - [AgID e l’intelligenza artificiale nella PA: le Linee Guida per sviluppo e procurement chiudono la consultazione e aprono una nuova fase](https://www.ictsecuritymagazine.com/notizie/agid-intelligenza-artificiale-pa-linee-guida-procurement/)
   - [Gestire il rischio cyber oggi: il modello Cyber Resilience Lifecycle di ReeVo](https://www.ictsecuritymagazine.com/notizie/cyber-resilience-reevo/)
   - [AI Act, l’Unione Europea bandisce le “nudify apps”](https://www.ictsecuritymagazine.com/articoli/ai-act-nudify-apps/)
+- NetSPI
+  - [Q1 2026 Critical Vulnerability Roundup: Mitigating Risk](https://www.netspi.com/blog/executive-blog/vulnerability-management/q1-2026-critical-vulnerability-roundup-mitigating-risk/)
+- Securityinfo.it
+  - [Social media vietati ai minori? In Australia non sta funzionando](https://www.securityinfo.it/2026/04/13/social-media-vietati-ai-minori-in-australia-non-sta-funzionando/?utm_source=rss&utm_medium=rss&utm_campaign=social-media-vietati-ai-minori-in-australia-non-sta-funzionando)
+- CNVD漏洞平台
+  - [CNVD漏洞周报2026年第14期](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496841&idx=1&sn=8608e4497450755acb1095ce7582ee75)
+  - [上周关注度较高的产品安全漏洞(20260406-20260412)](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496841&idx=2&sn=919149cb1306363172c34cb692a13da1)
+- SANS Internet Storm Center, InfoCON: green
+  - [Scans for EncystPHP Webshell, (Mon, Apr 13th)](https://isc.sans.edu/diary/rss/32892)
+  - [ISC Stormcast For Monday, April 13th, 2026 https://isc.sans.edu/podcastdetail/9888, (Mon, Apr 13th)](https://isc.sans.edu/diary/rss/32890)
 - Over Security - Cybersecurity news aggregator
   - [Social media vietati ai minori? In Australia non sta funzionando](https://www.securityinfo.it/2026/04/13/social-media-vietati-ai-minori-in-australia-non-sta-funzionando/)
   - [European Gym giant Basic-Fit data breach affects 1 million members](https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/)
@@ -175,21 +178,27 @@
   - [Ransomware Attack on Dutch Software Vendor Disrupts Hospital Systems](https://thecyberexpress.com/chipsoft-ransomware-incident/)
   - [Rockstar Cyberattack Confirmed; ShinyHunters Claims Breach, Issues Extortion Threat](https://thecyberexpress.com/rockstar-cyberattack-gta-5/)
   - [OpenAI Responds to Axios npm Supply Chain Attack, Rotates macOS Certificates](https://thecyberexpress.com/axios-npm-supply-chain-attack-escalating/)
-- NetSPI
-  - [Q1 2026 Critical Vulnerability Roundup: Mitigating Risk](https://www.netspi.com/blog/executive-blog/vulnerability-management/q1-2026-critical-vulnerability-roundup-mitigating-risk/)
-- 安全行者老霍
-  - [思科推出大语言模型安全排行榜：为 AI 安全带来透明度](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486469&idx=1&sn=39eefb3d12722793658872e1bda18a90)
-  - [Anthropic：你们所有的零日漏洞，都归 Mythos 所有](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486476&idx=1&sn=cfd924fc1b97cb4790286504d193128e)
-- Technical Information Security Content & Discussion
-  - [Coinbase AgentKit Prompt Injection: Wallet Drain, Infinite Approvals, and Agent-Level RCE (validated by Coinbase, on-chain PoC)](https://www.reddit.com/r/netsec/comments/1skfumg/coinbase_agentkit_prompt_injection_wallet_drain/)
-  - [Stealthy RCE on Hardened Linux: noexec + Userland Execution PoC](https://www.reddit.com/r/netsec/comments/1skelmn/stealthy_rce_on_hardened_linux_noexec_userland/)
-  - [CVE-2026-22666: Dolibarr 23.0.0 dol_eval() whitelist bypass -> RCE (full write-up + PoC)](https://www.reddit.com/r/netsec/comments/1skazzv/cve202622666_dolibarr_2300_dol_eval_whitelist/)
-  - [CVE-2025-8061: From User-land to Ring 0](https://www.reddit.com/r/netsec/comments/1sk4j5o/cve20258061_from_userland_to_ring_0/)
-  - [One Uppercase Letter Breaks Every Nuxt App](https://www.reddit.com/r/netsec/comments/1sk6xc3/one_uppercase_letter_breaks_every_nuxt_app/)
-  - [Unpatched RAGFlow Vulnerability Allows Post-Auth RCE](https://www.reddit.com/r/netsec/comments/1skgtr7/unpatched_ragflow_vulnerability_allows_postauth/)
-- CNVD漏洞平台
-  - [CNVD漏洞周报2026年第14期](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496841&idx=1&sn=8608e4497450755acb1095ce7582ee75)
-  - [上周关注度较高的产品安全漏洞(20260406-20260412)](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496841&idx=2&sn=919149cb1306363172c34cb692a13da1)
+- 360数字安全
+  - [筑牢开源安全防线，360荣膺开源鸿蒙社区漏洞挖掘双料大奖](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585686&idx=1&sn=ffbce29f6487a5f230b70e838191385b)
+- Information Security
+  - [Empirical results from adversarial evaluation of RAG pipelines — indirect prompt injection achieves 100% ASR, three-detector layer achieves 100% DR across 15 scenarios](https://www.reddit.com/r/Information_Security/comments/1skrl79/empirical_results_from_adversarial_evaluation_of/)
+  - [Are rate limits alone enough to stop brute-force attacks on auth endpoints?](https://www.reddit.com/r/Information_Security/comments/1sk4gl4/are_rate_limits_alone_enough_to_stop_bruteforce/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [How do you realistically balance Upskilling with a full‑time Job without burning out](https://www.reddit.com/r/netsecstudents/comments/1skd14y/how_do_you_realistically_balance_upskilling_with/)
+  - [shodscript - Run your exploit scripts against Shodan search results automatically](https://www.reddit.com/r/netsecstudents/comments/1skpmbt/shodscript_run_your_exploit_scripts_against/)
+  - [AutoWIFI - open source framework for learning WiFi security testing (WPA/WPS/WEP automated chain)](https://www.reddit.com/r/netsecstudents/comments/1skplhe/autowifi_open_source_framework_for_learning_wifi/)
+  - [Hey guys glad to be here, but I need help with some questions](https://www.reddit.com/r/netsecstudents/comments/1skrn5p/hey_guys_glad_to_be_here_but_i_need_help_with/)
+- Computer Forensics
+  - [Suggestions](https://www.reddit.com/r/computerforensics/comments/1sknses/suggestions/)
+  - [Any sample Microsoft Purview Data Available?](https://www.reddit.com/r/computerforensics/comments/1skixqc/any_sample_microsoft_purview_data_available/)
+- Security Affairs
+  - [Hackers access Booking.com user data, company secures systems](https://securityaffairs.com/190757/data-breach/hackers-access-booking-com-user-data-company-secures-systems.html)
+  - [iPhone forensics expose Signal messages after app removal in U.S. case](https://securityaffairs.com/190740/security/iphone-forensics-expose-signal-messages-after-app-removal-in-u-s-case.html)
+  - [Citizen Lab: Webloc tracked 500M devices for global law enforcement](https://securityaffairs.com/190715/intelligence/citizen-lab-webloc-tracked-500m-devices-for-global-law-enforcement.html)
+  - [Iran-linked group Handala claims to have breached three major UAE organizations](https://securityaffairs.com/190716/hacking/iran-linked-group-handala-claims-to-have-breached-three-major-uae-organizations.html)
+  - [CPUID watering hole attack spreads STX RAT malware](https://securityaffairs.com/190702/malware/cpuid-watering-hole-attack-spreads-stx-rat-malware.html)
+- Deep Web
+  - [WEEBLE](https://www.reddit.com/r/deepweb/comments/1skrl3h/weeble/)
 - The Hacker News
   - [JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025](https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html)
   - [FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts](https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html)
@@ -197,37 +206,25 @@
   - [Your MTTD Looks Great. Your Post-Alert Gap Doesn't](https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html)
   - [North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware](https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html)
   - [OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident](https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html)
-- Computer Forensics
-  - [Suggestions](https://www.reddit.com/r/computerforensics/comments/1sknses/suggestions/)
-  - [Any sample Microsoft Purview Data Available?](https://www.reddit.com/r/computerforensics/comments/1skixqc/any_sample_microsoft_purview_data_available/)
+- Technical Information Security Content & Discussion
+  - [Coinbase AgentKit Prompt Injection: Wallet Drain, Infinite Approvals, and Agent-Level RCE (validated by Coinbase, on-chain PoC)](https://www.reddit.com/r/netsec/comments/1skfumg/coinbase_agentkit_prompt_injection_wallet_drain/)
+  - [Stealthy RCE on Hardened Linux: noexec + Userland Execution PoC](https://www.reddit.com/r/netsec/comments/1skelmn/stealthy_rce_on_hardened_linux_noexec_userland/)
+  - [CVE-2026-22666: Dolibarr 23.0.0 dol_eval() whitelist bypass -> RCE (full write-up + PoC)](https://www.reddit.com/r/netsec/comments/1skazzv/cve202622666_dolibarr_2300_dol_eval_whitelist/)
+  - [CVE-2025-8061: From User-land to Ring 0](https://www.reddit.com/r/netsec/comments/1sk4j5o/cve20258061_from_userland_to_ring_0/)
+  - [One Uppercase Letter Breaks Every Nuxt App](https://www.reddit.com/r/netsec/comments/1sk6xc3/one_uppercase_letter_breaks_every_nuxt_app/)
+  - [Unpatched RAGFlow Vulnerability Allows Post-Auth RCE](https://www.reddit.com/r/netsec/comments/1skgtr7/unpatched_ragflow_vulnerability_allows_postauth/)
 - Blackhat Library: Hacking techniques and research
   - [The Dumbest Hack of the Year Exposed a Very Real Problem](https://www.reddit.com/r/blackhat/comments/1sk78db/the_dumbest_hack_of_the_year_exposed_a_very_real/)
   - [I compiled every major AI agent security incident from 2024-2026 in one place - 90 incidents, all sourced, updated weekly](https://www.reddit.com/r/blackhat/comments/1skk6r2/i_compiled_every_major_ai_agent_security_incident/)
   - [CVE-2025-8061: From User-land to Ring 0](https://www.reddit.com/r/blackhat/comments/1sk5d8b/cve20258061_from_userland_to_ring_0/)
-- Information Security
-  - [Empirical results from adversarial evaluation of RAG pipelines — indirect prompt injection achieves 100% ASR, three-detector layer achieves 100% DR across 15 scenarios](https://www.reddit.com/r/Information_Security/comments/1skrl79/empirical_results_from_adversarial_evaluation_of/)
-  - [Are rate limits alone enough to stop brute-force attacks on auth endpoints?](https://www.reddit.com/r/Information_Security/comments/1sk4gl4/are_rate_limits_alone_enough_to_stop_bruteforce/)
-- Deep Web
-  - [WEEBLE](https://www.reddit.com/r/deepweb/comments/1skrl3h/weeble/)
 - Deeplinks
   - [The Dangers of California’s Legislation to Censor 3D Printing](https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing)
   - [EFF 🤝 HOPE: Join Us This August!](https://www.eff.org/deeplinks/2026/04/eff-hope-join-us-august)
   - [Hot Off the Press: EFF's Updated Guide to Tech at the US-Mexico Border](https://www.eff.org/deeplinks/2026/04/hot-press-effs-updated-guide-tech-us-mexico-border)
   - [Speaking Freely: Dr. Jean Linis-Dinco](https://www.eff.org/deeplinks/2026/04/speaking-freely-dr-jean-linis-dinco)
   - [War as a Pretext: Gulf States Are Tightening the Screws on Speech—Again](https://www.eff.org/deeplinks/2026/04/war-pretext-gulf-states-are-tightening-screws-speech-again)
-- Security Affairs
-  - [Hackers access Booking.com user data, company secures systems](https://securityaffairs.com/190757/data-breach/hackers-access-booking-com-user-data-company-secures-systems.html)
-  - [iPhone forensics expose Signal messages after app removal in U.S. case](https://securityaffairs.com/190740/security/iphone-forensics-expose-signal-messages-after-app-removal-in-u-s-case.html)
-  - [Citizen Lab: Webloc tracked 500M devices for global law enforcement](https://securityaffairs.com/190715/intelligence/citizen-lab-webloc-tracked-500m-devices-for-global-law-enforcement.html)
-  - [Iran-linked group Handala claims to have breached three major UAE organizations](https://securityaffairs.com/190716/hacking/iran-linked-group-handala-claims-to-have-breached-three-major-uae-organizations.html)
-  - [CPUID watering hole attack spreads STX RAT malware](https://securityaffairs.com/190702/malware/cpuid-watering-hole-attack-spreads-stx-rat-malware.html)
 - Daniel Miessler
   - [It's Time for Full Activation](https://danielmiessler.com/blog/its-time-for-full-activation?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- netsecstudents: Subreddit for students studying Network Security and its related subjects
-  - [How do you realistically balance Upskilling with a full‑time Job without burning out](https://www.reddit.com/r/netsecstudents/comments/1skd14y/how_do_you_realistically_balance_upskilling_with/)
-  - [shodscript - Run your exploit scripts against Shodan search results automatically](https://www.reddit.com/r/netsecstudents/comments/1skpmbt/shodscript_run_your_exploit_scripts_against/)
-  - [AutoWIFI - open source framework for learning WiFi security testing (WPA/WPS/WEP automated chain)](https://www.reddit.com/r/netsecstudents/comments/1skplhe/autowifi_open_source_framework_for_learning_wifi/)
-  - [Hey guys glad to be here, but I need help with some questions](https://www.reddit.com/r/netsecstudents/comments/1skrn5p/hey_guys_glad_to_be_here_but_i_need_help_with/)
 - 安全419
   - [安全 419 大咖访谈｜威努特副总经理杨璐：不被定义，顺势生长](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247552906&idx=1&sn=b453f5cab3ff1bb1fb01a96391e9e7a5)
 - Security Weekly Podcast Network (Audio)
