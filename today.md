@@ -1,14 +1,14 @@
 # 每日安全资讯（2026-04-19）
 
-- Recent Commits to cve:main
-  - [Update Sat Apr 18 11:22:23 UTC 2026](https://github.com/trickest/cve/commit/3083b09b02e6dd1868588ee0b40742583ce0fa6e)
 - SecWiki News
   - [SecWiki News 2026-04-18 Review](http://www.sec-wiki.com/?2026-04-18)
-- Microsoft Security Blog
-  - [Cross‑tenant helpdesk impersonation to data exfiltration: A human-operated intrusion playbook](https://www.microsoft.com/en-us/security/blog/2026/04/18/crosstenant-helpdesk-impersonation-data-exfiltration-human-operated-intrusion-playbook/)
+- Recent Commits to cve:main
+  - [Update Sat Apr 18 11:22:23 UTC 2026](https://github.com/trickest/cve/commit/3083b09b02e6dd1868588ee0b40742583ce0fa6e)
 - 博客
   - [ar and tar](https://dyrnq.com/ar-and-tar/)
   - [Link Editor](https://dyrnq.com/link-editor/)
+- Microsoft Security Blog
+  - [Cross‑tenant helpdesk impersonation to data exfiltration: A human-operated intrusion playbook](https://www.microsoft.com/en-us/security/blog/2026/04/18/crosstenant-helpdesk-impersonation-data-exfiltration-human-operated-intrusion-playbook/)
 - Taxodium
   - [Album#36 - Quicksand](https://taxodium.ink/album-36.html)
 - Hexacorn
@@ -25,7 +25,6 @@
   - [Call to undefined method GuzzleHttp\Psr7\Utils::redactUserInfo()](https://www.yanglong.pro/call-to-undefined-method-guzzlehttppsr7utilsredactuserinfo/)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [雷军成功完成新一代SU7长途续航测试直播](https://blog.upx8.com/%E9%9B%B7%E5%86%9B%E6%88%90%E5%8A%9F%E5%AE%8C%E6%88%90%E6%96%B0%E4%B8%80%E4%BB%A3SU7%E9%95%BF%E9%80%94%E7%BB%AD%E8%88%AA%E6%B5%8B%E8%AF%95%E7%9B%B4%E6%92%AD)
-  - [Meta计划新一轮裁员 5月或裁约8,000人](https://blog.upx8.com/Meta%E8%AE%A1%E5%88%92%E6%96%B0%E4%B8%80%E8%BD%AE%E8%A3%81%E5%91%98-5%E6%9C%88%E6%88%96%E8%A3%81%E7%BA%A68-000%E4%BA%BA)
 - 奇客Solidot–传递最新科技情报
   - [Grinex 交易所声称遭敌对国家黑客入侵](https://www.solidot.org/story?sid=84083)
   - [大白鲨面临过热风险](https://www.solidot.org/story?sid=84082)
@@ -34,21 +33,19 @@
   - [拼多多美团等被罚 36 亿](https://www.solidot.org/story?sid=84079)
 - 黑鸟
   - [冒充知名开发者骗过AI合并恶意代码到主分支](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186423&idx=1&sn=47e60ed553b0f7c39ba19120af9b6ee9)
-- 安全分析与研究
-  - [终端安全防御体系构建——纵深防御策略](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496654&idx=1&sn=19fe299cf608358fedeb23581cd4f1a9)
 - 看雪学苑
   - [从零自研ARM64虚拟机保护引擎（VMP），2.0版本已理论覆盖全部A64基础指令](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458613822&idx=2&sn=25bed60ebfda8d83ee3773949ee63c59)
-- 天御攻防实验室
-  - [漏洞利用技术的“起源”](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486939&idx=1&sn=76178a09030df81e779d1f410234a65e)
 - 安全学术圈
   - [【征稿】EXPRESS 2026：从云原生到AI原生，重塑软件系统的可解释性与可靠性](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495270&idx=1&sn=3e7673892424a6d556cd051eeb27e368)
-- 电子物证
-  - [技术文章 | 固态硬盘取证的难点和数据恢复实操指南](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048985&idx=1&sn=2fbf9ce8e038935017616607040d9621)
-  - [【手机里的SIM卡到底能查出什么？】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048985&idx=2&sn=7649ea90be1a828acc0564927c45ce24)
+- 天御攻防实验室
+  - [漏洞利用技术的“起源”](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486939&idx=1&sn=76178a09030df81e779d1f410234a65e)
 - 安全圈
   - [【安全圈】泄露的Windows Defender 0Day漏洞正遭活跃利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075807&idx=1&sn=eea54b2e1d0364ac026a747fddb396d1)
   - [【安全圈】Windows截图工具漏洞可导致攻击者通过网络实施欺骗攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075807&idx=2&sn=fbb1043d986644c3e4bb0d107b0ecaea)
   - [【安全圈】白宫拟向联邦机构开放Anthropic的Claude Mythos漏洞挖掘AI访问权限](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075807&idx=3&sn=1cbc47d7ccaa3c6d94793aacac6e9e98)
+- 电子物证
+  - [技术文章 | 固态硬盘取证的难点和数据恢复实操指南](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048985&idx=1&sn=2fbf9ce8e038935017616607040d9621)
+  - [【手机里的SIM卡到底能查出什么？】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048985&idx=2&sn=7649ea90be1a828acc0564927c45ce24)
 - 极客公园
   - [涉幽灵外卖，7 家平台被罚 35.97 亿元；蓝色起源本周发射太空基站；传 DeepSeek 正寻求首轮外部融资，估值超百亿美元 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104178&idx=1&sn=9d87dc75161fedb22c46db4c89275c26)
   - [深夜还在盯设备？玻尔·跃迁实验室给出新一代智能实验室方案](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104178&idx=2&sn=f7e8d14b3900a4aebf423e34cc776c55)
@@ -56,29 +53,47 @@
   - [2026年人工智能大模型安全众测活动公告](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501460&idx=1&sn=c623842eaa5b1f99d55aea98f40e1d9a)
 - 安全行者老霍
   - [灵活性与安全大使如何保障 AI 赋能型企业安全](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486500&idx=1&sn=45c83464788632d7eefd68a7076c488d)
-- Desync InfoSec
-  - [AI Agent供应链投毒：一个恶意Skill如何窃取你的全部凭据](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490105&idx=1&sn=71be4624cf159dd5143d139d254a2fd4)
-  - [遏制域入侵：预测性屏蔽如何阻断横向移动](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490105&idx=2&sn=07c034ba03623fd3f76482469e97fa6f)
-- Microsoft Security Blog
-  - [Cross‑tenant helpdesk impersonation to data exfiltration: A human-operated intrusion playbook](https://www.microsoft.com/en-us/security/blog/2026/04/18/crosstenant-helpdesk-impersonation-data-exfiltration-human-operated-intrusion-playbook/)
 - 云鼎实验室
   - [线上十强出炉，决赛战火燃起！腾讯云黑客松智能渗透挑战赛决战在即！](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497498&idx=1&sn=2cb7366a58441459e963130b3f007c1e)
+- Microsoft Security Blog
+  - [Cross‑tenant helpdesk impersonation to data exfiltration: A human-operated intrusion playbook](https://www.microsoft.com/en-us/security/blog/2026/04/18/crosstenant-helpdesk-impersonation-data-exfiltration-human-operated-intrusion-playbook/)
+- 安全分析与研究
+  - [终端安全防御体系构建——纵深防御策略](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496654&idx=1&sn=19fe299cf608358fedeb23581cd4f1a9)
 - Over Security - Cybersecurity news aggregator
   - [Fixing uConsole Trackball and Keyboard Issues](https://www.mobile-hacker.com/2026/04/18/fixing-uconsole-trackball-and-keyboard-issues/)
   - [Critical flaw in Protobuf library enables JavaScript code execution](https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/)
   - [Microsoft Teams right-click paste broken by Edge update bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/)
   - [NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support](https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/)
+- Desync InfoSec
+  - [AI Agent供应链投毒：一个恶意Skill如何窃取你的全部凭据](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490105&idx=1&sn=71be4624cf159dd5143d139d254a2fd4)
+  - [遏制域入侵：预测性屏蔽如何阻断横向移动](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490105&idx=2&sn=07c034ba03623fd3f76482469e97fa6f)
 - Dark Space Blogspot
   - [Come Riconoscere Carte Pokemon Fake (Proxy)](http://darkwhite666.blogspot.com/2026/04/come-riconoscere-carte-pokemon-fake.html)
 - 吴鲁加
   - [Slax Note AI 重写版正式上架](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486029&idx=1&sn=9b6acb877f8239ded48de8cb4c640a7e)
+- Daniel Miessler
+  - [AI SaaS Replacement is the Fire of Fires](https://danielmiessler.com/blog/the-fire-of-fires?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - The Hacker News
   - [[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
   - [$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims](https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html)
   - [Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet](https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html)
-- Technical Information Security Content & Discussion
-  - [MAD Bugs: Even "cat readme.txt" is not safe](https://www.reddit.com/r/netsec/comments/1sou4zz/mad_bugs_even_cat_readmetxt_is_not_safe/)
-  - [TPM 2.0 is cool, actually: hardware attestation for bare-metal fleets](https://www.reddit.com/r/netsec/comments/1sozi1e/tpm_20_is_cool_actually_hardware_attestation_for/)
+- Information Security
+  - [CyberAv3ngers Breached 75+ US Water & Energy PLCs — And They're Still Inside](https://www.reddit.com/r/Information_Security/comments/1sp2qqg/cyberav3ngers_breached_75_us_water_energy_plcs/)
+  - [[ Removed by Reddit ]](https://www.reddit.com/r/Information_Security/comments/1sozuh8/removed_by_reddit/)
+  - [5 Threats Defenders Can't Ignore This Week: Two Unpatched Windows LPEs Already Being Exploited](https://www.reddit.com/r/Information_Security/comments/1sothqh/5_threats_defenders_cant_ignore_this_week_two/)
+- Blackhat Library: Hacking techniques and research
+  - [SMS rental services?](https://www.reddit.com/r/blackhat/comments/1sorm8u/sms_rental_services/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [What’s the best order of certifications for someone trying to get into cybersecurity?](https://www.reddit.com/r/netsecstudents/comments/1sowby0/whats_the_best_order_of_certifications_for/)
+  - [PC build for Pentest practice](https://www.reddit.com/r/netsecstudents/comments/1sor94u/pc_build_for_pentest_practice/)
+- Your Open Hacker Community
+  - [Getting blackmailed. Ip grabbers that don’t ask for “consent”??](https://www.reddit.com/r/HowToHack/comments/1soi03w/getting_blackmailed_ip_grabbers_that_dont_ask_for/)
+  - [Learning Pathway](https://www.reddit.com/r/HowToHack/comments/1sosjwd/learning_pathway/)
+  - [Not hacking but, almost](https://www.reddit.com/r/HowToHack/comments/1spboin/not_hacking_but_almost/)
+- Security Affairs
+  - [Hidden VMs: how hackers leverage QEMU to stealthily steal data and spread malware](https://securityaffairs.com/190982/security/hidden-vms-how-hackers-leverage-qemu-to-stealthily-steal-data-and-spread-malware.html)
+  - [Nexcorium Mirai variant exploits TBK DVR flaw to launch DDoS attacks](https://securityaffairs.com/190974/malware/nexcorium-mirai-variant-exploits-tbk-dvr-flaw-to-launch-ddos-attacks.html)
+  - [Microsoft Defender under attack as three zero-days, two of them still unpatched, enable elevated access](https://securityaffairs.com/190961/hacking/microsoft-defender-under-attack-as-three-zero-days-two-of-them-still-unpatched-enable-elevated-access.html)
 - Deep Web
   - [Search Engines](https://www.reddit.com/r/deepweb/comments/1soyg9v/search_engines/)
   - [Where can i find a partner that helps me with navigating the dark web?](https://www.reddit.com/r/deepweb/comments/1soiget/where_can_i_find_a_partner_that_helps_me_with/)
@@ -88,22 +103,6 @@
   - [Those of you that have your lab in the cloud..](https://www.reddit.com/r/computerforensics/comments/1spa08q/those_of_you_that_have_your_lab_in_the_cloud/)
   - [Chromebook](https://www.reddit.com/r/computerforensics/comments/1soiwvo/chromebook/)
   - [MalChela 3.2: More Cowbell? More Intel!](https://www.reddit.com/r/computerforensics/comments/1soiviv/malchela_32_more_cowbell_more_intel/)
-- Information Security
-  - [CyberAv3ngers Breached 75+ US Water & Energy PLCs — And They're Still Inside](https://www.reddit.com/r/Information_Security/comments/1sp2qqg/cyberav3ngers_breached_75_us_water_energy_plcs/)
-  - [[ Removed by Reddit ]](https://www.reddit.com/r/Information_Security/comments/1sozuh8/removed_by_reddit/)
-  - [5 Threats Defenders Can't Ignore This Week: Two Unpatched Windows LPEs Already Being Exploited](https://www.reddit.com/r/Information_Security/comments/1sothqh/5_threats_defenders_cant_ignore_this_week_two/)
-- Your Open Hacker Community
-  - [Getting blackmailed. Ip grabbers that don’t ask for “consent”??](https://www.reddit.com/r/HowToHack/comments/1soi03w/getting_blackmailed_ip_grabbers_that_dont_ask_for/)
-  - [Learning Pathway](https://www.reddit.com/r/HowToHack/comments/1sosjwd/learning_pathway/)
-  - [Not hacking but, almost](https://www.reddit.com/r/HowToHack/comments/1spboin/not_hacking_but_almost/)
-- Blackhat Library: Hacking techniques and research
-  - [SMS rental services?](https://www.reddit.com/r/blackhat/comments/1sorm8u/sms_rental_services/)
-- Security Affairs
-  - [Hidden VMs: how hackers leverage QEMU to stealthily steal data and spread malware](https://securityaffairs.com/190982/security/hidden-vms-how-hackers-leverage-qemu-to-stealthily-steal-data-and-spread-malware.html)
-  - [Nexcorium Mirai variant exploits TBK DVR flaw to launch DDoS attacks](https://securityaffairs.com/190974/malware/nexcorium-mirai-variant-exploits-tbk-dvr-flaw-to-launch-ddos-attacks.html)
-  - [Microsoft Defender under attack as three zero-days, two of them still unpatched, enable elevated access](https://securityaffairs.com/190961/hacking/microsoft-defender-under-attack-as-three-zero-days-two-of-them-still-unpatched-enable-elevated-access.html)
-- netsecstudents: Subreddit for students studying Network Security and its related subjects
-  - [What’s the best order of certifications for someone trying to get into cybersecurity?](https://www.reddit.com/r/netsecstudents/comments/1sowby0/whats_the_best_order_of_certifications_for/)
-  - [PC build for Pentest practice](https://www.reddit.com/r/netsecstudents/comments/1sor94u/pc_build_for_pentest_practice/)
-- Daniel Miessler
-  - [AI SaaS Replacement is the Fire of Fires](https://danielmiessler.com/blog/the-fire-of-fires?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- Technical Information Security Content & Discussion
+  - [MAD Bugs: Even "cat readme.txt" is not safe](https://www.reddit.com/r/netsec/comments/1sou4zz/mad_bugs_even_cat_readmetxt_is_not_safe/)
+  - [TPM 2.0 is cool, actually: hardware attestation for bare-metal fleets](https://www.reddit.com/r/netsec/comments/1sozi1e/tpm_20_is_cool_actually_hardware_attestation_for/)
