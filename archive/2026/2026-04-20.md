@@ -1,5 +1,11 @@
 # 每日安全资讯（2026-04-20）
 
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [Critical Remote Code Execution Vulnerability in Windows Internet Key Exchange (IKE) Service (CVE-2026-33824)](https://cxsecurity.com/issue/WLB-2026040013)
+- Recent Commits to cve:main
+  - [Update Sun Apr 19 11:20:17 UTC 2026](https://github.com/trickest/cve/commit/7ebbf3d8590db6e2c0afb51257985d8f09d428db)
+- 博客
+  - [-march=generic vs -march=native](https://dyrnq.com/marchgeneric-vs-marchnative/)
 - SecWiki News
   - [SecWiki News 2026-04-19 Review](http://www.sec-wiki.com/?2026-04-19)
 - InfoSec Write-ups - Medium
@@ -13,20 +19,9 @@
   - [Sumeru AI CTF 2026 Writeup](https://infosecwriteups.com/sumeru-ai-ctf-2026-writeup-61393f4a2251?source=rss----7b722bfd1b8d---4)
   - [Borderlands — Git History API Key Leak + BGP Hijacking to Flag Interception | TryHackMe](https://infosecwriteups.com/borderlands-git-history-api-key-leak-bgp-hijacking-to-flag-interception-tryhackme-cddd7c32dce1?source=rss----7b722bfd1b8d---4)
   - [Hardening Gophish: Implementing AES-256-GCM Database Encryption in Anglerphish](https://infosecwriteups.com/hardening-gophish-implementing-aes-256-gcm-database-encryption-in-anglerphish-735617ec8849?source=rss----7b722bfd1b8d---4)
-- 博客
-  - [-march=generic vs -march=native](https://dyrnq.com/marchgeneric-vs-marchnative/)
-- CXSECURITY Database RSS Feed - CXSecurity.com
-  - [Critical Remote Code Execution Vulnerability in Windows Internet Key Exchange (IKE) Service (CVE-2026-33824)](https://cxsecurity.com/issue/WLB-2026040013)
-- Recent Commits to cve:main
-  - [Update Sun Apr 19 11:20:17 UTC 2026](https://github.com/trickest/cve/commit/7ebbf3d8590db6e2c0afb51257985d8f09d428db)
-- Taxodium
-  - [日常#13 - I Am Here 深圳 Live](https://taxodium.ink/nichijou-13.html)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [How to Get Started with Cybersecurity and Ethical Hacking](https://infosecwriteups.com/how-to-get-started-with-cybersecurity-and-ethical-hacking-5f8147d92970?source=rss----7b722bfd1b8d--bug_bounty)
   - [Security Questions Bypassed to Change User’s Password](https://infosecwriteups.com/security-questions-bypassed-to-change-users-password-954547119c0f?source=rss----7b722bfd1b8d--bug_bounty)
-- Reverse Engineering
-  - [First it's a different post hi guys i want from someone here to help me in a complicated mission i want to add private server to game that their own servers shout down and want to make it playable again it's need reverse engineering and huge knowledge and i have game files apk and others i really h](https://www.reddit.com/r/ReverseEngineering/comments/1spzqfc/first_its_a_different_post_hi_guys_i_want_from/)
-  - [hi guys i want from someone here to help me in a complicated mission i want to add private server to game that their own servers shout down and want to make it playable again it's need reverse engineering and huge knowledge and i have game files apk and others i really hope there is someone can help](https://www.reddit.com/r/ReverseEngineering/comments/1spujxq/hi_guys_i_want_from_someone_here_to_help_me_in_a/)
 - Didier Stevens
   - [Update: cut-bytes.py Version 0.0.18](https://blog.didierstevens.com/2026/04/19/update-cut-bytes-py-version-0-0-18/)
 - HAHWUL
@@ -36,12 +31,6 @@
   - [蓝色起源成功重复使用了其新格伦火箭](https://blog.upx8.com/%E8%93%9D%E8%89%B2%E8%B5%B7%E6%BA%90%E6%88%90%E5%8A%9F%E9%87%8D%E5%A4%8D%E4%BD%BF%E7%94%A8%E4%BA%86%E5%85%B6%E6%96%B0%E6%A0%BC%E4%BC%A6%E7%81%AB%E7%AE%AD)
   - [《日经亚洲》：RAM短缺可能会持续数年](https://blog.upx8.com/%E6%97%A5%E7%BB%8F%E4%BA%9A%E6%B4%B2-RAM%E7%9F%AD%E7%BC%BA%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8C%81%E7%BB%AD%E6%95%B0%E5%B9%B4)
   - [投资人：DeepSeek融资或为期权定价留人才](https://blog.upx8.com/%E6%8A%95%E8%B5%84%E4%BA%BA-DeepSeek%E8%9E%8D%E8%B5%84%E6%88%96%E4%B8%BA%E6%9C%9F%E6%9D%83%E5%AE%9A%E4%BB%B7%E7%95%99%E4%BA%BA%E6%89%8D)
-  - [法院初步裁定特朗普政府下架反 ICE APP 的做法违反了第一修正案](https://blog.upx8.com/%E6%B3%95%E9%99%A2%E5%88%9D%E6%AD%A5%E8%A3%81%E5%AE%9A%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%B8%8B%E6%9E%B6%E5%8F%8D-ICE-APP-%E7%9A%84%E5%81%9A%E6%B3%95%E8%BF%9D%E5%8F%8D%E4%BA%86%E7%AC%AC%E4%B8%80%E4%BF%AE%E6%AD%A3%E6%A1%88)
-  - [大多数人仍然不想乘坐自动驾驶出租车](https://blog.upx8.com/%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E4%BB%8D%E7%84%B6%E4%B8%8D%E6%83%B3%E4%B9%98%E5%9D%90%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%87%BA%E7%A7%9F%E8%BD%A6)
-  - [Gemini现可从相册中提取信息来生成个性化图像](https://blog.upx8.com/Gemini%E7%8E%B0%E5%8F%AF%E4%BB%8E%E7%9B%B8%E5%86%8C%E4%B8%AD%E6%8F%90%E5%8F%96%E4%BF%A1%E6%81%AF%E6%9D%A5%E7%94%9F%E6%88%90%E4%B8%AA%E6%80%A7%E5%8C%96%E5%9B%BE%E5%83%8F)
-  - [用户向 OpenAI 报告Apple Pay收据验证漏洞：可无限激活Plus订阅](https://blog.upx8.com/%E7%94%A8%E6%88%B7%E5%90%91-OpenAI-%E6%8A%A5%E5%91%8AApple-Pay%E6%94%B6%E6%8D%AE%E9%AA%8C%E8%AF%81%E6%BC%8F%E6%B4%9E-%E5%8F%AF%E6%97%A0%E9%99%90%E6%BF%80%E6%B4%BBPlus%E8%AE%A2%E9%98%85)
-  - [微软拟推出OLED屏幕的Surface Laptop](https://blog.upx8.com/%E5%BE%AE%E8%BD%AF%E6%8B%9F%E6%8E%A8%E5%87%BAOLED%E5%B1%8F%E5%B9%95%E7%9A%84Surface-Laptop)
-  - [荣耀“闪电”获2026人形机器人半马冠军](https://blog.upx8.com/%E8%8D%A3%E8%80%80-%E9%97%AA%E7%94%B5-%E8%8E%B72026%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8A%E9%A9%AC%E5%86%A0%E5%86%9B)
 - 奇客Solidot–传递最新科技情报
   - [NASA 关闭旅行者 1 号的 LECP 仪器以节省电力维持运行](https://www.solidot.org/story?sid=84088)
   - [人形机器人打破人类半马世界纪录](https://www.solidot.org/story?sid=84087)
@@ -50,43 +39,31 @@
   - [果糖不只是糖，它更像是激素](https://www.solidot.org/story?sid=84084)
 - 黑鸟
   - [针对以色列水处理和海水淡化设施系统的新型工业恶意软件](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186449&idx=1&sn=236e11c1a3ae2be6e472635338201c66)
-- 丁爸 情报分析师的工具箱
-  - [【资料】2026年《军事情报》-开源情报、情报培训、三维情报、情报撰写](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155229&idx=1&sn=08e514924df5292081f7833fa174a58e)
 - 漕河泾小黑屋
   - [免费代理背后的攻击者行为分析](https://mp.weixin.qq.com/s?__biz=MzA4NzQwNzY3OQ==&mid=2247484080&idx=1&sn=064eb8a7895eaf8529c7efb31c3f3ea8)
+- 丁爸 情报分析师的工具箱
+  - [【资料】2026年《军事情报》-开源情报、情报培训、三维情报、情报撰写](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155229&idx=1&sn=08e514924df5292081f7833fa174a58e)
+- 奇安信威胁情报中心
+  - [MCP协议架构级漏洞深度分析：STDIO设计缺陷引发大规模AI供应链安全危机](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518473&idx=1&sn=39cc2ea54cae3aee275196ef01298f3f)
 - 极客公园
   - [果然，最恨 AI 的人，是大学毕业生](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104139&idx=1&sn=9707a1352ae1f2fb7f3724196693744d)
   - [Cursor 融资 20 亿美元，估值达 500 亿美元；传马斯克 xAI 下周发布 Grok AI Coding 工具；Meta 再裁 8000 人 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104239&idx=1&sn=c4efe1246ce8069878397a342a6ef2ad)
-- 奇安信威胁情报中心
-  - [MCP协议架构级漏洞深度分析：STDIO设计缺陷引发大规模AI供应链安全危机](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518473&idx=1&sn=39cc2ea54cae3aee275196ef01298f3f)
-- IT Service Management News
-  - [Gli uomini possono fare tutto - Aprile 2026](http://blog.cesaregallotti.it/2026/04/gli-uomini-possono-fare-tutto-aprile.html)
 - Over Security - Cybersecurity news aggregator
   - [Vercel confirms breach as hackers claim to be selling stolen data](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
   - [CFITSIO Fuzzing: Memory Corruptions and a Codex-Assisted Pipeline](https://blog.doyensec.com/2026/04/20/cfitsio-fuzzing.html)
   - [Apple account change alerts abused to send phishing emails](https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/)
   - [NIST to stop rating non-priority flaws due to volume increase](https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/)
-- 安全行者老霍
-  - [安全研究人员和红队为何转向工作流自动化](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486501&idx=1&sn=15d62295f3c6ff9f5b0275d45a018f15)
 - Desync InfoSec
   - [跨租户Teams服务台钓鱼到数据外传：一次人工入侵全链路剖析](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490121&idx=1&sn=fa638710a1bda5c68df5a52c1cd52f93)
   - [第三方 SDK 重大漏洞曝光：超 3000 万加密货币钱包面临数据泄露风险](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490121&idx=2&sn=dfccc966802d7982f4a0f4e217490a02)
   - [Prompt注入攻击：当AI的眼睛被蒙蔽](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490121&idx=3&sn=f91382d36ed9e5fe271e0504e358d1b6)
-- netsecstudents: Subreddit for students studying Network Security and its related subjects
-  - [Finished OverTheWire Bandit](https://www.reddit.com/r/netsecstudents/comments/1spkb7q/finished_overthewire_bandit/)
+- IT Service Management News
+  - [Gli uomini possono fare tutto - Aprile 2026](http://blog.cesaregallotti.it/2026/04/gli-uomini-possono-fare-tutto-aprile.html)
+- 安全行者老霍
+  - [安全研究人员和红队为何转向工作流自动化](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486501&idx=1&sn=15d62295f3c6ff9f5b0275d45a018f15)
 - Security Affairs
   - [Cyber attacks fuel surge in cargo theft across logistics industry](https://securityaffairs.com/191008/security/cyber-attacks-fuel-surge-in-cargo-theft-across-logistics-industry.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 93](https://securityaffairs.com/191001/security/security-affairs-malware-newsletter-round-93.html)
   - [Security Affairs newsletter Round 573 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/190994/breaking-news/security-affairs-newsletter-round-573-by-pierluigi-paganini-international-edition.html)
-- Deep Web
-  - [Look what I found in a Qanon sub. Lol](https://www.reddit.com/r/deepweb/comments/1spmobl/look_what_i_found_in_a_qanon_sub_lol/)
-  - [Trust wallet with low com](https://www.reddit.com/r/deepweb/comments/1spryuk/trust_wallet_with_low_com/)
-  - [Dark web](https://www.reddit.com/r/deepweb/comments/1spph19/dark_web/)
-  - [Fe](https://www.reddit.com/r/deepweb/comments/1spe2mq/fe/)
-- Blackhat Library: Hacking techniques and research
-  - [For people who do BH e-com](https://www.reddit.com/r/blackhat/comments/1sq4gq3/for_people_who_do_bh_ecom/)
-- Your Open Hacker Community
-  - [Come funziona Doxbin?](https://www.reddit.com/r/HowToHack/comments/1spqpek/come_funziona_doxbin/)
-  - [Hacking pvp games for accessibility purposes.](https://www.reddit.com/r/HowToHack/comments/1spo7qe/hacking_pvp_games_for_accessibility_purposes/)
-- Social Engineering
-  - [Did I just dodge a phishing scam or am I still at risk?](https://www.reddit.com/r/SocialEngineering/comments/1spxnwd/did_i_just_dodge_a_phishing_scam_or_am_i_still_at/)
+- Daniel Miessler
+  - [Weak vs. Strong AI Rollouts](https://danielmiessler.com/blog/weak-vs-strong-ai-rollouts?utm_source=rss&utm_medium=feed&utm_campaign=website)
