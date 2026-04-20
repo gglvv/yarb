@@ -8,6 +8,8 @@
   - [Update Sun Apr 19 11:20:17 UTC 2026](https://github.com/trickest/cve/commit/7ebbf3d8590db6e2c0afb51257985d8f09d428db)
 - SecWiki News
   - [SecWiki News 2026-04-19 Review](http://www.sec-wiki.com/?2026-04-19)
+- Taxodium
+  - [日常#13 - I Am Here 深圳 Live](https://taxodium.ink/nichijou-13.html)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [How to Get Started with Cybersecurity and Ethical Hacking](https://infosecwriteups.com/how-to-get-started-with-cybersecurity-and-ethical-hacking-5f8147d92970?source=rss----7b722bfd1b8d--bug_bounty)
   - [Security Questions Bypassed to Change User’s Password](https://infosecwriteups.com/security-questions-bypassed-to-change-users-password-954547119c0f?source=rss----7b722bfd1b8d--bug_bounty)
@@ -15,38 +17,38 @@
   - [Update: cut-bytes.py Version 0.0.18](https://blog.didierstevens.com/2026/04/19/update-cut-bytes-py-version-0-0-18/)
 - HAHWUL
   - [Traveling with Hermes in Japan](https://www.hahwul.com/posts/2026/traveling-with-hermes-in-japan/)
+- 黑鸟
+  - [针对以色列水处理和海水淡化设施系统的新型工业恶意软件](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186449&idx=1&sn=236e11c1a3ae2be6e472635338201c66)
 - 奇客Solidot–传递最新科技情报
   - [NASA 关闭旅行者 1 号的 LECP 仪器以节省电力维持运行](https://www.solidot.org/story?sid=84088)
   - [人形机器人打破人类半马世界纪录](https://www.solidot.org/story?sid=84087)
   - [卫星无人机图像显示美国四成数据中心可能延期](https://www.solidot.org/story?sid=84086)
   - [内存芯片短缺可能持续到 2030 年](https://www.solidot.org/story?sid=84085)
   - [果糖不只是糖，它更像是激素](https://www.solidot.org/story?sid=84084)
-- 安全分析与研究
-  - [安全运营与应急响应——威胁狩猎与事件处理](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496655&idx=1&sn=c590fadef2ded7014a21ce013d65f473)
-- 黑鸟
-  - [针对以色列水处理和海水淡化设施系统的新型工业恶意软件](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186449&idx=1&sn=236e11c1a3ae2be6e472635338201c66)
 - 漕河泾小黑屋
   - [免费代理背后的攻击者行为分析](https://mp.weixin.qq.com/s?__biz=MzA4NzQwNzY3OQ==&mid=2247484080&idx=1&sn=064eb8a7895eaf8529c7efb31c3f3ea8)
 - 丁爸 情报分析师的工具箱
   - [【资料】2026年《军事情报》-开源情报、情报培训、三维情报、情报撰写](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155229&idx=1&sn=08e514924df5292081f7833fa174a58e)
+- 奇安信威胁情报中心
+  - [MCP协议架构级漏洞深度分析：STDIO设计缺陷引发大规模AI供应链安全危机](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518473&idx=1&sn=39cc2ea54cae3aee275196ef01298f3f)
+- 安全分析与研究
+  - [安全运营与应急响应——威胁狩猎与事件处理](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496655&idx=1&sn=c590fadef2ded7014a21ce013d65f473)
 - 极客公园
   - [果然，最恨 AI 的人，是大学毕业生](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104139&idx=1&sn=9707a1352ae1f2fb7f3724196693744d)
   - [Cursor 融资 20 亿美元，估值达 500 亿美元；传马斯克 xAI 下周发布 Grok AI Coding 工具；Meta 再裁 8000 人 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104239&idx=1&sn=c4efe1246ce8069878397a342a6ef2ad)
+- Desync InfoSec
+  - [跨租户Teams服务台钓鱼到数据外传：一次人工入侵全链路剖析](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490121&idx=1&sn=fa638710a1bda5c68df5a52c1cd52f93)
+  - [第三方 SDK 重大漏洞曝光：超 3000 万加密货币钱包面临数据泄露风险](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490121&idx=2&sn=dfccc966802d7982f4a0f4e217490a02)
+  - [Prompt注入攻击：当AI的眼睛被蒙蔽](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490121&idx=3&sn=f91382d36ed9e5fe271e0504e358d1b6)
 - 安全行者老霍
   - [安全研究人员和红队为何转向工作流自动化](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486501&idx=1&sn=15d62295f3c6ff9f5b0275d45a018f15)
-- 奇安信威胁情报中心
-  - [MCP协议架构级漏洞深度分析：STDIO设计缺陷引发大规模AI供应链安全危机](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518473&idx=1&sn=39cc2ea54cae3aee275196ef01298f3f)
+- IT Service Management News
+  - [Gli uomini possono fare tutto - Aprile 2026](http://blog.cesaregallotti.it/2026/04/gli-uomini-possono-fare-tutto-aprile.html)
 - Over Security - Cybersecurity news aggregator
   - [Vercel confirms breach as hackers claim to be selling stolen data](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
   - [CFITSIO Fuzzing: Memory Corruptions and a Codex-Assisted Pipeline](https://blog.doyensec.com/2026/04/20/cfitsio-fuzzing.html)
   - [Apple account change alerts abused to send phishing emails](https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/)
   - [NIST to stop rating non-priority flaws due to volume increase](https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/)
-- Desync InfoSec
-  - [跨租户Teams服务台钓鱼到数据外传：一次人工入侵全链路剖析](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490121&idx=1&sn=fa638710a1bda5c68df5a52c1cd52f93)
-  - [第三方 SDK 重大漏洞曝光：超 3000 万加密货币钱包面临数据泄露风险](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490121&idx=2&sn=dfccc966802d7982f4a0f4e217490a02)
-  - [Prompt注入攻击：当AI的眼睛被蒙蔽](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490121&idx=3&sn=f91382d36ed9e5fe271e0504e358d1b6)
-- IT Service Management News
-  - [Gli uomini possono fare tutto - Aprile 2026](http://blog.cesaregallotti.it/2026/04/gli-uomini-possono-fare-tutto-aprile.html)
 - Security Affairs
   - [Cyber attacks fuel surge in cargo theft across logistics industry](https://securityaffairs.com/191008/security/cyber-attacks-fuel-surge-in-cargo-theft-across-logistics-industry.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 93](https://securityaffairs.com/191001/security/security-affairs-malware-newsletter-round-93.html)
