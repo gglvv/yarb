@@ -1,20 +1,20 @@
 # 每日安全资讯（2026-04-20）
 
-- Taxodium
-  - [日常#13 - I Am Here 深圳 Live](https://taxodium.ink/nichijou-13.html)
-- 博客
-  - [-march=generic vs -march=native](https://dyrnq.com/marchgeneric-vs-marchnative/)
-- Recent Commits to cve:main
-  - [Update Sun Apr 19 11:20:17 UTC 2026](https://github.com/trickest/cve/commit/7ebbf3d8590db6e2c0afb51257985d8f09d428db)
 - SecWiki News
   - [SecWiki News 2026-04-19 Review](http://www.sec-wiki.com/?2026-04-19)
+- Recent Commits to cve:main
+  - [Update Sun Apr 19 11:20:17 UTC 2026](https://github.com/trickest/cve/commit/7ebbf3d8590db6e2c0afb51257985d8f09d428db)
+- 博客
+  - [-march=generic vs -march=native](https://dyrnq.com/marchgeneric-vs-marchnative/)
+- Taxodium
+  - [日常#13 - I Am Here 深圳 Live](https://taxodium.ink/nichijou-13.html)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [Critical Remote Code Execution Vulnerability in Windows Internet Key Exchange (IKE) Service (CVE-2026-33824)](https://cxsecurity.com/issue/WLB-2026040013)
-- Didier Stevens
-  - [Update: cut-bytes.py Version 0.0.18](https://blog.didierstevens.com/2026/04/19/update-cut-bytes-py-version-0-0-18/)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [How to Get Started with Cybersecurity and Ethical Hacking](https://infosecwriteups.com/how-to-get-started-with-cybersecurity-and-ethical-hacking-5f8147d92970?source=rss----7b722bfd1b8d--bug_bounty)
   - [Security Questions Bypassed to Change User’s Password](https://infosecwriteups.com/security-questions-bypassed-to-change-users-password-954547119c0f?source=rss----7b722bfd1b8d--bug_bounty)
+- Didier Stevens
+  - [Update: cut-bytes.py Version 0.0.18](https://blog.didierstevens.com/2026/04/19/update-cut-bytes-py-version-0-0-18/)
 - Reverse Engineering
   - [First it's a different post hi guys i want from someone here to help me in a complicated mission i want to add private server to game that their own servers shout down and want to make it playable again it's need reverse engineering and huge knowledge and i have game files apk and others i really h](https://www.reddit.com/r/ReverseEngineering/comments/1spzqfc/first_its_a_different_post_hi_guys_i_want_from/)
   - [hi guys i want from someone here to help me in a complicated mission i want to add private server to game that their own servers shout down and want to make it playable again it's need reverse engineering and huge knowledge and i have game files apk and others i really hope there is someone can help](https://www.reddit.com/r/ReverseEngineering/comments/1spujxq/hi_guys_i_want_from_someone_here_to_help_me_in_a/)
@@ -26,47 +26,47 @@
   - [卫星无人机图像显示美国四成数据中心可能延期](https://www.solidot.org/story?sid=84086)
   - [内存芯片短缺可能持续到 2030 年](https://www.solidot.org/story?sid=84085)
   - [果糖不只是糖，它更像是激素](https://www.solidot.org/story?sid=84084)
-- 安全分析与研究
-  - [安全运营与应急响应——威胁狩猎与事件处理](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496655&idx=1&sn=c590fadef2ded7014a21ce013d65f473)
-- 丁爸 情报分析师的工具箱
-  - [【资料】2026年《军事情报》-开源情报、情报培训、三维情报、情报撰写](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155229&idx=1&sn=08e514924df5292081f7833fa174a58e)
 - 黑鸟
   - [针对以色列水处理和海水淡化设施系统的新型工业恶意软件](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186449&idx=1&sn=236e11c1a3ae2be6e472635338201c66)
+- 安全分析与研究
+  - [安全运营与应急响应——威胁狩猎与事件处理](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496655&idx=1&sn=c590fadef2ded7014a21ce013d65f473)
 - 漕河泾小黑屋
   - [免费代理背后的攻击者行为分析](https://mp.weixin.qq.com/s?__biz=MzA4NzQwNzY3OQ==&mid=2247484080&idx=1&sn=064eb8a7895eaf8529c7efb31c3f3ea8)
-- 奇安信威胁情报中心
-  - [MCP协议架构级漏洞深度分析：STDIO设计缺陷引发大规模AI供应链安全危机](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518473&idx=1&sn=39cc2ea54cae3aee275196ef01298f3f)
+- 丁爸 情报分析师的工具箱
+  - [【资料】2026年《军事情报》-开源情报、情报培训、三维情报、情报撰写](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155229&idx=1&sn=08e514924df5292081f7833fa174a58e)
 - 极客公园
   - [果然，最恨 AI 的人，是大学毕业生](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104139&idx=1&sn=9707a1352ae1f2fb7f3724196693744d)
   - [Cursor 融资 20 亿美元，估值达 500 亿美元；传马斯克 xAI 下周发布 Grok AI Coding 工具；Meta 再裁 8000 人 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104239&idx=1&sn=c4efe1246ce8069878397a342a6ef2ad)
 - 安全行者老霍
   - [安全研究人员和红队为何转向工作流自动化](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486501&idx=1&sn=15d62295f3c6ff9f5b0275d45a018f15)
+- 奇安信威胁情报中心
+  - [MCP协议架构级漏洞深度分析：STDIO设计缺陷引发大规模AI供应链安全危机](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518473&idx=1&sn=39cc2ea54cae3aee275196ef01298f3f)
+- Desync InfoSec
+  - [跨租户Teams服务台钓鱼到数据外传：一次人工入侵全链路剖析](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490121&idx=1&sn=fa638710a1bda5c68df5a52c1cd52f93)
+  - [第三方 SDK 重大漏洞曝光：超 3000 万加密货币钱包面临数据泄露风险](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490121&idx=2&sn=dfccc966802d7982f4a0f4e217490a02)
+  - [Prompt注入攻击：当AI的眼睛被蒙蔽](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490121&idx=3&sn=f91382d36ed9e5fe271e0504e358d1b6)
 - Over Security - Cybersecurity news aggregator
   - [Vercel confirms breach as hackers claim to be selling stolen data](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
   - [CFITSIO Fuzzing: Memory Corruptions and a Codex-Assisted Pipeline](https://blog.doyensec.com/2026/04/20/cfitsio-fuzzing.html)
   - [Apple account change alerts abused to send phishing emails](https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/)
   - [NIST to stop rating non-priority flaws due to volume increase](https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/)
-- Desync InfoSec
-  - [跨租户Teams服务台钓鱼到数据外传：一次人工入侵全链路剖析](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490121&idx=1&sn=fa638710a1bda5c68df5a52c1cd52f93)
-  - [第三方 SDK 重大漏洞曝光：超 3000 万加密货币钱包面临数据泄露风险](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490121&idx=2&sn=dfccc966802d7982f4a0f4e217490a02)
-  - [Prompt注入攻击：当AI的眼睛被蒙蔽](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490121&idx=3&sn=f91382d36ed9e5fe271e0504e358d1b6)
-- Your Open Hacker Community
-  - [Come funziona Doxbin?](https://www.reddit.com/r/HowToHack/comments/1spqpek/come_funziona_doxbin/)
-  - [Hacking pvp games for accessibility purposes.](https://www.reddit.com/r/HowToHack/comments/1spo7qe/hacking_pvp_games_for_accessibility_purposes/)
 - IT Service Management News
   - [Gli uomini possono fare tutto - Aprile 2026](http://blog.cesaregallotti.it/2026/04/gli-uomini-possono-fare-tutto-aprile.html)
-- Social Engineering
-  - [Did I just dodge a phishing scam or am I still at risk?](https://www.reddit.com/r/SocialEngineering/comments/1spxnwd/did_i_just_dodge_a_phishing_scam_or_am_i_still_at/)
+- Security Affairs
+  - [Cyber attacks fuel surge in cargo theft across logistics industry](https://securityaffairs.com/191008/security/cyber-attacks-fuel-surge-in-cargo-theft-across-logistics-industry.html)
+  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 93](https://securityaffairs.com/191001/security/security-affairs-malware-newsletter-round-93.html)
+  - [Security Affairs newsletter Round 573 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/190994/breaking-news/security-affairs-newsletter-round-573-by-pierluigi-paganini-international-edition.html)
 - Deep Web
   - [Look what I found in a Qanon sub. Lol](https://www.reddit.com/r/deepweb/comments/1spmobl/look_what_i_found_in_a_qanon_sub_lol/)
   - [Trust wallet with low com](https://www.reddit.com/r/deepweb/comments/1spryuk/trust_wallet_with_low_com/)
   - [Dark web](https://www.reddit.com/r/deepweb/comments/1spph19/dark_web/)
   - [Fe](https://www.reddit.com/r/deepweb/comments/1spe2mq/fe/)
-- Security Affairs
-  - [Cyber attacks fuel surge in cargo theft across logistics industry](https://securityaffairs.com/191008/security/cyber-attacks-fuel-surge-in-cargo-theft-across-logistics-industry.html)
-  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 93](https://securityaffairs.com/191001/security/security-affairs-malware-newsletter-round-93.html)
-  - [Security Affairs newsletter Round 573 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/190994/breaking-news/security-affairs-newsletter-round-573-by-pierluigi-paganini-international-edition.html)
-- Daniel Miessler
-  - [Weak vs. Strong AI Rollouts](https://danielmiessler.com/blog/weak-vs-strong-ai-rollouts?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- Your Open Hacker Community
+  - [Come funziona Doxbin?](https://www.reddit.com/r/HowToHack/comments/1spqpek/come_funziona_doxbin/)
+  - [Hacking pvp games for accessibility purposes.](https://www.reddit.com/r/HowToHack/comments/1spo7qe/hacking_pvp_games_for_accessibility_purposes/)
+- Social Engineering
+  - [Did I just dodge a phishing scam or am I still at risk?](https://www.reddit.com/r/SocialEngineering/comments/1spxnwd/did_i_just_dodge_a_phishing_scam_or_am_i_still_at/)
 - netsecstudents: Subreddit for students studying Network Security and its related subjects
   - [Finished OverTheWire Bandit](https://www.reddit.com/r/netsecstudents/comments/1spkb7q/finished_overthewire_bandit/)
+- Daniel Miessler
+  - [Weak vs. Strong AI Rollouts](https://danielmiessler.com/blog/weak-vs-strong-ai-rollouts?utm_source=rss&utm_medium=feed&utm_campaign=website)
