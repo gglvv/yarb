@@ -1,26 +1,26 @@
 # 每日安全资讯（2026-04-24）
 
-- Recent Commits to cve:main
-  - [Update Thu Apr 23 11:30:09 UTC 2026](https://github.com/trickest/cve/commit/59f2accfcb3b59563519a406e4ed2602aa3efe64)
 - Armin Ronacher's Thoughts and Writings
   - [Equity for Europeans](https://lucumr.pocoo.org/2026/4/23/equity-for-europeans/)
-- Google Online Security Blog
-  - [AI threats in the wild: The current state of prompt injections on the web](http://security.googleblog.com/2026/04/ai-threats-in-wild-current-state-of.html)
 - SecWiki News
   - [SecWiki News 2026-04-23 Review](http://www.sec-wiki.com/?2026-04-23)
+- ElcomSoft blog
+  - [Recovering Windows Credentials with Elcomsoft System Recovery](https://blog.elcomsoft.com/2026/04/recovering-windows-credentials-with-elcomsoft-system-recovery/)
+- obaby 𝐢‍𝐧⃝ void
+  - [人间四月芳菲尽](https://zhongxiaojie.cn/2026/04/1108/)
 - InfoSec Write-ups - Medium
   - [$800 Bounty: Privilege Escalation via API — From Scheduler to Team Admin](https://infosecwriteups.com/800-bounty-privilege-escalation-via-api-from-scheduler-to-team-admin-810bb8401a0f?source=rss----7b722bfd1b8d---4)
   - [How To Hack Part 5](https://infosecwriteups.com/how-to-hack-part-5-d79099f523f5?source=rss----7b722bfd1b8d---4)
 - Tenable Blog
   - [Five steps to become Mythos ready](https://www.tenable.com/blog/5-steps-to-become-mythos-ready-ai-cybersecurity)
-- 博客
-  - [Bcrypt](https://dyrnq.com/bcrypt/)
+- Google Online Security Blog
+  - [AI threats in the wild: The current state of prompt injections on the web](http://security.googleblog.com/2026/04/ai-threats-in-wild-current-state-of.html)
+- Recent Commits to cve:main
+  - [Update Thu Apr 23 11:30:09 UTC 2026](https://github.com/trickest/cve/commit/59f2accfcb3b59563519a406e4ed2602aa3efe64)
 - Sucuri Blog
   - [WordPress DDoS Protection: How to Keep Your Site Online](https://blog.sucuri.net/2026/04/wordpress-ddos-protection-how-to-keep-your-site-online.html)
-- ElcomSoft blog
-  - [Recovering Windows Credentials with Elcomsoft System Recovery](https://blog.elcomsoft.com/2026/04/recovering-windows-credentials-with-elcomsoft-system-recovery/)
-- obaby 𝐢‍𝐧⃝ void
-  - [人间四月芳菲尽](https://zhongxiaojie.cn/2026/04/1108/)
+- 博客
+  - [Bcrypt](https://dyrnq.com/bcrypt/)
 - Cerbero Blog
   - [CRAMFS Format Package](https://blog.cerbero.io/cramfs-format-package/)
 - Bug Bounty in InfoSec Write-ups on Medium
@@ -32,23 +32,23 @@
   - [2026-04-23: SmartApeSG activity](https://www.malware-traffic-analysis.net/2026/04/23/index.html)
 - Sucuri Blog
   - [WordPress DDoS Protection: How to Keep Your Site Online](https://blog.sucuri.net/2026/04/wordpress-ddos-protection-how-to-keep-your-site-online.html)
-- Intigriti
-  - [Vulnpocalypse Now? How AI is changing vulnerability discovery](https://www.intigriti.com/blog/business-insights/vulnpocalypse-now-how-ai-is-changing-vulnerability-discovery)
 - Malwarebytes
   - [How cyberattacks on companies affect everyone](https://www.malwarebytes.com/blog/privacy/2026/04/how-cyberattacks-on-companies-affect-everyone)
   - [Apple fixes iOS bug that kept deleted notifications, including chat previews](https://www.malwarebytes.com/blog/news/2026/04/apple-fixes-ios-bug-that-kept-deleted-notifications-including-chat-previews)
   - [Roblox clamps down on chats and age checks as legal pressure builds](https://www.malwarebytes.com/blog/news/2026/04/roblox-clamps-down-on-chats-and-age-checks-as-legal-pressure-builds)
+- Intigriti
+  - [Vulnpocalypse Now? How AI is changing vulnerability discovery](https://www.intigriti.com/blog/business-insights/vulnpocalypse-now-how-ai-is-changing-vulnerability-discovery)
 - bishopfox.com
   - [Otto Support – An MCP, Agentic-AI Security Challenge](https://bishopfox.com/blog/otto-support-an-mcp-agentic-ai-security-challenge)
+- Checkmarx
+  - [Checkmarx Security Update: April 22](https://checkmarx.com/blog/checkmarx-security-update-april-22/)
+  - [Guardrails for Agentic Development](https://checkmarx.com/blog/guardrails-for-agentic-development/)
 - 绿盟科技技术博客
   - [绿盟NF防火墙：筑牢OpenClaw安全防线，构筑AI时代安全基石](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9fnf%e9%98%b2%e7%81%ab%e5%a2%99%ef%bc%9a%e7%ad%91%e7%89%a2openclaw%e5%ae%89%e5%85%a8%e9%98%b2%e7%ba%bf%ef%bc%8c%e6%9e%84%e7%ad%91ai%e6%97%b6%e4%bb%a3%e5%ae%89%e5%85%a8%e5%9f%ba-2/)
   - [权威认可 | 绿盟科技防火墙实力入选“2025中国网络安全防火墙市场销量明星品牌”](https://blog.nsfocus.net/%e6%9d%83%e5%a8%81%e8%ae%a4%e5%8f%af-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e9%98%b2%e7%81%ab%e5%a2%99%e5%ae%9e%e5%8a%9b%e5%85%a5%e9%80%892025%e4%b8%ad%e5%9b%bd%e7%bd%91%e7%bb%9c%e5%ae%89/)
   - [渗透测试新纪元——绿盟智能渗透系统（AI-PTS）新版本发布](https://blog.nsfocus.net/%e6%b8%97%e9%80%8f%e6%b5%8b%e8%af%95%e6%96%b0%e7%ba%aa%e5%85%83-%e7%bb%bf%e7%9b%9f%e6%99%ba%e8%83%bd%e6%b8%97%e9%80%8f%e7%b3%bb%e7%bb%9f%ef%bc%88ai-pts%ef%bc%89%e6%96%b0%e7%89%88/)
   - [【公益译文】2026年国际AI安全报告（一）](https://blog.nsfocus.net/%e3%80%90%e5%85%ac%e7%9b%8a%e8%af%91%e6%96%87%e3%80%912026%e5%b9%b4%e5%9b%bd%e9%99%85ai%e5%ae%89%e5%85%a8%e6%8a%a5%e5%91%8a%ef%bc%88%e4%b8%80%ef%bc%89/)
   - [【公益译文】2026年国际AI安全报告（四）](https://blog.nsfocus.net/%e3%80%90%e5%85%ac%e7%9b%8a%e8%af%91%e6%96%87%e3%80%912026%e5%b9%b4%e5%9b%bd%e9%99%85ai%e5%ae%89%e5%85%a8%e6%8a%a5%e5%91%8a%ef%bc%88%e5%9b%9b%ef%bc%89/)
-- Checkmarx
-  - [Checkmarx Security Update: April 22](https://checkmarx.com/blog/checkmarx-security-update-april-22/)
-  - [Guardrails for Agentic Development](https://checkmarx.com/blog/guardrails-for-agentic-development/)
 - HackerNews
   - [çť§ Bluesky ĺŽďźŒMastodon é­ DDoS ć”ťĺ‡ť](http://0.0.0.0:8080/post/64171)
   - [Claude Mythos ĺ‘çŽ° 271 ä¸ŞçŤç‹ćľč§ˆĺ™¨ćźć´ž](http://0.0.0.0:8080/post/64170)
@@ -68,30 +68,51 @@
   - [沥青会释放有毒的挥发性有机物](https://www.solidot.org/story?sid=84126)
   - [乒乓球机器人击败了人类顶尖选手](https://www.solidot.org/story?sid=84125)
   - [苹果修复了在原始信息删除之后预览仍然保留在通知数据库里的 Bug](https://www.solidot.org/story?sid=84124)
+- Shostack & Friends Blog
+  - [Lessons from Threat Modeling Intensive With AI](https://shostack.org/blog/lessons-from-owasp/)
 - 黑鸟
   - [信号失守：揭秘隐秘监控势力对全球电信网络的系统性渗透](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186507&idx=1&sn=edc2a734994d93f434048dce5edba550)
+- 安全内参
+  - [AI编程默认不安全：知名AI公司发生重大数据泄露](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515858&idx=1&sn=d28bb9b88c16814f1c969ac84c30ad0a)
+  - [聚焦联合作战和博弈对抗：美国防部披露美军网络战略布局与发展方向](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515858&idx=2&sn=3dd2e394d609801341ddc831db1c2d94)
+- 代码卫士
+  - [微软紧急修复严重的 ASP.NET 漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525844&idx=1&sn=a5155ad25d1a9cad18cd399ac56c9d05)
+  - [自传播供应链蠕虫劫持 npm 包，窃取开发人员令牌](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525844&idx=2&sn=3f396c2336c086719e62350cd61cd2bb)
 - 腾讯玄武实验室
   - [每日安全动态推送(26/4/23)](https://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&mid=2651960457&idx=1&sn=4616f4e6452cddc0a62060cfeef7593d)
 - 威努特安全网络
   - [国务院：支持采购大模型、智能体服务](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651141420&idx=1&sn=20ee3d6a9f42e03787cb6d3922c44607)
-- 腾讯安全应急响应中心
-  - [TSRC关于AI辅助漏洞挖掘报告的提交规范：每一份漏洞报告，都值得被认真对待](https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651208362&idx=1&sn=d023ab60dba98fa2e6d7f35d1f371664)
+- 绿盟科技研究通讯
+  - [AI靶场安全实战系列：RAG知识源投毒——利用PDF隐藏文字劫持AI客服](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499850&idx=1&sn=98bb03ec10cb11c6aadd040ddea29589)
 - 360漏洞云
   - [360漏洞云关于AI生成漏洞报告的处置公告](https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247505106&idx=1&sn=d03bf915dd581b70aef84e47aa60f39a)
+- 腾讯安全应急响应中心
+  - [TSRC关于AI辅助漏洞挖掘报告的提交规范：每一份漏洞报告，都值得被认真对待](https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651208362&idx=1&sn=d023ab60dba98fa2e6d7f35d1f371664)
 - 微步在线研究响应中心
   - [突发：Checkmarx再次遭遇供应链投毒！速查](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508649&idx=1&sn=a1931d6a89e8851fa93a599af6cf6e15)
   - [突发：Xinference PyPI 遭投毒！速查](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508649&idx=2&sn=de697976c81a783cbcb86ffaeb528875)
-- 虎符智库
-  - [RSAC 2026 ：从梦想到现实，网络安全进入“自主防御”新纪元](https://mp.weixin.qq.com/s?__biz=MzIwNjYwMTMyNQ==&mid=2247493787&idx=1&sn=bcbecc3a2ff31609650d6a949fc9bf02)
-- 奇安信 CERT
-  - [深度分析 | 在官方 KICS Docker 中发现恶意 Checkmarx 构件](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505361&idx=1&sn=01078dadf040b30872c7fc973f212085)
 - 看雪学苑
   - [更好理解：CVE-2021-1732漏洞分析报告与利用](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614046&idx=1&sn=4141c556c1195141951d4ee5fe9911b3)
   - [Checkmarx KICS 官方 Docker 镜像遭投毒](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614046&idx=2&sn=f6ce43ecd42ee8eccccff9fd2ec04693)
   - [开启Android应用的“上帝模式”：Frida源码级调试与定制开发实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614046&idx=3&sn=2b92c3e13ac62948ead75f8318dd708f)
-- 安全内参
-  - [AI编程默认不安全：知名AI公司发生重大数据泄露](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515858&idx=1&sn=d28bb9b88c16814f1c969ac84c30ad0a)
-  - [聚焦联合作战和博弈对抗：美国防部披露美军网络战略布局与发展方向](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515858&idx=2&sn=3dd2e394d609801341ddc831db1c2d94)
+- 安全学术圈
+  - [行业会议 | 第七届网络空间安全前沿论坛（常安论坛详细全日程）](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495279&idx=1&sn=5620974b374e7d9da2d34f5af5f9dbb3)
+- 虎符智库
+  - [RSAC 2026 ：从梦想到现实，网络安全进入“自主防御”新纪元](https://mp.weixin.qq.com/s?__biz=MzIwNjYwMTMyNQ==&mid=2247493787&idx=1&sn=bcbecc3a2ff31609650d6a949fc9bf02)
+- 情报小蜜蜂
+  - [核电，正在成为中国能源转型的关键拼图](https://mp.weixin.qq.com/s?__biz=MzU0NjY5ODQ3Mw==&mid=2247486030&idx=1&sn=29c16a2e752de67669cf5f9db52c1ace)
+- 中国信息安全
+  - [重磅突破：自动化漏洞挖掘智能体体系落地](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261795&idx=1&sn=b26125698728638c9021dabbaa04702e)
+  - [国家安全部：维护产业链供应链安全，人人有责](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261795&idx=2&sn=85c6ed99edae4c63239cbe8b8c7121ac)
+  - [专家观点 | 数字虚拟人治理有了可行性前瞻性方案——专家解读《数字虚拟人信息服务管理办法（征求意见稿）》](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261795&idx=3&sn=d74fcd36ca5e4995fffb8319f95a5a08)
+  - [评论 | 网络法治须与技术创新同频共振](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261795&idx=4&sn=e85d89544ad56d0ab58e64181c42dbf1)
+- 信息安全国家工程研究中心
+  - [处罚案例 | 杭州某科技公司数据遭境外窃取被罚5万元](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247503709&idx=1&sn=2aa5165311819c75f98c2cdd88c98cb1)
+- 奇安信 CERT
+  - [深度分析 | 在官方 KICS Docker 中发现恶意 Checkmarx 构件](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505361&idx=1&sn=01078dadf040b30872c7fc973f212085)
+- 电子物证
+  - [【当秘密藏进图片，取证人员怎么看出来？】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048986&idx=1&sn=30d2aec20a76ab23035640a71c68114f)
+  - [【详解】电子数据取证现场勘查步骤及注意事项](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048986&idx=2&sn=6502a90f1a9782c159ff5e76b02fc183)
 - 丁爸 情报分析师的工具箱
   - [【转载】跨越“中立陷阱”：以香港为鉴推演台湾统一后的行政与司法重构](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155252&idx=1&sn=59edffc80fb95a675fbdceb948bde8b7)
   - [【转载】这个被台湾伪政权控制的非洲小国，共产党正在茁壮成长](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155252&idx=2&sn=231dd3635e9069e529aa2a2612c1bf76)
@@ -99,108 +120,104 @@
   - [【安全圈】《王者荣耀》惊现逆天bug](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075971&idx=1&sn=87382d2f57b8f0b6d5e7f3203b830e4d)
   - [【安全圈】理想汽车严正声明：系统遭黑客破解、配合走私均为不实信息](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075971&idx=2&sn=ef4ca71b65ec892a68ab6e5aeb1ab6df)
   - [【安全圈】Claude Mythos 发现 271 个火狐浏览器漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075971&idx=3&sn=d88245ccf278317f520a1fdb52cbc91b)
-- 绿盟科技研究通讯
-  - [AI靶场安全实战系列：RAG知识源投毒——利用PDF隐藏文字劫持AI客服](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499850&idx=1&sn=98bb03ec10cb11c6aadd040ddea29589)
-- 安全牛
-  - [被遗忘的幽灵接口：已废弃 API 正成为攻击者的 “黄金后门”](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141120&idx=1&sn=c8db4bd3d4506b1ca55e371f8b5dab5f)
-  - [国家病毒中心发布通报：龙虾智能体现恶意技能包攻击；SpaceX押注Cursor：600亿美元期权交易背后的AI算力与开发工具博弈| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141120&idx=2&sn=d4bada727dd807a3a7c8c949554f3424)
-- 信息安全国家工程研究中心
-  - [处罚案例 | 杭州某科技公司数据遭境外窃取被罚5万元](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247503709&idx=1&sn=2aa5165311819c75f98c2cdd88c98cb1)
-- 安全学术圈
-  - [行业会议 | 第七届网络空间安全前沿论坛（常安论坛详细全日程）](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495279&idx=1&sn=5620974b374e7d9da2d34f5af5f9dbb3)
 - 数世咨询
   - [Mythos正在袪魅？](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542658&idx=1&sn=cbd7fd4c2c6b1b09c419e266a3ade54c)
   - [在预算有限的情况下提升企业网络安全的八种方法](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542658&idx=2&sn=8d04a004ad0f08370fbdde7188ac3bd4)
-- M01N Team
-  - [AI安全案例分析 | Marimo 零日漏洞与Hugging Face平台滥用（文末附邀请码）](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247494999&idx=1&sn=8a33dea317d873ca1912b36c3fab507f)
-- 情报小蜜蜂
-  - [核电，正在成为中国能源转型的关键拼图](https://mp.weixin.qq.com/s?__biz=MzU0NjY5ODQ3Mw==&mid=2247486030&idx=1&sn=29c16a2e752de67669cf5f9db52c1ace)
-- 慢雾科技
-  - [Hacking Time 回顾：慢雾携手行业专家，深度拆解 AI & Web3 的攻防新范式](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247504768&idx=1&sn=4589da9b7bea88de8f7b4dbd5cbfd0c8)
-- 微步在线
-  - [微步EDR，双第一！](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186248&idx=1&sn=a53d077f1990e77c2604d051df25d01a)
-- 极客公园
-  - [一年烧掉 1850 亿美元、Google 要做智能体时代的「企业 Windows」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104590&idx=1&sn=ba274f340d47386ec565ecc2508c3595)
-  - [阿里、美团、字节、小米罕见「会师」，四大厂为何共同押注自变量机器人](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104574&idx=1&sn=d51817d3f0a4a99c2e65e725468b4de8)
-  - [华为余承东：新 M9 友商永远追不上；谷歌曝光智能体专项 AI 芯片；兵乓机器人击败人类顶级选手｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104514&idx=1&sn=03378040facc37a4362991aa0c8bbcf3)
-- 中国信息安全
-  - [重磅突破：自动化漏洞挖掘智能体体系落地](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261795&idx=1&sn=b26125698728638c9021dabbaa04702e)
-  - [国家安全部：维护产业链供应链安全，人人有责](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261795&idx=2&sn=85c6ed99edae4c63239cbe8b8c7121ac)
-  - [专家观点 | 数字虚拟人治理有了可行性前瞻性方案——专家解读《数字虚拟人信息服务管理办法（征求意见稿）》](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261795&idx=3&sn=d74fcd36ca5e4995fffb8319f95a5a08)
-  - [评论 | 网络法治须与技术创新同频共振](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261795&idx=4&sn=e85d89544ad56d0ab58e64181c42dbf1)
 - 网络空间安全科学学报
   - [“可信与机密计算”专题征稿](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507447&idx=1&sn=efbaf8583b1d4c0556f020cc9333654e)
-- 奇安信威胁情报中心
-  - [又又一起AI相关供应链事件：Xinference PyPI  (版本 2.6.0–2.6.2)供应链污染报告](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518509&idx=1&sn=bef0b7230e3d69d03629a6f6c6ee60bb)
-- 电子物证
-  - [【当秘密藏进图片，取证人员怎么看出来？】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048986&idx=1&sn=30d2aec20a76ab23035640a71c68114f)
-  - [【详解】电子数据取证现场勘查步骤及注意事项](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048986&idx=2&sn=6502a90f1a9782c159ff5e76b02fc183)
+- M01N Team
+  - [AI安全案例分析 | Marimo 零日漏洞与Hugging Face平台滥用（文末附邀请码）](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247494999&idx=1&sn=8a33dea317d873ca1912b36c3fab507f)
+- 微步在线
+  - [微步EDR，双第一！](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186248&idx=1&sn=a53d077f1990e77c2604d051df25d01a)
 - 阿里安全响应中心
   - [先知平台关于AI生成漏洞报告的处置公告](https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652998827&idx=1&sn=87a4ffd29c09a117121fa8beccca7ce5)
-- 字节跳动安全中心
-  - [ByteSRC发布《AI生成漏洞报告提交规范》](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496182&idx=1&sn=8c843d9a103ba7f711df7f6e06771f43)
-- Tide安全团队
-  - [python免杀工具学习记录](https://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247522039&idx=1&sn=c350284908280300312997428c9ca991)
-- 嘶吼专业版
-  - [纵横网络靶场社区正式发布 以虚实融合技术构建工业信息安全实战生态](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587699&idx=1&sn=fbb2c84d9a470bf1a6c029ebabc611c9)
-- 火绒安全
-  - [火绒安全 | 以专业之力 为企业数字化转型筑牢安全屏障](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532438&idx=1&sn=588f6fd7c8bcf6838d71479f2a88eb1c)
-  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532438&idx=2&sn=1990976eb048f23967fe24ebb622e0fe)
+- 安全牛
+  - [被遗忘的幽灵接口：已废弃 API 正成为攻击者的 “黄金后门”](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141120&idx=1&sn=c8db4bd3d4506b1ca55e371f8b5dab5f)
+  - [国家病毒中心发布通报：龙虾智能体现恶意技能包攻击；SpaceX押注Cursor：600亿美元期权交易背后的AI算力与开发工具博弈| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141120&idx=2&sn=d4bada727dd807a3a7c8c949554f3424)
 - 中通安全应急响应中心
   - [中通SRC关于AI生成漏洞报告的处置公告](https://mp.weixin.qq.com/s?__biz=MzUyMTcwNTY3Mg==&mid=2247486646&idx=1&sn=1659e438858303dc1b6a440198931f9b)
 - 小米安全中心
   - [小米安全中心关于AI生成漏洞报告的处置公告](https://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247520758&idx=1&sn=780378239f8aae74642d2d63164517c7)
-- 代码卫士
-  - [微软紧急修复严重的 ASP.NET 漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525844&idx=1&sn=a5155ad25d1a9cad18cd399ac56c9d05)
-  - [自传播供应链蠕虫劫持 npm 包，窃取开发人员令牌](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525844&idx=2&sn=3f396c2336c086719e62350cd61cd2bb)
+- 极客公园
+  - [一年烧掉 1850 亿美元、Google 要做智能体时代的「企业 Windows」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104590&idx=1&sn=ba274f340d47386ec565ecc2508c3595)
+  - [阿里、美团、字节、小米罕见「会师」，四大厂为何共同押注自变量机器人](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104574&idx=1&sn=d51817d3f0a4a99c2e65e725468b4de8)
+  - [华为余承东：新 M9 友商永远追不上；谷歌曝光智能体专项 AI 芯片；兵乓机器人击败人类顶级选手｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104514&idx=1&sn=03378040facc37a4362991aa0c8bbcf3)
+- Tide安全团队
+  - [python免杀工具学习记录](https://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247522039&idx=1&sn=c350284908280300312997428c9ca991)
+- 字节跳动安全中心
+  - [ByteSRC发布《AI生成漏洞报告提交规范》](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496182&idx=1&sn=8c843d9a103ba7f711df7f6e06771f43)
+- 慢雾科技
+  - [Hacking Time 回顾：慢雾携手行业专家，深度拆解 AI & Web3 的攻防新范式](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247504768&idx=1&sn=4589da9b7bea88de8f7b4dbd5cbfd0c8)
+- 火绒安全
+  - [火绒安全 | 以专业之力 为企业数字化转型筑牢安全屏障](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532438&idx=1&sn=588f6fd7c8bcf6838d71479f2a88eb1c)
+  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532438&idx=2&sn=1990976eb048f23967fe24ebb622e0fe)
+- 奇安信威胁情报中心
+  - [又又一起AI相关供应链事件：Xinference PyPI  (版本 2.6.0–2.6.2)供应链污染报告](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518509&idx=1&sn=bef0b7230e3d69d03629a6f6c6ee60bb)
+- 嘶吼专业版
+  - [纵横网络靶场社区正式发布 以虚实融合技术构建工业信息安全实战生态](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587699&idx=1&sn=fbb2c84d9a470bf1a6c029ebabc611c9)
+- 情报分析师
+  - [1000 万美元买一个黑客名字！美国点名伊朗Handala，真正要打的不是一封邮箱](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567692&idx=1&sn=f2206f6b77fe699c1c3faaf5692e0f08)
 - 京东安全应急响应中心
   - [【公告】JSRC关于AI生成漏洞报告提交规范](https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727850820&idx=1&sn=d437e9c1db71941782dcf1e0e5cb7cc5)
 - 美团技术团队
   - [清华美团数字生活研究院五周年，一场科技与美好生活的双向奔赴](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782526&idx=1&sn=ebbe054ccd2922ff1ce26c54c3007269)
   - [LARYBench 发布：定义具身动作表征 ImageNet，首次度量从人类视频学习的泛化表征](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782526&idx=2&sn=b65922b008289d429050a655ce8d62a0)
   - [30万+元奖金池！美团校园 AI Hackathon 大赛等你来战](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782526&idx=3&sn=e240fa4aed4aefbcf5c974d1f41aeebb)
-- 情报分析师
-  - [1000 万美元买一个黑客名字！美国点名伊朗Handala，真正要打的不是一封邮箱](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567692&idx=1&sn=f2206f6b77fe699c1c3faaf5692e0f08)
 - 国家互联网应急中心CNCERT
   - [国家互联网应急中心2026年网络安全学术征文通知](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501495&idx=1&sn=eb81e2f42b03bbf80acd0b88937e98a4)
-- 吴鲁加
-  - [产品设计：敲敲里的小花](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486049&idx=1&sn=fedb211ea9015a53e20afc677c33800e)
-- 云鼎实验室
-  - [AI 模型部署工具 Xinference 供应链投毒，腾讯云安全已支持防护](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497513&idx=1&sn=1a6633ee397f15f577bb22c97043c48e)
-- 字节跳动技术团队
-  - [告别OpenClaw运维盲区：火山引擎日志服务TLS一键开启全景观测](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247519455&idx=1&sn=6e82259aa596557beefc85e20e90b7e5)
 - 安全行者老霍
   - [ChatGPT 安全漏洞：仅需一条提示词即可窃取数据](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486519&idx=1&sn=477feb6c180059b6dbb58e7a541a3fc6)
-- Google Online Security Blog
-  - [AI threats in the wild: The current state of prompt injections on the web](http://security.googleblog.com/2026/04/ai-threats-in-wild-current-state-of.html)
 - Desync InfoSec
   - [从设计层面消灭机会型攻击：微软安全架构实践](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490163&idx=1&sn=c7d48b009317d8a04bafddbd4eef8b70)
   - [微软深度解析：如何检测渗透进企业的朝鲜IT工人](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490163&idx=2&sn=088647f08494a1756d616fbf843d0072)
   - [AI技能生态的"狂野西部"：安全治理何时到来](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490163&idx=3&sn=9792634bad890b1844bae365dd1c5001)
+- 迪哥讲事
+  - [1day:可实现Nginx服务器完全控制](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499371&idx=1&sn=32c47ad71d300fe9cbe182df852f982c)
 - TrustedSec
   - [Kerberos with Titanis](https://trustedsec.com/blog/kerberos-with-titanis)
+- 360数字安全
+  - [马来西亚企业代表团到访360 共探智能经济时代AI安全新路径！](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585777&idx=1&sn=c3a723e0f93c81774c85aa25c961aa1d)
+- 云鼎实验室
+  - [AI 模型部署工具 Xinference 供应链投毒，腾讯云安全已支持防护](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497513&idx=1&sn=1a6633ee397f15f577bb22c97043c48e)
+- 吴鲁加
+  - [产品设计：敲敲里的小花](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486049&idx=1&sn=fedb211ea9015a53e20afc677c33800e)
 - Securityinfo.it
   - [Reset password: una misura di sicurezza che diventa minaccia](https://www.securityinfo.it/2026/04/23/reset-password-una-misura-di-sicurezza-che-diventa-minaccia/?utm_source=rss&utm_medium=rss&utm_campaign=reset-password-una-misura-di-sicurezza-che-diventa-minaccia)
+- Chaos Computer Club - last 100 events feed
+  - [Expanding Processing’s Future With a Rust Rendering Engine (lgm2026)](https://cdn.media.ccc.de/conferences/lgm/2026/h264-hd/lgm2026-110668-eng-Expanding_Processings_Future_With_a_Rust_Rendering_Engine_hd.mp4)
+  - [ReWiring the Video Editor – Timeline as a Node (lgm2026)](https://cdn.media.ccc.de/conferences/lgm/2026/h264-hd/lgm2026-110669-eng-ReWiring_the_Video_Editor_-_Timeline_as_a_Node_hd.mp4)
+  - [Counterpunch Font Editor: Faster, Safer Complex-Script Design (lgm2026)](https://cdn.media.ccc.de/conferences/lgm/2026/h264-hd/lgm2026-110667-eng-Counterpunch_Font_Editor_Faster_Safer_Complex-Script_Design_hd.mp4)
 - ICT Security Magazine
   - [Cybersecurity e cavi sottomarini: la nuova sfida strategica nell’era della competizione globale](https://www.ictsecuritymagazine.com/articoli/cavi-sottomarini-cyber/)
   - [Intelligenza artificiale e criminalità Informatica: quando lo stesso strumento difende e attacca](https://www.ictsecuritymagazine.com/articoli/ai-criminalita-informatica/)
-- Future of Tech and Security: Strategy & Innovation with Raffy
-  - [How to Build an AI Company Now](https://raffy.ch/blog/2026/04/23/how-to-build-an-ai-company-now/)
-- Schneier on Security
-  - [FBI Extracts Deleted Signal Messages from iPhone Notification Database](https://www.schneier.com/blog/archives/2026/04/fbi-extracts-deleted-signal-messages-from-iphone-notification-database.html)
-- Chaos Computer Club - last 100 events feed
-  - [Counterpunch Font Editor: Faster, Safer Complex-Script Design (lgm2026)](https://cdn.media.ccc.de/conferences/lgm/2026/h264-hd/lgm2026-110667-eng-Counterpunch_Font_Editor_Faster_Safer_Complex-Script_Design_hd.mp4)
-- 360数字安全
-  - [马来西亚企业代表团到访360 共探智能经济时代AI安全新路径！](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585777&idx=1&sn=c3a723e0f93c81774c85aa25c961aa1d)
-- 悬镜安全
-  - [AI投毒情报预警 | Xinference国产推理框架遭受供应链窃密后门投毒](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647799026&idx=1&sn=1729fca9f605b1ead40156146881a6cd)
-- 迪哥讲事
-  - [1day:可实现Nginx服务器完全控制](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499371&idx=1&sn=32c47ad71d300fe9cbe182df852f982c)
+- 字节跳动技术团队
+  - [告别OpenClaw运维盲区：火山引擎日志服务TLS一键开启全景观测](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247519455&idx=1&sn=6e82259aa596557beefc85e20e90b7e5)
 - SANS Internet Storm Center, InfoCON: green
   - [Apple Patches Exploited Notification Flaw, (Thu, Apr 23rd)](https://isc.sans.edu/diary/rss/32922)
   - [ISC Stormcast For Thursday, April 23rd, 2026 https://isc.sans.edu/podcastdetail/9904, (Thu, Apr 23rd)](https://isc.sans.edu/diary/rss/32920)
+- Schneier on Security
+  - [FBI Extracts Deleted Signal Messages from iPhone Notification Database](https://www.schneier.com/blog/archives/2026/04/fbi-extracts-deleted-signal-messages-from-iphone-notification-database.html)
+- Future of Tech and Security: Strategy & Innovation with Raffy
+  - [How to Build an AI Company Now](https://raffy.ch/blog/2026/04/23/how-to-build-an-ai-company-now/)
+- Google Online Security Blog
+  - [AI threats in the wild: The current state of prompt injections on the web](http://security.googleblog.com/2026/04/ai-threats-in-wild-current-state-of.html)
+- 悬镜安全
+  - [AI投毒情报预警 | Xinference国产推理框架遭受供应链窃密后门投毒](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647799026&idx=1&sn=1729fca9f605b1ead40156146881a6cd)
 - CNVD漏洞平台
   - [Oracle发布2026年4月的安全公告](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496861&idx=1&sn=e84728250c6c7e960ff202fd58a47932)
+- BorderGate
+  - [Cloudfront C2 Redirectors](https://www.bordergate.co.uk/cloudfront-c2-redirectors/)
+- Tor Project blog
+  - [New Release: Tails 7.7](https://blog.torproject.org/new-release-tails-7_7/)
+- Security Affairs
+  - [Luxury cosmetics giant Rituals discloses data breach impacting member personal details](https://securityaffairs.com/191192/data-breach/rituals-discloses-a-data-breach-impacting-member-personal-details.html)
+  - [iOS Flaw Let Deleted Notifications Linger, Apple Issues Fix](https://securityaffairs.com/191183/mobile-2/ios-flaw-let-deleted-notifications-linger-apple-issues-fix.html)
+  - [RAMP Uncovered: Anatomy of Russia’s Ransomware Marketplace](https://securityaffairs.com/191171/cyber-crime/ramp-uncovered-anatomy-of-russias-ransomware-marketplace.html)
+  - [U.S. CISA adds a flaw in Microsoft Defender to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/191164/hacking/u-s-cisa-adds-a-flaw-in-microsoft-defender-to-its-known-exploited-vulnerabilities-catalog.html)
+  - [Microsoft Graph API misused by new GoGra Linux malware for hidden communication](https://securityaffairs.com/191153/uncategorized/microsoft-graph-api-misused-by-new-gogra-linux-malware-for-hidden-communication.html)
+- 安全419
+  - [安全419｜一周国际网安资讯：AI写漏洞 古典漏洞重燃](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247553069&idx=1&sn=4f36887e769ae2f6329b6252ae7cc0d0)
+  - [ISC.AI 2026 创新独角兽沙盒大赛启幕 三大赛道聚焦智能体创新](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247553069&idx=2&sn=e667f1737c79c0617d05da71ac2d73c7)
 - The Hacker News
   - [UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware](https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html)
   - [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html)
@@ -210,22 +227,9 @@
   - [China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors](https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html)
   - [Vercel Finds More Compromised Accounts in Context.ai-Linked Breach](https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html)
   - [Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages](https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html)
-- Security Affairs
-  - [Luxury cosmetics giant Rituals discloses data breach impacting member personal details](https://securityaffairs.com/191192/data-breach/rituals-discloses-a-data-breach-impacting-member-personal-details.html)
-  - [iOS Flaw Let Deleted Notifications Linger, Apple Issues Fix](https://securityaffairs.com/191183/mobile-2/ios-flaw-let-deleted-notifications-linger-apple-issues-fix.html)
-  - [RAMP Uncovered: Anatomy of Russia’s Ransomware Marketplace](https://securityaffairs.com/191171/cyber-crime/ramp-uncovered-anatomy-of-russias-ransomware-marketplace.html)
-  - [U.S. CISA adds a flaw in Microsoft Defender to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/191164/hacking/u-s-cisa-adds-a-flaw-in-microsoft-defender-to-its-known-exploited-vulnerabilities-catalog.html)
-  - [Microsoft Graph API misused by new GoGra Linux malware for hidden communication](https://securityaffairs.com/191153/uncategorized/microsoft-graph-api-misused-by-new-gogra-linux-malware-for-hidden-communication.html)
 - Deeplinks
   - [EFF to 9th Circuit (Again): App Stores Shouldn’t Be Liable for Processing Payments for User Content](https://www.eff.org/deeplinks/2026/04/eff-9th-circuit-again-app-stores-shouldnt-be-liable-processing-payments-user)
   - [Speaking Freely: Lizzie O'Shea](https://www.eff.org/deeplinks/2026/04/speaking-freely-lizzie-oshea)
-- BorderGate
-  - [Cloudfront C2 Redirectors](https://www.bordergate.co.uk/cloudfront-c2-redirectors/)
-- Tor Project blog
-  - [New Release: Tails 7.7](https://blog.torproject.org/new-release-tails-7_7/)
-- 安全419
-  - [安全419｜一周国际网安资讯：AI写漏洞 古典漏洞重燃](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247553069&idx=1&sn=4f36887e769ae2f6329b6252ae7cc0d0)
-  - [ISC.AI 2026 创新独角兽沙盒大赛启幕 三大赛道聚焦智能体创新](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247553069&idx=2&sn=e667f1737c79c0617d05da71ac2d73c7)
 - Security Weekly Podcast Network (Audio)
   - [Back to (or Start) Fundamentals? - Rajesh Khazanchi - PSW #923](http://sites.libsyn.com/18678/back-to-or-start-fundamentals-rajesh-khazanchi-psw-923)
 - 网安寻路人
