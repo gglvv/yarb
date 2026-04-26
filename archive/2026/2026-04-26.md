@@ -4,10 +4,10 @@
   - [Zine#48](https://taxodium.ink/48.html)
 - Recent Commits to cve:main
   - [Update Sat Apr 25 11:17:36 UTC 2026](https://github.com/trickest/cve/commit/9733d452205b3f3e33d9bbc952cdffb32eb08139)
-- 博客
-  - [Sectors and Clusters](https://dyrnq.com/sectors-and-clusters/)
 - SecWiki News
   - [SecWiki News 2026-04-25 Review](http://www.sec-wiki.com/?2026-04-25)
+- 博客
+  - [Sectors and Clusters](https://dyrnq.com/sectors-and-clusters/)
 - Sucuri Blog
   - [My Website Is Hosting a Phishing Page – Now What?](https://blog.sucuri.net/2026/04/my-website-is-hosting-a-phishing-page-now-what.html)
 - Reverse Engineering
@@ -21,67 +21,66 @@
   - [SpaceX、安杜里尔等12家公司获“金穹”合同](https://blog.upx8.com/SpaceX-%E5%AE%89%E6%9D%9C%E9%87%8C%E5%B0%94%E7%AD%8912%E5%AE%B6%E5%85%AC%E5%8F%B8%E8%8E%B7-%E9%87%91%E7%A9%B9-%E5%90%88%E5%90%8C)
   - [维基媒体与印度尼西亚达成妥协以避免被屏蔽](https://blog.upx8.com/%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E4%B8%8E%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E8%BE%BE%E6%88%90%E5%A6%A5%E5%8D%8F%E4%BB%A5%E9%81%BF%E5%85%8D%E8%A2%AB%E5%B1%8F%E8%94%BD)
   - [美国国务院就中国企业窃取美国AI技术一事向中国发出外交照会](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%B0%B1%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E7%AA%83%E5%8F%96%E7%BE%8E%E5%9B%BDAI%E6%8A%80%E6%9C%AF%E4%B8%80%E4%BA%8B%E5%90%91%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%87%BA%E5%A4%96%E4%BA%A4%E7%85%A7%E4%BC%9A)
-  - [iPhone 18 或将配备 12GB 内存](https://blog.upx8.com/iPhone-18-%E6%88%96%E5%B0%86%E9%85%8D%E5%A4%87-12GB-%E5%86%85%E5%AD%98)
-- 黑鸟
-  - [英国政府发布全球首款显示接口安全设备SilentGlass](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186523&idx=1&sn=439c40fe91a71cdd1368a19b1ef8d6d2)
-- 安全学术圈
-  - [IEEE成都分会 | AI智能体在学术研究中的应用](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495302&idx=1&sn=0e6ee52b5f1994f8ab0a1e0bba37e3ab)
-- 丁爸 情报分析师的工具箱
-  - [【资料】美国陆军情报专员的入职条件](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155260&idx=1&sn=0fff72caa69b4bdc5e221f449a204e45)
-  - [【资料】2008至2024年间欧洲已定罪间谍案例研究](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155260&idx=2&sn=b7fbb58c331b312c98210996a9deb19d)
 - 奇客Solidot–传递最新科技情报
   - [座头鲸数量恢复，形成大规模超群](https://www.solidot.org/story?sid=84150)
   - [三星移动业务可能首次出现亏损](https://www.solidot.org/story?sid=84149)
   - [挪威计划禁止 16 岁以下儿童使用社交媒体](https://www.solidot.org/story?sid=84148)
   - [韩国逮捕一名发布逃跑公狼 AI 照片的男子](https://www.solidot.org/story?sid=84147)
   - [科技公司如何走向邪恶](https://www.solidot.org/story?sid=84146)
+- 黑鸟
+  - [英国政府发布全球首款显示接口安全设备SilentGlass](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186523&idx=1&sn=439c40fe91a71cdd1368a19b1ef8d6d2)
 - 看雪学苑
   - [浅谈梯度分析与样本对抗：以vlm和ddddocr为例](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614097&idx=1&sn=d1d38a7c3c3ff32cbc9fb880310e6973)
   - [重磅新课！基于CVD的云手机定制与风控分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614097&idx=2&sn=c6d225753223a25b5e21f76289126f4d)
-- 极客公园
-  - [华为 Pura X Max 深度体验：比起「阔折」，「主动式 AI」更吸引我](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104777&idx=1&sn=1f12a66417c16f90cc5887156f98d30a)
-  - [豆包上线「帮你选」功能； 5999 元，泡泡玛特首推冰箱；高铁试点「坐火车带自行车」 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104706&idx=1&sn=3464e3f14e1956ba44b5ee8782b1e42f)
 - 奇安信 CERT
   - [今日（2026年04月25日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505395&idx=1&sn=a5431ef0adac64038847f523795a947c)
+- 安全学术圈
+  - [IEEE成都分会 | AI智能体在学术研究中的应用](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495302&idx=1&sn=0e6ee52b5f1994f8ab0a1e0bba37e3ab)
+- 丁爸 情报分析师的工具箱
+  - [【资料】美国陆军情报专员的入职条件](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155260&idx=1&sn=0fff72caa69b4bdc5e221f449a204e45)
+  - [【资料】2008至2024年间欧洲已定罪间谍案例研究](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155260&idx=2&sn=b7fbb58c331b312c98210996a9deb19d)
 - 情报小蜜蜂
   - [南海不只是博弈，更是开发：中国到底推进到什么阶段了？](https://mp.weixin.qq.com/s?__biz=MzU0NjY5ODQ3Mw==&mid=2247486035&idx=1&sn=4c6b10b9cb29d06e95de279af89dec74)
+- RedTeaming
+  - [Self-Evolving Kill Chain：Agent自适应进化与实战](https://mp.weixin.qq.com/s?__biz=MzUyMDgzMDMyMg==&mid=2247484686&idx=1&sn=941ebf62a4bd44ca197dd4d5dc9778aa)
 - 安全圈
   - [【安全圈】美国家庭安防巨头 ADT 被黑客勒索，大量客户数据泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075996&idx=1&sn=421380f14f3ee130f56c4f1cbcca9e6c)
   - [【安全圈】存在12年之久的Pack2TheRoot漏洞允许Linux用户获取root权限](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075996&idx=2&sn=9ef45ec99e970a6bf4e6c4b5d170a1c6)
   - [【安全圈】黑客利用 Telegram 机器人追踪 900 余次成功的 React2Shell 漏洞利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652075996&idx=3&sn=3889d86cde91acd668a715177a3327c2)
-- RedTeaming
-  - [Self-Evolving Kill Chain：Agent自适应进化与实战](https://mp.weixin.qq.com/s?__biz=MzUyMDgzMDMyMg==&mid=2247484686&idx=1&sn=941ebf62a4bd44ca197dd4d5dc9778aa)
+- 极客公园
+  - [华为 Pura X Max 深度体验：比起「阔折」，「主动式 AI」更吸引我](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104777&idx=1&sn=1f12a66417c16f90cc5887156f98d30a)
+  - [豆包上线「帮你选」功能； 5999 元，泡泡玛特首推冰箱；高铁试点「坐火车带自行车」 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104706&idx=1&sn=3464e3f14e1956ba44b5ee8782b1e42f)
+- LastKnight.com Feed
+  - [La Repubblica Tecnologica di Palantir: il manifesto che ridisegna l’Occidente](https://mgpf.it/2026/04/25/la-repubblica-tecnologica-di-palantir.html)
 - 安全行者老霍
   - [将人工智能安全运营落地 -- 企业面临的下一大挑战](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486530&idx=1&sn=dc97328ed604326e543d6bd99bcedb0f)
 - Desync InfoSec
   - [你的AI知道你几点上班：MCP Server的元数据嗅探风险](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490204&idx=1&sn=c5488cf34ecb5b0a1ea1ef4d98fb2398)
   - [MCP协议的阿喀琉斯之踵：Server冒充与资源劫持](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490204&idx=2&sn=3efff55d8cf6d39a8a1f1ef7634470d2)
-- LastKnight.com Feed
-  - [La Repubblica Tecnologica di Palantir: il manifesto che ridisegna l’Occidente](https://mgpf.it/2026/04/25/la-repubblica-tecnologica-di-palantir.html)
 - Rasta Mouse
   - [Atomic BOFs](https://rastamouse.me/atomic-bofs/)
-- Computer Forensics
-  - [From QR to Threat Identification in one Click](https://www.reddit.com/r/computerforensics/comments/1svdypz/from_qr_to_threat_identification_in_one_click/)
-- Daniel Miessler
-  - [A Conversation With Claude on Deutsch, Knowledge, and the PAI Algorithm](https://danielmiessler.com/blog/conversation-with-claude-on-deutsch-and-the-pai-algorithm?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- Information Security
-  - [64% of users have an AI extension that quietly changed its permissions in the last year. Including probably you.](https://www.reddit.com/r/Information_Security/comments/1svr3ie/64_of_users_have_an_ai_extension_that_quietly/)
-  - [France Titres ANTS Data Breach: 11.7M Identity Records](https://www.reddit.com/r/Information_Security/comments/1svge0l/france_titres_ants_data_breach_117m_identity/)
-  - [Google took 70 days to remove "Music Downloader - VKsaver" after it was publicly disclosed as malware](https://www.reddit.com/r/Information_Security/comments/1svlh9v/google_took_70_days_to_remove_music_downloader/)
-- Your Open Hacker Community
-  - [Uma dúvida...](https://www.reddit.com/r/HowToHack/comments/1svh0ao/uma_dúvida/)
-  - [Bit locker issue](https://www.reddit.com/r/HowToHack/comments/1suxx34/bit_locker_issue/)
-  - [Is there an example of this subreddit actually helping someone?](https://www.reddit.com/r/HowToHack/comments/1sv2sy0/is_there_an_example_of_this_subreddit_actually/)
 - Security Affairs
   - [U.S. CISA adds SimpleHelp, Samsung, and D-Link flaws to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/191281/security/u-s-cisa-adds-simplehelp-samsung-and-d-link-flaws-to-its-known-exploited-vulnerabilities-catalog.html)
   - [Over 400,000 sites at risk as hackers exploit Breeze Cache plugin flaw (CVE-2026-3844)](https://securityaffairs.com/191267/uncategorized/over-400000-sites-at-risk-as-hackers-exploit-breeze-cache-plugin-flaw-cve-2026-3844.html)
   - [CISA reports persistent FIRESTARTER backdoor on Cisco ASA device in federal network](https://securityaffairs.com/191241/hacking/cisa-reports-persistent-firestarter-backdoor-on-cisco-asa-device-in-federal-network.html)
+- Your Open Hacker Community
+  - [Uma dúvida...](https://www.reddit.com/r/HowToHack/comments/1svh0ao/uma_dúvida/)
+  - [Bit locker issue](https://www.reddit.com/r/HowToHack/comments/1suxx34/bit_locker_issue/)
+  - [Is there an example of this subreddit actually helping someone?](https://www.reddit.com/r/HowToHack/comments/1sv2sy0/is_there_an_example_of_this_subreddit_actually/)
 - Technical Information Security Content & Discussion
   - [Large-scale security audit of 1,764 "vibe-coded" apps: 7% have wide-open Supabase DBs, 15% of Bolt apps ship hardcoded API keys, plus IDOR and zero-auth APIs](https://www.reddit.com/r/netsec/comments/1sv6gty/largescale_security_audit_of_1764_vibecoded_apps/)
   - [Attempting to evade an AI SOC with offensive agents](https://www.reddit.com/r/netsec/comments/1svfqfe/attempting_to_evade_an_ai_soc_with_offensive/)
 - netsecstudents: Subreddit for students studying Network Security and its related subjects
   - [Freshman in CS Interested in Cybersecurity/Networking](https://www.reddit.com/r/netsecstudents/comments/1svjw41/freshman_in_cs_interested_in/)
   - [Deribit (via HackerOne) silently patched my critical, violated Fast Payment badge, ghosted me for 70+ days — any advice?](https://www.reddit.com/r/netsecstudents/comments/1sv6td3/deribit_via_hackerone_silently_patched_my/)
+- Daniel Miessler
+  - [A Conversation With Claude on Deutsch, Knowledge, and the PAI Algorithm](https://danielmiessler.com/blog/conversation-with-claude-on-deutsch-and-the-pai-algorithm?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- Computer Forensics
+  - [From QR to Threat Identification in one Click](https://www.reddit.com/r/computerforensics/comments/1svdypz/from_qr_to_threat_identification_in_one_click/)
+- Information Security
+  - [64% of users have an AI extension that quietly changed its permissions in the last year. Including probably you.](https://www.reddit.com/r/Information_Security/comments/1svr3ie/64_of_users_have_an_ai_extension_that_quietly/)
+  - [France Titres ANTS Data Breach: 11.7M Identity Records](https://www.reddit.com/r/Information_Security/comments/1svge0l/france_titres_ants_data_breach_117m_identity/)
+  - [Google took 70 days to remove "Music Downloader - VKsaver" after it was publicly disclosed as malware](https://www.reddit.com/r/Information_Security/comments/1svlh9v/google_took_70_days_to_remove_music_downloader/)
 - The Hacker News
   - [Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software](https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html)
   - [CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline](https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html)
