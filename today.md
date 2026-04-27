@@ -1,5 +1,9 @@
 # 每日安全资讯（2026-04-27）
 
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [Insecure Permissions vulnerability in Nagios Network Analyzer v.2024R1.02-64 and before allows a local attacker to escalate pri](https://cxsecurity.com/issue/WLB-2026040019)
+  - [Samsung ONE Integer Overflow in CircleConst Tensor Size Calculation](https://cxsecurity.com/issue/WLB-2026040018)
+  - [solaredge-CSRF-OOB-Injection](https://cxsecurity.com/issue/WLB-2026040017)
 - InfoSec Write-ups - Medium
   - [SSH vs SSL/TLS — Lessons I Learned While Studying Cybersecurity and Solving Labs](https://infosecwriteups.com/ssh-vs-ssl-tls-lessons-i-learned-while-studying-cybersecurity-and-solving-labs-026ba83941b1?source=rss----7b722bfd1b8d---4)
   - [Why Phishing Still Works (Even If You Know About It)](https://infosecwriteups.com/why-phishing-still-works-even-if-you-know-about-it-74a0b4c2b8f5?source=rss----7b722bfd1b8d---4)
@@ -11,18 +15,14 @@
   - [Ehxb | Password Spraying Attacks on AD](https://infosecwriteups.com/ehxb-password-spraying-attacks-on-ad-46607fc4781b?source=rss----7b722bfd1b8d---4)
   - [How A Simple Bug That Refused to Die, Paid Twice.](https://infosecwriteups.com/how-a-simple-bug-that-refused-to-die-paid-twice-80752e4d5ec5?source=rss----7b722bfd1b8d---4)
   - [CVE Stack Monitor — Get Alerted on CVEs That Hit Your Exact Infrastructure](https://infosecwriteups.com/cve-stack-monitor-get-alerted-on-cves-that-hit-your-exact-infrastructure-bb7c2322e30f?source=rss----7b722bfd1b8d---4)
-- CXSECURITY Database RSS Feed - CXSecurity.com
-  - [Insecure Permissions vulnerability in Nagios Network Analyzer v.2024R1.02-64 and before allows a local attacker to escalate pri](https://cxsecurity.com/issue/WLB-2026040019)
-  - [Samsung ONE Integer Overflow in CircleConst Tensor Size Calculation](https://cxsecurity.com/issue/WLB-2026040018)
-  - [solaredge-CSRF-OOB-Injection](https://cxsecurity.com/issue/WLB-2026040017)
-- Recent Commits to cve:main
-  - [Update Sun Apr 26 11:18:36 UTC 2026](https://github.com/trickest/cve/commit/b2b7be74780fb8a8e3ccfb1f8a47689f065fd5da)
-- ongoing by Tim Bray
-  - [Corey’s Captives](https://www.tbray.org/ongoing/When/202x/2026/04/26/Coreys-Captives)
-- SecWiki News
-  - [SecWiki News 2026-04-26 Review](http://www.sec-wiki.com/?2026-04-26)
 - 博客
   - [ZHITAI Ti600 4T nvme0n1 critical medium error, dev nvme0n1 Media and Data Integrity Errors](https://dyrnq.com/zhitai-ti600-4t-nvme0n1-critical-medium-error-dev-nvme0n1-media-and-data-integrity-errors/)
+- Recent Commits to cve:main
+  - [Update Sun Apr 26 11:18:36 UTC 2026](https://github.com/trickest/cve/commit/b2b7be74780fb8a8e3ccfb1f8a47689f065fd5da)
+- SecWiki News
+  - [SecWiki News 2026-04-26 Review](http://www.sec-wiki.com/?2026-04-26)
+- ongoing by Tim Bray
+  - [Corey’s Captives](https://www.tbray.org/ongoing/When/202x/2026/04/26/Coreys-Captives)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [How to Learn Web & API Hacking in 2026: The Complete Roadmap](https://infosecwriteups.com/how-to-learn-web-api-hacking-in-2026-the-complete-roadmap-4225510adf4d?source=rss----7b722bfd1b8d--bug_bounty)
   - [How A Simple Bug That Refused to Die, Paid Twice.](https://infosecwriteups.com/how-a-simple-bug-that-refused-to-die-paid-twice-80752e4d5ec5?source=rss----7b722bfd1b8d--bug_bounty)
@@ -31,62 +31,65 @@
   - [Importing GTA IV texture dictionary natively in Unreal](https://www.reddit.com/r/ReverseEngineering/comments/1svvfrk/importing_gta_iv_texture_dictionary_natively_in/)
 - Checkmarx
   - [Checkmarx Security Update: April 26](https://checkmarx.com/blog/checkmarx-security-update-april-26/)
+- 奇客Solidot–传递最新科技情报
+  - [Peter Thiel 移居阿根廷](https://www.solidot.org/story?sid=84153)
+  - [特朗普解雇了美国国家科学委员会所有 24 名成员](https://www.solidot.org/story?sid=84152)
+  - [AI 是一种压迫性技术](https://www.solidot.org/story?sid=84151)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [OpenAI CEO向塔姆伯勒里奇社区道歉](https://blog.upx8.com/OpenAI-CEO%E5%90%91%E5%A1%94%E5%A7%86%E4%BC%AF%E5%8B%92%E9%87%8C%E5%A5%87%E7%A4%BE%E5%8C%BA%E9%81%93%E6%AD%89)
   - [中国火星探测器计划2031年前后带回火星样品](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E7%81%AB%E6%98%9F%E6%8E%A2%E6%B5%8B%E5%99%A8%E8%AE%A1%E5%88%922031%E5%B9%B4%E5%89%8D%E5%90%8E%E5%B8%A6%E5%9B%9E%E7%81%AB%E6%98%9F%E6%A0%B7%E5%93%81)
   - [何小鹏：希望把飞行汽车卖到全球更多国家](https://blog.upx8.com/%E4%BD%95%E5%B0%8F%E9%B9%8F-%E5%B8%8C%E6%9C%9B%E6%8A%8A%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E5%8D%96%E5%88%B0%E5%85%A8%E7%90%83%E6%9B%B4%E5%A4%9A%E5%9B%BD%E5%AE%B6)
   - [马自达将结束“马自达2”日本国内生产与销售](https://blog.upx8.com/%E9%A9%AC%E8%87%AA%E8%BE%BE%E5%B0%86%E7%BB%93%E6%9D%9F-%E9%A9%AC%E8%87%AA%E8%BE%BE2-%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%86%85%E7%94%9F%E4%BA%A7%E4%B8%8E%E9%94%80%E5%94%AE)
-  - [AI热潮导致加价Mac mini涌入eBay市场](https://blog.upx8.com/AI%E7%83%AD%E6%BD%AE%E5%AF%BC%E8%87%B4%E5%8A%A0%E4%BB%B7Mac-mini%E6%B6%8C%E5%85%A5eBay%E5%B8%82%E5%9C%BA)
-  - [美国缅因州州长否决数据中心暂停令](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E7%BC%85%E5%9B%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E5%90%A6%E5%86%B3%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%9A%82%E5%81%9C%E4%BB%A4)
-  - [《降世神通：最后的气宗》电影版泄露嫌犯已被逮捕](https://blog.upx8.com/%E9%99%8D%E4%B8%96%E7%A5%9E%E9%80%9A-%E6%9C%80%E5%90%8E%E7%9A%84%E6%B0%94%E5%AE%97-%E7%94%B5%E5%BD%B1%E7%89%88%E6%B3%84%E9%9C%B2%E5%AB%8C%E7%8A%AF%E5%B7%B2%E8%A2%AB%E9%80%AE%E6%8D%95)
-  - [造谣雷军“被围堵维权”者被行拘十日](https://blog.upx8.com/%E9%80%A0%E8%B0%A3%E9%9B%B7%E5%86%9B-%E8%A2%AB%E5%9B%B4%E5%A0%B5%E7%BB%B4%E6%9D%83-%E8%80%85%E8%A2%AB%E8%A1%8C%E6%8B%98%E5%8D%81%E6%97%A5)
-  - [美国产原油运抵日本 中东局势恶化后尚属首次](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E4%BA%A7%E5%8E%9F%E6%B2%B9%E8%BF%90%E6%8A%B5%E6%97%A5%E6%9C%AC-%E4%B8%AD%E4%B8%9C%E5%B1%80%E5%8A%BF%E6%81%B6%E5%8C%96%E5%90%8E%E5%B0%9A%E5%B1%9E%E9%A6%96%E6%AC%A1)
-  - [大疆在北京市将全面下架无人机产品](https://blog.upx8.com/%E5%A4%A7%E7%96%86%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%B8%82%E5%B0%86%E5%85%A8%E9%9D%A2%E4%B8%8B%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%BA%A7%E5%93%81)
 - 黑鸟
   - [如何通过漏洞组合链为工控平台CODESYS植入后门](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186537&idx=1&sn=3ccf3691425dab440a91a09009211e4a)
+- 丁爸 情报分析师的工具箱
+  - [【资料】反情报分析作为一门基础且严谨的科学：传统技术手段模式的终结](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155291&idx=1&sn=371eae6dfdf9e3ca7443463fbde41483)
+  - [【资料】被公开通缉的“台独”已达64个](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155291&idx=2&sn=eae5a5e92febea7c6b616209410e2809)
 - 奇安信 CERT
   - [今日（2026年4月26日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505416&idx=1&sn=636e54844098a4c16540cd568eab6150)
 - 情报小蜜蜂
   - [北极在"哭泣"，中国在"听"——冰川消融背后的中国北极机遇](https://mp.weixin.qq.com/s?__biz=MzU0NjY5ODQ3Mw==&mid=2247486040&idx=1&sn=4ecb495a8d0c9fc2b7f55197235e1f6a)
-- 丁爸 情报分析师的工具箱
-  - [【资料】反情报分析作为一门基础且严谨的科学：传统技术手段模式的终结](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155291&idx=1&sn=371eae6dfdf9e3ca7443463fbde41483)
-  - [【资料】被公开通缉的“台独”已达64个](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155291&idx=2&sn=eae5a5e92febea7c6b616209410e2809)
+- 软件安全与逆向分析
+  - [iOS虚拟手机实现能力现状](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485134&idx=1&sn=9577361b5573c62a0b05424afff04237)
+- 国家互联网应急中心CNCERT
+  - [关于发布第十一届CNCERT网络安全应急服务支撑单位遴选结果的通知](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501522&idx=1&sn=70d2df6473e2240f8faf59b6fd533659)
+  - [汇聚行业力量，共筑国家网络安全屏障——第十一届CNCERT网络安全应急服务支撑单位遴选侧记](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501521&idx=1&sn=7aabdf1e0de37624953596f90402f353)
+- 安全行者老霍
+  - [多操作系统网络攻击：安全运营中心三步关闭严重风险](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486539&idx=1&sn=35f82e85288ad695dce3c1a8a9adfe8a)
+- 极客公园
+  - [DeepSeek-V4-Pro 开启 API 限时 2.5 折优惠；苹果地图植入广告；座头鲸数量恢复，形成大规模超群 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104794&idx=1&sn=bc0404aa625fdd55a9c801cb86950337)
 - 中国信息安全
   - [视频｜第三届“长城杯”网数智安全大赛（防护赛）决赛即将启幕](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261897&idx=1&sn=760a58de462d9837ef7c904c1af60d94)
+- dotNet安全矩阵
+  - [通过反射深入理解 .NET 运行时动态操作类型](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500970&idx=1&sn=82a630d9cb0ada0d65913ca57281864f)
+  - [一文读懂 .NET 中的全局 Global.asax 文件](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500970&idx=2&sn=31c31e31631b3303dacded887c26c0bb)
+- Have I Been Pwned latest breaches
+  - [Udemy - 1,401,259 breached accounts](https://haveibeenpwned.com/Breach/Udemy)
+- Luca Mercatanti
+  - [Malware nascosto in un finto JPG: analisi forense di un attacco moderno](https://luca-mercatanti.com/malware-nascosto-in-un-finto-jpg-analisi-forense-di-un-attacco-moderno/?utm_source=rss&utm_medium=rss&utm_campaign=malware-nascosto-in-un-finto-jpg-analisi-forense-di-un-attacco-moderno)
 - 安全圈
   - [【安全圈】89TB数据灰飞烟灭！北京一科技公司工程师“删库”获刑5年](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076007&idx=1&sn=6a6eff1e09bd7d67b20d20ee06a2fd39)
   - [【安全圈】男子利用公安内部系统卖个人信息 非法获利被判刑](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076007&idx=2&sn=09ae1d9ef07438cdb39cedb748421211)
   - [【安全圈】装机必备的GPU-Z出事了！曝出严重安全漏洞：黑客可获取系统最高权限](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076007&idx=3&sn=7b7cd810015615c15d6232964cb06d5f)
-- 国家互联网应急中心CNCERT
-  - [关于发布第十一届CNCERT网络安全应急服务支撑单位遴选结果的通知](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501522&idx=1&sn=70d2df6473e2240f8faf59b6fd533659)
-  - [汇聚行业力量，共筑国家网络安全屏障——第十一届CNCERT网络安全应急服务支撑单位遴选侧记](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501521&idx=1&sn=7aabdf1e0de37624953596f90402f353)
-- 极客公园
-  - [DeepSeek-V4-Pro 开启 API 限时 2.5 折优惠；苹果地图植入广告；座头鲸数量恢复，形成大规模超群 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104794&idx=1&sn=bc0404aa625fdd55a9c801cb86950337)
-- 软件安全与逆向分析
-  - [iOS虚拟手机实现能力现状](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485134&idx=1&sn=9577361b5573c62a0b05424afff04237)
-- 安全行者老霍
-  - [多操作系统网络攻击：安全运营中心三步关闭严重风险](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486539&idx=1&sn=35f82e85288ad695dce3c1a8a9adfe8a)
 - IT Service Management News
   - [Bozze standard ETSI per CRA](http://blog.cesaregallotti.it/2026/04/bozze-standard-etsi-per-cra.html)
-- Luca Mercatanti
-  - [Malware nascosto in un finto JPG: analisi forense di un attacco moderno](https://luca-mercatanti.com/malware-nascosto-in-un-finto-jpg-analisi-forense-di-un-attacco-moderno/?utm_source=rss&utm_medium=rss&utm_campaign=malware-nascosto-in-un-finto-jpg-analisi-forense-di-un-attacco-moderno)
-- Information Security
-  - [GopherWhisper: China's New APT Hides 7 Backdoors Inside Slack, Discord and Outlook](https://www.reddit.com/r/Information_Security/comments/1swadxu/gopherwhisper_chinas_new_apt_hides_7_backdoors/)
-  - [Anyone actually keeping track of all their SaaS integrations](https://www.reddit.com/r/Information_Security/comments/1sw0pcl/anyone_actually_keeping_track_of_all_their_saas/)
-- Blackhat Library: Hacking techniques and research
-  - [SOC analysts — how bad is alert fatigue actually?](https://www.reddit.com/r/blackhat/comments/1swcykl/soc_analysts_how_bad_is_alert_fatigue_actually/)
-- Your Open Hacker Community
-  - [Will reverse engineering games help me grow?](https://www.reddit.com/r/HowToHack/comments/1sw4fet/will_reverse_engineering_games_help_me_grow/)
-  - [Why are SQL, HTML, and JS prone to injection while C, C++, Java, and Python aren't ?](https://www.reddit.com/r/HowToHack/comments/1swmwap/why_are_sql_html_and_js_prone_to_injection_while/)
-  - [transition from developer to hacking need help!](https://www.reddit.com/r/HowToHack/comments/1swe1af/transition_from_developer_to_hacking_need_help/)
-  - [Avoiding being detected by AI detctors](https://www.reddit.com/r/HowToHack/comments/1sweqk4/avoiding_being_detected_by_ai_detctors/)
-  - [Can Someone Show Me Step By Step To Hack](https://www.reddit.com/r/HowToHack/comments/1svu10y/can_someone_show_me_step_by_step_to_hack/)
 - Security Affairs
   - [Critical bug in CrowdStrike LogScale let attackers access files](https://securityaffairs.com/191343/hacking/critical-bug-in-crowdstrike-logscale-let-attackers-access-files.html)
   - [GopherWhisper: new China-linked APT targets Mongolia with Go-based malware](https://securityaffairs.com/191318/apt/gopherwhisper-new-china-linked-apt-targets-mongolia-with-go-based-malware.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 94](https://securityaffairs.com/191312/malware/security-affairs-malware-newsletter-round-94.html)
   - [Trigona ransomware adopts custom tool to steal data and evade detection](https://securityaffairs.com/191294/cyber-crime/trigona-ransomware-adopts-custom-tool-to-steal-data-and-evade-detection.html)
   - [Security Affairs newsletter Round 574 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/191305/breaking-news/security-affairs-newsletter-round-574-by-pierluigi-paganini-international-edition.html)
+- Blackhat Library: Hacking techniques and research
+  - [SOC analysts — how bad is alert fatigue actually?](https://www.reddit.com/r/blackhat/comments/1swcykl/soc_analysts_how_bad_is_alert_fatigue_actually/)
+- Your Open Hacker Community
+  - [Why are SQL, HTML, and JS prone to injection while C, C++, Java, and Python aren't ?](https://www.reddit.com/r/HowToHack/comments/1swmwap/why_are_sql_html_and_js_prone_to_injection_while/)
+  - [Will reverse engineering games help me grow?](https://www.reddit.com/r/HowToHack/comments/1sw4fet/will_reverse_engineering_games_help_me_grow/)
+  - [transition from developer to hacking need help!](https://www.reddit.com/r/HowToHack/comments/1swe1af/transition_from_developer_to_hacking_need_help/)
+  - [Avoiding being detected by AI detctors](https://www.reddit.com/r/HowToHack/comments/1sweqk4/avoiding_being_detected_by_ai_detctors/)
+  - [Can Someone Show Me Step By Step To Hack](https://www.reddit.com/r/HowToHack/comments/1svu10y/can_someone_show_me_step_by_step_to_hack/)
 - netsecstudents: Subreddit for students studying Network Security and its related subjects
   - [Breaking into SOC Tier 1 — does LinkedIn networking actually work or just annoy people?](https://www.reddit.com/r/netsecstudents/comments/1swh898/breaking_into_soc_tier_1_does_linkedin_networking/)
   - [Roast my CV — 2nd year Cybersecurity student, am I actually good enough for a Gulf internship or am I cooked?](https://www.reddit.com/r/netsecstudents/comments/1swdyv3/roast_my_cv_2nd_year_cybersecurity_student_am_i/)
+- Information Security
+  - [GopherWhisper: China's New APT Hides 7 Backdoors Inside Slack, Discord and Outlook](https://www.reddit.com/r/Information_Security/comments/1swadxu/gopherwhisper_chinas_new_apt_hides_7_backdoors/)
+  - [Anyone actually keeping track of all their SaaS integrations](https://www.reddit.com/r/Information_Security/comments/1sw0pcl/anyone_actually_keeping_track_of_all_their_saas/)
