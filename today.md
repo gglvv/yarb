@@ -1,43 +1,44 @@
 # 每日安全资讯（2026-05-02）
 
-- Microsoft Security Blog
-  - [Microsoft Agent 365, now generally available, expands capabilities and integrations](https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/)
-- SecWiki News
-  - [SecWiki News 2026-05-01 Review](http://www.sec-wiki.com/?2026-05-01)
-- Recent Commits to cve:main
-  - [Update Fri May  1 11:12:15 UTC 2026](https://github.com/trickest/cve/commit/70a78878f7c45a35f091b7f9a3af4d8f7dc01e0e)
 - Tenable Blog
   - [Vulnerability remediation: Match CVEs to asset owners in seconds with Tenable Hexa AI](https://www.tenable.com/blog/vulnerability-remediation-match-cves-to-asset-owners-in-seconds-with-tenable)
-- Sucuri Blog
-  - [Vulnerability & Patch Roundup — April 2026](https://blog.sucuri.net/2026/04/vulnerability-patch-roundup-april-2026.html)
+- SecWiki News
+  - [SecWiki News 2026-05-01 Review](http://www.sec-wiki.com/?2026-05-01)
 - Corelan | Exploit Development & Vulnerability Research
   - [Mona v3 Released: ⚡ Faster   🎯 Leaner   ⚙️ Broader](https://www.corelan.be/index.php/2026/05/01/mona-v3-released/)
-- Didier Stevens
-  - [Overview of Content Published in April](https://blog.didierstevens.com/2026/05/01/overview-of-content-published-in-april-10/)
+- Recent Commits to cve:main
+  - [Update Fri May  1 11:12:15 UTC 2026](https://github.com/trickest/cve/commit/70a78878f7c45a35f091b7f9a3af4d8f7dc01e0e)
 - Sucuri Blog
   - [Vulnerability & Patch Roundup — April 2026](https://blog.sucuri.net/2026/04/vulnerability-patch-roundup-april-2026.html)
-- Malwarebytes
-  - [Actively exploited cPanel bug exposes millions of websites to takeover](https://www.malwarebytes.com/blog/news/2026/05/actively-exploited-cpanel-bug-exposes-millions-of-websites-to-takeover)
+- Microsoft Security Blog
+  - [Microsoft Agent 365, now generally available, expands capabilities and integrations](https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/)
+- Didier Stevens
+  - [Overview of Content Published in April](https://blog.didierstevens.com/2026/05/01/overview-of-content-published-in-april-10/)
 - SentinelOne
   - [The Good, the Bad and the Ugly in Cybersecurity – Week 18](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-18-7/)
+- Malwarebytes
+  - [Actively exploited cPanel bug exposes millions of websites to takeover](https://www.malwarebytes.com/blog/news/2026/05/actively-exploited-cpanel-bug-exposes-millions-of-websites-to-takeover)
+- Reverse Engineering
+  - [/r/ReverseEngineering's Triannual Hiring Thread](https://www.reddit.com/r/ReverseEngineering/comments/1t0lwer/rreverseengineerings_triannual_hiring_thread/)
+  - [Why my macOS Messages badge lied to me (and the one-line fix)](https://www.reddit.com/r/ReverseEngineering/comments/1t11q6e/why_my_macos_messages_badge_lied_to_me_and_the/)
+  - [Running Adobe’s 1991 PostScript Interpreter in the Browser](https://www.reddit.com/r/ReverseEngineering/comments/1t0wqri/running_adobes_1991_postscript_interpreter_in_the/)
+  - [In-circuit NAND acquisition for edge devices (Raspberry Pi GPIO, no chip-off)](https://www.reddit.com/r/ReverseEngineering/comments/1t0l46l/incircuit_nand_acquisition_for_edge_devices/)
+  - [Hello! Here is my Oura Ring 4 pure Python driver! Let me know what you think :)](https://www.reddit.com/r/ReverseEngineering/comments/1t0w8sa/hello_here_is_my_oura_ring_4_pure_python_driver/)
 - PortSwigger Blog
   - [3 ways custom scan checks turn practitioner knowledge into scalable automation](https://portswigger.net/blog/3-ways-custom-scan-checks-turn-practitioner-knowledge-into-scalable-automation)
+- Sucuri Blog
+  - [Vulnerability & Patch Roundup — April 2026](https://blog.sucuri.net/2026/04/vulnerability-patch-roundup-april-2026.html)
 - PortSwigger Blog
   - [3 ways custom scan checks turn practitioner knowledge into scalable automation](https://portswigger.net/blog/3-ways-custom-scan-checks-turn-practitioner-knowledge-into-scalable-automation)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [泰勒的深伪视频正在TikTok上推销诈骗](https://blog.upx8.com/%E6%B3%B0%E5%8B%92%E7%9A%84%E6%B7%B1%E4%BC%AA%E8%A7%86%E9%A2%91%E6%AD%A3%E5%9C%A8TikTok%E4%B8%8A%E6%8E%A8%E9%94%80%E8%AF%88%E9%AA%97)
   - [Meta公司出手收编机器人AI初创公司](https://blog.upx8.com/Meta%E5%85%AC%E5%8F%B8%E5%87%BA%E6%89%8B%E6%94%B6%E7%BC%96%E6%9C%BA%E5%99%A8%E4%BA%BAAI%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8)
-  - [Ubuntu服务在遭遇DDoS攻击后出现中断](https://blog.upx8.com/Ubuntu%E6%9C%8D%E5%8A%A1%E5%9C%A8%E9%81%AD%E9%81%87DDoS%E6%94%BB%E5%87%BB%E5%90%8E%E5%87%BA%E7%8E%B0%E4%B8%AD%E6%96%AD)
-  - [商业短信“未经同意不得发送”，中国《通信短信息服务管理规定（修订）》今起正式施行](https://blog.upx8.com/%E5%95%86%E4%B8%9A%E7%9F%AD%E4%BF%A1-%E6%9C%AA%E7%BB%8F%E5%90%8C%E6%84%8F%E4%B8%8D%E5%BE%97%E5%8F%91%E9%80%81-%E4%B8%AD%E5%9B%BD-%E9%80%9A%E4%BF%A1%E7%9F%AD%E4%BF%A1%E6%81%AF%E6%9C%8D%E5%8A%A1%E7%AE%A1%E7%90%86%E8%A7%84%E5%AE%9A-%E4%BF%AE%E8%AE%A2-%E4%BB%8A%E8%B5%B7%E6%AD%A3%E5%BC%8F%E6%96%BD%E8%A1%8C)
-  - [FBI警告称中国黑客一旦离开本国就可能被捕](https://blog.upx8.com/FBI%E8%AD%A6%E5%91%8A%E7%A7%B0%E4%B8%AD%E5%9B%BD%E9%BB%91%E5%AE%A2%E4%B8%80%E6%97%A6%E7%A6%BB%E5%BC%80%E6%9C%AC%E5%9B%BD%E5%B0%B1%E5%8F%AF%E8%83%BD%E8%A2%AB%E6%8D%95)
-  - [PlayStation现在需要“一次性在线检查”来确认你拥有一款游戏](https://blog.upx8.com/PlayStation%E7%8E%B0%E5%9C%A8%E9%9C%80%E8%A6%81-%E4%B8%80%E6%AC%A1%E6%80%A7%E5%9C%A8%E7%BA%BF%E6%A3%80%E6%9F%A5-%E6%9D%A5%E7%A1%AE%E8%AE%A4%E4%BD%A0%E6%8B%A5%E6%9C%89%E4%B8%80%E6%AC%BE%E6%B8%B8%E6%88%8F)
-  - [日产暂停在美EV生产计划以应对需求减少](https://blog.upx8.com/%E6%97%A5%E4%BA%A7%E6%9A%82%E5%81%9C%E5%9C%A8%E7%BE%8EEV%E7%94%9F%E4%BA%A7%E8%AE%A1%E5%88%92%E4%BB%A5%E5%BA%94%E5%AF%B9%E9%9C%80%E6%B1%82%E5%87%8F%E5%B0%91)
 - 锦行科技
   - [五一・劳动｜耕耘不息，步履生辉](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494888&idx=1&sn=d1b899423cf51f49074dd6e0eee501bb)
-- 威努特安全网络
-  - [威努特五一假期业务保障通知](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651141496&idx=1&sn=7602c2efb653680e1379f802ea796abb)
 - 黑鸟
   - [一个定向窃取航空与关基GIS核心数据的黑客组织](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186595&idx=1&sn=1c7fbd0ae9a449192f080cb44c6c43dc)
+- 威努特安全网络
+  - [威努特五一假期业务保障通知](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651141496&idx=1&sn=7602c2efb653680e1379f802ea796abb)
 - 青衣十三楼飞花堂
   - [cmd中查找指定日期时间之后修改过的文件(续)](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489374&idx=1&sn=c38e5b9b8fd32da4534dc36f79c238e6)
 - 奇安信 CERT
@@ -48,12 +49,12 @@
   - [五一劳动节 | 礼赞劳动美 奋进新征程](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247503780&idx=1&sn=59c29e8a64fe21a189ab18e35a76f3a5)
 - 中国信息安全
   - [向每一位劳动者致敬！](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664262050&idx=1&sn=72177ed10f4c397f146cb0c7fe1a5393)
+- 网安杂谈
+  - [Copy Fail（CVE-2026-31431）：732字节脚本提权linux](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890306&idx=1&sn=8244399ea7d24e712ba1400604e6ad53)
 - 安全圈
   - [【安全圈】热门 WordPress 重定向插件暗藏休眠后门多年](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076105&idx=1&sn=014791e35769c28ca8e691db19b0fbfe)
   - [【安全圈】开源电子病历软件 OpenEMR 发现 38 个漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076105&idx=2&sn=69e1060f56966577b4e2d2a05cebb8cb)
   - [【安全圈】有缺陷的 VECT 2.0 勒索软件对大文件充当数据擦除器](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076105&idx=3&sn=632d44c8e211f46eb699616473906d78)
-- 网安杂谈
-  - [Copy Fail（CVE-2026-31431）：732字节脚本提权linux](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890306&idx=1&sn=8244399ea7d24e712ba1400604e6ad53)
 - 火绒安全
   - [劳动节 | 以劳致远 安心相伴](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532541&idx=1&sn=39f2a4af592f5d9674b6a6fbe66b6577)
   - [火绒小问答——「企业版」病毒查杀](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532541&idx=2&sn=8ddbe6a337d514498d0176ab7584af8c)
@@ -70,40 +71,69 @@
   - [每周高级威胁情报解读(2026.04.24~04.30)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518591&idx=1&sn=1f6824aab3a7d1d8efd041f9749d226e)
 - Microsoft Security Blog
   - [Microsoft Agent 365, now generally available, expands capabilities and integrations](https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/)
-- 360数字安全
-  - [五一劳动节：以坚守，护安全！](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585890&idx=1&sn=2cb8304b37742fcd25bd60fead856d3d)
 - Desync InfoSec
   - [微软深度解析：2026年Q1邮件威胁格局——83亿次钓鱼、二维码暴增146%、Tycoon2FA遭打击](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490294&idx=1&sn=5d1f9a89db6442a3683e6019f6d3a9ef)
-- 迪哥讲事
-  - [云存储桶可以实现列对象的一种绕过思路](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499387&idx=1&sn=bb5a25d0d00e22b80ceebc2162ec23c0)
+- 360数字安全
+  - [五一劳动节：以坚守，护安全！](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585890&idx=1&sn=2cb8304b37742fcd25bd60fead856d3d)
 - Have I Been Pwned latest breaches
   - [Aman - 215,563 breached accounts](https://haveibeenpwned.com/Breach/Aman)
-- Javvad Malik
-  - [Breach of Confidence 1 May 2026](https://javvadmalik.com/2026/05/01/breach-of-confidence-1-may-2026/)
-- 网安国际
-  - [关于举办“CCF-INFORSEC网络空间安全前沿创新论坛”的通知](https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652318210&idx=1&sn=941bfb0941b14baaeef3c22ea23e089e)
-- Krypt3ia
-  - [Islamic Cyber Resistance in Iraq 313 (ICR-313) Ubuntu DD0S Actor Profile](https://krypt3ia.wordpress.com/2026/05/01/islamic-cyber-resistance-in-iraq-313-icr-313-ubuntu-dd0s-actor-profile/)
-- ICT Security Magazine
-  - [Cyber diplomacy: verso un ordine internazionale del cyberspazio?](https://www.ictsecuritymagazine.com/articoli/cyber-diplomacy/)
 - NetSPI
   - [CVE-2026-41940 cPanel & WHM Authentication Bypass Overview and Takeaways](https://www.netspi.com/blog/executive-blog/critical-vulnerability/cve-2026-41940-cpanel-whm-authentication-bypass-overview-and-takeaways/)
+- Schneier on Security
+  - [A Ransomware Negotiator Was Working for a Ransomware Gang](https://www.schneier.com/blog/archives/2026/05/a-ransomware-negotiator-was-working-for-a-ransomware-gang.html)
+- 网安国际
+  - [关于举办“CCF-INFORSEC网络空间安全前沿创新论坛”的通知](https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652318210&idx=1&sn=941bfb0941b14baaeef3c22ea23e089e)
 - SANS Internet Storm Center, InfoCON: green
   - [Malicious Ad for Homebrew Leads to MacSync Stealer, (Fri, May 1st)](https://isc.sans.edu/diary/rss/32942)
   - [ISC Stormcast For Friday, May 1st, 2026 https://isc.sans.edu/podcastdetail/9914, (Fri, May 1st)](https://isc.sans.edu/diary/rss/32940)
+- 迪哥讲事
+  - [云存储桶可以实现列对象的一种绕过思路](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499387&idx=1&sn=bb5a25d0d00e22b80ceebc2162ec23c0)
+- Krypt3ia
+  - [Islamic Cyber Resistance in Iraq 313 (ICR-313) Ubuntu DD0S Actor Profile](https://krypt3ia.wordpress.com/2026/05/01/islamic-cyber-resistance-in-iraq-313-icr-313-ubuntu-dd0s-actor-profile/)
+- Javvad Malik
+  - [Breach of Confidence 1 May 2026](https://javvadmalik.com/2026/05/01/breach-of-confidence-1-may-2026/)
 - BorderGate
   - [Hell’s Gate](https://www.bordergate.co.uk/hells-gate/)
-- Schneier on Security
-  - [A Ransomware Negotiator Was Working for a Ransomware Gang](https://www.schneier.com/blog/archives/2026/05/a-ransomware-negotiator-was-working-for-a-ransomware-gang.html)
-- Security Affairs
-  - [Digital attacks drive a new wave of cargo theft, FBI says](https://securityaffairs.com/191556/cyber-crime/digital-attacks-drive-a-new-wave-of-cargo-theft-fbi-says.html)
-  - [Carding service Jerry’s Store leak exposes 345,000 stolen payment cards](https://securityaffairs.com/191536/cyber-crime/carding-service-jerrys-store-leak-exposes-345000-stolen-payment-cards.html)
-  - [Anthropic launches Claude Security to counter rapid AI-Powered exploits](https://securityaffairs.com/191532/ai/anthropic-launches-claude-security-to-counter-rapid-ai-powered-exploits.html)
-  - [SonicWall patches three SonicOS flaws in Gen 6, 7 and 8 firewalls. Patch them now](https://securityaffairs.com/191527/security/sonicwall-patches-three-sonicos-flaws-in-gen-6-7-and-8-firewalls-patch-them-now.html)
-- Deeplinks
-  - [A Bridge to Somewhere: How to Link Your Mastodon, Bluesky, or Other Federated Accounts](https://www.eff.org/deeplinks/2026/04/bridge-somewhere-how-link-your-mastodon-bluesky-or-other-federated-accounts)
+- ICT Security Magazine
+  - [Cyber diplomacy: verso un ordine internazionale del cyberspazio?](https://www.ictsecuritymagazine.com/articoli/cyber-diplomacy/)
+- Social Engineering
+  - [Book recommendations](https://www.reddit.com/r/SocialEngineering/comments/1t0sdft/book_recommendations/)
+- Daniel Miessler
+  - [Announcing PAI 5.0](https://danielmiessler.com/blog/announcing-pai-5-life-operating-system?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- 悬镜安全
+  - [紧急AI安全情报 | 热门AI训练框架Pytorch Lightning遭受窃密蠕虫后门投毒](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647799307&idx=1&sn=be2639498a624873b788f7415c163835)
+- Blackhat Library: Hacking techniques and research
+  - [Latest Technique for NAC Bypass](https://www.reddit.com/r/blackhat/comments/1t0tf4l/latest_technique_for_nac_bypass/)
+- Your Open Hacker Community
+  - [blogging about game hacking when trying get a job - good or bad idea?](https://www.reddit.com/r/HowToHack/comments/1t15vh9/blogging_about_game_hacking_when_trying_get_a_job/)
+  - [Salvaging an Arris ZC4430KNO (NOS UMA v2) - Any way to bypass "ID 04" error or flash stock Android TV?](https://www.reddit.com/r/HowToHack/comments/1t11lva/salvaging_an_arris_zc4430kno_nos_uma_v2_any_way/)
+  - [I’ve dropped out of university but I’m still a part of a uni-based club, who are asking me to pay a membership fee, but the only way for me to buy it is via the uni website, which I am now locked out of on my account so I can’t buy it. Is there a way for me to get into it, even if once, to pay it?](https://www.reddit.com/r/HowToHack/comments/1t18etr/ive_dropped_out_of_university_but_im_still_a_part/)
+  - [What are new ways from which you have been hacked ?](https://www.reddit.com/r/HowToHack/comments/1t11vzv/what_are_new_ways_from_which_you_have_been_hacked/)
+  - [Ubuntu sandbox to analyze potential malware](https://www.reddit.com/r/HowToHack/comments/1t0ec3b/ubuntu_sandbox_to_analyze_potential_malware/)
+  - [I need my old roblox account back](https://www.reddit.com/r/HowToHack/comments/1t0vs2f/i_need_my_old_roblox_account_back/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [(Repost) Urgent response needed for my thesis on dark web and digital forensics](https://www.reddit.com/r/netsecstudents/comments/1t10ls8/repost_urgent_response_needed_for_my_thesis_on/)
+  - [I was tired of needing an internet connection to practice web pentesting, so I built a 100% offline mobile simulator.](https://www.reddit.com/r/netsecstudents/comments/1t0y3l5/i_was_tired_of_needing_an_internet_connection_to/)
+- Information Security
+  - [For vulnerability research, smaller models run repeatedly can outperform larger frontier models on cost-to-recall.](https://www.reddit.com/r/Information_Security/comments/1t19kln/for_vulnerability_research_smaller_models_run/)
+  - [Exploitation windows are now 24-48 hours from disclosure. How are your patch processes holding up?](https://www.reddit.com/r/Information_Security/comments/1t0s05p/exploitation_windows_are_now_2448_hours_from/)
+  - [cPanel CVE-2026-41940 Authentication Bypass: Top Threats](https://www.reddit.com/r/Information_Security/comments/1t0xgfb/cpanel_cve202641940_authentication_bypass_top/)
+  - [[ Removed by Reddit ]](https://www.reddit.com/r/Information_Security/comments/1t0rihg/removed_by_reddit/)
+  - [What salary can I expect after completing cyber security training?](https://www.reddit.com/r/Information_Security/comments/1t0qwly/what_salary_can_i_expect_after_completing_cyber/)
+  - [In-circuit NAND acquisition for edge devices (Raspberry Pi GPIO, no chip-off)](https://www.reddit.com/r/Information_Security/comments/1t0l4ph/incircuit_nand_acquisition_for_edge_devices/)
 - T00ls安全
   - [致敬奋斗，礼赞劳动](https://mp.weixin.qq.com/s?__biz=Mzg3NzYzODU5NQ==&mid=2247485774&idx=1&sn=fece3c93537e29f3860f6125d124463d)
+- Computer Forensics
+  - [Copy Fail + Forensics](https://www.reddit.com/r/computerforensics/comments/1t1a0m7/copy_fail_forensics/)
+  - [The Long Game: MalChela v4.0](https://www.reddit.com/r/computerforensics/comments/1t0yp3o/the_long_game_malchela_v40/)
+  - [Is it possible to purchase a perpetual license for Magnet Axiom?](https://www.reddit.com/r/computerforensics/comments/1t14foq/is_it_possible_to_purchase_a_perpetual_license/)
+- Technical Information Security Content & Discussion
+  - [r/netsec monthly discussion & tool thread](https://www.reddit.com/r/netsec/comments/1t0thd8/rnetsec_monthly_discussion_tool_thread/)
+  - [For vulnerability research, smaller models run repeatedly can outperform larger frontier models on cost-to-recall.](https://www.reddit.com/r/netsec/comments/1t19hv7/for_vulnerability_research_smaller_models_run/)
+  - [Every incident public companies have disclosed to the SEC, in one searchable database](https://www.reddit.com/r/netsec/comments/1t18d9f/every_incident_public_companies_have_disclosed_to/)
+  - [Handled, Not Hosted: Administrative Activity Inside a Bulletproof Hoster](https://www.reddit.com/r/netsec/comments/1t0nif0/handled_not_hosted_administrative_activity_inside/)
+- Deeplinks
+  - [A Bridge to Somewhere: How to Link Your Mastodon, Bluesky, or Other Federated Accounts](https://www.eff.org/deeplinks/2026/04/bridge-somewhere-how-link-your-mastodon-bluesky-or-other-federated-accounts)
 - The Hacker News
   - [30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign](https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html)
   - [Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks](https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html)
@@ -111,9 +141,10 @@
   - [Top Five Sales Challenges Costing MSPs Cybersecurity Revenue](https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html)
   - [Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks](https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html)
   - [Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft](https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html)
-- 悬镜安全
-  - [紧急AI安全情报 | 热门AI训练框架Pytorch Lightning遭受窃密蠕虫后门投毒](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647799307&idx=1&sn=be2639498a624873b788f7415c163835)
-- Daniel Miessler
-  - [Announcing PAI 5.0](https://danielmiessler.com/blog/announcing-pai-5-life-operating-system?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- Security Affairs
+  - [Digital attacks drive a new wave of cargo theft, FBI says](https://securityaffairs.com/191556/cyber-crime/digital-attacks-drive-a-new-wave-of-cargo-theft-fbi-says.html)
+  - [Carding service Jerry’s Store leak exposes 345,000 stolen payment cards](https://securityaffairs.com/191536/cyber-crime/carding-service-jerrys-store-leak-exposes-345000-stolen-payment-cards.html)
+  - [Anthropic launches Claude Security to counter rapid AI-Powered exploits](https://securityaffairs.com/191532/ai/anthropic-launches-claude-security-to-counter-rapid-ai-powered-exploits.html)
+  - [SonicWall patches three SonicOS flaws in Gen 6, 7 and 8 firewalls. Patch them now](https://securityaffairs.com/191527/security/sonicwall-patches-three-sonicos-flaws-in-gen-6-7-and-8-firewalls-patch-them-now.html)
 - Security Weekly Podcast Network (Audio)
   - [DOS, Seneca the Younger, Outlook, CopyFail, cPanel, QR, Ruby, Go, Talkie, Josh Marpet - SWN #577](http://sites.libsyn.com/18678/dos-seneca-the-younger-outlook-copyfail-cpanel-qr-ruby-go-talkie-josh-marpet-swn-577)
