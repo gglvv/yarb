@@ -1,17 +1,17 @@
 # 每日安全资讯（2026-05-03）
 
-- SecWiki News
-  - [SecWiki News 2026-05-02 Review](http://www.sec-wiki.com/?2026-05-02)
-- Microsoft Security Blog
-  - [CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments](https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/)
-- Recent Commits to cve:main
-  - [Update Sat May  2 11:22:26 UTC 2026](https://github.com/trickest/cve/commit/8859c745e6c14d7d268e112d458ebba4f69118f1)
 - InfoSec Write-ups - Medium
   - [Ha-Natraj — LFI Log Poisoning + Apache2 User Hijack + sudo nmap to Root | OffSec PG Play](https://infosecwriteups.com/ha-natraj-lfi-log-poisoning-apache2-user-hijack-sudo-nmap-to-root-offsec-pg-play-dbbd1fa12bee?source=rss----7b722bfd1b8d---4)
   - [eCPPT Powershell for Pentesters INE’s CTF 1 : A Practical Attack Story](https://infosecwriteups.com/ecppt-powershell-for-pentesters-ines-ctf-1-a-practical-attack-story-cdb40c55d476?source=rss----7b722bfd1b8d---4)
   - [When Logout Isn’t Really Goodbye: A Subtle Data Exposure Bug.](https://infosecwriteups.com/when-logout-isnt-really-goodbye-a-subtle-data-exposure-bug-271b683ddb9a?source=rss----7b722bfd1b8d---4)
   - [TryHackMe Walkthrough: MBR and GPT Analysis (Beginner to Intermediate Guide)](https://infosecwriteups.com/before-windows-loads-the-hidden-boot-architecture-every-tech-person-should-understand-d2217d9b0b2b?source=rss----7b722bfd1b8d---4)
   - [PART 2: I Published a Scam Expose.](https://infosecwriteups.com/part-2-i-published-a-scam-expose-bc420e0bbc00?source=rss----7b722bfd1b8d---4)
+- Recent Commits to cve:main
+  - [Update Sat May  2 11:22:26 UTC 2026](https://github.com/trickest/cve/commit/8859c745e6c14d7d268e112d458ebba4f69118f1)
+- Microsoft Security Blog
+  - [CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments](https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/)
+- SecWiki News
+  - [SecWiki News 2026-05-02 Review](http://www.sec-wiki.com/?2026-05-02)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [When Logout Isn’t Really Goodbye: A Subtle Data Exposure Bug.](https://infosecwriteups.com/when-logout-isnt-really-goodbye-a-subtle-data-exposure-bug-271b683ddb9a?source=rss----7b722bfd1b8d--bug_bounty)
 - Dancho Danchev's Blog - Mind Streams of Information Security Knowledge
@@ -33,34 +33,34 @@
   - [利用Gay身份绕过大模型安全机制](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186602&idx=1&sn=bd1bef36613247148d82ca06fee540c8)
 - 奇安信 CERT
   - [今日（2026年5月2日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505535&idx=1&sn=c1754d49df01973d9cfcb9d0eabdef41)
+- M01N Team
+  - [5分钟原理分析，20分钟容器逃逸：ApexEye漏洞研究智能体自主攻破"Copy Fail"内核通杀漏洞](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495017&idx=1&sn=21e245531ce13c5507dd18dc05bd3663)
+- 数世咨询
+  - [报告简析：CISA发布OT零信任指南](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542775&idx=1&sn=b32e7853d55848c8627169878bd78a05)
+- 极客公园
+  - [iPhone Air 销量疲软，安卓厂商集体叫停超薄旗舰；佳能或将推出 Pocket 相机；腾讯增持游戏科学，持股达 24% | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653105123&idx=1&sn=0e8737cc434ec9bec91b2155ad778b19)
 - 安全圈
   - [【安全圈】十天 39 个公开 CVE](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076153&idx=1&sn=d3c400f4e823caa80aba5c0c20ec7201)
   - [【安全圈】苹果工程师忘删Claude.md文件被抓包：220万人次围观](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076153&idx=2&sn=82778e863de7cbd2d770bfc1b3795907)
   - [【安全圈】程序员→网安尖兵，他“一战成名”！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076153&idx=3&sn=973c2ec5797ddd58a381e31ccd5a15ea)
   - [【安全圈】新型Python后门DEEP#DOOR来袭：竟用公共隧道服务窃取云凭据](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076153&idx=4&sn=a09afed0d8ae385c412ac992be6489fe)
-- 数世咨询
-  - [报告简析：CISA发布OT零信任指南](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542775&idx=1&sn=b32e7853d55848c8627169878bd78a05)
-- 极客公园
-  - [iPhone Air 销量疲软，安卓厂商集体叫停超薄旗舰；佳能或将推出 Pocket 相机；腾讯增持游戏科学，持股达 24% | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653105123&idx=1&sn=0e8737cc434ec9bec91b2155ad778b19)
-- M01N Team
-  - [5分钟原理分析，20分钟容器逃逸：ApexEye漏洞研究智能体自主攻破"Copy Fail"内核通杀漏洞](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495017&idx=1&sn=21e245531ce13c5507dd18dc05bd3663)
+- Over Security - Cybersecurity news aggregator
+  - [Qilin Ransomware: Inside an 88-Day Intrusion](https://cxnrvd.hashnode.dev/operation-black-wing-a-qilin-ransomware-affiliate-engagement-against-an-east-african-logistics-provider)
 - 安全行者老霍
   - [IBM 推出网络安全服务以应对人工智能驱动的网络攻击](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486574&idx=1&sn=637c0fd6f13339ea03dd4f1c0d18710a)
 - Arturo Di Corinto
   - [Fnsi su istituzione Giornata in ricordo giornalisti uccisi](https://dicorinto.it/associazionismo/fnsi-su-istituzione-giornata-in-ricordo-giornalisti-uccisi/)
 - Have I Been Pwned latest breaches
   - [ZenBusiness - 5,118,184 breached accounts](https://haveibeenpwned.com/Breach/ZenBusiness)
-- Over Security - Cybersecurity news aggregator
-  - [Qilin Ransomware: Inside an 88-Day Intrusion](https://cxnrvd.hashnode.dev/operation-black-wing-a-qilin-ransomware-affiliate-engagement-against-an-east-african-logistics-provider)
 - Microsoft Security Blog
   - [CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments](https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/)
-- The Hacker News
-  - [Trellix Confirms Source Code Breach With Unauthorized Repository Access](https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html)
+- Daniel Miessler
+  - [Most Companies Aren't Anywhere Near Ready for AI](https://danielmiessler.com/blog/most-companies-arent-ready-for-ai?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - Security Affairs
   - [Two US cybersecurity experts sentenced in ransomware case, third awaits July ruling](https://securityaffairs.com/191591/cyber-crime/two-us-cybersecurity-experts-sentenced-in-ransomware-case-third-awaits-july-ruling.html)
   - [Trellix discloses the breach of a code repository](https://securityaffairs.com/191584/data-breach/trellix-discloses-the-breach-of-a-code-repository.html)
   - [New Deep#Door RAT uses stealth and persistence to target Windows](https://securityaffairs.com/191567/malware/new-deepdoor-rat-uses-stealth-and-persistence-to-target-windows.html)
-- Daniel Miessler
-  - [Most Companies Aren't Anywhere Near Ready for AI](https://danielmiessler.com/blog/most-companies-arent-ready-for-ai?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- The Hacker News
+  - [Trellix Confirms Source Code Breach With Unauthorized Repository Access](https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html)
 - 网安寻路人
   - [五眼联盟发布《智能体AI服务的审慎采用》指导性文件](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247508397&idx=1&sn=a956071df39becd04f5023c51494eaf6)
