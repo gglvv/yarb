@@ -2,23 +2,27 @@
 
 - Recent Commits to cve:main
   - [Update Sun May  3 11:11:45 UTC 2026](https://github.com/trickest/cve/commit/9141b9da01fb3bbda0f65d21a29cb2c79d92c229)
-- SecWiki News
-  - [SecWiki News 2026-05-03 Review](http://www.sec-wiki.com/?2026-05-03)
 - 博客
   - [TProxy and NAT](https://dyrnq.com/tproxy-and-nat/)
+- SecWiki News
+  - [SecWiki News 2026-05-03 Review](http://www.sec-wiki.com/?2026-05-03)
 - Malwarebytes
   - [3 easy-to-miss cybersecurity risks for small businesses](https://www.malwarebytes.com/blog/how-to/2026/05/3-easy-to-miss-cybersecurity-risks-for-small-businesses)
-- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [生成的演员和剧本不能获得奥斯卡奖](https://blog.upx8.com/%E7%94%9F%E6%88%90%E7%9A%84%E6%BC%94%E5%91%98%E5%92%8C%E5%89%A7%E6%9C%AC%E4%B8%8D%E8%83%BD%E8%8E%B7%E5%BE%97%E5%A5%A5%E6%96%AF%E5%8D%A1%E5%A5%96)
-  - [苹果公司面临数十起关于AirTag跟踪的诉讼](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E9%9D%A2%E4%B8%B4%E6%95%B0%E5%8D%81%E8%B5%B7%E5%85%B3%E4%BA%8EAirTag%E8%B7%9F%E8%B8%AA%E7%9A%84%E8%AF%89%E8%AE%BC)
+- Reverse Engineering
+  - [GitHub - 03DSmoothie/minecraft-cpp-versions: Minecraft recoded in C++ (multiple versions)](https://www.reddit.com/r/ReverseEngineering/comments/1t305fa/github_03dsmoothieminecraftcppversions_minecraft/)
+  - [Automated RASP Bypass with Frida + AI Agent | nutcracker & aipwn demo](https://www.reddit.com/r/ReverseEngineering/comments/1t2o8mr/automated_rasp_bypass_with_frida_ai_agent/)
+  - ["AccountDumpling": Hunting Down the Google-Sent Phishing Wave Compromising 30,000+ Facebook Accounts](https://www.reddit.com/r/ReverseEngineering/comments/1t2dxhd/accountdumpling_hunting_down_the_googlesent/)
+  - [Please critique my reverse engineering ctf platform. It is meant for beginners but I would like input from serious reverse engineers. It is functionally done but I need criticism for further refinements, thank you!](https://www.reddit.com/r/ReverseEngineering/comments/1t2k0xp/please_critique_my_reverse_engineering_ctf/)
 - 奇客Solidot–传递最新科技情报
   - [VS Code 默认在 commit 中插入 Co-Authored-by Copilot](https://www.solidot.org/story?sid=84209)
   - [中国三月绿色技术出口增长七成](https://www.solidot.org/story?sid=84208)
   - [Steam 用户中使用 Linux 比例占 4.52%](https://www.solidot.org/story?sid=84207)
-- 黑鸟
-  - [NSA与AT&T的秘密监控计划：641A房间的真相](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186611&idx=1&sn=11706d87caa7f5d3e74e445766f2af6f)
+- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
+  - [生成的演员和剧本不能获得奥斯卡奖](https://blog.upx8.com/%E7%94%9F%E6%88%90%E7%9A%84%E6%BC%94%E5%91%98%E5%92%8C%E5%89%A7%E6%9C%AC%E4%B8%8D%E8%83%BD%E8%8E%B7%E5%BE%97%E5%A5%A5%E6%96%AF%E5%8D%A1%E5%A5%96)
 - 奇安信 CERT
   - [今日（2026年5月3日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505544&idx=1&sn=bb5851ef820b6c40457a1a54c4fe587b)
+- 黑鸟
+  - [NSA与AT&T的秘密监控计划：641A房间的真相](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186611&idx=1&sn=11706d87caa7f5d3e74e445766f2af6f)
 - 丁爸 情报分析师的工具箱
   - [【技巧】海上开源情报收集技术](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155384&idx=1&sn=95a1c0a8514aac16ed65ca076173dcde)
 - 极客公园
@@ -31,23 +35,45 @@
   - [2026 年五大AI渗透测试公司](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486573&idx=1&sn=c9026bc9f58a74dee0fbea20ed6e3aec)
 - 吴鲁加
   - [AI-native 的公司与国家](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486063&idx=1&sn=1e5d0ffced8bef9fefc06f8abb01b0ca)
-- Dark Space Blogspot
-  - [Cos'è Il Reentrancy Attack: Come Vengono Drenati I Pools (DeFi)](http://darkwhite666.blogspot.com/2026/05/cose-il-reentrancy-attack-come-vengono.html)
-- IT Service Management News
-  - [UN Regulation No. 155 - Cyber security and cyber security management system](http://blog.cesaregallotti.it/2026/05/un-regulation-no-155-cyber-security-and.html)
 - Have I Been Pwned latest breaches
   - [Marcus & Millichap - 1,837,078 breached accounts](https://haveibeenpwned.com/Breach/MarcusMillichap)
+- IT Service Management News
+  - [UN Regulation No. 155 - Cyber security and cyber security management system](http://blog.cesaregallotti.it/2026/05/un-regulation-no-155-cyber-security-and.html)
 - SANS Internet Storm Center, InfoCON: green
   - [Wireshark 4.6.5 Released, (Sun, May 3rd)](https://isc.sans.edu/diary/rss/32944)
-- Lenny Zeltser
-  - [Build a Decoy MCP Server to Catch AI Agent Attackers](https://zeltser.com/decoy-mcp-server-honeypot)
-- The Hacker News
-  - [CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV](https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html)
-- OnionSec
-  - [多次面试后的复盘与体会](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485761&idx=1&sn=5a63a6ba45a8938d55f2825bfa4b14ee)
+- Dark Space Blogspot
+  - [Cos'è Il Reentrancy Attack: Come Vengono Drenati I Pools (DeFi)](http://darkwhite666.blogspot.com/2026/05/cose-il-reentrancy-attack-come-vengono.html)
 - Security Affairs
   - [Salt Typhoon breach IBM subsidiary in Italy: a warning for Europe’s digital defenses](https://securityaffairs.com/191638/apt/salt-typhoon-breach-ibm-subsidiary-in-italy-a-warning-for-europes-digital-defenses.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 95](https://securityaffairs.com/191623/malware/security-affairs-malware-newsletter-round-95.html)
   - [U.S. CISA adds a flaw in WebPros cPanel to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/191613/hacking/u-s-cisa-adds-a-flaw-in-webpros-cpanel-to-its-known-exploited-vulnerabilities-catalog.html)
   - [Security Affairs newsletter Round 575 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/191607/breaking-news/security-affairs-newsletter-round-575-by-pierluigi-paganini-international-edition.html)
   - [Google Revamps Bug Bounty Programs: Android Rewards Rise, Chrome Payouts Drop in the Age of AI](https://securityaffairs.com/191600/security/google-revamps-bug-bounty-programs-android-rewards-rise-chrome-payouts-drop-in-the-age-of-ai.html)
+- Computer Forensics
+  - [Cyber Triage file into Axiom?](https://www.reddit.com/r/computerforensics/comments/1t2bl1t/cyber_triage_file_into_axiom/)
+- Information Security
+  - [When did you last look at your inbox rules?](https://www.reddit.com/r/Information_Security/comments/1t2xm3n/when_did_you_last_look_at_your_inbox_rules/)
+- The Hacker News
+  - [CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV](https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [WhoCord: A self-hosted OSINT pipeline that helps you map and analyze publicly available online data](https://www.reddit.com/r/netsecstudents/comments/1t30d2m/whocord_a_selfhosted_osint_pipeline_that_helps/)
+  - [I built a platform to practice train and teach reverse engineering / code auditing across many languages](https://www.reddit.com/r/netsecstudents/comments/1t2kjqm/i_built_a_platform_to_practice_train_and_teach/)
+  - [I don't know what to do](https://www.reddit.com/r/netsecstudents/comments/1t2gj3w/i_dont_know_what_to_do/)
+- Your Open Hacker Community
+  - [My main Reddit account was blocked but I don't have access to the email anymore](https://www.reddit.com/r/HowToHack/comments/1t2n0h8/my_main_reddit_account_was_blocked_but_i_dont/)
+- Deep Web
+  - [Is it possible to generate a brand now pgp on kleopatra](https://www.reddit.com/r/deepweb/comments/1t2p2te/is_it_possible_to_generate_a_brand_now_pgp_on/)
+  - [Acho que achei algo relacionado ao mapa da deep web](https://www.reddit.com/r/deepweb/comments/1t2sbn4/acho_que_achei_algo_relacionado_ao_mapa_da_deep/)
+  - [Need urgent response for my thesis on dark web (Repost)](https://www.reddit.com/r/deepweb/comments/1t2o630/need_urgent_response_for_my_thesis_on_dark_web/)
+  - [Encryption!!](https://www.reddit.com/r/deepweb/comments/1t2obv4/encryption/)
+  - [Is it possible to generate a second pgp on kleopatra without having to get rid of the first one I use? If that possible can someone please comment?](https://www.reddit.com/r/deepweb/comments/1t2shbo/is_it_possible_to_generate_a_second_pgp_on/)
+  - [Why are WordPress updates important?](https://www.reddit.com/r/deepweb/comments/1t29d7x/why_are_wordpress_updates_important/)
+  - [cleaning crypto?](https://www.reddit.com/r/deepweb/comments/1t2k7yf/cleaning_crypto/)
+- Blackhat Library: Hacking techniques and research
+  - [Question](https://www.reddit.com/r/blackhat/comments/1t29ok6/question/)
+- Lenny Zeltser
+  - [Build a Decoy MCP Server to Catch AI Agent Attackers](https://zeltser.com/decoy-mcp-server-honeypot)
+- Technical Information Security Content & Discussion
+  - [Acoustic Keystroke Recovery - Reconstructing Typed Text from a Laptop Microphone (Full Guide, 85% success rate)](https://www.reddit.com/r/netsec/comments/1t2k7qm/acoustic_keystroke_recovery_reconstructing_typed/)
+- OnionSec
+  - [多次面试后的复盘与体会](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485761&idx=1&sn=5a63a6ba45a8938d55f2825bfa4b14ee)
