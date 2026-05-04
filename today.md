@@ -1,9 +1,9 @@
 # 每日安全资讯（2026-05-04）
 
-- SecWiki News
-  - [SecWiki News 2026-05-03 Review](http://www.sec-wiki.com/?2026-05-03)
 - Recent Commits to cve:main
   - [Update Sun May  3 11:11:45 UTC 2026](https://github.com/trickest/cve/commit/9141b9da01fb3bbda0f65d21a29cb2c79d92c229)
+- SecWiki News
+  - [SecWiki News 2026-05-03 Review](http://www.sec-wiki.com/?2026-05-03)
 - 博客
   - [TProxy and NAT](https://dyrnq.com/tproxy-and-nat/)
 - Reverse Engineering
@@ -13,10 +13,8 @@
   - [Please critique my reverse engineering ctf platform. It is meant for beginners but I would like input from serious reverse engineers. It is functionally done but I need criticism for further refinements, thank you!](https://www.reddit.com/r/ReverseEngineering/comments/1t2k0xp/please_critique_my_reverse_engineering_ctf/)
 - Malwarebytes
   - [3 easy-to-miss cybersecurity risks for small businesses](https://www.malwarebytes.com/blog/how-to/2026/05/3-easy-to-miss-cybersecurity-risks-for-small-businesses)
-- 奇客Solidot–传递最新科技情报
-  - [VS Code 默认在 commit 中插入 Co-Authored-by Copilot](https://www.solidot.org/story?sid=84209)
-  - [中国三月绿色技术出口增长七成](https://www.solidot.org/story?sid=84208)
-  - [Steam 用户中使用 Linux 比例占 4.52%](https://www.solidot.org/story?sid=84207)
+- 黑鸟
+  - [NSA与AT&T的秘密监控计划：641A房间的真相](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186611&idx=1&sn=11706d87caa7f5d3e74e445766f2af6f)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [生成的演员和剧本不能获得奥斯卡奖](https://blog.upx8.com/%E7%94%9F%E6%88%90%E7%9A%84%E6%BC%94%E5%91%98%E5%92%8C%E5%89%A7%E6%9C%AC%E4%B8%8D%E8%83%BD%E8%8E%B7%E5%BE%97%E5%A5%A5%E6%96%AF%E5%8D%A1%E5%A5%96)
   - [苹果公司面临数十起关于AirTag跟踪的诉讼](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E9%9D%A2%E4%B8%B4%E6%95%B0%E5%8D%81%E8%B5%B7%E5%85%B3%E4%BA%8EAirTag%E8%B7%9F%E8%B8%AA%E7%9A%84%E8%AF%89%E8%AE%BC)
@@ -24,37 +22,42 @@
   - [中国法院裁定：企业不得因工作被AI自动化而解雇员工](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A-%E4%BC%81%E4%B8%9A%E4%B8%8D%E5%BE%97%E5%9B%A0%E5%B7%A5%E4%BD%9C%E8%A2%ABAI%E8%87%AA%E5%8A%A8%E5%8C%96%E8%80%8C%E8%A7%A3%E9%9B%87%E5%91%98%E5%B7%A5)
   - [测试表明 DeepSeek V4 的性能比美国领先模型落后约 8 个月](https://blog.upx8.com/%E6%B5%8B%E8%AF%95%E8%A1%A8%E6%98%8E-DeepSeek-V4-%E7%9A%84%E6%80%A7%E8%83%BD%E6%AF%94%E7%BE%8E%E5%9B%BD%E9%A2%86%E5%85%88%E6%A8%A1%E5%9E%8B%E8%90%BD%E5%90%8E%E7%BA%A6-8-%E4%B8%AA%E6%9C%88)
   - [问答搜索引擎先驱Ask.com网站正式关闭](https://blog.upx8.com/%E9%97%AE%E7%AD%94%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%85%88%E9%A9%B1Ask-com%E7%BD%91%E7%AB%99%E6%AD%A3%E5%BC%8F%E5%85%B3%E9%97%AD)
-  - [爆火新游戏被曝疯狂消耗SSD寿命 加速硬盘报废](https://blog.upx8.com/%E7%88%86%E7%81%AB%E6%96%B0%E6%B8%B8%E6%88%8F%E8%A2%AB%E6%9B%9D%E7%96%AF%E7%8B%82%E6%B6%88%E8%80%97SSD%E5%AF%BF%E5%91%BD-%E5%8A%A0%E9%80%9F%E7%A1%AC%E7%9B%98%E6%8A%A5%E5%BA%9F)
-- 黑鸟
-  - [NSA与AT&T的秘密监控计划：641A房间的真相](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186611&idx=1&sn=11706d87caa7f5d3e74e445766f2af6f)
+- 奇客Solidot–传递最新科技情报
+  - [VS Code 默认在 commit 中插入 Co-Authored-by Copilot](https://www.solidot.org/story?sid=84209)
+  - [中国三月绿色技术出口增长七成](https://www.solidot.org/story?sid=84208)
+  - [Steam 用户中使用 Linux 比例占 4.52%](https://www.solidot.org/story?sid=84207)
 - 丁爸 情报分析师的工具箱
   - [【技巧】海上开源情报收集技术](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155384&idx=1&sn=95a1c0a8514aac16ed65ca076173dcde)
-- 极客公园
-  - [AI 大模型的「中文税」：中文比英文更费 Token，为什么？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653105105&idx=1&sn=25503feb07973f9f85cff98c8b72d27b)
-  - [张雪机车夺得 WSBK 第三冠；传苹果正在酝酿一笔大型 AI 收购；创始人加入后，OpenAI 宣布开放 OpenClaw 直连 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653105168&idx=1&sn=a97d173ef81ca12361f2124ee916a5a5)
-- 吴鲁加
-  - [AI-native 的公司与国家](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486063&idx=1&sn=1e5d0ffced8bef9fefc06f8abb01b0ca)
 - 安全圈
   - [【安全圈】远程篡改政府招投标数据将对手评分改低，两人获刑](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076162&idx=1&sn=f9c4c8777d6b718fa32f924c99a6f81b)
   - [【安全圈】官方 SAP npm 软件包遭入侵，用于窃取凭证](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076162&idx=3&sn=fa445603965501af8784be6eabac8ceb)
-- Dark Space Blogspot
-  - [Cos'è Il Reentrancy Attack: Come Vengono Drenati I Pools (DeFi)](http://darkwhite666.blogspot.com/2026/05/cose-il-reentrancy-attack-come-vengono.html)
+- 极客公园
+  - [AI 大模型的「中文税」：中文比英文更费 Token，为什么？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653105105&idx=1&sn=25503feb07973f9f85cff98c8b72d27b)
+  - [张雪机车夺得 WSBK 第三冠；传苹果正在酝酿一笔大型 AI 收购；创始人加入后，OpenAI 宣布开放 OpenClaw 直连 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653105168&idx=1&sn=a97d173ef81ca12361f2124ee916a5a5)
 - 安全行者老霍
   - [2026 年五大AI渗透测试公司](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486573&idx=1&sn=c9026bc9f58a74dee0fbea20ed6e3aec)
-- Have I Been Pwned latest breaches
-  - [Marcus & Millichap - 1,837,078 breached accounts](https://haveibeenpwned.com/Breach/MarcusMillichap)
+- 吴鲁加
+  - [AI-native 的公司与国家](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486063&idx=1&sn=1e5d0ffced8bef9fefc06f8abb01b0ca)
+- SANS Internet Storm Center, InfoCON: green
+  - [Wireshark 4.6.5 Released, (Sun, May 3rd)](https://isc.sans.edu/diary/rss/32944)
+- Dark Space Blogspot
+  - [Cos'è Il Reentrancy Attack: Come Vengono Drenati I Pools (DeFi)](http://darkwhite666.blogspot.com/2026/05/cose-il-reentrancy-attack-come-vengono.html)
 - IT Service Management News
   - [UN Regulation No. 155 - Cyber security and cyber security management system](http://blog.cesaregallotti.it/2026/05/un-regulation-no-155-cyber-security-and.html)
 - Lenny Zeltser
   - [Build a Decoy MCP Server to Catch AI Agent Attackers](https://zeltser.com/decoy-mcp-server-honeypot)
+- Security Affairs
+  - [Salt Typhoon breach IBM subsidiary in Italy: a warning for Europe’s digital defenses](https://securityaffairs.com/191638/apt/salt-typhoon-breach-ibm-subsidiary-in-italy-a-warning-for-europes-digital-defenses.html)
+  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 95](https://securityaffairs.com/191623/malware/security-affairs-malware-newsletter-round-95.html)
+  - [U.S. CISA adds a flaw in WebPros cPanel to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/191613/hacking/u-s-cisa-adds-a-flaw-in-webpros-cpanel-to-its-known-exploited-vulnerabilities-catalog.html)
+  - [Security Affairs newsletter Round 575 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/191607/breaking-news/security-affairs-newsletter-round-575-by-pierluigi-paganini-international-edition.html)
+  - [Google Revamps Bug Bounty Programs: Android Rewards Rise, Chrome Payouts Drop in the Age of AI](https://securityaffairs.com/191600/security/google-revamps-bug-bounty-programs-android-rewards-rise-chrome-payouts-drop-in-the-age-of-ai.html)
+- The Hacker News
+  - [CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV](https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html)
 - Technical Information Security Content & Discussion
   - [Acoustic Keystroke Recovery - Reconstructing Typed Text from a Laptop Microphone (Full Guide, 85% success rate)](https://www.reddit.com/r/netsec/comments/1t2k7qm/acoustic_keystroke_recovery_reconstructing_typed/)
-- Computer Forensics
-  - [Cyber Triage file into Axiom?](https://www.reddit.com/r/computerforensics/comments/1t2bl1t/cyber_triage_file_into_axiom/)
-- netsecstudents: Subreddit for students studying Network Security and its related subjects
-  - [WhoCord: A self-hosted OSINT pipeline that helps you map and analyze publicly available online data](https://www.reddit.com/r/netsecstudents/comments/1t30d2m/whocord_a_selfhosted_osint_pipeline_that_helps/)
-  - [I built a platform to practice train and teach reverse engineering / code auditing across many languages](https://www.reddit.com/r/netsecstudents/comments/1t2kjqm/i_built_a_platform_to_practice_train_and_teach/)
-  - [I don't know what to do](https://www.reddit.com/r/netsecstudents/comments/1t2gj3w/i_dont_know_what_to_do/)
+- Information Security
+  - [When did you last look at your inbox rules?](https://www.reddit.com/r/Information_Security/comments/1t2xm3n/when_did_you_last_look_at_your_inbox_rules/)
 - Deep Web
   - [Acho que achei algo relacionado ao mapa da deep web](https://www.reddit.com/r/deepweb/comments/1t2sbn4/acho_que_achei_algo_relacionado_ao_mapa_da_deep/)
   - [Is it possible to generate a brand now pgp on kleopatra](https://www.reddit.com/r/deepweb/comments/1t2p2te/is_it_possible_to_generate_a_brand_now_pgp_on/)
@@ -63,21 +66,17 @@
   - [Encryption!!](https://www.reddit.com/r/deepweb/comments/1t2obv4/encryption/)
   - [Why are WordPress updates important?](https://www.reddit.com/r/deepweb/comments/1t29d7x/why_are_wordpress_updates_important/)
   - [cleaning crypto?](https://www.reddit.com/r/deepweb/comments/1t2k7yf/cleaning_crypto/)
-- Security Affairs
-  - [Salt Typhoon breach IBM subsidiary in Italy: a warning for Europe’s digital defenses](https://securityaffairs.com/191638/apt/salt-typhoon-breach-ibm-subsidiary-in-italy-a-warning-for-europes-digital-defenses.html)
-  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 95](https://securityaffairs.com/191623/malware/security-affairs-malware-newsletter-round-95.html)
-  - [U.S. CISA adds a flaw in WebPros cPanel to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/191613/hacking/u-s-cisa-adds-a-flaw-in-webpros-cpanel-to-its-known-exploited-vulnerabilities-catalog.html)
-  - [Security Affairs newsletter Round 575 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/191607/breaking-news/security-affairs-newsletter-round-575-by-pierluigi-paganini-international-edition.html)
-  - [Google Revamps Bug Bounty Programs: Android Rewards Rise, Chrome Payouts Drop in the Age of AI](https://securityaffairs.com/191600/security/google-revamps-bug-bounty-programs-android-rewards-rise-chrome-payouts-drop-in-the-age-of-ai.html)
-- Your Open Hacker Community
-  - [My main Reddit account was blocked but I don't have access to the email anymore](https://www.reddit.com/r/HowToHack/comments/1t2n0h8/my_main_reddit_account_was_blocked_but_i_dont/)
-- Information Security
-  - [When did you last look at your inbox rules?](https://www.reddit.com/r/Information_Security/comments/1t2xm3n/when_did_you_last_look_at_your_inbox_rules/)
-- The Hacker News
-  - [CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV](https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html)
-- SANS Internet Storm Center, InfoCON: green
-  - [Wireshark 4.6.5 Released, (Sun, May 3rd)](https://isc.sans.edu/diary/rss/32944)
+- Have I Been Pwned latest breaches
+  - [Marcus & Millichap - 1,837,078 breached accounts](https://haveibeenpwned.com/Breach/MarcusMillichap)
 - Blackhat Library: Hacking techniques and research
   - [Question](https://www.reddit.com/r/blackhat/comments/1t29ok6/question/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [WhoCord: A self-hosted OSINT pipeline that helps you map and analyze publicly available online data](https://www.reddit.com/r/netsecstudents/comments/1t30d2m/whocord_a_selfhosted_osint_pipeline_that_helps/)
+  - [I built a platform to practice train and teach reverse engineering / code auditing across many languages](https://www.reddit.com/r/netsecstudents/comments/1t2kjqm/i_built_a_platform_to_practice_train_and_teach/)
+  - [I don't know what to do](https://www.reddit.com/r/netsecstudents/comments/1t2gj3w/i_dont_know_what_to_do/)
+- Your Open Hacker Community
+  - [My main Reddit account was blocked but I don't have access to the email anymore](https://www.reddit.com/r/HowToHack/comments/1t2n0h8/my_main_reddit_account_was_blocked_but_i_dont/)
+- Computer Forensics
+  - [Cyber Triage file into Axiom?](https://www.reddit.com/r/computerforensics/comments/1t2bl1t/cyber_triage_file_into_axiom/)
 - OnionSec
   - [多次面试后的复盘与体会](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485761&idx=1&sn=5a63a6ba45a8938d55f2825bfa4b14ee)
