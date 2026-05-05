@@ -1,7 +1,18 @@
 # 每日安全资讯（2026-05-05）
 
-- SecWiki News
-  - [SecWiki News 2026-05-04 Review](http://www.sec-wiki.com/?2026-05-04)
+- CXSECURITY Database RSS Feed - CXSecurity.com
+  - [Erugo  0.2.14 Remote Code Execution (RCE)](https://cxsecurity.com/issue/WLB-2026050004)
+  - [Linux Kernel Local Privilege Escalation via Memory Handling and Access Control Weakness](https://cxsecurity.com/issue/WLB-2026050003)
+  - [Green Hills INTEGRITY RTOS IPCOMShell TELNET Format String Vulnerability - Realistic Full Chain Attack on F-16 Avionics (Ground](https://cxsecurity.com/issue/WLB-2026050002)
+  - [Linux Kernel proc_readdir_de() 6.18-rc5 Local Privilege Escalation](https://cxsecurity.com/issue/WLB-2026050001)
+- Tenable Blog
+  - [Security for AI: A strategic framework for closing the AI exposure gap](https://www.tenable.com/blog/strategic-framework-for-securing-AI-with-exposure-management)
+- Armin Ronacher's Thoughts and Writings
+  - [Content for Content’s Sake](https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/)
+- Microsoft Security Blog
+  - [Breaking the code: Multi-stage ‘code of conduct’ phishing campaign leads to AiTM token compromise](https://www.microsoft.com/en-us/security/blog/2026/05/04/breaking-the-code-multi-stage-code-of-conduct-phishing-campaign-leads-to-aitm-token-compromise/)
+- Recent Commits to cve:main
+  - [Update Mon May  4 11:19:22 UTC 2026](https://github.com/trickest/cve/commit/d1002b79808de30371f90c0f5c51d53e87413adf)
 - InfoSec Write-ups - Medium
   - [Reading Responses: Status Codes, Headers, and Body Forensics](https://infosecwriteups.com/reading-responses-status-codes-headers-and-body-forensics-76c2da93335f?source=rss----7b722bfd1b8d---4)
   - [Breakdown of CVE-2026–31431 (Copy Fail) an Overl00k3d Linux Kernel Vulnerability Enables Privilege…](https://infosecwriteups.com/breakdown-of-cve-2026-31431-copy-fail-an-overl00k3d-linux-kernel-vulnerability-enables-privilege-f8658453ab81?source=rss----7b722bfd1b8d---4)
@@ -9,37 +20,12 @@
   - [From Anonymous to Administrator: A Chain of Quiet Mistakes](https://infosecwriteups.com/from-anonymous-to-administrator-a-chain-of-quiet-mistakes-55d0daf90bf9?source=rss----7b722bfd1b8d---4)
   - [Understanding SSRF: Concepts, Patterns and Practical Exploitation](https://infosecwriteups.com/understanding-ssrf-concepts-patterns-and-practical-exploitation-6cb029768f03?source=rss----7b722bfd1b8d---4)
   - [How I Found an Unprotected Login Portal on a Federal VDP (and Why It Still Got P5)](https://infosecwriteups.com/how-i-found-an-unprotected-login-portal-on-a-federal-vdp-and-why-it-still-got-p5-e93dbed192b0?source=rss----7b722bfd1b8d---4)
-- CXSECURITY Database RSS Feed - CXSecurity.com
-  - [Erugo  0.2.14 Remote Code Execution (RCE)](https://cxsecurity.com/issue/WLB-2026050004)
-  - [Linux Kernel Local Privilege Escalation via Memory Handling and Access Control Weakness](https://cxsecurity.com/issue/WLB-2026050003)
-  - [Green Hills INTEGRITY RTOS IPCOMShell TELNET Format String Vulnerability - Realistic Full Chain Attack on F-16 Avionics (Ground](https://cxsecurity.com/issue/WLB-2026050002)
-  - [Linux Kernel proc_readdir_de() 6.18-rc5 Local Privilege Escalation](https://cxsecurity.com/issue/WLB-2026050001)
-- Microsoft Security Blog
-  - [Breaking the code: Multi-stage ‘code of conduct’ phishing campaign leads to AiTM token compromise](https://www.microsoft.com/en-us/security/blog/2026/05/04/breaking-the-code-multi-stage-code-of-conduct-phishing-campaign-leads-to-aitm-token-compromise/)
-- Armin Ronacher's Thoughts and Writings
-  - [Content for Content’s Sake](https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/)
-- Recent Commits to cve:main
-  - [Update Mon May  4 11:19:22 UTC 2026](https://github.com/trickest/cve/commit/d1002b79808de30371f90c0f5c51d53e87413adf)
-- Tenable Blog
-  - [Security for AI: A strategic framework for closing the AI exposure gap](https://www.tenable.com/blog/strategic-framework-for-securing-AI-with-exposure-management)
-- Securelist
-  - [“Legitimate” phishing: how attackers weaponize Amazon SES to bypass email security](https://securelist.com/amazon-ses-phishing-and-bec-attacks/119623/)
+- SecWiki News
+  - [SecWiki News 2026-05-04 Review](http://www.sec-wiki.com/?2026-05-04)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [How I Found an Unprotected Login Portal on a Federal VDP (and Why It Still Got P5)](https://infosecwriteups.com/how-i-found-an-unprotected-login-portal-on-a-federal-vdp-and-why-it-still-got-p5-e93dbed192b0?source=rss----7b722bfd1b8d--bug_bounty)
-- Reverse Engineering
-  - [/r/ReverseEngineering's Weekly Questions Thread](https://www.reddit.com/r/ReverseEngineering/comments/1t3a67r/rreverseengineerings_weekly_questions_thread/)
-  - [Reverse-engineering Final Fantasy X (PS3) trophy system with Ghidra](https://www.reddit.com/r/ReverseEngineering/comments/1t3t7xp/reverseengineering_final_fantasy_x_ps3_trophy/)
-  - [IDA-MCP Is Now RE-MCP With Ghidra Support](https://www.reddit.com/r/ReverseEngineering/comments/1t3g4l2/idamcp_is_now_remcp_with_ghidra_support/)
-  - [[CrackMe] PyVMP v6 : The Fortress. I dare you to break it (again x2).](https://www.reddit.com/r/ReverseEngineering/comments/1t3puij/crackme_pyvmp_v6_the_fortress_i_dare_you_to_break/)
-  - [[WIP] Resolve indirect calls in Binary Ninja with DynamoRIO instrumentation](https://www.reddit.com/r/ReverseEngineering/comments/1t3hbyy/wip_resolve_indirect_calls_in_binary_ninja_with/)
-  - [Reverse-engineered the BLE protocol of the LuckPrinter-SDK family of thermal pocket printers (DP-L1S) — Python CLI + Web Bluetooth client + full command reference](https://www.reddit.com/r/ReverseEngineering/comments/1t3f87w/reverseengineered_the_ble_protocol_of_the/)
-- ZeddYu’s Blog
-  - [DOM Clobbering Five Years On - New Sinks, New Bypasses, and Why Sanitizers Still Miss Them](https://blog.zeddyu.info/2026/05/04/Dom-Clobbering-Five-Years-On/)
-- Malwarebytes
-  - [Cyberattacks are raising your prices (Lock and Code S07E09)](https://www.malwarebytes.com/blog/podcast/2026/05/cyberattacks-are-raising-your-prices-lock-and-code-s07e09)
-  - [Thousands of Facebook accounts stolen by phishing emails sent through Google](https://www.malwarebytes.com/blog/news/2026/05/thousands-of-facebook-accounts-stolen-by-phishing-emails-sent-through-google)
-  - [The 2026 World Cup scam economy is already running before the first whistle](https://www.malwarebytes.com/blog/threat-intel/2026/05/the-2026-world-cup-scam-economy-is-already-running-before-the-first-whistle)
-  - [A week in security (April 27 &#8211; May 3)](https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-april-27-may-3-3)
+- Securelist
+  - [“Legitimate” phishing: how attackers weaponize Amazon SES to bypass email security](https://securelist.com/amazon-ses-phishing-and-bec-attacks/119623/)
 - Exploit-DB.com RSS Feed
   - [[local] Linux Kernel proc_readdir_de() 6.18-rc5 - Local Privilege Escalation](https://www.exploit-db.com/exploits/52550)
   - [[local] Linux nf_tables 6.19.3 - Local Privilege Escalation](https://www.exploit-db.com/exploits/52549)
@@ -47,99 +33,84 @@
   - [[webapps] MindsDB  25.9.1.1 - Path Traversal](https://www.exploit-db.com/exploits/52547)
   - [[local] Windows 11 24H2 - Local Privilege Escalation](https://www.exploit-db.com/exploits/52546)
   - [[webapps] Traccar GPS Tracking System 6.11.1 - Cross-Site WebSocket Hijacking (CSWSH)](https://www.exploit-db.com/exploits/52545)
+- Malwarebytes
+  - [Cyberattacks are raising your prices (Lock and Code S07E09)](https://www.malwarebytes.com/blog/podcast/2026/05/cyberattacks-are-raising-your-prices-lock-and-code-s07e09)
+  - [Thousands of Facebook accounts stolen by phishing emails sent through Google](https://www.malwarebytes.com/blog/news/2026/05/thousands-of-facebook-accounts-stolen-by-phishing-emails-sent-through-google)
+  - [The 2026 World Cup scam economy is already running before the first whistle](https://www.malwarebytes.com/blog/threat-intel/2026/05/the-2026-world-cup-scam-economy-is-already-running-before-the-first-whistle)
+  - [A week in security (April 27 &#8211; May 3)](https://www.malwarebytes.com/blog/news/2026/05/a-week-in-security-april-27-may-3-3)
+- ZeddYu’s Blog
+  - [DOM Clobbering Five Years On - New Sinks, New Bypasses, and Why Sanitizers Still Miss Them](https://blog.zeddyu.info/2026/05/04/Dom-Clobbering-Five-Years-On/)
 - Les1ie
   - [智能化渗透测试随想](https://iansmith123.github.io/2026/05/04/AutoPT-thinking/)
 - Wallarm
   - [Introducing Wallarm Middle East Cloud: Built for Data Residency Compliance](https://lab.wallarm.com/introducing-wallarm-middle-east-cloud-data-residency-compliance/)
-- 奇客Solidot–传递最新科技情报
-  - [科学家发现咖啡如何影响肠道和大脑](https://www.solidot.org/story?sid=84211)
-  - [天文学家发现 27 颗围绕双恒星运行的候选行星](https://www.solidot.org/story?sid=84210)
 - Dancho Danchev's Blog - Mind Streams of Information Security Knowledge
   - [Bulgarian Parcel Shipping Company Speedy Under Phishing Attack - An Analysis](https://ddanchev.blogspot.com/2026/05/bulgarian-parcel-shipping-company.html)
-- 锦行科技
-  - [五四・青春｜以梦为马，不负时代](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494889&idx=1&sn=d86187e1a66916223b266d1bff4fe060)
-- 黑鸟
-  - [以色列电信如何被利用来追踪全球用户](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186617&idx=1&sn=3d0a32fc9a8cbe1600bdace7b962249b)
 - rtl-sdr.com
   - [L-Band Weather Imagery Soon Coming Back to Western Europe via Elektro-L3](https://www.rtl-sdr.com/l-band-weather-imagery-soon-coming-back-to-western-europe-via-elektro-l3/)
   - [P25-Survey: A Tool for Scanning and Logging P25 Control Channels with an SDR](https://www.rtl-sdr.com/p25-survey-a-tool-for-scanning-and-logging-p25-control-channels-with-an-sdr/)
   - [Portable ADS-B Receiver Firmware for the ESP32-P4 Based LILYGO T-Display-P4 with RTL-SDR](https://www.rtl-sdr.com/portable-ads-b-receiver-firmware-for-the-esp32-p4-based-lilygo-t-display-p4-with-rtl-sdr/)
+- 奇客Solidot–传递最新科技情报
+  - [科学家发现咖啡如何影响肠道和大脑](https://www.solidot.org/story?sid=84211)
+  - [天文学家发现 27 颗围绕双恒星运行的候选行星](https://www.solidot.org/story?sid=84210)
 - Shostack & Friends Blog
   - [May the Fourth Be With You!](https://shostack.org/blog/may-the-fourth-be-with-you/)
-- 看雪学苑
-  - [天命战队 DeSCTF Devil.exe 逆向思路分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614422&idx=1&sn=1a3e0b02d7f510b2be50fbf080cd0b7c)
-  - [深入讲解RSA、AES、流密码等现代密码原理与典型攻击手法](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614422&idx=2&sn=462b2b0db62170456fff31f5d18ec315)
+- 锦行科技
+  - [五四・青春｜以梦为马，不负时代](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494889&idx=1&sn=d86187e1a66916223b266d1bff4fe060)
 - 青衣十三楼飞花堂
   - [在地下_马识途](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489394&idx=1&sn=3368839fac591ee418503aaf0460c269)
+- 黑鸟
+  - [以色列电信如何被利用来追踪全球用户](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186617&idx=1&sn=3d0a32fc9a8cbe1600bdace7b962249b)
+- Flanker论AI
+  - [我做了一个开源的豆包手机](https://mp.weixin.qq.com/s?__biz=MzI3ODI4NDM2MA==&mid=2247484148&idx=1&sn=93c8b1fd000109dc365474aca64c1adc)
 - 丁爸 情报分析师的工具箱
   - [【资料】如何开展全源情报分析：情报分析的认知框架](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155428&idx=1&sn=23713b261981c9818bbb83e38a80036b)
   - [【资料】情报分析的认知框架PPT](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155428&idx=2&sn=a93905be4efda037f188308a39095040)
-- 安全圈
-  - [【安全圈】Wireshark 高危漏洞可致攻击者通过畸形数据包执行任意代码](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076171&idx=1&sn=de9da65cb58255549d731bae73e7077e)
-  - [【安全圈】微软杀毒软件把系统“身份证”当病毒删了](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076171&idx=2&sn=a8900d858e03f970b8fb61e003b12091)
-  - [【安全圈】月下载量超100万的 Python 工具被植入恶意代码](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076171&idx=3&sn=7d402393fb270210f1413b9de035fa30)
 - 极客公园
   - [在中国市场搞「付费订阅」，豆包咋想的？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653105198&idx=1&sn=4eae3a025355450d087f4cfe059e3822)
   - [Anthropic 搞了个全是 AI 的闲鱼群，大模型在里面互割起了韭菜](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653105106&idx=1&sn=7576732fca8fb1c12671b5afe1f38a4b)
   - [传小米新 SU7 锁单突破 7 万；微信输入法测「隔空发图」功能；豆包二代 AI 手机上半年发布 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653105191&idx=1&sn=27d3faacb5af480593d6ff3ed45938ca)
-- Flanker论AI
-  - [我做了一个开源的豆包手机](https://mp.weixin.qq.com/s?__biz=MzI3ODI4NDM2MA==&mid=2247484148&idx=1&sn=93c8b1fd000109dc365474aca64c1adc)
+- 安全圈
+  - [【安全圈】Wireshark 高危漏洞可致攻击者通过畸形数据包执行任意代码](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076171&idx=1&sn=de9da65cb58255549d731bae73e7077e)
+  - [【安全圈】微软杀毒软件把系统“身份证”当病毒删了](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076171&idx=2&sn=a8900d858e03f970b8fb61e003b12091)
+  - [【安全圈】月下载量超100万的 Python 工具被植入恶意代码](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076171&idx=3&sn=7d402393fb270210f1413b9de035fa30)
 - 安全行者老霍
   - [MCP 漏洞披露：AI时代的 “Open Redirect” 时刻](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486587&idx=1&sn=9039d12f325b9377e87583d4b22342e8)
+- 吴鲁加
+  - [我们一位研发同事，自己 vibe 了个小程序](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486069&idx=1&sn=41468a2bd3c915e8fefcf6f6cd846960)
+- 看雪学苑
+  - [天命战队 DeSCTF Devil.exe 逆向思路分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614422&idx=1&sn=1a3e0b02d7f510b2be50fbf080cd0b7c)
+  - [深入讲解RSA、AES、流密码等现代密码原理与典型攻击手法](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614422&idx=2&sn=462b2b0db62170456fff31f5d18ec315)
 - Microsoft Security Blog
   - [Breaking the code: Multi-stage ‘code of conduct’ phishing campaign leads to AiTM token compromise](https://www.microsoft.com/en-us/security/blog/2026/05/04/breaking-the-code-multi-stage-code-of-conduct-phishing-campaign-leads-to-aitm-token-compromise/)
-- Arturo Di Corinto
-  - [Hackerare l’intelligenza artificiale: rischi e rimedi](https://dicorinto.it/formazione/hackerare-lintelligenza-artificiale-rischi-e-rimedi/)
-- IT Service Management News
-  - [UNI 11621-8:2026 sui profili di ruolo professionale relativi all'Intelligenza Artificiale (IA)](http://blog.cesaregallotti.it/2026/05/uni-11621-82026-sui-profili-di-ruolo.html)
 - NETRESEC Network Security Blog
   - [FlowCarp Identifies Protocols](https://www.netresec.com/?page=Blog&month=2026-05&post=FlowCarp-Identifies-Protocols)
 - 迪哥讲事
   - [盲sssrf典型测试方法](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499397&idx=1&sn=7fce7b816f22db689ed012d92fe824b5)
-- Have I Been Pwned latest breaches
-  - [Reborn Gaming - 126 breached accounts](https://haveibeenpwned.com/Breach/RebornGaming)
 - Securityinfo.it
   - [CISA avvisa: Copy Fail sfruttata per root sui sistemi Linux](https://www.securityinfo.it/2026/05/04/cisa-avvisa-copy-fail-sfruttata-per-root-sui-sistemi-linux/?utm_source=rss&utm_medium=rss&utm_campaign=cisa-avvisa-copy-fail-sfruttata-per-root-sui-sistemi-linux)
+- 火绒安全
+  - [青年节 | 青春炽热 护网同行](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532533&idx=1&sn=50a4917ab3e1675d86a7ae173f9bf4c8)
+  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532533&idx=2&sn=bbf6a67fa08a02000e2732108c7171ee)
+- SANS Internet Storm Center, InfoCON: green
+  - [TeamPCP Weekly Analysis: 2026-W18 (2026-04-27 through 2026-05-03), (Mon, May 4th)](https://isc.sans.edu/diary/rss/32950)
+  - [DShield Honeypot Update, (Mon, May 4th)](https://isc.sans.edu/diary/rss/32948)
+  - [ISC Stormcast For Monday, May 4th, 2026 https://isc.sans.edu/podcastdetail/9916, (Mon, May 4th)](https://isc.sans.edu/diary/rss/32946)
 - ICT Security Magazine
   - [Cyber range e formazione immersiva: preparare i team all’incidente reale](https://www.ictsecuritymagazine.com/articoli/cyber-range/)
   - [Trellix conferma l’accesso non autorizzato al codice sorgente: il vendor XDR avvia l’indagine forense](https://www.ictsecuritymagazine.com/notizie/trellix-violazione-codice/)
   - [Cyber mercenari: il nuovo volto della guerra ibrida](https://www.ictsecuritymagazine.com/articoli/cyber-mercenari/)
   - [IBM Italia colpita da Salt Typhoon: il cyberspionaggio cinese entra nella PA](https://www.ictsecuritymagazine.com/notizie/ibm-italia-salt-typhoon-attack/)
-- SANS Internet Storm Center, InfoCON: green
-  - [TeamPCP Weekly Analysis: 2026-W18 (2026-04-27 through 2026-05-03), (Mon, May 4th)](https://isc.sans.edu/diary/rss/32950)
-  - [DShield Honeypot Update, (Mon, May 4th)](https://isc.sans.edu/diary/rss/32948)
-  - [ISC Stormcast For Monday, May 4th, 2026 https://isc.sans.edu/podcastdetail/9916, (Mon, May 4th)](https://isc.sans.edu/diary/rss/32946)
+- IT Service Management News
+  - [UNI 11621-8:2026 sui profili di ruolo professionale relativi all'Intelligenza Artificiale (IA)](http://blog.cesaregallotti.it/2026/05/uni-11621-82026-sui-profili-di-ruolo.html)
+- Have I Been Pwned latest breaches
+  - [Reborn Gaming - 126 breached accounts](https://haveibeenpwned.com/Breach/RebornGaming)
 - D3Lab
   - [Non è beneficenza, è furto d’identità: i retroscena del clone Caritas intercettato da D3Lab](https://www.d3lab.net/non-e-beneficenza-e-furto-didentita-i-retroscena-del-clone-caritas-intercettato-da-d3lab/)
-- 吴鲁加
-  - [我们一位研发同事，自己 vibe 了个小程序](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486069&idx=1&sn=41468a2bd3c915e8fefcf6f6cd846960)
-- 火绒安全
-  - [青年节 | 青春炽热 护网同行](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532533&idx=1&sn=50a4917ab3e1675d86a7ae173f9bf4c8)
-  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532533&idx=2&sn=bbf6a67fa08a02000e2732108c7171ee)
-- GRAHAM CLULEY
-  - [Teenager alleged to be Scattered Spider hacker arrested in Finland, faces US extradition](https://www.bitdefender.com/en-us/blog/hotforsecurity/alleged-scattered-spider-hacker-extradition)
-- Security Affairs
-  - [MOVEit automation flaws could enable full system compromise](https://securityaffairs.com/191681/security/moveit-automation-flaws-could-enable-full-system-compromise.html)
-  - [Hackers target governments and MSPs via critical cPanel flaw CVE-2026-41940](https://securityaffairs.com/191666/breaking-news/hackers-target-governments-and-msps-via-critical-cpanel-flaw-cve-2026-41940.html)
-  - [U.S. CISA adds a flaw in Linux Kernel to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/191629/hacking/u-s-cisa-adds-a-flaw-in-linux-kernel-to-its-known-exploited-vulnerabilities-catalog.html)
-  - [AI speeds flaw discovery, forcing rapid updates, UK NCSC warns](https://securityaffairs.com/191657/security/ai-speeds-flaw-discovery-forcing-rapid-updates-uk-ncsc-warns.html)
-  - [Bluekit phishing kit enables automated phishing with 40+ templates and AI tools](https://securityaffairs.com/191646/cyber-crime/bluekit-phishing-kit-enables-automated-phishing-with-40-templates-and-ai-tools.html)
-- Information Security
-  - [Utilizing SSH Keys to minimize existence of PAT Tokens and making authentication safer](https://www.reddit.com/r/Information_Security/comments/1t3jy1q/utilizing_ssh_keys_to_minimize_existence_of_pat/)
-- Your Open Hacker Community
-  - [PSA](https://www.reddit.com/r/HowToHack/comments/1t3a708/psa/)
-  - [Evil Twin Attack](https://www.reddit.com/r/HowToHack/comments/1t3he5r/evil_twin_attack/)
-  - [Hacking Bluetooth Temperature Probes.](https://www.reddit.com/r/HowToHack/comments/1t31rf0/hacking_bluetooth_temperature_probes/)
-  - [Hacking my old email account](https://www.reddit.com/r/HowToHack/comments/1t33iep/hacking_my_old_email_account/)
-  - [My discord got hacked, how could I get it back?](https://www.reddit.com/r/HowToHack/comments/1t32piq/my_discord_got_hacked_how_could_i_get_it_back/)
+- Arturo Di Corinto
+  - [Hackerare l’intelligenza artificiale: rischi e rimedi](https://dicorinto.it/formazione/hackerare-lintelligenza-artificiale-rischi-e-rimedi/)
 - Schneier on Security
   - [Hacking Polymarket](https://www.schneier.com/blog/archives/2026/05/hacking-polymarket.html)
-- Security Weekly Podcast Network (Audio)
-  - [Post Quantum Migration Struggles, AI Threats, and Modern Defenses - HD Moore, Ramin Farassat, Eyal Benishti, Daniel dos Santos, Bobby Ford - ESW #457](http://sites.libsyn.com/18678/post-quantum-migration-struggles-ai-threats-and-modern-defenses-hd-moore-ramin-farassat-eyal-benishti-daniel-dos-santos-bobby-ford-esw-457)
-- Tor Project blog
-  - [New Release: Tails 7.7.2](https://blog.torproject.org/new-release-tails-7_7_2/)
-- Deep Web
-  - [Are there any free AIs available on the deep web (Online or in terminal)](https://www.reddit.com/r/deepweb/comments/1t37whx/are_there_any_free_ais_available_on_the_deep_web/)
 - The Hacker News
   - [Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools](https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html)
   - [Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass](https://thehackernews.com/2026/05/progress-patches-critical-moveit.html)
@@ -148,16 +119,20 @@
   - [Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia](https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html)
   - [Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks](https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html)
   - [Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M](https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html)
+- GRAHAM CLULEY
+  - [Teenager alleged to be Scattered Spider hacker arrested in Finland, faces US extradition](https://www.bitdefender.com/en-us/blog/hotforsecurity/alleged-scattered-spider-hacker-extradition)
+- Tor Project blog
+  - [New Release: Tails 7.7.2](https://blog.torproject.org/new-release-tails-7_7_2/)
+- Security Affairs
+  - [MOVEit automation flaws could enable full system compromise](https://securityaffairs.com/191681/security/moveit-automation-flaws-could-enable-full-system-compromise.html)
+  - [Hackers target governments and MSPs via critical cPanel flaw CVE-2026-41940](https://securityaffairs.com/191666/breaking-news/hackers-target-governments-and-msps-via-critical-cpanel-flaw-cve-2026-41940.html)
+  - [U.S. CISA adds a flaw in Linux Kernel to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/191629/hacking/u-s-cisa-adds-a-flaw-in-linux-kernel-to-its-known-exploited-vulnerabilities-catalog.html)
+  - [AI speeds flaw discovery, forcing rapid updates, UK NCSC warns](https://securityaffairs.com/191657/security/ai-speeds-flaw-discovery-forcing-rapid-updates-uk-ncsc-warns.html)
+  - [Bluekit phishing kit enables automated phishing with 40+ templates and AI tools](https://securityaffairs.com/191646/cyber-crime/bluekit-phishing-kit-enables-automated-phishing-with-40-templates-and-ai-tools.html)
 - Deeplinks
   - [EFF Submission to UK Consultation on Digital ID](https://www.eff.org/deeplinks/2026/05/eff-submission-uk-consultation-digital-id)
   - [Getting Digital Fairness Right: EFF's Recommendations for the EU's Digital Fairness Act](https://www.eff.org/deeplinks/2026/04/dos-and-donts-eus-digital-fairness-act-effs-recommendation-regulating-digital)
-- Computer Forensics
-  - [A law firm instructed my first forensic analysis of an LLM system, I've written up some of my methodology](https://www.reddit.com/r/computerforensics/comments/1t3m436/a_law_firm_instructed_my_first_forensic_analysis/)
-- netsecstudents: Subreddit for students studying Network Security and its related subjects
-  - [BAT: VPS-based C2 with .ko/.sys rootkits compilation against target kernel headers](https://www.reddit.com/r/netsecstudents/comments/1t3n2he/bat_vpsbased_c2_with_kosys_rootkits_compilation/)
-  - [Could GPU-accelerated EDR meaningfully improve real-time detection performance?](https://www.reddit.com/r/netsecstudents/comments/1t35gfk/could_gpuaccelerated_edr_meaningfully_improve/)
-- Technical Information Security Content & Discussion
-  - ["AccountDumpling": Hunting Down the Google-Sent Phishing Wave Compromising 30,000+ Facebook Accounts](https://www.reddit.com/r/netsec/comments/1t37cmq/accountdumpling_hunting_down_the_googlesent/)
-  - [Lateral Movement - Cross-Session Activation](https://www.reddit.com/r/netsec/comments/1t3izu3/lateral_movement_crosssession_activation/)
+- Security Weekly Podcast Network (Audio)
+  - [Post Quantum Migration Struggles, AI Threats, and Modern Defenses - HD Moore, Ramin Farassat, Eyal Benishti, Daniel dos Santos, Bobby Ford - ESW #457](http://sites.libsyn.com/18678/post-quantum-migration-struggles-ai-threats-and-modern-defenses-hd-moore-ramin-farassat-eyal-benishti-daniel-dos-santos-bobby-ford-esw-457)
 - 网安寻路人
   - [重要数据性质的再认识：级别概念 vs. 类别概念](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247508402&idx=1&sn=028055b2dc9e9dd4a70ededba9eeb58a)
