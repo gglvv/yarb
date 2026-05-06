@@ -2,8 +2,6 @@
 
 - SecWiki News
   - [SecWiki News 2026-05-05 Review](http://www.sec-wiki.com/?2026-05-05)
-- Recent Commits to cve:main
-  - [Update Tue May  5 11:17:45 UTC 2026](https://github.com/trickest/cve/commit/97130e38141194b83cf212cc0971a6cebaca4a7a)
 - 博客
   - [Spooling](https://dyrnq.com/spooling/)
   - [gecos](https://dyrnq.com/gecos/)
@@ -12,84 +10,82 @@
   - [lane pipeline sink tunnel funnel channel canal](https://dyrnq.com/lane-pipeline-sink-tunnel-funnel-channel-canal/)
 - Sucuri Blog
   - [DNSSEC: The Extra Security Layer That Can Break Your Padlock](https://blog.sucuri.net/2026/05/dnssec-the-extra-security-layer-that-can-break-your-padlock.html)
+- Recent Commits to cve:main
+  - [Update Tue May  5 11:17:45 UTC 2026](https://github.com/trickest/cve/commit/97130e38141194b83cf212cc0971a6cebaca4a7a)
 - Cerbero Blog
   - [DotNETBinaryFormatter Format Package](https://blog.cerbero.io/dotnetbinaryformatter-format-package/)
 - Horizon3.ai
   - [Unifying SOC and ITSM](https://horizon3.ai/downloads/whitepapers/unifying-soc-itsm-cyber-risk-guide/)
-- Sucuri Blog
-  - [DNSSEC: The Extra Security Layer That Can Break Your Padlock](https://blog.sucuri.net/2026/05/dnssec-the-extra-security-layer-that-can-break-your-padlock.html)
-- The Trail of Bits Blog
-  - [C/C++ checklist challenges, solved](https://blog.trailofbits.com/2026/05/05/c/c-checklist-challenges-solved/)
 - Malwarebytes
   - [Update WhatsApp now: Two new flaws could expose you to malicious files](https://www.malwarebytes.com/blog/news/2026/05/update-whatsapp-now-two-new-flaws-could-expose-you-to-malicious-files)
-- Intigriti
-  - [The AI impact: a triager’s perspective](https://www.intigriti.com/blog/business-insights/the-ai-impact-a-triagers-perspective)
+- The Trail of Bits Blog
+  - [C/C++ checklist challenges, solved](https://blog.trailofbits.com/2026/05/05/c/c-checklist-challenges-solved/)
+- Sucuri Blog
+  - [DNSSEC: The Extra Security Layer That Can Break Your Padlock](https://blog.sucuri.net/2026/05/dnssec-the-extra-security-layer-that-can-break-your-padlock.html)
 - Hacking Articles
   - [Active Directory Exploitation with Metasploit](https://www.hackingarticles.in/active-directory-exploitation-with-metasploit/)
+- Intigriti
+  - [The AI impact: a triager’s perspective](https://www.intigriti.com/blog/business-insights/the-ai-impact-a-triagers-perspective)
 - text/plain
   - [Cybersecurity Metaphors](https://textslashplain.com/2026/05/05/cybersecurity-metaphors/)
 - rtl-sdr.com
   - [Student Arrested in Taiwan for using SDR and Handheld Radios to Halt Four High Speed Trains with TETRA Hack](https://www.rtl-sdr.com/student-arrested-in-taiwan-for-using-sdr-and-handheld-radios-to-halt-four-high-speed-trains-with-tetra-hack/)
   - [SatDump V2 Image Product Expressions YouTube Tutorial](https://www.rtl-sdr.com/satdump-v2-image-product-expressions-youtube-tutorial/)
+- Shostack & Friends Blog
+  - [Clever Clippings Star Wars Art](https://shostack.org/blog/clever-clippings-star-wars-art/)
 - 奇客Solidot–传递最新科技情报
   - [NASA 发布逾 1.2 万张阿尔忒弥斯二号绕月任务照片](https://www.solidot.org/story?sid=84217)
   - [Roku 和 TCL 因软件更新导致电视变砖被起诉](https://www.solidot.org/story?sid=84216)
   - [NASA 局长认为冥王星是行星](https://www.solidot.org/story?sid=84215)
   - [Signal 开发无需手机的独立桌面应用](https://www.solidot.org/story?sid=84214)
   - [MS Edge 被发现会在内存中明文加载所有密码](https://www.solidot.org/story?sid=84213)
-- Shostack & Friends Blog
-  - [Clever Clippings Star Wars Art](https://shostack.org/blog/clever-clippings-star-wars-art/)
-- 赵武的自留地
-  - [山河无恙，膝下承欢](https://mp.weixin.qq.com/s?__biz=MjM5NDQ5NjM5NQ==&mid=2651626467&idx=1&sn=99e218f250374d5c04484aa8672470ac)
-- 黑鸟
-  - [全球知名虚拟光驱软件DAEMON Tools遭供应链攻击](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186622&idx=1&sn=f8f9fb30b8f0cdb8c599fa4d3c10fc85)
 - 奇安信 CERT
   - [今日（2026年5月5日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505570&idx=1&sn=7b0ccc76465f5158fd40c96d835d4fc9)
+- 黑鸟
+  - [全球知名虚拟光驱软件DAEMON Tools遭供应链攻击](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186622&idx=1&sn=f8f9fb30b8f0cdb8c599fa4d3c10fc85)
 - 暗影安全
   - [2026.05.05日，国家电网威胁情报，被挂马！](https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165780&idx=1&sn=0703cd95fc22cdaf912702703bb7e3e0)
 - 丁爸 情报分析师的工具箱
   - [【图像挖掘】这张照片是在哪里拍摄的？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155435&idx=1&sn=6362e020e34ad9271d1b0e8c9d213c60)
-- 火绒安全
-  - [立夏 | 春去夏已至 网安欣向荣](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532532&idx=1&sn=11a6e2aa3e4a9c3b2b56a8f52d59dbed)
-  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532532&idx=2&sn=6c178e3a5cbe4913efa0564db65a4127)
-- 极客公园
-  - [谷歌、英伟达押注，这家估值 40 亿美元的 AI 公司，想把科学家直接干掉](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653105108&idx=1&sn=22b608fc902ef2d8ab910a2218e5d7c0)
-  - [豆包也要「付费订阅」了，最高500元/月；宇树机器人在美买票坐飞机，电池被没收；「AI 面试」火爆，但 40% 求职者放弃面试｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653105212&idx=1&sn=e2a060b94da061844a8bc0faf2acd998)
+- 看雪学苑
+  - [2026年腾讯游戏安全初赛-PC方向](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614423&idx=1&sn=8526e89b264b69a99591972be2130d0c)
+- 赵武的自留地
+  - [山河无恙，膝下承欢](https://mp.weixin.qq.com/s?__biz=MjM5NDQ5NjM5NQ==&mid=2651626467&idx=1&sn=99e218f250374d5c04484aa8672470ac)
 - 安全圈
   - [【安全圈】Apache HTTP Server 漏洞致数百万服务器面临远程代码执行攻击风险](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076183&idx=1&sn=9d34b2fc14abfd37f943b2df7423829c)
   - [【安全圈】微软Edge浏览器启动时将所有保存的密码以明文形式存入进程内存](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076183&idx=2&sn=89eb82b9ba5b66647110ddada38ce35a)
   - [【安全圈】吃掉 7GB 内存：曝 YouTube 网页版存在 Bug，导致浏览器严重卡顿](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076183&idx=3&sn=a52211c41b1a63ac799e0f7b131ecc57)
+- 青衣十三楼飞花堂
+  - [在地下_马识途_摘录(2)](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489447&idx=1&sn=b1b3f047eab4558d8d2f98ecb419a306)
 - 安全行者老霍
   - [2026年最重要的网络安全桌面推演案例与场景](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486579&idx=1&sn=e993e207365c27d8777ca7db7666ebe2)
 - 迪哥讲事
   - [重定向绕过另类思路](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499404&idx=1&sn=5358483b915f29675284bf5124238704)
-- 看雪学苑
-  - [2026年腾讯游戏安全初赛-PC方向](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614423&idx=1&sn=8526e89b264b69a99591972be2130d0c)
-- Have I Been Pwned latest breaches
-  - [Vimeo - 119,167 breached accounts](https://haveibeenpwned.com/Breach/Vimeo)
-- Javvad Malik
-  - [The Dek Principle](https://javvadmalik.com/2026/05/05/the-dek-principle/)
+- TrustedSec
+  - [The Defensive Stack is Exposed: LLMs, Reverse Engineering, and the End of Opaque Defense](https://trustedsec.com/blog/the-defensive-stack-is-exposed)
+- 吴鲁加
+  - [艹，是屎](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486072&idx=1&sn=048f64355cae9b50b37f265ef2bc681b)
 - Future of Tech and Security: Strategy & Innovation with Raffy
   - [The Future of MDR (Managed Detection and Response)](https://raffy.ch/blog/2026/05/05/the-future-of-mdr-managed-detection-and-response/)
+- Javvad Malik
+  - [The Dek Principle](https://javvadmalik.com/2026/05/05/the-dek-principle/)
+- 火绒安全
+  - [立夏 | 春去夏已至 网安欣向荣](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532532&idx=1&sn=11a6e2aa3e4a9c3b2b56a8f52d59dbed)
+  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532532&idx=2&sn=6c178e3a5cbe4913efa0564db65a4127)
+- Have I Been Pwned latest breaches
+  - [Vimeo - 119,167 breached accounts](https://haveibeenpwned.com/Breach/Vimeo)
+- Schneier on Security
+  - [DarkSword Malware](https://www.schneier.com/blog/archives/2026/05/darksword-malware.html)
+- 极客公园
+  - [谷歌、英伟达押注，这家估值 40 亿美元的 AI 公司，想把科学家直接干掉](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653105108&idx=1&sn=22b608fc902ef2d8ab910a2218e5d7c0)
+  - [豆包也要「付费订阅」了，最高500元/月；宇树机器人在美买票坐飞机，电池被没收；「AI 面试」火爆，但 40% 求职者放弃面试｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653105212&idx=1&sn=e2a060b94da061844a8bc0faf2acd998)
+- ICT Security Magazine
+  - [Cybersecurity burnout: la crisi silenziosa dei team di sicurezza](https://www.ictsecuritymagazine.com/articoli/cybersecurity-burnout/)
+  - [AI agentica: rischi, vulnerabilità e governance dell’AI autonoma nell’era post-generativa](https://www.ictsecuritymagazine.com/articoli/ai-agentica/)
 - SANS Internet Storm Center, InfoCON: green
   - [Cleartext Passwords in MS Edge&#x3f; In 2026&#x3f;, (Mon, May 4th)](https://isc.sans.edu/diary/rss/32954)
   - [SSL.com rotates their root certificate today, (Tue, May 5th)](https://isc.sans.edu/diary/rss/32956)
   - [ISC Stormcast For Tuesday, May 5th, 2026 https://isc.sans.edu/podcastdetail/9918, (Tue, May 5th)](https://isc.sans.edu/diary/rss/32952)
-- ICT Security Magazine
-  - [Cybersecurity burnout: la crisi silenziosa dei team di sicurezza](https://www.ictsecuritymagazine.com/articoli/cybersecurity-burnout/)
-  - [AI agentica: rischi, vulnerabilità e governance dell’AI autonoma nell’era post-generativa](https://www.ictsecuritymagazine.com/articoli/ai-agentica/)
-- TrustedSec
-  - [The Defensive Stack is Exposed: LLMs, Reverse Engineering, and the End of Opaque Defense](https://trustedsec.com/blog/the-defensive-stack-is-exposed)
-- Schneier on Security
-  - [DarkSword Malware](https://www.schneier.com/blog/archives/2026/05/darksword-malware.html)
-- 吴鲁加
-  - [艹，是屎](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486072&idx=1&sn=048f64355cae9b50b37f265ef2bc681b)
-- Security Affairs
-  - [U.S. court sentences Karakurt ransomware negotiator to 8.5 years](https://securityaffairs.com/191722/cyber-crime/u-s-court-sentences-karakurt-ransomware-negotiator-to-8-5-years.html)
-  - [Vimeo confirms breach via third-party vendor impacts 119K users](https://securityaffairs.com/191715/data-breach/vimeo-confirms-breach-via-third-party-vendor-impacts-119k-users.html)
-  - [Critical Android vulnerability CVE-2026-0073 fixed by Google](https://securityaffairs.com/191710/breaking-news/critical-android-vulnerability-cve-2026-0073-fixed-by-google.html)
-  - [Microsoft warns of global campaign stealing auth tokens from 35K users](https://securityaffairs.com/191695/security/microsoft-warns-of-global-campaign-stealing-auth-tokens-from-35k-users.html)
-  - [Educational tech firm Instructure data breach may have impacted 9,000 schools](https://securityaffairs.com/191686/cyber-crime/educational-tech-firm-instructure-data-breach-may-have-impacted-9000-schools.html)
 - The Hacker News
   - [Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE](https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html)
   - [DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware](https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html)
@@ -103,6 +99,12 @@
 - Deeplinks
   - [EFF and 18 Organizations Urge UK Policymakers to Prioritize Addressing the Roots of Online Harm](https://www.eff.org/deeplinks/2026/05/eff-and-18-organizations-urge-uk-policymakers-prioritize-addressing-roots-online)
   - [Shut Down Turnkey Totalitarianism](https://www.eff.org/deeplinks/2026/04/claw-back)
+- Security Affairs
+  - [U.S. court sentences Karakurt ransomware negotiator to 8.5 years](https://securityaffairs.com/191722/cyber-crime/u-s-court-sentences-karakurt-ransomware-negotiator-to-8-5-years.html)
+  - [Vimeo confirms breach via third-party vendor impacts 119K users](https://securityaffairs.com/191715/data-breach/vimeo-confirms-breach-via-third-party-vendor-impacts-119k-users.html)
+  - [Critical Android vulnerability CVE-2026-0073 fixed by Google](https://securityaffairs.com/191710/breaking-news/critical-android-vulnerability-cve-2026-0073-fixed-by-google.html)
+  - [Microsoft warns of global campaign stealing auth tokens from 35K users](https://securityaffairs.com/191695/security/microsoft-warns-of-global-campaign-stealing-auth-tokens-from-35k-users.html)
+  - [Educational tech firm Instructure data breach may have impacted 9,000 schools](https://securityaffairs.com/191686/cyber-crime/educational-tech-firm-instructure-data-breach-may-have-impacted-9000-schools.html)
 - Security Weekly Podcast Network (Audio)
   - [Zino, 0auth, VSS, Mental Health Hackers, 3 Days of KEV, Copy/Fail, AI, Aaran Leyland - SWN #578](http://sites.libsyn.com/18678/zino-0auth-vss-mental-health-hackers-3-days-of-kev-copyfail-ai-aaran-leyland-swn-578)
   - [Keeping Up With the OWASP GenAI Project - Scott Clinton - ASW #381](http://sites.libsyn.com/18678/keeping-up-with-the-owasp-genai-project-scott-clinton-asw-381)
