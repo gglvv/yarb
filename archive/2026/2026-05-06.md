@@ -1,38 +1,31 @@
 # 每日安全资讯（2026-05-06）
 
-- SecWiki News
-  - [SecWiki News 2026-05-05 Review](http://www.sec-wiki.com/?2026-05-05)
-- Sucuri Blog
-  - [DNSSEC: The Extra Security Layer That Can Break Your Padlock](https://blog.sucuri.net/2026/05/dnssec-the-extra-security-layer-that-can-break-your-padlock.html)
 - 博客
   - [Spooling](https://dyrnq.com/spooling/)
   - [gecos](https://dyrnq.com/gecos/)
   - [Subway Underground Metro](https://dyrnq.com/subway-underground-metro/)
   - [bus and hub](https://dyrnq.com/bus-and-hub/)
   - [lane pipeline sink tunnel funnel channel canal](https://dyrnq.com/lane-pipeline-sink-tunnel-funnel-channel-canal/)
+- SecWiki News
+  - [SecWiki News 2026-05-05 Review](http://www.sec-wiki.com/?2026-05-05)
+- Sucuri Blog
+  - [DNSSEC: The Extra Security Layer That Can Break Your Padlock](https://blog.sucuri.net/2026/05/dnssec-the-extra-security-layer-that-can-break-your-padlock.html)
 - Recent Commits to cve:main
   - [Update Tue May  5 11:17:45 UTC 2026](https://github.com/trickest/cve/commit/97130e38141194b83cf212cc0971a6cebaca4a7a)
+- Horizon3.ai
+  - [Unifying SOC and ITSM](https://horizon3.ai/downloads/whitepapers/unifying-soc-itsm-cyber-risk-guide/)
 - Cerbero Blog
   - [DotNETBinaryFormatter Format Package](https://blog.cerbero.io/dotnetbinaryformatter-format-package/)
 - The Trail of Bits Blog
   - [C/C++ checklist challenges, solved](https://blog.trailofbits.com/2026/05/05/c/c-checklist-challenges-solved/)
-- Reverse Engineering
-  - [Reverse-engineering the 1998 Ultima Online demo server](https://www.reddit.com/r/ReverseEngineering/comments/1t4ncdd/reverseengineering_the_1998_ultima_online_demo/)
-  - [HyperVenom: Using Hyper-V for Ring -1 Control from Usermode](https://www.reddit.com/r/ReverseEngineering/comments/1t4u5f4/hypervenom_using_hyperv_for_ring_1_control_from/)
-  - [EMBA v2.0.1 with interactive firmware dependency map available - Check it out and let us know what you are missing](https://www.reddit.com/r/ReverseEngineering/comments/1t4izmb/emba_v201_with_interactive_firmware_dependency/)
-  - [Resident Evil: Code Veronica X is able to play the opening FMV from the decompiled PS2 source!](https://www.reddit.com/r/ReverseEngineering/comments/1t4vy96/resident_evil_code_veronica_x_is_able_to_play_the/)
-  - [Inside Faxanadu series — deep dive into how this NES title works](https://www.reddit.com/r/ReverseEngineering/comments/1t4j841/inside_faxanadu_series_deep_dive_into_how_this/)
-  - [Copy.fail: Why Internal LLMs Are Non-Negotiable for Security](https://www.reddit.com/r/ReverseEngineering/comments/1t4a62o/copyfail_why_internal_llms_are_nonnegotiable_for/)
 - Malwarebytes
   - [Update WhatsApp now: Two new flaws could expose you to malicious files](https://www.malwarebytes.com/blog/news/2026/05/update-whatsapp-now-two-new-flaws-could-expose-you-to-malicious-files)
-- Horizon3.ai
-  - [Unifying SOC and ITSM](https://horizon3.ai/downloads/whitepapers/unifying-soc-itsm-cyber-risk-guide/)
+- Sucuri Blog
+  - [DNSSEC: The Extra Security Layer That Can Break Your Padlock](https://blog.sucuri.net/2026/05/dnssec-the-extra-security-layer-that-can-break-your-padlock.html)
 - Intigriti
   - [The AI impact: a triager’s perspective](https://www.intigriti.com/blog/business-insights/the-ai-impact-a-triagers-perspective)
 - Hacking Articles
   - [Active Directory Exploitation with Metasploit](https://www.hackingarticles.in/active-directory-exploitation-with-metasploit/)
-- Sucuri Blog
-  - [DNSSEC: The Extra Security Layer That Can Break Your Padlock](https://blog.sucuri.net/2026/05/dnssec-the-extra-security-layer-that-can-break-your-padlock.html)
 - text/plain
   - [Cybersecurity Metaphors](https://textslashplain.com/2026/05/05/cybersecurity-metaphors/)
 - Shostack & Friends Blog
@@ -41,18 +34,23 @@
   - [Student Arrested in Taiwan for using SDR and Handheld Radios to Halt Four High Speed Trains with TETRA Hack](https://www.rtl-sdr.com/student-arrested-in-taiwan-for-using-sdr-and-handheld-radios-to-halt-four-high-speed-trains-with-tetra-hack/)
   - [SatDump V2 Image Product Expressions YouTube Tutorial](https://www.rtl-sdr.com/satdump-v2-image-product-expressions-youtube-tutorial/)
 - 奇客Solidot–传递最新科技情报
+  - [NASA 发布逾 1.2 万张阿尔忒弥斯二号绕月任务照片](https://www.solidot.org/story?sid=84217)
+  - [Roku 和 TCL 因软件更新导致电视变砖被起诉](https://www.solidot.org/story?sid=84216)
+  - [NASA 局长认为冥王星是行星](https://www.solidot.org/story?sid=84215)
+  - [Signal 开发无需手机的独立桌面应用](https://www.solidot.org/story?sid=84214)
   - [MS Edge 被发现会在内存中明文加载所有密码](https://www.solidot.org/story?sid=84213)
 - 赵武的自留地
   - [山河无恙，膝下承欢](https://mp.weixin.qq.com/s?__biz=MjM5NDQ5NjM5NQ==&mid=2651626467&idx=1&sn=99e218f250374d5c04484aa8672470ac)
-- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [Anthropic开发智能体助银行打击金融犯罪](https://blog.upx8.com/Anthropic%E5%BC%80%E5%8F%91%E6%99%BA%E8%83%BD%E4%BD%93%E5%8A%A9%E9%93%B6%E8%A1%8C%E6%89%93%E5%87%BB%E9%87%91%E8%9E%8D%E7%8A%AF%E7%BD%AA)
-  - [GPT-5.5 Instant向所有ChatGPT用户推出](https://blog.upx8.com/GPT-5-5-Instant%E5%90%91%E6%89%80%E6%9C%89ChatGPT%E7%94%A8%E6%88%B7%E6%8E%A8%E5%87%BA)
+- 暗影安全
+  - [2026.05.05日，国家电网威胁情报，被挂马！](https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165780&idx=1&sn=0703cd95fc22cdaf912702703bb7e3e0)
 - 奇安信 CERT
   - [今日（2026年5月5日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505570&idx=1&sn=7b0ccc76465f5158fd40c96d835d4fc9)
 - 黑鸟
   - [全球知名虚拟光驱软件DAEMON Tools遭供应链攻击](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186622&idx=1&sn=f8f9fb30b8f0cdb8c599fa4d3c10fc85)
 - 丁爸 情报分析师的工具箱
   - [【图像挖掘】这张照片是在哪里拍摄的？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155435&idx=1&sn=6362e020e34ad9271d1b0e8c9d213c60)
+- 看雪学苑
+  - [2026年腾讯游戏安全初赛-PC方向](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614423&idx=1&sn=8526e89b264b69a99591972be2130d0c)
 - 安全圈
   - [【安全圈】Apache HTTP Server 漏洞致数百万服务器面临远程代码执行攻击风险](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076183&idx=1&sn=9d34b2fc14abfd37f943b2df7423829c)
   - [【安全圈】微软Edge浏览器启动时将所有保存的密码以明文形式存入进程内存](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076183&idx=2&sn=89eb82b9ba5b66647110ddada38ce35a)
@@ -60,58 +58,35 @@
 - 极客公园
   - [谷歌、英伟达押注，这家估值 40 亿美元的 AI 公司，想把科学家直接干掉](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653105108&idx=1&sn=22b608fc902ef2d8ab910a2218e5d7c0)
   - [豆包也要「付费订阅」了，最高500元/月；宇树机器人在美买票坐飞机，电池被没收；「AI 面试」火爆，但 40% 求职者放弃面试｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653105212&idx=1&sn=e2a060b94da061844a8bc0faf2acd998)
-- 看雪学苑
-  - [2026年腾讯游戏安全初赛-PC方向](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614423&idx=1&sn=8526e89b264b69a99591972be2130d0c)
+- 安全行者老霍
+  - [2026年最重要的网络安全桌面推演案例与场景](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486579&idx=1&sn=e993e207365c27d8777ca7db7666ebe2)
 - 火绒安全
   - [立夏 | 春去夏已至 网安欣向荣](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532532&idx=1&sn=11a6e2aa3e4a9c3b2b56a8f52d59dbed)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532532&idx=2&sn=6c178e3a5cbe4913efa0564db65a4127)
-- 暗影安全
-  - [2026.05.05日，国家电网威胁情报，被挂马！](https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165780&idx=1&sn=0703cd95fc22cdaf912702703bb7e3e0)
-- 安全行者老霍
-  - [2026年最重要的网络安全桌面推演案例与场景](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486579&idx=1&sn=e993e207365c27d8777ca7db7666ebe2)
-- 吴鲁加
-  - [艹，是屎](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486072&idx=1&sn=048f64355cae9b50b37f265ef2bc681b)
-- 迪哥讲事
-  - [重定向绕过另类思路](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499404&idx=1&sn=5358483b915f29675284bf5124238704)
 - TrustedSec
   - [The Defensive Stack is Exposed: LLMs, Reverse Engineering, and the End of Opaque Defense](https://trustedsec.com/blog/the-defensive-stack-is-exposed)
-- Javvad Malik
-  - [The Dek Principle](https://javvadmalik.com/2026/05/05/the-dek-principle/)
+- 迪哥讲事
+  - [重定向绕过另类思路](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499404&idx=1&sn=5358483b915f29675284bf5124238704)
 - ICT Security Magazine
   - [Cybersecurity burnout: la crisi silenziosa dei team di sicurezza](https://www.ictsecuritymagazine.com/articoli/cybersecurity-burnout/)
   - [AI agentica: rischi, vulnerabilità e governance dell’AI autonoma nell’era post-generativa](https://www.ictsecuritymagazine.com/articoli/ai-agentica/)
-- Schneier on Security
-  - [DarkSword Malware](https://www.schneier.com/blog/archives/2026/05/darksword-malware.html)
 - Have I Been Pwned latest breaches
   - [Vimeo - 119,167 breached accounts](https://haveibeenpwned.com/Breach/Vimeo)
+- Javvad Malik
+  - [The Dek Principle](https://javvadmalik.com/2026/05/05/the-dek-principle/)
+- 吴鲁加
+  - [艹，是屎](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486072&idx=1&sn=048f64355cae9b50b37f265ef2bc681b)
+- Schneier on Security
+  - [DarkSword Malware](https://www.schneier.com/blog/archives/2026/05/darksword-malware.html)
 - Future of Tech and Security: Strategy & Innovation with Raffy
   - [The Future of MDR (Managed Detection and Response)](https://raffy.ch/blog/2026/05/05/the-future-of-mdr-managed-detection-and-response/)
 - SANS Internet Storm Center, InfoCON: green
   - [Cleartext Passwords in MS Edge&#x3f; In 2026&#x3f;, (Mon, May 4th)](https://isc.sans.edu/diary/rss/32954)
   - [SSL.com rotates their root certificate today, (Tue, May 5th)](https://isc.sans.edu/diary/rss/32956)
   - [ISC Stormcast For Tuesday, May 5th, 2026 https://isc.sans.edu/podcastdetail/9918, (Tue, May 5th)](https://isc.sans.edu/diary/rss/32952)
-- Social Engineering
-  - [Different countries, very different balance between time and productivity](https://www.reddit.com/r/SocialEngineering/comments/1t42wwl/different_countries_very_different_balance/)
 - Deeplinks
   - [EFF and 18 Organizations Urge UK Policymakers to Prioritize Addressing the Roots of Online Harm](https://www.eff.org/deeplinks/2026/05/eff-and-18-organizations-urge-uk-policymakers-prioritize-addressing-roots-online)
   - [Shut Down Turnkey Totalitarianism](https://www.eff.org/deeplinks/2026/04/claw-back)
-- Technical Information Security Content & Discussion
-  - [Bleeding Llama: Critical Unauthenticated Memory Leak in Ollama (CVE-2026–7482)](https://www.reddit.com/r/netsec/comments/1t4q8zd/bleeding_llama_critical_unauthenticated_memory/)
-  - [DigiCert: Misissued code signing certificates](https://www.reddit.com/r/netsec/comments/1t4lw0o/digicert_misissued_code_signing_certificates/)
-  - [Major AI Clients Shipping With Broken OAuth Implementations](https://www.reddit.com/r/netsec/comments/1t4jfdp/major_ai_clients_shipping_with_broken_oauth/)
-  - [We probed 6,000 web apps for Stripe webhook signature checks. 1,542 don't bother](https://www.reddit.com/r/netsec/comments/1t45sa6/we_probed_6000_web_apps_for_stripe_webhook/)
-  - [Proton Pass: Second-Password Bypass Through Emergency Access](https://www.reddit.com/r/netsec/comments/1t495rf/proton_pass_secondpassword_bypass_through/)
-  - [Popular DAEMON Tools software infected – supply chain attack ongoing since April 8, 2026](https://www.reddit.com/r/netsec/comments/1t4ajhu/popular_daemon_tools_software_infected_supply/)
-  - [Salesforce pentesting novel techniques- how to be an apex predator](https://www.reddit.com/r/netsec/comments/1t4q24o/salesforce_pentesting_novel_techniques_how_to_be/)
-  - [Ghosts of Encryption Past – How we Read All Your Emails in Salesforce Marketing Cloud](https://www.reddit.com/r/netsec/comments/1t4c6dp/ghosts_of_encryption_past_how_we_read_all_your/)
-  - [The Danger of Multi-SSO AWS Cognito User Pools](https://www.reddit.com/r/netsec/comments/1t4bnja/the_danger_of_multisso_aws_cognito_user_pools/)
-  - [HN Security - Extending Burp Suite for fun and profit – The Montoya way – Part 10](https://www.reddit.com/r/netsec/comments/1t4e6n0/hn_security_extending_burp_suite_for_fun_and/)
-  - [Scan. Secure. Simplify. — Free Web Tools Platform](https://www.reddit.com/r/netsec/comments/1t4quwt/scan_secure_simplify_free_web_tools_platform/)
-- netsecstudents: Subreddit for students studying Network Security and its related subjects
-  - [Completed SQLMap Room | TryHackMe](https://www.reddit.com/r/netsecstudents/comments/1t4p4up/completed_sqlmap_room_tryhackme/)
-- Deep Web
-  - [caught in Epstein's web](https://www.reddit.com/r/deepweb/comments/1t4hmcs/caught_in_epsteins_web/)
-  - [Whats actually possible? (PI work)](https://www.reddit.com/r/deepweb/comments/1t42idi/whats_actually_possible_pi_work/)
 - The Hacker News
   - [Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE](https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html)
   - [DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware](https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html)
@@ -122,26 +97,12 @@
   - [ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows](https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html)
   - [Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API](https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html)
   - [Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries](https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html)
-- Information Security
-  - [A Security Researcher Decompiled The White House App, & What They Found Is Pretty Alarming](https://www.reddit.com/r/Information_Security/comments/1t4ttdt/a_security_researcher_decompiled_the_white_house/)
-  - [Zero-Trust with AI agents as identities : what’s your strategy?](https://www.reddit.com/r/Information_Security/comments/1t4fm35/zerotrust_with_ai_agents_as_identities_whats_your/)
-  - [What entry-level roles can I target after completing training?](https://www.reddit.com/r/Information_Security/comments/1t4ed3x/what_entrylevel_roles_can_i_target_after/)
-  - [Microsoft 365 shows internal sender, but source IP is external. How is this possible?](https://www.reddit.com/r/Information_Security/comments/1t4brz1/microsoft_365_shows_internal_sender_but_source_ip/)
 - Security Affairs
   - [U.S. court sentences Karakurt ransomware negotiator to 8.5 years](https://securityaffairs.com/191722/cyber-crime/u-s-court-sentences-karakurt-ransomware-negotiator-to-8-5-years.html)
   - [Vimeo confirms breach via third-party vendor impacts 119K users](https://securityaffairs.com/191715/data-breach/vimeo-confirms-breach-via-third-party-vendor-impacts-119k-users.html)
   - [Critical Android vulnerability CVE-2026-0073 fixed by Google](https://securityaffairs.com/191710/breaking-news/critical-android-vulnerability-cve-2026-0073-fixed-by-google.html)
   - [Microsoft warns of global campaign stealing auth tokens from 35K users](https://securityaffairs.com/191695/security/microsoft-warns-of-global-campaign-stealing-auth-tokens-from-35k-users.html)
   - [Educational tech firm Instructure data breach may have impacted 9,000 schools](https://securityaffairs.com/191686/cyber-crime/educational-tech-firm-instructure-data-breach-may-have-impacted-9000-schools.html)
-- Your Open Hacker Community
-  - [Any tips](https://www.reddit.com/r/HowToHack/comments/1t4ry6z/any_tips/)
-  - [Looking for the best resources to learn buffer overflows and stack working,where do I start?](https://www.reddit.com/r/HowToHack/comments/1t4izsl/looking_for_the_best_resources_to_learn_buffer/)
-  - [HackRF, Flipper Zero, Raspberry Pi or Arduino](https://www.reddit.com/r/HowToHack/comments/1t4d7t2/hackrf_flipper_zero_raspberry_pi_or_arduino/)
-- Computer Forensics
-  - [Timezone normalization across multi-device extractions — best practices?](https://www.reddit.com/r/computerforensics/comments/1t4seo6/timezone_normalization_across_multidevice/)
-  - [WAInsight — open-source forensic analysis suite for WhatsApp Android databases](https://www.reddit.com/r/computerforensics/comments/1t4vx7v/wainsight_opensource_forensic_analysis_suite_for/)
-  - [I built a 100% browser-only EXIF viewer + metadata remover + image-forensics lab — no upload, no account, free](https://www.reddit.com/r/computerforensics/comments/1t4a2t6/i_built_a_100_browseronly_exif_viewer_metadata/)
-  - [Magnet One - any experiences?](https://www.reddit.com/r/computerforensics/comments/1t4dsz4/magnet_one_any_experiences/)
 - Security Weekly Podcast Network (Audio)
   - [Zino, 0auth, VSS, Mental Health Hackers, 3 Days of KEV, Copy/Fail, AI, Aaran Leyland - SWN #578](http://sites.libsyn.com/18678/zino-0auth-vss-mental-health-hackers-3-days-of-kev-copyfail-ai-aaran-leyland-swn-578)
   - [Keeping Up With the OWASP GenAI Project - Scott Clinton - ASW #381](http://sites.libsyn.com/18678/keeping-up-with-the-owasp-genai-project-scott-clinton-asw-381)
