@@ -1,56 +1,62 @@
 # 每日安全资讯（2026-05-09）
 
+- Microsoft Security Blog
+  - [Active attack: Dirty Frag Linux vulnerability expands post-compromise risk](https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/)
 - Armin Ronacher's Thoughts and Writings
   - [Pushing Local Models With Focus And Polish](https://lucumr.pocoo.org/2026/5/8/local-models/)
 - Paper - 知道创宇404实验室
   - [ReTokSync：面向生成式语言隐写的自同步分词消歧方法](https://paper.seebug.org/3481)
-- Microsoft Security Blog
-  - [Active attack: Dirty Frag Linux vulnerability expands post-compromise risk](https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/)
-- Recent Commits to cve:main
-  - [Update Fri May  8 11:29:33 UTC 2026](https://github.com/trickest/cve/commit/2970349146a8a135fe77751d66a4e89beb2e0254)
-- Tenable Blog
-  - [Dirty Frag (CVE-2026-43284, CVE-2026-43500): Frequently asked questions about this Linux kernel privilege escalation vulnerability chain](https://www.tenable.com/blog/dirty-frag-cve-2026-43284-cve-2026-43500-frequently-asked-questions-linux-kernel-lpe)
-  - [Why the approaching flood of vulnerabilities changes everything — and what to do about it](https://www.tenable.com/blog/why-the-approaching-flood-of-vulnerabilities-changes-everything-and-what-to-do-about-it)
-- 先知安全技术社区
-  - [AMSI对抗技术](https://xz.aliyun.com/news/92105)
-  - [Java Attach API内存注入](https://xz.aliyun.com/news/92103)
-  - [HackTheBox AirTouch：一场从 SNMP 泄露打进 WPA2 无线内网的攻击链](https://xz.aliyun.com/news/92102)
-- SecWiki News
-  - [SecWiki News 2026-05-08 Review](http://www.sec-wiki.com/?2026-05-08)
-- 先知安全技术社区
-  - [AMSI对抗技术](https://xz.aliyun.com/news/92105)
-  - [Java Attach API内存注入](https://xz.aliyun.com/news/92103)
-  - [HackTheBox AirTouch：一场从 SNMP 泄露打进 WPA2 无线内网的攻击链](https://xz.aliyun.com/news/92102)
 - 博客
   - [blkmapd](https://dyrnq.com/blkmapd/)
   - [gettext i18n and l10n](https://dyrnq.com/gettext-i18n-and-l10n/)
+- Tenable Blog
+  - [Dirty Frag (CVE-2026-43284, CVE-2026-43500): Frequently asked questions about this Linux kernel privilege escalation vulnerability chain](https://www.tenable.com/blog/dirty-frag-cve-2026-43284-cve-2026-43500-frequently-asked-questions-linux-kernel-lpe)
+  - [Why the approaching flood of vulnerabilities changes everything — and what to do about it](https://www.tenable.com/blog/why-the-approaching-flood-of-vulnerabilities-changes-everything-and-what-to-do-about-it)
+- Recent Commits to cve:main
+  - [Update Fri May  8 11:29:33 UTC 2026](https://github.com/trickest/cve/commit/2970349146a8a135fe77751d66a4e89beb2e0254)
+- 先知安全技术社区
+  - [AMSI对抗技术](https://xz.aliyun.com/news/92105)
+  - [Java Attach API内存注入](https://xz.aliyun.com/news/92103)
+  - [HackTheBox AirTouch：一场从 SNMP 泄露打进 WPA2 无线内网的攻击链](https://xz.aliyun.com/news/92102)
+- 先知安全技术社区
+  - [AMSI对抗技术](https://xz.aliyun.com/news/92105)
+  - [Java Attach API内存注入](https://xz.aliyun.com/news/92103)
+  - [HackTheBox AirTouch：一场从 SNMP 泄露打进 WPA2 无线内网的攻击链](https://xz.aliyun.com/news/92102)
 - obaby 𝐢‍𝐧⃝ void
   - [死去的回忆](https://zhongxiaojie.cn/2026/05/1224/)
   - [明知山有虎](https://zhongxiaojie.cn/2026/05/1216/)
 - Cerbero Blog
   - [F2FS Format Package](https://blog.cerbero.io/f2fs-format-package/)
+- SecWiki News
+  - [SecWiki News 2026-05-08 Review](http://www.sec-wiki.com/?2026-05-08)
 - Payatu
   - [The Chrome Extension That Stole the CEO’s Cookies: A Confession on AI, Trust, and Supply Chain Security](https://payatu.com/blog/chrome-extension-session-hijack-supply-chain-risk/)
-- GuidePoint Security
-  - [The Top 5 Industries Most Impacted by Ransomware in Q1 2026](https://www.guidepointsecurity.com/blog/5-industries-most-impacted-by-ransomware-q1-2026/)
 - Securelist
   - [CVE-2025-68670: discovering an RCE vulnerability in xrdp](https://securelist.com/cve-2025-68670/119742/)
-- SentinelOne
-  - [The Good, the Bad and the Ugly in Cybersecurity – Week 19](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-19-7/)
-- Malware-Traffic-Analysis.net - Blog Entries
-  - [2026-05-08: macOS Shub Stealer infection](https://www.malware-traffic-analysis.net/2026/05/08/index.html)
 - Malwarebytes
   - [Microsoft says Edge’s plaintext password behavior is “by design”](https://www.malwarebytes.com/blog/news/2026/05/microsoft-says-edges-plaintext-password-behavior-is-by-design)
   - [ShinyHunters escalates Canvas attacks with school login defacements](https://www.malwarebytes.com/blog/news/2026/05/shinyhunters-escalates-canvas-attacks-with-school-login-defacements)
+- SentinelOne
+  - [The Good, the Bad and the Ugly in Cybersecurity – Week 19](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-19-7/)
 - VMRay
   - [What Is a Sovereign Cloud? 5 Reasons You May Need One](https://www.vmray.com/sovereign-cloud/)
+- Malware-Traffic-Analysis.net - Blog Entries
+  - [2026-05-08: macOS Shub Stealer infection](https://www.malware-traffic-analysis.net/2026/05/08/index.html)
+- GuidePoint Security
+  - [The Top 5 Industries Most Impacted by Ransomware in Q1 2026](https://www.guidepointsecurity.com/blog/5-industries-most-impacted-by-ransomware-q1-2026/)
+- Reverse Engineering
+  - [Ghidra-SNES: A Ghidra extension for reverse engineering SNES ROMs (first public release, feedback welcome!)](https://www.reddit.com/r/ReverseEngineering/comments/1t78k56/ghidrasnes_a_ghidra_extension_for_reverse/)
+  - [Reverse-engineered DaVinci Resolve's activation check with Claude — Frida runtime tracing + radare2](https://www.reddit.com/r/ReverseEngineering/comments/1t75d8h/reverseengineered_davinci_resolves_activation/)
+  - [SASS King Part 2: reverse-engineering ptxas heuristic decisions and what the compiled binary actually reveals](https://www.reddit.com/r/ReverseEngineering/comments/1t6vy2d/sass_king_part_2_reverseengineering_ptxas/)
+  - [I just released a C++ rewrite of **Minecraft rd-20090515** (May 15, 2009 — one of the earliest pre-Classic versions).If you find it interesting, a ⭐ on GitHub would mean a lot and help the project grow!](https://www.reddit.com/r/ReverseEngineering/comments/1t6t5w2/i_just_released_a_c_rewrite_of_minecraft/)
 - bishopfox.com
   - [Otto Support - The Confused Deputy](https://bishopfox.com/blog/otto-support-confused-deputy)
 - 绿盟科技技术博客
   - [多智能体协同，绿盟科技开启Agentic SOC新范式](https://blog.nsfocus.net/%e5%a4%9a%e6%99%ba%e8%83%bd%e4%bd%93%e5%8d%8f%e5%90%8c%ef%bc%8c%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e5%bc%80%e5%90%afagentic-soc%e6%96%b0%e8%8c%83%e5%bc%8f/)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [爱彼迎表示其60%的新代码现由AI编写](https://blog.upx8.com/%E7%88%B1%E5%BD%BC%E8%BF%8E%E8%A1%A8%E7%A4%BA%E5%85%B660-%E7%9A%84%E6%96%B0%E4%BB%A3%E7%A0%81%E7%8E%B0%E7%94%B1AI%E7%BC%96%E5%86%99)
-  - [搬瓦工机场JMS的IPLC服务已宣布下线](https://blog.upx8.com/%E6%90%AC%E7%93%A6%E5%B7%A5%E6%9C%BA%E5%9C%BAJMS%E7%9A%84IPLC%E6%9C%8D%E5%8A%A1%E5%B7%B2%E5%AE%A3%E5%B8%83%E4%B8%8B%E7%BA%BF)
+- 赵武的自留地
+  - [《西夏字帖与铁骑红妆》](https://mp.weixin.qq.com/s?__biz=MjM5NDQ5NjM5NQ==&mid=2651626474&idx=1&sn=8dd14d64d7e8a73dc4eb4075a9fdc677)
 - HackerNews
   - [一文读懂 ReTokSync：解决大模型隐写的分词歧义难题](http://0.0.0.0:8080/post/64220)
   - [思科修复高危漏洞，防范 SSRF 与代码执行攻击](http://0.0.0.0:8080/post/64219)
@@ -59,6 +65,24 @@
   - [新型 TCLBanker 恶意软件借 WhatsApp 和 Outlook 自我传播](http://0.0.0.0:8080/post/64216)
   - [Ivanti EPMM 的远程代码执行漏洞遭主动利用，可获管理员级访问权限](http://0.0.0.0:8080/post/64215)
   - [PCPJack 凭证窃取器利用 5 个 CVE 漏洞像蠕虫一样在云系统中传播](http://0.0.0.0:8080/post/64214)
+- 微步在线研究响应中心
+  - [Dirty Frag 漏洞爆发！影响9年Linux内核的“确定性”提权漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508690&idx=1&sn=4bd97e12d5898b4f379ccfac5d4e849c)
+- 威努特安全网络
+  - [当工控系统“漏洞百出”，威努特如何筑起“钢铁防线”](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651141523&idx=1&sn=04814a9c120099845905bb8fae7f7640)
+- 绿盟科技CERT
+  - [【漏洞通告】Linux内核权限提升漏洞（Dirty Frag）](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247492267&idx=1&sn=7cfc3683a6dd463030f8bfa2c6806ccf)
+- 丁爸 情报分析师的工具箱
+  - [【情报实战】汉坦病毒肺综合症暴发](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155482&idx=1&sn=24c2ab86d4c7e33ff70a4aa124458790)
+- 看雪学苑
+  - [一条命令就能提权！Copy Fail 还没补完，Linux 内核又曝 Dirty Frag 漏洞](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614670&idx=1&sn=364bd9c47201a3c4b46f3ab61839a403)
+  - [夯爆了！薪资最高70k，企业直招一键投递](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614670&idx=2&sn=faeae0a3c965268c65cc294ccdf7c81b)
+  - [RiskEngine 开源设备指纹和风险监测SDK](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614670&idx=3&sn=090bb02a3e7953bad8d45f2d15d8aefe)
+- 长亭安全应急响应中心
+  - [【已复现】Copy Fail 补丁失效——Linux 提权漏洞 Dirty Frag 预警](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493223&idx=1&sn=951de34d09aadbbf791103bdc856deb1)
+- 黑鸟
+  - [Mozilla如何用Claude Mythos修复Firefox 中271个潜伏漏洞](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186656&idx=1&sn=280b99bf1a17385aae56b5958b9d8e2f)
+- 奇安信 CERT
+  - [【已复现】Linux Kernel Dirty Frag 本地权限提升漏洞(QVD-2026-24699)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505651&idx=1&sn=851bea5967f41e36826cece869716677)
 - 奇客Solidot–传递最新科技情报
   - [人类历史上首次男性生育力低于女性](https://www.solidot.org/story?sid=84249)
   - [JDownloader 网站被入侵用户被推送恶意程序](https://www.solidot.org/story?sid=84248)
@@ -70,115 +94,145 @@
   - [六成 MD5 密码能在一小时内破解](https://www.solidot.org/story?sid=84242)
   - [Cloudflare 裁员逾 1100 人](https://www.solidot.org/story?sid=84241)
   - [PHP 项目淘汰 PHP 许可证](https://www.solidot.org/story?sid=84240)
-- 黑鸟
-  - [Mozilla如何用Claude Mythos修复Firefox 中271个潜伏漏洞](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186656&idx=1&sn=280b99bf1a17385aae56b5958b9d8e2f)
-- 代码卫士
-  - [Ivanti 提醒注意已遭利用的 EPMM 高危漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525953&idx=1&sn=40c610f460f60706c41341497c18c035)
-  - [速修复已存在21年的 FreeBSD RCE 漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525953&idx=2&sn=1a26c3978eeeaebb1b34b4427e58b4ae)
-- 威努特安全网络
-  - [当工控系统“漏洞百出”，威努特如何筑起“钢铁防线”](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651141523&idx=1&sn=04814a9c120099845905bb8fae7f7640)
-- 奇安信 CERT
-  - [【已复现】Linux Kernel Dirty Frag 本地权限提升漏洞(QVD-2026-24699)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505651&idx=1&sn=851bea5967f41e36826cece869716677)
-- 微步在线研究响应中心
-  - [Dirty Frag 漏洞爆发！影响9年Linux内核的“确定性”提权漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508690&idx=1&sn=4bd97e12d5898b4f379ccfac5d4e849c)
-- 绿盟科技CERT
-  - [【漏洞通告】Linux内核权限提升漏洞（Dirty Frag）](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247492267&idx=1&sn=7cfc3683a6dd463030f8bfa2c6806ccf)
-- 赵武的自留地
-  - [《西夏字帖与铁骑红妆》](https://mp.weixin.qq.com/s?__biz=MjM5NDQ5NjM5NQ==&mid=2651626474&idx=1&sn=8dd14d64d7e8a73dc4eb4075a9fdc677)
-- 长亭安全应急响应中心
-  - [【已复现】Copy Fail 补丁失效——Linux 提权漏洞 Dirty Frag 预警](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493223&idx=1&sn=951de34d09aadbbf791103bdc856deb1)
 - 奇安信病毒响应中心
   - [每周勒索威胁摘要](https://mp.weixin.qq.com/s?__biz=MzI5Mzg5MDM3NQ==&mid=2247498600&idx=1&sn=ae55ecd76812f29ef7b77b7520b7cdaa)
-- 丁爸 情报分析师的工具箱
-  - [【情报实战】汉坦病毒肺综合症暴发](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155482&idx=1&sn=24c2ab86d4c7e33ff70a4aa124458790)
-- 微步在线
-  - [DirtyFrag漏洞细节及PoC已公开](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186437&idx=1&sn=78c033288678c7b40d772884356c57a0)
-- 数世咨询
-  - [研究人员发现MCP设计缺陷 Anthropic拒绝修改](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542805&idx=1&sn=f07b3fa14466f3d661911e072497d7dc)
-  - [Anthropi玻璃翼计划目前只确认了一个CVE](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542805&idx=2&sn=9b5a18f6a3176a2ad985d5258ea32320)
-- 奇安信威胁情报中心
-  - [每周高级威胁情报解读(2026.05.01~05.07)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518627&idx=1&sn=b29e952bd2d03588db5aab224debf1a7)
-- 网络空间安全科学学报
-  - [【学术活动】第八届“网络空间安全学术前沿与学科建设”研讨会即将召开](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507471&idx=1&sn=585899c54f57c5623204f6a697bb2ace)
-- 青藤云安全
-  - [青藤防病毒能力金融行业认可简报](https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650851270&idx=1&sn=e2760e4b95d511e6c7894294cdc6d121)
 - 中国信息安全
   - [中国信息安全测评中心主任彭涛：智能向善守底线 信息安全护民生](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664262305&idx=1&sn=8713ab64c3b4011c7040b46593e94f45)
   - [《中国信息安全》杂志2026年第4期目录](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664262305&idx=2&sn=2622c2863291c39c72ce1a200394a4d2)
-- 安全牛
-  - [攻击量暴跌 87%、破防率暴涨 20%！勒索软件迈入精准猎杀时代](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141297&idx=1&sn=c856a2678797940b25f0c1bfcea15618)
-  - [中央网信办启动 “清朗・整治 AI 应用乱象” 专项行动；假冒 Claude AI 网站分发 Beagle 后门，利用 DLL 劫持入侵 Windows| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141297&idx=2&sn=eea492712fea9da0e40d3283c49fd8bb)
-- 安全圈
-  - [【安全圈】Chrome 148 安全大更新127 个漏洞，立刻升级](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076237&idx=1&sn=30e0c0d6f2c1d613c004fdfcccaa4172)
-  - [【安全圈】Ubuntu官方账号被黑！发布假AI程序：实为钓鱼骗局](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076237&idx=2&sn=e643fec666d72d0f489fc4428c759af1)
-  - [【安全圈】思科修复高危漏洞，防范 SSRF 与代码执行攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076237&idx=3&sn=cf888f50ed50f6f3e877ab1eae838d07)
+- 奇安信威胁情报中心
+  - [每周高级威胁情报解读(2026.05.01~05.07)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247518627&idx=1&sn=b29e952bd2d03588db5aab224debf1a7)
+- 数世咨询
+  - [研究人员发现MCP设计缺陷 Anthropic拒绝修改](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542805&idx=1&sn=f07b3fa14466f3d661911e072497d7dc)
+  - [Anthropi玻璃翼计划目前只确认了一个CVE](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542805&idx=2&sn=9b5a18f6a3176a2ad985d5258ea32320)
+- M01N Team
+  - [每周蓝军技术推送（2026.5.2-5.8）](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495022&idx=1&sn=db735c6a19342e06024737d374d7d171)
+- 网络空间安全科学学报
+  - [【学术活动】第八届“网络空间安全学术前沿与学科建设”研讨会即将召开](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507471&idx=1&sn=585899c54f57c5623204f6a697bb2ace)
+- 代码卫士
+  - [Ivanti 提醒注意已遭利用的 EPMM 高危漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525953&idx=1&sn=40c610f460f60706c41341497c18c035)
+  - [速修复已存在21年的 FreeBSD RCE 漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525953&idx=2&sn=1a26c3978eeeaebb1b34b4427e58b4ae)
+- 安全内参
+  - [网络攻击引发美国校园大混乱：2.8亿条数据泄露，学生课堂、作业与期末考试全部被打乱](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515912&idx=1&sn=09dd4c4a7df3ef3fa8dcb9a896731989)
+  - [富士康美国工厂断网停产多天，引发网络攻击担忧](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515912&idx=2&sn=9151f61cc86438ac4caba4bfed10b531)
 - 极客公园
   - [OSMO Pocket 4P，是大疆自己打响的「云台相机下半场」第一枪](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653106146&idx=1&sn=f7db2dbe986ddff32f91d87a6272f3d6)
   - [扫地机祖师爷再创业：造了一只懂你的「人造赛博宠物」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653106034&idx=1&sn=25b2450f0bfa8cd86514983815adf563)
   - [美团推「养虾社区」；OpenAI 推出三款实时语音模型；宇树机器人在韩国佛门「受戒」，法名「迦悲」| 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653105780&idx=1&sn=6bffdefc14926d70211698f7047c5a05)
-- 天融信阿尔法实验室
-  - [【风险提示】天融信关于Linux Kernel本地权限提升漏洞Dirty Frag的风险提示](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247496708&idx=1&sn=d371ec89db29d4d25db8e5dd5d339c2c)
-- 京东安全应急响应中心
-  - [第四届京麒 CTF 挑战赛 | 如期赴约，静候强者！](https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727850892&idx=1&sn=6bc379b67bc9b7f10c2034fde981460c)
-- 国家互联网应急中心CNCERT
-  - [网络安全信息与动态周报2026年第18期（4月27日-5月3日）](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501572&idx=1&sn=ad9361dcd2267feb171fa9f9801fef53)
-- 长亭科技
-  - [数智广电的安全命题，长亭科技在CCBN2026给了答案](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651390386&idx=1&sn=41aacc6c9e2703edb567211b7adf3c5a)
-  - [【立即修复】Dirty Frag 漏洞已公开 EXP！一条命令阻断攻击路径](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651390386&idx=2&sn=6e77c1b10a9a6838b85e4ca9587ea430)
-- 补天平台
-  - [翻倍奖励来啦！信也SRC限时双倍奖金！](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510704&idx=1&sn=4646210e849e3948179b93c69a0a3ca9)
-- 深信服千里目安全技术中心
-  - [【漏洞通告】Apache HTTP Server mod_http2 双重释放漏洞(CVE-2026-23918)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525526&idx=1&sn=07ac03abdde556813ff744b9ca642ed8)
-  - [网络安全信息与动态周报2026年第18期（4月27日-5月3日）](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525526&idx=2&sn=c8961b713f0d04f93938d103465639a7)
 - 情报分析师
   - [【读文有感】他在CIA干了30年才明白：最硬的本事，不是开枪是管理人性！](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567732&idx=1&sn=271ecb5f5a2693adc4d26122116b76cb)
   - [这不是美日一纸备忘录，而是美国自主无人系统工业链向第一岛链前沿嵌入的信号](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567732&idx=2&sn=f98e3730fdacafbbbede5faa261ccab4)
+- 安全圈
+  - [【安全圈】Chrome 148 安全大更新127 个漏洞，立刻升级](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076237&idx=1&sn=30e0c0d6f2c1d613c004fdfcccaa4172)
+  - [【安全圈】Ubuntu官方账号被黑！发布假AI程序：实为钓鱼骗局](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076237&idx=2&sn=e643fec666d72d0f489fc4428c759af1)
+  - [【安全圈】思科修复高危漏洞，防范 SSRF 与代码执行攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076237&idx=3&sn=cf888f50ed50f6f3e877ab1eae838d07)
+- 云鼎实验室
+  - [速查！Linux 内核又曝 "Dirty Frag" 提权漏洞，无需竞争条件可直接 root](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497541&idx=1&sn=2114e00c017f9afce4b05acb9a1ca29a)
 - 火绒安全
   - [秒盗账号钱包！伪装Electron程序暗藏后门窃取加密数据](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532628&idx=1&sn=dd6443b102cb40ce40795dbcb8014b36)
   - [火绒小问答——「企业版」企业版控制中心与终端部署环境](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532628&idx=2&sn=339ee2efb1504e96f14bade2f92bf5e4)
   - [【火绒安全周报】虚拟光驱官网遭黑客攻击/微软披露网络钓鱼活动](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532628&idx=3&sn=bba000b095a6da6514acd5a4b7d5942c)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532628&idx=4&sn=785f7c1f3cf1cd43d41e9c5fdbc754f4)
-- 看雪学苑
-  - [一条命令就能提权！Copy Fail 还没补完，Linux 内核又曝 Dirty Frag 漏洞](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614670&idx=1&sn=364bd9c47201a3c4b46f3ab61839a403)
-  - [夯爆了！薪资最高70k，企业直招一键投递](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614670&idx=2&sn=faeae0a3c965268c65cc294ccdf7c81b)
-  - [RiskEngine 开源设备指纹和风险监测SDK](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458614670&idx=3&sn=090bb02a3e7953bad8d45f2d15d8aefe)
-- 安全行者老霍
-  - [DevOps 安全悖论：为何交付越快，往往风险越高](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486604&idx=1&sn=f354b5ab7b9f4fe502cb743c99a40360)
-- 表图
-  - [[译苑雅集vol. 8]AI 会取代人类工作吗？为什么“人类不是马”这个类比并不成立](https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247485002&idx=1&sn=9d5432b80a2bc03fb85146e48e9a99fc)
-- 安全内参
-  - [网络攻击引发美国校园大混乱：2.8亿条数据泄露，学生课堂、作业与期末考试全部被打乱](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515912&idx=1&sn=09dd4c4a7df3ef3fa8dcb9a896731989)
-  - [富士康美国工厂断网停产多天，引发网络攻击担忧](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515912&idx=2&sn=9151f61cc86438ac4caba4bfed10b531)
-- 云鼎实验室
-  - [速查！Linux 内核又曝 "Dirty Frag" 提权漏洞，无需竞争条件可直接 root](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497541&idx=1&sn=2114e00c017f9afce4b05acb9a1ca29a)
-- 墨菲安全
-  - [墨菲安全联合公安三所、国泰海通证券发布《漏洞及投毒情报应用实践指南》](https://mp.weixin.qq.com/s?__biz=MzkwOTM0MjI5NQ==&mid=2247488401&idx=1&sn=7821a4d753764560bc4391f3c1aef39b)
-- M01N Team
-  - [每周蓝军技术推送（2026.5.2-5.8）](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495022&idx=1&sn=db735c6a19342e06024737d374d7d171)
-- 威胁猎人Threat Hunter
-  - [威胁猎人黑话词典2.0｜打击欺诈行为，快速了解黑灰产黑话（信贷欺诈篇）](https://mp.weixin.qq.com/s?__biz=MzI3NDY3NDUxNg==&mid=2247503527&idx=1&sn=9348d6663e2ee80985bddd1c959d9200)
+- 京东安全应急响应中心
+  - [第四届京麒 CTF 挑战赛 | 如期赴约，静候强者！](https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727850892&idx=1&sn=6bc379b67bc9b7f10c2034fde981460c)
+- 安全牛
+  - [攻击量暴跌 87%、破防率暴涨 20%！勒索软件迈入精准猎杀时代](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141297&idx=1&sn=c856a2678797940b25f0c1bfcea15618)
+  - [中央网信办启动 “清朗・整治 AI 应用乱象” 专项行动；假冒 Claude AI 网站分发 Beagle 后门，利用 DLL 劫持入侵 Windows| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141297&idx=2&sn=eea492712fea9da0e40d3283c49fd8bb)
+- 天融信阿尔法实验室
+  - [【风险提示】天融信关于Linux Kernel本地权限提升漏洞Dirty Frag的风险提示](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247496708&idx=1&sn=d371ec89db29d4d25db8e5dd5d339c2c)
+- 微步在线
+  - [DirtyFrag漏洞细节及PoC已公开](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186437&idx=1&sn=78c033288678c7b40d772884356c57a0)
+- 青藤云安全
+  - [青藤防病毒能力金融行业认可简报](https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650851270&idx=1&sn=e2760e4b95d511e6c7894294cdc6d121)
+- 深信服千里目安全技术中心
+  - [【漏洞通告】Apache HTTP Server mod_http2 双重释放漏洞(CVE-2026-23918)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525526&idx=1&sn=07ac03abdde556813ff744b9ca642ed8)
+  - [网络安全信息与动态周报2026年第18期（4月27日-5月3日）](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247525526&idx=2&sn=c8961b713f0d04f93938d103465639a7)
 - 字节跳动技术团队
   - [抖音动态体验优化实践与思考](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247519658&idx=1&sn=95a16291712f0de8814897cc2f3dc5b2)
-- Microsoft Security Blog
-  - [Active attack: Dirty Frag Linux vulnerability expands post-compromise risk](https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/)
+- 国家互联网应急中心CNCERT
+  - [网络安全信息与动态周报2026年第18期（4月27日-5月3日）](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501572&idx=1&sn=ad9361dcd2267feb171fa9f9801fef53)
+- 墨菲安全
+  - [墨菲安全联合公安三所、国泰海通证券发布《漏洞及投毒情报应用实践指南》](https://mp.weixin.qq.com/s?__biz=MzkwOTM0MjI5NQ==&mid=2247488401&idx=1&sn=7821a4d753764560bc4391f3c1aef39b)
+- 安全行者老霍
+  - [DevOps 安全悖论：为何交付越快，往往风险越高](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486604&idx=1&sn=f354b5ab7b9f4fe502cb743c99a40360)
 - 软件安全与逆向分析
   - [最近是怎么了？又一款通杀全线Linux发行版的0Day漏洞](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485155&idx=1&sn=297226eb7a1334739226f0ac851e1e65)
-- Desync InfoSec
-  - [Dirty Frag：又一个 Linux 通用提权，这次连补丁都没有](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490327&idx=1&sn=f8ded8acc3f6cb4b91ad09cf1217f4db)
+- 威胁猎人Threat Hunter
+  - [威胁猎人黑话词典2.0｜打击欺诈行为，快速了解黑灰产黑话（信贷欺诈篇）](https://mp.weixin.qq.com/s?__biz=MzI3NDY3NDUxNg==&mid=2247503527&idx=1&sn=9348d6663e2ee80985bddd1c959d9200)
 - NETRESEC Network Security Blog
   - [Remcos Alerts from FlowCarp in EveBox](https://www.netresec.com/?page=Blog&month=2026-05&post=Remcos-Alerts-from-FlowCarp-in-EveBox)
-- Securityinfo.it
-  - [Ecco il GitHub per fare di Claude un operatore OSINT avanzato](https://www.securityinfo.it/2026/05/08/ecco-il-github-per-fare-di-claude-un-operatore-osint-avanzato/?utm_source=rss&utm_medium=rss&utm_campaign=ecco-il-github-per-fare-di-claude-un-operatore-osint-avanzato)
-- Javvad Malik
-  - [Breach of Confidence: 8 May 2026](https://javvadmalik.com/2026/05/08/breach-of-confidence-8-may-2026/)
-- Have I Been Pwned latest breaches
-  - [Zara - 197,376 breached accounts](https://haveibeenpwned.com/Breach/Zara)
+- Desync InfoSec
+  - [Dirty Frag：又一个 Linux 通用提权，这次连补丁都没有](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247490327&idx=1&sn=f8ded8acc3f6cb4b91ad09cf1217f4db)
+- 补天平台
+  - [翻倍奖励来啦！信也SRC限时双倍奖金！](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510704&idx=1&sn=4646210e849e3948179b93c69a0a3ca9)
+- 表图
+  - [[译苑雅集vol. 8]AI 会取代人类工作吗？为什么“人类不是马”这个类比并不成立](https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247485002&idx=1&sn=9d5432b80a2bc03fb85146e48e9a99fc)
+- Yak Project
+  - [Yakit AI 强化：使用AI高效解决渗透测试中验证码问题](https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247529780&idx=1&sn=92561f10faee00057c0e77e193e35a3e)
 - ICT Security Magazine
   - [Crisi cyber: il vero punto debole non è la tecnologia, ma il coordinamento](https://www.ictsecuritymagazine.com/notizie/crisi-cyber/)
   - [Cyberstalking: anatomia di una persecuzione digitale tra diritto, tecnologia e nuove frontiere dell’IA](https://www.ictsecuritymagazine.com/notizie/cyberstalking/)
+- Javvad Malik
+  - [Breach of Confidence: 8 May 2026](https://javvadmalik.com/2026/05/08/breach-of-confidence-8-may-2026/)
 - SANS Internet Storm Center, InfoCON: green
   - [Another Universal Linux Local Privilege Escalation (LPE) Vulnerability: Dirty Frag, (Fri, May 8th)](https://isc.sans.edu/diary/rss/32968)
   - [ISC Stormcast For Friday, May 8th, 2026 https://isc.sans.edu/podcastdetail/9924, (Fri, May 8th)](https://isc.sans.edu/diary/rss/32966)
+- Schneier on Security
+  - [Friday Squid Blogging: Giant Squid Live in the Waters of Western Australia](https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-giant-squid-live-in-the-waters-of-western-australia.html)
+  - [Insider Betting on Polymarket](https://www.schneier.com/blog/archives/2026/05/insider-betting-on-polymarket.html)
+- Have I Been Pwned latest breaches
+  - [Zara - 197,376 breached accounts](https://haveibeenpwned.com/Breach/Zara)
+- Securityinfo.it
+  - [Ecco il GitHub per fare di Claude un operatore OSINT avanzato](https://www.securityinfo.it/2026/05/08/ecco-il-github-per-fare-di-claude-un-operatore-osint-avanzato/?utm_source=rss&utm_medium=rss&utm_campaign=ecco-il-github-per-fare-di-claude-un-operatore-osint-avanzato)
+- 吾爱破解论坛
+  - [解开 Windows 微信 4.0 版本的主数据库](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144290&idx=1&sn=8800d7eb92dae5dd9347e52b91a8abdd)
+- GRAHAM CLULEY
+  - [One in eight UK workers has sold their company passwords, and bosses think it’s fine](https://www.fortra.com/blog/one-eight-uk-workers-has-sold-their-company-passwords-and-bosses-think-its-fine)
+  - [Inside Department 4: Russia’s secret school for hackers](https://www.bitdefender.com/en-us/blog/hotforsecurity/inside-department-4-russias-secret-school-for-hackers)
+  - [Sri Lanka makes 37 arrests as it raids another scam centre](https://www.bitdefender.com/en-us/blog/hotforsecurity/sri-lanka-37-arrests-scam-centre)
+- Security Affairs
+  - [RansomHouse says it breached Trellix and exposes internal systems](https://securityaffairs.com/191879/cyber-crime/ransomhouse-says-it-breached-trellix-and-exposes-internal-systems.html)
+  - [Cyberattacks on Poland’s Water Plants: A Blueprint for Hybrid Warfare](https://securityaffairs.com/191868/security/cyberattacks-on-polands-water-plants-a-blueprint-for-hybrid-warfare.html)
+  - [Zara Data Breach: 197,000 Customers Exposed in Third-Party Security Incident](https://securityaffairs.com/191859/cyber-crime/zara-data-breach-197000-customers-exposed-in-third-party-security-incident.html)
+  - [Dirty Frag: A new Linux privilege escalation vulnerability is already in the wild](https://securityaffairs.com/191847/hacking/dirty-frag-a-new-linux-privilege-escalation-vulnerability-is-already-in-the-wild.html)
+  - [AI, Cyberwarfare, and Autonomous Weapons: Inside America’s New Military Strategy](https://securityaffairs.com/191842/cyber-warfare-2/ai-cyberwarfare-and-autonomous-weapons-inside-americas-new-military-strategy.html)
+- Krebs on Security
+  - [Canvas Breach Disrupts Schools & Colleges Nationwide](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/)
+- Tor Project blog
+  - [New Release: Tor Browser 15.0.13](https://blog.torproject.org/new-release-tor-browser-15013/)
+- Blackhat Library: Hacking techniques and research
+  - [The Canvas Hack Is a New Kind of Ransomware Debacle](https://www.reddit.com/r/blackhat/comments/1t74i24/the_canvas_hack_is_a_new_kind_of_ransomware/)
+  - [How to create and manage multiple instagram accounts?](https://www.reddit.com/r/blackhat/comments/1t729mr/how_to_create_and_manage_multiple_instagram/)
+- 长亭科技
+  - [数智广电的安全命题，长亭科技在CCBN2026给了答案](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651390386&idx=1&sn=41aacc6c9e2703edb567211b7adf3c5a)
+  - [【立即修复】Dirty Frag 漏洞已公开 EXP！一条命令阻断攻击路径](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651390386&idx=2&sn=6e77c1b10a9a6838b85e4ca9587ea430)
+- Your Open Hacker Community
+  - [National Public Database Leak Download](https://www.reddit.com/r/HowToHack/comments/1t7en4d/national_public_database_leak_download/)
+  - [Relevance of Wifite in 2026?](https://www.reddit.com/r/HowToHack/comments/1t76auo/relevance_of_wifite_in_2026/)
+  - [National Public Database Leak](https://www.reddit.com/r/HowToHack/comments/1t7es4q/national_public_database_leak/)
+  - [Session hijacking is phishing?](https://www.reddit.com/r/HowToHack/comments/1t707fs/session_hijacking_is_phishing/)
+  - [un truffatore ha cercato di rubarmi i soldi del mio account Glovo del mio Ristorante](https://www.reddit.com/r/HowToHack/comments/1t7lo2h/un_truffatore_ha_cercato_di_rubarmi_i_soldi_del/)
+  - [I need to get someone’s IP address and name if possible](https://www.reddit.com/r/HowToHack/comments/1t7ogk8/i_need_to_get_someones_ip_address_and_name_if/)
+  - [How to see if he’s in my phone](https://www.reddit.com/r/HowToHack/comments/1t7kwb4/how_to_see_if_hes_in_my_phone/)
+  - [HELP NEEDED](https://www.reddit.com/r/HowToHack/comments/1t7ga3o/help_needed/)
+- Social Engineering
+  - [How social engineering tactics are used against women online and offline](https://www.reddit.com/r/SocialEngineering/comments/1t6wvm3/how_social_engineering_tactics_are_used_against/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [I documented an eBPF telemetry integrity research technique: SunnyDayBPF](https://www.reddit.com/r/netsecstudents/comments/1t7igrq/i_documented_an_ebpf_telemetry_integrity_research/)
+  - [How much OS understanding is used for work](https://www.reddit.com/r/netsecstudents/comments/1t74v35/how_much_os_understanding_is_used_for_work/)
+  - [What actually makes SAST scanners hard to build accurately?](https://www.reddit.com/r/netsecstudents/comments/1t7bs5x/what_actually_makes_sast_scanners_hard_to_build/)
+  - [Career Transition from Penetration Testing to Security Compliance](https://www.reddit.com/r/netsecstudents/comments/1t6x3tr/career_transition_from_penetration_testing_to/)
+- Dark Space Blogspot
+  - [Come Sarao Provocò Flash Crash Dei Mercati: Spoofing e Iceberg Orders](http://darkwhite666.blogspot.com/2026/05/come-sarao-provoco-flash-crash-dei.html)
+- 安全419
+  - [安全419｜一周国际网安资讯：AI代理成新攻击面 MOVEit漏洞警报再响](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247553258&idx=1&sn=83a4fa668907842ce1ea97fcd090457f)
+- Deep Web
+  - [un truffatore ha cercato di rubarmi i soldi del mio account Glovo del mio Ristorante](https://www.reddit.com/r/deepweb/comments/1t7lp4l/un_truffatore_ha_cercato_di_rubarmi_i_soldi_del/)
+- Deeplinks
+  - [Congress Narrowed the GUARD Act, But Serious Problems Remain](https://www.eff.org/deeplinks/2026/05/congress-narrowed-guard-act-serious-problems-remain)
+  - [Free Signal Guide](https://www.eff.org/deeplinks/2026/05/free-sginal-guide)
+- Information Security
+  - [Get into cybersecurity (17 year old)](https://www.reddit.com/r/Information_Security/comments/1t76zd3/get_into_cybersecurity_17_year_old/)
+  - [open source multi provider AI Agent for cybersec](https://www.reddit.com/r/Information_Security/comments/1t789og/open_source_multi_provider_ai_agent_for_cybersec/)
 - The Hacker News
   - [TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms](https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html)
   - [Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads](https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html)
@@ -187,35 +241,13 @@
   - [One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk](https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html)
   - [New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials](https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html)
   - [Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions](https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html)
-- Security Affairs
-  - [RansomHouse says it breached Trellix and exposes internal systems](https://securityaffairs.com/191879/cyber-crime/ransomhouse-says-it-breached-trellix-and-exposes-internal-systems.html)
-  - [Cyberattacks on Poland’s Water Plants: A Blueprint for Hybrid Warfare](https://securityaffairs.com/191868/security/cyberattacks-on-polands-water-plants-a-blueprint-for-hybrid-warfare.html)
-  - [Zara Data Breach: 197,000 Customers Exposed in Third-Party Security Incident](https://securityaffairs.com/191859/cyber-crime/zara-data-breach-197000-customers-exposed-in-third-party-security-incident.html)
-  - [Dirty Frag: A new Linux privilege escalation vulnerability is already in the wild](https://securityaffairs.com/191847/hacking/dirty-frag-a-new-linux-privilege-escalation-vulnerability-is-already-in-the-wild.html)
-  - [AI, Cyberwarfare, and Autonomous Weapons: Inside America’s New Military Strategy](https://securityaffairs.com/191842/cyber-warfare-2/ai-cyberwarfare-and-autonomous-weapons-inside-americas-new-military-strategy.html)
-- 迪哥讲事
-  - [有意思的逻辑缺陷](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499419&idx=1&sn=6be89b80e7a9669ce7ee55b5be52b5f6)
-- Dark Space Blogspot
-  - [Come Sarao Provocò Flash Crash Dei Mercati: Spoofing e Iceberg Orders](http://darkwhite666.blogspot.com/2026/05/come-sarao-provoco-flash-crash-dei.html)
-- Deeplinks
-  - [Congress Narrowed the GUARD Act, But Serious Problems Remain](https://www.eff.org/deeplinks/2026/05/congress-narrowed-guard-act-serious-problems-remain)
-  - [Free Signal Guide](https://www.eff.org/deeplinks/2026/05/free-sginal-guide)
-- Schneier on Security
-  - [Friday Squid Blogging: Giant Squid Live in the Waters of Western Australia](https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-giant-squid-live-in-the-waters-of-western-australia.html)
-  - [Insider Betting on Polymarket](https://www.schneier.com/blog/archives/2026/05/insider-betting-on-polymarket.html)
-- Yak Project
-  - [Yakit AI 强化：使用AI高效解决渗透测试中验证码问题](https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247529780&idx=1&sn=92561f10faee00057c0e77e193e35a3e)
-- GRAHAM CLULEY
-  - [One in eight UK workers has sold their company passwords, and bosses think it’s fine](https://www.fortra.com/blog/one-eight-uk-workers-has-sold-their-company-passwords-and-bosses-think-its-fine)
-  - [Inside Department 4: Russia’s secret school for hackers](https://www.bitdefender.com/en-us/blog/hotforsecurity/inside-department-4-russias-secret-school-for-hackers)
-  - [Sri Lanka makes 37 arrests as it raids another scam centre](https://www.bitdefender.com/en-us/blog/hotforsecurity/sri-lanka-37-arrests-scam-centre)
-- Tor Project blog
-  - [New Release: Tor Browser 15.0.13](https://blog.torproject.org/new-release-tor-browser-15013/)
-- Krebs on Security
-  - [Canvas Breach Disrupts Schools & Colleges Nationwide](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/)
-- 安全419
-  - [安全419｜一周国际网安资讯：AI代理成新攻击面 MOVEit漏洞警报再响](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247553258&idx=1&sn=83a4fa668907842ce1ea97fcd090457f)
-- 吾爱破解论坛
-  - [解开 Windows 微信 4.0 版本的主数据库](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144290&idx=1&sn=8800d7eb92dae5dd9347e52b91a8abdd)
 - Security Weekly Podcast Network (Audio)
   - [Canvas, Shai-Hulud, QuasarRat, 0Days, Anthropic, Aaran Leyland, and EU Compliance! - SWN #579](http://sites.libsyn.com/18678/canvas-shai-hulud-quasarrat-0days-anthropic-aaran-leyland-and-eu-compliance-swn-579)
+- Technical Information Security Content & Discussion
+  - [Securing CI/CD for an open source project: lessons from Cilium](https://www.reddit.com/r/netsec/comments/1t7k5gb/securing_cicd_for_an_open_source_project_lessons/)
+  - [Needle crypto-stealer C2 analysis: API key embedded in plain text inside the Rust malware unlocked 1,932 victims and the operator's withdrawal config](https://www.reddit.com/r/netsec/comments/1t73zot/needle_cryptostealer_c2_analysis_api_key_embedded/)
+  - [Seclens: Role-specific Evaluation of LLM's for security vulnerablity detection](https://www.reddit.com/r/netsec/comments/1t7opmm/seclens_rolespecific_evaluation_of_llms_for/)
+- Microsoft Security Blog
+  - [Active attack: Dirty Frag Linux vulnerability expands post-compromise risk](https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/)
+- 迪哥讲事
+  - [有意思的逻辑缺陷](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499419&idx=1&sn=6be89b80e7a9669ce7ee55b5be52b5f6)
