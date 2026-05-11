@@ -2,6 +2,8 @@
 
 - SecWiki News
   - [SecWiki News 2026-05-10 Review](http://www.sec-wiki.com/?2026-05-10)
+- 博客
+  - [NVIDIA-SMI has failed because it couldn’t communicate with the NVIDIA driver. Make sure that the latest NVIDIA driver is installed and running.](https://dyrnq.com/nvidia-smi-has-failed-because-it-couldnt-communicate-with-the-nvidia-driver-make-sure-that-the-latest-nvidia-driver-is-installed-and-running/)
 - InfoSec Write-ups - Medium
   - [You Don’t Need a 0-Day for RCE: A Real-World Kill Chain](https://infosecwriteups.com/you-dont-need-a-0-day-for-rce-a-real-world-kill-chain-e7ec690ba9a4?source=rss----7b722bfd1b8d---4)
   - [Passkeys Aren’t Nearly as Effective as We Thought](https://infosecwriteups.com/passkeys-arent-nearly-as-effective-as-we-thought-54eed4eecf4a?source=rss----7b722bfd1b8d---4)
@@ -9,25 +11,28 @@
   - [They Charged $10/Month for a $5 Server, a Free Script, and Three Years of Lies. Here’s the Proof.](https://infosecwriteups.com/they-charged-10-month-for-a-5-server-a-free-script-and-three-years-of-lies-heres-the-proof-b232637e4269?source=rss----7b722bfd1b8d---4)
 - Recent Commits to cve:main
   - [Update Sun May 10 11:42:54 UTC 2026](https://github.com/trickest/cve/commit/a325fd00334ce8bf64a73a0a9377b461349aedec)
-- 博客
-  - [NVIDIA-SMI has failed because it couldn’t communicate with the NVIDIA driver. Make sure that the latest NVIDIA driver is installed and running.](https://dyrnq.com/nvidia-smi-has-failed-because-it-couldnt-communicate-with-the-nvidia-driver-make-sure-that-the-latest-nvidia-driver-is-installed-and-running/)
 - MaskRay
   - [Fighting Hyrum's Law in LLVM](https://maskray.me/blog/2026-05-10-fighting-hyrums-law-in-llvm)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [You Don’t Need a 0-Day for RCE: A Real-World Kill Chain](https://infosecwriteups.com/you-dont-need-a-0-day-for-rce-a-real-world-kill-chain-e7ec690ba9a4?source=rss----7b722bfd1b8d--bug_bounty)
+- Reverse Engineering
+  - [Building a Wasm-in-Wasm Virtualizer (with JIT decrypted paged memory)](https://www.reddit.com/r/ReverseEngineering/comments/1t9kx4e/building_a_wasminwasm_virtualizer_with_jit/)
+  - [PE Entropy Visualizer with per-block RVA/VA mapping, locate packed payloads and encrypted blobs, then jump straight to them in IDA/Ghidra](https://www.reddit.com/r/ReverseEngineering/comments/1t9eyzl/pe_entropy_visualizer_with_perblock_rvava_mapping/)
 - 奇客Solidot–传递最新科技情报
   - [每天走 8500 步有助于维持体重](https://www.solidot.org/story?sid=84259)
   - [欧盟考虑制限制使用美国云服务处理敏感数据](https://www.solidot.org/story?sid=84258)
-- 锦行科技
-  - [母亲节・感恩｜时光慢走，温暖常留](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494898&idx=1&sn=5d8ee0845154892a9153a408e7294efa)
 - 奇安信 CERT
   - [今日（2026年5月10日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505710&idx=1&sn=1bbefe5abcea4225c415ab03499775ef)
+- 锦行科技
+  - [母亲节・感恩｜时光慢走，温暖常留](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494898&idx=1&sn=5d8ee0845154892a9153a408e7294efa)
 - 黑鸟
   - [手机数据如何成为死亡判决依据](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186677&idx=1&sn=c00e0c8875072251b954001736b16e61)
-- 丁爸 情报分析师的工具箱
-  - [【技巧】地理位置开源情报](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155496&idx=1&sn=66f8b2df657c489fe49a6ae1df02a228)
 - 青衣十三楼飞花堂
   - [在地下_马识途_摘录(6)](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489452&idx=1&sn=d8d196165f0d7e186f9b7ef8f7c35355)
+- 二道情报贩子
+  - [在日本被捕后的拘留所经历](https://mp.weixin.qq.com/s?__biz=MzU5NTA3MTk5Ng==&mid=2247490046&idx=1&sn=85b219d65cf670ee916bf9b0e03270e2)
+- 丁爸 情报分析师的工具箱
+  - [【技巧】地理位置开源情报](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155496&idx=1&sn=66f8b2df657c489fe49a6ae1df02a228)
 - 中国信息安全
   - [专题·个人信息保护 | 大模型时代个人信息泄露风险与治理路径](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664262421&idx=1&sn=977a45a83fb7b8b0324122aadf1445e5)
   - [专家解读 | 范科峰：筑牢安全防线 让拟人化互动服务行稳致远](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664262421&idx=2&sn=c99c643a96c18dcc43bc0326e2d31919)
@@ -46,20 +51,51 @@
 - 火绒安全
   - [母亲节 | 世界虽大 总有您温暖的守候](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532630&idx=1&sn=c7f8736c0e8d4a5423e024ed14dcf9cc)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532630&idx=2&sn=0e746aedcebbebe60a5dff5633ba470b)
-- RedTeam
-  - [《社会正义谬误》读书笔记](https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484648&idx=1&sn=f01a006d03f4037dc044c3a7c57868bc)
+- 吴鲁加
+  - [选朴素的工具](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486082&idx=1&sn=1a3e731070d2bbe621f5b7cd68a38d3f)
 - SANS Internet Storm Center, InfoCON: green
   - [YARA-X 1.16.0 Release, (Sun, May 10th)](https://isc.sans.edu/diary/rss/32970)
-- Troy Hunt's Blog
-  - [Weekly Update 503](https://www.troyhunt.com/weekly-update-503/)
 - IT Service Management News
   - [Scadenze NIS](http://blog.cesaregallotti.it/2026/05/scadenze-nis.html)
+- Troy Hunt's Blog
+  - [Weekly Update 503](https://www.troyhunt.com/weekly-update-503/)
 - Security Affairs
   - [New cPanel vulnerabilities could allow file access and remote code execution](https://securityaffairs.com/191931/security/new-cpanel-vulnerabilities-could-allow-file-access-and-remote-code-execution.html)
   - [Official JDownloader site served malware to Windows and Linux users between May 6 and May 7](https://securityaffairs.com/191920/malware/official-jdownloader-site-served-malware-to-windows-and-linux-users.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 96](https://securityaffairs.com/191911/malware/security-affairs-malware-newsletter-round-96.html)
   - [Security Affairs newsletter Round 576 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/191908/breaking-news/security-affairs-newsletter-round-576-by-pierluigi-paganini-international-edition.html)
+- Your Open Hacker Community
+  - [WISENET security system?](https://www.reddit.com/r/HowToHack/comments/1t9an13/wisenet_security_system/)
+  - [Someone tried to steal my $$](https://www.reddit.com/r/HowToHack/comments/1t9kq8n/someone_tried_to_steal_my/)
+  - [how do i bypass a login](https://www.reddit.com/r/HowToHack/comments/1t9iqak/how_do_i_bypass_a_login/)
+  - [Help me hack a game and remove feature](https://www.reddit.com/r/HowToHack/comments/1t9fgpu/help_me_hack_a_game_and_remove_feature/)
+  - [trojan](https://www.reddit.com/r/HowToHack/comments/1t9c6r7/trojan/)
+  - [Let's admit it](https://www.reddit.com/r/HowToHack/comments/1t97mpe/lets_admit_it/)
+- Information Security
+  - [How do you handle sensitive data before it hits the LLM in your n8n workflows?](https://www.reddit.com/r/Information_Security/comments/1t9czbh/how_do_you_handle_sensitive_data_before_it_hits/)
+  - [One Vulnerability. 9,000 Educational Institutions. One Massive SaaS Failure.](https://www.reddit.com/r/Information_Security/comments/1t972ib/one_vulnerability_9000_educational_institutions/)
+  - [cloud pentest](https://www.reddit.com/r/Information_Security/comments/1t9g7nl/cloud_pentest/)
+  - [Security cameras being blocked](https://www.reddit.com/r/Information_Security/comments/1t986ij/security_cameras_being_blocked/)
+  - [Group call from unknown contacts on WhatsApp](https://www.reddit.com/r/Information_Security/comments/1t8z7mm/group_call_from_unknown_contacts_on_whatsapp/)
+- Social Engineering
+  - [A Fixed Center](https://www.reddit.com/r/SocialEngineering/comments/1t9kwk6/a_fixed_center/)
 - The Hacker News
   - [Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak](https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html)
+- Computer Forensics
+  - [Announcing Crow-Eye v0.10.0: The AI forensics assistance](https://www.reddit.com/r/computerforensics/comments/1t9d8ol/announcing_croweye_v0100_the_ai_forensics/)
+- Deep Web
+  - [Need respondents for my academic thesis on dark web (Repost)](https://www.reddit.com/r/deepweb/comments/1t9abwm/need_respondents_for_my_academic_thesis_on_dark/)
+  - [Tor.link](https://www.reddit.com/r/deepweb/comments/1t8t1vg/torlink/)
+  - [What’s this language?](https://www.reddit.com/r/deepweb/comments/1t907cg/whats_this_language/)
+- Technical Information Security Content & Discussion
+  - [Autonomous Vulnerability Hunting with MCP](https://www.reddit.com/r/netsec/comments/1t9ka55/autonomous_vulnerability_hunting_with_mcp/)
+  - [ShinyHunters / AT&T ransom payment traced on-chain — paper draft, seeking arXiv cs.CR endorsement](https://www.reddit.com/r/netsec/comments/1t9ees0/shinyhunters_att_ransom_payment_traced_onchain/)
+  - [The compression of the exploit timeline: Why n-day gaps and 90-day embargoes are failing in practice.](https://www.reddit.com/r/netsec/comments/1t92jb3/the_compression_of_the_exploit_timeline_why_nday/)
+  - [Data in Use Protection: How MPC Keeps Inputs Hidden from the Cloud - Stoffel - MPC Made Simple](https://www.reddit.com/r/netsec/comments/1t95nof/data_in_use_protection_how_mpc_keeps_inputs/)
+  - [Outrunning SHA256 with Physics](https://www.reddit.com/r/netsec/comments/1t90mzl/outrunning_sha256_with_physics/)
+- Blackhat Library: Hacking techniques and research
+  - [Are days really over?](https://www.reddit.com/r/blackhat/comments/1t916v5/are_days_really_over/)
 - 吾爱破解论坛
   - [谈谈我对VMProtect代码保护”通解”的一点看法](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144335&idx=1&sn=da3d7245aa70c203711ef1025677b2a0)
+- RedTeam
+  - [《社会正义谬误》读书笔记](https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484648&idx=1&sn=f01a006d03f4037dc044c3a7c57868bc)
