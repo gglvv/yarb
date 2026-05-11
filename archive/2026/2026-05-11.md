@@ -26,6 +26,8 @@
   - [手机数据如何成为死亡判决依据](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186677&idx=1&sn=c00e0c8875072251b954001736b16e61)
 - 丁爸 情报分析师的工具箱
   - [【技巧】地理位置开源情报](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155496&idx=1&sn=66f8b2df657c489fe49a6ae1df02a228)
+- 青衣十三楼飞花堂
+  - [在地下_马识途_摘录(6)](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489452&idx=1&sn=d8d196165f0d7e186f9b7ef8f7c35355)
 - 中国信息安全
   - [专题·个人信息保护 | 大模型时代个人信息泄露风险与治理路径](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664262421&idx=1&sn=977a45a83fb7b8b0324122aadf1445e5)
   - [专家解读 | 范科峰：筑牢安全防线 让拟人化互动服务行稳致远](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664262421&idx=2&sn=c99c643a96c18dcc43bc0326e2d31919)
@@ -39,25 +41,25 @@
 - 极客公园
   - [华为 Pura X Max 卖爆了，但「阔折叠」还只赢了一半](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653106232&idx=1&sn=9918257cab18c1d73e3d05850c74a921)
   - [Altman 或官宣 OpenAI 硬件；李想谈 L9 4 年才换代：汽车非手机，AI 帮助有限；多家车企否认「被约谈」 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653106222&idx=1&sn=a6c1b4b95a55c71499147bc3cb41b264)
+- 情报分析师
+  - [五角大楼的"秘密武器"！当AI开始读懂机密情报](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567796&idx=1&sn=ea97655dbb986831f32d3bc19e7881b1)
 - 火绒安全
   - [母亲节 | 世界虽大 总有您温暖的守候](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532630&idx=1&sn=c7f8736c0e8d4a5423e024ed14dcf9cc)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247532630&idx=2&sn=0e746aedcebbebe60a5dff5633ba470b)
-- 情报分析师
-  - [五角大楼的"秘密武器"！当AI开始读懂机密情报](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567796&idx=1&sn=ea97655dbb986831f32d3bc19e7881b1)
-- SANS Internet Storm Center, InfoCON: green
-  - [YARA-X 1.16.0 Release, (Sun, May 10th)](https://isc.sans.edu/diary/rss/32970)
-- IT Service Management News
-  - [Scadenze NIS](http://blog.cesaregallotti.it/2026/05/scadenze-nis.html)
-- Troy Hunt's Blog
-  - [Weekly Update 503](https://www.troyhunt.com/weekly-update-503/)
 - RedTeam
   - [《社会正义谬误》读书笔记](https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484648&idx=1&sn=f01a006d03f4037dc044c3a7c57868bc)
-- The Hacker News
-  - [Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak](https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html)
+- SANS Internet Storm Center, InfoCON: green
+  - [YARA-X 1.16.0 Release, (Sun, May 10th)](https://isc.sans.edu/diary/rss/32970)
+- Troy Hunt's Blog
+  - [Weekly Update 503](https://www.troyhunt.com/weekly-update-503/)
+- IT Service Management News
+  - [Scadenze NIS](http://blog.cesaregallotti.it/2026/05/scadenze-nis.html)
 - Security Affairs
   - [New cPanel vulnerabilities could allow file access and remote code execution](https://securityaffairs.com/191931/security/new-cpanel-vulnerabilities-could-allow-file-access-and-remote-code-execution.html)
   - [Official JDownloader site served malware to Windows and Linux users between May 6 and May 7](https://securityaffairs.com/191920/malware/official-jdownloader-site-served-malware-to-windows-and-linux-users.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 96](https://securityaffairs.com/191911/malware/security-affairs-malware-newsletter-round-96.html)
   - [Security Affairs newsletter Round 576 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/191908/breaking-news/security-affairs-newsletter-round-576-by-pierluigi-paganini-international-edition.html)
+- The Hacker News
+  - [Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak](https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html)
 - 吾爱破解论坛
   - [谈谈我对VMProtect代码保护”通解”的一点看法](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144335&idx=1&sn=da3d7245aa70c203711ef1025677b2a0)
