@@ -1,33 +1,22 @@
 # 每日安全资讯（2026-05-17）
 
-- Recent Commits to cve:main
-  - [Update Sat May 16 11:38:46 UTC 2026](https://github.com/trickest/cve/commit/227e48b3bc9c766c465cbbaa8e4617c46030aeb9)
 - SecWiki News
   - [SecWiki News 2026-05-16 Review](http://www.sec-wiki.com/?2026-05-16)
+- Recent Commits to cve:main
+  - [Update Sat May 16 11:38:46 UTC 2026](https://github.com/trickest/cve/commit/227e48b3bc9c766c465cbbaa8e4617c46030aeb9)
 - Blog - Atredis Partners
   - [Bad News for the Average Pentester](https://www.atredis.com/blog/2026/5/15/bad-news-for-the-average-pentester)
 - ZeddYu’s Blog
   - [Revisiting HTTP Request Smuggling in 2026: Seven Years After Kettle, Where Are the Parsing Differentials Now?](https://blog.zeddyu.info/2026/05/16/Revisiting-HTTP-Smuggling-2026/)
 - daniel.haxx.se
   - [named globs with curl](https://daniel.haxx.se/blog/2026/05/16/named-globs-with-curl/)
-- 体验盒子
-  - [1Panel Docker 环境下 PHP 报 “Primary script unknown” 404 错误排查实录](https://www.uedbox.com/post/119799/)
-- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [告别一个时代 盖茨基金会出清最后微软持股](https://blog.upx8.com/%E5%91%8A%E5%88%AB%E4%B8%80%E4%B8%AA%E6%97%B6%E4%BB%A3-%E7%9B%96%E8%8C%A8%E5%9F%BA%E9%87%91%E4%BC%9A%E5%87%BA%E6%B8%85%E6%9C%80%E5%90%8E%E5%BE%AE%E8%BD%AF%E6%8C%81%E8%82%A1)
-  - [马耳他用户可免费获得ChatGPT Plus一年](https://blog.upx8.com/%E9%A9%AC%E8%80%B3%E4%BB%96%E7%94%A8%E6%88%B7%E5%8F%AF%E5%85%8D%E8%B4%B9%E8%8E%B7%E5%BE%97ChatGPT-Plus%E4%B8%80%E5%B9%B4)
-  - [涉影响学生心理健康 YouTube与学区达成和解](https://blog.upx8.com/%E6%B6%89%E5%BD%B1%E5%93%8D%E5%AD%A6%E7%94%9F%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7-YouTube%E4%B8%8E%E5%AD%A6%E5%8C%BA%E8%BE%BE%E6%88%90%E5%92%8C%E8%A7%A3)
-  - [Hermes + Qwen3.6：本地最强 Agent 组合！零成本、无限 Token](https://blog.upx8.com/Hermes-Qwen3-6-Agent-Token)
-  - [教你用Ollama本地部署Claude Code：私有化免API](https://blog.upx8.com/Ollama-Claude-Code-API)
-  - [“无审查”AI 视频模型来了！Sulphur 2 本地部署实测：8G 显存也能跑！](https://blog.upx8.com/AI-Sulphur-2-8G)
-  - [QEMU曝虚拟机逃逸漏洞，可直接控制底层物理机](https://blog.upx8.com/QEMU%E6%9B%9D%E8%99%9A%E6%8B%9F%E6%9C%BA%E9%80%83%E9%80%B8%E6%BC%8F%E6%B4%9E-%E5%8F%AF%E7%9B%B4%E6%8E%A5%E6%8E%A7%E5%88%B6%E5%BA%95%E5%B1%82%E7%89%A9%E7%90%86%E6%9C%BA)
-  - [ArXiv将封禁上传充满AI泔水论文的研究人员](https://blog.upx8.com/ArXiv%E5%B0%86%E5%B0%81%E7%A6%81%E4%B8%8A%E4%BC%A0%E5%85%85%E6%BB%A1AI%E6%B3%94%E6%B0%B4%E8%AE%BA%E6%96%87%E7%9A%84%E7%A0%94%E7%A9%B6%E4%BA%BA%E5%91%98)
-  - [X同意打击英国境内的非法仇恨和恐怖内容](https://blog.upx8.com/X%E5%90%8C%E6%84%8F%E6%89%93%E5%87%BB%E8%8B%B1%E5%9B%BD%E5%A2%83%E5%86%85%E7%9A%84%E9%9D%9E%E6%B3%95%E4%BB%87%E6%81%A8%E5%92%8C%E6%81%90%E6%80%96%E5%86%85%E5%AE%B9)
-  - [OpenAI携手Plaid向大众提供个性化财务建议](https://blog.upx8.com/OpenAI%E6%90%BA%E6%89%8BPlaid%E5%90%91%E5%A4%A7%E4%BC%97%E6%8F%90%E4%BE%9B%E4%B8%AA%E6%80%A7%E5%8C%96%E8%B4%A2%E5%8A%A1%E5%BB%BA%E8%AE%AE)
 - 奇客Solidot–传递最新科技情报
   - [烂尾楼带来了巨大的资源和社会经济成本](https://www.solidot.org/story?sid=84315)
   - [美国议员提议永久禁止中国的联网汽车](https://www.solidot.org/story?sid=84314)
   - [美国人宁愿在家附近造核电而不是造 AI 数据中心](https://www.solidot.org/story?sid=84313)
   - [微软加速 CPU 改进开始菜单的响应](https://www.solidot.org/story?sid=84312)
+- 体验盒子
+  - [1Panel Docker 环境下 PHP 报 “Primary script unknown” 404 错误排查实录](https://www.uedbox.com/post/119799/)
 - 奇安信 CERT
   - [今日（2026年5月16日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505856&idx=1&sn=eb8d3df614c46d54e0a827b6befd0823)
 - 看雪学苑
@@ -36,16 +25,18 @@
   - [M4 MacBook Air外接RTX 5090实现3A游戏与AI加速](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186737&idx=1&sn=64c7f24d2aa43d6302626f2803fe0411)
 - 丁爸 情报分析师的工具箱
   - [【生物战】汉坦等人畜共患疾病有无可能是基因编辑技术的产物？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155662&idx=1&sn=d0151002a41d5b5b2b74deb28daf6b43)
+- 安全圈
+  - [【安全圈】Linux内核漏洞"ssh-keysign-pwn"允许攻击者窃取SSH密钥与影子密码文件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076524&idx=1&sn=85724f6aa9c493a3823cc2988e73c7ec)
+  - [【安全圈】微软 Edge 148 浏览器将增强安全，密码不再明文进入内存](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076524&idx=2&sn=4bce93113ae71c271aa59e2f723b5d8f)
+  - [【安全圈】微软Exchange Server高危漏洞正遭攻击者积极利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076524&idx=3&sn=8adfa54adbe431abba673a75db6ad228)
 - 极客公园
   - [蛰伏四年后，45.98 万的全新一代理想 L9 能再造爆款吗？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653106687&idx=1&sn=31482115835d4d67659b8a6440775c5e)
   - [ChatGPT 能替你管钱了，你敢把银行账户交给它吗？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653106672&idx=1&sn=7be62c464077e265ca4cbc033d6effdd)
   - [OpenAI 推出 ChatGPT 个人理财功能；SpaceX 最快将于 6 月 12 日挂牌上市；巴菲特慈善午餐回归，神秘买家 900 万美元拍下 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653106657&idx=1&sn=52e06b8568b05258555304d12c873daa)
 - LastKnight.com Feed
   - [Il Monet che non era un Monet, il branco, la rabbia e l’epistemia](https://mgpf.it/2026/05/16/il-monet-che-non-era-un-monet.html)
-- 安全圈
-  - [【安全圈】Linux内核漏洞"ssh-keysign-pwn"允许攻击者窃取SSH密钥与影子密码文件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076524&idx=1&sn=85724f6aa9c493a3823cc2988e73c7ec)
-  - [【安全圈】微软 Edge 148 浏览器将增强安全，密码不再明文进入内存](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076524&idx=2&sn=4bce93113ae71c271aa59e2f723b5d8f)
-  - [【安全圈】微软Exchange Server高危漏洞正遭攻击者积极利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076524&idx=3&sn=8adfa54adbe431abba673a75db6ad228)
+- Schneier on Security
+  - [Friday Squid Blogging: Bigfin Squid](https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html)
 - Over Security
   - [Microsoft rejects critical Azure vulnerability report, no CVE issued](https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/)
   - [The Metric to Anchor Your Agentic SOC Evaluation On](https://binarydefense.com/resources/blog/the-metric-to-anchor-your-agentic-soc-evaluation-on)
@@ -84,15 +75,13 @@
   - [TeamPCP hackers advertise Mistral AI code repos for sale](https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/)
   - [Microsoft warns of Exchange zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/)
   - [Microsoft to automatically roll back faulty Windows drivers](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/)
-- 国家互联网应急中心CNCERT
-  - [2026年人工智能技术赋能网络安全应用测试公告](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501596&idx=1&sn=18223c6068ee1e4745dcccf2b54786ec)
-- Schneier on Security
-  - [Friday Squid Blogging: Bigfin Squid](https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html)
-- OnionSec
-  - [专职逆向岗位面试的复盘与体会](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485763&idx=1&sn=5fedf2ee5d59e638c4609b5dd761bae1)
-- The Hacker News
-  - [Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming](https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html)
 - Security Affairs
   - [U.S. CISA adds a flaw in Microsoft Exchange Server to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/192240/hacking/u-s-cisa-adds-a-flaw-in-microsoft-exchange-server-to-its-known-exploited-vulnerabilities-catalog.html)
   - [Russian APT Turla builds long-term access tool with Kazuar Botnet evolution](https://securityaffairs.com/192231/apt/russian-apt-turla-builds-long-term-access-tool-with-kazuar-botnet-evolution.html)
   - [OpenAI hit by supply chain attack linked to malicious TanStack packages](https://securityaffairs.com/192222/hacking/openai-hit-by-supply-chain-attack-linked-to-malicious-tanstack-packages.html)
+- 国家互联网应急中心CNCERT
+  - [2026年人工智能技术赋能网络安全应用测试公告](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501596&idx=1&sn=18223c6068ee1e4745dcccf2b54786ec)
+- OnionSec
+  - [专职逆向岗位面试的复盘与体会](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485763&idx=1&sn=5fedf2ee5d59e638c4609b5dd761bae1)
+- The Hacker News
+  - [Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming](https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html)
