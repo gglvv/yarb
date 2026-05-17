@@ -32,10 +32,16 @@
   - [从0到1构建一个Hook工具之PLT Hook篇](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458615202&idx=1&sn=355b26ceef06ae59406282bfce822ca6)
 - 奇安信 CERT
   - [今日（2026年5月16日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505856&idx=1&sn=eb8d3df614c46d54e0a827b6befd0823)
-- 丁爸 情报分析师的工具箱
-  - [【生物战】汉坦等人畜共患疾病有无可能是基因编辑技术的产物？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155662&idx=1&sn=d0151002a41d5b5b2b74deb28daf6b43)
 - 非尝咸鱼贩
   - [国外某破解比赛结果揭晓](https://mp.weixin.qq.com/s?__biz=Mzk0NDE3MTkzNQ==&mid=2247486016&idx=1&sn=7ce6c141dd8711d78c6b72fa91290e90)
+- 丁爸 情报分析师的工具箱
+  - [【生物战】汉坦等人畜共患疾病有无可能是基因编辑技术的产物？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155662&idx=1&sn=d0151002a41d5b5b2b74deb28daf6b43)
+- 数世咨询
+  - [年度渗透测试报告：AI的漏洞比传统软件严重得多](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542875&idx=1&sn=21b81be9f52b54fcc0ec4b2867c7f708)
+- 极客公园
+  - [蛰伏四年后，45.98 万的全新一代理想 L9 能再造爆款吗？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653106687&idx=1&sn=31482115835d4d67659b8a6440775c5e)
+  - [ChatGPT 能替你管钱了，你敢把银行账户交给它吗？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653106672&idx=1&sn=7be62c464077e265ca4cbc033d6effdd)
+  - [OpenAI 推出 ChatGPT 个人理财功能；SpaceX 最快将于 6 月 12 日挂牌上市；巴菲特慈善午餐回归，神秘买家 900 万美元拍下 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653106657&idx=1&sn=52e06b8568b05258555304d12c873daa)
 - 安全圈
   - [【安全圈】Linux内核漏洞"ssh-keysign-pwn"允许攻击者窃取SSH密钥与影子密码文件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076524&idx=1&sn=85724f6aa9c493a3823cc2988e73c7ec)
   - [【安全圈】微软 Edge 148 浏览器将增强安全，密码不再明文进入内存](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076524&idx=2&sn=4bce93113ae71c271aa59e2f723b5d8f)
@@ -80,19 +86,15 @@
   - [TeamPCP hackers advertise Mistral AI code repos for sale](https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/)
   - [Microsoft warns of Exchange zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/)
   - [Microsoft to automatically roll back faulty Windows drivers](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/)
-- 极客公园
-  - [蛰伏四年后，45.98 万的全新一代理想 L9 能再造爆款吗？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653106687&idx=1&sn=31482115835d4d67659b8a6440775c5e)
-  - [ChatGPT 能替你管钱了，你敢把银行账户交给它吗？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653106672&idx=1&sn=7be62c464077e265ca4cbc033d6effdd)
-  - [OpenAI 推出 ChatGPT 个人理财功能；SpaceX 最快将于 6 月 12 日挂牌上市；巴菲特慈善午餐回归，神秘买家 900 万美元拍下 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653106657&idx=1&sn=52e06b8568b05258555304d12c873daa)
-- Schneier on Security
-  - [Friday Squid Blogging: Bigfin Squid](https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html)
 - LastKnight.com Feed
   - [Il Monet che non era un Monet, il branco, la rabbia e l’epistemia](https://mgpf.it/2026/05/16/il-monet-che-non-era-un-monet.html)
+- Schneier on Security
+  - [Friday Squid Blogging: Bigfin Squid](https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html)
 - Security Affairs
   - [U.S. CISA adds a flaw in Microsoft Exchange Server to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/192240/hacking/u-s-cisa-adds-a-flaw-in-microsoft-exchange-server-to-its-known-exploited-vulnerabilities-catalog.html)
   - [Russian APT Turla builds long-term access tool with Kazuar Botnet evolution](https://securityaffairs.com/192231/apt/russian-apt-turla-builds-long-term-access-tool-with-kazuar-botnet-evolution.html)
   - [OpenAI hit by supply chain attack linked to malicious TanStack packages](https://securityaffairs.com/192222/hacking/openai-hit-by-supply-chain-attack-linked-to-malicious-tanstack-packages.html)
-- OnionSec
-  - [专职逆向岗位面试的复盘与体会](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485763&idx=1&sn=5fedf2ee5d59e638c4609b5dd761bae1)
 - The Hacker News
   - [Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming](https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html)
+- OnionSec
+  - [专职逆向岗位面试的复盘与体会](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485763&idx=1&sn=5fedf2ee5d59e638c4609b5dd761bae1)
