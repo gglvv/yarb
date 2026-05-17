@@ -2,31 +2,16 @@
 
 - Recent Commits to cve:main
   - [Update Sat May 16 11:38:46 UTC 2026](https://github.com/trickest/cve/commit/227e48b3bc9c766c465cbbaa8e4617c46030aeb9)
-- SecWiki News
-  - [SecWiki News 2026-05-16 Review](http://www.sec-wiki.com/?2026-05-16)
 - Blog - Atredis Partners
   - [Bad News for the Average Pentester](https://www.atredis.com/blog/2026/5/15/bad-news-for-the-average-pentester)
-- Reverse Engineering
-  - [A File Format Uncracked for 20 Years: Part 2](https://www.reddit.com/r/ReverseEngineering/comments/1tf2gzr/a_file_format_uncracked_for_20_years_part_2/)
-  - [HDD Firmware Hacking Part 1](https://www.reddit.com/r/ReverseEngineering/comments/1tellom/hdd_firmware_hacking_part_1/)
-  - [Resident Evil: Code Veronica X is able to use inventory and view files from the decompiled PS2 source!](https://www.reddit.com/r/ReverseEngineering/comments/1tex3b7/resident_evil_code_veronica_x_is_able_to_use/)
-  - [Exploiting Toshiba Qiomem.sys vulnerable driver](https://www.reddit.com/r/ReverseEngineering/comments/1tend9h/exploiting_toshiba_qiomemsys_vulnerable_driver/)
-  - [[CrackMe] PyVMP v7 : The vault. Important info : the server is now live, take a look inside the gofile link.](https://www.reddit.com/r/ReverseEngineering/comments/1teoxh0/crackme_pyvmp_v7_the_vault_important_info_the/)
-  - [Brovan — Open-source x86/x64 user-mode binary emulator written in C#](https://www.reddit.com/r/ReverseEngineering/comments/1tedll2/brovan_opensource_x86x64_usermode_binary_emulator/)
-  - [A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens](https://www.reddit.com/r/ReverseEngineering/comments/1tehdk6/a_0click_exploit_chain_for_the_pixel_10_when_a/)
-  - [Region-based binary diff tool for firmware analysis](https://www.reddit.com/r/ReverseEngineering/comments/1tek7b1/regionbased_binary_diff_tool_for_firmware_analysis/)
-  - [แก้ไขปัญหา Frida 17.9.10 บน Termux (Android ARM64) - ไม่มีข้อผิดพลาด Toolchain 404 และ _Py_NoneStruct อีกต่อไป!](https://www.reddit.com/r/ReverseEngineering/comments/1tegsqv/แกไขปญหา_frida_17910_บน_termux_android_arm64/)
+- SecWiki News
+  - [SecWiki News 2026-05-16 Review](http://www.sec-wiki.com/?2026-05-16)
 - ZeddYu’s Blog
   - [Revisiting HTTP Request Smuggling in 2026: Seven Years After Kettle, Where Are the Parsing Differentials Now?](https://blog.zeddyu.info/2026/05/16/Revisiting-HTTP-Smuggling-2026/)
-- daniel.haxx.se
-  - [named globs with curl](https://daniel.haxx.se/blog/2026/05/16/named-globs-with-curl/)
 - 体验盒子
   - [1Panel Docker 环境下 PHP 报 “Primary script unknown” 404 错误排查实录](https://www.uedbox.com/post/119799/)
-- 奇客Solidot–传递最新科技情报
-  - [烂尾楼带来了巨大的资源和社会经济成本](https://www.solidot.org/story?sid=84315)
-  - [美国议员提议永久禁止中国的联网汽车](https://www.solidot.org/story?sid=84314)
-  - [美国人宁愿在家附近造核电而不是造 AI 数据中心](https://www.solidot.org/story?sid=84313)
-  - [微软加速 CPU 改进开始菜单的响应](https://www.solidot.org/story?sid=84312)
+- daniel.haxx.se
+  - [named globs with curl](https://daniel.haxx.se/blog/2026/05/16/named-globs-with-curl/)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [告别一个时代 盖茨基金会出清最后微软持股](https://blog.upx8.com/%E5%91%8A%E5%88%AB%E4%B8%80%E4%B8%AA%E6%97%B6%E4%BB%A3-%E7%9B%96%E8%8C%A8%E5%9F%BA%E9%87%91%E4%BC%9A%E5%87%BA%E6%B8%85%E6%9C%80%E5%90%8E%E5%BE%AE%E8%BD%AF%E6%8C%81%E8%82%A1)
   - [马耳他用户可免费获得ChatGPT Plus一年](https://blog.upx8.com/%E9%A9%AC%E8%80%B3%E4%BB%96%E7%94%A8%E6%88%B7%E5%8F%AF%E5%85%8D%E8%B4%B9%E8%8E%B7%E5%BE%97ChatGPT-Plus%E4%B8%80%E5%B9%B4)
@@ -37,28 +22,34 @@
   - [QEMU曝虚拟机逃逸漏洞，可直接控制底层物理机](https://blog.upx8.com/QEMU%E6%9B%9D%E8%99%9A%E6%8B%9F%E6%9C%BA%E9%80%83%E9%80%B8%E6%BC%8F%E6%B4%9E-%E5%8F%AF%E7%9B%B4%E6%8E%A5%E6%8E%A7%E5%88%B6%E5%BA%95%E5%B1%82%E7%89%A9%E7%90%86%E6%9C%BA)
 - 黑鸟
   - [M4 MacBook Air外接RTX 5090实现3A游戏与AI加速](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186737&idx=1&sn=64c7f24d2aa43d6302626f2803fe0411)
-- 奇安信 CERT
-  - [今日（2026年5月16日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505856&idx=1&sn=eb8d3df614c46d54e0a827b6befd0823)
-- 青衣十三楼飞花堂
-  - [在地下_马识途_摘录(10)](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489466&idx=1&sn=9202b7ba6708662e779bb5ab960562da)
+- 奇客Solidot–传递最新科技情报
+  - [烂尾楼带来了巨大的资源和社会经济成本](https://www.solidot.org/story?sid=84315)
+  - [美国议员提议永久禁止中国的联网汽车](https://www.solidot.org/story?sid=84314)
+  - [美国人宁愿在家附近造核电而不是造 AI 数据中心](https://www.solidot.org/story?sid=84313)
+  - [微软加速 CPU 改进开始菜单的响应](https://www.solidot.org/story?sid=84312)
 - 看雪学苑
   - [从0到1构建一个Hook工具之PLT Hook篇](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458615202&idx=1&sn=355b26ceef06ae59406282bfce822ca6)
+- 奇安信 CERT
+  - [今日（2026年5月16日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505856&idx=1&sn=eb8d3df614c46d54e0a827b6befd0823)
 - 非尝咸鱼贩
   - [国外某破解比赛结果揭晓](https://mp.weixin.qq.com/s?__biz=Mzk0NDE3MTkzNQ==&mid=2247486016&idx=1&sn=7ce6c141dd8711d78c6b72fa91290e90)
-- 丁爸 情报分析师的工具箱
-  - [【生物战】汉坦等人畜共患疾病有无可能是基因编辑技术的产物？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155662&idx=1&sn=d0151002a41d5b5b2b74deb28daf6b43)
-- 安全圈
-  - [【安全圈】Linux内核漏洞"ssh-keysign-pwn"允许攻击者窃取SSH密钥与影子密码文件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076524&idx=1&sn=85724f6aa9c493a3823cc2988e73c7ec)
-  - [【安全圈】微软 Edge 148 浏览器将增强安全，密码不再明文进入内存](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076524&idx=2&sn=4bce93113ae71c271aa59e2f723b5d8f)
-  - [【安全圈】微软Exchange Server高危漏洞正遭攻击者积极利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076524&idx=3&sn=8adfa54adbe431abba673a75db6ad228)
-- 极客公园
-  - [蛰伏四年后，45.98 万的全新一代理想 L9 能再造爆款吗？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653106687&idx=1&sn=31482115835d4d67659b8a6440775c5e)
-  - [ChatGPT 能替你管钱了，你敢把银行账户交给它吗？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653106672&idx=1&sn=7be62c464077e265ca4cbc033d6effdd)
-  - [OpenAI 推出 ChatGPT 个人理财功能；SpaceX 最快将于 6 月 12 日挂牌上市；巴菲特慈善午餐回归，神秘买家 900 万美元拍下 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653106657&idx=1&sn=52e06b8568b05258555304d12c873daa)
 - 数世咨询
   - [年度渗透测试报告：AI的漏洞比传统软件严重得多](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542875&idx=1&sn=21b81be9f52b54fcc0ec4b2867c7f708)
 - 国家互联网应急中心CNCERT
   - [2026年人工智能技术赋能网络安全应用测试公告](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501596&idx=1&sn=18223c6068ee1e4745dcccf2b54786ec)
+- 极客公园
+  - [蛰伏四年后，45.98 万的全新一代理想 L9 能再造爆款吗？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653106687&idx=1&sn=31482115835d4d67659b8a6440775c5e)
+  - [ChatGPT 能替你管钱了，你敢把银行账户交给它吗？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653106672&idx=1&sn=7be62c464077e265ca4cbc033d6effdd)
+  - [OpenAI 推出 ChatGPT 个人理财功能；SpaceX 最快将于 6 月 12 日挂牌上市；巴菲特慈善午餐回归，神秘买家 900 万美元拍下 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653106657&idx=1&sn=52e06b8568b05258555304d12c873daa)
+- 安全圈
+  - [【安全圈】Linux内核漏洞"ssh-keysign-pwn"允许攻击者窃取SSH密钥与影子密码文件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076524&idx=1&sn=85724f6aa9c493a3823cc2988e73c7ec)
+  - [【安全圈】微软 Edge 148 浏览器将增强安全，密码不再明文进入内存](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076524&idx=2&sn=4bce93113ae71c271aa59e2f723b5d8f)
+  - [【安全圈】微软Exchange Server高危漏洞正遭攻击者积极利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076524&idx=3&sn=8adfa54adbe431abba673a75db6ad228)
+- 丁爸 情报分析师的工具箱
+  - [【课程】社交媒体情报（视频）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155727&idx=1&sn=c8c3b885c8413571cc7c8f11d872f57d)
+  - [【生物战】汉坦等人畜共患疾病有无可能是基因编辑技术的产物？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155662&idx=1&sn=d0151002a41d5b5b2b74deb28daf6b43)
+- 青衣十三楼飞花堂
+  - [在地下_马识途_摘录(10)](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489466&idx=1&sn=9202b7ba6708662e779bb5ab960562da)
 - Over Security
   - [Microsoft rejects critical Azure vulnerability report, no CVE issued](https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/)
   - [The Metric to Anchor Your Agentic SOC Evaluation On](https://binarydefense.com/resources/blog/the-metric-to-anchor-your-agentic-soc-evaluation-on)
@@ -96,26 +87,15 @@
   - [Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/)
   - [TeamPCP hackers advertise Mistral AI code repos for sale](https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/)
   - [Microsoft warns of Exchange zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/)
-- LastKnight.com Feed
-  - [Il Monet che non era un Monet, il branco, la rabbia e l’epistemia](https://mgpf.it/2026/05/16/il-monet-che-non-era-un-monet.html)
 - Schneier on Security
   - [Friday Squid Blogging: Bigfin Squid](https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html)
+- LastKnight.com Feed
+  - [Il Monet che non era un Monet, il branco, la rabbia e l’epistemia](https://mgpf.it/2026/05/16/il-monet-che-non-era-un-monet.html)
 - The Hacker News
   - [Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming](https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html)
 - Security Affairs
   - [U.S. CISA adds a flaw in Microsoft Exchange Server to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/192240/hacking/u-s-cisa-adds-a-flaw-in-microsoft-exchange-server-to-its-known-exploited-vulnerabilities-catalog.html)
   - [Russian APT Turla builds long-term access tool with Kazuar Botnet evolution](https://securityaffairs.com/192231/apt/russian-apt-turla-builds-long-term-access-tool-with-kazuar-botnet-evolution.html)
   - [OpenAI hit by supply chain attack linked to malicious TanStack packages](https://securityaffairs.com/192222/hacking/openai-hit-by-supply-chain-attack-linked-to-malicious-tanstack-packages.html)
-- Your Open Hacker Community
-  - [Struggling with PortSwigger SQLi Labs](https://www.reddit.com/r/HowToHack/comments/1texio7/struggling_with_portswigger_sqli_labs/)
-  - [[TUTORIAL] Beginner-Friendly Lessons Focused on Games](https://www.reddit.com/r/HowToHack/comments/1tenhjs/tutorial_beginnerfriendly_lessons_focused_on_games/)
-  - [how to reset trial period of (client) file type software](https://www.reddit.com/r/HowToHack/comments/1tev73u/how_to_reset_trial_period_of_client_file_type/)
-  - [Ugh... First time seeing this hash format](https://www.reddit.com/r/HowToHack/comments/1teo6oj/ugh_first_time_seeing_this_hash_format/)
-- Deep Web
-  - [Where can I exchange BTC for XMR privately?](https://www.reddit.com/r/deepweb/comments/1tewzi9/where_can_i_exchange_btc_for_xmr_privately/)
-- Computer Forensics
-  - [Those of you with remote imaging capabilities](https://www.reddit.com/r/computerforensics/comments/1tewe4l/those_of_you_with_remote_imaging_capabilities/)
-- Information Security
-  - [AI Is Starting to Break the Security Response Timeline](https://www.reddit.com/r/Information_Security/comments/1tetha1/ai_is_starting_to_break_the_security_response/)
 - OnionSec
   - [专职逆向岗位面试的复盘与体会](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485763&idx=1&sn=5fedf2ee5d59e638c4609b5dd761bae1)
