@@ -12,45 +12,52 @@
   - [Update Sun May 17 11:36:52 UTC 2026](https://github.com/trickest/cve/commit/8d443de240ea8632b99313c48aa6bf3972acbdbf)
 - Dancho Danchev's Blog - Mind Streams of Information Security Knowledge
   - [Domain Exploit Detector](https://ddanchev.blogspot.com/2026/05/domain-exploit-detector.html)
-- 绿盟科技技术博客
-  - [电信日特稿｜绿盟科技汤旭：智能体安全不再是可选项，产业亟待共建可信生态](https://blog.nsfocus.net/%e7%94%b5%e4%bf%a1%e6%97%a5%e7%89%b9%e7%a8%bf%ef%bd%9c%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e6%b1%a4%e6%97%ad%ef%bc%9a%e6%99%ba%e8%83%bd%e4%bd%93%e5%ae%89%e5%85%a8%e4%b8%8d%e5%86%8d%e6%98%af%e5%8f%af/)
 - 奇客Solidot–传递最新科技情报
   - [Eric Sc​​hmidt 在毕业典礼上谈 AI 收到了学生的嘘声](https://www.solidot.org/story?sid=84320)
   - [调查显示六成 PC 玩家未来两年没有升级 PC 的计划](https://www.solidot.org/story?sid=84319)
   - [Mozilla 称 VPN 是保护隐私和安全的重要工具](https://www.solidot.org/story?sid=84316)
+- 绿盟科技技术博客
+  - [电信日特稿｜绿盟科技汤旭：智能体安全不再是可选项，产业亟待共建可信生态](https://blog.nsfocus.net/%e7%94%b5%e4%bf%a1%e6%97%a5%e7%89%b9%e7%a8%bf%ef%bd%9c%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e6%b1%a4%e6%97%ad%ef%bc%9a%e6%99%ba%e8%83%bd%e4%bd%93%e5%ae%89%e5%85%a8%e4%b8%8d%e5%86%8d%e6%98%af%e5%8f%af/)
 - 黑鸟
   - [三种篡改机制：Fast16 对核爆铀压缩模拟的定向破坏逻辑](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186744&idx=1&sn=87463a856d1ff37e570db07ac778e24b)
-- 奇安信 CERT
-  - [今日（2026年5月17日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505871&idx=1&sn=7c7eb03516ce8b20b1dc9ebe22d6282a)
 - 青衣十三楼飞花堂
   - [在地下_马识途_摘录(11)](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489467&idx=1&sn=ff317be5bb933aa91ca870dc4dd92623)
+- 奇安信 CERT
+  - [今日（2026年5月17日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505871&idx=1&sn=7c7eb03516ce8b20b1dc9ebe22d6282a)
 - 安全分析与研究
   - [EDR终端对抗技术深度剖析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496713&idx=1&sn=c24eb0ce95d171688ffd9abd1170cbef)
-- 安全学术圈
-  - [2026年度软件融合应用与测试验证工信部重点实验室开放课题](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495347&idx=1&sn=77cd07f5ecff9ee16bd144e9434dc0b1)
-- 安全研究GoSSIP
-  - [SaTS 2026 征稿｜聚焦 AI 赋能移动超级应用与小程序生态安全](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501668&idx=1&sn=eee3665a9d9b861dd6402f17e0d5a10f)
-- 数世咨询
-  - [AI幻觉如何导致安全风险](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542880&idx=1&sn=37ad4cbe8e431cbd638c24ddb05ab1a3)
-- 极客公园
-  - [苹果华为小米手机，全线降价最高 3000；电信推 Token 套餐，9.9 元起；知乎 CEO：AI 时代，真实创作者价值不可替代 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653106790&idx=1&sn=8964584535c447df8d6c3b4704e166e5)
-  - [特斯拉解封17 份Robotaxi 碰撞报告；卢伟冰：部分国产旗舰手机售价或突破万元；警告：AI 可轻松从高分辨率自拍照中窃取指纹 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653106703&idx=1&sn=af09ed7750219eb2fabbc8305777f824)
-- 电子物证
-  - [【刑事诉讼中电子数据“三性”的协同审查】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049000&idx=1&sn=4cd1458b54795b8f4439e3e4178125d1)
-  - [【从IOS数据库寻求案件真相：Emma 手机取证解析攻略】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049000&idx=2&sn=18298917eed52d0e6caef441bab843f7)
-- 安全圈
-  - [【安全圈】苹果最强安全防线，5天被AI攻破：网络安全进入新纪元？](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076557&idx=1&sn=70a591aae8a5b83007bbeb32779f881d)
-  - [【安全圈】黑客利用 Burst Statistics WordPress 插件认证绕过漏洞发动攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076557&idx=3&sn=c636faff278cae3d93f0d1ff35483775)
 - dotNet安全矩阵
   - [一文解读 .NET AppDomain 应用程序域](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500977&idx=1&sn=031e1a45fce8de93a97e6dcafd1e7544)
   - [TPM 可信根与硬件信任链：底层安全的终极基石](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500977&idx=2&sn=693f0221a65378e0df113efd55e00b94)
+- 安全圈
+  - [【安全圈】苹果最强安全防线，5天被AI攻破：网络安全进入新纪元？](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076557&idx=1&sn=70a591aae8a5b83007bbeb32779f881d)
+  - [【安全圈】黑客利用 Burst Statistics WordPress 插件认证绕过漏洞发动攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076557&idx=3&sn=c636faff278cae3d93f0d1ff35483775)
+- 安全学术圈
+  - [2026年度软件融合应用与测试验证工信部重点实验室开放课题](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495347&idx=1&sn=77cd07f5ecff9ee16bd144e9434dc0b1)
+- 极客公园
+  - [苹果华为小米手机，全线降价最高 3000；电信推 Token 套餐，9.9 元起；知乎 CEO：AI 时代，真实创作者价值不可替代 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653106790&idx=1&sn=8964584535c447df8d6c3b4704e166e5)
+  - [特斯拉解封17 份Robotaxi 碰撞报告；卢伟冰：部分国产旗舰手机售价或突破万元；警告：AI 可轻松从高分辨率自拍照中窃取指纹 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653106703&idx=1&sn=af09ed7750219eb2fabbc8305777f824)
+- 安全研究GoSSIP
+  - [SaTS 2026 征稿｜聚焦 AI 赋能移动超级应用与小程序生态安全](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501668&idx=1&sn=eee3665a9d9b861dd6402f17e0d5a10f)
 - 吴鲁加
   - [残酷的 1.0](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486090&idx=1&sn=2cf304d3eb37c6ea50d2123972a84c56)
+- 电子物证
+  - [【刑事诉讼中电子数据“三性”的协同审查】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049000&idx=1&sn=4cd1458b54795b8f4439e3e4178125d1)
+  - [【从IOS数据库寻求案件真相：Emma 手机取证解析攻略】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049000&idx=2&sn=18298917eed52d0e6caef441bab843f7)
+- 数世咨询
+  - [AI幻觉如何导致安全风险](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542880&idx=1&sn=37ad4cbe8e431cbd638c24ddb05ab1a3)
+- RedTeam
+  - [Orange 又把 Exchange 打穿了](https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484652&idx=1&sn=b0f419e02820e98c8123d9a44e399044)
+- 安全行者老霍
+  - [Anthropic 在用户安装 Claude Desktop 时暗中植入间谍软件](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486694&idx=1&sn=6e4181569a38f51de181eb6c403c576c)
+- The Hacker News
+  - [NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE](https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html)
+  - [Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt](https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html)
 - Over Security
   - [New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released](https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/)
   - [Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing](https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/)
-- RedTeam
-  - [Orange 又把 Exchange 打穿了](https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484652&idx=1&sn=b0f419e02820e98c8123d9a44e399044)
+- OnionSec
+  - [不一样的体会](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485767&idx=1&sn=c881554cf7c1159380771a0c793da590)
 - Security Affairs
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 97](https://securityaffairs.com/192278/security/security-affairs-malware-newsletter-round-97.html)
   - [Security Affairs newsletter Round 577 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/192269/security/security-affairs-newsletter-round-577-by-pierluigi-paganini-international-edition.html)
@@ -72,10 +79,3 @@
   - [Full disclosure: Impersonation attacks on Edupage portal](https://seclists.org/fulldisclosure/2026/May/4)
   - [Full disclosure: Edupage web and mobile application authorization bypass leaks PII and IBAN codes](https://seclists.org/fulldisclosure/2026/May/3)
   - [Dovecot Security Advisory OXDC-2026-0002](https://seclists.org/fulldisclosure/2026/May/2)
-- OnionSec
-  - [不一样的体会](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485767&idx=1&sn=c881554cf7c1159380771a0c793da590)
-- The Hacker News
-  - [NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE](https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html)
-  - [Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt](https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html)
-- 安全行者老霍
-  - [Anthropic 在用户安装 Claude Desktop 时暗中植入间谍软件](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486694&idx=1&sn=6e4181569a38f51de181eb6c403c576c)
