@@ -4,10 +4,6 @@
   - [SecWiki News 2026-05-17 Review](http://www.sec-wiki.com/?2026-05-17)
 - Recent Commits to cve:main
   - [Update Sun May 17 11:36:52 UTC 2026](https://github.com/trickest/cve/commit/8d443de240ea8632b99313c48aa6bf3972acbdbf)
-- Reverse Engineering
-  - [PE packer/crypter with random VM ISA per build](https://www.reddit.com/r/ReverseEngineering/comments/1tflmmw/pe_packercrypter_with_random_vm_isa_per_build/)
-  - [A Tale of Two File Names](https://www.reddit.com/r/ReverseEngineering/comments/1tfakyk/a_tale_of_two_file_names/)
-  - [PE reconstruction](https://www.reddit.com/r/ReverseEngineering/comments/1tfa595/pe_reconstruction/)
 - Dancho Danchev's Blog - Mind Streams of Information Security Knowledge
   - [Domain Exploit Detector](https://ddanchev.blogspot.com/2026/05/domain-exploit-detector.html)
 - 绿盟科技技术博客
@@ -15,58 +11,43 @@
 - 奇客Solidot–传递最新科技情报
   - [Eric Sc​​hmidt 在毕业典礼上谈 AI 收到了学生的嘘声](https://www.solidot.org/story?sid=84320)
   - [调查显示六成 PC 玩家未来两年没有升级 PC 的计划](https://www.solidot.org/story?sid=84319)
-  - [俄罗斯从大学招募无人机飞行员](https://www.solidot.org/story?sid=84318)
   - [Mozilla 称 VPN 是保护隐私和安全的重要工具](https://www.solidot.org/story?sid=84316)
-- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [苹果新版Siri可能包括自动删除聊天记录](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%96%B0%E7%89%88Siri%E5%8F%AF%E8%83%BD%E5%8C%85%E6%8B%AC%E8%87%AA%E5%8A%A8%E5%88%A0%E9%99%A4%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95)
-  - [梅赛德斯-奔驰CEO：愿意涉足国防生产](https://blog.upx8.com/%E6%A2%85%E8%B5%9B%E5%BE%B7%E6%96%AF-%E5%A5%94%E9%A9%B0CEO-%E6%84%BF%E6%84%8F%E6%B6%89%E8%B6%B3%E5%9B%BD%E9%98%B2%E7%94%9F%E4%BA%A7)
-  - [超六成玩家支持 Xbox或将正式改为XBOX](https://blog.upx8.com/%E8%B6%85%E5%85%AD%E6%88%90%E7%8E%A9%E5%AE%B6%E6%94%AF%E6%8C%81-Xbox%E6%88%96%E5%B0%86%E6%AD%A3%E5%BC%8F%E6%94%B9%E4%B8%BAXBOX)
-  - [OpenAI人事变动 布罗克曼全权接管产品战略](https://blog.upx8.com/OpenAI%E4%BA%BA%E4%BA%8B%E5%8F%98%E5%8A%A8-%E5%B8%83%E7%BD%97%E5%85%8B%E6%9B%BC%E5%85%A8%E6%9D%83%E6%8E%A5%E7%AE%A1%E4%BA%A7%E5%93%81%E6%88%98%E7%95%A5)
-  - [中国AI实验室在视频生成领域已领先于美国竞争对手](https://blog.upx8.com/%E4%B8%AD%E5%9B%BDAI%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%9C%A8%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E9%A2%86%E5%9F%9F%E5%B7%B2%E9%A2%86%E5%85%88%E4%BA%8E%E7%BE%8E%E5%9B%BD%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B)
-  - [Linux 内核新增安全漏洞定义及负责任使用 AI 发现漏洞的文档](https://blog.upx8.com/Linux-%E5%86%85%E6%A0%B8%E6%96%B0%E5%A2%9E%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E5%AE%9A%E4%B9%89%E5%8F%8A%E8%B4%9F%E8%B4%A3%E4%BB%BB%E4%BD%BF%E7%94%A8-AI-%E5%8F%91%E7%8E%B0%E6%BC%8F%E6%B4%9E%E7%9A%84%E6%96%87%E6%A1%A3)
-  - [韩总理：将采取所有可行手段应对三星罢工](https://blog.upx8.com/%E9%9F%A9%E6%80%BB%E7%90%86-%E5%B0%86%E9%87%87%E5%8F%96%E6%89%80%E6%9C%89%E5%8F%AF%E8%A1%8C%E6%89%8B%E6%AE%B5%E5%BA%94%E5%AF%B9%E4%B8%89%E6%98%9F%E7%BD%A2%E5%B7%A5)
+- 奇安信 CERT
+  - [今日（2026年5月17日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505871&idx=1&sn=7c7eb03516ce8b20b1dc9ebe22d6282a)
 - 黑鸟
   - [三种篡改机制：Fast16 对核爆铀压缩模拟的定向破坏逻辑](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186744&idx=1&sn=87463a856d1ff37e570db07ac778e24b)
 - 安全学术圈
   - [2026年度软件融合应用与测试验证工信部重点实验室开放课题](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495347&idx=1&sn=77cd07f5ecff9ee16bd144e9434dc0b1)
-- 奇安信 CERT
-  - [今日（2026年5月17日）热点网络安全漏洞动态](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505871&idx=1&sn=7c7eb03516ce8b20b1dc9ebe22d6282a)
+- 安全研究GoSSIP
+  - [SaTS 2026 征稿｜聚焦 AI 赋能移动超级应用与小程序生态安全](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501668&idx=1&sn=eee3665a9d9b861dd6402f17e0d5a10f)
 - 安全圈
   - [【安全圈】苹果最强安全防线，5天被AI攻破：网络安全进入新纪元？](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076557&idx=1&sn=70a591aae8a5b83007bbeb32779f881d)
   - [【安全圈】黑客利用 Burst Statistics WordPress 插件认证绕过漏洞发动攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076557&idx=3&sn=c636faff278cae3d93f0d1ff35483775)
-- 安全研究GoSSIP
-  - [SaTS 2026 征稿｜聚焦 AI 赋能移动超级应用与小程序生态安全](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501668&idx=1&sn=eee3665a9d9b861dd6402f17e0d5a10f)
+- dotNet安全矩阵
+  - [一文解读 .NET AppDomain 应用程序域](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500977&idx=1&sn=031e1a45fce8de93a97e6dcafd1e7544)
+  - [TPM 可信根与硬件信任链：底层安全的终极基石](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500977&idx=2&sn=693f0221a65378e0df113efd55e00b94)
 - 电子物证
   - [【刑事诉讼中电子数据“三性”的协同审查】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049000&idx=1&sn=4cd1458b54795b8f4439e3e4178125d1)
   - [【从IOS数据库寻求案件真相：Emma 手机取证解析攻略】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049000&idx=2&sn=18298917eed52d0e6caef441bab843f7)
-- 数世咨询
-  - [AI幻觉如何导致安全风险](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542880&idx=1&sn=37ad4cbe8e431cbd638c24ddb05ab1a3)
 - 极客公园
   - [特斯拉解封17 份Robotaxi 碰撞报告；卢伟冰：部分国产旗舰手机售价或突破万元；警告：AI 可轻松从高分辨率自拍照中窃取指纹 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653106703&idx=1&sn=af09ed7750219eb2fabbc8305777f824)
-- 安全行者老霍
-  - [Anthropic 在用户安装 Claude Desktop 时暗中植入间谍软件](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486694&idx=1&sn=6e4181569a38f51de181eb6c403c576c)
-- Over Security
-  - [New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released](https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/)
-  - [Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing](https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/)
-- RedTeam
-  - [Orange 又把 Exchange 打穿了](https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484652&idx=1&sn=b0f419e02820e98c8123d9a44e399044)
+- 数世咨询
+  - [AI幻觉如何导致安全风险](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542880&idx=1&sn=37ad4cbe8e431cbd638c24ddb05ab1a3)
 - The Hacker News
   - [NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE](https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html)
   - [Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt](https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html)
-- Technical Information Security Content & Discussion
-  - [Ansible security and compliance guide](https://www.reddit.com/r/netsec/comments/1tfupd0/ansible_security_and_compliance_guide/)
-- Computer Forensics
-  - [Pivoting from infosec to a DFIR focus?](https://www.reddit.com/r/computerforensics/comments/1tg5yxc/pivoting_from_infosec_to_a_dfir_focus/)
-  - [NCFI MDE Equipment](https://www.reddit.com/r/computerforensics/comments/1tfvdkc/ncfi_mde_equipment/)
-- Deep Web
-  - [I'm late for this but](https://www.reddit.com/r/deepweb/comments/1tft0ao/im_late_for_this_but/)
 - Security Affairs
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 97](https://securityaffairs.com/192278/security/security-affairs-malware-newsletter-round-97.html)
   - [Security Affairs newsletter Round 577 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/192269/security/security-affairs-newsletter-round-577-by-pierluigi-paganini-international-edition.html)
   - [Attackers exploit Funnel Builder bug to inject e-skimmers into e-stores](https://securityaffairs.com/192260/cyber-crime/attackers-exploit-funnel-builder-bug-to-inject-e-skimmers-into-e-stores.html)
   - [Pwn2Own Berlin 2026, Day Three: DEVCORE Crowned Master of Pwn, $1.298 Million Total](https://securityaffairs.com/192250/hacking/pwn2own-berlin-2026-day-three-devcore-crowned-master-of-pwn-1-298-million-total.html)
+- 安全行者老霍
+  - [Anthropic 在用户安装 Claude Desktop 时暗中植入间谍软件](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486694&idx=1&sn=6e4181569a38f51de181eb6c403c576c)
 - OnionSec
   - [不一样的体会](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485767&idx=1&sn=c881554cf7c1159380771a0c793da590)
+- Over Security
+  - [New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released](https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/)
+  - [Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing](https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/)
 - Full Disclosure
   - [APPLE-SA-05-13-2026-1 Safari 26.5](https://seclists.org/fulldisclosure/2026/May/16)
   - [APPLE-SA-05-11-2026-11 visionOS 26.5](https://seclists.org/fulldisclosure/2026/May/15)
@@ -83,11 +64,5 @@
   - [Full disclosure: Impersonation attacks on Edupage portal](https://seclists.org/fulldisclosure/2026/May/4)
   - [Full disclosure: Edupage web and mobile application authorization bypass leaks PII and IBAN codes](https://seclists.org/fulldisclosure/2026/May/3)
   - [Dovecot Security Advisory OXDC-2026-0002](https://seclists.org/fulldisclosure/2026/May/2)
-- Information Security
-  - [Bugcrowd N/A for exposed active API token from historical source — worth disputing or correctly closed?](https://www.reddit.com/r/Information_Security/comments/1tg4b8w/bugcrowd_na_for_exposed_active_api_token_from/)
-- Your Open Hacker Community
-  - [HOWTOHACK | Online Resource](https://www.reddit.com/r/HowToHack/comments/1tfrx3x/howtohack_online_resource/)
-  - [Zip Bomb Deletion](https://www.reddit.com/r/HowToHack/comments/1tg0cxj/zip_bomb_deletion/)
-  - [Does anybody know where I may stumble upon some Sh1mmer bin downloads](https://www.reddit.com/r/HowToHack/comments/1tfiabz/does_anybody_know_where_i_may_stumble_upon_some/)
-  - [2FA](https://www.reddit.com/r/HowToHack/comments/1tfw30i/2fa/)
-  - [Getting through my school parental control extension](https://www.reddit.com/r/HowToHack/comments/1tfwn30/getting_through_my_school_parental_control/)
+- RedTeam
+  - [Orange 又把 Exchange 打穿了](https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484652&idx=1&sn=b0f419e02820e98c8123d9a44e399044)
