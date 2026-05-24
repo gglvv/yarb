@@ -1,13 +1,13 @@
 # 每日安全资讯（2026-05-24）
 
-- SecWiki News
-  - [SecWiki News 2026-05-23 Review](http://www.sec-wiki.com/?2026-05-23)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [Frigate NVR 0.16.3 Remote Code Execution](https://cxsecurity.com/issue/WLB-2026050020)
   - [Linux nf_tables 6.19.3 Local Privilege Escalation](https://cxsecurity.com/issue/WLB-2026050019)
   - [ThingsBoard IoT Platform 4.2.0 Server-Side Request Forgery (SSRF)](https://cxsecurity.com/issue/WLB-2026050018)
   - [Linux Kernel Local Privilege Escalation (CVE-2026-43284 / CVE-2026-43500 / CVE-2026-46300)](https://cxsecurity.com/issue/WLB-2026050017)
   - [SUSE Manager 4.3.15 Code Execution](https://cxsecurity.com/issue/WLB-2026050016)
+- SecWiki News
+  - [SecWiki News 2026-05-23 Review](http://www.sec-wiki.com/?2026-05-23)
 - Recent Commits to cve:main
   - [Update Sat May 23 11:50:52 UTC 2026](https://github.com/trickest/cve/commit/0f0fa410fbc65bde6482a2d3afd674d313e91ead)
 - InfoSec Write-ups - Medium
@@ -21,50 +21,54 @@
   - [“Bug Bounty Bootcamp #38: SSRF Chaining — Bypassing Domain Whitelists with Open Redirects and PDF…](https://infosecwriteups.com/bug-bounty-bootcamp-38-ssrf-chaining-bypassing-domain-whitelists-with-open-redirects-and-pdf-8c344246a1c7?source=rss----7b722bfd1b8d---4)
   - [Recon Isn’t Just Technical — It’s Psychological](https://infosecwriteups.com/recon-isnt-just-technical-it-s-psychological-0bc51a58487b?source=rss----7b722bfd1b8d---4)
   - [Finding & Exploiting Exposed Google API Keys for Bug $Bounties](https://infosecwriteups.com/finding-exploiting-exposed-google-api-keys-for-bug-bounties-5ce6685a4927?source=rss----7b722bfd1b8d---4)
+- Didier Stevens
+  - [Update: search-for-compression.py Version 0.0.7](https://blog.didierstevens.com/2026/05/23/update-search-for-compression-py-version-0-0-7/)
+- Reverse Engineering
+  - [Open-source reverse engineering of PerimeterX (HUMAN Security) Web SDK — pure-algo cookie generators, dual-site live HTTP 200, 10-chapter methodology](https://www.reddit.com/r/ReverseEngineering/comments/1tlm933/opensource_reverse_engineering_of_perimeterx/)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [SSRF in APIs: How a Single URL Parameter Can Expose Internal Systems](https://infosecwriteups.com/ssrf-in-apis-how-a-single-url-parameter-can-expose-internal-systems-63128bff63a4?source=rss----7b722bfd1b8d--bug_bounty)
   - [A Simple Session Management Bug Every Beginner Bug Hunter Should Test.](https://infosecwriteups.com/a-simple-session-management-bug-every-beginner-bug-hunter-should-test-72d346e4deee?source=rss----7b722bfd1b8d--bug_bounty)
   - [Recon Isn’t Just Technical — It’s Psychological](https://infosecwriteups.com/recon-isnt-just-technical-it-s-psychological-0bc51a58487b?source=rss----7b722bfd1b8d--bug_bounty)
   - [Finding & Exploiting Exposed Google API Keys for Bug $Bounties](https://infosecwriteups.com/finding-exploiting-exposed-google-api-keys-for-bug-bounties-5ce6685a4927?source=rss----7b722bfd1b8d--bug_bounty)
-- Didier Stevens
-  - [Update: search-for-compression.py Version 0.0.7](https://blog.didierstevens.com/2026/05/23/update-search-for-compression-py-version-0-0-7/)
-- Reverse Engineering
-  - [Open-source reverse engineering of PerimeterX (HUMAN Security) Web SDK — pure-algo cookie generators, dual-site live HTTP 200, 10-chapter methodology](https://www.reddit.com/r/ReverseEngineering/comments/1tlm933/opensource_reverse_engineering_of_perimeterx/)
-- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [苹果在Q1首次荣登全球智能手机市场榜首](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%9C%A8Q1%E9%A6%96%E6%AC%A1%E8%8D%A3%E7%99%BB%E5%85%A8%E7%90%83%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E6%A6%9C%E9%A6%96)
-  - [微软支付2.5亿美元了结动视暴雪股东诉讼](https://blog.upx8.com/%E5%BE%AE%E8%BD%AF%E6%94%AF%E4%BB%982-5%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BA%86%E7%BB%93%E5%8A%A8%E8%A7%86%E6%9A%B4%E9%9B%AA%E8%82%A1%E4%B8%9C%E8%AF%89%E8%AE%BC)
-  - [8G 显存逆天了！RTX3070 成功跑 Qwen3.6-35B 多模态AI大模型！部署教程（优化脚本）](https://blog.upx8.com/8G-RTX3070-Qwen3-6-35B-AI)
 - 奇客Solidot–传递最新科技情报
   - [加州理工可能失去对 JPL 的控制](https://www.solidot.org/story?sid=84380)
   - [扎克伯格为监视员工的做法辩护](https://www.solidot.org/story?sid=84379)
   - [《无畏契约》反作弊工具会限制作弊者使用 DMA 外挂](https://www.solidot.org/story?sid=84378)
+- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
+  - [苹果在Q1首次荣登全球智能手机市场榜首](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%9C%A8Q1%E9%A6%96%E6%AC%A1%E8%8D%A3%E7%99%BB%E5%85%A8%E7%90%83%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E6%A6%9C%E9%A6%96)
+  - [微软支付2.5亿美元了结动视暴雪股东诉讼](https://blog.upx8.com/%E5%BE%AE%E8%BD%AF%E6%94%AF%E4%BB%982-5%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BA%86%E7%BB%93%E5%8A%A8%E8%A7%86%E6%9A%B4%E9%9B%AA%E8%82%A1%E4%B8%9C%E8%AF%89%E8%AE%BC)
+  - [8G 显存逆天了！RTX3070 成功跑 Qwen3.6-35B 多模态AI大模型！部署教程（优化脚本）](https://blog.upx8.com/8G-RTX3070-Qwen3-6-35B-AI)
 - 黑鸟
   - [亚马逊、脸书、ICE 与 FBI 共享西雅图警方运营的秘密情报共享网络](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186804&idx=1&sn=3ce20a98dff1476c724eac45677fac29)
+- 看雪学苑
+  - [PANDA 2026 官宣定档深圳：全球硬件安全年度盛会重磅回归](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458615450&idx=1&sn=10c330347e262210615048ea8ed2da29)
+  - [2026腾讯游戏安全竞赛决赛安卓客户端安全分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458615450&idx=2&sn=5b372737248ca9dbc68c515e055e3636)
 - 青衣十三楼飞花堂
   - [在地下_马识途_摘录(15)](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489487&idx=1&sn=96ae55353e0b633ec1476f2e936f0d49)
-- Shostack & Friends Blog
-  - [Remembering Peter Neumann](https://shostack.org/blog/remembering-peter-neumann/)
 - 安全圈
   - [【安全圈】荷兰查封一家托管公司的800台服务器，该公司涉嫌参与网络攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076796&idx=1&sn=754fe62e703923730522d4192a32f6d6)
   - [【安全圈】美国前高管承认协助技术支持诈骗犯](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076796&idx=2&sn=97bf66c9659513363d30285e19b3e903)
   - [【安全圈】趋势科技警告称，Apex One 零日漏洞已被利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076796&idx=3&sn=957360c8847377bd11e2714149619033)
-- 数世咨询
-  - [不用迷信Mythos ，开源AI以更低的成本发现漏洞](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542972&idx=1&sn=7e64ed52f9999765b990eacd8c901a8d)
-  - [三重勒索 美国Change Healthcare的真正损失高达200亿元](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542967&idx=1&sn=40bb31537bb394d314dfcca82577c74b)
-- 看雪学苑
-  - [PANDA 2026 官宣定档深圳：全球硬件安全年度盛会重磅回归](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458615450&idx=1&sn=10c330347e262210615048ea8ed2da29)
-  - [2026腾讯游戏安全竞赛决赛安卓客户端安全分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458615450&idx=2&sn=5b372737248ca9dbc68c515e055e3636)
-- 极客公园
-  - [一家垂类 AI 创企的自救：当通用模型开始吃掉一切](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653107067&idx=1&sn=cfb65da844005c91eb377824933f5cc7)
-  - [DeepSeek-V4-Pro API 永久降价；iPhone 17 系列中国激活 3000 万；五角大楼再曝外星人文件｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653107059&idx=1&sn=0e756c0537330b447ff7f8d8ccb27fa1)
 - 丁爸 情报分析师的工具箱
   - [【课程】图片拍摄地点分析方法与技术16-17（含视频）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155923&idx=1&sn=2cef07d362ec28a55dd32c2905366152)
   - [【课程】图片拍摄地点分析方法与技术14-15（含视频）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155922&idx=1&sn=eae47985e9306e11c928e628b902c603)
+- 数世咨询
+  - [不用迷信Mythos ，开源AI以更低的成本发现漏洞](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542972&idx=1&sn=7e64ed52f9999765b990eacd8c901a8d)
+  - [三重勒索 美国Change Healthcare的真正损失高达200亿元](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542967&idx=1&sn=40bb31537bb394d314dfcca82577c74b)
+- 极客公园
+  - [一家垂类 AI 创企的自救：当通用模型开始吃掉一切](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653107067&idx=1&sn=cfb65da844005c91eb377824933f5cc7)
+  - [DeepSeek-V4-Pro API 永久降价；iPhone 17 系列中国激活 3000 万；五角大楼再曝外星人文件｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653107059&idx=1&sn=0e756c0537330b447ff7f8d8ccb27fa1)
+- SANS Internet Storm Center, InfoCON: green
+  - [An Example of Stack String in High Level Language, (Sat, May 23rd)](https://isc.sans.edu/diary/rss/33008)
 - Over Security
   - [UK Cybercrime Journal: Inside the Cl0p attack on South Staffs Water](https://blog.bushidotoken.net/2026/05/uk-cybercrime-journal-inside-cl0p.html)
   - [Laravel Lang packages hijacked to deploy credential-stealing malware](https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/)
   - [These special phone and app features can help protect you from spyware](https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/)
   - [Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes](https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/)
+- Security Affairs
+  - [CVE-2026-9082: Drupal’s Highly Critical SQL Injection Flaw Is Already Under Active Attack](https://securityaffairs.com/192557/security/cve-2026-9082-drupals-highly-critical-sql-injection-flaw-is-already-under-active-attack.html)
+  - [Why pure extortion is replacing traditional ransomware](https://securityaffairs.com/192550/cyber-crime/why-pure-extortion-is-replacing-traditional-ransomware.html)
+  - [Ghostwriter Is Back, Using a Ukrainian Learning Platform as Bait to Hit Government Targets](https://securityaffairs.com/192538/apt/ghostwriter-is-back-using-a-ukrainian-learning-platform-as-bait-to-hit-government-targets.html)
 - The Hacker News
   - [npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks](https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html)
   - [Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware](https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html)
@@ -72,25 +76,19 @@
   - [Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer](https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html)
   - [LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root](https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html)
   - [Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV](https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html)
-- SANS Internet Storm Center, InfoCON: green
-  - [An Example of Stack String in High Level Language, (Sat, May 23rd)](https://isc.sans.edu/diary/rss/33008)
-- Security Affairs
-  - [CVE-2026-9082: Drupal’s Highly Critical SQL Injection Flaw Is Already Under Active Attack](https://securityaffairs.com/192557/security/cve-2026-9082-drupals-highly-critical-sql-injection-flaw-is-already-under-active-attack.html)
-  - [Why pure extortion is replacing traditional ransomware](https://securityaffairs.com/192550/cyber-crime/why-pure-extortion-is-replacing-traditional-ransomware.html)
-  - [Ghostwriter Is Back, Using a Ukrainian Learning Platform as Bait to Hit Government Targets](https://securityaffairs.com/192538/apt/ghostwriter-is-back-using-a-ukrainian-learning-platform-as-bait-to-hit-government-targets.html)
-- Blackhat Library: Hacking techniques and research
-  - [infostealers just spawned a 5,000+ repo GitHub supply chain attack](https://www.reddit.com/r/blackhat/comments/1tlhsl8/infostealers_just_spawned_a_5000_repo_github/)
-- Information Security
-  - [AI Is Turning Phishing Into a Scalable Threat Model](https://www.reddit.com/r/Information_Security/comments/1tlfsww/ai_is_turning_phishing_into_a_scalable_threat/)
 - netsecstudents: Subreddit for students studying Network Security and its related subjects
   - [Looking for the cybersecurity study buddy](https://www.reddit.com/r/netsecstudents/comments/1tlowmb/looking_for_the_cybersecurity_study_buddy/)
+- Technical Information Security Content & Discussion
+  - [Pardon MIE?: how Mythos did not bypass Apple MIE](https://www.reddit.com/r/netsec/comments/1tl9tfc/pardon_mie_how_mythos_did_not_bypass_apple_mie/)
+- OnionSec
+  - [利用“反直觉”阅读理解网安市场文章](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485782&idx=1&sn=df99dfb5e903e6ed623844c950210e37)
+- Information Security
+  - [AI Is Turning Phishing Into a Scalable Threat Model](https://www.reddit.com/r/Information_Security/comments/1tlfsww/ai_is_turning_phishing_into_a_scalable_threat/)
 - Your Open Hacker Community
   - [I need help to make sure someone isnt on my computer](https://www.reddit.com/r/HowToHack/comments/1tlflca/i_need_help_to_make_sure_someone_isnt_on_my/)
   - [[ Removed by Reddit ]](https://www.reddit.com/r/HowToHack/comments/1tlp3et/removed_by_reddit/)
-- OnionSec
-  - [利用“反直觉”阅读理解网安市场文章](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485782&idx=1&sn=df99dfb5e903e6ed623844c950210e37)
-- Technical Information Security Content & Discussion
-  - [Pardon MIE?: how Mythos did not bypass Apple MIE](https://www.reddit.com/r/netsec/comments/1tl9tfc/pardon_mie_how_mythos_did_not_bypass_apple_mie/)
+- Blackhat Library: Hacking techniques and research
+  - [infostealers just spawned a 5,000+ repo GitHub supply chain attack](https://www.reddit.com/r/blackhat/comments/1tlhsl8/infostealers_just_spawned_a_5000_repo_github/)
 - Deep Web
   - [What’s the best marketplace ?](https://www.reddit.com/r/deepweb/comments/1tlhw6l/whats_the_best_marketplace/)
 - Daniel Miessler
