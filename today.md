@@ -4,10 +4,10 @@
   - [Update Sun May 24 11:47:42 UTC 2026](https://github.com/trickest/cve/commit/9870aaaa6ac3d9d2c479293fa9269d555c908f29)
 - Armin Ronacher's Thoughts and Writings
   - [Building Pi With Pi](https://lucumr.pocoo.org/2026/5/24/pi-oss/)
-- Taxodium
-  - [Album#40 - 大城•小事](https://taxodium.ink/album-40.html)
 - SecWiki News
   - [SecWiki News 2026-05-24 Review](http://www.sec-wiki.com/?2026-05-24)
+- Taxodium
+  - [Album#40 - 大城•小事](https://taxodium.ink/album-40.html)
 - ongoing by Tim Bray
   - [Tab Trick](https://www.tbray.org/ongoing/When/202x/2026/05/24/Tab-Lore)
 - JonLuca's Blog
@@ -18,10 +18,10 @@
   - [特朗普政府要求绿卡申请者离开美国申请](https://www.solidot.org/story?sid=84381)
 - 黑鸟
   - [你删除的谷歌API密钥还在工作:最长可达23分钟](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186820&idx=1&sn=c13aeafe7e2c7dac4c7ecb196d6f2c49)
-- 青衣十三楼飞花堂
-  - [在地下_马识途_摘录(16)](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489488&idx=1&sn=ec015333e096bf61410e850eac9eb7bf)
 - 安全分析与研究
   - [Themida静态反虚拟化技术深度解读](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496721&idx=1&sn=1b30221e1faf574aa03e51f975398cf8)
+- 青衣十三楼飞花堂
+  - [在地下_马识途_摘录(16)](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489488&idx=1&sn=ec015333e096bf61410e850eac9eb7bf)
 - Flanker论AI
   - [OpenCyvis 2.0：不用刷机也能用的开源 AI 手机](https://mp.weixin.qq.com/s?__biz=MzI3ODI4NDM2MA==&mid=2247484189&idx=1&sn=aa15fce77547860b0674c4e7729846f9)
 - 安全研究GoSSIP
@@ -32,32 +32,32 @@
   - [【安全圈】“DeepSeek崩了”再次登微博热搜](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076842&idx=1&sn=dab51b8b1b34d75999f4b8b8c85059ce)
   - [【安全圈】某高校系统服务器遭木马入侵，警方调查后予以行政处罚](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076842&idx=2&sn=a98d5f104487d4f6ea77e07c49c25eff)
   - [【安全圈】富士康遭黑客入侵！致苹果30余份机密文件外泄](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076842&idx=3&sn=e8b0c3a9ba5d24d03e786ead828083ef)
-- 丁爸 情报分析师的工具箱
-  - [【工具】外汇天眼（WikiFX）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155930&idx=1&sn=0333a16e7f27ad2db7c550a5bbe81349)
-- 复旦白泽战队
-  - [访谈资讯｜张谧教授就“AI智能体浪潮下的安全护栏治理”话题答南都记者问](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247498592&idx=1&sn=d49ce409c6d145253360539bf3b8b05c)
 - NOVASEC
   - [实践JSRPC之从手工调试到实现全自动JSRPC注入](https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490875&idx=1&sn=ed04e6c225ac26b228470bd6dc4fba09)
 - 极客公园
   - [活宝团队试验「让 AI 当老板」，结果「做什么赔什么」，底裤都不剩](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653107089&idx=1&sn=2632430db662abd17668727eaf39c17c)
   - [传 Anthropic 新估值反超 OpenAI；iPhone 18 Pro 配色曝光，橙色没了；中国将实施太空人体研究计划 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653107102&idx=1&sn=996e044d753ba2444b6c8c58f9fe8526)
-- IT Service Management News
-  - [Verizon Data breach report 2026](http://blog.cesaregallotti.it/2026/05/verizon-data-breach-report-2026.html)
+- 丁爸 情报分析师的工具箱
+  - [【工具】外汇天眼（WikiFX）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155930&idx=1&sn=0333a16e7f27ad2db7c550a5bbe81349)
+- 复旦白泽战队
+  - [访谈资讯｜张谧教授就“AI智能体浪潮下的安全护栏治理”话题答南都记者问](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247498592&idx=1&sn=d49ce409c6d145253360539bf3b8b05c)
+- Arturo Di Corinto
+  - [Guerra profonda. Hacker, bugie e l’architettura segreta dei nuovi conflitti](https://dicorinto.it/libri/guerra-profonda-hacker-bugie-e-larchitettura-segreta-dei-nuovi-conflitti/)
+- Dark Space Blogspot
+  - [Come Avviene La Censura Di USDT e USDC? Freezing e Blacklist](http://darkwhite666.blogspot.com/2026/05/come-avviene-la-censura-di-usdt-e-usdc.html)
 - Over Security
   - [Postcast live (test)](https://roccosicilia.com/2026/05/22/postcast-live-test/)
   - [Threat Hunting and Defending #1 (study)](https://roccosicilia.com/2026/05/24/threat-hunting-and-defending-1-study/)
   - [Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign](https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/)
   - [7-Eleven - 185,256 breached accounts](https://haveibeenpwned.com/Breach/7-Eleven)
-- Have I Been Pwned latest breaches
-  - [7-Eleven - 185,256 breached accounts](https://haveibeenpwned.com/Breach/7-Eleven)
-- SANS Internet Storm Center, InfoCON: green
-  - [Wireshark 4.6.6 Released, (Sun, May 24th)](https://isc.sans.edu/diary/rss/33010)
-- Dark Space Blogspot
-  - [Come Avviene La Censura Di USDT e USDC? Freezing e Blacklist](http://darkwhite666.blogspot.com/2026/05/come-avviene-la-censura-di-usdt-e-usdc.html)
 - Troy Hunt's Blog
   - [Weekly Update 505](https://www.troyhunt.com/weekly-update-505/)
-- Arturo Di Corinto
-  - [Guerra profonda. Hacker, bugie e l’architettura segreta dei nuovi conflitti](https://dicorinto.it/libri/guerra-profonda-hacker-bugie-e-larchitettura-segreta-dei-nuovi-conflitti/)
+- SANS Internet Storm Center, InfoCON: green
+  - [Wireshark 4.6.6 Released, (Sun, May 24th)](https://isc.sans.edu/diary/rss/33010)
+- Have I Been Pwned latest breaches
+  - [7-Eleven - 185,256 breached accounts](https://haveibeenpwned.com/Breach/7-Eleven)
+- IT Service Management News
+  - [Verizon Data breach report 2026](http://blog.cesaregallotti.it/2026/05/verizon-data-breach-report-2026.html)
 - Security Affairs
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 98](https://securityaffairs.com/192598/malware/security-affairs-malware-newsletter-round-98.html)
   - [Security Affairs newsletter Round 578 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/192586/hacking/security-affairs-newsletter-round-578-by-pierluigi-paganini-international-edition.html)
