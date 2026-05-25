@@ -1,62 +1,61 @@
 # 每日安全资讯（2026-05-25）
 
-- Recent Commits to cve:main
-  - [Update Sun May 24 11:47:42 UTC 2026](https://github.com/trickest/cve/commit/9870aaaa6ac3d9d2c479293fa9269d555c908f29)
 - SecWiki News
   - [SecWiki News 2026-05-24 Review](http://www.sec-wiki.com/?2026-05-24)
-- Armin Ronacher's Thoughts and Writings
-  - [Building Pi With Pi](https://lucumr.pocoo.org/2026/5/24/pi-oss/)
+- Recent Commits to cve:main
+  - [Update Sun May 24 11:47:42 UTC 2026](https://github.com/trickest/cve/commit/9870aaaa6ac3d9d2c479293fa9269d555c908f29)
+- Taxodium
+  - [Album#40 - 大城•小事](https://taxodium.ink/album-40.html)
 - ongoing by Tim Bray
   - [Tab Trick](https://www.tbray.org/ongoing/When/202x/2026/05/24/Tab-Lore)
+- Armin Ronacher's Thoughts and Writings
+  - [Building Pi With Pi](https://lucumr.pocoo.org/2026/5/24/pi-oss/)
+- JonLuca's Blog
+  - [The Last Renaissance Man](https://jonlu.ca/posts/the-last-renaissance-man)
 - 奇客Solidot–传递最新科技情报
   - [研究建议为保护心血管健康每周运动 10 小时](https://www.solidot.org/story?sid=84383)
   - [报告认为个人要为老年健康状况承担至少八成责任](https://www.solidot.org/story?sid=84382)
   - [特朗普政府要求绿卡申请者离开美国申请](https://www.solidot.org/story?sid=84381)
-- JonLuca's Blog
-  - [The Last Renaissance Man](https://jonlu.ca/posts/the-last-renaissance-man)
-- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [谷歌上诉反垄断裁决，辩称搜索成功全靠产品创新而非排他协议](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E8%AF%89%E5%8F%8D%E5%9E%84%E6%96%AD%E8%A3%81%E5%86%B3-%E8%BE%A9%E7%A7%B0%E6%90%9C%E7%B4%A2%E6%88%90%E5%8A%9F%E5%85%A8%E9%9D%A0%E4%BA%A7%E5%93%81%E5%88%9B%E6%96%B0%E8%80%8C%E9%9D%9E%E6%8E%92%E4%BB%96%E5%8D%8F%E8%AE%AE)
-  - [Codex现在即使在Mac锁屏状态下也能使用](https://blog.upx8.com/Codex%E7%8E%B0%E5%9C%A8%E5%8D%B3%E4%BD%BF%E5%9C%A8Mac%E9%94%81%E5%B1%8F%E7%8A%B6%E6%80%81%E4%B8%8B%E4%B9%9F%E8%83%BD%E4%BD%BF%E7%94%A8)
-  - [Qwen3.6-35B-A3B 越狱版版“无审查”开源模型（最低6G显存）](https://blog.upx8.com/Qwen3-6-35B-A3B-6G)
-  - [声优津田健次郎起诉要求TikTok删除AI模仿自己声音的视频](https://blog.upx8.com/%E5%A3%B0%E4%BC%98%E6%B4%A5%E7%94%B0%E5%81%A5%E6%AC%A1%E9%83%8E%E8%B5%B7%E8%AF%89%E8%A6%81%E6%B1%82TikTok%E5%88%A0%E9%99%A4AI%E6%A8%A1%E4%BB%BF%E8%87%AA%E5%B7%B1%E5%A3%B0%E9%9F%B3%E7%9A%84%E8%A7%86%E9%A2%91)
-  - [虎牙旗下apkpure应用商店正在分发恶意软件](https://blog.upx8.com/%E8%99%8E%E7%89%99%E6%97%97%E4%B8%8Bapkpure%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97%E6%AD%A3%E5%9C%A8%E5%88%86%E5%8F%91%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BB%B6)
-  - [外资正纷纷撤出中国数据中心市场](https://blog.upx8.com/%E5%A4%96%E8%B5%84%E6%AD%A3%E7%BA%B7%E7%BA%B7%E6%92%A4%E5%87%BA%E4%B8%AD%E5%9B%BD%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%B8%82%E5%9C%BA)
+- 青衣十三楼飞花堂
+  - [在地下_马识途_摘录(16)](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489488&idx=1&sn=ec015333e096bf61410e850eac9eb7bf)
 - 黑鸟
   - [你删除的谷歌API密钥还在工作:最长可达23分钟](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186820&idx=1&sn=c13aeafe7e2c7dac4c7ecb196d6f2c49)
-- Flanker论AI
-  - [OpenCyvis 2.0：不用刷机也能用的开源 AI 手机](https://mp.weixin.qq.com/s?__biz=MzI3ODI4NDM2MA==&mid=2247484189&idx=1&sn=aa15fce77547860b0674c4e7729846f9)
-- 安全研究GoSSIP
-  - [G.O.S.S.I.P 2026年5月投稿指南 Love and Peach](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501704&idx=1&sn=5b4447468e780a6baa2c226784e14c5f)
 - 我的安全视界观
   - [漏洞通胀时代：产品安全的三层破局架构思考](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487461&idx=1&sn=620bf4cb3700f0d16b095e695d405297)
-- 安全圈
-  - [【安全圈】“DeepSeek崩了”再次登微博热搜](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076842&idx=1&sn=dab51b8b1b34d75999f4b8b8c85059ce)
-  - [【安全圈】某高校系统服务器遭木马入侵，警方调查后予以行政处罚](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076842&idx=2&sn=a98d5f104487d4f6ea77e07c49c25eff)
-  - [【安全圈】富士康遭黑客入侵！致苹果30余份机密文件外泄](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076842&idx=3&sn=e8b0c3a9ba5d24d03e786ead828083ef)
+- 安全研究GoSSIP
+  - [G.O.S.S.I.P 2026年5月投稿指南 Love and Peach](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501704&idx=1&sn=5b4447468e780a6baa2c226784e14c5f)
+- 安全分析与研究
+  - [Themida静态反虚拟化技术深度解读](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496721&idx=1&sn=1b30221e1faf574aa03e51f975398cf8)
 - 极客公园
   - [活宝团队试验「让 AI 当老板」，结果「做什么赔什么」，底裤都不剩](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653107089&idx=1&sn=2632430db662abd17668727eaf39c17c)
   - [传 Anthropic 新估值反超 OpenAI；iPhone 18 Pro 配色曝光，橙色没了；中国将实施太空人体研究计划 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653107102&idx=1&sn=996e044d753ba2444b6c8c58f9fe8526)
 - 复旦白泽战队
   - [访谈资讯｜张谧教授就“AI智能体浪潮下的安全护栏治理”话题答南都记者问](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247498592&idx=1&sn=d49ce409c6d145253360539bf3b8b05c)
+- Flanker论AI
+  - [OpenCyvis 2.0：不用刷机也能用的开源 AI 手机](https://mp.weixin.qq.com/s?__biz=MzI3ODI4NDM2MA==&mid=2247484189&idx=1&sn=aa15fce77547860b0674c4e7729846f9)
+- 安全圈
+  - [【安全圈】“DeepSeek崩了”再次登微博热搜](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076842&idx=1&sn=dab51b8b1b34d75999f4b8b8c85059ce)
+  - [【安全圈】某高校系统服务器遭木马入侵，警方调查后予以行政处罚](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076842&idx=2&sn=a98d5f104487d4f6ea77e07c49c25eff)
+  - [【安全圈】富士康遭黑客入侵！致苹果30余份机密文件外泄](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076842&idx=3&sn=e8b0c3a9ba5d24d03e786ead828083ef)
 - Over Security
   - [Postcast live (test)](https://roccosicilia.com/2026/05/22/postcast-live-test/)
   - [Threat Hunting and Defending #1 (study)](https://roccosicilia.com/2026/05/24/threat-hunting-and-defending-1-study/)
   - [Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign](https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/)
   - [7-Eleven - 185,256 breached accounts](https://haveibeenpwned.com/Breach/7-Eleven)
-- Arturo Di Corinto
-  - [Guerra profonda. Hacker, bugie e l’architettura segreta dei nuovi conflitti](https://dicorinto.it/libri/guerra-profonda-hacker-bugie-e-larchitettura-segreta-dei-nuovi-conflitti/)
-- IT Service Management News
-  - [Verizon Data breach report 2026](http://blog.cesaregallotti.it/2026/05/verizon-data-breach-report-2026.html)
 - Dark Space Blogspot
   - [Come Avviene La Censura Di USDT e USDC? Freezing e Blacklist](http://darkwhite666.blogspot.com/2026/05/come-avviene-la-censura-di-usdt-e-usdc.html)
 - Have I Been Pwned latest breaches
   - [7-Eleven - 185,256 breached accounts](https://haveibeenpwned.com/Breach/7-Eleven)
-- Troy Hunt's Blog
-  - [Weekly Update 505](https://www.troyhunt.com/weekly-update-505/)
+- IT Service Management News
+  - [Verizon Data breach report 2026](http://blog.cesaregallotti.it/2026/05/verizon-data-breach-report-2026.html)
+- Arturo Di Corinto
+  - [Guerra profonda. Hacker, bugie e l’architettura segreta dei nuovi conflitti](https://dicorinto.it/libri/guerra-profonda-hacker-bugie-e-larchitettura-segreta-dei-nuovi-conflitti/)
+- SANS Internet Storm Center, InfoCON: green
+  - [Wireshark 4.6.6 Released, (Sun, May 24th)](https://isc.sans.edu/diary/rss/33010)
 - Security Affairs
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 98](https://securityaffairs.com/192598/malware/security-affairs-malware-newsletter-round-98.html)
   - [Security Affairs newsletter Round 578 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/192586/hacking/security-affairs-newsletter-round-578-by-pierluigi-paganini-international-edition.html)
   - [Anthropic’s Project Glasswing: 10,000+ Vulnerabilities Found in One Month, and the Patching Problem Has Never Been More Obvious](https://securityaffairs.com/192576/ai/anthropics-glasswing-10000-vulnerabilities-found-in-one-month-and-the-patching-problem-has-never-been-more-obvious.html)
   - [U.S. CISA adds a flaw in Drupal Core to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/192566/uncategorized/u-s-cisa-adds-a-flaw-in-drupal-core-to-its-known-exploited-vulnerabilities-catalog.html)
-- SANS Internet Storm Center, InfoCON: green
-  - [Wireshark 4.6.6 Released, (Sun, May 24th)](https://isc.sans.edu/diary/rss/33010)
+- Troy Hunt's Blog
+  - [Weekly Update 505](https://www.troyhunt.com/weekly-update-505/)
