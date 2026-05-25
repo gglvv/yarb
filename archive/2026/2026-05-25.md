@@ -1,18 +1,15 @@
 # 每日安全资讯（2026-05-25）
 
-- Armin Ronacher's Thoughts and Writings
-  - [Building Pi With Pi](https://lucumr.pocoo.org/2026/5/24/pi-oss/)
 - SecWiki News
   - [SecWiki News 2026-05-24 Review](http://www.sec-wiki.com/?2026-05-24)
+- Armin Ronacher's Thoughts and Writings
+  - [Building Pi With Pi](https://lucumr.pocoo.org/2026/5/24/pi-oss/)
+- Recent Commits to cve:main
+  - [Update Sun May 24 11:47:42 UTC 2026](https://github.com/trickest/cve/commit/9870aaaa6ac3d9d2c479293fa9269d555c908f29)
 - ongoing by Tim Bray
   - [Tab Trick](https://www.tbray.org/ongoing/When/202x/2026/05/24/Tab-Lore)
 - Taxodium
   - [Album#40 - 大城•小事](https://taxodium.ink/album-40.html)
-- Recent Commits to cve:main
-  - [Update Sun May 24 11:47:42 UTC 2026](https://github.com/trickest/cve/commit/9870aaaa6ac3d9d2c479293fa9269d555c908f29)
-- Reverse Engineering
-  - [GitHub - iss4cf0ng/OpenPetya: A Proof-of-Concept bootkit inspired by Petya ransomware, written in Assembly, C, and C++](https://www.reddit.com/r/ReverseEngineering/comments/1tm85ca/github_iss4cf0ngopenpetya_a_proofofconcept/)
-  - [Reverse engineering circuitry in a Spacelab computer from 1980](https://www.reddit.com/r/ReverseEngineering/comments/1tlxl2w/reverse_engineering_circuitry_in_a_spacelab/)
 - JonLuca's Blog
   - [The Last Renaissance Man](https://jonlu.ca/posts/the-last-renaissance-man)
 - 奇客Solidot–传递最新科技情报
@@ -29,23 +26,25 @@
   - [OpenCyvis 2.0：不用刷机也能用的开源 AI 手机](https://mp.weixin.qq.com/s?__biz=MzI3ODI4NDM2MA==&mid=2247484189&idx=1&sn=aa15fce77547860b0674c4e7729846f9)
 - 安全研究GoSSIP
   - [G.O.S.S.I.P 2026年5月投稿指南 Love and Peach](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501704&idx=1&sn=5b4447468e780a6baa2c226784e14c5f)
+- 我的安全视界观
+  - [漏洞通胀时代：产品安全的三层破局架构思考](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487461&idx=1&sn=620bf4cb3700f0d16b095e695d405297)
 - 安全圈
   - [【安全圈】“DeepSeek崩了”再次登微博热搜](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076842&idx=1&sn=dab51b8b1b34d75999f4b8b8c85059ce)
   - [【安全圈】某高校系统服务器遭木马入侵，警方调查后予以行政处罚](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076842&idx=2&sn=a98d5f104487d4f6ea77e07c49c25eff)
   - [【安全圈】富士康遭黑客入侵！致苹果30余份机密文件外泄](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076842&idx=3&sn=e8b0c3a9ba5d24d03e786ead828083ef)
-- 我的安全视界观
-  - [漏洞通胀时代：产品安全的三层破局架构思考](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487461&idx=1&sn=620bf4cb3700f0d16b095e695d405297)
 - NOVASEC
   - [实践JSRPC之从手工调试到实现全自动JSRPC注入](https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490875&idx=1&sn=ed04e6c225ac26b228470bd6dc4fba09)
-- 极客公园
-  - [活宝团队试验「让 AI 当老板」，结果「做什么赔什么」，底裤都不剩](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653107089&idx=1&sn=2632430db662abd17668727eaf39c17c)
-  - [传 Anthropic 新估值反超 OpenAI；iPhone 18 Pro 配色曝光，橙色没了；中国将实施太空人体研究计划 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653107102&idx=1&sn=996e044d753ba2444b6c8c58f9fe8526)
 - 丁爸 情报分析师的工具箱
   - [【工具】外汇天眼（WikiFX）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155930&idx=1&sn=0333a16e7f27ad2db7c550a5bbe81349)
 - 复旦白泽战队
   - [访谈资讯｜张谧教授就“AI智能体浪潮下的安全护栏治理”话题答南都记者问](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247498592&idx=1&sn=d49ce409c6d145253360539bf3b8b05c)
+- 极客公园
+  - [活宝团队试验「让 AI 当老板」，结果「做什么赔什么」，底裤都不剩](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653107089&idx=1&sn=2632430db662abd17668727eaf39c17c)
+  - [传 Anthropic 新估值反超 OpenAI；iPhone 18 Pro 配色曝光，橙色没了；中国将实施太空人体研究计划 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653107102&idx=1&sn=996e044d753ba2444b6c8c58f9fe8526)
 - IT Service Management News
   - [Verizon Data breach report 2026](http://blog.cesaregallotti.it/2026/05/verizon-data-breach-report-2026.html)
+- Arturo Di Corinto
+  - [Guerra profonda. Hacker, bugie e l’architettura segreta dei nuovi conflitti](https://dicorinto.it/libri/guerra-profonda-hacker-bugie-e-larchitettura-segreta-dei-nuovi-conflitti/)
 - Dark Space Blogspot
   - [Come Avviene La Censura Di USDT e USDC? Freezing e Blacklist](http://darkwhite666.blogspot.com/2026/05/come-avviene-la-censura-di-usdt-e-usdc.html)
 - Over Security
@@ -55,21 +54,10 @@
   - [7-Eleven - 185,256 breached accounts](https://haveibeenpwned.com/Breach/7-Eleven)
 - SANS Internet Storm Center, InfoCON: green
   - [Wireshark 4.6.6 Released, (Sun, May 24th)](https://isc.sans.edu/diary/rss/33010)
-- Arturo Di Corinto
-  - [Guerra profonda. Hacker, bugie e l’architettura segreta dei nuovi conflitti](https://dicorinto.it/libri/guerra-profonda-hacker-bugie-e-larchitettura-segreta-dei-nuovi-conflitti/)
 - Troy Hunt's Blog
   - [Weekly Update 505](https://www.troyhunt.com/weekly-update-505/)
 - Have I Been Pwned latest breaches
   - [7-Eleven - 185,256 breached accounts](https://haveibeenpwned.com/Breach/7-Eleven)
-- Blackhat Library: Hacking techniques and research
-  - [Inquiry about the eligibility of a startup technology project to apply — TID Project](https://www.reddit.com/r/blackhat/comments/1tm7hh1/inquiry_about_the_eligibility_of_a_startup/)
-- netsecstudents: Subreddit for students studying Network Security and its related subjects
-  - [Good at theory, terrible at practical (HTB/THM "so-called easy" boxes). What am I missing?](https://www.reddit.com/r/netsecstudents/comments/1tmk8zi/good_at_theory_terrible_at_practical_htbthm/)
-- Information Security
-  - [How do you clean up stale access in legacy apps when nobody owns it and nobody wants to touch it?](https://www.reddit.com/r/Information_Security/comments/1tm1q48/how_do_you_clean_up_stale_access_in_legacy_apps/)
-- Your Open Hacker Community
-  - [Looking for a roadmap review and feedback](https://www.reddit.com/r/HowToHack/comments/1tmnmjf/looking_for_a_roadmap_review_and_feedback/)
-  - [Outlook hacked](https://www.reddit.com/r/HowToHack/comments/1tmqugt/outlook_hacked/)
 - Security Affairs
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 98](https://securityaffairs.com/192598/malware/security-affairs-malware-newsletter-round-98.html)
   - [Security Affairs newsletter Round 578 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/192586/hacking/security-affairs-newsletter-round-578-by-pierluigi-paganini-international-edition.html)
