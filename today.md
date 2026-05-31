@@ -1,71 +1,66 @@
 # 每日安全资讯（2026-05-31）
 
+- SecWiki News
+  - [SecWiki News 2026-05-30 Review](http://www.sec-wiki.com/?2026-05-30)
 - Microsoft Security Blog
   - [Malicious npm packages abuse dependency confusion to profile developer environments](https://www.microsoft.com/en-us/security/blog/2026/05/29/33-malicious-npm-packages-abuse-dependency-confusion-profile-developer-environments/)
 - Recent Commits to cve:main
   - [Update Sat May 30 11:51:24 UTC 2026](https://github.com/trickest/cve/commit/09fca7df5dcda304ac942a8a721ab365557e477e)
-- SecWiki News
-  - [SecWiki News 2026-05-30 Review](http://www.sec-wiki.com/?2026-05-30)
-- Reverse Engineering
-  - [I reverse engineered how Plex gates its Pass features, then wrote a tiny patch that flips them all on (Linux)](https://www.reddit.com/r/ReverseEngineering/comments/1ts8fvs/i_reverse_engineered_how_plex_gates_its_pass/)
 - Intigriti
   - [Intigriti Bug Bytes #236 - May 2026 🚀](https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-236-may-2026)
-- JonLuca's Blog
-  - [Snowmen, Recruiters, and Terry Pratchett: The Web's HTTP Header Junk Drawer](https://jonlu.ca/posts/http-headers-top-1000)
+- Reverse Engineering
+  - [I reverse engineered how Plex gates its Pass features, then wrote a tiny patch that flips them all on (Linux)](https://www.reddit.com/r/ReverseEngineering/comments/1ts8fvs/i_reverse_engineered_how_plex_gates_its_pass/)
 - 奇客Solidot–传递最新科技情报
   - [丹麦养老基金将 SpaceX 列入投资黑名单](https://www.solidot.org/story?sid=84442)
   - [一家美国公司一个月内在 Claude AI 上花费了 5 亿美元](https://www.solidot.org/story?sid=84441)
   - [Krafton 同意向《Subnautica 2》开发商支付 2.5 亿美元奖金](https://www.solidot.org/story?sid=84440)
   - [气候变化扰乱北冰洋食物链](https://www.solidot.org/story?sid=84439)
+- JonLuca's Blog
+  - [Snowmen, Recruiters, and Terry Pratchett: The Web's HTTP Header Junk Drawer](https://jonlu.ca/posts/http-headers-top-1000)
 - 黑鸟
   - [欧洲运营商推出新型广告追踪系统Utiq：清空缓存也没用，30秒教你关闭](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186875&idx=1&sn=ea81b0b7a83e23f9e87b14f9d5fcc447)
+- 安全分析与研究
+  - [基于Windows线程池的新型进程注入技术—绕过全部主流EDR的深度剖析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496739&idx=1&sn=4c2b989bb235a75912ce46a72c02ccc4)
 - 青衣十三楼飞花堂
   - [小升初一派关网后的吃瓜群众](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489525&idx=1&sn=4215ab20d1dee73042acdb5afaa47e23)
-- 安全圈
-  - [【安全圈】警惕！ChatGPT共享链接竟成黑客新宠，你的下载安全吗？](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077061&idx=1&sn=3385da9592f8a706240d5d70ba763a88)
-  - [【安全圈】紧急预警！连“微软官方邮箱”都在给你发钓鱼邮件？别再迷信“核对发件人”了！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077061&idx=2&sn=5b4c9357ceaafa335ecbc262ce7f85e8)
-  - [【安全圈】嘉年华数据泄露，600 万人信息遭曝光](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077061&idx=3&sn=62cba404b32bbbd05f8dd7a957c24ad4)
-- 软件安全与逆向分析
-  - [木鱼沙箱软件分析平台全新开启内测](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485228&idx=1&sn=f944f8c1869663aa2746f888ec286963)
-- 极客公园
-  - [便宜一块钱，多送一块墨水屏：手持影像的下半场拉开序幕](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653107715&idx=1&sn=a157be66ea7c42f72de92172b6161c14)
-  - [两大 AI「妖股」，杀回 A 股](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653107710&idx=1&sn=8086e37f91725be8b948c01b848060ff)
-  - [1.8 万亿美元，SpaceX 启动 IPO路演；黄仁勋评价韬定律：对台积电不是威胁；谷歌 DeepMind CEO：AGI 或于三年内到来 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653107684&idx=1&sn=0d2402f878d0cc81ec3d4a73bd04e704)
-- 阿里安全响应中心
-  - [先知先行——灯塔系列城市沙龙第十四场 · 北京站成功举办！](https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652998921&idx=1&sn=a6e846c0aef41bc6387772255cf0fa62)
+- 看雪学苑
+  - [单机DMA劫持HyperV！调试+取证两种思路解决2026腾讯游戏安全技术竞赛决赛](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458615876&idx=1&sn=f5931f94a735061c2d33d1a12f07e1be)
 - 丁爸 情报分析师的工具箱
   - [【课程】战略情报撰写-2（视频）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155988&idx=1&sn=e81d48479bcb088b6041ef35a02e6fb3)
-- 电子物证
-  - [【PHP服务器镜像网站重构及绕密分析】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049003&idx=1&sn=a50b12e5ac42797bea9c869086972df4)
-  - [【BitLocker 磁盘加解密操作指南】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049003&idx=2&sn=e55bbbecfe2b3a8eaa318c4a19e0f75b)
 - 中国信息安全
   - [发布 | 国家网信办等五部门联合公布《互联网信息内容多渠道分发服务管理规定》（附全文）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263116&idx=1&sn=59b39ee59f90b246eb5ce3f14c17c950)
   - [国家安全部：这些“数据犯罪”关乎国家安全](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263116&idx=2&sn=48c41aac61e22ce74a93d2e6cb21957d)
   - [发布 | 中央网信办等四部门印发《2026年提升全民数字素养与技能工作要点》](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263116&idx=3&sn=9b92b668a6edee3ab9d412abf2a2efec)
   - [专家解读｜王志勤：推动互联网信息内容多渠道分发服务在法治轨道上行稳致远](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263116&idx=4&sn=1007785c72b25f117bb4a27961d248f4)
+- 安全圈
+  - [【安全圈】警惕！ChatGPT共享链接竟成黑客新宠，你的下载安全吗？](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077061&idx=1&sn=3385da9592f8a706240d5d70ba763a88)
+  - [【安全圈】紧急预警！连“微软官方邮箱”都在给你发钓鱼邮件？别再迷信“核对发件人”了！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077061&idx=2&sn=5b4c9357ceaafa335ecbc262ce7f85e8)
+  - [【安全圈】嘉年华数据泄露，600 万人信息遭曝光](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077061&idx=3&sn=62cba404b32bbbd05f8dd7a957c24ad4)
+- 电子物证
+  - [【PHP服务器镜像网站重构及绕密分析】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049003&idx=1&sn=a50b12e5ac42797bea9c869086972df4)
+  - [【BitLocker 磁盘加解密操作指南】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049003&idx=2&sn=e55bbbecfe2b3a8eaa318c4a19e0f75b)
+- 极客公园
+  - [便宜一块钱，多送一块墨水屏：手持影像的下半场拉开序幕](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653107715&idx=1&sn=a157be66ea7c42f72de92172b6161c14)
+  - [两大 AI「妖股」，杀回 A 股](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653107710&idx=1&sn=8086e37f91725be8b948c01b848060ff)
+  - [1.8 万亿美元，SpaceX 启动 IPO路演；黄仁勋评价韬定律：对台积电不是威胁；谷歌 DeepMind CEO：AGI 或于三年内到来 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653107684&idx=1&sn=0d2402f878d0cc81ec3d4a73bd04e704)
+- 软件安全与逆向分析
+  - [木鱼沙箱软件分析平台全新开启内测](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485228&idx=1&sn=f944f8c1869663aa2746f888ec286963)
 - Microsoft Security Blog
   - [Malicious npm packages abuse dependency confusion to profile developer environments](https://www.microsoft.com/en-us/security/blog/2026/05/29/33-malicious-npm-packages-abuse-dependency-confusion-profile-developer-environments/)
-- 安全分析与研究
-  - [基于Windows线程池的新型进程注入技术—绕过全部主流EDR的深度剖析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496739&idx=1&sn=4c2b989bb235a75912ce46a72c02ccc4)
+- LastKnight.com Feed
+  - [Procioni & Elefanti: cosa sono i Prediction Market e perché l’Europa li mette alla berlina (e gli USA no)](https://mgpf.it/2026/05/30/procioni-elefanti-prediction-market.html)
 - cavallette
   - [Sostieni A/I anche quest’anno!!!](https://cavallette.noblogs.org/2026/05/10059)
-- 看雪学苑
-  - [单机DMA劫持HyperV！调试+取证两种思路解决2026腾讯游戏安全技术竞赛决赛](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458615876&idx=1&sn=f5931f94a735061c2d33d1a12f07e1be)
-- Have I Been Pwned latest breaches
-  - [Atlas Menu - 63,926 breached accounts](https://haveibeenpwned.com/Breach/AtlasMenu)
+- 阿里安全响应中心
+  - [先知先行——灯塔系列城市沙龙第十四场 · 北京站成功举办！](https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652998921&idx=1&sn=a6e846c0aef41bc6387772255cf0fa62)
 - Over Security
   - [Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/)
   - [New CIFSwitch Linux flaw gives root on multiple distributions](https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/)
-- LastKnight.com Feed
-  - [Procioni & Elefanti: cosa sono i Prediction Market e perché l’Europa li mette alla berlina (e gli USA no)](https://mgpf.it/2026/05/30/procioni-elefanti-prediction-market.html)
-- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [软银将投资750亿欧元建设法国数据中心](https://blog.upx8.com/%E8%BD%AF%E9%93%B6%E5%B0%86%E6%8A%95%E8%B5%84750%E4%BA%BF%E6%AC%A7%E5%85%83%E5%BB%BA%E8%AE%BE%E6%B3%95%E5%9B%BD%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83)
-  - [互联网正在为AI聊天机器人机器重建](https://blog.upx8.com/%E4%BA%92%E8%81%94%E7%BD%91%E6%AD%A3%E5%9C%A8%E4%B8%BAAI%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9C%BA%E5%99%A8%E9%87%8D%E5%BB%BA)
-- Social Engineering
-  - [Frame Control: The tactic of making the target defend their own reaction](https://www.reddit.com/r/SocialEngineering/comments/1trxk5x/frame_control_the_tactic_of_making_the_target/)
+- Have I Been Pwned latest breaches
+  - [Atlas Menu - 63,926 breached accounts](https://haveibeenpwned.com/Breach/AtlasMenu)
+- The Hacker News
+  - [PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation](https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html)
 - Security Affairs
   - [ShinyHunters Leaks Charter Communications Data, Potentially Impacting 5 Million Customers](https://securityaffairs.com/192907/uncategorized/shinyhunters-leaks-charter-communications-data-potentially-impacting-5-million-customers.html)
   - [Signal Phishing Campaign Targets Journalists and Activists to Steal Backup Recovery Keys](https://securityaffairs.com/192899/security/signal-phishing-campaign-targets-journalists-and-activists-to-steal-backup-recovery-keys.html)
   - [Botnet of 17 Million Devices Dismantled in the Netherlands](https://securityaffairs.com/192890/malware/botnet-of-17-million-devices-dismantled-in-the-netherlands.html)
-- The Hacker News
-  - [PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation](https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html)
