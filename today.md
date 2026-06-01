@@ -6,6 +6,8 @@
   - [On Reading SRAMs in IR Images, and Establishing Bounds on Trust](https://www.bunniestudios.com/blog/2026/on-reading-srams-in-ir-images-and-establishing-bounds-on-trust/)
   - [Name that Ware, May 2026](https://www.bunniestudios.com/blog/2026/name-that-ware-may-2026/)
   - [Winner, Name that Ware April 2026](https://www.bunniestudios.com/blog/2026/winner-name-that-ware-april-2026/)
+- No Headback
+  - [AI 能做复杂需求吗（一）](http://xargin.com/can-ai-impl-complex-requirements/)
 - Recent Commits to cve:main
   - [Update Sun May 31 11:59:23 UTC 2026](https://github.com/trickest/cve/commit/24c57871dd1a8803992820b7f3738e5c52435832)
 - InfoSec Write-ups - Medium
@@ -15,8 +17,6 @@
   - [HTTP Request Smuggling Lab Basic CL.TE vulnerability](https://infosecwriteups.com/http-request-smuggling-lab-basic-cl-te-vulnerability-ce47accfd024?source=rss----7b722bfd1b8d---4)
   - [I Stopped Trying To Learn Everything In Cybersecurity](https://infosecwriteups.com/i-stopped-trying-to-learn-everything-in-cybersecurity-d07449cee5e6?source=rss----7b722bfd1b8d---4)
   - [Introduction to SQL Injection](https://infosecwriteups.com/introduction-to-sql-injection-f4f0911f3461?source=rss----7b722bfd1b8d---4)
-- No Headback
-  - [AI 能做复杂需求吗（一）](http://xargin.com/can-ai-impl-complex-requirements/)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [How I Created 20 Super-Admins in 1 Second: Exploiting a Race Condition in Querybook](https://infosecwriteups.com/how-i-created-20-super-admins-in-1-second-exploiting-a-race-condition-in-querybook-73cee916d6f9?source=rss----7b722bfd1b8d--bug_bounty)
   - [Blockchain Kya Hota Hai? Bilkul Zero Se Samjho!](https://infosecwriteups.com/blockchain-kya-hota-hai-bilkul-zero-se-samjho-7eb4a11d0596?source=rss----7b722bfd1b8d--bug_bounty)
@@ -24,6 +24,8 @@
   - [When Bug Bounty Hunting Hit Me Back: How Losing $500 Led Me to a Web Cache Poisoning Bug.](https://infosecwriteups.com/when-bug-bounty-hunting-hit-me-back-how-losing-500-led-me-to-a-web-cache-poisoning-bug-36fb2f196b9a?source=rss----7b722bfd1b8d--bug_bounty)
   - [How I Discovered Account Takeover (ATO) via XSS and Open redirect](https://infosecwriteups.com/how-i-discovered-account-takeover-ato-via-xss-and-open-redirect-36f640760451?source=rss----7b722bfd1b8d--bug_bounty)
   - [SecLeaf Q2 CTF 2026 Writeups](https://infosecwriteups.com/secleaf-q2-ctf-2026-writeups-e44b5326456a?source=rss----7b722bfd1b8d--bug_bounty)
+- Quarkslab's blog
+  - [Scala Security Audit](http://blog.quarkslab.com/scala-security-audit.html)
 - Hacking Articles
   - [AI Powered Nmap using ShellGPT](https://www.hackingarticles.in/ai-powered-nmap-using-shellgpt/)
 - 奇客Solidot–传递最新科技情报
@@ -31,30 +33,30 @@
   - [GLP-1 减肥药可能会重塑大脑](https://www.solidot.org/story?sid=84443)
 - 黑鸟
   - [浏览器里的隐形间谍：FROST攻击如何通过硬盘时序窃取你的隐私](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186885&idx=1&sn=742205bd487fbdbea7d8ed96f15a66cb)
-- 安全学术圈
-  - [2025年度海南省科学技术奖受理项目清单（网络空间安全领域）](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495370&idx=1&sn=71934ceaa90e0699d4cdfc7c5b4cb3a8)
-- 黑哥虾撩
-  - [Mythos/GPT5.5 网络安全模型分水岭](https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484563&idx=1&sn=e9bded33936d30ed386da72906bd046f)
 - 青衣十三楼飞花堂
   - [求√(4-x)+√(3x)最大值与最小值之和](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489526&idx=1&sn=e6f87e9d216d87572aa064f5ee88c99d)
+- 安全学术圈
+  - [2025年度海南省科学技术奖受理项目清单（网络空间安全领域）](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495370&idx=1&sn=71934ceaa90e0699d4cdfc7c5b4cb3a8)
+- 丁爸 情报分析师的工具箱
+  - [【情报】湾湾在泰国曼谷的“秘密窃听站”暴露了](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156070&idx=1&sn=34534081ad5bf96fbb6441c817cf2dc1)
 - 我的安全视界观
   - [【AI复盘】TanStack -> OpenAI供应链攻击](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487484&idx=1&sn=01090035330ca237eecff2c419389f9b)
+- 黑哥虾撩
+  - [Mythos/GPT5.5 网络安全模型分水岭](https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484563&idx=1&sn=e9bded33936d30ed386da72906bd046f)
 - 极客公园
   - [欧冠落幕，欧足联把「AI」这球传给了阿里](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653107764&idx=1&sn=d410c7dc5d1b9dcf508e28484b51ad39)
   - [Vision Pro 三年没做成的事，Google 想用 Android XR 再赌一次」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653107728&idx=1&sn=1f5efe2a4eebf788e93e9a60abaa01e4)
   - [蓝色起源火箭爆炸重创 NASA 登月计划；微软打造 Copilot 超级应用；多名特斯拉前员工坦言不信赖 FSD | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653107748&idx=1&sn=4ff4c406117f57c27c9ba428af290d6c)
-- 丁爸 情报分析师的工具箱
-  - [【情报】湾湾在泰国曼谷的“秘密窃听站”暴露了](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156070&idx=1&sn=34534081ad5bf96fbb6441c817cf2dc1)
-- 熵减矩阵
-  - [PrismSpace：40亿token的安卓双开重构之路](https://mp.weixin.qq.com/s?__biz=Mzg2MTc1NDAxMA==&mid=2247485345&idx=1&sn=71c9552686f7eff40eae952e572ebcba)
 - Over Security
   - [WP Maps Pro bug exploited to create admin accounts on WordPress sites](https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/)
   - [Malware Analysis: Is It About Tools or Mindset?](https://www.secjuice.com/malware-analysis/)
   - [Atlas Menu - 63,926 breached accounts](https://haveibeenpwned.com/Breach/AtlasMenu)
-- SANS Internet Storm Center, InfoCON: green
-  - [YARA-X 1.17.0 Release, (Sun, May 31st)](https://isc.sans.edu/diary/rss/33032)
 - Lenny Zeltser
   - [A Report Template for Security Assessments](https://zeltser.com/security-assessment-report-template)
+- 熵减矩阵
+  - [PrismSpace：40亿token的安卓双开重构之路](https://mp.weixin.qq.com/s?__biz=Mzg2MTc1NDAxMA==&mid=2247485345&idx=1&sn=71c9552686f7eff40eae952e572ebcba)
+- SANS Internet Storm Center, InfoCON: green
+  - [YARA-X 1.17.0 Release, (Sun, May 31st)](https://isc.sans.edu/diary/rss/33032)
 - The Hacker News
   - [Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices](https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html)
 - Security Affairs
