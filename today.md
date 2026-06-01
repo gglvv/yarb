@@ -6,10 +6,6 @@
   - [On Reading SRAMs in IR Images, and Establishing Bounds on Trust](https://www.bunniestudios.com/blog/2026/on-reading-srams-in-ir-images-and-establishing-bounds-on-trust/)
   - [Name that Ware, May 2026](https://www.bunniestudios.com/blog/2026/name-that-ware-may-2026/)
   - [Winner, Name that Ware April 2026](https://www.bunniestudios.com/blog/2026/winner-name-that-ware-april-2026/)
-- SecWiki News
-  - [SecWiki News 2026-05-31 Review](http://www.sec-wiki.com/?2026-05-31)
-- No Headback
-  - [AI 能做复杂需求吗（一）](http://xargin.com/can-ai-impl-complex-requirements/)
 - InfoSec Write-ups - Medium
   - [How I Created 20 Super-Admins in 1 Second: Exploiting a Race Condition in Querybook](https://infosecwriteups.com/how-i-created-20-super-admins-in-1-second-exploiting-a-race-condition-in-querybook-73cee916d6f9?source=rss----7b722bfd1b8d---4)
   - [How I Became the #1 Security Researcher on the DHS Vulnerability Disclosure Program](https://infosecwriteups.com/how-i-became-the-1-security-researcher-on-the-dhs-vulnerability-disclosure-program-cf75da2b83be?source=rss----7b722bfd1b8d---4)
@@ -17,6 +13,10 @@
   - [HTTP Request Smuggling Lab Basic CL.TE vulnerability](https://infosecwriteups.com/http-request-smuggling-lab-basic-cl-te-vulnerability-ce47accfd024?source=rss----7b722bfd1b8d---4)
   - [I Stopped Trying To Learn Everything In Cybersecurity](https://infosecwriteups.com/i-stopped-trying-to-learn-everything-in-cybersecurity-d07449cee5e6?source=rss----7b722bfd1b8d---4)
   - [Introduction to SQL Injection](https://infosecwriteups.com/introduction-to-sql-injection-f4f0911f3461?source=rss----7b722bfd1b8d---4)
+- No Headback
+  - [AI 能做复杂需求吗（一）](http://xargin.com/can-ai-impl-complex-requirements/)
+- SecWiki News
+  - [SecWiki News 2026-05-31 Review](http://www.sec-wiki.com/?2026-05-31)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [How I Created 20 Super-Admins in 1 Second: Exploiting a Race Condition in Querybook](https://infosecwriteups.com/how-i-created-20-super-admins-in-1-second-exploiting-a-race-condition-in-querybook-73cee916d6f9?source=rss----7b722bfd1b8d--bug_bounty)
   - [Blockchain Kya Hota Hai? Bilkul Zero Se Samjho!](https://infosecwriteups.com/blockchain-kya-hota-hai-bilkul-zero-se-samjho-7eb4a11d0596?source=rss----7b722bfd1b8d--bug_bounty)
@@ -28,62 +28,38 @@
   - [Scala Security Audit](http://blog.quarkslab.com/scala-security-audit.html)
 - Hacking Articles
   - [AI Powered Nmap using ShellGPT](https://www.hackingarticles.in/ai-powered-nmap-using-shellgpt/)
-- Reverse Engineering
-  - [ThinkPad firmware reverse-engineering toolchain: archived Lenovo BIOS → named SoC pads, EC analysis, CVE diffs, coreboot/OpenCore port scaffolding](https://www.reddit.com/r/ReverseEngineering/comments/1tswxj5/thinkpad_firmware_reverseengineering_toolchain/)
-  - [Snowboard Kids 2 is 100% Decompiled](https://www.reddit.com/r/ReverseEngineering/comments/1tskr31/snowboard_kids_2_is_100_decompiled/)
-  - [usbsnoop — sniff and decode USB device traffic system-wide with eBPF, for reversing proprietary protocols (control/SCSI/HID, no bus analyzer)](https://www.reddit.com/r/ReverseEngineering/comments/1tsfwpe/usbsnoop_sniff_and_decode_usb_device_traffic/)
-  - [TinyLoad v7 - what i added :D (in memory protection using VEH and alot more)](https://www.reddit.com/r/ReverseEngineering/comments/1tsnyjd/tinyload_v7_what_i_added_d_in_memory_protection/)
-  - [[ Removed by Reddit ]](https://www.reddit.com/r/ReverseEngineering/comments/1tsm6ge/removed_by_reddit/)
 - 奇客Solidot–传递最新科技情报
   - [高温会扰乱动物大脑](https://www.solidot.org/story?sid=84444)
   - [GLP-1 减肥药可能会重塑大脑](https://www.solidot.org/story?sid=84443)
-- 黑鸟
-  - [浏览器里的隐形间谍：FROST攻击如何通过硬盘时序窃取你的隐私](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186885&idx=1&sn=742205bd487fbdbea7d8ed96f15a66cb)
 - 青衣十三楼飞花堂
   - [求√(4-x)+√(3x)最大值与最小值之和](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489526&idx=1&sn=e6f87e9d216d87572aa064f5ee88c99d)
-- 我的安全视界观
-  - [【AI复盘】TanStack -> OpenAI供应链攻击](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487484&idx=1&sn=01090035330ca237eecff2c419389f9b)
+- 黑鸟
+  - [浏览器里的隐形间谍：FROST攻击如何通过硬盘时序窃取你的隐私](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186885&idx=1&sn=742205bd487fbdbea7d8ed96f15a66cb)
 - 安全学术圈
   - [2025年度海南省科学技术奖受理项目清单（网络空间安全领域）](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495370&idx=1&sn=71934ceaa90e0699d4cdfc7c5b4cb3a8)
-- 黑哥虾撩
-  - [Mythos/GPT5.5 网络安全模型分水岭](https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484563&idx=1&sn=e9bded33936d30ed386da72906bd046f)
+- 我的安全视界观
+  - [【AI复盘】TanStack -> OpenAI供应链攻击](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487484&idx=1&sn=01090035330ca237eecff2c419389f9b)
 - 极客公园
   - [欧冠落幕，欧足联把「AI」这球传给了阿里](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653107764&idx=1&sn=d410c7dc5d1b9dcf508e28484b51ad39)
   - [Vision Pro 三年没做成的事，Google 想用 Android XR 再赌一次」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653107728&idx=1&sn=1f5efe2a4eebf788e93e9a60abaa01e4)
   - [蓝色起源火箭爆炸重创 NASA 登月计划；微软打造 Copilot 超级应用；多名特斯拉前员工坦言不信赖 FSD | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653107748&idx=1&sn=4ff4c406117f57c27c9ba428af290d6c)
 - 丁爸 情报分析师的工具箱
   - [【情报】湾湾在泰国曼谷的“秘密窃听站”暴露了](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156070&idx=1&sn=34534081ad5bf96fbb6441c817cf2dc1)
+- 黑哥虾撩
+  - [Mythos/GPT5.5 网络安全模型分水岭](https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484563&idx=1&sn=e9bded33936d30ed386da72906bd046f)
 - Over Security
   - [WP Maps Pro bug exploited to create admin accounts on WordPress sites](https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/)
   - [Malware Analysis: Is It About Tools or Mindset?](https://www.secjuice.com/malware-analysis/)
   - [Atlas Menu - 63,926 breached accounts](https://haveibeenpwned.com/Breach/AtlasMenu)
-- SANS Internet Storm Center, InfoCON: green
-  - [YARA-X 1.17.0 Release, (Sun, May 31st)](https://isc.sans.edu/diary/rss/33032)
 - Lenny Zeltser
   - [A Report Template for Security Assessments](https://zeltser.com/security-assessment-report-template)
-- 熵减矩阵
-  - [PrismSpace：40亿token的安卓双开重构之路](https://mp.weixin.qq.com/s?__biz=Mzg2MTc1NDAxMA==&mid=2247485345&idx=1&sn=71c9552686f7eff40eae952e572ebcba)
+- SANS Internet Storm Center, InfoCON: green
+  - [YARA-X 1.17.0 Release, (Sun, May 31st)](https://isc.sans.edu/diary/rss/33032)
 - Security Affairs
   - [CVE-2026-0257: Rapid7 Caught Attackers Abusing Forged VPN Cookies Against Multiple Customers](https://securityaffairs.com/192933/security/cve-2026-0257-rapid7-caught-attackers-abusing-forged-vpn-cookies-against-multiple-customers.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 99](https://securityaffairs.com/192928/security/security-affairs-malware-newsletter-round-99.html)
   - [Security Affairs newsletter Round 579 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/192918/security/security-affairs-newsletter-round-579-by-pierluigi-paganini-international-edition.html)
-- Deep Web
-  - [[ Removed by Reddit ]](https://www.reddit.com/r/deepweb/comments/1tso83e/removed_by_reddit/)
-- Social Engineering
-  - [How can you judge a person you've newly met within few months to determine whether they worthy to be trusted.](https://www.reddit.com/r/SocialEngineering/comments/1tsy3t0/how_can_you_judge_a_person_youve_newly_met_within/)
-- Computer Forensics
-  - [How to Unpack FlawedAmmyy - Malware Unpacking Tutorial](https://www.reddit.com/r/computerforensics/comments/1ttb1g4/how_to_unpack_flawedammyy_malware_unpacking/)
-- Your Open Hacker Community
-  - [Captive Portal on a single ESP32!](https://www.reddit.com/r/HowToHack/comments/1tt6ghb/captive_portal_on_a_single_esp32/)
-- Information Security
-  - [For 19 years stolen credentials were the #1 way hackers got in. Not anymore.](https://www.reddit.com/r/Information_Security/comments/1tsxiv1/for_19_years_stolen_credentials_were_the_1_way/)
-  - [Researching interest in a privacy-focused home AI server - would you buy one](https://www.reddit.com/r/Information_Security/comments/1tt3gpb/researching_interest_in_a_privacyfocused_home_ai/)
-  - [LLMReaper - DOM Based AI Conversation Exfiltration via Browser Extensions](https://www.reddit.com/r/Information_Security/comments/1tskgwn/llmreaper_dom_based_ai_conversation_exfiltration/)
-  - [SOC 2 readiness for AI startups - what actually moves the needle vs what's just busywork](https://www.reddit.com/r/Information_Security/comments/1tsfoj9/soc_2_readiness_for_ai_startups_what_actually/)
-- netsecstudents: Subreddit for students studying Network Security and its related subjects
-  - [Need Cybersecurity final project ideas!](https://www.reddit.com/r/netsecstudents/comments/1tss821/need_cybersecurity_final_project_ideas/)
-  - [Finished a free webinar on live SOC investigations. Here's Part 1 of what we covered (Technical Post).](https://www.reddit.com/r/netsecstudents/comments/1tslfaj/finished_a_free_webinar_on_live_soc/)
-  - [Using ASN data for OSINT-based infrastructure mapping](https://www.reddit.com/r/netsecstudents/comments/1tsnsc6/using_asn_data_for_osintbased_infrastructure/)
-  - [Cyberpatriot competition Mac OS](https://www.reddit.com/r/netsecstudents/comments/1tslu4f/cyberpatriot_competition_mac_os/)
 - The Hacker News
   - [Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices](https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html)
+- 熵减矩阵
+  - [PrismSpace：40亿token的安卓双开重构之路](https://mp.weixin.qq.com/s?__biz=Mzg2MTc1NDAxMA==&mid=2247485345&idx=1&sn=71c9552686f7eff40eae952e572ebcba)
