@@ -1,5 +1,9 @@
 # 每日安全资讯（2026-06-07）
 
+- Armin Ronacher's Thoughts and Writings
+  - [Communities of Not](https://lucumr.pocoo.org/2026/6/6/communities-of-not/)
+- SecWiki News
+  - [SecWiki News 2026-06-06 Review](http://www.sec-wiki.com/?2026-06-06)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [Tenable Terrascan Server < = v1.18.3 SSRF and Local File Read](https://cxsecurity.com/issue/WLB-2026060006)
   - [Lenovo LegionSpace 1.7.11.2 DAService Unquoted Service Path](https://cxsecurity.com/issue/WLB-2026060005)
@@ -7,22 +11,12 @@
   - [WordPress Contest Gallery 28.1.4 Unauthenticated Blind SQL Injection](https://cxsecurity.com/issue/WLB-2026060003)
   - [BrandIT Consultancy - Blind Sql Injection](https://cxsecurity.com/issue/WLB-2026060002)
   - [Association Management Script - Multiple Vulnerabilities (IDOR, SQLi, Stored XSS)](https://cxsecurity.com/issue/WLB-2026060001)
-- Armin Ronacher's Thoughts and Writings
-  - [Communities of Not](https://lucumr.pocoo.org/2026/6/6/communities-of-not/)
 - Recent Commits to cve:main
   - [Update Sat Jun  6 11:46:46 UTC 2026](https://github.com/trickest/cve/commit/4e0f0ce3c4aaf0fecb2c4dcdb0333d8e6f65303d)
 - 博客
   - [A Panoramic View of Popular International Front-End Frameworks (2025-2026)](https://dyrnq.com/a-panoramic-view-of-popular-international-front-end-frameworks-2025-2026/)
-- SecWiki News
-  - [SecWiki News 2026-06-06 Review](http://www.sec-wiki.com/?2026-06-06)
 - 绿盟科技技术博客
   - [企业文档安全最佳实践（一）：告别混乱，从“分类分级与密级标识”开始](https://blog.nsfocus.net/%e4%bc%81%e4%b8%9a%e6%96%87%e6%a1%a3%e5%ae%89%e5%85%a8%e6%9c%80%e4%bd%b3%e5%ae%9e%e8%b7%b5%ef%bc%88%e4%b8%80%ef%bc%89%ef%bc%9a%e5%91%8a%e5%88%ab%e6%b7%b7%e4%b9%b1%ef%bc%8c%e4%bb%8e%e5%88%86/)
-- 奇客Solidot–传递最新科技情报
-  - [天文学家发现银河黑洞呼吸的直接证据](https://www.solidot.org/story?sid=84506)
-  - [GNUtrition 在时隔 14 年后发布新版本](https://www.solidot.org/story?sid=84505)
-  - [BSA 反对欧洲的强制性开源许可](https://www.solidot.org/story?sid=84504)
-  - [比特币币值跌至 6 万美元](https://www.solidot.org/story?sid=84503)
-  - [Google 将每月支付给 SpaceX 9.2 亿美元租用其算力](https://www.solidot.org/story?sid=84502)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [特朗普“官宣”：我和马斯克又成朋友了](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE-%E5%AE%98%E5%AE%A3-%E6%88%91%E5%92%8C%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%88%E6%88%90%E6%9C%8B%E5%8F%8B%E4%BA%86)
   - [白宫AI政策顾问斯里拉姆·克里希南即将离任](https://blog.upx8.com/%E7%99%BD%E5%AE%ABAI%E6%94%BF%E7%AD%96%E9%A1%BE%E9%97%AE%E6%96%AF%E9%87%8C%E6%8B%89%E5%A7%86-%E5%85%8B%E9%87%8C%E5%B8%8C%E5%8D%97%E5%8D%B3%E5%B0%86%E7%A6%BB%E4%BB%BB)
@@ -30,51 +24,50 @@
   - [美以交恶：五角大楼将以色列间谍活动视为重大威胁](https://blog.upx8.com/%E7%BE%8E%E4%BB%A5%E4%BA%A4%E6%81%B6-%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E5%B0%86%E4%BB%A5%E8%89%B2%E5%88%97%E9%97%B4%E8%B0%8D%E6%B4%BB%E5%8A%A8%E8%A7%86%E4%B8%BA%E9%87%8D%E5%A4%A7%E5%A8%81%E8%83%81)
   - [美国将加速AI在情报和作战领域的应用 同时确保其不被用于言论审查](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%8A%A0%E9%80%9FAI%E5%9C%A8%E6%83%85%E6%8A%A5%E5%92%8C%E4%BD%9C%E6%88%98%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8-%E5%90%8C%E6%97%B6%E7%A1%AE%E4%BF%9D%E5%85%B6%E4%B8%8D%E8%A2%AB%E7%94%A8%E4%BA%8E%E8%A8%80%E8%AE%BA%E5%AE%A1%E6%9F%A5)
   - [乌克兰国防AI负责人称五年内实现大量任务无人化](https://blog.upx8.com/%E4%B9%8C%E5%85%8B%E5%85%B0%E5%9B%BD%E9%98%B2AI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E7%A7%B0%E4%BA%94%E5%B9%B4%E5%86%85%E5%AE%9E%E7%8E%B0%E5%A4%A7%E9%87%8F%E4%BB%BB%E5%8A%A1%E6%97%A0%E4%BA%BA%E5%8C%96)
-  - [1.6万名中国受害者英国追索 6万枚比特币案资产处置有进展](https://blog.upx8.com/1-6%E4%B8%87%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%8F%97%E5%AE%B3%E8%80%85%E8%8B%B1%E5%9B%BD%E8%BF%BD%E7%B4%A2-6%E4%B8%87%E6%9E%9A%E6%AF%94%E7%89%B9%E5%B8%81%E6%A1%88%E8%B5%84%E4%BA%A7%E5%A4%84%E7%BD%AE%E6%9C%89%E8%BF%9B%E5%B1%95)
+- 安全分析与研究
+  - [深度解读-基于LLVM的VMP反虚拟化](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496759&idx=1&sn=a743c7b1da1e6fff1404a2c0c09bd515)
 - 网安志异
   - [引导程序的最后一行代码](https://mp.weixin.qq.com/s?__biz=MzAxNzYyNzMyNg==&mid=2664232818&idx=1&sn=3d45bca71220281157aca289809918e0)
+- 奇客Solidot–传递最新科技情报
+  - [天文学家发现银河黑洞呼吸的直接证据](https://www.solidot.org/story?sid=84506)
+  - [GNUtrition 在时隔 14 年后发布新版本](https://www.solidot.org/story?sid=84505)
+  - [BSA 反对欧洲的强制性开源许可](https://www.solidot.org/story?sid=84504)
+  - [比特币币值跌至 6 万美元](https://www.solidot.org/story?sid=84503)
+  - [Google 将每月支付给 SpaceX 9.2 亿美元租用其算力](https://www.solidot.org/story?sid=84502)
 - 黑鸟
   - [追踪并锁定来自太空的强力GNSS干扰源](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186965&idx=1&sn=599e0e9444b7b583c2ef4529af3293cc)
-- 中国信息安全
-  - [一图读懂 | 国家标准GB/T 20274.2-2026《网络安全技术 信息系统安全保障评估框架 第2部分：安全保障要求》](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263299&idx=1&sn=2d88cbe4a866ff29bd98300199ca0ef6)
-- 安全圈
-  - [【安全圈】深夜，黑客潜入发薪后台！常州武进检察破获特大网络“金库”盗窃案](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077275&idx=1&sn=4349cddd664a923edc74b9180a8a6d6d)
-  - [【安全圈】黑客借山寨 Gemini、Claude 网站散播木马](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077275&idx=2&sn=fa510bf0e0cb6b9eff54426e5f843e70)
-  - [【安全圈】《GTA 5》外挂服务商遭黑客入侵，近 6.4 万玩家信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077275&idx=3&sn=bba6752e35480d1f014b0cef66eb7dd7)
-- 网络空间安全科学学报
-  - [网络首发 | 中国电子技术标准化研究院网络安全研究中心团队：面向数据要素流通的商用密码安全保障体系研究](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507675&idx=1&sn=eea5a225670a31428784b149630cd51f)
-- 阿里安全响应中心
-  - [先知先行——灯塔系列城市沙龙第十五场 · 长沙站成功举办！](https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652998955&idx=1&sn=bf39dacfcdc472bde067f8c62fc0ddb4)
-- 丁爸 情报分析师的工具箱
-  - [【资料】美国海军运输司令部（2026）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156185&idx=1&sn=a3aacbf2105d2a91e984e56892ceca17)
+- 青衣十三楼飞花堂
+  - [LosslessCut (ffmpeg的GUI前端)](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489577&idx=1&sn=53bfd88b4b75d45458bace406335e46f)
 - 看雪学苑
   - [记录如何追踪native函数动态注册地址](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616266&idx=2&sn=4bfaaaa85c6b86665cad9a7c3b87b8ff)
+- 中国信息安全
+  - [一图读懂 | 国家标准GB/T 20274.2-2026《网络安全技术 信息系统安全保障评估框架 第2部分：安全保障要求》](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263299&idx=1&sn=2d88cbe4a866ff29bd98300199ca0ef6)
+- 丁爸 情报分析师的工具箱
+  - [【资料】美国海军运输司令部（2026）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156185&idx=1&sn=a3aacbf2105d2a91e984e56892ceca17)
 - 极客公园
   - [视频模型巨大的「隐形成本」，没人告诉你](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653108282&idx=1&sn=69123168cdafa03dca94beca1ac14264)
   - [最恐怖的 AI 实验： 没有法律的虚拟城镇，几十个 Agent 互砍成《西部世界》](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653108281&idx=1&sn=8dc18baca7d1dcb94bd5deb099fd3043)
   - [传微软中国 Azure 裁员，N+7 补偿；黄仁勋网吧见 Faker，抽百万美元显卡；机器人请求流量首超人类｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653108280&idx=1&sn=5ab30ebb6b2f8ce57a4f33c37a881325)
+- 安全圈
+  - [【安全圈】深夜，黑客潜入发薪后台！常州武进检察破获特大网络“金库”盗窃案](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077275&idx=1&sn=4349cddd664a923edc74b9180a8a6d6d)
+  - [【安全圈】黑客借山寨 Gemini、Claude 网站散播木马](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077275&idx=2&sn=fa510bf0e0cb6b9eff54426e5f843e70)
+  - [【安全圈】《GTA 5》外挂服务商遭黑客入侵，近 6.4 万玩家信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077275&idx=3&sn=bba6752e35480d1f014b0cef66eb7dd7)
+- 阿里安全响应中心
+  - [先知先行——灯塔系列城市沙龙第十五场 · 长沙站成功举办！](https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652998955&idx=1&sn=bf39dacfcdc472bde067f8c62fc0ddb4)
+- RainSec
+  - [RainSec在AI智能渗透测试方向的实践](https://mp.weixin.qq.com/s?__biz=Mzg3NzczOTA3OQ==&mid=2247486073&idx=1&sn=7a00eac24f6b5f606b78f17d2967cd86)
+- 网络空间安全科学学报
+  - [网络首发 | 中国电子技术标准化研究院网络安全研究中心团队：面向数据要素流通的商用密码安全保障体系研究](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507675&idx=1&sn=eea5a225670a31428784b149630cd51f)
+- IT Service Management News
+  - [Il DPO non paga i danni in caso di attacco informatico](http://blog.cesaregallotti.it/2026/06/il-dpo-non-paga-i-danni-in-caso-di.html)
+- LastKnight.com Feed
+  - [Fermate l’AI, ma solo adesso che siamo primi: la strana pausa di Anthropic a quattro giorni dall’IPO](https://mgpf.it/2026/06/06/fermate-lai-ma-solo-adesso-che-siamo-primi-la-strana-pausa-di-anthropic-a-quattro-giorni-dallipo.html)
 - Over Security
   - [Critical Everest Forms Pro flaw exploited to take over WordPress sites](https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/)
   - [shrun, apiwatcher, and argus: three malware analysis tools built with Claude](https://antonioparata.blogspot.com/2026/06/shrun-apiwatcher-and-argus-three.html)
   - [Il silenzio degli incidenti](https://www.cybersecurity360.it/cultura-cyber/il-silenzio-degli-incidenti/)
-- LastKnight.com Feed
-  - [Fermate l’AI, ma solo adesso che siamo primi: la strana pausa di Anthropic a quattro giorni dall’IPO](https://mgpf.it/2026/06/06/fermate-lai-ma-solo-adesso-che-siamo-primi-la-strana-pausa-di-anthropic-a-quattro-giorni-dallipo.html)
-- IT Service Management News
-  - [Il DPO non paga i danni in caso di attacco informatico](http://blog.cesaregallotti.it/2026/06/il-dpo-non-paga-i-danni-in-caso-di.html)
-- RainSec
-  - [RainSec在AI智能渗透测试方向的实践](https://mp.weixin.qq.com/s?__biz=Mzg3NzczOTA3OQ==&mid=2247486073&idx=1&sn=7a00eac24f6b5f606b78f17d2967cd86)
 - BorderGate
   - [Linux Authentication](https://www.bordergate.co.uk/linux-authentication/)
-- 白帽子章华鹏
-  - [半个月没见，这周日继续和大家聊聊 AI 与安全](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650239086&idx=1&sn=737edad0ad568e21119ff7f3a4b330ee)
-- Security Affairs
-  - [U.S. CISA adds SolarWinds Serv-U flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/193245/security/u-s-cisa-adds-solarwinds-serv-u-flaw-to-its-known-exploited-vulnerabilities-catalog.html)
-  - [Report: Anthropic Deploys Engineers to Support NSA Use of Mythos](https://securityaffairs.com/193234/ai/report-anthropic-deploys-engineers-to-support-nsa-use-of-mythos.html)
-  - [Claude Opus Found a Four-Year-Old Hole in Zcash’s Privacy Layer. Nobody Knows If Someone Already Used It.](https://securityaffairs.com/193224/hacking/claude-opus-found-a-four-year-old-hole-in-zcashs-privacy-layer-nobody-knows-if-someone-already-used-it.html)
-- OnionSec
-  - [多年后重新理解 ATT&CK](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485794&idx=1&sn=d52d3b429379fdd4a24e5ef36669a197)
-- Daniel Miessler
-  - [Finding the Middle in AI Narratives](https://danielmiessler.com/blog/finding-the-middle-in-ai-narratives?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - The Hacker News
   - [New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration](https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html)
   - [Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI](https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html)
@@ -82,3 +75,13 @@
   - [AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs](https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html)
   - [Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack](https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html)
   - [Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available](https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html)
+- Daniel Miessler
+  - [Finding the Middle in AI Narratives](https://danielmiessler.com/blog/finding-the-middle-in-ai-narratives?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- Security Affairs
+  - [U.S. CISA adds SolarWinds Serv-U flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/193245/security/u-s-cisa-adds-solarwinds-serv-u-flaw-to-its-known-exploited-vulnerabilities-catalog.html)
+  - [Report: Anthropic Deploys Engineers to Support NSA Use of Mythos](https://securityaffairs.com/193234/ai/report-anthropic-deploys-engineers-to-support-nsa-use-of-mythos.html)
+  - [Claude Opus Found a Four-Year-Old Hole in Zcash’s Privacy Layer. Nobody Knows If Someone Already Used It.](https://securityaffairs.com/193224/hacking/claude-opus-found-a-four-year-old-hole-in-zcashs-privacy-layer-nobody-knows-if-someone-already-used-it.html)
+- OnionSec
+  - [多年后重新理解 ATT&CK](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485794&idx=1&sn=d52d3b429379fdd4a24e5ef36669a197)
+- 白帽子章华鹏
+  - [半个月没见，这周日继续和大家聊聊 AI 与安全](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650239086&idx=1&sn=737edad0ad568e21119ff7f3a4b330ee)
