@@ -1,9 +1,5 @@
 # 每日安全资讯（2026-06-07）
 
-- Armin Ronacher's Thoughts and Writings
-  - [Communities of Not](https://lucumr.pocoo.org/2026/6/6/communities-of-not/)
-- SecWiki News
-  - [SecWiki News 2026-06-06 Review](http://www.sec-wiki.com/?2026-06-06)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [Tenable Terrascan Server < = v1.18.3 SSRF and Local File Read](https://cxsecurity.com/issue/WLB-2026060006)
   - [Lenovo LegionSpace 1.7.11.2 DAService Unquoted Service Path](https://cxsecurity.com/issue/WLB-2026060005)
@@ -11,6 +7,10 @@
   - [WordPress Contest Gallery 28.1.4 Unauthenticated Blind SQL Injection](https://cxsecurity.com/issue/WLB-2026060003)
   - [BrandIT Consultancy - Blind Sql Injection](https://cxsecurity.com/issue/WLB-2026060002)
   - [Association Management Script - Multiple Vulnerabilities (IDOR, SQLi, Stored XSS)](https://cxsecurity.com/issue/WLB-2026060001)
+- Armin Ronacher's Thoughts and Writings
+  - [Communities of Not](https://lucumr.pocoo.org/2026/6/6/communities-of-not/)
+- SecWiki News
+  - [SecWiki News 2026-06-06 Review](http://www.sec-wiki.com/?2026-06-06)
 - Recent Commits to cve:main
   - [Update Sat Jun  6 11:46:46 UTC 2026](https://github.com/trickest/cve/commit/4e0f0ce3c4aaf0fecb2c4dcdb0333d8e6f65303d)
 - 博客
@@ -23,51 +23,60 @@
   - [领英联合创始人霍夫曼将退出微软董事会](https://blog.upx8.com/%E9%A2%86%E8%8B%B1%E8%81%94%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E9%9C%8D%E5%A4%AB%E6%9B%BC%E5%B0%86%E9%80%80%E5%87%BA%E5%BE%AE%E8%BD%AF%E8%91%A3%E4%BA%8B%E4%BC%9A)
   - [美以交恶：五角大楼将以色列间谍活动视为重大威胁](https://blog.upx8.com/%E7%BE%8E%E4%BB%A5%E4%BA%A4%E6%81%B6-%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E5%B0%86%E4%BB%A5%E8%89%B2%E5%88%97%E9%97%B4%E8%B0%8D%E6%B4%BB%E5%8A%A8%E8%A7%86%E4%B8%BA%E9%87%8D%E5%A4%A7%E5%A8%81%E8%83%81)
   - [美国将加速AI在情报和作战领域的应用 同时确保其不被用于言论审查](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%8A%A0%E9%80%9FAI%E5%9C%A8%E6%83%85%E6%8A%A5%E5%92%8C%E4%BD%9C%E6%88%98%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8-%E5%90%8C%E6%97%B6%E7%A1%AE%E4%BF%9D%E5%85%B6%E4%B8%8D%E8%A2%AB%E7%94%A8%E4%BA%8E%E8%A8%80%E8%AE%BA%E5%AE%A1%E6%9F%A5)
-  - [乌克兰国防AI负责人称五年内实现大量任务无人化](https://blog.upx8.com/%E4%B9%8C%E5%85%8B%E5%85%B0%E5%9B%BD%E9%98%B2AI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E7%A7%B0%E4%BA%94%E5%B9%B4%E5%86%85%E5%AE%9E%E7%8E%B0%E5%A4%A7%E9%87%8F%E4%BB%BB%E5%8A%A1%E6%97%A0%E4%BA%BA%E5%8C%96)
+- 青衣十三楼飞花堂
+  - [LosslessCut (ffmpeg的GUI前端)](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489577&idx=1&sn=53bfd88b4b75d45458bace406335e46f)
+- 看雪学苑
+  - [记录如何追踪native函数动态注册地址](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616266&idx=2&sn=4bfaaaa85c6b86665cad9a7c3b87b8ff)
+- 黑鸟
+  - [追踪并锁定来自太空的强力GNSS干扰源](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186965&idx=1&sn=599e0e9444b7b583c2ef4529af3293cc)
+- 丁爸 情报分析师的工具箱
+  - [【资料】美国海军运输司令部（2026）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156185&idx=1&sn=a3aacbf2105d2a91e984e56892ceca17)
 - 安全分析与研究
   - [深度解读-基于LLVM的VMP反虚拟化](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496759&idx=1&sn=a743c7b1da1e6fff1404a2c0c09bd515)
-- 网安志异
-  - [引导程序的最后一行代码](https://mp.weixin.qq.com/s?__biz=MzAxNzYyNzMyNg==&mid=2664232818&idx=1&sn=3d45bca71220281157aca289809918e0)
 - 奇客Solidot–传递最新科技情报
   - [天文学家发现银河黑洞呼吸的直接证据](https://www.solidot.org/story?sid=84506)
   - [GNUtrition 在时隔 14 年后发布新版本](https://www.solidot.org/story?sid=84505)
   - [BSA 反对欧洲的强制性开源许可](https://www.solidot.org/story?sid=84504)
   - [比特币币值跌至 6 万美元](https://www.solidot.org/story?sid=84503)
   - [Google 将每月支付给 SpaceX 9.2 亿美元租用其算力](https://www.solidot.org/story?sid=84502)
-- 黑鸟
-  - [追踪并锁定来自太空的强力GNSS干扰源](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186965&idx=1&sn=599e0e9444b7b583c2ef4529af3293cc)
-- 青衣十三楼飞花堂
-  - [LosslessCut (ffmpeg的GUI前端)](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489577&idx=1&sn=53bfd88b4b75d45458bace406335e46f)
-- 看雪学苑
-  - [记录如何追踪native函数动态注册地址](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616266&idx=2&sn=4bfaaaa85c6b86665cad9a7c3b87b8ff)
 - 中国信息安全
   - [一图读懂 | 国家标准GB/T 20274.2-2026《网络安全技术 信息系统安全保障评估框架 第2部分：安全保障要求》](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263299&idx=1&sn=2d88cbe4a866ff29bd98300199ca0ef6)
-- 丁爸 情报分析师的工具箱
-  - [【资料】美国海军运输司令部（2026）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156185&idx=1&sn=a3aacbf2105d2a91e984e56892ceca17)
+- 阿里安全响应中心
+  - [先知先行——灯塔系列城市沙龙第十五场 · 长沙站成功举办！](https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652998955&idx=1&sn=bf39dacfcdc472bde067f8c62fc0ddb4)
+- 网安志异
+  - [引导程序的最后一行代码](https://mp.weixin.qq.com/s?__biz=MzAxNzYyNzMyNg==&mid=2664232818&idx=1&sn=3d45bca71220281157aca289809918e0)
+- RainSec
+  - [RainSec在AI智能渗透测试方向的实践](https://mp.weixin.qq.com/s?__biz=Mzg3NzczOTA3OQ==&mid=2247486073&idx=1&sn=7a00eac24f6b5f606b78f17d2967cd86)
 - 极客公园
   - [视频模型巨大的「隐形成本」，没人告诉你](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653108282&idx=1&sn=69123168cdafa03dca94beca1ac14264)
   - [最恐怖的 AI 实验： 没有法律的虚拟城镇，几十个 Agent 互砍成《西部世界》](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653108281&idx=1&sn=8dc18baca7d1dcb94bd5deb099fd3043)
   - [传微软中国 Azure 裁员，N+7 补偿；黄仁勋网吧见 Faker，抽百万美元显卡；机器人请求流量首超人类｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653108280&idx=1&sn=5ab30ebb6b2f8ce57a4f33c37a881325)
-- 安全圈
-  - [【安全圈】深夜，黑客潜入发薪后台！常州武进检察破获特大网络“金库”盗窃案](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077275&idx=1&sn=4349cddd664a923edc74b9180a8a6d6d)
-  - [【安全圈】黑客借山寨 Gemini、Claude 网站散播木马](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077275&idx=2&sn=fa510bf0e0cb6b9eff54426e5f843e70)
-  - [【安全圈】《GTA 5》外挂服务商遭黑客入侵，近 6.4 万玩家信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077275&idx=3&sn=bba6752e35480d1f014b0cef66eb7dd7)
-- 阿里安全响应中心
-  - [先知先行——灯塔系列城市沙龙第十五场 · 长沙站成功举办！](https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652998955&idx=1&sn=bf39dacfcdc472bde067f8c62fc0ddb4)
-- RainSec
-  - [RainSec在AI智能渗透测试方向的实践](https://mp.weixin.qq.com/s?__biz=Mzg3NzczOTA3OQ==&mid=2247486073&idx=1&sn=7a00eac24f6b5f606b78f17d2967cd86)
-- 网络空间安全科学学报
-  - [网络首发 | 中国电子技术标准化研究院网络安全研究中心团队：面向数据要素流通的商用密码安全保障体系研究](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507675&idx=1&sn=eea5a225670a31428784b149630cd51f)
-- IT Service Management News
-  - [Il DPO non paga i danni in caso di attacco informatico](http://blog.cesaregallotti.it/2026/06/il-dpo-non-paga-i-danni-in-caso-di.html)
-- LastKnight.com Feed
-  - [Fermate l’AI, ma solo adesso che siamo primi: la strana pausa di Anthropic a quattro giorni dall’IPO](https://mgpf.it/2026/06/06/fermate-lai-ma-solo-adesso-che-siamo-primi-la-strana-pausa-di-anthropic-a-quattro-giorni-dallipo.html)
 - Over Security
   - [Critical Everest Forms Pro flaw exploited to take over WordPress sites](https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/)
   - [shrun, apiwatcher, and argus: three malware analysis tools built with Claude](https://antonioparata.blogspot.com/2026/06/shrun-apiwatcher-and-argus-three.html)
   - [Il silenzio degli incidenti](https://www.cybersecurity360.it/cultura-cyber/il-silenzio-degli-incidenti/)
+- Chaos Computer Club - last 100 events feed
+  - [Building video games with 20 year old tech (gpn24)](https://cdn.media.ccc.de/events/gpn/gpn24/h264-hd/gpn24-480-eng-Building_video_games_with_20_year_old_tech_hd.mp4)
+  - [Three Languages, Triple the Confusion (gpn24)](https://cdn.media.ccc.de/events/gpn/gpn24/h264-hd/gpn24-578-eng-Three_Languages_Triple_the_Confusion_hd.mp4)
+  - [Medikationsplan24.ti - der digital gerührte Medikationsprozess (gpn24)](https://cdn.media.ccc.de/events/gpn/gpn24/h264-hd/gpn24-379-deu-Medikationsplan24ti_-_der_digital_geruehrte_Medikationsprozess_hd.mp4)
+  - [DI.Days as Anarchist Practice/Anarchist Practices for DI.Days (gpn24)](https://cdn.media.ccc.de/events/gpn/gpn24/h264-hd/gpn24-467-eng-DIDays_as_Anarchist_Practice_Anarchist_Practices_for_DIDays_hd.mp4)
+  - [MMO-CHIP: From Microscope to Verilog in an hour (gpn24)](https://cdn.media.ccc.de/events/gpn/gpn24/h264-hd/gpn24-616-eng-MMO-CHIP_From_Microscope_to_Verilog_in_an_hour_hd.mp4)
+- 网络空间安全科学学报
+  - [网络首发 | 中国电子技术标准化研究院网络安全研究中心团队：面向数据要素流通的商用密码安全保障体系研究](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507675&idx=1&sn=eea5a225670a31428784b149630cd51f)
+- LastKnight.com Feed
+  - [Fermate l’AI, ma solo adesso che siamo primi: la strana pausa di Anthropic a quattro giorni dall’IPO](https://mgpf.it/2026/06/06/fermate-lai-ma-solo-adesso-che-siamo-primi-la-strana-pausa-di-anthropic-a-quattro-giorni-dallipo.html)
+- 安全圈
+  - [【安全圈】深夜，黑客潜入发薪后台！常州武进检察破获特大网络“金库”盗窃案](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077275&idx=1&sn=4349cddd664a923edc74b9180a8a6d6d)
+  - [【安全圈】黑客借山寨 Gemini、Claude 网站散播木马](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077275&idx=2&sn=fa510bf0e0cb6b9eff54426e5f843e70)
+  - [【安全圈】《GTA 5》外挂服务商遭黑客入侵，近 6.4 万玩家信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077275&idx=3&sn=bba6752e35480d1f014b0cef66eb7dd7)
+- 白帽子章华鹏
+  - [半个月没见，这周日继续和大家聊聊 AI 与安全](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650239086&idx=1&sn=737edad0ad568e21119ff7f3a4b330ee)
 - BorderGate
   - [Linux Authentication](https://www.bordergate.co.uk/linux-authentication/)
+- Daniel Miessler
+  - [Finding the Middle in AI Narratives](https://danielmiessler.com/blog/finding-the-middle-in-ai-narratives?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- IT Service Management News
+  - [Il DPO non paga i danni in caso di attacco informatico](http://blog.cesaregallotti.it/2026/06/il-dpo-non-paga-i-danni-in-caso-di.html)
 - The Hacker News
   - [New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration](https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html)
   - [Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI](https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html)
@@ -75,13 +84,9 @@
   - [AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs](https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html)
   - [Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack](https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html)
   - [Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available](https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html)
-- Daniel Miessler
-  - [Finding the Middle in AI Narratives](https://danielmiessler.com/blog/finding-the-middle-in-ai-narratives?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- OnionSec
+  - [多年后重新理解 ATT&CK](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485794&idx=1&sn=d52d3b429379fdd4a24e5ef36669a197)
 - Security Affairs
   - [U.S. CISA adds SolarWinds Serv-U flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/193245/security/u-s-cisa-adds-solarwinds-serv-u-flaw-to-its-known-exploited-vulnerabilities-catalog.html)
   - [Report: Anthropic Deploys Engineers to Support NSA Use of Mythos](https://securityaffairs.com/193234/ai/report-anthropic-deploys-engineers-to-support-nsa-use-of-mythos.html)
   - [Claude Opus Found a Four-Year-Old Hole in Zcash’s Privacy Layer. Nobody Knows If Someone Already Used It.](https://securityaffairs.com/193224/hacking/claude-opus-found-a-four-year-old-hole-in-zcashs-privacy-layer-nobody-knows-if-someone-already-used-it.html)
-- OnionSec
-  - [多年后重新理解 ATT&CK](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485794&idx=1&sn=d52d3b429379fdd4a24e5ef36669a197)
-- 白帽子章华鹏
-  - [半个月没见，这周日继续和大家聊聊 AI 与安全](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650239086&idx=1&sn=737edad0ad568e21119ff7f3a4b330ee)
