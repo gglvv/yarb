@@ -1,40 +1,40 @@
 # 每日安全资讯（2026-06-08）
 
-- SecWiki News
-  - [SecWiki News 2026-06-07 Review](http://www.sec-wiki.com/?2026-06-07)
-- 128 nops
-  - [Coverage bitmap](https://carstein.github.io/rust/2026/06/07/coverage-bitmap.html)
+- Recent Commits to cve:main
+  - [Update Sun Jun  7 11:56:31 UTC 2026](https://github.com/trickest/cve/commit/b20312bf00d593c107af6e4d5fcc9aff332dce58)
 - InfoSec Write-ups - Medium
   - [The Most Dangerous Security Bug Is the One That Feels Like a Feature](https://infosecwriteups.com/the-most-dangerous-security-bug-is-the-one-that-feels-like-a-feature-6339d438b3a5?source=rss----7b722bfd1b8d---4)
   - [The 5 Skills Every Cybersecurity Engineer Needs in 2026 (That Universities Still Aren’t Teaching)](https://infosecwriteups.com/the-5-skills-every-cybersecurity-engineer-needs-in-2026-that-universities-still-arent-teaching-b069a55c74ff?source=rss----7b722bfd1b8d---4)
   - [Update: The Ending of My $500 Loss and Web Cache Poisoning Story.](https://infosecwriteups.com/update-the-ending-of-my-500-loss-and-web-cache-poisoning-story-153603be845a?source=rss----7b722bfd1b8d---4)
 - MaskRay
   - [Recent LLVM hash table improvements](https://maskray.me/blog/2026-06-07-recent-llvm-hash-table-improvements)
-- Hexacorn
-  - [little secret of msconfig.exe](https://www.hexacorn.com/blog/2026/06/07/little-secret-of-msconfig-exe/)
+- 128 nops
+  - [Coverage bitmap](https://carstein.github.io/rust/2026/06/07/coverage-bitmap.html)
+- SecWiki News
+  - [SecWiki News 2026-06-07 Review](http://www.sec-wiki.com/?2026-06-07)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [Update: The Ending of My $500 Loss and Web Cache Poisoning Story.](https://infosecwriteups.com/update-the-ending-of-my-500-loss-and-web-cache-poisoning-story-153603be845a?source=rss----7b722bfd1b8d--bug_bounty)
   - [How I Hijacked a CTF Platform with Four Lines of Burp Suite Rules](https://infosecwriteups.com/i-became-admin-on-a-ctf-platform-c26cb49546a5?source=rss----7b722bfd1b8d--bug_bounty)
-- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [窃贼直接搭Waymo逃逸半年仍未落网](https://blog.upx8.com/%E7%AA%83%E8%B4%BC%E7%9B%B4%E6%8E%A5%E6%90%ADWaymo%E9%80%83%E9%80%B8%E5%8D%8A%E5%B9%B4%E4%BB%8D%E6%9C%AA%E8%90%BD%E7%BD%91)
-- 我的安全视界观
-  - [【AI复盘】AI编程代理提示词注入攻击](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487554&idx=1&sn=f6bed4e22802f937ce32b1be952a0414)
+- Hexacorn
+  - [little secret of msconfig.exe](https://www.hexacorn.com/blog/2026/06/07/little-secret-of-msconfig-exe/)
 - 奇客Solidot–传递最新科技情报
   - [美国政府考虑在 AI 公司持有股份](https://www.solidot.org/story?sid=84509)
   - [印度人口可能会更早开始下降](https://www.solidot.org/story?sid=84508)
   - [加州伯克利的 CS 课程不及格率上升](https://www.solidot.org/story?sid=84507)
+- 青衣十三楼飞花堂
+  - [西城初一下学期的一道“新定义”](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489591&idx=1&sn=d76b33a7168150e0d4e089be042056e3)
+- 我的安全视界观
+  - [【AI复盘】AI编程代理提示词注入攻击](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487554&idx=1&sn=f6bed4e22802f937ce32b1be952a0414)
+- 非尝咸鱼贩
+  - [iOS 26.4 如何限制系统进程使用 JavaScriptCore](https://mp.weixin.qq.com/s?__biz=Mzk0NDE3MTkzNQ==&mid=2247486053&idx=1&sn=94d02df5700c83173e6edd4fb665b40d)
 - 安全圈
   - [【安全圈】谷歌 Gemini 语音助理曝漏洞，黑客利用通知信息为 AI “下毒”](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077286&idx=1&sn=aab9a53a638861367f5b5bec17bc689a)
   - [【安全圈】安全公司警告有黑客在 GitHub 利用自动安装脚本发起供应链投毒](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077286&idx=2&sn=5279720d0f6c665e551545455954567e)
   - [【安全圈】AI Agent 发现 FFmpeg 21 个 0Day 漏洞；Chrome 创纪录修复 429 处缺陷](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077286&idx=3&sn=b58b232de63d38cb40d22f5c07af49d6)
-- 青衣十三楼飞花堂
-  - [西城初一下学期的一道“新定义”](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489591&idx=1&sn=d76b33a7168150e0d4e089be042056e3)
-- 非尝咸鱼贩
-  - [iOS 26.4 如何限制系统进程使用 JavaScriptCore](https://mp.weixin.qq.com/s?__biz=Mzk0NDE3MTkzNQ==&mid=2247486053&idx=1&sn=94d02df5700c83173e6edd4fb665b40d)
+- 君哥的体历
+  - [Anthropic白皮书解读：智能体安全要从零信任开始](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492413&idx=1&sn=b3fc2207607aa1bd691c9401ab150351)
 - 数世咨询
   - [最新议程 | 第六届数字安全大会诚邀参加](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543149&idx=1&sn=7dbf4df77d566f856158bafbb7827db2)
-- 丁爸 情报分析师的工具箱
-  - [【AI报告】日本弹药库建设研究报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156205&idx=1&sn=7dfbd72ac3b179f2d167263eaaf67243)
 - dotNet安全矩阵
   - [依托可信计算重构基础设施安全建设](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500999&idx=1&sn=9e7a979e1c6677a45428321a874d3040)
   - [一文解析 .NET 程序集和动态链接库二者间的差异性](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500999&idx=2&sn=31e863966d53af5e01bc6f184e7f5b4b)
@@ -49,6 +49,8 @@
   - [Baker Distributing - 102,935 breached accounts](https://haveibeenpwned.com/Breach/BakerDistributing)
 - Have I Been Pwned latest breaches
   - [Baker Distributing - 102,935 breached accounts](https://haveibeenpwned.com/Breach/BakerDistributing)
+- 丁爸 情报分析师的工具箱
+  - [【AI报告】日本弹药库建设研究报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156205&idx=1&sn=7dfbd72ac3b179f2d167263eaaf67243)
 - Security Affairs
   - [DentaQuest Breach: ShinyHunters Publish Data Impacting 2.6M People](https://securityaffairs.com/193274/data-breach/dentaquest-breach-shinyhunters-publish-data-impacting-2-6m-people.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND  100](https://securityaffairs.com/193268/malware/security-affairs-malware-newsletter-round-100.html)
