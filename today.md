@@ -2,44 +2,23 @@
 
 - SecWiki News
   - [SecWiki News 2026-06-07 Review](http://www.sec-wiki.com/?2026-06-07)
-- Recent Commits to cve:main
-  - [Update Sun Jun  7 11:56:31 UTC 2026](https://github.com/trickest/cve/commit/b20312bf00d593c107af6e4d5fcc9aff332dce58)
+- 128 nops
+  - [Coverage bitmap](https://carstein.github.io/rust/2026/06/07/coverage-bitmap.html)
 - InfoSec Write-ups - Medium
   - [The Most Dangerous Security Bug Is the One That Feels Like a Feature](https://infosecwriteups.com/the-most-dangerous-security-bug-is-the-one-that-feels-like-a-feature-6339d438b3a5?source=rss----7b722bfd1b8d---4)
   - [The 5 Skills Every Cybersecurity Engineer Needs in 2026 (That Universities Still Aren’t Teaching)](https://infosecwriteups.com/the-5-skills-every-cybersecurity-engineer-needs-in-2026-that-universities-still-arent-teaching-b069a55c74ff?source=rss----7b722bfd1b8d---4)
   - [Update: The Ending of My $500 Loss and Web Cache Poisoning Story.](https://infosecwriteups.com/update-the-ending-of-my-500-loss-and-web-cache-poisoning-story-153603be845a?source=rss----7b722bfd1b8d---4)
-  - [SPIP RCE + Docker SUID Escape | THM Publisher](https://infosecwriteups.com/spip-rce-docker-suid-escape-thm-publisher-7a2c3640c598?source=rss----7b722bfd1b8d---4)
-  - [Splunk Exploring SPL: A Practical SOC Analyst Walkthrough for Search, Detection, and Threat Hunting](https://infosecwriteups.com/splunk-exploring-spl-a-practical-soc-analyst-walkthrough-for-search-detection-and-threat-hunting-ff138c4c7d51?source=rss----7b722bfd1b8d---4)
-  - [How I Hijacked a CTF Platform with Four Lines of Burp Suite Rules](https://infosecwriteups.com/i-became-admin-on-a-ctf-platform-c26cb49546a5?source=rss----7b722bfd1b8d---4)
-  - [Sensitive Information Disclosure Through an Exposed File Repository.](https://infosecwriteups.com/sensitive-information-disclosure-through-an-exposed-file-repository-9e7cfb74fff6?source=rss----7b722bfd1b8d---4)
-  - [An Introduction to Module Stomping](https://infosecwriteups.com/an-introduction-to-module-stomping-26238af76d43?source=rss----7b722bfd1b8d---4)
 - MaskRay
   - [Recent LLVM hash table improvements](https://maskray.me/blog/2026-06-07-recent-llvm-hash-table-improvements)
-- 128 nops
-  - [Coverage bitmap](https://carstein.github.io/rust/2026/06/07/coverage-bitmap.html)
+- Hexacorn
+  - [little secret of msconfig.exe](https://www.hexacorn.com/blog/2026/06/07/little-secret-of-msconfig-exe/)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [Update: The Ending of My $500 Loss and Web Cache Poisoning Story.](https://infosecwriteups.com/update-the-ending-of-my-500-loss-and-web-cache-poisoning-story-153603be845a?source=rss----7b722bfd1b8d--bug_bounty)
   - [How I Hijacked a CTF Platform with Four Lines of Burp Suite Rules](https://infosecwriteups.com/i-became-admin-on-a-ctf-platform-c26cb49546a5?source=rss----7b722bfd1b8d--bug_bounty)
-- Hexacorn
-  - [little secret of msconfig.exe](https://www.hexacorn.com/blog/2026/06/07/little-secret-of-msconfig-exe/)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [窃贼直接搭Waymo逃逸半年仍未落网](https://blog.upx8.com/%E7%AA%83%E8%B4%BC%E7%9B%B4%E6%8E%A5%E6%90%ADWaymo%E9%80%83%E9%80%B8%E5%8D%8A%E5%B9%B4%E4%BB%8D%E6%9C%AA%E8%90%BD%E7%BD%91)
-  - [OpenAI酝酿推出ChatGPT问世以来最大幅度改版](https://blog.upx8.com/OpenAI%E9%85%9D%E9%85%BF%E6%8E%A8%E5%87%BAChatGPT%E9%97%AE%E4%B8%96%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%B9%85%E5%BA%A6%E6%94%B9%E7%89%88)
-  - [如何查看和申请提升 AWS EC2 vCPU 配额](https://blog.upx8.com/AWS-EC2-vCPU)
-  - [黄仁勋会见韩国两大游戏商代表共商游戏AI合作方案](https://blog.upx8.com/%E9%BB%84%E4%BB%81%E5%8B%8B%E4%BC%9A%E8%A7%81%E9%9F%A9%E5%9B%BD%E4%B8%A4%E5%A4%A7%E6%B8%B8%E6%88%8F%E5%95%86%E4%BB%A3%E8%A1%A8%E5%85%B1%E5%95%86%E6%B8%B8%E6%88%8FAI%E5%90%88%E4%BD%9C%E6%96%B9%E6%A1%88)
-  - [市场疑虑AI技术能否带来回报，芯片股暴跌拖累美股](https://blog.upx8.com/%E5%B8%82%E5%9C%BA%E7%96%91%E8%99%91AI%E6%8A%80%E6%9C%AF%E8%83%BD%E5%90%A6%E5%B8%A6%E6%9D%A5%E5%9B%9E%E6%8A%A5-%E8%8A%AF%E7%89%87%E8%82%A1%E6%9A%B4%E8%B7%8C%E6%8B%96%E7%B4%AF%E7%BE%8E%E8%82%A1)
-  - [IBM被曝曾掩盖多起数据泄露事件](https://blog.upx8.com/IBM%E8%A2%AB%E6%9B%9D%E6%9B%BE%E6%8E%A9%E7%9B%96%E5%A4%9A%E8%B5%B7%E6%95%B0%E6%8D%AE%E6%B3%84%E9%9C%B2%E4%BA%8B%E4%BB%B6)
-  - [欧洲再曝光迷奸网络 荷兰警方锁定8名嫌疑人](https://blog.upx8.com/%E6%AC%A7%E6%B4%B2%E5%86%8D%E6%9B%9D%E5%85%89%E8%BF%B7%E5%A5%B8%E7%BD%91%E7%BB%9C-%E8%8D%B7%E5%85%B0%E8%AD%A6%E6%96%B9%E9%94%81%E5%AE%9A8%E5%90%8D%E5%AB%8C%E7%96%91%E4%BA%BA)
-- 数世咨询
-  - [最新议程 | 第六届数字安全大会诚邀参加](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543149&idx=1&sn=7dbf4df77d566f856158bafbb7827db2)
-- 非尝咸鱼贩
-  - [iOS 26.4 如何限制系统进程使用 JavaScriptCore](https://mp.weixin.qq.com/s?__biz=Mzk0NDE3MTkzNQ==&mid=2247486053&idx=1&sn=94d02df5700c83173e6edd4fb665b40d)
-- 丁爸 情报分析师的工具箱
-  - [【AI报告】日本弹药库建设研究报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156205&idx=1&sn=7dfbd72ac3b179f2d167263eaaf67243)
-- 极客公园
-  - [「重返 Web2.0」！扎克伯格重做了一个「百度贴吧」，Why？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653108284&idx=1&sn=79875618c5c740ec73f380b38b03d073)
-  - [万亿美元 AI 公司，面试时禁止使用 AI](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653108308&idx=1&sn=3b76dff039b08e8ec5aa4d0b040bcb98)
-  - [车规存储芯片暴涨 180%，车企被迫涨价；不说「谢谢」，AI 能耗降 25%；人类首次观测「黑洞呼吸」 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653108307&idx=1&sn=758b69ad86eb14ded8c0d1a7646a00d6)
+- 我的安全视界观
+  - [【AI复盘】AI编程代理提示词注入攻击](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487554&idx=1&sn=f6bed4e22802f937ce32b1be952a0414)
 - 奇客Solidot–传递最新科技情报
   - [美国政府考虑在 AI 公司持有股份](https://www.solidot.org/story?sid=84509)
   - [印度人口可能会更早开始下降](https://www.solidot.org/story?sid=84508)
@@ -48,6 +27,21 @@
   - [【安全圈】谷歌 Gemini 语音助理曝漏洞，黑客利用通知信息为 AI “下毒”](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077286&idx=1&sn=aab9a53a638861367f5b5bec17bc689a)
   - [【安全圈】安全公司警告有黑客在 GitHub 利用自动安装脚本发起供应链投毒](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077286&idx=2&sn=5279720d0f6c665e551545455954567e)
   - [【安全圈】AI Agent 发现 FFmpeg 21 个 0Day 漏洞；Chrome 创纪录修复 429 处缺陷](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077286&idx=3&sn=b58b232de63d38cb40d22f5c07af49d6)
+- 青衣十三楼飞花堂
+  - [西城初一下学期的一道“新定义”](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489591&idx=1&sn=d76b33a7168150e0d4e089be042056e3)
+- 非尝咸鱼贩
+  - [iOS 26.4 如何限制系统进程使用 JavaScriptCore](https://mp.weixin.qq.com/s?__biz=Mzk0NDE3MTkzNQ==&mid=2247486053&idx=1&sn=94d02df5700c83173e6edd4fb665b40d)
+- 数世咨询
+  - [最新议程 | 第六届数字安全大会诚邀参加](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543149&idx=1&sn=7dbf4df77d566f856158bafbb7827db2)
+- 丁爸 情报分析师的工具箱
+  - [【AI报告】日本弹药库建设研究报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156205&idx=1&sn=7dfbd72ac3b179f2d167263eaaf67243)
+- dotNet安全矩阵
+  - [依托可信计算重构基础设施安全建设](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500999&idx=1&sn=9e7a979e1c6677a45428321a874d3040)
+  - [一文解析 .NET 程序集和动态链接库二者间的差异性](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500999&idx=2&sn=31e863966d53af5e01bc6f184e7f5b4b)
+- 极客公园
+  - [「重返 Web2.0」！扎克伯格重做了一个「百度贴吧」，Why？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653108284&idx=1&sn=79875618c5c740ec73f380b38b03d073)
+  - [万亿美元 AI 公司，面试时禁止使用 AI](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653108308&idx=1&sn=3b76dff039b08e8ec5aa4d0b040bcb98)
+  - [车规存储芯片暴涨 180%，车企被迫涨价；不说「谢谢」，AI 能耗降 25%；人类首次观测「黑洞呼吸」 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653108307&idx=1&sn=758b69ad86eb14ded8c0d1a7646a00d6)
 - Over Security
   - [Hands on with Intelligent Terminal, an AI-powered Windows Terminal](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/)
   - [Silent Ransom Group targets law firms with fake IT support calls](https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/)
