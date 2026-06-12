@@ -2,13 +2,13 @@
 
 - Recent Commits to cve:main
   - [Update Thu Jun 11 11:33:54 UTC 2026](https://github.com/trickest/cve/commit/ba4083b981db3020de473b6ef1e95e1cd167b360)
+- SecWiki News
+  - [SecWiki News 2026-06-11 Review](http://www.sec-wiki.com/?2026-06-11)
 - InfoSec Write-ups - Medium
   - [AI Security: explanation to Exploitation || Part 1](https://infosecwriteups.com/ai-security-explanation-to-exploitation-part-1-4e63637f7fd1?source=rss----7b722bfd1b8d---4)
   - [Chaining Stored XSS and CSRF in Typemill CMS: A Deep Dive into Attribute Injection](https://infosecwriteups.com/chaining-stored-xss-and-csrf-in-typemill-cms-a-deep-dive-into-attribute-injection-909d20edf903?source=rss----7b722bfd1b8d---4)
 - Tenable Blog
   - [CISA BOD 26-04: Frequently asked questions about the new risk-based patching directive](https://www.tenable.com/blog/cisa-bod-26-04-FAQ-vulnerability-remediation-impact)
-- SecWiki News
-  - [SecWiki News 2026-06-11 Review](http://www.sec-wiki.com/?2026-06-11)
 - Paper - 知道创宇404实验室
   - [ZERO-APT：面向智能防御下 LLM 驱动自动化渗透测试的闭环对抗框架](https://paper.seebug.org/3490)
 - 博客
@@ -20,17 +20,28 @@
 - Horizon3.ai
   - [CVE-2026-10520 | Ivanti Sentry Pre-Authenticated OS Command Injection Vulnerability |](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-10520/)
   - [Autonomous Penetration Testing: The Buyer’s Decision Guide](https://horizon3.ai/intelligence/blogs/autonomous-penetration-testing/)
-- Intigriti
-  - [Securing the uncharted territories of AI systems. A discussion with Leo Racanelli](https://www.intigriti.com/blog/business-insights/securing-the-uncharted-territories-of-ai-systems-a-discussion-with-leo-racanelli)
+- Reverse Engineering
+  - [Reverse engineered BLE protocol of a $7 generic Chinese smart ring from Temu, and built an iOS app around it](https://www.reddit.com/r/ReverseEngineering/comments/1u34idd/reverse_engineered_ble_protocol_of_a_7_generic/)
+  - [[Reverse-Engineering] Skeet CS:GO source code (Gamesense)](https://www.reddit.com/r/ReverseEngineering/comments/1u33k4b/reverseengineering_skeet_csgo_source_code/)
+  - [Giulio Zausa's MMO-CHIP Makes Reverse Engineering Old Silicon Chips a Multiplayer Game](https://www.reddit.com/r/ReverseEngineering/comments/1u30ncm/giulio_zausas_mmochip_makes_reverse_engineering/)
+  - [Drive Firmware Security - Phison S11](https://www.reddit.com/r/ReverseEngineering/comments/1u2q0cf/drive_firmware_security_phison_s11/)
+  - [I built 99 adversarially malformed PE files to test tool robustness - here’s what happened](https://www.reddit.com/r/ReverseEngineering/comments/1u2wpf4/i_built_99_adversarially_malformed_pe_files_to/)
 - Malwarebytes
   - [Google can be liable for false AI Overviews, court rules](https://www.malwarebytes.com/blog/ai/2026/06/google-can-be-liable-for-false-ai-overviews-court-rules)
   - [VRChat says reported data breach never happened](https://www.malwarebytes.com/blog/data-breaches/2026/06/data-of-2-4-million-vrchat-users-stolen)
   - [Children&#8217;s phones must block nude images by September, UK says](https://www.malwarebytes.com/blog/family-and-parenting/2026/06/childrens-phones-must-block-nude-images-by-september-uk-says)
-- rtl-sdr.com
-  - [NRSC5 Studio: A New Feature-Rich Windows GUI for the nrsc5 HD Radio Decoder](https://www.rtl-sdr.com/nrsc5-studio-a-new-feature-rich-windows-gui-for-the-nrsc5-hd-radio-decoder/)
-  - [AirPulse Desktop: Turn an RTL-SDR into an Amateur Radio Repeater Activity Reporting Station](https://www.rtl-sdr.com/airpulse-desktop-turn-an-rtl-sdr-into-an-amateur-radio-repeater-activity-reporting-station/)
+- Intigriti
+  - [Securing the uncharted territories of AI systems. A discussion with Leo Racanelli](https://www.intigriti.com/blog/business-insights/securing-the-uncharted-territories-of-ai-systems-a-discussion-with-leo-racanelli)
 - Checkmarx
   - [99% Unpatched: What Mythos, Gartner, and a Nine-Second Disaster Tell Us About the Future of AppSec](https://checkmarx.com/blog/99-unpatched-what-mythos-gartner-and-a-nine-second-disaster-tell-us-about-the-future-of-appsec/)
+- HackerNews
+  - [信息窃取木马将数百万设备变成凭证盗窃机器](http://0.0.0.0:8080/post/64331)
+  - [HVAC 和 UPS 关键漏洞可致黑客破坏数据中心](http://0.0.0.0:8080/post/64330)
+  - [Oracle PeopleSoft 服务器遭 ShinyHunters 数据窃取攻击](http://0.0.0.0:8080/post/64329)
+  - [AI 开发平台 Langflow 的路径遍历漏洞遭攻击利用](http://0.0.0.0:8080/post/64328)
+  - [Ivanti、Fortinet 和 SAP 发布多个严重漏洞补丁](http://0.0.0.0:8080/post/64327)
+  - [未修复的 Langflow 漏洞 CVE-2026-5027 遭利用，可实现未授权 RCE](http://0.0.0.0:8080/post/64326)
+  - [CISA 将 Cisco、Chrome 和 Arista 漏洞纳入 KEV 目录，漏洞已遭活跃利用](http://0.0.0.0:8080/post/64325)
 - 奇客Solidot–传递最新科技情报
   - [东亚最高的树](https://www.solidot.org/story?sid=84555)
   - [科技巨头大举借债](https://www.solidot.org/story?sid=84553)
@@ -43,84 +54,74 @@
   - [美国太阳能发电量首次超过煤炭](https://www.solidot.org/story?sid=84546)
 - 黑鸟
   - [《宝可梦 GO》的扫描数据悄悄训练出的导航技术，如今正被用于军用无人机](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187000&idx=1&sn=645dab0f5e2aa6e4651f0b32ebf823c2)
-- 看雪学苑
-  - [把 .o 变成 .ko：一次 ELF 格式的奇妙之旅](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616508&idx=2&sn=56b6a6153a74f952f3f38f51efb68567)
-  - [Ivanti Sentry漏洞已遭大规模在野利用，暴露网关极可能已失陷](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616508&idx=3&sn=1c6e6cc9bc4381299603e714a30459c4)
+- 威努特安全网络
+  - [威努特超融合赋能医共体：让医疗服务更高效更便捷](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651142224&idx=1&sn=0f95185c04af2ce338e7c1c427c559be)
+  - [WinClaw限时全免！注册即享AI大模型免费额度](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651142224&idx=2&sn=5876c0f5b6a49cfd3e81b59edd45231b)
+- 安全内参
+  - [制糖巨头遭网络攻击：两家大型工厂停产 蔗农被迫停止砍收](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516074&idx=1&sn=dd081559f229348a56511a4cfbe27756)
+  - [补丁空窗期告急：Anthropic公司称N日漏洞利用已进入“小时级”时代](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516074&idx=2&sn=8fe23bce8d014d54f736c5c1954547be)
 - 安全客
   - [Mythos可数小时内把漏洞变成武器：Anthropic还是未开放使用](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790051&idx=1&sn=52cfd439a009d5ae32e098a4bd6706b0)
 - 青衣十三楼飞花堂
   - [已知(x-a)^2+(y-b)^2=r^2，求cx+dy最大最小值](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489606&idx=1&sn=7dfbb3ef623a86af58c23bbf80b182f4)
-- 代码卫士
-  - [FortiSandbox 严重漏洞可导致未授权命令执行](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526263&idx=1&sn=44d7301902f8d562003d4f81fc2efe9a)
-  - [GitHub 推出 npm 安全变更，对抗供应链攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526263&idx=2&sn=c680ad4854702c179a3070ca44d72c78)
-- 威努特安全网络
-  - [威努特超融合赋能医共体：让医疗服务更高效更便捷](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651142224&idx=1&sn=0f95185c04af2ce338e7c1c427c559be)
-  - [WinClaw限时全免！注册即享AI大模型免费额度](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651142224&idx=2&sn=5876c0f5b6a49cfd3e81b59edd45231b)
-- 奇安信威胁情报中心
-  - [致命组合拳：Ivanti Sentry 两个10分漏洞允许未认证拿下企业移动网关](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519069&idx=1&sn=e0d7cce4fcd7ab8676edbc5239a49eba)
 - 天御攻防实验室
   - [俄罗斯“中央电视台”：FSB破获外国情报机构针对俄罗斯高级官员的移动设备植入监听设备的行动](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487000&idx=1&sn=627b3cf6f4c45b6462bf617922f4bfd7)
 - 我的安全视界观
   - [【AI复盘】Claude 源码两次泄露事件](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487601&idx=1&sn=011928b1f6c7606868480cefe2308584)
+- 代码卫士
+  - [FortiSandbox 严重漏洞可导致未授权命令执行](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526263&idx=1&sn=44d7301902f8d562003d4f81fc2efe9a)
+  - [GitHub 推出 npm 安全变更，对抗供应链攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526263&idx=2&sn=c680ad4854702c179a3070ca44d72c78)
 - 中国信息安全
   - [专题·智能体安全 | 智能体技能安全风险分析与治理对策研究](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263461&idx=1&sn=d2dfcaa6b6bbb4fcf27b4a59695ebeab)
   - [通报 | 中央网信办通报30款App个人信息收集使用问题](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263461&idx=2&sn=239d80c4dbd858b20599193677ea1848)
   - [前沿 | 建设造福人民的法治化网络空间](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263461&idx=3&sn=bfdb556057fe45249d0e2ba8182a8e34)
   - [这份《2026版防范电信网络诈骗宣传手册》请查收！](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263461&idx=4&sn=80b62c5cd759335f5b94c97c13c90754)
   - [观点 | 通过精准分类未成年人网络信息保护身心健康](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263461&idx=5&sn=fabd695bc43024ddf982a4ea6a64ddf2)
-- HackerNews
-  - [信息窃取木马将数百万设备变成凭证盗窃机器](http://0.0.0.0:8080/post/64331)
-  - [HVAC 和 UPS 关键漏洞可致黑客破坏数据中心](http://0.0.0.0:8080/post/64330)
-  - [Oracle PeopleSoft 服务器遭 ShinyHunters 数据窃取攻击](http://0.0.0.0:8080/post/64329)
-  - [AI 开发平台 Langflow 的路径遍历漏洞遭攻击利用](http://0.0.0.0:8080/post/64328)
-  - [Ivanti、Fortinet 和 SAP 发布多个严重漏洞补丁](http://0.0.0.0:8080/post/64327)
-  - [未修复的 Langflow 漏洞 CVE-2026-5027 遭利用，可实现未授权 RCE](http://0.0.0.0:8080/post/64326)
-  - [CISA 将 Cisco、Chrome 和 Arista 漏洞纳入 KEV 目录，漏洞已遭活跃利用](http://0.0.0.0:8080/post/64325)
-- 君哥的体历
-  - [面试官皱眉：“你知道 Claude Code 记忆机制吗？” 我：“何止知道？我还看过源码”，他又愣了…](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492422&idx=1&sn=dd0fd0ad89dbaaa7ae0507d8afba2b82)
-  - [面试官皱眉：“你知道 Claude Code 多Agent实现机制吗？” 我：“何止知道？我还看过源码”，他愣了…](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492420&idx=1&sn=fb26293e6eb85e1f199df9415eedb9a1)
-- 安全内参
-  - [制糖巨头遭网络攻击：两家大型工厂停产 蔗农被迫停止砍收](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516074&idx=1&sn=dd081559f229348a56511a4cfbe27756)
-  - [补丁空窗期告急：Anthropic公司称N日漏洞利用已进入“小时级”时代](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516074&idx=2&sn=8fe23bce8d014d54f736c5c1954547be)
+- 安全圈
+  - [【安全圈】AI 开发平台 Langflow 的路径遍历漏洞遭攻击利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077347&idx=1&sn=a6cdda39deff28a5a8e6137ce269653d)
+  - [【安全圈】信息窃取木马将数百万设备变成凭证盗窃机器](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077347&idx=2&sn=f7746ef0977dc146a9f40c71619f3a29)
+  - [【安全圈】Ivanti、Fortinet 和 SAP 发布多个严重漏洞补丁](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077347&idx=3&sn=205d65becb1503b4f290566bb0042ef2)
+- 看雪学苑
+  - [把 .o 变成 .ko：一次 ELF 格式的奇妙之旅](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616508&idx=2&sn=56b6a6153a74f952f3f38f51efb68567)
+  - [Ivanti Sentry漏洞已遭大规模在野利用，暴露网关极可能已失陷](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616508&idx=3&sn=1c6e6cc9bc4381299603e714a30459c4)
+- 数世咨询
+  - [AI赋能SOC测评：只有10%从AI中获得高价值](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543203&idx=1&sn=67a8894e5170b7b44c41f0d5a556d05a)
+- 奇安信威胁情报中心
+  - [致命组合拳：Ivanti Sentry 两个10分漏洞允许未认证拿下企业移动网关](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519069&idx=1&sn=e0d7cce4fcd7ab8676edbc5239a49eba)
+- NOVASEC
+  - [【工具】CodeStatistics - 开源代码行数统计工具](https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490900&idx=1&sn=80f5ce06eea8c27f0a8c4207c612bfc4)
 - 安全牛
   - [Mythos 对阵 360 智能体：全球 AI 漏洞挖掘分化成两大技术路线](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141646&idx=1&sn=6cfa7756ee3d6bacf47feae9aac9b93b)
   - [渗透 · 实战挑战赛 | 你能打穿几台靶机？](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141646&idx=2&sn=f4296c1dd2dd01331716dfe1dd599bc7)
-- 软件安全与逆向分析
-  - [gbl_root_canoe隐藏BL状态原理分析](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485248&idx=1&sn=e754a3facd703701ea34858afd6e024d)
+- 奇安盘古
+  - [再获认可！奇安信旗下两家企业再次入选上海市“专精特新”中小企业](https://mp.weixin.qq.com/s?__biz=MzI2MDA0MTYyMQ==&mid=2654404482&idx=1&sn=af8276c4b6245dc001e03e273b4ab03a)
 - 极客公园
   - [对话安克阳萌：AI 硬件的真门槛，是推翻计算机 80 年的「祖宗家法」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653108618&idx=1&sn=6aa30e0c4a3fa21d9d4dbc64b3402931)
   - [Tabbit 1.0 发布，9 块 9 国内模型免费用，首谈与美团合作细节](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653108618&idx=2&sn=6b2d623e91db00e6ca24ce05fe4fd33a)
   - [一个拼多多足球装备商家，如何迈出中国制造在世界杯的新征程？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653108603&idx=1&sn=d1b78a0d21734917e67d83d650470a7d)
   - [Claude Fable 5 拒绝回答基础生物问题；Altman 预估 OpenAI 明年上市；韩国首次查获 AI 智能眼镜考试作弊案｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653108554&idx=1&sn=847548eeb87a1ca7aad13140c5055144)
-- 云鼎实验室
-  - [不止代码投毒：我们审计3万个Skill后发现了什么？](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497735&idx=1&sn=00163ca31e8b1bccd4124bdfe4d9a656)
-- 数世咨询
-  - [AI赋能SOC测评：只有10%从AI中获得高价值](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543203&idx=1&sn=67a8894e5170b7b44c41f0d5a556d05a)
-- 奇安盘古
-  - [再获认可！奇安信旗下两家企业再次入选上海市“专精特新”中小企业](https://mp.weixin.qq.com/s?__biz=MzI2MDA0MTYyMQ==&mid=2654404482&idx=1&sn=af8276c4b6245dc001e03e273b4ab03a)
+- 君哥的体历
+  - [面试官皱眉：“你知道 Claude Code 记忆机制吗？” 我：“何止知道？我还看过源码”，他又愣了…](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492422&idx=1&sn=dd0fd0ad89dbaaa7ae0507d8afba2b82)
+  - [面试官皱眉：“你知道 Claude Code 多Agent实现机制吗？” 我：“何止知道？我还看过源码”，他愣了…](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492420&idx=1&sn=fb26293e6eb85e1f199df9415eedb9a1)
 - 美团技术团队
   - [从月球漫步到赛博都市，WBench测出了世界模型的边界](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782810&idx=1&sn=46c1b066323502bd35af6995ec81bc70)
+- 微步在线
+  - [国内首个恶意样本“搜索引擎”，上线！](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186761&idx=1&sn=798a61a5dbb79a87c9b525a9f9fc80c2)
+- 情报分析师
+  - [曝光文件揭露了美中央情报局与不明飞行物和外星科技的惊人联系](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650568154&idx=1&sn=e510bbefce5eb7850cb7edb11a3a28d3)
 - 字节跳动技术团队
   - [三篇论文入选 SIGMOD 2026：从真实业务深处长出的字节跳动数据库创新](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520272&idx=1&sn=f5620d52a047940001c522147da97b24)
+- 软件安全与逆向分析
+  - [gbl_root_canoe隐藏BL状态原理分析](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485248&idx=1&sn=e754a3facd703701ea34858afd6e024d)
 - TrustedSec
   - [Hardening Intune: The Implementation Guide](https://trustedsec.com/blog/hardening-intune-the-implementation-guide)
+- 云鼎实验室
+  - [不止代码投毒：我们审计3万个Skill后发现了什么？](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497735&idx=1&sn=00163ca31e8b1bccd4124bdfe4d9a656)
+- 安全行者老霍
+  - [探索 Agentic AI 的前沿领域](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486782&idx=1&sn=04f3e473d73962cfc15146cbfe823520)
 - 360数字安全
   - [Mythos来了，政企安全运营进入AI快车道](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586223&idx=1&sn=ac07ead08849ebadd40c7027a424b36d)
   - [同心筑赣 携手盛启——2026年360数字安全渠道大会在南昌成功召开](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586223&idx=2&sn=5b7c6c907c7e10b098544c956405fc02)
-- 迪哥讲事
-  - [绕过权限](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499553&idx=1&sn=9ecd0f89f5317b4d3fa424101cd0570d)
-- ICT Security Magazine
-  - [Agenti AI: non un vuoto di responsabilità, ma un eccesso di autori](https://www.ictsecuritymagazine.com/notizie/agenti-ai-eccesso-di-responsabili/)
-  - [Che tipo di AI decido di assumere? Quale AI scegliere in azienda: costi, limiti e sicurezza dei dati.](https://www.ictsecuritymagazine.com/articoli/quale-ai-scegliere/)
-  - [Crypto-agility: la migrazione crittografica che il post-quantum, da solo, non risolve](https://www.ictsecuritymagazine.com/notizie/crypto-agility-quantum/)
-- 安全行者老霍
-  - [探索 Agentic AI 的前沿领域](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486782&idx=1&sn=04f3e473d73962cfc15146cbfe823520)
-- Krypt3ia
-  - [Threat Intelligence Report: APT10 / FUNKY FLAGPOLE / MenuPass / Stone Panda](https://krypt3ia.wordpress.com/2026/06/11/threat-intelligence-report-apt10-funky-flagpole-menupass-stone-panda/)
-- 安全圈
-  - [【安全圈】AI 开发平台 Langflow 的路径遍历漏洞遭攻击利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077347&idx=1&sn=a6cdda39deff28a5a8e6137ce269653d)
-  - [【安全圈】信息窃取木马将数百万设备变成凭证盗窃机器](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077347&idx=2&sn=f7746ef0977dc146a9f40c71619f3a29)
-  - [【安全圈】Ivanti、Fortinet 和 SAP 发布多个严重漏洞补丁](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077347&idx=3&sn=205d65becb1503b4f290566bb0042ef2)
 - Over Security
   - [Japanese energy firm loses drive with data of 10.9 million clients](https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/)
   - [Maine breach portal abused to publish fake data breach disclosures](https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/)
@@ -154,28 +155,31 @@
   - [APT28, an evolution of tradecraft](https://blog.sekoia.io/apt28-an-evolution-of-tradecraft/)
   - [Max severity Ivanti Sentry vulnerability now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/)
   - [CISA Sets 72-Hour Patch Window for Federal Systems Facing Highest Cyber Risks](https://thecyberexpress.com/cisa-vulnerability-management-directive/)
-- SANS Internet Storm Center, InfoCON: green
-  - [ISC Stormcast For Thursday, June 11th, 2026 https://isc.sans.edu/podcastdetail/9968, (Thu, Jun 11th)](https://isc.sans.edu/diary/rss/33070)
+- ICT Security Magazine
+  - [Agenti AI: non un vuoto di responsabilità, ma un eccesso di autori](https://www.ictsecuritymagazine.com/notizie/agenti-ai-eccesso-di-responsabili/)
+  - [Che tipo di AI decido di assumere? Quale AI scegliere in azienda: costi, limiti e sicurezza dei dati.](https://www.ictsecuritymagazine.com/articoli/quale-ai-scegliere/)
+  - [Crypto-agility: la migrazione crittografica che il post-quantum, da solo, non risolve](https://www.ictsecuritymagazine.com/notizie/crypto-agility-quantum/)
+- 迪哥讲事
+  - [绕过权限](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499553&idx=1&sn=9ecd0f89f5317b4d3fa424101cd0570d)
+- 丁爸 情报分析师的工具箱
+  - [【AI报告】6.1-6.11全球安全态势深度分析报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156228&idx=1&sn=c62e12d479ca6c392e95185b1f46ee85)
+  - [【AI报告】6.1-6.11全球科技与金融态势深度分析报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156228&idx=2&sn=02a244d20ed56276491159c21c9af666)
+- Krypt3ia
+  - [Threat Intelligence Report: APT10 / FUNKY FLAGPOLE / MenuPass / Stone Panda](https://krypt3ia.wordpress.com/2026/06/11/threat-intelligence-report-apt10-funky-flagpole-menupass-stone-panda/)
 - 网安国际
   - [重要通知｜第一届CCF网络与系统安全大会，定档杭州！](https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652318241&idx=1&sn=01c46a12eb1356aa29e3ffc513a66578)
-- 微步在线
-  - [国内首个恶意样本“搜索引擎”，上线！](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186761&idx=1&sn=798a61a5dbb79a87c9b525a9f9fc80c2)
+- SANS Internet Storm Center, InfoCON: green
+  - [ISC Stormcast For Thursday, June 11th, 2026 https://isc.sans.edu/podcastdetail/9968, (Thu, Jun 11th)](https://isc.sans.edu/diary/rss/33070)
 - Schneier on Security
   - [Enhanced License Plate Tracking](https://www.schneier.com/blog/archives/2026/06/enhanced-license-plate-tracking.html)
+- GRAHAM CLULEY
+  - [Silent Ransom Group: what you need to know](https://www.fortra.com/blog/silent-ransom-group-what-you-need-know)
 - Security Affairs
   - [CVE-2026-10520 Exploited: Ivanti Sentry Gateways Compromised Shortly After Patch Release](https://securityaffairs.com/193530/uncategorized/cve-2026-10520-exploited-ivanti-sentry-gateways-compromised-shortly-after-patch-release.html)
   - [OnyxC2 Malware-as-a-Service Offers Enterprise-Grade Data Theft](https://securityaffairs.com/193523/malware/onyxc2-malware-as-a-service-offers-enterprise-grade-data-theft.html)
   - [Chaotic Eclipse Strikes Again: New Zero-Day Unlocks BitLocker in Four Hours of Research](https://securityaffairs.com/193516/security/chaotic-eclipse-strikes-again-new-zero-day-unlocks-bitlocker-in-four-hours-of-research.html)
   - [Fortinet patched a new critical FortiSandbox flaw](https://securityaffairs.com/193509/security/fortinet-patched-a-new-critical-fortisandbox-flaw.html)
   - [JDY Botnet Evolves After KV Takedown, Targets Military Networks](https://securityaffairs.com/193490/malware/jdy-botnet-evolves-after-kv-takedown-targets-military-networks.html)
-- T00ls安全
-  - [投毒事件：AKSK 利用工具存在后门投毒](https://mp.weixin.qq.com/s?__biz=Mzg3NzYzODU5NQ==&mid=2247485796&idx=1&sn=b691ae9be1177e34def6f521cbbc41e7)
-- 纽创信安
-  - [从“被动防御”到“AI主动发现”：出海数据合规的下一代范式](https://mp.weixin.qq.com/s?__biz=MzAwNTczMjAzMg==&mid=2650241484&idx=1&sn=8b4956fe8a190657e5c608158f33af92)
-- Deeplinks
-  - [Yes to California's Bill to Ban Surveillance Pricing](https://www.eff.org/deeplinks/2026/06/californias-bill-ban-surveillance-pricing)
-  - [‘News’ Site Keeps Hallucinating EFF Staffers](https://www.eff.org/deeplinks/2026/06/news-site-keeps-hallucinating-eff-staffers)
-  - [LGBT Q&A: We’re Back With Season 2!](https://www.eff.org/deeplinks/2026/06/lgbt-qa-were-back-season-2)
 - The Hacker News
   - [ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities](https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html)
   - [New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets](https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html)
@@ -186,7 +190,13 @@
   - [AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.](https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html)
   - [OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack](https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html)
   - [GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks](https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html)
-- 情报分析师
-  - [曝光文件揭露了美中央情报局与不明飞行物和外星科技的惊人联系](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650568154&idx=1&sn=e510bbefce5eb7850cb7edb11a3a28d3)
+- Deeplinks
+  - [Yes to California's Bill to Ban Surveillance Pricing](https://www.eff.org/deeplinks/2026/06/californias-bill-ban-surveillance-pricing)
+  - [‘News’ Site Keeps Hallucinating EFF Staffers](https://www.eff.org/deeplinks/2026/06/news-site-keeps-hallucinating-eff-staffers)
+  - [LGBT Q&A: We’re Back With Season 2!](https://www.eff.org/deeplinks/2026/06/lgbt-qa-were-back-season-2)
+- T00ls安全
+  - [投毒事件：AKSK 利用工具存在后门投毒](https://mp.weixin.qq.com/s?__biz=Mzg3NzYzODU5NQ==&mid=2247485796&idx=1&sn=b691ae9be1177e34def6f521cbbc41e7)
+- 纽创信安
+  - [从“被动防御”到“AI主动发现”：出海数据合规的下一代范式](https://mp.weixin.qq.com/s?__biz=MzAwNTczMjAzMg==&mid=2650241484&idx=1&sn=8b4956fe8a190657e5c608158f33af92)
 - Security Weekly Podcast Network (Audio)
   - [Trolling Microsoft With Vulnerabilities - PSW #930](http://sites.libsyn.com/18678/trolling-microsoft-with-vulnerabilities-psw-930)
