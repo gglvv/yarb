@@ -1,11 +1,11 @@
 # 每日安全资讯（2026-06-14）
 
+- Recent Commits to cve:main
+  - [Update Sat Jun 13 11:51:07 UTC 2026](https://github.com/trickest/cve/commit/97d9f8a5f1f63f76a7f8fd945780041bb57bd99d)
 - SecWiki News
   - [SecWiki News 2026-06-13 Review](http://www.sec-wiki.com/?2026-06-13)
 - Armin Ronacher's Thoughts and Writings
   - [Dangerous Technology For Americans Only](https://lucumr.pocoo.org/2026/6/13/americans-only/)
-- Recent Commits to cve:main
-  - [Update Sat Jun 13 11:51:07 UTC 2026](https://github.com/trickest/cve/commit/97d9f8a5f1f63f76a7f8fd945780041bb57bd99d)
 - Horizon3.ai
   - [AI-Accelerated Exploitation: The Mythos-Era Threat Model](https://horizon3.ai/intelligence/blogs/ai-accelerated-exploitation-mythos-era-threat-model/)
 - Reverse Engineering
@@ -15,6 +15,11 @@
   - ["Instead of touching grass for 6 months I built an AI that names 150,000 sub_ functions overnight. I have no regrets [SpectrIDA]" SELF PROMO (i love the tool tho)](https://www.reddit.com/r/ReverseEngineering/comments/1u4fcxh/instead_of_touching_grass_for_6_months_i_built_an/)
 - Hacking Articles
   - [Automated Penetration Testing with Claude AI](https://www.hackingarticles.in/automating-penetration-testing-with-claude-ai/)
+- 奇客Solidot–传递最新科技情报
+  - [为什么轨道数据中心比硅谷认为的更困难？](https://www.solidot.org/story?sid=84571)
+  - [社会不平等与生物衰老加速相关](https://www.solidot.org/story?sid=84570)
+  - [Google 起诉涉嫌 AI 诈骗的中国组织](https://www.solidot.org/story?sid=84569)
+  - [因美政府命令 Anthropic 下线 Fable 5 和 Mythos 5 模型](https://www.solidot.org/story?sid=84568)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [DeepSeek研究员控诉字节半夜施工扰民](https://blog.upx8.com/DeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E6%8E%A7%E8%AF%89%E5%AD%97%E8%8A%82%E5%8D%8A%E5%A4%9C%E6%96%BD%E5%B7%A5%E6%89%B0%E6%B0%91)
   - [欧洲三大车企联手推动“欧盟制造”计划](https://blog.upx8.com/%E6%AC%A7%E6%B4%B2%E4%B8%89%E5%A4%A7%E8%BD%A6%E4%BC%81%E8%81%94%E6%89%8B%E6%8E%A8%E5%8A%A8-%E6%AC%A7%E7%9B%9F%E5%88%B6%E9%80%A0-%E8%AE%A1%E5%88%92)
@@ -22,14 +27,6 @@
   - [百度无人驾驶出租车在瑞士启动道路测试](https://blog.upx8.com/%E7%99%BE%E5%BA%A6%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%9C%A8%E7%91%9E%E5%A3%AB%E5%90%AF%E5%8A%A8%E9%81%93%E8%B7%AF%E6%B5%8B%E8%AF%95)
   - [携程未落实数据出境安全评估要求被罚千万](https://blog.upx8.com/%E6%90%BA%E7%A8%8B%E6%9C%AA%E8%90%BD%E5%AE%9E%E6%95%B0%E6%8D%AE%E5%87%BA%E5%A2%83%E5%AE%89%E5%85%A8%E8%AF%84%E4%BC%B0%E8%A6%81%E6%B1%82%E8%A2%AB%E7%BD%9A%E5%8D%83%E4%B8%87)
   - [🖼 美国战争部公布第三批UAP解密文件，揭示FBI对球状飞行物调查](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E6%88%98%E4%BA%89%E9%83%A8%E5%85%AC%E5%B8%83%E7%AC%AC%E4%B8%89%E6%89%B9UAP%E8%A7%A3%E5%AF%86%E6%96%87%E4%BB%B6-%E6%8F%AD%E7%A4%BAFBI%E5%AF%B9%E7%90%83%E7%8A%B6%E9%A3%9E%E8%A1%8C%E7%89%A9%E8%B0%83%E6%9F%A5)
-  - [大师兄影视 去广告版](https://blog.upx8.com/8807)
-  - [SpaceX公司对外出租AI算力的内幕曝光](https://blog.upx8.com/SpaceX%E5%85%AC%E5%8F%B8%E5%AF%B9%E5%A4%96%E5%87%BA%E7%A7%9FAI%E7%AE%97%E5%8A%9B%E7%9A%84%E5%86%85%E5%B9%95%E6%9B%9D%E5%85%89)
-  - [美政府限制外国访问Anthropic最新AI模型](https://blog.upx8.com/%E7%BE%8E%E6%94%BF%E5%BA%9C%E9%99%90%E5%88%B6%E5%A4%96%E5%9B%BD%E8%AE%BF%E9%97%AEAnthropic%E6%9C%80%E6%96%B0AI%E6%A8%A1%E5%9E%8B)
-- 奇客Solidot–传递最新科技情报
-  - [为什么轨道数据中心比硅谷认为的更困难？](https://www.solidot.org/story?sid=84571)
-  - [社会不平等与生物衰老加速相关](https://www.solidot.org/story?sid=84570)
-  - [Google 起诉涉嫌 AI 诈骗的中国组织](https://www.solidot.org/story?sid=84569)
-  - [因美政府命令 Anthropic 下线 Fable 5 和 Mythos 5 模型](https://www.solidot.org/story?sid=84568)
 - 黑鸟
   - [恶意软件植入核武器文本骗过大模型安全扫描](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187020&idx=1&sn=6d187a96894114a53e9b34284cf18925)
 - 安全客
@@ -39,6 +36,12 @@
 - 天黑说嘿话
   - [Anthropic Mythos——当AI能发现所有漏洞，谁来发现AI的漏洞？](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486070&idx=1&sn=19fa6e9e77fb50bacab27bfebfcf1d9a)
   - [本地人再也不用去菜市场了，渔民直供深海捕捞海鲜，人均50+送到家！](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486070&idx=2&sn=b55ae896a2b2553f61abc7f954f0a600)
+- 安全分析与研究
+  - [银狐黑产组织最新攻击趋势深度分析报告](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496796&idx=1&sn=0a86fadc90e9fd918ca44129f51c4793)
+- 安全圈
+  - [【安全圈】一名乌克兰公民承认参与了Conti勒索软件行动](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077371&idx=1&sn=1b774dbdae403293dc3e23b75cc814b8)
+  - [【安全圈】执法机构捣毁 'AudiA6' 勒索软件加密货币洗钱服务](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077371&idx=2&sn=523d5a2f51be07ba5de95b1a2701a1f4)
+  - [【安全圈】超过 400 个 Arch Linux 软件包被攻破，用于推送 rootkit 和信息窃取程序](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077371&idx=3&sn=ee58e389530cb426354b4cb61a7edb1e)
 - 看雪学苑
   - [AI 辅助分析｜CyberGame 高分 Web 题：缓存投毒攻击链路拆解](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616525&idx=1&sn=98be421b813114a5093f90ee6c636a23)
   - [【叠加618优惠更划算】冰与火的战歌：Windows内核攻防实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616525&idx=2&sn=ce97d044e06b3f07545cbf8eb906c4a5)
@@ -46,10 +49,11 @@
   - [最强模型 Fable 5，四天就被「拔了网线」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653108773&idx=1&sn=cfe6623deb31402e588687b2735d50df)
   - [那一年，马斯克和我聊了聊他的「太空梦」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653108768&idx=1&sn=48e73cb83f5e5921a728ce7af139f418)
   - [SpaceX 上市首日大涨 19.22%，马斯克成首个万亿美元富豪；世界第一网红订阅总人数突破 5 亿；Kimi 发布并开源 K2.7 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653108710&idx=1&sn=904a470148a6aa99c8742328cf6f8e07)
-- 安全圈
-  - [【安全圈】一名乌克兰公民承认参与了Conti勒索软件行动](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077371&idx=1&sn=1b774dbdae403293dc3e23b75cc814b8)
-  - [【安全圈】执法机构捣毁 'AudiA6' 勒索软件加密货币洗钱服务](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077371&idx=2&sn=523d5a2f51be07ba5de95b1a2701a1f4)
-  - [【安全圈】超过 400 个 Arch Linux 软件包被攻破，用于推送 rootkit 和信息窃取程序](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077371&idx=3&sn=ee58e389530cb426354b4cb61a7edb1e)
+- Over Security
+  - [Ex-school district employee jailed for hacks on former employer](https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/)
+  - [Chinese hackers hijack auth flow, spy on isolated network for a decade](https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/)
+  - [Governo Usa ordina ad Anthropic il ritiro di Fable 5 e Mythos 5: ecco l’impatto della dogana cognitiva](https://www.cybersecurity360.it/cybersecurity-nazionale/governo-usa-ordina-ad-anthropic-il-ritiro-di-fable-5-e-mythos-5-ecco-limpatto-della-dogana-cognitiva/)
+  - [US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos](https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/)
 - 安全行者老霍
   - [Gartner SRM 2026：网络安全从被动防御向韧性能力转型](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486792&idx=1&sn=c7145e87f331bd5f5e4e44f3ef59d448)
 - ICT Security Magazine
@@ -59,26 +63,23 @@
   - [Gli USA mettono sotto export control Mythos 5 e Fable 5: Anthropic costretta a spegnere i due modelli nel mondo](https://www.ictsecuritymagazine.com/notizie/export-control-usa-anthropic-mythos-fable/)
   - [AudiA6, smantellato il riciclaggio cripto delle gang ransomware: 336 milioni di euro lavati dal 2021](https://www.ictsecuritymagazine.com/notizie/audia6-takedown-riciclaggio-cripto-ransomware/)
   - [Coupang, sanzione record da 409 milioni di dollari: la più grande multa privacy della storia coreana nasce da una chiave non revocata](https://www.ictsecuritymagazine.com/notizie/coupang-multa-record-409-milioni-corea-data-breach/)
-- Over Security
-  - [Ex-school district employee jailed for hacks on former employer](https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/)
-  - [Chinese hackers hijack auth flow, spy on isolated network for a decade](https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/)
-  - [Governo Usa ordina ad Anthropic il ritiro di Fable 5 e Mythos 5: ecco l’impatto della dogana cognitiva](https://www.cybersecurity360.it/cybersecurity-nazionale/governo-usa-ordina-ad-anthropic-il-ritiro-di-fable-5-e-mythos-5-ecco-limpatto-della-dogana-cognitiva/)
-  - [US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos](https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/)
-- LastKnight.com Feed
-  - [MITHOS BLOCCATO: 17.21 è l’ora in cui gli USA hanno bloccato l’Intelligenza Artificiale](https://mgpf.it/2026/06/13/mithos-bloccato.html)
 - Javvad Malik
   - [Breach of Confidence — 12 June 2026](https://javvadmalik.com/2026/06/13/breach-of-confidence-12-june-2026/)
-- Dark Space Blogspot
-  - [Come Malware Vengono Nascosti In Immagini (Steganografia)](http://darkwhite666.blogspot.com/2026/06/come-malware-vengono-nascosti-in.html)
+- LastKnight.com Feed
+  - [MITHOS BLOCCATO: 17.21 è l’ora in cui gli USA hanno bloccato l’Intelligenza Artificiale](https://mgpf.it/2026/06/13/mithos-bloccato.html)
 - 放之
   - [最初的90天](https://mp.weixin.qq.com/s?__biz=Mzg3ODAzNjg5OA==&mid=2247485532&idx=1&sn=4a4bebe77977c9462e7f1dd204f96d1b)
 - BorderGate
   - [Mockingjay Injection](https://www.bordergate.co.uk/mockingjay-injection/)
+- Dark Space Blogspot
+  - [Come Malware Vengono Nascosti In Immagini (Steganografia)](http://darkwhite666.blogspot.com/2026/06/come-malware-vengono-nascosti-in.html)
 - The Hacker News
   - [Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication](https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html)
   - [U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals](https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html)
 - Security Affairs
   - [Washington Pulled the Plug on Anthropic ‘s Fable 5 and Mythos 5 models. The Rest of the World Is Watching.](https://securityaffairs.com/193579/ai/washington-pulled-the-plug-on-anthropic-fable-5-and-mythos-5-models.html)
   - [U.S. CISA adds Oracle PeopleSoft Enterprise PeopleTools flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/193574/security/u-s-cisa-adds-oracle-peoplesoft-enterprise-peopletools-flaw-to-its-known-exploited-vulnerabilities-catalog.html)
+- Blackhat Library: Hacking techniques and research
+  - [The Pulling of Mythos Offline: Why AI KYC Will Fail to Stop Cybercriminals](https://www.reddit.com/r/blackhat/comments/1u4mmou/the_pulling_of_mythos_offline_why_ai_kyc_will/)
 - 网安寻路人
   - [美国 FCC“受管制设备和服务清单”制度综合分析](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247508636&idx=1&sn=d7520d7da18464c4c9c1e8a4714b8664)
