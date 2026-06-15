@@ -1,15 +1,15 @@
 # 每日安全资讯（2026-06-15）
 
+- Recent Commits to cve:main
+  - [Update Sun Jun 14 11:49:48 UTC 2026](https://github.com/trickest/cve/commit/37f87380c7b847f19eb6e940e5724ed0f27f5f68)
 - SecWiki News
   - [SecWiki News 2026-06-14 Review](http://www.sec-wiki.com/?2026-06-14)
 - 先知安全技术社区
   - [PolarCTF2026夏季赛web方向全解](https://xz.aliyun.com/news/92303)
-- No Headback
-  - [fable/mythos 四日谈](http://xargin.com/4-days-with-fable/)
-- Recent Commits to cve:main
-  - [Update Sun Jun 14 11:49:48 UTC 2026](https://github.com/trickest/cve/commit/37f87380c7b847f19eb6e940e5724ed0f27f5f68)
 - 先知安全技术社区
   - [PolarCTF2026夏季赛web方向全解](https://xz.aliyun.com/news/92303)
+- No Headback
+  - [fable/mythos 四日谈](http://xargin.com/4-days-with-fable/)
 - 奇客Solidot–传递最新科技情报
   - [本田思域容易遭到“邪恶女佣攻击”](https://www.solidot.org/story?sid=84576)
   - [科学家再生受损膝关节软骨逆转关节炎](https://www.solidot.org/story?sid=84575)
@@ -18,26 +18,26 @@
   - [英国警官被控使用 AI 伪造证据](https://www.solidot.org/story?sid=84572)
 - 黑鸟
   - [海莲花黑客组织利用越南金融软件进行供应链攻击](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187038&idx=1&sn=16bd27e31d83cfdc64c4f635d7fe46f8)
-- 安全客
-  - [45.5万人中招！英国名校遭供应链攻击，你的校园账户还安全吗？](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790063&idx=1&sn=bab80c055559d24502094d21728ce1ed)
 - 信安之路
   - [我写了一本书 !!!](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500593&idx=1&sn=2f7034952609695883eea1900109ffa9)
-- 安全分析与研究
-  - [海莲花APT组织最新攻击活动详细分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496812&idx=1&sn=ea2c629093e7ed02031a8c89681afea9)
+- 安全客
+  - [45.5万人中招！英国名校遭供应链攻击，你的校园账户还安全吗？](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790063&idx=1&sn=bab80c055559d24502094d21728ce1ed)
 - 安全学术圈
   - [四川大学黄诚课题组2026年暑期科研实习生招募](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495479&idx=1&sn=48540d74d2d5031f0e565c6e3c1665b8)
 - 我的安全视界观
   - [【AI复盘】关于网安最强模型的分析及思考](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487623&idx=1&sn=60c9a01aad440e64366af61561e4cf34)
 - 天黑说嘿话
   - [拆解流量卡商家惯用营销套路](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486075&idx=1&sn=7e5dee66eb7937f20d0538e82a91cacf)
-- 中国信息安全
-  - [通知 | 六部门联合印发《金融信息服务数据分类分级指南》（附全文）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263554&idx=1&sn=95e560f7c2c975fad092e24c120b1767)
-  - [专家解读｜范科峰：从“通用防护”到“精准治理”：深化金融信息服务数据分类分级保护](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263554&idx=2&sn=dd88847e14580c6f427892529f32cafc)
-  - [一图读懂 | 《金融信息服务数据分类分级指南》](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263554&idx=3&sn=332c0f6a7a8a0db2f8b616f0c60dcda3)
+- 安全分析与研究
+  - [海莲花APT组织最新攻击活动详细分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496812&idx=1&sn=ea2c629093e7ed02031a8c89681afea9)
 - 安全圈
   - [【安全圈】Meta AI 客服系统被黑，2 万+ Instagram 账户沦陷](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077404&idx=1&sn=36c21bc27d56fe347897a1e418312aff)
   - [【安全圈】严重漏洞：UniFi OS 无需密码即可拿下 Root 权限](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077404&idx=2&sn=ddcbe0d234be3bd9a05f91b647416052)
   - [【安全圈】泄露韩国64%的公民购物数据，被罚款27.7亿元](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077404&idx=3&sn=2b8eb903da44817db9c67140177ce307)
+- 中国信息安全
+  - [通知 | 六部门联合印发《金融信息服务数据分类分级指南》（附全文）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263554&idx=1&sn=95e560f7c2c975fad092e24c120b1767)
+  - [专家解读｜范科峰：从“通用防护”到“精准治理”：深化金融信息服务数据分类分级保护](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263554&idx=2&sn=dd88847e14580c6f427892529f32cafc)
+  - [一图读懂 | 《金融信息服务数据分类分级指南》](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664263554&idx=3&sn=332c0f6a7a8a0db2f8b616f0c60dcda3)
 - 电子物证
   - [【QQ群里的“数字暗语”】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049020&idx=1&sn=d7119b0ab3e7eb36eb269018a516a4e4)
   - [【对电子证据5个常见的误判】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049020&idx=2&sn=91bd528772d0b68b135e6f5dd9200a86)
@@ -45,23 +45,27 @@
   - [SpaceX IPO 后，马斯克称将深化与英伟达的合作；Anthropic 新模型禁用原因曝光；曝 Meta 发布 AI 使用「限制令」 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653108794&idx=1&sn=68c84b053365f7457b8188d9aa9dfaf1)
 - 情报分析师
   - [当诈骗帝国寻找新家！柬埔寨之后，斯里兰卡被瞄准！](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650568177&idx=1&sn=cba5fb698807ae204b11bc5e86eab551)
+- Over Security
+  - [Smart Glasses Can Record You – And Detecting Them Isn’t So Simple](https://www.mobile-hacker.com/2026/06/14/smart-glasses-can-record-you-and-detecting-them-isnt-so-simple/)
+  - [FBI disrupts massive AI-powered phishing service using a million URLs](https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/)
 - 安全行者老霍
   - [2026 年网络攻防桌面演练为何对网络韧性至关重要](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486802&idx=1&sn=de0a163b00d5b4ca3936fc55b27dd5d0)
 - IT Service Management News
   - [Linee guida CE sulla marcatura dei contenuti generati dall'IA](http://blog.cesaregallotti.it/2026/06/linee-guida-ce-sulla-marcatura-dei.html)
-- Schneier on Security
-  - [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2026/06/upcoming-speaking-engagements-57.html)
 - Lenny Zeltser
   - [Templates for Cybersecurity Executive Briefings](https://zeltser.com/cyber-brief-templates-for-decision-makers)
-- Over Security
-  - [Smart Glasses Can Record You – And Detecting Them Isn’t So Simple](https://www.mobile-hacker.com/2026/06/14/smart-glasses-can-record-you-and-detecting-them-isnt-so-simple/)
-  - [FBI disrupts massive AI-powered phishing service using a million URLs](https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/)
 - ICT Security Magazine
   - [Pink, l’extortion brand che entra in azienda con una telefonata di vishing](https://www.ictsecuritymagazine.com/notizie/pink-estorsione-vishing-bypass-mfa/)
   - [Secrets management: il segreto migliore è quello che non esiste](https://www.ictsecuritymagazine.com/cyber-security/secrets-management/)
   - [Vulnerability management risk-based: CISA con la BOD 26-04 ordina di dare priorità al rischio reale](https://www.ictsecuritymagazine.com/notizie/cisa-bod-26-04-vulnerability-management-risk-based/)
   - [Detection engineering: il rilevamento come codice, non come artigianato del SOC](https://www.ictsecuritymagazine.com/notizie/detection-engineering/)
+- Schneier on Security
+  - [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2026/06/upcoming-speaking-engagements-57.html)
 - Security Affairs
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 101](https://securityaffairs.com/193609/breaking-news/security-affairs-malware-newsletter-round-101.html)
   - [Security Affairs newsletter Round 581 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/193600/security/security-affairs-newsletter-round-581-by-pierluigi-paganini-international-edition.html)
   - [Ukrainian Extradited from Ireland Pleads Guilty Over Role in Conti Ransomware Scheme](https://securityaffairs.com/193590/uncategorized/ukrainian-extradited-from-ireland-pleads-guilty-over-role-in-conti-ransomware-scheme.html)
+- Your Open Hacker Community
+  - [Best Ethical Hacking Books?](https://www.reddit.com/r/HowToHack/comments/1u5knnf/best_ethical_hacking_books/)
+  - [Question for veterans](https://www.reddit.com/r/HowToHack/comments/1u5jeds/question_for_veterans/)
+  - [[ Removed by Reddit ]](https://www.reddit.com/r/HowToHack/comments/1u5a6qu/removed_by_reddit/)
