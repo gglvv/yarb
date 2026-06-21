@@ -1,11 +1,11 @@
 # 每日安全资讯（2026-06-21）
 
-- SecWiki News
-  - [SecWiki News 2026-06-20 Review](http://www.sec-wiki.com/?2026-06-20)
 - Taxodium
   - [Elfeed 4.0.0 使用分享](https://taxodium.ink/elfeed-4-0-0-usage-sharing.html)
 - Recent Commits to cve:main
   - [Update Sat Jun 20 11:52:40 UTC 2026](https://github.com/trickest/cve/commit/6041a0825fde739bcc4dc92075b99395f83af5ec)
+- SecWiki News
+  - [SecWiki News 2026-06-20 Review](http://www.sec-wiki.com/?2026-06-20)
 - AresX's Blog
   - [从两篇 X 文章开始：我第一次构建量化系统的回忆录](https://ares-x.com/2026/06/21/%E4%BB%8E%E4%B8%A4%E7%AF%87-X-%E6%96%87%E7%AB%A0%E5%BC%80%E5%A7%8B-%E6%88%91%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9E%84%E5%BB%BA%E9%87%8F%E5%8C%96%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%9B%9E%E5%BF%86%E5%BD%95/)
 - daniel.haxx.se
@@ -32,30 +32,32 @@
   - [【安全圈】国际足联后台曝高危漏洞 黑客能随意篡改全球世界杯直播](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077497&idx=1&sn=78843c56369db38734d325ad4542c041)
   - [【安全圈】研发软件0.8秒抢票涉案3亿 技术黄牛落网](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077497&idx=2&sn=c184fb024a6e41b289af03d4d7d13e5d)
   - [【安全圈】得克萨斯州发生数据泄露事件，超 300 万人驾照、护照信息遭窃](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077497&idx=3&sn=14b5ce28f4895871a11b24744bb9c029)
-- 极客公园
-  - [全球首富前三名，竟然都是同一种世界观的胜利](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109220&idx=1&sn=f76c7ddc9606af22d457280e4cca546a)
-  - [面对 AI，人类手里还有「什么牌」？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109088&idx=1&sn=c0b8d46adcfdd795d1ede9b58e653242)
-  - [宇树机器人登顶 6200 米火山；诺奖得主从谷歌跳槽到 Anthropic；AI 教父杨立昆：马斯克的 xAI 失败了 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109207&idx=1&sn=2da2d660b73f0fb9c5fcba7f7074a0d1)
 - Over Security
   - [Microsoft links Mastra AI supply chain attack to North Korean hackers](https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/)
   - [New Prinz Eugen ransomware prioritizes recent files for encryption](https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/)
   - [JCPenney - 368,418 breached accounts](https://haveibeenpwned.com/Breach/JCPenney)
-- LastKnight.com Feed
-  - [Uccidere meglio e di più con la AI… sbagliata?](https://mgpf.it/2026/06/20/grok-maven.html)
 - Chaos Computer Club - last 100 events feed
   - [Was ist Matrix? (dobyte2026)](https://cdn.media.ccc.de/events/dobyte/2026/h264-hd/dobyte2026-18-deu-Was_ist_Matrix_hd.mp4)
-- BorderGate
-  - [JSON Web Tokens](https://www.bordergate.co.uk/json-web-tokens/)
+  - [Unpack you a Docker for a great good (dobyte2026)](https://cdn.media.ccc.de/events/dobyte/2026/h264-hd/dobyte2026-38-deu-Unpack_you_a_Docker_for_a_great_good_hd.mp4)
+  - [Die 3D-Druck-Armee - Drucken für die Ukraine (dobyte2026)](https://cdn.media.ccc.de/events/dobyte/2026/h264-hd/dobyte2026-27-deu-Die_3D-Druck-Armee_-_Drucken_fuer_die_Ukraine_hd.mp4)
 - ICT Security Magazine
   - [CAPTCHA: la prova di essere umani che le macchine superano meglio di noi](https://www.ictsecuritymagazine.com/notizie/captcha-la-prova-di-umanita-superata/)
   - [ITDR: quando l’attaccante non entra, ma fa login](https://www.ictsecuritymagazine.com/digital-id-security/itdr-identity-threat-detection-response/)
+- LastKnight.com Feed
+  - [Uccidere meglio e di più con la AI… sbagliata?](https://mgpf.it/2026/06/20/grok-maven.html)
+- Have I Been Pwned latest breaches
+  - [JCPenney - 368,418 breached accounts](https://haveibeenpwned.com/Breach/JCPenney)
+- 极客公园
+  - [全球首富前三名，竟然都是同一种世界观的胜利](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109220&idx=1&sn=f76c7ddc9606af22d457280e4cca546a)
+  - [面对 AI，人类手里还有「什么牌」？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109088&idx=1&sn=c0b8d46adcfdd795d1ede9b58e653242)
+  - [宇树机器人登顶 6200 米火山；诺奖得主从谷歌跳槽到 Anthropic；AI 教父杨立昆：马斯克的 xAI 失败了 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109207&idx=1&sn=2da2d660b73f0fb9c5fcba7f7074a0d1)
+- Daniel Miessler
+  - [My Updated Definitions of AGI vs. ASI](https://danielmiessler.com/blog/agi-vs-asi-definitions?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- BorderGate
+  - [JSON Web Tokens](https://www.bordergate.co.uk/json-web-tokens/)
 - The Hacker News
   - [Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys](https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html)
 - Security Affairs
   - [Inside GentleKiller: The EDR-Killer Powering The Gentlemen](https://securityaffairs.com/193941/uncategorized/inside-gentlekiller-the-edr-killer-powering-the-gentlemen.html)
   - [FortiBleed Exposes Global Credential-Spraying Operation](https://securityaffairs.com/193931/hacking/fortibleed-exposes-global-credential-spraying-operation.html)
   - [CISA Warns of Active Exploitation Following FortiBleed Leak](https://securityaffairs.com/193902/hacking/cisa-warns-of-active-exploitation-following-fortibleed-leak.html)
-- Have I Been Pwned latest breaches
-  - [JCPenney - 368,418 breached accounts](https://haveibeenpwned.com/Breach/JCPenney)
-- Daniel Miessler
-  - [My Updated Definitions of AGI vs. ASI](https://danielmiessler.com/blog/agi-vs-asi-definitions?utm_source=rss&utm_medium=feed&utm_campaign=website)
