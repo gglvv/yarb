@@ -8,14 +8,12 @@
   - [Elfeed 4.0.0 使用分享](https://taxodium.ink/elfeed-4-0-0-usage-sharing.html)
 - AresX's Blog
   - [从两篇 X 文章开始：我第一次构建量化系统的回忆录](https://ares-x.com/2026/06/21/%E4%BB%8E%E4%B8%A4%E7%AF%87-X-%E6%96%87%E7%AB%A0%E5%BC%80%E5%A7%8B-%E6%88%91%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9E%84%E5%BB%BA%E9%87%8F%E5%8C%96%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%9B%9E%E5%BF%86%E5%BD%95/)
-- Reverse Engineering
-  - [Reverse engineered Pixel 7 Tensor G2 access](https://www.reddit.com/r/ReverseEngineering/comments/1ub17kt/reverse_engineered_pixel_7_tensor_g2_access/)
-  - [DOS Game "F-15 Strike Eagle II" reversing project needs DOS test pilots](https://www.reddit.com/r/ReverseEngineering/comments/1uazied/dos_game_f15_strike_eagle_ii_reversing_project/)
-  - [Built a full Android RE suite that runs on-device — Radare2 CFG graphs, 8 Java decompilers (CFR, Procyon, Krakatau…), Flutter & il2cpp support](https://www.reddit.com/r/ReverseEngineering/comments/1ub1m02/built_a_full_android_re_suite_that_runs_ondevice/)
-  - [GitHub - lautarovculic/ioscpy: A macOS CLI that mirrors and controls a jailbroken iPhone over USB.](https://www.reddit.com/r/ReverseEngineering/comments/1uari8e/github_lautarovculicioscpy_a_macos_cli_that/)
-  - [sterrasec/apk-interceptor: Android deeplink, Intent, and WebView bridge assessment helper](https://www.reddit.com/r/ReverseEngineering/comments/1ualhc6/sterrasecapkinterceptor_android_deeplink_intent/)
 - daniel.haxx.se
   - [QUERY with curl](https://daniel.haxx.se/blog/2026/06/21/query-with-curl/)
+- 奇客Solidot–传递最新科技情报
+  - [软银将其持有的波士顿动力剩余股份全部出售给现代汽车](https://www.solidot.org/story?sid=84631)
+  - [AI 使用是否会导致技能退化？](https://www.solidot.org/story?sid=84630)
+  - [挪威限制小学生使用 AI](https://www.solidot.org/story?sid=84629)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [诺贝尔奖得主将离开谷歌跳槽Anthropic](https://blog.upx8.com/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E5%BE%97%E4%B8%BB%E5%B0%86%E7%A6%BB%E5%BC%80%E8%B0%B7%E6%AD%8C%E8%B7%B3%E6%A7%BDAnthropic)
   - [你可能有资格从谷歌1.35亿美元数据和解案中获得赔偿](https://blog.upx8.com/%E4%BD%A0%E5%8F%AF%E8%83%BD%E6%9C%89%E8%B5%84%E6%A0%BC%E4%BB%8E%E8%B0%B7%E6%AD%8C1-35%E4%BA%BF%E7%BE%8E%E5%85%83%E6%95%B0%E6%8D%AE%E5%92%8C%E8%A7%A3%E6%A1%88%E4%B8%AD%E8%8E%B7%E5%BE%97%E8%B5%94%E5%81%BF)
@@ -23,45 +21,39 @@
   - [俄罗斯欲实现AI主权，却受制于芯片困境](https://blog.upx8.com/%E4%BF%84%E7%BD%97%E6%96%AF%E6%AC%B2%E5%AE%9E%E7%8E%B0AI%E4%B8%BB%E6%9D%83-%E5%8D%B4%E5%8F%97%E5%88%B6%E4%BA%8E%E8%8A%AF%E7%89%87%E5%9B%B0%E5%A2%83)
   - [IETF 正式公布 HTTP QUERY 方法拟议标准](https://blog.upx8.com/IETF-%E6%AD%A3%E5%BC%8F%E5%85%AC%E5%B8%83-HTTP-QUERY-%E6%96%B9%E6%B3%95%E6%8B%9F%E8%AE%AE%E6%A0%87%E5%87%86)
   - [欧盟拟立法推动供应链多元化 降低对华依赖](https://blog.upx8.com/%E6%AC%A7%E7%9B%9F%E6%8B%9F%E7%AB%8B%E6%B3%95%E6%8E%A8%E5%8A%A8%E4%BE%9B%E5%BA%94%E9%93%BE%E5%A4%9A%E5%85%83%E5%8C%96-%E9%99%8D%E4%BD%8E%E5%AF%B9%E5%8D%8E%E4%BE%9D%E8%B5%96)
-- 奇客Solidot–传递最新科技情报
-  - [软银将其持有的波士顿动力剩余股份全部出售给现代汽车](https://www.solidot.org/story?sid=84631)
-  - [AI 使用是否会导致技能退化？](https://www.solidot.org/story?sid=84630)
-  - [挪威限制小学生使用 AI](https://www.solidot.org/story?sid=84629)
 - 黑鸟
   - [首次太空全景测绘:GPS干扰的真实规模远超预期](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187102&idx=1&sn=c61935e06ca011ceac5cc5c52efa99b2)
 - 看雪学苑
   - [面向复现的逆向工程实践：Hermes 在设备刷写、提权与 Frida 魔改中的自动化能力验证](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616783&idx=1&sn=219d3d357722602c80071a048c05a2b7)
   - [距看雪618活动截止，还有1天！](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458616783&idx=2&sn=075e6a687be9184851b1b5661754c98c)
+- 安全分析与研究
+  - [DarkHotel APT组织最新攻击活动深度分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496831&idx=1&sn=b7a4b03c62f033c2ac4dc43d188f4d8d)
 - 极客公园
   - [全球首富前三名，竟然都是同一种世界观的胜利](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109220&idx=1&sn=f76c7ddc9606af22d457280e4cca546a)
   - [面对 AI，人类手里还有「什么牌」？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109088&idx=1&sn=c0b8d46adcfdd795d1ede9b58e653242)
   - [宇树机器人登顶 6200 米火山；诺奖得主从谷歌跳槽到 Anthropic；AI 教父杨立昆：马斯克的 xAI 失败了 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109207&idx=1&sn=2da2d660b73f0fb9c5fcba7f7074a0d1)
-- 安全圈
-  - [【安全圈】国际足联后台曝高危漏洞 黑客能随意篡改全球世界杯直播](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077497&idx=1&sn=78843c56369db38734d325ad4542c041)
-  - [【安全圈】研发软件0.8秒抢票涉案3亿 技术黄牛落网](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077497&idx=2&sn=c184fb024a6e41b289af03d4d7d13e5d)
-  - [【安全圈】得克萨斯州发生数据泄露事件，超 300 万人驾照、护照信息遭窃](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077497&idx=3&sn=14b5ce28f4895871a11b24744bb9c029)
-- 安全分析与研究
-  - [DarkHotel APT组织最新攻击活动深度分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496831&idx=1&sn=b7a4b03c62f033c2ac4dc43d188f4d8d)
+- LastKnight.com Feed
+  - [Uccidere meglio e di più con la AI… sbagliata?](https://mgpf.it/2026/06/20/grok-maven.html)
+- Over Security
+  - [Microsoft links Mastra AI supply chain attack to North Korean hackers](https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/)
+  - [New Prinz Eugen ransomware prioritizes recent files for encryption](https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/)
+  - [JCPenney - 368,418 breached accounts](https://haveibeenpwned.com/Breach/JCPenney)
+- Have I Been Pwned latest breaches
+  - [JCPenney - 368,418 breached accounts](https://haveibeenpwned.com/Breach/JCPenney)
 - ICT Security Magazine
   - [CAPTCHA: la prova di essere umani che le macchine superano meglio di noi](https://www.ictsecuritymagazine.com/notizie/captcha-la-prova-di-umanita-superata/)
   - [ITDR: quando l’attaccante non entra, ma fa login](https://www.ictsecuritymagazine.com/digital-id-security/itdr-identity-threat-detection-response/)
 - BorderGate
   - [JSON Web Tokens](https://www.bordergate.co.uk/json-web-tokens/)
+- 安全圈
+  - [【安全圈】国际足联后台曝高危漏洞 黑客能随意篡改全球世界杯直播](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077497&idx=1&sn=78843c56369db38734d325ad4542c041)
+  - [【安全圈】研发软件0.8秒抢票涉案3亿 技术黄牛落网](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077497&idx=2&sn=c184fb024a6e41b289af03d4d7d13e5d)
+  - [【安全圈】得克萨斯州发生数据泄露事件，超 300 万人驾照、护照信息遭窃](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077497&idx=3&sn=14b5ce28f4895871a11b24744bb9c029)
 - Daniel Miessler
   - [My Updated Definitions of AGI vs. ASI](https://danielmiessler.com/blog/agi-vs-asi-definitions?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- Have I Been Pwned latest breaches
-  - [JCPenney - 368,418 breached accounts](https://haveibeenpwned.com/Breach/JCPenney)
-- Over Security
-  - [Microsoft links Mastra AI supply chain attack to North Korean hackers](https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/)
-  - [New Prinz Eugen ransomware prioritizes recent files for encryption](https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/)
-  - [JCPenney - 368,418 breached accounts](https://haveibeenpwned.com/Breach/JCPenney)
-- The Hacker News
-  - [Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys](https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html)
 - Security Affairs
   - [Inside GentleKiller: The EDR-Killer Powering The Gentlemen](https://securityaffairs.com/193941/uncategorized/inside-gentlekiller-the-edr-killer-powering-the-gentlemen.html)
   - [FortiBleed Exposes Global Credential-Spraying Operation](https://securityaffairs.com/193931/hacking/fortibleed-exposes-global-credential-spraying-operation.html)
   - [CISA Warns of Active Exploitation Following FortiBleed Leak](https://securityaffairs.com/193902/hacking/cisa-warns-of-active-exploitation-following-fortibleed-leak.html)
-- LastKnight.com Feed
-  - [Uccidere meglio e di più con la AI… sbagliata?](https://mgpf.it/2026/06/20/grok-maven.html)
-- Computer Forensics
-  - [New Forensics Tool: DFIR-Companion](https://www.reddit.com/r/computerforensics/comments/1uatd1n/new_forensics_tool_dfircompanion/)
+- The Hacker News
+  - [Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys](https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html)
