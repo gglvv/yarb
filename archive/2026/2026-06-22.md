@@ -1,33 +1,35 @@
 # 每日安全资讯（2026-06-22）
 
-- SecWiki News
-  - [SecWiki News 2026-06-21 Review](http://www.sec-wiki.com/?2026-06-21)
 - Recent Commits to cve:main
   - [Update Sun Jun 21 11:54:59 UTC 2026](https://github.com/trickest/cve/commit/31eade4ca90872034a506e7a82fe737690d41cae)
+- SecWiki News
+  - [SecWiki News 2026-06-21 Review](http://www.sec-wiki.com/?2026-06-21)
 - Reverse Engineering
   - [I reverse engineered Windows Copilot into a free OpenAI compatible API (GPT-4o, no API key, no billing)](https://www.reddit.com/r/ReverseEngineering/comments/1ubp12v/i_reverse_engineered_windows_copilot_into_a_free/)
   - [Reverse once, run forever: designing client-side defenses that assume the attacker has already read every line](https://www.reddit.com/r/ReverseEngineering/comments/1ubr39j/reverse_once_run_forever_designing_clientside/)
   - [Scrutari - forensic statistical analyzer for opaque firmware blobs](https://www.reddit.com/r/ReverseEngineering/comments/1ubtc73/scrutari_forensic_statistical_analyzer_for_opaque/)
   - [Note20 ABL Odin out-of-bounds read](https://www.reddit.com/r/ReverseEngineering/comments/1ubd9a6/note20_abl_odin_outofbounds_read/)
   - [NØW — Word-Based Shellcode Encoder](https://www.reddit.com/r/ReverseEngineering/comments/1ubgkbl/nøw_wordbased_shellcode_encoder/)
+- Hacking Articles
+  - [AI-Powered Active Directory Pentesting with Claude, HexStrike AI & NetExec](https://www.hackingarticles.in/ai-powered-active-directory-pentesting-with-claude-hexstrike-ai-netexec/)
 - 奇客Solidot–传递最新科技情报
   - [芬兰图书馆提供缝纫机借用服务](https://www.solidot.org/story?sid=84636)
   - [Google reCAPTCHA 系统引入手势验证](https://www.solidot.org/story?sid=84635)
   - [疑似黑客劫持短信预警系统在巴西各地发送警报短信](https://www.solidot.org/story?sid=84634)
   - [德国 2025 年人口出现下降](https://www.solidot.org/story?sid=84633)
   - [俄罗斯导弹预警卫星 COSMOS 2546 被指干扰欧洲 GPS](https://www.solidot.org/story?sid=84632)
-- 锦行科技
-  - [父亲节・承爱｜无言相伴，厚爱绵长](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494929&idx=1&sn=b5999f9f200b5443707351e9a817bb3c)
 - 黑鸟
   - [usbliter8：苹果 A12/A13 BootROM 硬件漏洞的完整利用路径](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187115&idx=1&sn=7f5c9068ae5957b1cd79e9ece8c47195)
+- 锦行科技
+  - [父亲节・承爱｜无言相伴，厚爱绵长](https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494929&idx=1&sn=b5999f9f200b5443707351e9a817bb3c)
+- 我的安全视界观
+  - [【AI复盘】员工VibeCoding引发数据泄露事件](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487658&idx=1&sn=efbfc4e16af026c748e2450742b5e94f)
 - 安全学术圈
   - [2026年度湖北省科学技术奖网评通过项目清单（网络空间安全领域）](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495522&idx=1&sn=f56e0abbcecd4789fe21b3cbb6ffd99e)
 - 灾难控制 局
   - [SecEBL: 基于意图识别的入侵检测](https://mp.weixin.qq.com/s?__biz=MzI1NTc1NTcwNg==&mid=2247484510&idx=1&sn=8c685aa656a7dd4608ac26ef7da675db)
 - 安全分析与研究
   - [全球流行勒索病毒家族加解密算法详解](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496838&idx=1&sn=f93f9c99bdd4b45776a685cfe6f57d94)
-- 我的安全视界观
-  - [【AI复盘】员工VibeCoding引发数据泄露事件](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487658&idx=1&sn=efbfc4e16af026c748e2450742b5e94f)
 - 安全圈
   - [【安全圈】西安公安 19 小时打掉世界杯网络赌局](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077511&idx=1&sn=598d0b24b41a200057b435d21755cbc4)
   - [【安全圈】初级黑客在其 C2 下线后使用 Tailscale 和 OpenSSH 保持访问](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077511&idx=2&sn=762f450958e4b864e59c019aa5bc4c2f)
@@ -41,13 +43,13 @@
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534650&idx=3&sn=97d7892d42d2dba0cc6212e377873651)
 - 君哥的体历
   - [通过 AI agent + 通用大模型，实现海量告警研判分析实践](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492463&idx=1&sn=9114aa0738ecb28591ab11f0fbc86e93)
+- 丁爸 情报分析师的工具箱
+  - [【资料】2026年美国系列战略文件](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156338&idx=1&sn=2df8910ebbb1881dd0a0ed14c63dd278)
 - Over Security
   - [AryStinger botnet infected thousands of D-Link routers worldwide](https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/)
   - [La sfida industriale dei computer quantistici](https://guerredirete.substack.com/p/la-sfida-industriale-dei-computer)
 - ICT Security Magazine
   - [DNS security: il livello che tutti usano e quasi nessuno difende](https://www.ictsecuritymagazine.com/cyber-security/dns-security/)
-- 丁爸 情报分析师的工具箱
-  - [【资料】2026年美国系列战略文件](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156338&idx=1&sn=2df8910ebbb1881dd0a0ed14c63dd278)
 - Full Disclosure
   - [OpenBSD mpls_do_error: Remote Kernel Stack Disclosure via MPLS Label Stack Over-read](https://seclists.org/fulldisclosure/2026/Jun/17)
   - [OpenBSD sppp_pap_input: PAP authentication bypass](https://seclists.org/fulldisclosure/2026/Jun/15)
@@ -61,10 +63,10 @@
   - [PHP 8.5.7 `mb_substr()` 'SJIS-mac' size_t underflow](https://seclists.org/fulldisclosure/2026/Jun/12)
   - [PHP 8.5.7 `FILTER_SANITIZE_ENCODED` uninitialized read](https://seclists.org/fulldisclosure/2026/Jun/11)
   - [CVE-2025-68624: Cross-Tenant Authentication Bypass by Spoofing in N-able Mail Assure](https://seclists.org/fulldisclosure/2026/Jun/10)
+- Daniel Miessler
+  - [Debating the Morality of Dario Amodei](https://danielmiessler.com/blog/debating-morality-dario-amodei?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - Security Affairs
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 102](https://securityaffairs.com/193960/security/security-affairs-malware-newsletter-round-102.html)
   - [Security Affairs newsletter Round 582 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/193953/uncategorized/security-affairs-newsletter-round-582-by-pierluigi-paganini-international-edition.html)
 - OnionSec
   - [以前总想着爬山，后来开始看路边](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485831&idx=1&sn=0f2649bdd8cddfcf0ececaa02a3607b0)
-- Daniel Miessler
-  - [Debating the Morality of Dario Amodei](https://danielmiessler.com/blog/debating-morality-dario-amodei?utm_source=rss&utm_medium=feed&utm_campaign=website)
