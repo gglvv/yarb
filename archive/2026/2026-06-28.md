@@ -1,28 +1,33 @@
 # 每日安全资讯（2026-06-28）
 
-- Recent Commits to cve:main
-  - [Update Sat Jun 27 12:02:49 UTC 2026](https://github.com/trickest/cve/commit/4616f381e8a77eee8b4ec6e6387b1d4be744e01c)
 - SecWiki News
   - [SecWiki News 2026-06-27 Review](http://www.sec-wiki.com/?2026-06-27)
+- Recent Commits to cve:main
+  - [Update Sat Jun 27 12:02:49 UTC 2026](https://github.com/trickest/cve/commit/4616f381e8a77eee8b4ec6e6387b1d4be744e01c)
 - MaskRay
   - [A deep dive into SmallVector::push_back](https://maskray.me/blog/2026-06-27-a-deep-dive-into-smallvector-push-back)
 - Zgao's blog
   - [不同数据库被”拖库”特征-托管vs自建+是/否开启审计日志取证实测](https://zgao.top/%e4%b8%8d%e5%90%8c%e6%95%b0%e6%8d%ae%e5%ba%93%e8%a2%ab%e6%8b%96%e5%ba%93%e7%89%b9%e5%be%81-%e6%89%98%e7%ae%a1vs%e8%87%aa%e5%bb%ba%e6%98%af-%e5%90%a6%e5%bc%80%e5%90%af%e5%ae%a1%e8%ae%a1%e6%97%a5/)
+- Reverse Engineering
+  - [I Reverse Engineered An Undocumented Laptop's Embedded Controller](https://www.reddit.com/r/ReverseEngineering/comments/1uh9v57/i_reverse_engineered_an_undocumented_laptops/)
+  - [Reverse Engineering dobreprogramy.pl Bundler - Extracting Clean Download URLs Without Executing Adware](https://www.reddit.com/r/ReverseEngineering/comments/1uhe48w/reverse_engineering_dobreprogramypl_bundler/)
+  - [I reverse engineered DeepSeek Chat into a free OpenAI compatible API (V4 & R1 models, no API key, no billing)](https://www.reddit.com/r/ReverseEngineering/comments/1uh7u8o/i_reverse_engineered_deepseek_chat_into_a_free/)
+  - [GitHub - vichhka-git/renef-skills: Agent Skill (Claude Code + OpenCode) for operating renef.io — Android ARM64 dynamic instrumentation: hook native/Java, patch memory, trace syscalls, bypass SSL pinning/root detection; port Frida & GameGuardian scripts to renef Lua.](https://www.reddit.com/r/ReverseEngineering/comments/1ugnkv4/github_vichhkagitrenefskills_agent_skill_claude/)
 - Intigriti
   - [Exploiting insecure cookie policies](https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-insecure-cookie-policies)
-- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [三星即将开始对其智能家居API的访问收费](https://blog.upx8.com/%E4%B8%89%E6%98%9F%E5%8D%B3%E5%B0%86%E5%BC%80%E5%A7%8B%E5%AF%B9%E5%85%B6%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85API%E7%9A%84%E8%AE%BF%E9%97%AE%E6%94%B6%E8%B4%B9)
-  - [马斯克拟收购光模块公司Mesh](https://blog.upx8.com/%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8B%9F%E6%94%B6%E8%B4%AD%E5%85%89%E6%A8%A1%E5%9D%97%E5%85%AC%E5%8F%B8Mesh)
-  - [维基媒体基金会英国员工寻求成立工会](https://blog.upx8.com/%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E5%9F%BA%E9%87%91%E4%BC%9A%E8%8B%B1%E5%9B%BD%E5%91%98%E5%B7%A5%E5%AF%BB%E6%B1%82%E6%88%90%E7%AB%8B%E5%B7%A5%E4%BC%9A)
 - 奇客Solidot–传递最新科技情报
   - [AI 促使数学家思考数学对他们的意义](https://www.solidot.org/story?sid=84695)
   - [美国政府允许 Anthropic 将 Mythos 5 模型提供给少数客户使用](https://www.solidot.org/story?sid=84694)
   - [BBC 关闭长波广播](https://www.solidot.org/story?sid=84692)
   - [空客被要求对 A380 的机翼进行紧急检查](https://www.solidot.org/story?sid=84691)
+- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
+  - [三星即将开始对其智能家居API的访问收费](https://blog.upx8.com/%E4%B8%89%E6%98%9F%E5%8D%B3%E5%B0%86%E5%BC%80%E5%A7%8B%E5%AF%B9%E5%85%B6%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85API%E7%9A%84%E8%AE%BF%E9%97%AE%E6%94%B6%E8%B4%B9)
+  - [马斯克拟收购光模块公司Mesh](https://blog.upx8.com/%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8B%9F%E6%94%B6%E8%B4%AD%E5%85%89%E6%A8%A1%E5%9D%97%E5%85%AC%E5%8F%B8Mesh)
 - 黑鸟
   - [覆盖12大技术栈类别的93款开源情报工具](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187441&idx=1&sn=86bc4296a5c582b30712030cc3b05fa2)
-- 绿盟科技研究通讯
-  - [【公益译文】2026年AI指数报告（五）](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247500012&idx=1&sn=aa8560755076fda38c8fd1df45fb938c)
+- 安全分析与研究
+  - [AI驱动的网络攻防与对抗技术](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496870&idx=1&sn=82ea0cffb3cac94c86ebe6b95e901611)
+  - [AI安全研究方向专题](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496870&idx=2&sn=33319eb9eb23e5317e1fc23b128c0279)
 - 非尝咸鱼贩
   - [好像躲过了一次噶腰子](https://mp.weixin.qq.com/s?__biz=Mzk0NDE3MTkzNQ==&mid=2247486081&idx=1&sn=d5900c8ffd1a36e29172c1a4c91393cf)
 - 天黑说嘿话
@@ -33,9 +38,8 @@
 - 安全圈
   - [【安全圈】苹果印度代工厂遭黑客入侵 海量新机机密文件流入暗网](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077571&idx=1&sn=d7f4d998f528d5fc6959d0667e8d301d)
   - [【安全圈】Linux 漏洞 DirtyClone 披露，可提权至 root 最高权限](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077571&idx=2&sn=94626f4fbfa16457a6aade2de4dddcbe)
-- 安全分析与研究
-  - [AI驱动的网络攻防与对抗技术](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496870&idx=1&sn=82ea0cffb3cac94c86ebe6b95e901611)
-  - [AI安全研究方向专题](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496870&idx=2&sn=33319eb9eb23e5317e1fc23b128c0279)
+- 绿盟科技研究通讯
+  - [【公益译文】2026年AI指数报告（五）](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247500012&idx=1&sn=aa8560755076fda38c8fd1df45fb938c)
 - 极客公园
   - [都在说缺算力，90% 的 AI 芯片却被「浪费」了？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109518&idx=1&sn=64d98096bef7d5b72e73e1f303d79c94)
   - [AGI Playground 2026，首批嘉宾官宣！](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109517&idx=1&sn=2d04aa3bf2b4fd7b9142bd6de97e0f1b)
@@ -47,8 +51,6 @@
 - 丁爸 情报分析师的工具箱
   - [【情报】湾湾的“梅园计划”和“日辉计划”](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156393&idx=1&sn=10a6be43f5cb6bc6560dd3adbee53c33)
   - [【情报】湾湾在泰国“秘密窃听站”续集（视频）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156393&idx=2&sn=53f4589e5185f45283c4bd3b7ae5d56f)
-- LastKnight.com Feed
-  - [Distillazione AI è il nome tecnico, ma il nome morale è rubare](https://mgpf.it/2026/06/27/distillazione-ai-cosa-e-rubare.html)
 - Over Security
   - [CMMC Final Assessment: What I Did Right, What I’d Change, and How You Can Prepare](https://secjuice.com/cmmc-lessons-learned/)
   - [SecjuiceCON 2026](https://secjuice.com/secjuicecon2026/)
@@ -66,6 +68,8 @@
   - [Malware Analysis: Is It About Tools or Mindset?](https://secjuice.com/malware-analysis/)
   - [Asset Management & Data Classification: You Can’t Protect What You Can’t See](https://secjuice.com/asset-management-data-classification-you-cant-protect-what-you-cant-see/)
   - [Clean GitHub repo tricks AI coding agents into running malware](https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/)
+- bellingcat
+  - [Poster Boy: Sanctioned Kinahan Cartel Lieutenant Found Playing Padel in Dubai](https://www.bellingcat.com/news/2026/06/27/poster-boy-sanctioned-kinahan-cartel-lieutenant-found-playing-padel-in-dubai/)
 - Javvad Malik
   - [Breach of Confidence — 26 June 2026](https://javvadmalik.com/2026/06/27/breach-of-confidence-26-june-2026/)
 - ICT Security Magazine
@@ -73,14 +77,16 @@
   - [Geopolitica di Israele: sicurezza, intelligence e conflitti nel Medio Oriente](https://www.ictsecuritymagazine.com/articoli/geopolitica-di-israele/)
   - [OT incident response: quando spegnere è più pericoloso dell’attacco](https://www.ictsecuritymagazine.com/industrial-cyber-security/ot-incident-response/)
   - [GPT-5.6 esce a porte chiuse: il governo USA entra nel ciclo di rilascio dei modelli di frontiera](https://www.ictsecuritymagazine.com/notizie/openai-gpt-5-6-restrizione-governo-usa/)
-- bellingcat
-  - [Poster Boy: Sanctioned Kinahan Cartel Lieutenant Found Playing Padel in Dubai](https://www.bellingcat.com/news/2026/06/27/poster-boy-sanctioned-kinahan-cartel-lieutenant-found-playing-padel-in-dubai/)
-- The Hacker News
-  - [Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials](https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html)
-  - [OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards](https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html)
 - Security Affairs
   - [New FBI Alert: Russian Intelligence Uses Signal Recovery Keys to Access Messages](https://securityaffairs.com/194360/intelligence/new-fbi-alert-russian-intelligence-uses-signal-recovery-keys-to-access-messages.html)
   - [Hospitality Sector Hit by Phishing Campaign Using Fake Guest Complaint Emails](https://securityaffairs.com/194349/uncategorized/hospitality-sector-hit-by-phishing-campaign-using-fake-guest-complaint-emails.html)
   - [DirtyClone: Fourth Linux Kernel Flaw in Six Weeks Escalates to Root](https://securityaffairs.com/194338/uncategorized/dirtyclone-fourth-linux-kernel-flaw-in-six-weeks-escalates-to-root.html)
+- Computer Forensics
+  - [VMware vTPM-encrypted vmem/vmsn decryption ready for volatility3](https://www.reddit.com/r/computerforensics/comments/1ugvc71/vmware_vtpmencrypted_vmemvmsn_decryption_ready/)
 - OnionSec
   - [我们为什么越来越喜欢分析自己，却越来越难感受自己？](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485841&idx=1&sn=b92b68f0fedb8e1117511a7cf9cd640d)
+- LastKnight.com Feed
+  - [Distillazione AI è il nome tecnico, ma il nome morale è rubare](https://mgpf.it/2026/06/27/distillazione-ai-cosa-e-rubare.html)
+- The Hacker News
+  - [Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials](https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html)
+  - [OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards](https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html)
