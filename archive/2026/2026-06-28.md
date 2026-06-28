@@ -1,9 +1,9 @@
 # 每日安全资讯（2026-06-28）
 
-- SecWiki News
-  - [SecWiki News 2026-06-27 Review](http://www.sec-wiki.com/?2026-06-27)
 - Recent Commits to cve:main
   - [Update Sat Jun 27 12:02:49 UTC 2026](https://github.com/trickest/cve/commit/4616f381e8a77eee8b4ec6e6387b1d4be744e01c)
+- SecWiki News
+  - [SecWiki News 2026-06-27 Review](http://www.sec-wiki.com/?2026-06-27)
 - MaskRay
   - [A deep dive into SmallVector::push_back](https://maskray.me/blog/2026-06-27-a-deep-dive-into-smallvector-push-back)
 - Zgao's blog
@@ -22,30 +22,26 @@
   - [马斯克发声支持库克：内存价格暴涨“前所未见”](https://blog.upx8.com/%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%91%E5%A3%B0%E6%94%AF%E6%8C%81%E5%BA%93%E5%85%8B-%E5%86%85%E5%AD%98%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8-%E5%89%8D%E6%89%80%E6%9C%AA%E8%A7%81)
   - [苹果拟向中国长鑫存储科技采购内存芯片](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%8B%9F%E5%90%91%E4%B8%AD%E5%9B%BD%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%E7%A7%91%E6%8A%80%E9%87%87%E8%B4%AD%E5%86%85%E5%AD%98%E8%8A%AF%E7%89%87)
   - [日本全家便利店尝试用狼形机器人驱熊](https://blog.upx8.com/%E6%97%A5%E6%9C%AC%E5%85%A8%E5%AE%B6%E4%BE%BF%E5%88%A9%E5%BA%97%E5%B0%9D%E8%AF%95%E7%94%A8%E7%8B%BC%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A9%B1%E7%86%8A)
-  - [美国政府禁止进口更多中国科技产品](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%8F%A3%E6%9B%B4%E5%A4%9A%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E4%BA%A7%E5%93%81)
-  - [美国允许Anthropic向“可信任”合作伙伴发布Mythos模型](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%85%81%E8%AE%B8Anthropic%E5%90%91-%E5%8F%AF%E4%BF%A1%E4%BB%BB-%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4%E5%8F%91%E5%B8%83Mythos%E6%A8%A1%E5%9E%8B)
 - 黑鸟
   - [覆盖12大技术栈类别的93款开源情报工具](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187441&idx=1&sn=86bc4296a5c582b30712030cc3b05fa2)
-- 天黑说嘿话
-  - [永远不要低估爱看历史的人！](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486136&idx=1&sn=84c9e5a75e50d46fe10ca26987acdbb5)
 - 绿盟科技研究通讯
   - [【公益译文】2026年AI指数报告（五）](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247500012&idx=1&sn=aa8560755076fda38c8fd1df45fb938c)
-- 看雪学苑
-  - [探索CVE-2026-31431的热补丁修复方案](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617012&idx=1&sn=7807b0af5bbb8bd7d1a6b67e998cf678)
-  - [【重磅上线】系统0day安全——主流企业防火墙漏洞挖掘](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617012&idx=2&sn=1b98a307ca4be3e02485dd2f2f897a75)
-- 安全圈
-  - [【安全圈】苹果印度代工厂遭黑客入侵 海量新机机密文件流入暗网](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077571&idx=1&sn=d7f4d998f528d5fc6959d0667e8d301d)
-  - [【安全圈】Linux 漏洞 DirtyClone 披露，可提权至 root 最高权限](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077571&idx=2&sn=94626f4fbfa16457a6aade2de4dddcbe)
-- 非尝咸鱼贩
-  - [好像躲过了一次噶腰子](https://mp.weixin.qq.com/s?__biz=Mzk0NDE3MTkzNQ==&mid=2247486081&idx=1&sn=d5900c8ffd1a36e29172c1a4c91393cf)
+- 天黑说嘿话
+  - [永远不要低估爱看历史的人！](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486136&idx=1&sn=84c9e5a75e50d46fe10ca26987acdbb5)
 - 极客公园
   - [都在说缺算力，90% 的 AI 芯片却被「浪费」了？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109518&idx=1&sn=64d98096bef7d5b72e73e1f303d79c94)
   - [AGI Playground 2026，首批嘉宾官宣！](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109517&idx=1&sn=2d04aa3bf2b4fd7b9142bd6de97e0f1b)
   - [GPT-5.6 来了！Coding 超越 Mythos；美团股价低迷，王兴回应；传 Anthropic 与美国政府达成一致，将向部分机构开放最新模型 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109529&idx=1&sn=1b8aeb0bf450a846baa3e9a2f6718808)
 - 软件安全与逆向分析
   - [最新Linux的本地提权漏洞分析](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485280&idx=1&sn=1fcdc3c1ef0b8299952a470ef99300d9)
-- LastKnight.com Feed
-  - [Distillazione AI è il nome tecnico, ma il nome morale è rubare](https://mgpf.it/2026/06/27/distillazione-ai-cosa-e-rubare.html)
+- 非尝咸鱼贩
+  - [好像躲过了一次噶腰子](https://mp.weixin.qq.com/s?__biz=Mzk0NDE3MTkzNQ==&mid=2247486081&idx=1&sn=d5900c8ffd1a36e29172c1a4c91393cf)
+- 安全圈
+  - [【安全圈】苹果印度代工厂遭黑客入侵 海量新机机密文件流入暗网](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077571&idx=1&sn=d7f4d998f528d5fc6959d0667e8d301d)
+  - [【安全圈】Linux 漏洞 DirtyClone 披露，可提权至 root 最高权限](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077571&idx=2&sn=94626f4fbfa16457a6aade2de4dddcbe)
+- 看雪学苑
+  - [探索CVE-2026-31431的热补丁修复方案](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617012&idx=1&sn=7807b0af5bbb8bd7d1a6b67e998cf678)
+  - [【重磅上线】系统0day安全——主流企业防火墙漏洞挖掘](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617012&idx=2&sn=1b98a307ca4be3e02485dd2f2f897a75)
 - Over Security
   - [CMMC Final Assessment: What I Did Right, What I’d Change, and How You Can Prepare](https://secjuice.com/cmmc-lessons-learned/)
   - [SecjuiceCON 2026](https://secjuice.com/secjuicecon2026/)
@@ -63,21 +59,23 @@
   - [Malware Analysis: Is It About Tools or Mindset?](https://secjuice.com/malware-analysis/)
   - [Asset Management & Data Classification: You Can’t Protect What You Can’t See](https://secjuice.com/asset-management-data-classification-you-cant-protect-what-you-cant-see/)
   - [Clean GitHub repo tricks AI coding agents into running malware](https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/)
-- Javvad Malik
-  - [Breach of Confidence — 26 June 2026](https://javvadmalik.com/2026/06/27/breach-of-confidence-26-june-2026/)
+- bellingcat
+  - [Poster Boy: Sanctioned Kinahan Cartel Lieutenant Found Playing Padel in Dubai](https://www.bellingcat.com/news/2026/06/27/poster-boy-sanctioned-kinahan-cartel-lieutenant-found-playing-padel-in-dubai/)
+- LastKnight.com Feed
+  - [Distillazione AI è il nome tecnico, ma il nome morale è rubare](https://mgpf.it/2026/06/27/distillazione-ai-cosa-e-rubare.html)
 - ICT Security Magazine
   - [Pax Silica: la sovranità in abbonamento](https://www.ictsecuritymagazine.com/articoli/pax-silica-sovranita-in-abbonamento/)
   - [Geopolitica di Israele: sicurezza, intelligence e conflitti nel Medio Oriente](https://www.ictsecuritymagazine.com/articoli/geopolitica-di-israele/)
   - [OT incident response: quando spegnere è più pericoloso dell’attacco](https://www.ictsecuritymagazine.com/industrial-cyber-security/ot-incident-response/)
   - [GPT-5.6 esce a porte chiuse: il governo USA entra nel ciclo di rilascio dei modelli di frontiera](https://www.ictsecuritymagazine.com/notizie/openai-gpt-5-6-restrizione-governo-usa/)
-- bellingcat
-  - [Poster Boy: Sanctioned Kinahan Cartel Lieutenant Found Playing Padel in Dubai](https://www.bellingcat.com/news/2026/06/27/poster-boy-sanctioned-kinahan-cartel-lieutenant-found-playing-padel-in-dubai/)
 - Security Affairs
   - [New FBI Alert: Russian Intelligence Uses Signal Recovery Keys to Access Messages](https://securityaffairs.com/194360/intelligence/new-fbi-alert-russian-intelligence-uses-signal-recovery-keys-to-access-messages.html)
   - [Hospitality Sector Hit by Phishing Campaign Using Fake Guest Complaint Emails](https://securityaffairs.com/194349/uncategorized/hospitality-sector-hit-by-phishing-campaign-using-fake-guest-complaint-emails.html)
   - [DirtyClone: Fourth Linux Kernel Flaw in Six Weeks Escalates to Root](https://securityaffairs.com/194338/uncategorized/dirtyclone-fourth-linux-kernel-flaw-in-six-weeks-escalates-to-root.html)
+- OnionSec
+  - [我们为什么越来越喜欢分析自己，却越来越难感受自己？](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485841&idx=1&sn=b92b68f0fedb8e1117511a7cf9cd640d)
 - The Hacker News
   - [Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials](https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html)
   - [OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards](https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html)
-- OnionSec
-  - [我们为什么越来越喜欢分析自己，却越来越难感受自己？](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485841&idx=1&sn=b92b68f0fedb8e1117511a7cf9cd640d)
+- Javvad Malik
+  - [Breach of Confidence — 26 June 2026](https://javvadmalik.com/2026/06/27/breach-of-confidence-26-june-2026/)
