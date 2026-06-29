@@ -1,47 +1,48 @@
 # 每日安全资讯（2026-06-29）
 
-- SecWiki News
-  - [SecWiki News 2026-06-28 Review](http://www.sec-wiki.com/?2026-06-28)
 - Recent Commits to cve:main
   - [Update Sun Jun 28 12:03:51 UTC 2026](https://github.com/trickest/cve/commit/09a375d66837e902fa5e0ed669a33b65f8bc5544)
+- SecWiki News
+  - [SecWiki News 2026-06-28 Review](http://www.sec-wiki.com/?2026-06-28)
 - MaskRay
   - [Optimizing LLVM's bump allocator](https://maskray.me/blog/2026-06-28-optimizing-llvm-bump-allocator)
+- Reverse Engineering
+  - [Reverse-engineering VMware's encrypted + compressed VM memory checkpoint format (vTPM "partial" encryption)](https://www.reddit.com/r/ReverseEngineering/comments/1ui5946/reverseengineering_vmwares_encrypted_compressed/)
+  - [WinPE as a stateless harness for Windows driver testing and fuzzing](https://www.reddit.com/r/ReverseEngineering/comments/1ui649b/winpe_as_a_stateless_harness_for_windows_driver/)
+  - [Blindspot](https://www.reddit.com/r/ReverseEngineering/comments/1ui2gke/blindspot/)
+  - [WPA3-SAE + 802.11w on the Broadcom BCM4360 (closed wl blob)](https://www.reddit.com/r/ReverseEngineering/comments/1uhl6oo/wpa3sae_80211w_on_the_broadcom_bcm4360_closed_wl/)
+  - [Static BYOVD hunter: Capstone-based IOCTL dispatch extraction](https://www.reddit.com/r/ReverseEngineering/comments/1uhju2k/static_byovd_hunter_capstonebased_ioctl_dispatch/)
+  - [GitHub - iss4cf0ng/NebulaPulsar: NebulaPulsar is a proof-of-concept in-memory implant framework for Java (JSP) and ASP.NET (ASPX/ASHX/ASMX) webshells, originally developed as part of the Alien project.](https://www.reddit.com/r/ReverseEngineering/comments/1uhn607/github_iss4cf0ngnebulapulsar_nebulapulsar_is_a/)
+- 明天的乌云
+  - [Harness Engineering实践和分享](https://blog.xlab.app/p/c3ac2cfd/)
+  - [Plain Harness Engineering in Practice](https://blog.xlab.app/p/c3ac2cff/)
 - 奇客Solidot–传递最新科技情报
   - [科学家再次尝试编辑人类胚胎](https://www.solidot.org/story?sid=84699)
   - [马克斯普朗克的两篇论文被撤稿](https://www.solidot.org/story?sid=84698)
   - [法国本周的热浪超过对 2050 年的可怕想象](https://www.solidot.org/story?sid=84697)
   - [韩国计划训练所有军人熟练操作无人机](https://www.solidot.org/story?sid=84696)
-- 明天的乌云
-  - [Harness Engineering实践和分享](https://blog.xlab.app/p/c3ac2cfd/)
-  - [Plain Harness Engineering in Practice](https://blog.xlab.app/p/c3ac2cff/)
 - 黑鸟
   - [针对一国家开展开源情报收集框架](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187446&idx=1&sn=98636d62c7f755c20927c0631e874bfe)
 - 信安之路
   - [新功能上线！](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500603&idx=1&sn=2b6f39534cc715ba5de223fb13aaa30e)
-- 安全分析与研究
-  - [LLM对齐与越狱攻防技术](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496874&idx=1&sn=d0cb067a7f568bd1225e563f45ed0a7e)
 - 我的安全视界观
   - [【AI复盘】CDN密钥泄露致百万级攻击事件](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487705&idx=1&sn=da85d514fc946fbad63efde0694c74ec)
-- 青衣十三楼飞花堂
-  - [这种是不是就是所谓的逆等线？](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489655&idx=1&sn=2ff45fa3cee574e64d540bf6ce2404dc)
+- 微步在线
+  - [微步斩获新质成长&专精百强，OneSIG获NPS赛道领航者！](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186957&idx=1&sn=c73e0c39d236e1f6148cd3ae789bb981)
 - 安全圈
   - [【安全圈】三星 Galaxy 手机被曝高危安全漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077584&idx=1&sn=2e19796b96a8daf5fd98c9b38425cca3)
   - [【安全圈】波兰捣毁与数百万美元加密货币盗窃案相关的 SIM 卡交换团伙](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077584&idx=2&sn=24d77703c0c3db547cadcd8a4b91e0cb)
   - [【安全圈】新型 Gaslight macOS 恶意软件利用提示注入扰乱 AI 辅助分析](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077584&idx=3&sn=400d5763c8746914d79931cdb7e87349)
-- 微步在线
-  - [微步斩获新质成长&专精百强，OneSIG获NPS赛道领航者！](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186957&idx=1&sn=c73e0c39d236e1f6148cd3ae789bb981)
+- 青衣十三楼飞花堂
+  - [这种是不是就是所谓的逆等线？](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489655&idx=1&sn=2ff45fa3cee574e64d540bf6ce2404dc)
 - 天黑说嘿话
   - [不要低估爱看历史的人](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486138&idx=1&sn=433d9228c1dc2a21ba78dd780a0daa31)
+- 安全分析与研究
+  - [LLM对齐与越狱攻防技术](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496874&idx=1&sn=d0cb067a7f568bd1225e563f45ed0a7e)
 - 极客公园
   - [DeepSeek V4更新DSpark，推理速度提升80%；Vision Pro 高管加盟 OpenAI 硬件部门；央视曝数码产品网络测评乱象｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109548&idx=1&sn=e3213fad6c19a80e73a83fd68c84aa1a)
 - 丁爸 情报分析师的工具箱
   - [【资料】《渗透测试员笔记》《地缘政治风险指数开源框架》《人工智能失控风险》](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156402&idx=1&sn=10a1fcd389df07d63da4b8ebcb7faca8)
-- ICT Security Magazine
-  - [Estorsione senza cifratura: quando l’incidente cambia categoria giuridica (e le metriche smettono di dire la verità)](https://www.ictsecuritymagazine.com/articoli/estorsione-senza-cifratura/)
-  - [Mobile application security: l’app gira in casa del nemico](https://www.ictsecuritymagazine.com/cyber-security/mobile-application-security/)
-  - [Intelligence russa e app di messaggistica: il phishing ora punta alle chiavi di backup di Signal](https://www.ictsecuritymagazine.com/notizie/intelligence-russa-chiavi-di-backup-messaggistica/)
-- Tor Project blog
-  - [New Release: Tor Browser 15.0.17](https://blog.torproject.org/new-release-tor-browser-15017/)
 - Over Security
   - [Instagram OSINT Techniques](https://secjuice.com/instagram-osint-techniques/)
   - [Email Address OSINT](https://secjuice.com/email-address-osint/)
@@ -52,15 +53,23 @@
   - [Data breach exposes up to 14.2 million email logins at six ISPs](https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/)
   - [Anche la Cina sviluppa l’AI per la cyber: ecco Tulongfeng, quali impatti](https://www.cybersecurity360.it/cybersecurity-nazionale/anche-la-cina-sviluppa-lai-per-la-cyber-ecco-tulongfeng-quali-impatti/)
   - [L’economia dei token e il vero prezzo dell’intelligenza artificiale](https://guerredirete.substack.com/p/leconomia-dei-token-e-il-vero-prezzo)
+- Have I Been Pwned latest breaches
+  - [Sysco - 2,691,852 breached accounts](https://haveibeenpwned.com/Breach/Sysco)
 - SANS Internet Storm Center, InfoCON: green
   - [YARA-X 1.18.0 and 1.19.0 Release, (Sun, Jun 28th)](https://isc.sans.edu/diary/rss/33106)
-- OnionSec
-  - [好感谢曾经的自己收集了一些生活碎片](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485843&idx=1&sn=19e00258485f73efb5196799d24b00f1)
+- ICT Security Magazine
+  - [Estorsione senza cifratura: quando l’incidente cambia categoria giuridica (e le metriche smettono di dire la verità)](https://www.ictsecuritymagazine.com/articoli/estorsione-senza-cifratura/)
+  - [Mobile application security: l’app gira in casa del nemico](https://www.ictsecuritymagazine.com/cyber-security/mobile-application-security/)
+  - [Intelligence russa e app di messaggistica: il phishing ora punta alle chiavi di backup di Signal](https://www.ictsecuritymagazine.com/notizie/intelligence-russa-chiavi-di-backup-messaggistica/)
 - Security Affairs
   - [KDDI Data Breach Impacts up to 14.2 Million Email Accounts at Six ISPs](https://securityaffairs.com/194387/data-breach/kddi-data-breach-impacts-up-to-14-2-million-email-accounts-at-six-isps.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 103](https://securityaffairs.com/194383/malware/security-affairs-malware-newsletter-round-103.html)
   - [Security Affairs newsletter Round 583 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/194372/security/security-affairs-newsletter-round-583-by-pierluigi-paganini-international-edition.html)
-- Have I Been Pwned latest breaches
-  - [Sysco - 2,691,852 breached accounts](https://haveibeenpwned.com/Breach/Sysco)
+- Computer Forensics
+  - [Need someone with vetted Falcon Sandbox (Hybrid Analysis) access to pull PCAP/JSON from an existing public report](https://www.reddit.com/r/computerforensics/comments/1ui27it/need_someone_with_vetted_falcon_sandbox_hybrid/)
+- OnionSec
+  - [好感谢曾经的自己收集了一些生活碎片](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485843&idx=1&sn=19e00258485f73efb5196799d24b00f1)
+- Tor Project blog
+  - [New Release: Tor Browser 15.0.17](https://blog.torproject.org/new-release-tor-browser-15017/)
 - 希潭实验室
   - [第166篇：希水涵Web日志分析工具v0.43 更新，新增多个分析模块、大幅提升性能](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247488423&idx=1&sn=da75b5a2d0b75705c4d9efa17c111209)
