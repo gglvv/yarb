@@ -21,34 +21,34 @@
   - [马克斯普朗克的两篇论文被撤稿](https://www.solidot.org/story?sid=84698)
   - [法国本周的热浪超过对 2050 年的可怕想象](https://www.solidot.org/story?sid=84697)
   - [韩国计划训练所有军人熟练操作无人机](https://www.solidot.org/story?sid=84696)
+- 黑鸟
+  - [针对一国家开展开源情报收集框架](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187446&idx=1&sn=98636d62c7f755c20927c0631e874bfe)
 - 信安之路
   - [新功能上线！](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500603&idx=1&sn=2b6f39534cc715ba5de223fb13aaa30e)
 - 我的安全视界观
   - [【AI复盘】CDN密钥泄露致百万级攻击事件](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487705&idx=1&sn=da85d514fc946fbad63efde0694c74ec)
-- 天黑说嘿话
-  - [不要低估爱看历史的人](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486138&idx=1&sn=433d9228c1dc2a21ba78dd780a0daa31)
-- 微步在线
-  - [微步斩获新质成长&专精百强，OneSIG获NPS赛道领航者！](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186957&idx=1&sn=c73e0c39d236e1f6148cd3ae789bb981)
-- 安全分析与研究
-  - [LLM对齐与越狱攻防技术](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496874&idx=1&sn=d0cb067a7f568bd1225e563f45ed0a7e)
-- 黑鸟
-  - [针对一国家开展开源情报收集框架](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187446&idx=1&sn=98636d62c7f755c20927c0631e874bfe)
+- 青衣十三楼飞花堂
+  - [这种是不是就是所谓的逆等线？](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489655&idx=1&sn=2ff45fa3cee574e64d540bf6ce2404dc)
 - 安全圈
   - [【安全圈】三星 Galaxy 手机被曝高危安全漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077584&idx=1&sn=2e19796b96a8daf5fd98c9b38425cca3)
   - [【安全圈】波兰捣毁与数百万美元加密货币盗窃案相关的 SIM 卡交换团伙](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077584&idx=2&sn=24d77703c0c3db547cadcd8a4b91e0cb)
   - [【安全圈】新型 Gaslight macOS 恶意软件利用提示注入扰乱 AI 辅助分析](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077584&idx=3&sn=400d5763c8746914d79931cdb7e87349)
-- 青衣十三楼飞花堂
-  - [这种是不是就是所谓的逆等线？](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489655&idx=1&sn=2ff45fa3cee574e64d540bf6ce2404dc)
+- 微步在线
+  - [微步斩获新质成长&专精百强，OneSIG获NPS赛道领航者！](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186957&idx=1&sn=c73e0c39d236e1f6148cd3ae789bb981)
+- 天黑说嘿话
+  - [不要低估爱看历史的人](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486138&idx=1&sn=433d9228c1dc2a21ba78dd780a0daa31)
 - 极客公园
   - [DeepSeek V4更新DSpark，推理速度提升80%；Vision Pro 高管加盟 OpenAI 硬件部门；央视曝数码产品网络测评乱象｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109548&idx=1&sn=e3213fad6c19a80e73a83fd68c84aa1a)
-- 丁爸 情报分析师的工具箱
-  - [【资料】《渗透测试员笔记》《地缘政治风险指数开源框架》《人工智能失控风险》](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156402&idx=1&sn=10a1fcd389df07d63da4b8ebcb7faca8)
 - ICT Security Magazine
   - [Estorsione senza cifratura: quando l’incidente cambia categoria giuridica (e le metriche smettono di dire la verità)](https://www.ictsecuritymagazine.com/articoli/estorsione-senza-cifratura/)
   - [Mobile application security: l’app gira in casa del nemico](https://www.ictsecuritymagazine.com/cyber-security/mobile-application-security/)
   - [Intelligence russa e app di messaggistica: il phishing ora punta alle chiavi di backup di Signal](https://www.ictsecuritymagazine.com/notizie/intelligence-russa-chiavi-di-backup-messaggistica/)
 - Have I Been Pwned latest breaches
   - [Sysco - 2,691,852 breached accounts](https://haveibeenpwned.com/Breach/Sysco)
+- 丁爸 情报分析师的工具箱
+  - [【资料】《渗透测试员笔记》《地缘政治风险指数开源框架》《人工智能失控风险》](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156402&idx=1&sn=10a1fcd389df07d63da4b8ebcb7faca8)
+- SANS Internet Storm Center, InfoCON: green
+  - [YARA-X 1.18.0 and 1.19.0 Release, (Sun, Jun 28th)](https://isc.sans.edu/diary/rss/33106)
 - Over Security
   - [Instagram OSINT Techniques](https://secjuice.com/instagram-osint-techniques/)
   - [Email Address OSINT](https://secjuice.com/email-address-osint/)
@@ -69,7 +69,5 @@
   - [好感谢曾经的自己收集了一些生活碎片](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485843&idx=1&sn=19e00258485f73efb5196799d24b00f1)
 - Computer Forensics
   - [Need someone with vetted Falcon Sandbox (Hybrid Analysis) access to pull PCAP/JSON from an existing public report](https://www.reddit.com/r/computerforensics/comments/1ui27it/need_someone_with_vetted_falcon_sandbox_hybrid/)
-- SANS Internet Storm Center, InfoCON: green
-  - [YARA-X 1.18.0 and 1.19.0 Release, (Sun, Jun 28th)](https://isc.sans.edu/diary/rss/33106)
 - 希潭实验室
   - [第166篇：希水涵Web日志分析工具v0.43 更新，新增多个分析模块、大幅提升性能](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247488423&idx=1&sn=da75b5a2d0b75705c4d9efa17c111209)
