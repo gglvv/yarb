@@ -2,36 +2,34 @@
 
 - The DFIR Report
   - [From Bing Search to Ransomware: Bumblebee and AdaptixC2 Deliver Akira](https://thedfirreport.com/2026/06/29/from-bing-search-to-ransomware-bumblebee-and-adaptixc2-deliver-akira-3/)
-- Microsoft Security Blog
-  - [Chromium extension uses AI‑related branding to redirect browser search](https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/)
 - InfoSec Write-ups - Medium
   - [Hacking With Google](https://infosecwriteups.com/hacking-with-google-26b8e134ee22?source=rss----7b722bfd1b8d---4)
   - [The OSCP Is a Mental Game](https://infosecwriteups.com/the-oscp-is-a-mental-game-d6583fc6b20b?source=rss----7b722bfd1b8d---4)
   - [Beating LinkedIn’s Mini Sudoku in 3 Seconds: A Parameter Tampering Case Study](https://infosecwriteups.com/beating-linkedins-mini-sudoku-in-3-seconds-a-parameter-tampering-case-study-9261b57873a8?source=rss----7b722bfd1b8d---4)
   - [I Built a SOC Lab From Scratch. Here’s What Broke First.](https://infosecwriteups.com/i-built-a-soc-lab-from-scratch-heres-what-broke-first-8f0863cc6169?source=rss----7b722bfd1b8d---4)
+- SecWiki News
+  - [SecWiki News 2026-06-29 Review](http://www.sec-wiki.com/?2026-06-29)
 - Recent Commits to cve:main
   - [Update Mon Jun 29 12:26:38 UTC 2026](https://github.com/trickest/cve/commit/34185e502a910b2d822f9c3b9ab2d51d33906921)
 - obaby 𝐢‍𝐧⃝ void
   - [打针💉](https://zhongxiaojie.cn/2026/06/1567/)
-- SecWiki News
-  - [SecWiki News 2026-06-29 Review](http://www.sec-wiki.com/?2026-06-29)
+- Microsoft Security Blog
+  - [Chromium extension uses AI‑related branding to redirect browser search](https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/)
 - Insinuator.net
   - [TROOPERS26: Integrating Incident Analysis and Digital Forensics Tooling for Automated Compromise Detection](https://insinuator.net/2026/06/troopers26-integrating-incident-analysis-and-digital-forensics-tooling-for-automated-compromise-detection/)
+- Sandfly Security Blog RSS Feed
+  - [Sandfly 5.8 - Agentless Response and SSH Key Management](https://sandflysecurity.com/blog/sandfly-58-agentless-response-and-ssh-key-management)
 - Horizon3.ai
   - [Horizon3.ai, The Fastest Growing Cyber Company in North America, Strategically Commits to Europe with New Amsterdam Headquarters](https://horizon3.ai/news/press-release/horizon3-ai-opens-emea-headquarters-amsterdam/)
   - [CTEM Isn’t Failing. It’s Not Being Operationalized.](https://horizon3.ai/intelligence/blogs/ctem-isnt-failing-its-being-operationalized/)
-- Sandfly Security Blog RSS Feed
-  - [Sandfly 5.8 - Agentless Response and SSH Key Management](https://sandflysecurity.com/blog/sandfly-58-agentless-response-and-ssh-key-management)
-- Securelist
-  - [The Gentlemen are knocking: сustom backdoors and evolving tactics](https://securelist.com/the-gentlemen-raas/120447/)
 - Malwarebytes
   - [This pay gap is programmed (Lock and Code S07E13)](https://www.malwarebytes.com/blog/podcast/2026/06/this-pay-gap-is-programmed-lock-and-code-s07e13)
   - [119 Edge extensions promised useful tools, instead downloaded malware](https://www.malwarebytes.com/blog/news/2026/06/119-edge-extensions-promised-useful-tools-instead-downloaded-malware)
   - [A week in security (June 22 &#8211; June 28)](https://www.malwarebytes.com/blog/news/2026/06/a-week-in-security-june-22-june-28)
+- Securelist
+  - [The Gentlemen are knocking: сustom backdoors and evolving tactics](https://securelist.com/the-gentlemen-raas/120447/)
 - Intigriti
   - [Reconnaissance for exposure management: why context matters in the AI era](https://www.intigriti.com/blog/business-insights/reconnaissance-for-exposure-management-why-context-matters-in-the-ai-era)
-- daniel.haxx.se
-  - [Do excellent vulnerability reports](https://daniel.haxx.se/blog/2026/06/29/do-excellent-vulnerability-reports/)
 - Mozilla Security Blog
   - [Improving Transparency and Assurance in the Web PKI: Mozilla Root Store Policy v3.1](https://blog.mozilla.org/security/2026/06/29/improving-transparency-and-assurance-in-the-web-pki-mozilla-root-store-policy-v3-1/)
 - rtl-sdr.com
@@ -43,6 +41,8 @@
   - [FBI：俄罗斯黑客现在将目标对准 Signal 备份恢复密钥](http://0.0.0.0:8080/post/64398)
   - [数据泄露导致六家 ISP 高达 1420 万电子邮件登录信息暴露](http://0.0.0.0:8080/post/64397)
   - [乌克兰称俄罗斯情报机构利用虚假支持短信窃取消息应用凭据](http://0.0.0.0:8080/post/64396)
+- daniel.haxx.se
+  - [Do excellent vulnerability reports](https://daniel.haxx.se/blog/2026/06/29/do-excellent-vulnerability-reports/)
 - 奇客Solidot–传递最新科技情报
   - [世界各地的学生使用智能眼镜在考试中作弊](https://www.solidot.org/story?sid=84711)
   - [因 AI 未能达到预期福特公司重聘人类工程师](https://www.solidot.org/story?sid=84710)
@@ -56,69 +56,80 @@
   - [中国 AI 短剧生态](https://www.solidot.org/story?sid=84702)
   - [币安因未取得牌照停止在欧盟提供服务](https://www.solidot.org/story?sid=84701)
   - [苹果寻求从长鑫采购内存](https://www.solidot.org/story?sid=84700)
-- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [谷歌云将为科学研究提供专业AI模型](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E4%BA%91%E5%B0%86%E4%B8%BA%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%8F%90%E4%BE%9B%E4%B8%93%E4%B8%9AAI%E6%A8%A1%E5%9E%8B)
-  - [Rocket Lab豪掷80亿美元收购铱星通信](https://blog.upx8.com/Rocket-Lab%E8%B1%AA%E6%8E%B780%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%AD%E9%93%B1%E6%98%9F%E9%80%9A%E4%BF%A1)
-  - [WhatsApp将在几个月内逐步推出账号功能](https://blog.upx8.com/WhatsApp%E5%B0%86%E5%9C%A8%E5%87%A0%E4%B8%AA%E6%9C%88%E5%86%85%E9%80%90%E6%AD%A5%E6%8E%A8%E5%87%BA%E8%B4%A6%E5%8F%B7%E5%8A%9F%E8%83%BD)
+- 威努特安全网络
+  - [WinClaw新版本即将发布 10000个超级VIP限时开抢！](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651142582&idx=1&sn=81a95834a694c436c1fc94036d4a1987)
+- 安全内参
+  - [运营商巨头重大数据泄露：超1420万用户邮箱密码遭窃取](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516161&idx=1&sn=378b7571b26204c10e3eae83f606f952)
+  - [因网安与信息化问题，多家中央部门单位被国家审计署点名](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516161&idx=2&sn=597a5e0a3668d32d6ee18b4c0f065c4f)
 - 黑鸟
   - [把四款主流EDR的检测逻辑拆出来本地运行](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187465&idx=1&sn=50fbade6ea2e6c7eeb059e26fad2609f)
 - 代码卫士
   - [Pedit COW：通过投毒缓存二进制，获得根权限](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526443&idx=1&sn=0248c2f40eb99f883bab4a8b30dba2bf)
   - [DirtyClone: Linux 内核新漏洞，通过克隆的数据包获得根权限](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526443&idx=2&sn=c847b004b20a9d1f991dad8dcd81c7b4)
   - [Amazon 的AI编程助手高危漏洞可导致代码执行和敏感云环境访问](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526443&idx=3&sn=920c195bb40bbe944e31328e511161f6)
-- 威努特安全网络
-  - [WinClaw新版本即将发布 10000个超级VIP限时开抢！](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651142582&idx=1&sn=81a95834a694c436c1fc94036d4a1987)
-- 安全内参
-  - [运营商巨头重大数据泄露：超1420万用户邮箱密码遭窃取](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516161&idx=1&sn=378b7571b26204c10e3eae83f606f952)
-  - [因网安与信息化问题，多家中央部门单位被国家审计署点名](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516161&idx=2&sn=597a5e0a3668d32d6ee18b4c0f065c4f)
-- 安全客
-  - [【FDE前沿部署工程师】全国百城上岗计划二期来啦！](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790132&idx=1&sn=63a6ceb5693d788e3fa50aafc4df3365)
+- 看雪学苑
+  - [内核驱动级内存读写的用户层检测与绕过：一次攻防对抗实践](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617083&idx=1&sn=25328f992c00f12f2a64147433951b89)
+  - [对外开放听课｜科锐交流机制全新优化！随时到访、无需老师陪同](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617083&idx=2&sn=5723c80ed7ed0b3642c01be2c0c2ef08)
+  - [SSH客户端库曝高危0day：libssh2 PoC公开，或影响大量基础设施组件](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617083&idx=3&sn=0e7fd8aa645c5a5735b64692d3b16f01)
 - 天黑说嘿话
   - [拆解流量卡商家惯用营销套路](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486143&idx=1&sn=ad029e4d2f518b0f2627c22ed90d2746)
+- 奇安信 CERT
+  - [【已复现】Linux Kernel DirtyClone 本地权限提升漏洞(CVE-2026-43503)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506467&idx=1&sn=4289470a02c8bae44210c05cf1acff0b)
+- M01N Team
+  - [AI安全案例分析 | Miasma 蠕虫攻击微软 GitHub](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495259&idx=1&sn=adebb88353849918e5d284d45187fc02)
+- 微步在线
+  - [AI安全专家谭翔：权限才是AI Agent的安全边界](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186958&idx=1&sn=f64fb0c6c271cf7b1c281511be794411)
+- 安全客
+  - [【FDE前沿部署工程师】全国百城上岗计划二期来啦！](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790132&idx=1&sn=63a6ceb5693d788e3fa50aafc4df3365)
+- 安全圈
+  - [【安全圈】国产AI打赢Claude](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077594&idx=1&sn=558c88c53bd981a6aafdcfb71b418de4)
+  - [【安全圈】Amazon Q 漏洞使恶意代码仓库可窃取云凭据](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077594&idx=2&sn=40ec8125a630cd3027a7e95340a34fbc)
+  - [【安全圈】FBI：俄罗斯黑客现在将目标对准 Signal 备份恢复密钥](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077594&idx=3&sn=db11f41c05f81482706b2f3af32cd074)
 - 中国信息安全
   - [专题·智能体安全 | 构建智能体安全治理新范式：从行为规约到生态共治](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264132&idx=1&sn=095597c27fc476728a55848fe7872973)
   - [专家解读 | 王志成：加强金融信息服务数据分类分级管理 推动金融信息服务创新发展与数据安全良性互动](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264132&idx=2&sn=ffba261eca54584559b7a29911716765)
   - [教育部发布预警：保护个人信息，严防志愿被篡改](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264132&idx=3&sn=576e95ddda2999a74eb08353d2428c1d)
   - [观点 | 生成式人工智能服务提供者何以担责](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264132&idx=5&sn=bd552a7ff22dab0c6f09dac892416044)
-- 看雪学苑
-  - [内核驱动级内存读写的用户层检测与绕过：一次攻防对抗实践](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617083&idx=1&sn=25328f992c00f12f2a64147433951b89)
-  - [对外开放听课｜科锐交流机制全新优化！随时到访、无需老师陪同](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617083&idx=2&sn=5723c80ed7ed0b3642c01be2c0c2ef08)
-  - [SSH客户端库曝高危0day：libssh2 PoC公开，或影响大量基础设施组件](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617083&idx=3&sn=0e7fd8aa645c5a5735b64692d3b16f01)
-- 奇安信 CERT
-  - [【已复现】Linux Kernel DirtyClone 本地权限提升漏洞(CVE-2026-43503)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506467&idx=1&sn=4289470a02c8bae44210c05cf1acff0b)
-- 微步在线
-  - [AI安全专家谭翔：权限才是AI Agent的安全边界](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186958&idx=1&sn=f64fb0c6c271cf7b1c281511be794411)
-- 安全圈
-  - [【安全圈】国产AI打赢Claude](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077594&idx=1&sn=558c88c53bd981a6aafdcfb71b418de4)
-  - [【安全圈】Amazon Q 漏洞使恶意代码仓库可窃取云凭据](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077594&idx=2&sn=40ec8125a630cd3027a7e95340a34fbc)
-  - [【安全圈】FBI：俄罗斯黑客现在将目标对准 Signal 备份恢复密钥](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077594&idx=3&sn=db11f41c05f81482706b2f3af32cd074)
-- 数世咨询
-  - [重磅揭晓！第六届数字安全大会10大创新赛道领航者](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543395&idx=1&sn=fefd168e22566040daae67d7cdf226ca)
-- M01N Team
-  - [AI安全案例分析 | Miasma 蠕虫攻击微软 GitHub](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495259&idx=1&sn=adebb88353849918e5d284d45187fc02)
+- XCTF联赛
+  - [SekaiCTF 2026 落幕，TeamH4C 战队夺冠！](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516519&idx=1&sn=7b7ff0e42d743e9e4f3589c1dbb24ff1)
+- 安全牛
+  - [仅凭邮箱就能扒光个人信息，自动化情报工具威胁加剧](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141792&idx=1&sn=f0aaf2942083a7b4dd409e79745b0fc9)
+  - [美国恢复Claude Mythos 5部分权限，仅向关键基础设施开放；OpenAI发布GPT-5.6Sol：漏洞分析能力接近MythosPreview | 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141792&idx=2&sn=d6e10386465435365422e034e897cd47)
 - 极客公园
+  - [DeepSeek V4 正式版高峰价格翻倍；豆包上线「豆包导航」功能；三星、美光海力士被告「操纵内存价格」 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109596&idx=1&sn=958b7202797c0bc6a9bf044e63804525)
   - [Agent 刚拿到自己的邮箱和钱包，人类的收件箱已经挤爆了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109581&idx=1&sn=67af43eaf7d9a970e16cd87b7f12931a)
   - [这家公司用游戏训练机器人，估值 23 亿美元](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109577&idx=1&sn=edff9ead4e880bce425a0fc130d77e7f)
   - [马斯克：Grok4.5 性能或超 Opus；Fable 5 将于本周解禁；福特 CEO 承认：根本赢不了比亚迪 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109573&idx=1&sn=a18a288e5b41030c293de786dee092f9)
-- 斗象智能安全
-  - [2026攻防演练必修高危漏洞集合（2.0版）](https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495497&idx=1&sn=33725ee0f54802215be2a6e133622545)
-- Tide安全团队
-  - [编程AI的“相爱相杀”：谁更懂我的心？](https://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247522285&idx=1&sn=3d959e54ae3a9c0f88ccaa6f2ecd63cd)
 - 火绒安全
   - [火绒个人版6.0功能升级 | 右键管理、系统加固优化](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534835&idx=1&sn=9381d1aad56c5fe4e57e182a72f6d7f0)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534835&idx=2&sn=81bc4f522e649fc46a0595a67118b021)
 - 云鼎实验室
   - [Hacking World・跨界极客沙龙｜本周六深圳南山聚橙剧院见！](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497795&idx=1&sn=23019876a102764dc4cefb14d7f4f04b)
-- 深信服千里目安全技术中心
-  - [【漏洞通告】Linux Kernel Dirty Clone 权限提升漏洞(CVE-2026-43503)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526016&idx=1&sn=a6ec5b9eef9fc1828b48803fed9d4c82)
 - 字节跳动技术团队
   - [拒绝被剧透！解密大型赛事直播背后的超低延迟黑科技](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520583&idx=1&sn=a8fba97c653fa599633609fc7af090eb)
+- 数世咨询
+  - [重磅揭晓！第六届数字安全大会10大创新赛道领航者](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543395&idx=1&sn=fefd168e22566040daae67d7cdf226ca)
+- 深信服千里目安全技术中心
+  - [【漏洞通告】Linux Kernel Dirty Clone 权限提升漏洞(CVE-2026-43503)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526016&idx=1&sn=a6ec5b9eef9fc1828b48803fed9d4c82)
+- Tide安全团队
+  - [编程AI的“相爱相杀”：谁更懂我的心？](https://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247522285&idx=1&sn=3d959e54ae3a9c0f88ccaa6f2ecd63cd)
+- 斗象智能安全
+  - [2026攻防演练必修高危漏洞集合（2.0版）](https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495497&idx=1&sn=33725ee0f54802215be2a6e133622545)
+- Microsoft Security Blog
+  - [Chromium extension uses AI‑related branding to redirect browser search](https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/)
 - 墨菲安全
   - [某汽车电子企业：我们是怎么把 SCA 真正接入研发与发布流程的？](https://mp.weixin.qq.com/s?__biz=MzkwOTM0MjI5NQ==&mid=2247488513&idx=1&sn=b94fab7ca9acf3fbd79a086180c69c2d)
 - 360数字安全
   - [360发布“AI人才计划”，以ADE认证培养智能体工程化人才](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586401&idx=1&sn=311f374aae3a59a3d1240662c2d2d6b6)
+- CNVD漏洞平台
+  - [CNVD漏洞周报2026年第25期](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497061&idx=1&sn=3c4c3448f4b0231181a184a26520c420)
+  - [上周关注度较高的产品安全漏洞(20260622-20260628)](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497061&idx=2&sn=7e1c78eda535041347201571da7f530a)
+- ICT Security Magazine
+  - [Tokenizzazione: il dato più sicuro è quello che non si conserva](https://www.ictsecuritymagazine.com/cyber-security/tokenizzazione-protezione-dato/)
 - 迪哥讲事
   - [一个有意思的xss](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499614&idx=1&sn=1533a4b8a773f5019d9f22fb87cb1f73)
+- IT Service Management News
+  - [Articolo sulla diffusione della ISO/IEC 27001 in Italia](http://blog.cesaregallotti.it/2026/06/articolo-sulla-diffusione-della-isoiec.html)
 - Over Security
   - [Nissan discloses employee data breach linked to Oracle zero-day attacks](https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/)
   - [NAIC says public data stolen in ShinyHunters' PeopleSoft breach](https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/)
@@ -151,22 +162,21 @@
   - [UAE Cybersecurity Council Calls for Stronger Digital Footprint Protection](https://thecyberexpress.com/uae-cybersecurity-council-digital-footprints/)
   - [Government Website in India Taken Offline After Defacement Attack](https://thecyberexpress.com/mda-hack-meerut-development-authority/)
   - [ATM Jackpotting Gang Members Sentenced for Ploutus Malware Attacks](https://thecyberexpress.com/atm-jackpotting-malware-attackers/)
-- Microsoft Security Blog
-  - [Chromium extension uses AI‑related branding to redirect browser search](https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/)
-- IT Service Management News
-  - [Articolo sulla diffusione della ISO/IEC 27001 in Italia](http://blog.cesaregallotti.it/2026/06/articolo-sulla-diffusione-della-isoiec.html)
-- bellingcat
-  - [Satellite Imagery Shows Scale of Venezuela Earthquake Damage](https://www.bellingcat.com/news/2026/06/29/satellite-imagery-shows-scale-of-venezuela-earthquake-damage/)
-- CNVD漏洞平台
-  - [CNVD漏洞周报2026年第25期](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497061&idx=1&sn=3c4c3448f4b0231181a184a26520c420)
-  - [上周关注度较高的产品安全漏洞(20260622-20260628)](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497061&idx=2&sn=7e1c78eda535041347201571da7f530a)
-- ICT Security Magazine
-  - [Tokenizzazione: il dato più sicuro è quello che non si conserva](https://www.ictsecuritymagazine.com/cyber-security/tokenizzazione-protezione-dato/)
 - SANS Internet Storm Center, InfoCON: green
   - [Adding some Automation to the favicon.ico method of Host Recon, (Mon, Jun 29th)](https://isc.sans.edu/diary/rss/33110)
   - [ISC Stormcast For Monday, June 29th, 2026 https://isc.sans.edu/podcastdetail/9986, (Mon, Jun 29th)](https://isc.sans.edu/diary/rss/33108)
+- bellingcat
+  - [Satellite Imagery Shows Scale of Venezuela Earthquake Damage](https://www.bellingcat.com/news/2026/06/29/satellite-imagery-shows-scale-of-venezuela-earthquake-damage/)
 - Luca Mercatanti
   - [Conversazioni di ChatGPT come prova nel processo](https://luca-mercatanti.com/conversazioni-di-chatgpt-come-prova-nel-processo/?utm_source=rss&utm_medium=rss&utm_campaign=conversazioni-di-chatgpt-come-prova-nel-processo)
+- Schneier on Security
+  - [Factoring RSA Keys with Many Zeros](https://www.schneier.com/blog/archives/2026/06/factoring-rsa-keys-with-many-zeros.html)
+  - [Robot Police Officers](https://www.schneier.com/blog/archives/2026/06/robot-police-officers.html)
+- Security Affairs
+  - [WhatsApp Usernames Are Coming. You Can Reserve Yours Right Now](https://securityaffairs.com/194449/security/whatsapp-usernames-are-coming-you-can-reserve-yours-right-now.html)
+  - [U.S. Targets Russian Cyber Spies With $10M Bounty Over Messaging App Attacks](https://securityaffairs.com/194441/security/u-s-offers-10-million-reward-for-russian-hackers-behind-signal-and-whatsapp-phishing.html)
+  - [StegoAd: How 119 Fake Browser Extensions Stole Credentials and Ran Ad Fraud for Two Years](https://securityaffairs.com/194409/malware/stegoad-how-119-fake-browser-extensions-stole-credentials-and-ran-ad-fraud-for-two-years.html)
+  - [SSU and FBI Uncover Russian Cyber Espionage Operation Against Officials and Military Personnel](https://securityaffairs.com/194399/intelligence/ssu-and-fbi-uncover-russian-cyber-espionage-operation-against-officials-and-military-personnel.html)
 - The Hacker News
   - [Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input](https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html)
   - [WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private](https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html)
@@ -178,14 +188,6 @@
   - [Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts](https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html)
   - [Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw](https://thehackernews.com/2026/06/public-poc-released-for-critical.html)
   - [Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer](https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html)
-- Schneier on Security
-  - [Factoring RSA Keys with Many Zeros](https://www.schneier.com/blog/archives/2026/06/factoring-rsa-keys-with-many-zeros.html)
-  - [Robot Police Officers](https://www.schneier.com/blog/archives/2026/06/robot-police-officers.html)
-- Security Affairs
-  - [WhatsApp Usernames Are Coming. You Can Reserve Yours Right Now](https://securityaffairs.com/194449/security/whatsapp-usernames-are-coming-you-can-reserve-yours-right-now.html)
-  - [U.S. Targets Russian Cyber Spies With $10M Bounty Over Messaging App Attacks](https://securityaffairs.com/194441/security/u-s-offers-10-million-reward-for-russian-hackers-behind-signal-and-whatsapp-phishing.html)
-  - [StegoAd: How 119 Fake Browser Extensions Stole Credentials and Ran Ad Fraud for Two Years](https://securityaffairs.com/194409/malware/stegoad-how-119-fake-browser-extensions-stole-credentials-and-ran-ad-fraud-for-two-years.html)
-  - [SSU and FBI Uncover Russian Cyber Espionage Operation Against Officials and Military Personnel](https://securityaffairs.com/194399/intelligence/ssu-and-fbi-uncover-russian-cyber-espionage-operation-against-officials-and-military-personnel.html)
 - Deeplinks
   - [EFF to Gov. Pritzker: Veto Illinois’ HB 5511](https://www.eff.org/deeplinks/2026/06/eff-gov-pritzker-veto-illinois-hb-5511)
   - [Victory! Supreme Court Says Constitution Protects People’s Location Data](https://www.eff.org/deeplinks/2026/06/victory-supreme-court-says-constitution-protects-peoples-location-data)
