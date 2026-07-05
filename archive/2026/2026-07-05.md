@@ -1,58 +1,56 @@
 # 每日安全资讯（2026-07-05）
 
-- Armin Ronacher's Thoughts and Writings
-  - [Better Models: Worse Tools](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/)
-- SecWiki News
-  - [SecWiki News 2026-07-04 Review](http://www.sec-wiki.com/?2026-07-04)
 - Recent Commits to cve:main
   - [Update Sat Jul  4 12:10:21 UTC 2026](https://github.com/trickest/cve/commit/37b1587b9735b6fbac964eae6c43c20388cc13b2)
+- SecWiki News
+  - [SecWiki News 2026-07-04 Review](http://www.sec-wiki.com/?2026-07-04)
+- Armin Ronacher's Thoughts and Writings
+  - [Better Models: Worse Tools](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/)
 - VMRay
   - [Release Highlights: VMRay Platform 2026.3.0](https://www.vmray.com/release-highlights-vmray-platform-2026-3-0/)
-- Shostack & Friends Blog
-  - [The Unanimous Declaration of the Thirteen United States of America](https://shostack.org/blog/the-unanimous-declaration-of-the-thirteen-united-states-of-america-2026/)
+- 奇客Solidot–传递最新科技情报
+  - [火星岩石发现大量碳，来源未知](https://www.solidot.org/story?sid=84757)
+  - [仙女座发现新卫星星系](https://www.solidot.org/story?sid=84756)
+  - [全球极端热应激现象加剧](https://www.solidot.org/story?sid=84755)
 - 威努特安全网络
   - [突发！Claude被封杀！企业AI安全的底线到底在哪？](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651142797&idx=1&sn=f0c705d6bd86f0efa62aa748c26dd126)
   - [WinClaw新版本即将发布 10000个超级VIP限时开抢！](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651142797&idx=2&sn=b4c6ae5f6503ce97d26e0666fe639e7e)
   - [Agnes AI 值得尝试吗：注册、配置与实测体验。](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651142797&idx=3&sn=af16706957034804725d44a6bf8571bb)
 - 信安之路
   - [蜜罐抓到的几个 RCE 漏洞利用情报](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500609&idx=1&sn=7587d82df5f38fbecacec0e73313c22f)
-- 奇客Solidot–传递最新科技情报
-  - [火星岩石发现大量碳，来源未知](https://www.solidot.org/story?sid=84757)
-  - [仙女座发现新卫星星系](https://www.solidot.org/story?sid=84756)
-  - [全球极端热应激现象加剧](https://www.solidot.org/story?sid=84755)
-- 天黑说嘿话
-  - [十二年稳定经营！立刷POS机，商户长期收款优选](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486186&idx=1&sn=1b3b66a945566b5d95057181187897ce)
+- 安全分析与研究
+  - [对抗样本与模型鲁棒性](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496878&idx=1&sn=96d0204390122d7475b350f6538ba6be)
+- 绿盟科技研究通讯
+  - [AI与云安全事件案例分析周报｜2026.06.22 - 2026.07.03](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247500037&idx=1&sn=1d36d7551822cc52b4870486d4ca0f47)
 - 青衣十三楼飞花堂
   - [正方形ABCD边长为2，E在直线BC上，求AE/DE最大值](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489675&idx=1&sn=13ed09763e911d7f311b060c091958a6)
 - 中国信息安全
   - [公告 | 三部门就《金融业网络安全管理办法（征求意见稿）》公开征求意见](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264284&idx=1&sn=79a7bef31be81c79f20cd854c57d2372)
   - [关注 | 市场监管总局、商务部就《中华人民共和国电子商务法（修正草案征求意见稿）》面向社会公开征求意见](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264284&idx=2&sn=1a84b86183a8101d0f28aa4267d71b42)
   - [通知 | 国家数据局印发《数据产权登记工作指引（试行）》](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264284&idx=3&sn=573eb9299d6f9ecf0970950a76868038)
-- 奶牛安全
-  - [塔塔电子630g的地址找到了。](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489617&idx=1&sn=b9c464a833d9f168427449fa2dfdde11)
-- 绿盟科技研究通讯
-  - [AI与云安全事件案例分析周报｜2026.06.22 - 2026.07.03](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247500037&idx=1&sn=1d36d7551822cc52b4870486d4ca0f47)
-- 极客公园
-  - [存在 40 年的游戏光盘「被判死刑」，压垮它的最后一根稻草是 AI](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109816&idx=1&sn=3c17b04f7c3f71d5179f99df8e548afb)
-  - [比 AirPods 贵三倍的「睡眠耳机」，可能是最有用的 AI 硬件](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109810&idx=1&sn=78c431c3e309195c51f3cebe0f68c0c5)
-  - [阿里内部全面禁用 Claude Code；带摄像头 AirPods Pro 项目「暂停」；黄仁勋黑色皮夹克估价或超 40 万元｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109805&idx=1&sn=ca7070961531e9fc440cb3c140e0f2c7)
-- 天融信阿尔法实验室
-  - [【风险提示】天融信关于Linux Kernel本地权限提升漏洞CVE-2026-46242(Bad Epoll)的风险提示](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247496716&idx=1&sn=fc7a8879079acd68f4c7ba4266acadd7)
-- 安全分析与研究
-  - [对抗样本与模型鲁棒性](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496878&idx=1&sn=96d0204390122d7475b350f6538ba6be)
 - 看雪学苑
   - [libmsaoaidsec.so 检测体系分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617305&idx=1&sn=2b4dc7e501be6c5ae2f4e35487a8e8e3)
+- 奶牛安全
+  - [塔塔电子630g的地址找到了。](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489617&idx=1&sn=b9c464a833d9f168427449fa2dfdde11)
 - 安全圈
   - [【安全圈】Linux惊现"Bad Epoll"零日漏洞，服务器和安卓均中招](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077654&idx=1&sn=a686c79c41874b66d1f9e9ea4bf7abf7)
   - [【安全圈】今天是deadline！微软SharePoint高危漏洞正在被疯狂利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077654&idx=2&sn=1ab239e93225350d7a4fd85eaf6f1aa2)
   - [【安全圈】FortiBleed 凭证窃取活动与 Lynx 勒索软件有关联](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077654&idx=3&sn=1364c56512bff2a13e2fe37aa40b0f27)
-- BorderGate
-  - [Bypassing Client Side Controls](https://www.bordergate.co.uk/bypassing-client-side-controls/)
-- Security Affairs
-  - [U.S. Government Agency Paid $1M to Data Extortion Group Kairos](https://securityaffairs.com/194750/security/u-s-government-agency-paid-1m-to-data-extortion-group-kairos.html)
-  - [FBI: TeamPCP Compromised Dev Tools to Steal Cloud Credentials](https://securityaffairs.com/194741/cyber-crime/fbi-teampcp-compromised-dev-tools-to-steal-cloud-credentials.html)
+- 极客公园
+  - [存在 40 年的游戏光盘「被判死刑」，压垮它的最后一根稻草是 AI](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109816&idx=1&sn=3c17b04f7c3f71d5179f99df8e548afb)
+  - [比 AirPods 贵三倍的「睡眠耳机」，可能是最有用的 AI 硬件](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109810&idx=1&sn=78c431c3e309195c51f3cebe0f68c0c5)
+  - [阿里内部全面禁用 Claude Code；带摄像头 AirPods Pro 项目「暂停」；黄仁勋黑色皮夹克估价或超 40 万元｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109805&idx=1&sn=ca7070961531e9fc440cb3c140e0f2c7)
+- 天黑说嘿话
+  - [十二年稳定经营！立刷POS机，商户长期收款优选](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486186&idx=1&sn=1b3b66a945566b5d95057181187897ce)
+- 天融信阿尔法实验室
+  - [【风险提示】天融信关于Linux Kernel本地权限提升漏洞CVE-2026-46242(Bad Epoll)的风险提示](https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247496716&idx=1&sn=fc7a8879079acd68f4c7ba4266acadd7)
+- ICT Security Magazine
+  - [Identità non umane: proteggere segreti, token e service account](https://www.ictsecuritymagazine.com/digital-id-security/identita-non-umane-2/)
 - The Hacker News
   - [U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case](https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html)
   - [North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign](https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html)
-- ICT Security Magazine
-  - [Identità non umane: proteggere segreti, token e service account](https://www.ictsecuritymagazine.com/digital-id-security/identita-non-umane-2/)
+- Security Affairs
+  - [U.S. Government Agency Paid $1M to Data Extortion Group Kairos](https://securityaffairs.com/194750/security/u-s-government-agency-paid-1m-to-data-extortion-group-kairos.html)
+  - [FBI: TeamPCP Compromised Dev Tools to Steal Cloud Credentials](https://securityaffairs.com/194741/cyber-crime/fbi-teampcp-compromised-dev-tools-to-steal-cloud-credentials.html)
+- BorderGate
+  - [Bypassing Client Side Controls](https://www.bordergate.co.uk/bypassing-client-side-controls/)
