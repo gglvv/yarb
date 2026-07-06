@@ -17,48 +17,45 @@
   - [The Internet’s Dirty Little Secret: Anyone Can Investigate Anyone — and Here Are 20 Free Tools to…](https://infosecwriteups.com/the-internets-dirty-little-secret-anyone-can-investigate-anyone-and-here-are-20-free-tools-to-344536a7e606?source=rss----7b722bfd1b8d---4)
 - Recent Commits to cve:main
   - [Update Sun Jul  5 12:05:00 UTC 2026](https://github.com/trickest/cve/commit/fdabb950c020c5761c70982da454c73eee25c92b)
-- 皮相
-  - [阿图因 AI 在 CyberGym 测试中超过了 Mythos，不过这只是拼图的一部分](https://mp.weixin.qq.com/s?__biz=MzI0NDA5MDYyNA==&mid=2648257333&idx=1&sn=56dd46b9d6783e2e04e1308d4001b056)
+- 黑鸟
+  - [针对欧洲议员的Pegasus间谍软件的苹果手机活动痕迹](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187558&idx=1&sn=a7f4a608b7543b99e9e2f4fea3f3b30b)
+  - [把系统提示和工具文档转成图片，Claude输入Token大幅降低](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187558&idx=2&sn=0959bed12a97227a20ef5c32a3f3c69f)
+- 奇客Solidot–传递最新科技情报
+  - [微软将利润转移到低税国家](https://www.solidot.org/story?sid=84760)
+  - [ReactOS 能运行 Half-Life 2](https://www.solidot.org/story?sid=84759)
+  - [巨树能轻松将水输送到树冠](https://www.solidot.org/story?sid=84758)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [阿里巴巴集团获美法官暂缓游说禁令](https://blog.upx8.com/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E9%9B%86%E5%9B%A2%E8%8E%B7%E7%BE%8E%E6%B3%95%E5%AE%98%E6%9A%82%E7%BC%93%E6%B8%B8%E8%AF%B4%E7%A6%81%E4%BB%A4)
   - [中国对科研成果海外发表热情降温](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%AF%B9%E7%A7%91%E7%A0%94%E6%88%90%E6%9E%9C%E6%B5%B7%E5%A4%96%E5%8F%91%E8%A1%A8%E7%83%AD%E6%83%85%E9%99%8D%E6%B8%A9)
   - [朝鲜金正恩观摩“姜健”号驱逐舰导弹试射](https://blog.upx8.com/%E6%9C%9D%E9%B2%9C%E9%87%91%E6%AD%A3%E6%81%A9%E8%A7%82%E6%91%A9-%E5%A7%9C%E5%81%A5-%E5%8F%B7%E9%A9%B1%E9%80%90%E8%88%B0%E5%AF%BC%E5%BC%B9%E8%AF%95%E5%B0%84)
   - [美国能源部删除六千个与能源节约相关网页](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E8%83%BD%E6%BA%90%E9%83%A8%E5%88%A0%E9%99%A4%E5%85%AD%E5%8D%83%E4%B8%AA%E4%B8%8E%E8%83%BD%E6%BA%90%E8%8A%82%E7%BA%A6%E7%9B%B8%E5%85%B3%E7%BD%91%E9%A1%B5)
-  - [印度政府对Telegram下达15天整改通知 要求对盗版频道采取行动](https://blog.upx8.com/%E5%8D%B0%E5%BA%A6%E6%94%BF%E5%BA%9C%E5%AF%B9Telegram%E4%B8%8B%E8%BE%BE15%E5%A4%A9%E6%95%B4%E6%94%B9%E9%80%9A%E7%9F%A5-%E8%A6%81%E6%B1%82%E5%AF%B9%E7%9B%97%E7%89%88%E9%A2%91%E9%81%93%E9%87%87%E5%8F%96%E8%A1%8C%E5%8A%A8)
-  - [中国航天初创公司探索用二氧化碳推进火箭发射](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%E6%8E%A2%E7%B4%A2%E7%94%A8%E4%BA%8C%E6%B0%A7%E5%8C%96%E7%A2%B3%E6%8E%A8%E8%BF%9B%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84)
-  - [燃油危机冲击 俄罗斯出现中国电动车抢购潮](https://blog.upx8.com/%E7%87%83%E6%B2%B9%E5%8D%B1%E6%9C%BA%E5%86%B2%E5%87%BB-%E4%BF%84%E7%BD%97%E6%96%AF%E5%87%BA%E7%8E%B0%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%8A%A2%E8%B4%AD%E6%BD%AE)
-  - [美国三座新私营微型核反应堆达成“临界”状态](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E4%B8%89%E5%BA%A7%E6%96%B0%E7%A7%81%E8%90%A5%E5%BE%AE%E5%9E%8B%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E8%BE%BE%E6%88%90-%E4%B8%B4%E7%95%8C-%E7%8A%B6%E6%80%81)
-  - [救援飞船发射升空 防NASA雨燕天文台坠落](https://blog.upx8.com/%E6%95%91%E6%8F%B4%E9%A3%9E%E8%88%B9%E5%8F%91%E5%B0%84%E5%8D%87%E7%A9%BA-%E9%98%B2NASA%E9%9B%A8%E7%87%95%E5%A4%A9%E6%96%87%E5%8F%B0%E5%9D%A0%E8%90%BD)
-- 安全分析与研究
-  - [数据投毒与后门攻击](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496882&idx=1&sn=9ea4bb1235d7579070450a80e7b64be9)
+- 皮相
+  - [阿图因 AI 在 CyberGym 测试中超过了 Mythos，不过这只是拼图的一部分](https://mp.weixin.qq.com/s?__biz=MzI0NDA5MDYyNA==&mid=2648257333&idx=1&sn=56dd46b9d6783e2e04e1308d4001b056)
 - 丁爸 情报分析师的工具箱
   - [【资料】伊朗国家媒体与国内网络如何在美国本土驱动影响力行动](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156449&idx=1&sn=b465f22dee2c94a47635f16f190152fa)
-- 天黑说嘿话
-  - [【88vip高返助手使用攻略】购物返利机器人，支持淘宝、京东、拼多多、抖音、唯品会等平台领隐藏优惠~](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486191&idx=1&sn=02a540655d06228020c8d65604156fa4)
-- 黑鸟
-  - [针对欧洲议员的Pegasus间谍软件的苹果手机活动痕迹](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187558&idx=1&sn=a7f4a608b7543b99e9e2f4fea3f3b30b)
-  - [把系统提示和工具文档转成图片，Claude输入Token大幅降低](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187558&idx=2&sn=0959bed12a97227a20ef5c32a3f3c69f)
+- 安全分析与研究
+  - [数据投毒与后门攻击](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496882&idx=1&sn=9ea4bb1235d7579070450a80e7b64be9)
+- 我的安全视界观
+  - [混沌模式下的研发安全解决之道](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487755&idx=1&sn=0a7a7b846f87cc64c28a7c3e9f1a60d3)
 - 安全圈
   - [【安全圈】2026年上半年网络安全事件盘点](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077708&idx=1&sn=2f6049007afc7ed092fe6433dc292706)
   - [【安全圈】6 月高危漏洞数量暴涨](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077708&idx=2&sn=0f773845ae723911c9ff2e5798a2c063)
   - [【安全圈】Linux本地权限提升漏洞「Bad Epoll」曝光：CVSS 7.8](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077708&idx=3&sn=864b0445b461bd238e8f78e65a4e38ec)
-- 奇客Solidot–传递最新科技情报
-  - [微软将利润转移到低税国家](https://www.solidot.org/story?sid=84760)
-  - [ReactOS 能运行 Half-Life 2](https://www.solidot.org/story?sid=84759)
-  - [巨树能轻松将水输送到树冠](https://www.solidot.org/story?sid=84758)
+- 天黑说嘿话
+  - [【88vip高返助手使用攻略】购物返利机器人，支持淘宝、京东、拼多多、抖音、唯品会等平台领隐藏优惠~](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486191&idx=1&sn=02a540655d06228020c8d65604156fa4)
+- 青衣十三楼飞花堂
+  - [用PDFPatcher为没有书签的PDF制作书签](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489676&idx=1&sn=861b1af8084e5d023bbc066130274e20)
 - 极客公园
   - [6 月最「有活儿」的 AI 硬件：手摇发电的「实体 GPT」、会织毛绒的打印机 、自动跟拍摄影机器人](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109841&idx=1&sn=ec3b208b6e7961f400ab9ece042b0267)
   - [赛博菩萨 Cloudflare，AI 爬虫最严厉的父亲](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109834&idx=1&sn=440d714cf0506c1fad9a3789c7594157)
   - [iPhone 18 Pro 配史上最大电池；豆包、千问将下线智能体功能；Fable 5 降智严重，频繁降级 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109832&idx=1&sn=099049238bd91e04636f7962e4e3d765)
-- 青衣十三楼飞花堂
-  - [用PDFPatcher为没有书签的PDF制作书签](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489676&idx=1&sn=861b1af8084e5d023bbc066130274e20)
-- Arturo Di Corinto
-  - [Intervista Vip con Arturo Di Corinto, Giornalista Saggista Docente de La Sapienza di Roma](https://dicorinto.it/articoli/recensioni/intervista-vip-con-arturo-di-corinto-giornalista-saggista-docente-de-la-sapienza-di-roma/)
 - ICT Security Magazine
   - [Account takeover: non è un attacco, è una catena di montaggio](https://www.ictsecuritymagazine.com/notizie/account-takeover/)
+- Dark Space Blogspot
+  - [Come Contattare L' Assistenza Amazon: Chat, Chiamata, Mail](http://darkwhite666.blogspot.com/2026/07/come-contattare-l-assistenza-amazon.html)
+- Arturo Di Corinto
+  - [Intervista Vip con Arturo Di Corinto, Giornalista Saggista Docente de La Sapienza di Roma](https://dicorinto.it/articoli/recensioni/intervista-vip-con-arturo-di-corinto-giornalista-saggista-docente-de-la-sapienza-di-roma/)
 - Security Affairs
   - [Medtronic Notifies 3.8 Million After ShinyHunters Data Breach](https://securityaffairs.com/194788/cyber-crime/medtronic-notifies-3-8-million-after-shinyhunters-data-breach.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 104](https://securityaffairs.com/194785/uncategorized/security-affairs-malware-newsletter-round-104.html)
   - [Security Affairs newsletter Round 584 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/194772/security/security-affairs-newsletter-round-584-by-pierluigi-paganini-international-edition.html)
-- Dark Space Blogspot
-  - [Come Contattare L' Assistenza Amazon: Chat, Chiamata, Mail](http://darkwhite666.blogspot.com/2026/07/come-contattare-l-assistenza-amazon.html)
