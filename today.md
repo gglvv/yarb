@@ -1,13 +1,13 @@
 # 每日安全资讯（2026-07-06）
 
-- Recent Commits to cve:main
-  - [Update Sun Jul  5 12:05:00 UTC 2026](https://github.com/trickest/cve/commit/fdabb950c020c5761c70982da454c73eee25c92b)
-- SecWiki News
-  - [SecWiki News 2026-07-05 Review](http://www.sec-wiki.com/?2026-07-05)
 - InfoSec Write-ups - Medium
   - [TryHackMe CTF Writeup of Hidden Deep Into my Heart](https://infosecwriteups.com/tryhackme-ctf-writeup-of-hidden-deep-into-my-heart-a6624334a4b0?source=rss----7b722bfd1b8d---4)
+- Recent Commits to cve:main
+  - [Update Sun Jul  5 12:05:00 UTC 2026](https://github.com/trickest/cve/commit/fdabb950c020c5761c70982da454c73eee25c92b)
 - ArthurChiao's Blog
   - [[译] 大模型训练的中场叙事：从 Reasoning Thinking 转向 Agentic Thinking (2026)](https://arthurchiao.art/blog/from-reasoning-thinking-to-agentic-thinking-zh/)
+- SecWiki News
+  - [SecWiki News 2026-07-05 Review](http://www.sec-wiki.com/?2026-07-05)
 - Quarkslab's blog
   - [Cortex Security Audit](http://blog.quarkslab.com/cortex-security-audit.html)
 - 奇客Solidot–传递最新科技情报
@@ -19,14 +19,14 @@
   - [把系统提示和工具文档转成图片，Claude输入Token大幅降低](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187558&idx=2&sn=0959bed12a97227a20ef5c32a3f3c69f)
 - 皮相
   - [阿图因 AI 在 CyberGym 测试中超过了 Mythos，不过这只是拼图的一部分](https://mp.weixin.qq.com/s?__biz=MzI0NDA5MDYyNA==&mid=2648257333&idx=1&sn=56dd46b9d6783e2e04e1308d4001b056)
-- 我的安全视界观
-  - [混沌模式下的研发安全解决之道](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487755&idx=1&sn=0a7a7b846f87cc64c28a7c3e9f1a60d3)
 - 青衣十三楼飞花堂
   - [用PDFPatcher为没有书签的PDF制作书签](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489676&idx=1&sn=861b1af8084e5d023bbc066130274e20)
 - 天黑说嘿话
   - [【88vip高返助手使用攻略】购物返利机器人，支持淘宝、京东、拼多多、抖音、唯品会等平台领隐藏优惠~](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486191&idx=1&sn=02a540655d06228020c8d65604156fa4)
 - 安全分析与研究
   - [数据投毒与后门攻击](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496882&idx=1&sn=9ea4bb1235d7579070450a80e7b64be9)
+- 我的安全视界观
+  - [混沌模式下的研发安全解决之道](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487755&idx=1&sn=0a7a7b846f87cc64c28a7c3e9f1a60d3)
 - 丁爸 情报分析师的工具箱
   - [【竞赛通知】第四届全国大学生开源情报数据采集与分析挑战专项](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156459&idx=1&sn=62c769cf3e33220b19e4a144724740c8)
   - [【AI速报】GitHub上星标数量排名前100的AI工具](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156459&idx=2&sn=a494f0f5e6e1a2984b156e8b61d52225)
@@ -41,10 +41,10 @@
   - [iPhone 18 Pro 配史上最大电池；豆包、千问将下线智能体功能；Fable 5 降智严重，频繁降级 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109832&idx=1&sn=099049238bd91e04636f7962e4e3d765)
 - Arturo Di Corinto
   - [Intervista Vip con Arturo Di Corinto, Giornalista Saggista Docente de La Sapienza di Roma](https://dicorinto.it/articoli/recensioni/intervista-vip-con-arturo-di-corinto-giornalista-saggista-docente-de-la-sapienza-di-roma/)
-- Dark Space Blogspot
-  - [Come Contattare L' Assistenza Amazon: Chat, Chiamata, Mail](http://darkwhite666.blogspot.com/2026/07/come-contattare-l-assistenza-amazon.html)
 - ICT Security Magazine
   - [Account takeover: non è un attacco, è una catena di montaggio](https://www.ictsecuritymagazine.com/notizie/account-takeover/)
+- Dark Space Blogspot
+  - [Come Contattare L' Assistenza Amazon: Chat, Chiamata, Mail](http://darkwhite666.blogspot.com/2026/07/come-contattare-l-assistenza-amazon.html)
 - Security Affairs
   - [Medtronic Notifies 3.8 Million After ShinyHunters Data Breach](https://securityaffairs.com/194788/cyber-crime/medtronic-notifies-3-8-million-after-shinyhunters-data-breach.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 104](https://securityaffairs.com/194785/uncategorized/security-affairs-malware-newsletter-round-104.html)
