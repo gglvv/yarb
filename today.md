@@ -1,13 +1,15 @@
 # 每日安全资讯（2026-07-06）
 
-- Recent Commits to cve:main
-  - [Update Sun Jul  5 12:05:00 UTC 2026](https://github.com/trickest/cve/commit/fdabb950c020c5761c70982da454c73eee25c92b)
 - SecWiki News
   - [SecWiki News 2026-07-05 Review](http://www.sec-wiki.com/?2026-07-05)
-- ArthurChiao's Blog
-  - [[译] 大模型训练的中场叙事：从 Reasoning Thinking 转向 Agentic Thinking (2026)](https://arthurchiao.art/blog/from-reasoning-thinking-to-agentic-thinking-zh/)
+- Recent Commits to cve:main
+  - [Update Sun Jul  5 12:05:00 UTC 2026](https://github.com/trickest/cve/commit/fdabb950c020c5761c70982da454c73eee25c92b)
 - InfoSec Write-ups - Medium
   - [TryHackMe CTF Writeup of Hidden Deep Into my Heart](https://infosecwriteups.com/tryhackme-ctf-writeup-of-hidden-deep-into-my-heart-a6624334a4b0?source=rss----7b722bfd1b8d---4)
+- ArthurChiao's Blog
+  - [[译] 大模型训练的中场叙事：从 Reasoning Thinking 转向 Agentic Thinking (2026)](https://arthurchiao.art/blog/from-reasoning-thinking-to-agentic-thinking-zh/)
+- Quarkslab's blog
+  - [Cortex Security Audit](http://blog.quarkslab.com/cortex-security-audit.html)
 - 奇客Solidot–传递最新科技情报
   - [微软将利润转移到低税国家](https://www.solidot.org/story?sid=84760)
   - [ReactOS 能运行 Half-Life 2](https://www.solidot.org/story?sid=84759)
@@ -17,22 +19,22 @@
 - 黑鸟
   - [针对欧洲议员的Pegasus间谍软件的苹果手机活动痕迹](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187558&idx=1&sn=a7f4a608b7543b99e9e2f4fea3f3b30b)
   - [把系统提示和工具文档转成图片，Claude输入Token大幅降低](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187558&idx=2&sn=0959bed12a97227a20ef5c32a3f3c69f)
-- 安全分析与研究
-  - [数据投毒与后门攻击](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496882&idx=1&sn=9ea4bb1235d7579070450a80e7b64be9)
 - 我的安全视界观
   - [混沌模式下的研发安全解决之道](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487755&idx=1&sn=0a7a7b846f87cc64c28a7c3e9f1a60d3)
-- 丁爸 情报分析师的工具箱
-  - [【竞赛通知】第四届全国大学生开源情报数据采集与分析挑战专项](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156459&idx=1&sn=62c769cf3e33220b19e4a144724740c8)
-  - [【AI速报】GitHub上星标数量排名前100的AI工具](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156459&idx=2&sn=a494f0f5e6e1a2984b156e8b61d52225)
-  - [【资料】伊朗国家媒体与国内网络如何在美国本土驱动影响力行动](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156449&idx=1&sn=b465f22dee2c94a47635f16f190152fa)
 - 青衣十三楼飞花堂
   - [用PDFPatcher为没有书签的PDF制作书签](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489676&idx=1&sn=861b1af8084e5d023bbc066130274e20)
+- 安全分析与研究
+  - [数据投毒与后门攻击](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496882&idx=1&sn=9ea4bb1235d7579070450a80e7b64be9)
 - 安全圈
   - [【安全圈】2026年上半年网络安全事件盘点](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077708&idx=1&sn=2f6049007afc7ed092fe6433dc292706)
   - [【安全圈】6 月高危漏洞数量暴涨](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077708&idx=2&sn=0f773845ae723911c9ff2e5798a2c063)
   - [【安全圈】Linux本地权限提升漏洞「Bad Epoll」曝光：CVSS 7.8](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077708&idx=3&sn=864b0445b461bd238e8f78e65a4e38ec)
 - 天黑说嘿话
   - [【88vip高返助手使用攻略】购物返利机器人，支持淘宝、京东、拼多多、抖音、唯品会等平台领隐藏优惠~](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486191&idx=1&sn=02a540655d06228020c8d65604156fa4)
+- 丁爸 情报分析师的工具箱
+  - [【竞赛通知】第四届全国大学生开源情报数据采集与分析挑战专项](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156459&idx=1&sn=62c769cf3e33220b19e4a144724740c8)
+  - [【AI速报】GitHub上星标数量排名前100的AI工具](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156459&idx=2&sn=a494f0f5e6e1a2984b156e8b61d52225)
+  - [【资料】伊朗国家媒体与国内网络如何在美国本土驱动影响力行动](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156449&idx=1&sn=b465f22dee2c94a47635f16f190152fa)
 - 极客公园
   - [6 月最「有活儿」的 AI 硬件：手摇发电的「实体 GPT」、会织毛绒的打印机 、自动跟拍摄影机器人](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109841&idx=1&sn=ec3b208b6e7961f400ab9ece042b0267)
   - [赛博菩萨 Cloudflare，AI 爬虫最严厉的父亲](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109834&idx=1&sn=440d714cf0506c1fad9a3789c7594157)
@@ -41,9 +43,9 @@
   - [Intervista Vip con Arturo Di Corinto, Giornalista Saggista Docente de La Sapienza di Roma](https://dicorinto.it/articoli/recensioni/intervista-vip-con-arturo-di-corinto-giornalista-saggista-docente-de-la-sapienza-di-roma/)
 - ICT Security Magazine
   - [Account takeover: non è un attacco, è una catena di montaggio](https://www.ictsecuritymagazine.com/notizie/account-takeover/)
-- Dark Space Blogspot
-  - [Come Contattare L' Assistenza Amazon: Chat, Chiamata, Mail](http://darkwhite666.blogspot.com/2026/07/come-contattare-l-assistenza-amazon.html)
 - Security Affairs
   - [Medtronic Notifies 3.8 Million After ShinyHunters Data Breach](https://securityaffairs.com/194788/cyber-crime/medtronic-notifies-3-8-million-after-shinyhunters-data-breach.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 104](https://securityaffairs.com/194785/uncategorized/security-affairs-malware-newsletter-round-104.html)
   - [Security Affairs newsletter Round 584 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/194772/security/security-affairs-newsletter-round-584-by-pierluigi-paganini-international-edition.html)
+- Dark Space Blogspot
+  - [Come Contattare L' Assistenza Amazon: Chat, Chiamata, Mail](http://darkwhite666.blogspot.com/2026/07/come-contattare-l-assistenza-amazon.html)
