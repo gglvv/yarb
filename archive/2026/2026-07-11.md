@@ -2,19 +2,19 @@
 
 - Recent Commits to cve:main
   - [Update Fri Jul 10 12:04:58 UTC 2026](https://github.com/trickest/cve/commit/acdddb970ff6ed889f10005ae7aa57fcbcb8c31d)
+- Paper - 知道创宇404实验室
+  - [认知防火墙：一种面向LLM安全的主动式、零信任、多门控框架](https://paper.seebug.org/3499)
 - SecWiki News
   - [SecWiki News 2026-07-10 Review](http://www.sec-wiki.com/?2026-07-10)
-- Microsoft Security Blog
-  - [Securing our future: July 2026 progress report on Microsoft’s Secure Future Initiative](https://www.microsoft.com/en-us/security/blog/2026/07/10/securing-our-future-july-2026-progress-report-on-microsofts-secure-future-initiative/)
 - 安全客-有思想的安全新媒体
   - [智能体面临的十大安全风险问题](https://www.anquanke.com/post/id/315781)
   - [紧急！医疗巨头美敦力遭黑客入侵，患者隐私数据大规模外泄，这些坑普通人千万别踩](https://www.anquanke.com/post/id/315767)
   - [伊朗黑客组织亮出"秘密武器"：Cavern C2框架如何绕过所有安全检测](https://www.anquanke.com/post/id/315763)
   - [630GB机密挂上暗网：苹果二十年供应链铁幕一夜崩塌](https://www.anquanke.com/post/id/315760)
+- Microsoft Security Blog
+  - [Securing our future: July 2026 progress report on Microsoft’s Secure Future Initiative](https://www.microsoft.com/en-us/security/blog/2026/07/10/securing-our-future-july-2026-progress-report-on-microsofts-secure-future-initiative/)
 - ElcomSoft blog
   - [Four Tools, One Workflow: Using Elcomsoft Desktop Forensic Tools on the Same Case](https://blog.elcomsoft.com/2026/07/four-tools-one-workflow-using-elcomsoft-desktop-forensic-tools-on-the-same-case/)
-- Paper - 知道创宇404实验室
-  - [认知防火墙：一种面向LLM安全的主动式、零信任、多门控框架](https://paper.seebug.org/3499)
 - 小刀志
   - [分析笔记：MS17-017 中的整数溢出漏洞](https://xiaodaozhi.com/exploit/70.html)
 - Malwarebytes
@@ -25,12 +25,6 @@
   - [The Good, the Bad and the Ugly in Cybersecurity – Week 28](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-28-8/)
 - Offensive Security Blog: Latest Trends in Hacking | Praetorian
   - [Bluetooth Low Energy Security Testing, Consolidated: Introducing Caeruleus](https://www.praetorian.com/blog/ble-testing-caeruleus/)
-- HackerNews
-  - [新 Helix 语音钓鱼团伙现身，发起 SharePoint 数据窃取攻击](http://0.0.0.0:8080/post/64451)
-  - [微软预计 AI 发现漏洞将带来更多 Windows 安全更新](http://0.0.0.0:8080/post/64450)
-  - [npm 上的 Injective SDK 被植入加密货币钱包窃取器](http://0.0.0.0:8080/post/64449)
-  - [15 年历史的 Linux 漏洞"GhostLock"为研究人员赢得 Google 9.2 万美元奖金](http://0.0.0.0:8080/post/64448)
-  - [INTERPOL"第一缕光"行动抓获 5,811 人，查获 2.93 亿美元](http://0.0.0.0:8080/post/64447)
 - 绿盟科技技术博客
   - [标准赋能产业 技术引领发展 | 绿盟科技5项国标参编成果落地](https://blog.nsfocus.net/%e6%a0%87%e5%87%86%e8%b5%8b%e8%83%bd%e4%ba%a7%e4%b8%9a-%e6%8a%80%e6%9c%af%e5%bc%95%e9%a2%86%e5%8f%91%e5%b1%95-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%805%e9%a1%b9%e5%9b%bd%e6%a0%87%e5%8f%82%e7%bc%96/)
 - 奇客Solidot–传递最新科技情报
@@ -44,99 +38,106 @@
   - [美国国会调查美国公司使用中国 AI 模型](https://www.solidot.org/story?sid=84796)
 - 腾讯玄武实验室
   - [每日安全动态推送(26/7/10)](https://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&mid=2651960521&idx=1&sn=6e0a9645ec49931b41fcdc03f914e872)
-- 黑鸟
-  - [以色列网安公司将信息窃取程序发布至NPM](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187638&idx=1&sn=70d61e54a92f741faf5ff5131847ef41)
 - vivo千镜
   - [vivo亮相2026 ITU AI for Good全球峰会，端侧智能安全方案获全球认可](https://mp.weixin.qq.com/s?__biz=MzI0Njg4NzE3MQ==&mid=2247492336&idx=1&sn=3a286914db925b84245d7d6f0e4c19e4)
-- 同程旅行安全应急响应中心
-  - [关于暂停接收同程旅行旗下子公司业务漏洞公告](https://mp.weixin.qq.com/s?__biz=MzI4MzI4MDg1NA==&mid=2247485439&idx=1&sn=7519d22f53a5544d65e90a280e73a7a9)
-- 代码卫士
-  - [微软修复可获得系统权限的 RoguePlanet Defender 漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526598&idx=1&sn=d941c2cb5c34c57f75d892d6de97004a)
-  - [PAN-OS 高危缓冲溢出漏洞可导致任意代码执行](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526598&idx=2&sn=10c96c869a77aaf19ae7c16ff0c786cf)
+- 黑鸟
+  - [以色列网安公司将信息窃取程序发布至NPM](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187638&idx=1&sn=70d61e54a92f741faf5ff5131847ef41)
 - 安全内参
   - [AI重塑网络威胁！孤狼黑客3天攻破跨国企业复杂云环境](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516248&idx=1&sn=f593ae42b73f230b52441d760fdf1742)
   - [美国家安全局重启精英黑客部门“特定入侵行动办公室 (TAO)”](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516248&idx=2&sn=dfd00885f9dfbdd9bc373f9031256682)
-- 威努特安全网络
-  - [威努特主机卫士：铸就主机安全坚盾，抵御潜在风险浪潮](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651142955&idx=1&sn=24ea38b82f4993a4ddddfd49d1f6a250)
-  - [WinClaw新版本即将发布 10000个超级VIP限时开抢！](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651142955&idx=2&sn=0903ab8c26d00f666454858ee49a9e56)
+- 奇安信 CERT
+  - [安全热点周报：Adobe ColdFusion 曝高危漏洞，披露后两小时内即遭利用](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506579&idx=1&sn=91e99060ffe9719d45562a11733bdd78)
 - 奶牛安全
   - [数据泄露情报2026.7.10 - 一个宝藏网站，以前泄露的数据大合集，近TB容量](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489690&idx=1&sn=1520658dd517e0064af7780b987204da)
 - 安全客
   - [伊朗黑客组织亮出"秘密武器"：Cavern C2框架如何绕过所有安全检测](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790210&idx=1&sn=0cd708e9420b47934d5d306daa5cad27)
+- 同程旅行安全应急响应中心
+  - [关于暂停接收同程旅行旗下子公司业务漏洞公告](https://mp.weixin.qq.com/s?__biz=MzI4MzI4MDg1NA==&mid=2247485439&idx=1&sn=7519d22f53a5544d65e90a280e73a7a9)
 - 绿盟科技研究通讯
   - [【公益译文】2026年AI指数报告（七）](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247500053&idx=1&sn=c1a0242d4e9456a0e7d541945613de0c)
-- 奇安信威胁情报中心
-  - [每周高级威胁情报解读(2026.07.03~07.09)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519446&idx=1&sn=39363017dfe98b8f8467648604198d9a)
-- 天黑说嘿话
-  - [AI安全成为部署先决条件](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486215&idx=1&sn=d286082822a44540cc76914e964f4b80)
-- 安全研究GoSSIP
-  - [G.O.S.S.I.P 阅读推荐 2026-07-10 玩“通” Super Mario](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501868&idx=1&sn=675c9423cfb713451a872c0ab7a07178)
-- 奇安信 CERT
-  - [安全热点周报：Adobe ColdFusion 曝高危漏洞，披露后两小时内即遭利用](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506579&idx=1&sn=91e99060ffe9719d45562a11733bdd78)
-- 安全圈
-  - [【安全圈】Windows Defender又爆提权漏洞，赶紧打补丁](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077782&idx=1&sn=7618468fc5072e3fefd2e8f69fe0eefa)
-  - [【安全圈】假7-Zip安装包暗藏后门，你的电脑正被"出租"](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077782&idx=2&sn=b5b54e177a56d9aded1ea3397b19d1f1)
-  - [【安全圈】Wireshark更新！一个数据包就能让它崩溃！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077782&idx=3&sn=8ba580758eb9dc0be407188a7cb4f6e4)
-- M01N Team
-  - [每周蓝军技术推送（2026.7.4-7.10）](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495287&idx=1&sn=682684462de56f0be8619b3644b279b6)
-- 极客公园
-  - [保持业余，保持有趣](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653110360&idx=1&sn=4e9c6e91a100132ba33188a7c423e9b5)
-  - [别人还在叠衣服，至简动力的 100 台机器人已下车间](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653110360&idx=2&sn=5dfb384254e2f00740dbce4bb9505225)
-  - [AGI Playground 2026 议程公布：景鲲、刘靖康、AMI Labs、MiniMax 都来了！](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653110262&idx=1&sn=bd3ee63d360f94e2055fafb025e3cec0)
-  - [OpenAI 发布 GPT-5.6，编程超越 Claude；雷军曝光小米新 SUV 更多细节；影石官宣造机器人 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653110238&idx=1&sn=b91cef00efb0ed7a3689978261b77eb3)
-- 微步在线
-  - [共智·共进·共生 | CSOP2026·AI安全大会成都站召开](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650187094&idx=1&sn=e6496ba61c187e33b4b06584ab90c3f6)
-- XCTF联赛
-  - [ICO 2026突尼斯落幕：中国队首秀斩获双铜，成功获得2028年举办权！](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516581&idx=1&sn=91fc8328afd903da7e17483a173f24bd)
-- 数世咨询
-  - [一个三十年的遗留问题令主流智能体的安全集体失效](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543476&idx=1&sn=dadf52119d907f0ea21f5c161ce4ef4c)
-- 复旦白泽战队
-  - [被神话的 "神话(mythos)" ？——大模型让黑客失业了吗？](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247499183&idx=1&sn=383248d4e2b1d46f5b2b1494c7e52d9a)
 - 安全学术圈
   - [2025年度四川省科学技术奖拟奖项目人选公布（网络空间安全领域）](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495626&idx=1&sn=071fa9ae96bc4ba3c4928b6252ef5a0e)
+- 天黑说嘿话
+  - [AI安全成为部署先决条件](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486215&idx=1&sn=d286082822a44540cc76914e964f4b80)
+- 中国信息安全
+  - [关注 | 海光亮相光合组织大会，首次展现“云边端”完整算力体系](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264527&idx=1&sn=b856fe0e79bc1ce49aeb5782befbbe39)
+  - [前沿 | 构建“体系化、流程化、智能化”网络安全运营新范式](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264527&idx=2&sn=3c8e0c4125e755484d3eaf0553997417)
+  - [关注 | 《智能网联汽车 组合驾驶辅助系统安全要求》强制性国家标准正式发布](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264527&idx=3&sn=dd7e255cd0d99c52c6e296b1f05dc606)
+  - [关注 | 中方代表在联合国人工智能治理全球对话首次会议上发言](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264527&idx=4&sn=5919956a92586fb4aeab7e36a1641c3b)
+  - [关注 | 深入推进“全民反诈在行动”集中宣传月活动——多一句提醒 多一道防线](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264527&idx=5&sn=6420895fe56d807f60c1ac246b3cfbc2)
+  - [专家提醒：“AI荐彩”背后的网络赌球风险](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264527&idx=6&sn=473b12b03e1c8e2e7f918b9253a96c00)
+- 奇安信威胁情报中心
+  - [每周高级威胁情报解读(2026.07.03~07.09)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519446&idx=1&sn=39363017dfe98b8f8467648604198d9a)
+- M01N Team
+  - [每周蓝军技术推送（2026.7.4-7.10）](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495287&idx=1&sn=682684462de56f0be8619b3644b279b6)
+- 安全研究GoSSIP
+  - [G.O.S.S.I.P 阅读推荐 2026-07-10 玩“通” Super Mario](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501868&idx=1&sn=675c9423cfb713451a872c0ab7a07178)
 - 安全牛
   - [GPT-5.6全量放送，Codex正式并入ChatGPT；埃森哲数据泄露事件：黑客声称大规模数据窃取，公司驳斥相关指控 | 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141900&idx=1&sn=04799f0c26de9df850b8fb8a227fa6be)
   - [27.1% 企业中招！深度落地 AI 背后，四大隐形安全暗礁全面解析](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141900&idx=2&sn=cc75722a39562080a97281e5e7d720a6)
-- 火绒安全
-  - [火绒小问答——「企业版」网站内容控制](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247535085&idx=1&sn=5954d45f9e9fc24bfea47d007cd6d731)
-  - [【火绒安全周报】工信部发表风险提示 /德意志银行被黑客组织勒索](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247535085&idx=2&sn=01cf4c822587ce05cca7b5441ddba33e)
-  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247535085&idx=3&sn=9954315097f0ab6b60feeb34fb03ed76)
-- 慢雾科技
-  - [Google Sites 社群申请钓鱼与 macOS 窃密木马分析](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505394&idx=1&sn=9c8f39fc6a7bcd317482f86995c45a68)
-- 谛听ditecting
-  - [谛听 工控安全月报 | 6月](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247503169&idx=1&sn=b201cf76963cf36f18c2eeadcf974989)
-- 字节跳动技术团队
-  - [字节跳动 STE 固件团队亮相 OCP China 2026：从标准化到智能化，构建下一代数据中心固件基础设施](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520780&idx=1&sn=be8775089a0a07f7d22f5bf267ee752b)
-  - [扣子 × SearchCLI：一个不会英语的卖家，靠一个 bot 卖到了日韩英多个市场](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520780&idx=2&sn=9b8a0e95210d1da2b0c48795c93a1024)
-- 情报分析师
-  - [反卫星武器和人工智能技术位列朝鲜最新军事愿望清单榜首](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650568578&idx=1&sn=513edcbb152da02a88d848a1bb8c3bf0)
-- 奇安信病毒响应中心
-  - [每周勒索威胁摘要](https://mp.weixin.qq.com/s?__biz=MzI5Mzg5MDM3NQ==&mid=2247498623&idx=1&sn=0f6a99a9a62d324a48819cc54fd323e8)
-- ICT Security Magazine
-  - [Traffic Light Protocol: condividere l’intelligence senza perderne il controllo](https://www.ictsecuritymagazine.com/cyber-security/traffic-light-protocol/)
-  - [Priority Intelligence Requirements: le domande che guidano la threat intelligence](https://www.ictsecuritymagazine.com/cyber-security/priority-intelligence-requirements/)
 - 看雪学苑
   - [APP整体加固原理](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617440&idx=1&sn=b6af25a7cbc9161f1a55e08fb537472d)
   - [60-70K！高薪招智驾安全、IoT 渗透、大模型安全工程师](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617440&idx=2&sn=fb5883e5f022860ddd1a9a5f886fc64b)
   - [新型木马GigaWiper来袭！伪装OneDrive持久驻留，一键清空企业全盘数据](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617440&idx=3&sn=fdece75fd5e5f1b13881628e155034f3)
   - [Geek Out. Level Up | 看雪·2026周边T恤上线（数量有限）](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617440&idx=4&sn=6fe4df081c5fe4dbff5ea443956641ab)
+- 极客公园
+  - [保持业余，保持有趣](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653110360&idx=1&sn=4e9c6e91a100132ba33188a7c423e9b5)
+  - [别人还在叠衣服，至简动力的 100 台机器人已下车间](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653110360&idx=2&sn=5dfb384254e2f00740dbce4bb9505225)
+  - [AGI Playground 2026 议程公布：景鲲、刘靖康、AMI Labs、MiniMax 都来了！](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653110262&idx=1&sn=bd3ee63d360f94e2055fafb025e3cec0)
+  - [OpenAI 发布 GPT-5.6，编程超越 Claude；雷军曝光小米新 SUV 更多细节；影石官宣造机器人 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653110238&idx=1&sn=b91cef00efb0ed7a3689978261b77eb3)
+- 安全圈
+  - [【安全圈】Windows Defender又爆提权漏洞，赶紧打补丁](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077782&idx=1&sn=7618468fc5072e3fefd2e8f69fe0eefa)
+  - [【安全圈】假7-Zip安装包暗藏后门，你的电脑正被"出租"](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077782&idx=2&sn=b5b54e177a56d9aded1ea3397b19d1f1)
+  - [【安全圈】Wireshark更新！一个数据包就能让它崩溃！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077782&idx=3&sn=8ba580758eb9dc0be407188a7cb4f6e4)
+- XCTF联赛
+  - [ICO 2026突尼斯落幕：中国队首秀斩获双铜，成功获得2028年举办权！](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516581&idx=1&sn=91fc8328afd903da7e17483a173f24bd)
+- 代码卫士
+  - [微软修复可获得系统权限的 RoguePlanet Defender 漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526598&idx=1&sn=d941c2cb5c34c57f75d892d6de97004a)
+  - [PAN-OS 高危缓冲溢出漏洞可导致任意代码执行](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526598&idx=2&sn=10c96c869a77aaf19ae7c16ff0c786cf)
+- 威努特安全网络
+  - [威努特主机卫士：铸就主机安全坚盾，抵御潜在风险浪潮](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651142955&idx=1&sn=24ea38b82f4993a4ddddfd49d1f6a250)
+  - [WinClaw新版本即将发布 10000个超级VIP限时开抢！](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651142955&idx=2&sn=0903ab8c26d00f666454858ee49a9e56)
+- 微步在线
+  - [共智·共进·共生 | CSOP2026·AI安全大会成都站召开](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650187094&idx=1&sn=e6496ba61c187e33b4b06584ab90c3f6)
+- 数世咨询
+  - [一个三十年的遗留问题令主流智能体的安全集体失效](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543476&idx=1&sn=dadf52119d907f0ea21f5c161ce4ef4c)
+- 谛听ditecting
+  - [谛听 工控安全月报 | 6月](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247503169&idx=1&sn=b201cf76963cf36f18c2eeadcf974989)
+- 火绒安全
+  - [火绒小问答——「企业版」网站内容控制](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247535085&idx=1&sn=5954d45f9e9fc24bfea47d007cd6d731)
+  - [【火绒安全周报】工信部发表风险提示 /德意志银行被黑客组织勒索](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247535085&idx=2&sn=01cf4c822587ce05cca7b5441ddba33e)
+  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247535085&idx=3&sn=9954315097f0ab6b60feeb34fb03ed76)
+- 情报分析师
+  - [反卫星武器和人工智能技术位列朝鲜最新军事愿望清单榜首](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650568578&idx=1&sn=513edcbb152da02a88d848a1bb8c3bf0)
+- 字节跳动技术团队
+  - [字节跳动 STE 固件团队亮相 OCP China 2026：从标准化到智能化，构建下一代数据中心固件基础设施](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520780&idx=1&sn=be8775089a0a07f7d22f5bf267ee752b)
+  - [扣子 × SearchCLI：一个不会英语的卖家，靠一个 bot 卖到了日韩英多个市场](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520780&idx=2&sn=9b8a0e95210d1da2b0c48795c93a1024)
+- 复旦白泽战队
+  - [被神话的 "神话(mythos)" ？——大模型让黑客失业了吗？](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247499183&idx=1&sn=383248d4e2b1d46f5b2b1494c7e52d9a)
+- 慢雾科技
+  - [Google Sites 社群申请钓鱼与 macOS 窃密木马分析](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505394&idx=1&sn=9c8f39fc6a7bcd317482f86995c45a68)
+- 360数字安全
+  - [360“仪天阵”入选IDC报告领导者象限 推动安全运营迈向“自动驾驶”](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586571&idx=1&sn=61f054cce446d2f28dfc381c1e9f1175)
+- ICT Security Magazine
+  - [Traffic Light Protocol: condividere l’intelligence senza perderne il controllo](https://www.ictsecuritymagazine.com/cyber-security/traffic-light-protocol/)
+  - [Priority Intelligence Requirements: le domande che guidano la threat intelligence](https://www.ictsecuritymagazine.com/cyber-security/priority-intelligence-requirements/)
 - Securityinfo.it
   - [La guerra ucraina cambia la cybersecurity delle infrastrutture critiche](https://www.securityinfo.it/2026/07/10/la-guerra-ucraina-cambia-la-cybersecurity-delle-infrastrutture-critiche/?utm_source=rss&utm_medium=rss&utm_campaign=la-guerra-ucraina-cambia-la-cybersecurity-delle-infrastrutture-critiche)
 - Javvad Malik
   - [Breach of Confidence: 10 July 2026](https://javvadmalik.com/2026/07/10/breach-of-confidence-10-july-2026/)
-- Microsoft Security Blog
-  - [Securing our future: July 2026 progress report on Microsoft’s Secure Future Initiative](https://www.microsoft.com/en-us/security/blog/2026/07/10/securing-our-future-july-2026-progress-report-on-microsofts-secure-future-initiative/)
 - SANS Internet Storm Center, InfoCON: green
   - [My Stack Simulator, (Wed, Jul 8th)](https://isc.sans.edu/diary/rss/33138)
   - ["Comment stuffing" in an HTML phishing attachment as a mechanism for evading AI-based detection&#x3f;, (Fri, Jul 10th)](https://isc.sans.edu/diary/rss/33144)
   - [ISC Stormcast For Friday, July 10th, 2026 https://isc.sans.edu/podcastdetail/10002, (Fri, Jul 10th)](https://isc.sans.edu/diary/rss/33142)
-- Schneier on Security
-  - [Friday Squid Blogging: “Squidbleed” Vulnerability](https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html)
-  - [AI Surveillance and Social Progress](https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html)
-- 360数字安全
-  - [360“仪天阵”入选IDC报告领导者象限 推动安全运营迈向“自动驾驶”](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586571&idx=1&sn=61f054cce446d2f28dfc381c1e9f1175)
+- Yak Project
+  - [百倍正则加速：让 Yak 中的正则支持统一编译与完整 PCRE2](https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247529987&idx=1&sn=da4ed019de1b08cc07b5ad961bdc2295)
+- 奇安信病毒响应中心
+  - [每周勒索威胁摘要](https://mp.weixin.qq.com/s?__biz=MzI5Mzg5MDM3NQ==&mid=2247498623&idx=1&sn=0f6a99a9a62d324a48819cc54fd323e8)
 - 白帽子章华鹏
   - [AI 时代最稀缺的能力之一是把问题研究透](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650239117&idx=1&sn=b15b81114c52cc9988c4370f6a5fd2ff)
+- Daniel Miessler
+  - [Recreating the Bell Labs Cafeteria](https://danielmiessler.com/blog/recreating-the-bell-labs-cafeteria?utm_source=rss&utm_medium=feed&utm_campaign=website)
+  - [AI Blogging From Inside Vim](https://danielmiessler.com/blog/ai-blogging-from-inside-vim?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - The Hacker News
   - [URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat](https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html)
   - [Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages](https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html)
@@ -151,20 +152,20 @@
   - [Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access](https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html)
   - [Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets](https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html)
   - [Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks](https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html)
+- Schneier on Security
+  - [Friday Squid Blogging: “Squidbleed” Vulnerability](https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html)
+  - [AI Surveillance and Social Progress](https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html)
+- Deeplinks
+  - [Building Our Future Together](https://www.eff.org/deeplinks/2026/07/building-our-future-together)
+  - [Automated Moderation Is Here to Stay—Accountability Must Keep Pace](https://www.eff.org/deeplinks/2026/07/part-2-automated-moderation-here-stay-accountability-must-keep-pace)
 - Security Affairs
   - [Update Now: Critical Zimbra Classic Web Client Flaw Could Expose Mailboxes](https://securityaffairs.com/195130/hacking/update-now-critical-zimbra-classic-web-client-flaw-could-expose-mailboxes.html)
   - [Ransomware Never Stopped: Over 9,000 Confirmed Attacks Since 2018](https://securityaffairs.com/195117/cyber-crime/ransomware-never-stopped-over-9000-confirmed-attacks-since-2018.html)
   - [222 GitHub Repositories Linked to Fake Go Package Malware Operation](https://securityaffairs.com/195101/security/222-github-repositories-linked-to-fake-go-package-malware-operation.html)
   - [Former Ransomware Negotiator Sentenced to 70 Months in Prison for Secretly Helping BlackCat Gang](https://securityaffairs.com/195081/cyber-crime/former-ransomware-negotiator-sentenced-to-70-months-in-prison-for-secretly-helping-blackcat-gang.html)
   - [GigaWiper Merges Three Malware Families Into One Destructive Backdoor](https://securityaffairs.com/195068/malware/gigawiper-merges-three-malware-families-into-one-destructive-backdoor.html)
-- Deeplinks
-  - [Building Our Future Together](https://www.eff.org/deeplinks/2026/07/building-our-future-together)
-  - [Automated Moderation Is Here to Stay—Accountability Must Keep Pace](https://www.eff.org/deeplinks/2026/07/part-2-automated-moderation-here-stay-accountability-must-keep-pace)
-- Yak Project
-  - [百倍正则加速：让 Yak 中的正则支持统一编译与完整 PCRE2](https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247529987&idx=1&sn=da4ed019de1b08cc07b5ad961bdc2295)
-- Daniel Miessler
-  - [Recreating the Bell Labs Cafeteria](https://danielmiessler.com/blog/recreating-the-bell-labs-cafeteria?utm_source=rss&utm_medium=feed&utm_campaign=website)
-  - [AI Blogging From Inside Vim](https://danielmiessler.com/blog/ai-blogging-from-inside-vim?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- Microsoft Security Blog
+  - [Securing our future: July 2026 progress report on Microsoft’s Secure Future Initiative](https://www.microsoft.com/en-us/security/blog/2026/07/10/securing-our-future-july-2026-progress-report-on-microsofts-secure-future-initiative/)
 - Security Weekly Podcast Network (Audio)
   - [Borg, GitLost, ColdFusion, GodDamn, GhostApproval, OWA, Epaphroditus, Josh Marpet,.. - SWN #597](http://sites.libsyn.com/18678/borg-gitlost-coldfusion-goddamn-ghostapproval-owa-epaphroditus-josh-marpet-swn-597)
 - 网安寻路人
