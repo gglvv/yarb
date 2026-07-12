@@ -6,6 +6,8 @@
   - [Agent 攻防应用实战与思考](https://vipread.com/library/topic/4153)
 - SecWiki News
   - [SecWiki News 2026-07-11 Review](http://www.sec-wiki.com/?2026-07-11)
+- Toooold
+  - [What Survives the Transformation?](https://toooold.com/2026/07/11/icml_recap2.html)
 - CCC Event Blog
   - [ChaosZeltZone 2026](https://events.ccc.de/2026/07/11/chaoszeltzone/)
 - Reverse Engineering
@@ -21,26 +23,24 @@
   - [在你的安卓掌机上运行类 SteamOS 系统](https://blog.upx8.com/%E5%9C%A8%E4%BD%A0%E7%9A%84%E5%AE%89%E5%8D%93%E6%8E%8C%E6%9C%BA%E4%B8%8A%E8%BF%90%E8%A1%8C%E7%B1%BB-SteamOS-%E7%B3%BB%E7%BB%9F)
   - [Rapidus将提供比台积电更低的晶圆价格](https://blog.upx8.com/Rapidus%E5%B0%86%E6%8F%90%E4%BE%9B%E6%AF%94%E5%8F%B0%E7%A7%AF%E7%94%B5%E6%9B%B4%E4%BD%8E%E7%9A%84%E6%99%B6%E5%9C%86%E4%BB%B7%E6%A0%BC)
   - [微软将在安全更新流程中更多地应用AI](https://blog.upx8.com/%E5%BE%AE%E8%BD%AF%E5%B0%86%E5%9C%A8%E5%AE%89%E5%85%A8%E6%9B%B4%E6%96%B0%E6%B5%81%E7%A8%8B%E4%B8%AD%E6%9B%B4%E5%A4%9A%E5%9C%B0%E5%BA%94%E7%94%A8AI)
-  - [谈判代表因协助勒索软件团伙敲诈而被定罪](https://blog.upx8.com/%E8%B0%88%E5%88%A4%E4%BB%A3%E8%A1%A8%E5%9B%A0%E5%8D%8F%E5%8A%A9%E5%8B%92%E7%B4%A2%E8%BD%AF%E4%BB%B6%E5%9B%A2%E4%BC%99%E6%95%B2%E8%AF%88%E8%80%8C%E8%A2%AB%E5%AE%9A%E7%BD%AA)
-  - [日本可重复使用火箭实验机体首次试飞成功](https://blog.upx8.com/%E6%97%A5%E6%9C%AC%E5%8F%AF%E9%87%8D%E5%A4%8D%E4%BD%BF%E7%94%A8%E7%81%AB%E7%AE%AD%E5%AE%9E%E9%AA%8C%E6%9C%BA%E4%BD%93%E9%A6%96%E6%AC%A1%E8%AF%95%E9%A3%9E%E6%88%90%E5%8A%9F)
 - 黑鸟
   - [QuadRF项目：能穿墙 “看见” WiFi，还能追踪无人机](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187647&idx=1&sn=069dfe7ee9a6c3b7d5b20817efc4df53)
 - 奶牛安全
   - [数据泄露情报2026.7.11 - 1.5T美国移民律师所数据泄露，有SSN和护照照片，外贸开店的人有福了](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489709&idx=1&sn=460dc8608dffdb61c106250fcb2926f6)
-- 安全分析与研究
-  - [刚看完，果然只有星爷拍的电影才值得花钱到电影院观看，真的牛逼！](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496889&idx=1&sn=2c81126512852c2d6a9cdaeb2524024b)
-- 天黑说嘿话
-  - [工信部通报 Claude Code 后门，阿里全员禁用](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486217&idx=1&sn=7440a3fb9a7b516e2489e18b505f5cd4)
-- 绿盟科技研究通讯
-  - [AI与云安全事件案例分析周报｜2026.07.06 - 2026.07.10](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247500061&idx=1&sn=f629a8bf1846d958dc4fb6e9ba7a533b)
 - 漏洞推送
   - [基于GPT架构的webshell识别模型](https://mp.weixin.qq.com/s?__biz=MzU5MTExMjYwMA==&mid=2247485874&idx=1&sn=48a0194a6ee037112907a50e54a8fc07)
-- 青衣十三楼飞花堂
-  - [据说是海淀某校2026初一下期末考试题](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489680&idx=1&sn=766f9da07a1a5bde96e6abde46cb909a)
+- 绿盟科技研究通讯
+  - [AI与云安全事件案例分析周报｜2026.07.06 - 2026.07.10](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247500061&idx=1&sn=f629a8bf1846d958dc4fb6e9ba7a533b)
+- 天黑说嘿话
+  - [工信部通报 Claude Code 后门，阿里全员禁用](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486217&idx=1&sn=7440a3fb9a7b516e2489e18b505f5cd4)
+- 安全分析与研究
+  - [刚看完，果然只有星爷拍的电影才值得花钱到电影院观看，真的牛逼！](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496889&idx=1&sn=2c81126512852c2d6a9cdaeb2524024b)
 - 安全圈
   - [【安全圈】百万余条数据遭泄露！“黑客”爬取互联网企业内部数据，非法牟利超50万元](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077792&idx=1&sn=bfd45407cd7d5a9b15346e03a7911b5e)
   - [【安全圈】npm 上的 Injective SDK 被植入加密货币钱包窃取器](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077792&idx=2&sn=9b78889d6ba5653e90f745bb6288ff69)
   - [【安全圈】阿根廷足协邮箱疑遭埃及黑客攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077792&idx=3&sn=17a2682466312fba24dd00aa2991560c)
+- 青衣十三楼飞花堂
+  - [据说是海淀某校2026初一下期末考试题](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489680&idx=1&sn=766f9da07a1a5bde96e6abde46cb909a)
 - 极客公园
   - [Claude 又有意识了？不，它没有](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653110392&idx=1&sn=91b7fdf18d642132225c4a8b0d8d3c32)
   - [在上海这场顶级赛车比赛，我看到《飞驰人生 3》的 AI 辅助系统走进现实](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653110381&idx=1&sn=85a6114f3627917d34d86a40048b1f88)
@@ -54,31 +54,29 @@
   - [一架飞机，三层危机！特朗普土耳其换机事件的深层逻辑](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650568587&idx=2&sn=be48f74b6fe33477d94807f14ced98ac)
 - Dark Space Blogspot
   - [Come Funziona Il Pezzotto? HDCP, Splitter HDMI e Kodi](http://darkwhite666.blogspot.com/2026/07/come-funziona-il-pezzotto-hdcp-splitter.html)
-- ICT Security Magazine
-  - [ISAC (Information Sharing and Analysis Center): la condivisione delle minacce organizzata per settore](https://www.ictsecuritymagazine.com/cyber-security/isac-information-sharing-analysis-center/)
-- SANS Internet Storm Center, InfoCON: green
-  - [Wireshark 4.6.7 Released, (Sat, Jul 11th)](https://isc.sans.edu/diary/rss/33146)
-- Arturo Di Corinto
-  - [AI, la raffica dei giganti: quando gli algoritmi diventano affare di Stato](https://dicorinto.it/guerra-profonda/ai-la-raffica-dei-giganti-quando-gli-algoritmi-diventano-affare-di-stato/)
-- BorderGate
-  - [Web Sockets](https://www.bordergate.co.uk/web-sockets/)
 - Have I Been Pwned latest breaches
   - [Glendale Community College - 793,925 breached accounts](https://haveibeenpwned.com/Breach/GlendaleCommunityCollege)
+- Arturo Di Corinto
+  - [AI, la raffica dei giganti: quando gli algoritmi diventano affare di Stato](https://dicorinto.it/guerra-profonda/ai-la-raffica-dei-giganti-quando-gli-algoritmi-diventano-affare-di-stato/)
+- ICT Security Magazine
+  - [ISAC (Information Sharing and Analysis Center): la condivisione delle minacce organizzata per settore](https://www.ictsecuritymagazine.com/cyber-security/isac-information-sharing-analysis-center/)
+- BorderGate
+  - [Web Sockets](https://www.bordergate.co.uk/web-sockets/)
+- LastKnight.com Feed
+  - [Chat Control 1.0: il giorno buio della democrazia autoritaria europea](https://mgpf.it/2026/07/11/chat-control-buio-democrazia.html)
 - The Hacker News
   - [Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install](https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html)
   - [Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns](https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html)
   - [Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions](https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html)
+- SANS Internet Storm Center, InfoCON: green
+  - [Wireshark 4.6.7 Released, (Sat, Jul 11th)](https://isc.sans.edu/diary/rss/33146)
 - Security Affairs
   - [U.S. CISA adds iCagenda and Balbooa Forms flaws to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/195164/security/u-s-cisa-adds-icagenda-and-balbooa-forms-flaws-to-its-known-exploited-vulnerabilities-catalog.html)
   - [Critical U-Boot Bugs Undermine Secure Boot on Millions of Devices](https://securityaffairs.com/195150/security/critical-u-boot-bugs-undermine-secure-boot-on-millions-of-devices.html)
+- Deep Web
+  - [I need dark web leaked weird videos send me on tg](https://www.reddit.com/r/deepweb/comments/1utq35t/i_need_dark_web_leaked_weird_videos_send_me_on_tg/)
 - Daniel Miessler
   - [From Prompt Engineering to Intent Engineering](https://danielmiessler.com/blog/intent-engineering?utm_source=rss&utm_medium=feed&utm_campaign=website)
   - [Minimizing Machine Work Maximizes Human Work](https://danielmiessler.com/blog/minimizing-machine-work-maximizes-human-work?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- Computer Forensics
-  - [A Solution To The Content Promotion Issue](https://www.reddit.com/r/computerforensics/comments/1utxw42/a_solution_to_the_content_promotion_issue/)
-  - [Promote Your DFIR Content Here](https://www.reddit.com/r/computerforensics/comments/1utwamj/promote_your_dfir_content_here/)
-  - [A read-only, deterministic file-observer that emits a hashed, reproducible manifest — where would this fall short for real casework?](https://www.reddit.com/r/computerforensics/comments/1utp7qa/a_readonly_deterministic_fileobserver_that_emits/)
-- LastKnight.com Feed
-  - [Chat Control 1.0: il giorno buio della democrazia autoritaria europea](https://mgpf.it/2026/07/11/chat-control-buio-democrazia.html)
 - OnionSec
   - [在城市之间，遇见不同的人生](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485845&idx=1&sn=41c8484d3de892e065626670b3d5c1bd)
