@@ -24,34 +24,34 @@
   - [相对论支配重元素化学键](https://www.solidot.org/story?sid=84807)
 - 黑鸟
   - [超声波实现静默语音识别](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187662&idx=1&sn=a5243bd547d161f80a753d27fc58940e)
-- 奶牛安全
-  - [数据泄露情报2026.7.12 - 建筑，物流，航天航空](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489745&idx=1&sn=21c8212fc8b2dfd0949b4fb95ac4ef51)
-- 安全分析与研究
-  - [提示注入与Agent安全](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496898&idx=1&sn=ea12b7c4021c16705d724bec4c691efd)
 - 我的安全视界观
   - [【AI复盘】Amadey + StealC 运营覆灭事件](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487809&idx=1&sn=4371eda28ab490e8b5144674d48d76bf)
-- 青衣十三楼飞花堂
-  - [自蒙半夜传衣后，不羡王祥得佩刀](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489687&idx=1&sn=acd1036fddc97bfcc5e8ed4712aa1067)
+- 奶牛安全
+  - [数据泄露情报2026.7.12 - 建筑，物流，航天航空](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489745&idx=1&sn=21c8212fc8b2dfd0949b4fb95ac4ef51)
 - 天御攻防实验室
   - [揭秘美国国家安全局初级军官密码学职业计划](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487031&idx=1&sn=bc95aa25de33cf12aaa8f109d7ea08fd)
-- 安全圈
-  - [【安全圈】勒索软件谈判顾问勾结黑客反向收割客户，被判近六年监禁](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077805&idx=1&sn=6b6595acfb0550598252fee7c782f905)
-  - [【安全圈】黑客借 GitHub 撒网投毒](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077805&idx=2&sn=2d0fcf38361964531519a252f575df7b)
-  - [【安全圈】从路由器到服务器：潜伏 13 年的 U-Boot 漏洞曝光，威胁数百万设备](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077805&idx=3&sn=25c8e82adf36c3d2c1df13e21c11b131)
+- 安全分析与研究
+  - [提示注入与Agent安全](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496898&idx=1&sn=ea12b7c4021c16705d724bec4c691efd)
+- 青衣十三楼飞花堂
+  - [自蒙半夜传衣后，不羡王祥得佩刀](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489687&idx=1&sn=acd1036fddc97bfcc5e8ed4712aa1067)
 - 天黑说嘿话
   - [Claude Code 指令保姆级教程——新手从零上手](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486219&idx=1&sn=11fdda781e0aa3d4318ce0295e49b4bc)
 - 丁爸 情报分析师的工具箱
   - [【生物战】美国威胁减少局(DTRA) 全球项目分布分析报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156517&idx=1&sn=766eceb227c3c5fb9d4d837b9aed0b61)
   - [【竞赛通知】第四届全国大学生开源情报数据采集与分析挑战专项](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156517&idx=2&sn=0cbd2ddc931c32924fe498bc76744df5)
+- 安全圈
+  - [【安全圈】勒索软件谈判顾问勾结黑客反向收割客户，被判近六年监禁](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077805&idx=1&sn=6b6595acfb0550598252fee7c782f905)
+  - [【安全圈】黑客借 GitHub 撒网投毒](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077805&idx=2&sn=2d0fcf38361964531519a252f575df7b)
+  - [【安全圈】从路由器到服务器：潜伏 13 年的 U-Boot 漏洞曝光，威胁数百万设备](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077805&idx=3&sn=25c8e82adf36c3d2c1df13e21c11b131)
 - 极客公园
   - [比亚迪，怎么把车卖给英国人？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653110421&idx=1&sn=fb8749d3fb1dffb02922b05c3e66091d)
-- 谛听ditecting
-  - [谛听 | 面向工业时间序列的可解释异常检测：一种多尺度层次因果启发图网络](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247503221&idx=1&sn=c01199004e5e49275167f01c015ba54f)
-- 吴鲁加
-  - [一个专解“情感选择题”的星球](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486119&idx=1&sn=e54504117e0590e9d31d7eca45f2f02a)
 - 情报分析师
   - [如何从X账号的零碎帖子变成完整情报拼图](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650568647&idx=1&sn=8d1daa2e4f28b29edda0b04279eb0ba4)
   - [菲律宾武装部队宣布建立太空中心并计划升级为太空部队或太空司令部、配套2028年军用卫星，南海ISR监测能力提升、美菲太空协同威慑强化](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650568647&idx=2&sn=3fd1114039cb16196e59c90fd6103030)
+- 吴鲁加
+  - [一个专解“情感选择题”的星球](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486119&idx=1&sn=e54504117e0590e9d31d7eca45f2f02a)
+- 谛听ditecting
+  - [谛听 | 面向工业时间序列的可解释异常检测：一种多尺度层次因果启发图网络](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247503221&idx=1&sn=c01199004e5e49275167f01c015ba54f)
 - ICT Security Magazine
   - [ROI della sicurezza: come costruire il business case della cybersecurity](https://www.ictsecuritymagazine.com/cyber-security/roi-della-sicurezza-business-case/)
 - Security Affairs
