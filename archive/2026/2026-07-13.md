@@ -1,5 +1,7 @@
 # 每日安全资讯（2026-07-13）
 
+- SecWiki News
+  - [SecWiki News 2026-07-12 Review](http://www.sec-wiki.com/?2026-07-12)
 - Recent Commits to cve:main
   - [Update Sun Jul 12 12:11:58 UTC 2026](https://github.com/trickest/cve/commit/94c8010720caf50280099ac3939d46e441111eec)
 - 先知安全技术社区
@@ -8,8 +10,6 @@
   - [利用 x86-64 单字节指令重叠构造双重执行流与绕过分析](https://xz.aliyun.com/news/92505)
   - [【AI赋能安全】面向渗透 Agent 的任务失效化蜜罐探索](https://xz.aliyun.com/news/92504)
   - [ELF 构造器改写进程环境导致 getenv 与/proc 视图分裂分析](https://xz.aliyun.com/news/92503)
-- SecWiki News
-  - [SecWiki News 2026-07-12 Review](http://www.sec-wiki.com/?2026-07-12)
 - 先知安全技术社区
   - [Junior Crypt 2026 CTF Pwn 方向 WriteUp](https://xz.aliyun.com/news/92508)
   - [CVE-2026-34973 phpMyFAQ LIKE 通配符注入漏洞分析与复现](https://xz.aliyun.com/news/92506)
@@ -18,40 +18,33 @@
   - [ELF 构造器改写进程环境导致 getenv 与/proc 视图分裂分析](https://xz.aliyun.com/news/92503)
 - MaskRay
   - [Irreducible loops](https://maskray.me/blog/2026-07-12-irreducible-loops)
-- Reverse Engineering
-  - [Hand-crafted 974-byte Android 14 APK (API 34) — Bypassing build-tool bloat by exploiting PackageInstaller structure.](https://www.reddit.com/r/ReverseEngineering/comments/1uuon2t/handcrafted_974byte_android_14_apk_api_34/)
-  - [Vulnerability in Realtek driver allows DMA controller abuse from user mode with no additional hardware or driver](https://www.reddit.com/r/ReverseEngineering/comments/1uuqe2a/vulnerability_in_realtek_driver_allows_dma/)
-  - [Pocket Disasm — parallel headless binary analysis through one IDALib MCP endpoint](https://www.reddit.com/r/ReverseEngineering/comments/1uug5kx/pocket_disasm_parallel_headless_binary_analysis/)
-  - [Analysis of the Recent HTTP.sys 9.8 RCE: Kernel-Level Integer Overflow & WinDbg Reproduction](https://www.reddit.com/r/ReverseEngineering/comments/1uumls4/analysis_of_the_recent_httpsys_98_rce_kernellevel/)
-  - [MaFrida v0.3.0 is out!](https://www.reddit.com/r/ReverseEngineering/comments/1uumkxv/mafrida_v030_is_out/)
-  - [APKXHunter v1.0.0 — an open-source Android Static Analysis Framework](https://www.reddit.com/r/ReverseEngineering/comments/1uu6d6e/apkxhunter_v100_an_opensource_android_static/)
 - 奇客Solidot–传递最新科技情报
   - [GLP-1 减肥药并不能取代锻炼](https://www.solidot.org/story?sid=84809)
   - [中国法院支持数字资产的继承](https://www.solidot.org/story?sid=84808)
   - [相对论支配重元素化学键](https://www.solidot.org/story?sid=84807)
 - 黑鸟
   - [超声波实现静默语音识别](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187662&idx=1&sn=a5243bd547d161f80a753d27fc58940e)
-- 我的安全视界观
-  - [【AI复盘】Amadey + StealC 运营覆灭事件](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487809&idx=1&sn=4371eda28ab490e8b5144674d48d76bf)
 - 奶牛安全
   - [数据泄露情报2026.7.12 - 建筑，物流，航天航空](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489745&idx=1&sn=21c8212fc8b2dfd0949b4fb95ac4ef51)
-- 安全分析与研究
-  - [提示注入与Agent安全](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496898&idx=1&sn=ea12b7c4021c16705d724bec4c691efd)
+- 天御攻防实验室
+  - [揭秘美国国家安全局初级军官密码学职业计划](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487031&idx=1&sn=bc95aa25de33cf12aaa8f109d7ea08fd)
+- 我的安全视界观
+  - [【AI复盘】Amadey + StealC 运营覆灭事件](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487809&idx=1&sn=4371eda28ab490e8b5144674d48d76bf)
 - 青衣十三楼飞花堂
   - [自蒙半夜传衣后，不羡王祥得佩刀](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489687&idx=1&sn=acd1036fddc97bfcc5e8ed4712aa1067)
+- 天黑说嘿话
+  - [Claude Code 指令保姆级教程——新手从零上手](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486219&idx=1&sn=11fdda781e0aa3d4318ce0295e49b4bc)
 - 安全圈
   - [【安全圈】勒索软件谈判顾问勾结黑客反向收割客户，被判近六年监禁](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077805&idx=1&sn=6b6595acfb0550598252fee7c782f905)
   - [【安全圈】黑客借 GitHub 撒网投毒](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077805&idx=2&sn=2d0fcf38361964531519a252f575df7b)
   - [【安全圈】从路由器到服务器：潜伏 13 年的 U-Boot 漏洞曝光，威胁数百万设备](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077805&idx=3&sn=25c8e82adf36c3d2c1df13e21c11b131)
-- 天黑说嘿话
-  - [Claude Code 指令保姆级教程——新手从零上手](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486219&idx=1&sn=11fdda781e0aa3d4318ce0295e49b4bc)
+- 安全分析与研究
+  - [提示注入与Agent安全](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496898&idx=1&sn=ea12b7c4021c16705d724bec4c691efd)
 - 丁爸 情报分析师的工具箱
   - [【生物战】美国威胁减少局(DTRA) 全球项目分布分析报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156517&idx=1&sn=766eceb227c3c5fb9d4d837b9aed0b61)
   - [【竞赛通知】第四届全国大学生开源情报数据采集与分析挑战专项](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156517&idx=2&sn=0cbd2ddc931c32924fe498bc76744df5)
 - 极客公园
   - [比亚迪，怎么把车卖给英国人？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653110421&idx=1&sn=fb8749d3fb1dffb02922b05c3e66091d)
-- 天御攻防实验室
-  - [揭秘美国国家安全局初级军官密码学职业计划](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487031&idx=1&sn=bc95aa25de33cf12aaa8f109d7ea08fd)
 - 吴鲁加
   - [一个专解“情感选择题”的星球](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486119&idx=1&sn=e54504117e0590e9d31d7eca45f2f02a)
 - 谛听ditecting
@@ -61,10 +54,10 @@
   - [菲律宾武装部队宣布建立太空中心并计划升级为太空部队或太空司令部、配套2028年军用卫星，南海ISR监测能力提升、美菲太空协同威慑强化](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650568647&idx=2&sn=3fd1114039cb16196e59c90fd6103030)
 - ICT Security Magazine
   - [ROI della sicurezza: come costruire il business case della cybersecurity](https://www.ictsecuritymagazine.com/cyber-security/roi-della-sicurezza-business-case/)
+- OnionSec
+  - [当深圳仍在奔跑，普通人如何找到自己的下一站？](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485849&idx=1&sn=040515f9f30b514541f4c51932cd999e)
 - Security Affairs
   - [Ryuk Ransomware Member Pleads Guilty Over Attacks on U.S. Organizations](https://securityaffairs.com/195216/uncategorized/ryuk-ransomware-member-pleads-guilty-over-attacks-on-u-s-organizations.html)
   - [Progress Told ShareFile Customers to Pull the Plug on Their Servers. Here’s What We Know.](https://securityaffairs.com/195194/hacking/progress-told-sharefile-customers-to-pull-the-plug-on-their-servers-heres-what-we-know.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 105](https://securityaffairs.com/195187/breaking-news/security-affairs-malware-newsletter-round-105.html)
   - [Security Affairs newsletter Round 585 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/195175/breaking-news/security-affairs-newsletter-round-585-by-pierluigi-paganini-international-edition.html)
-- OnionSec
-  - [当深圳仍在奔跑，普通人如何找到自己的下一站？](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485849&idx=1&sn=040515f9f30b514541f4c51932cd999e)
