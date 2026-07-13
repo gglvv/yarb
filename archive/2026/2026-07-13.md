@@ -13,37 +13,38 @@
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [调查发现多数美国工人支持设立AI财富基金](https://blog.upx8.com/%E8%B0%83%E6%9F%A5%E5%8F%91%E7%8E%B0%E5%A4%9A%E6%95%B0%E7%BE%8E%E5%9B%BD%E5%B7%A5%E4%BA%BA%E6%94%AF%E6%8C%81%E8%AE%BE%E7%AB%8BAI%E8%B4%A2%E5%AF%8C%E5%9F%BA%E9%87%91)
   - [Spotify将允许微调Release Radar播放列表](https://blog.upx8.com/Spotify%E5%B0%86%E5%85%81%E8%AE%B8%E5%BE%AE%E8%B0%83Release-Radar%E6%92%AD%E6%94%BE%E5%88%97%E8%A1%A8)
-  - [智谱AI创始人：前沿智能不应只属于少数人](https://blog.upx8.com/%E6%99%BA%E8%B0%B1AI%E5%88%9B%E5%A7%8B%E4%BA%BA-%E5%89%8D%E6%B2%BF%E6%99%BA%E8%83%BD%E4%B8%8D%E5%BA%94%E5%8F%AA%E5%B1%9E%E4%BA%8E%E5%B0%91%E6%95%B0%E4%BA%BA)
-  - [腾达网络路由器设备曝出未公开万能密码](https://blog.upx8.com/%E8%85%BE%E8%BE%BE%E7%BD%91%E7%BB%9C%E8%B7%AF%E7%94%B1%E5%99%A8%E8%AE%BE%E5%A4%87%E6%9B%9D%E5%87%BA%E6%9C%AA%E5%85%AC%E5%BC%80%E4%B8%87%E8%83%BD%E5%AF%86%E7%A0%81)
-  - [中国新能源车平均车龄1.8年 把车当手机换](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%B9%B3%E5%9D%87%E8%BD%A6%E9%BE%841-8%E5%B9%B4-%E6%8A%8A%E8%BD%A6%E5%BD%93%E6%89%8B%E6%9C%BA%E6%8D%A2)
-  - [日本三大车商上半年在华新车销量均下滑](https://blog.upx8.com/%E6%97%A5%E6%9C%AC%E4%B8%89%E5%A4%A7%E8%BD%A6%E5%95%86%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%9C%A8%E5%8D%8E%E6%96%B0%E8%BD%A6%E9%94%80%E9%87%8F%E5%9D%87%E4%B8%8B%E6%BB%91)
-  - [SpaceX星舰7月16日第13次试飞 首次携带有效载荷](https://blog.upx8.com/SpaceX%E6%98%9F%E8%88%B07%E6%9C%8816%E6%97%A5%E7%AC%AC13%E6%AC%A1%E8%AF%95%E9%A3%9E-%E9%A6%96%E6%AC%A1%E6%90%BA%E5%B8%A6%E6%9C%89%E6%95%88%E8%BD%BD%E8%8D%B7)
 - 黑鸟
   - [超声波实现静默语音识别](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187662&idx=1&sn=a5243bd547d161f80a753d27fc58940e)
-- 奶牛安全
-  - [数据泄露情报2026.7.12 - 建筑，物流，航天航空](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489745&idx=1&sn=21c8212fc8b2dfd0949b4fb95ac4ef51)
+- 我的安全视界观
+  - [【AI复盘】Amadey + StealC 运营覆灭事件](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487809&idx=1&sn=4371eda28ab490e8b5144674d48d76bf)
 - 安全分析与研究
   - [提示注入与Agent安全](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496898&idx=1&sn=ea12b7c4021c16705d724bec4c691efd)
+- 奶牛安全
+  - [数据泄露情报2026.7.12 - 建筑，物流，航天航空](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489745&idx=1&sn=21c8212fc8b2dfd0949b4fb95ac4ef51)
+- 青衣十三楼飞花堂
+  - [自蒙半夜传衣后，不羡王祥得佩刀](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489687&idx=1&sn=acd1036fddc97bfcc5e8ed4712aa1067)
+- 天黑说嘿话
+  - [Claude Code 指令保姆级教程——新手从零上手](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486219&idx=1&sn=11fdda781e0aa3d4318ce0295e49b4bc)
+- 天御攻防实验室
+  - [揭秘美国国家安全局初级军官密码学职业计划](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487031&idx=1&sn=bc95aa25de33cf12aaa8f109d7ea08fd)
 - 丁爸 情报分析师的工具箱
   - [【生物战】美国威胁减少局(DTRA) 全球项目分布分析报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156517&idx=1&sn=766eceb227c3c5fb9d4d837b9aed0b61)
   - [【竞赛通知】第四届全国大学生开源情报数据采集与分析挑战专项](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156517&idx=2&sn=0cbd2ddc931c32924fe498bc76744df5)
-- 天御攻防实验室
-  - [揭秘美国国家安全局初级军官密码学职业计划](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487031&idx=1&sn=bc95aa25de33cf12aaa8f109d7ea08fd)
 - 极客公园
   - [比亚迪，怎么把车卖给英国人？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653110421&idx=1&sn=fb8749d3fb1dffb02922b05c3e66091d)
-- 情报分析师
-  - [如何从X账号的零碎帖子变成完整情报拼图](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650568647&idx=1&sn=8d1daa2e4f28b29edda0b04279eb0ba4)
-  - [菲律宾武装部队宣布建立太空中心并计划升级为太空部队或太空司令部、配套2028年军用卫星，南海ISR监测能力提升、美菲太空协同威慑强化](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650568647&idx=2&sn=3fd1114039cb16196e59c90fd6103030)
-- 谛听ditecting
-  - [谛听 | 面向工业时间序列的可解释异常检测：一种多尺度层次因果启发图网络](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247503221&idx=1&sn=c01199004e5e49275167f01c015ba54f)
 - 安全圈
   - [【安全圈】勒索软件谈判顾问勾结黑客反向收割客户，被判近六年监禁](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077805&idx=1&sn=6b6595acfb0550598252fee7c782f905)
   - [【安全圈】黑客借 GitHub 撒网投毒](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077805&idx=2&sn=2d0fcf38361964531519a252f575df7b)
   - [【安全圈】从路由器到服务器：潜伏 13 年的 U-Boot 漏洞曝光，威胁数百万设备](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077805&idx=3&sn=25c8e82adf36c3d2c1df13e21c11b131)
+- 谛听ditecting
+  - [谛听 | 面向工业时间序列的可解释异常检测：一种多尺度层次因果启发图网络](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247503221&idx=1&sn=c01199004e5e49275167f01c015ba54f)
+- ICT Security Magazine
+  - [ROI della sicurezza: come costruire il business case della cybersecurity](https://www.ictsecuritymagazine.com/cyber-security/roi-della-sicurezza-business-case/)
+- 情报分析师
+  - [如何从X账号的零碎帖子变成完整情报拼图](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650568647&idx=1&sn=8d1daa2e4f28b29edda0b04279eb0ba4)
+  - [菲律宾武装部队宣布建立太空中心并计划升级为太空部队或太空司令部、配套2028年军用卫星，南海ISR监测能力提升、美菲太空协同威慑强化](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650568647&idx=2&sn=3fd1114039cb16196e59c90fd6103030)
 - Security Affairs
   - [Ryuk Ransomware Member Pleads Guilty Over Attacks on U.S. Organizations](https://securityaffairs.com/195216/uncategorized/ryuk-ransomware-member-pleads-guilty-over-attacks-on-u-s-organizations.html)
   - [Progress Told ShareFile Customers to Pull the Plug on Their Servers. Here’s What We Know.](https://securityaffairs.com/195194/hacking/progress-told-sharefile-customers-to-pull-the-plug-on-their-servers-heres-what-we-know.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 105](https://securityaffairs.com/195187/breaking-news/security-affairs-malware-newsletter-round-105.html)
   - [Security Affairs newsletter Round 585 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/195175/breaking-news/security-affairs-newsletter-round-585-by-pierluigi-paganini-international-edition.html)
-- ICT Security Magazine
-  - [ROI della sicurezza: come costruire il business case della cybersecurity](https://www.ictsecuritymagazine.com/cyber-security/roi-della-sicurezza-business-case/)
