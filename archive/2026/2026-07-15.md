@@ -1,30 +1,41 @@
 # 每日安全资讯（2026-07-15）
 
-- SecWiki News
-  - [SecWiki News 2026-07-14 Review](http://www.sec-wiki.com/?2026-07-14)
+- 先知安全技术社区
+  - [源码审计的三个模式：从 nginx 到 Traefik](https://xz.aliyun.com/news/92521)
+  - [从脱壳到漏洞挖掘：用 MCP 打造全自动化 Android 应用安全分析流水线](https://xz.aliyun.com/news/92518)
 - obaby 𝐢‍𝐧⃝ void
   - [Baby APP备案辅助工具](https://zhongxiaojie.cn/2026/07/1626/)
+- SecWiki News
+  - [SecWiki News 2026-07-14 Review](http://www.sec-wiki.com/?2026-07-14)
 - 安全客-有思想的安全新媒体
   - [停产六周即破产：德国37年纺织老厂之死，揭示网络攻击最残酷的真相](https://www.anquanke.com/post/id/315803)
 - Recent Commits to cve:main
   - [Update Tue Jul 14 12:46:48 UTC 2026](https://github.com/trickest/cve/commit/a90de4f84b4783951362f491671e1e9decfc17cb)
-- Tenable Blog
-  - [Microsoft’s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)](https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164)
 - Sucuri Blog
   - [Why Delaying WordPress Updates Increases Security Risks](https://blog.sucuri.net/2026/07/why-delaying-wordpress-updates-increases-security-risks.html)
+- Tenable Blog
+  - [Microsoft’s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)](https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164)
+- 先知安全技术社区
+  - [源码审计的三个模式：从 nginx 到 Traefik](https://xz.aliyun.com/news/92521)
+  - [从脱壳到漏洞挖掘：用 MCP 打造全自动化 Android 应用安全分析流水线](https://xz.aliyun.com/news/92518)
+- Horizon3.ai
+  - [Hacking the Hackers: Can You Still Deceive an AI Attacker?](https://horizon3.ai/downloads/whitepapers/hacking-the-hackers/)
 - Malwarebytes
   - [Warning: Scammers are using FaceTime to empty bank accounts](https://www.malwarebytes.com/blog/news/2026/07/warning-scammers-are-using-facetime-to-empty-bank-accounts)
   - [The inside job that cost ransomware victims millions](https://www.malwarebytes.com/blog/news/2026/07/the-inside-job-that-cost-ransomware-victims-millions)
-- Sucuri Blog
-  - [Why Delaying WordPress Updates Increases Security Risks](https://blog.sucuri.net/2026/07/why-delaying-wordpress-updates-increases-security-risks.html)
-- Horizon3.ai
-  - [Hacking the Hackers: Can You Still Deceive an AI Attacker?](https://horizon3.ai/downloads/whitepapers/hacking-the-hackers/)
-- Reverse Engineering
-  - [AI reverse-engineered Philips baby monitor and built a Rust client](https://www.reddit.com/r/ReverseEngineering/comments/1uwl9f3/ai_reverseengineered_philips_baby_monitor_and/)
-  - [Interactive documentation and visual reference for binary formats and system memory layouts.](https://www.reddit.com/r/ReverseEngineering/comments/1uw46xn/interactive_documentation_and_visual_reference/)
-  - [AntiVE-BehaviorWatch ( AI model Inside a EXE )](https://www.reddit.com/r/ReverseEngineering/comments/1uvy1dk/antivebehaviorwatch_ai_model_inside_a_exe/)
 - daniel.haxx.se
   - [Workshop Basel day one](https://daniel.haxx.se/blog/2026/07/14/workshop-basel-day-one/)
+- Sucuri Blog
+  - [Why Delaying WordPress Updates Increases Security Risks](https://blog.sucuri.net/2026/07/why-delaying-wordpress-updates-increases-security-risks.html)
+- HackerNews
+  - [日本最大出租车运营商遭网络攻击后关闭系统](http://0.0.0.0:8080/post/64464)
+  - [黑客在 Jscrambler npm 包中植入信息窃取恶意软件](http://0.0.0.0:8080/post/64463)
+  - [新型 CrashStealer 恶意软件伪装成 Apple 崩溃报告工具](http://0.0.0.0:8080/post/64462)
+  - [CISA 警告 Joomla 扩展中存在被积极利用的 RCE 漏洞](http://0.0.0.0:8080/post/64461)
+  - [Lidl 披露服务提供商遭黑客攻击导致在线商店数据泄露](http://0.0.0.0:8080/post/64460)
+  - [欧盟因网络攻击制裁俄罗斯 GRU 军事黑客](http://0.0.0.0:8080/post/64459)
+- 黑鸟
+  - [微软认证的UEFI引导程序，反倒成了绕过安全启动的捷径](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187683&idx=1&sn=cd8c616134059f3429e822ca44951d2a)
 - 奇客Solidot–传递最新科技情报
   - [微软承诺大幅改进 Windows 11 的搜索功能](https://www.solidot.org/story?sid=84831)
   - [加州新提案将禁止无限滚动](https://www.solidot.org/story?sid=84830)
@@ -36,101 +47,105 @@
   - [日本信用卡公司突然倒闭，现金再次为王](https://www.solidot.org/story?sid=84824)
   - [2026 年菲尔茨奖得主疑似泄露](https://www.solidot.org/story?sid=84823)
   - [挪威研究显示富裕家庭的后代首先出现认知能力下降](https://www.solidot.org/story?sid=84822)
-- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [DeepSeek最早今年准备提交IPO申请](https://blog.upx8.com/DeepSeek%E6%9C%80%E6%97%A9%E4%BB%8A%E5%B9%B4%E5%87%86%E5%A4%87%E6%8F%90%E4%BA%A4IPO%E7%94%B3%E8%AF%B7)
-  - [OpenAI首款硬件产品是款家用智能音箱](https://blog.upx8.com/OpenAI%E9%A6%96%E6%AC%BE%E7%A1%AC%E4%BB%B6%E4%BA%A7%E5%93%81%E6%98%AF%E6%AC%BE%E5%AE%B6%E7%94%A8%E6%99%BA%E8%83%BD%E9%9F%B3%E7%AE%B1)
-  - [谷歌AI CEO呼吁建立美国主导的全球AI监管机构](https://blog.upx8.com/%E8%B0%B7%E6%AD%8CAI-CEO%E5%91%BC%E5%90%81%E5%BB%BA%E7%AB%8B%E7%BE%8E%E5%9B%BD%E4%B8%BB%E5%AF%BC%E7%9A%84%E5%85%A8%E7%90%83AI%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84)
-- HackerNews
-  - [日本最大出租车运营商遭网络攻击后关闭系统](http://0.0.0.0:8080/post/64464)
-  - [黑客在 Jscrambler npm 包中植入信息窃取恶意软件](http://0.0.0.0:8080/post/64463)
-  - [新型 CrashStealer 恶意软件伪装成 Apple 崩溃报告工具](http://0.0.0.0:8080/post/64462)
-  - [CISA 警告 Joomla 扩展中存在被积极利用的 RCE 漏洞](http://0.0.0.0:8080/post/64461)
-  - [Lidl 披露服务提供商遭黑客攻击导致在线商店数据泄露](http://0.0.0.0:8080/post/64460)
-  - [欧盟因网络攻击制裁俄罗斯 GRU 军事黑客](http://0.0.0.0:8080/post/64459)
-- Shostack & Friends Blog
-  - [What to Expect: Threat Modeling Intensive with Complete AI](https://shostack.org/blog/what-to-expect-tmiwcai/)
-- 黑鸟
-  - [微软认证的UEFI引导程序，反倒成了绕过安全启动的捷径](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187683&idx=1&sn=cd8c616134059f3429e822ca44951d2a)
 - 雷神众测
   - [雷神众测漏洞周报2026.7.6-2026.7.12](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503871&idx=1&sn=7f1d3e71b700a3ce4e00c973c2ff2c95)
-- 安全内参
-  - [老牌工厂因网络攻击长期停产而破产，制造强国如何补上“安全短板”？](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516260&idx=1&sn=093be5d527b92fa3979e54da2c5ff136)
-  - [CMMC政策急转弯：美国国防部在网络安全与国防工业扩张间寻求新平衡](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516260&idx=2&sn=967712f5a24267871dc5a35870ae43ea)
+- 奶牛安全
+  - [数据泄露情报2026.7.14 - 8.27亿facebook用户数据](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489774&idx=1&sn=34a9cd4dc1090cb0615d9b5a390e05b7)
 - 代码卫士
   - [ServiceNow 严重漏洞导致远程攻击者执行恶意代码](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526614&idx=1&sn=52998f2ed993d525f8db65adf3507e3a)
   - [日本最大的出租车运营商因遭网络攻击被迫关闭系统](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526614&idx=2&sn=c92d0058a4050308aefa6503a235229b)
+- 安全分析与研究
+  - [周星驰，我唯一的偶像](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496903&idx=1&sn=3361fa116cca0a4e1660338cc7054ace)
+- 天黑说嘿话
+  - [【88vip高返助手使用攻略】购物返利机器人，支持淘宝、京东、拼多多、抖音、唯品会等平台领隐藏优惠~](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486226&idx=1&sn=15fbf5e5a364778dead79bb7234ec83d)
+- 安全客
+  - [停产六周即破产：德国37年纺织老厂之死，揭示网络攻击最残酷的真相](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790221&idx=1&sn=c62769609265df0041d851580969ce56)
+- 青衣十三楼飞花堂
+  - [两道初二分式方程练习题](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489691&idx=1&sn=e9235e9f9e7b1c3fad3440e0fe4a67a5)
+- 奇安信威胁情报中心
+  - [连自己的GitHub都管不好：CISA的844MB凭据泄露，给全行业上了一堂公开课](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519492&idx=1&sn=070fa63609f878e463faeaaac6827bdf)
+- 信安之路
+  - [课程中心上线了](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500624&idx=1&sn=9f325562d1d2ab3da5d72c60bdab6941)
+- 奇安信 CERT
+  - [【已复现、利用难度高】Windows HTTP.sys 整数溢出漏洞(CVE-2026-47291)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506606&idx=1&sn=623d2ac0057653292d595cf9145bbe3f)
 - 威努特安全网络
   - [威努特数据备份与恢复系统：筑牢半导体数据防线](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651142971&idx=1&sn=45b280cf8bc939c7232066ee2f22c17a)
   - [WinClaw新版本即将发布 10000个超级VIP限时开抢！](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651142971&idx=2&sn=be05762949696a15d95e9735a2a5e792)
-- 安全客
-  - [停产六周即破产：德国37年纺织老厂之死，揭示网络攻击最残酷的真相](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790221&idx=1&sn=c62769609265df0041d851580969ce56)
-- 奶牛安全
-  - [数据泄露情报2026.7.14 - 8.27亿facebook用户数据](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489774&idx=1&sn=34a9cd4dc1090cb0615d9b5a390e05b7)
+- 安全内参
+  - [老牌工厂因网络攻击长期停产而破产，制造强国如何补上“安全短板”？](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516260&idx=1&sn=093be5d527b92fa3979e54da2c5ff136)
+  - [CMMC政策急转弯：美国国防部在网络安全与国防工业扩张间寻求新平衡](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516260&idx=2&sn=967712f5a24267871dc5a35870ae43ea)
 - 安全圈
   - [【安全圈】Telegram全球瘫痪！核心域名突遭封禁，数亿用户链接全部失效](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077833&idx=1&sn=c4b6d63a96107def60faa8b3dbfc3f0a)
   - [【安全圈】AI编程助手偷偷把你的代码传走了，12GB仓库只"需要"192KB](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077833&idx=2&sn=ab2f095aac52c39d4229cc244ef5aafd)
   - [【安全圈】一封邮件就能让AI"失忆"并被操控：MemGhost攻击曝光](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077833&idx=3&sn=f8a9e72e6123467bfc11601e9f3d29c3)
-- 天御攻防实验室
-  - [澳大利亚信号局与Anthropic公司签署三份合同](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487036&idx=1&sn=bbfa8c6ae5f710c20d6dd9b47ce7f5ee)
-- 奇安信 CERT
-  - [【已复现、利用难度高】Windows HTTP.sys 整数溢出漏洞(CVE-2026-47291)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506606&idx=1&sn=623d2ac0057653292d595cf9145bbe3f)
-- 青衣十三楼飞花堂
-  - [两道初二分式方程练习题](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489691&idx=1&sn=e9235e9f9e7b1c3fad3440e0fe4a67a5)
+- 看雪学苑
+  - [电动牙刷小程序"越权控制"逆向](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617595&idx=1&sn=35241f6e1cca7d4384db0abb5b1a6048)
+  - [全网大规模扫描来袭！MCP、AI密钥、大模型接口全遭猎捕](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617595&idx=2&sn=76a331f7437e39ab5d4ec60810c0f452)
+  - [自研LangGraph漏洞挖掘工作流 · 高阶实训 · CVE全链路复现](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617595&idx=3&sn=c738c70df4d2631bd66ccd4ca2233bba)
 - 微步在线
   - [沐曦股份唐竹君：从流量洞察到威胁闭环，AI驱动安全运营实践探索](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650187106&idx=1&sn=934bc603ded7ba4afedf8ac72c87a806)
+- 安全牛
+  - [从"清单合规"到"风险治理"：当AI学会排序，网络安全才真正有了方向](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141943&idx=1&sn=a466c7c0a47acf414c6be977e8e4e935)
+  - [Apple起诉OpenAI涉嫌窃取商业机密，AI硬件竞争升级法律战；CNVD周报：本周 85% 收录漏洞为0day，多款CMS、路由设备曝未修复高危漏洞|牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141943&idx=2&sn=a18e90a315ed7ae13636468c6d5b369b)
+- 默安科技
+  - [默安科技深度参编行业标准，推动蜜罐产品能力评价规范化](https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247501881&idx=1&sn=fcefadd1df212457029a26d145f97a50)
+- 极客公园
+  - [国产卡万亿参数模型发布背后，美团的 AI 人才决心](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653110534&idx=1&sn=d4169f67c08eaadf763ff45fbaefc037)
+  - [印奇首次揭秘：阶跃为什么要造 AI 手机](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653110532&idx=1&sn=ab59570ea0af7c03e0ad5bcdcda40c9b)
+  - [二季度 iPhone 市场份额创下新高；米哈游 AI 互动产品开启抢先体验；被传探索自动驾驶，字节回应 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653110477&idx=1&sn=85b90e73baa5205e5114469cc407839c)
 - 中国信息安全
   - [专题·原创 | 人工智能时代软件供应链安全风险与标准化建设](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264647&idx=1&sn=bbc7b5cf9822e24d39e58929fb5b3585)
   - [专家解读 | 完善风险评估制度护航数字经济发展](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264647&idx=2&sn=afd04e193766e0b9cd169f14dcf1b42b)
   - [法治 | 智能体安全保障的法治路径](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264647&idx=3&sn=e5e4961b7851da198259429c18f307bc)
   - [观点 | 防止互联网应用程序违规收集个人信息](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264647&idx=4&sn=0d2aad9d8f1fac38ed8f6846e782dfb1)
   - [评论 | 堵住“仅退款”规则漏洞](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264647&idx=5&sn=729fd6ff91322e692c8fe4a80e8db5f8)
-- 奇安信威胁情报中心
-  - [连自己的GitHub都管不好：CISA的844MB凭据泄露，给全行业上了一堂公开课](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519492&idx=1&sn=070fa63609f878e463faeaaac6827bdf)
-- 天黑说嘿话
-  - [【88vip高返助手使用攻略】购物返利机器人，支持淘宝、京东、拼多多、抖音、唯品会等平台领隐藏优惠~](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486226&idx=1&sn=15fbf5e5a364778dead79bb7234ec83d)
+- 天御攻防实验室
+  - [澳大利亚信号局与Anthropic公司签署三份合同](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487036&idx=1&sn=bbfa8c6ae5f710c20d6dd9b47ce7f5ee)
 - 数世咨询
   - [6项能力评估AI SOC平台就够了](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543492&idx=1&sn=2bd7e09a0a31dbd2f8c34baf654a3245)
   - [从 NVD CPE 到 CNNVD PAV | 网络安全数据的“主权替代”之路](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543492&idx=2&sn=ab21e5c0256052aa1250d0074f3f7ee7)
-- 安全牛
-  - [从"清单合规"到"风险治理"：当AI学会排序，网络安全才真正有了方向](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141943&idx=1&sn=a466c7c0a47acf414c6be977e8e4e935)
-  - [Apple起诉OpenAI涉嫌窃取商业机密，AI硬件竞争升级法律战；CNVD周报：本周 85% 收录漏洞为0day，多款CMS、路由设备曝未修复高危漏洞|牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651141943&idx=2&sn=a18e90a315ed7ae13636468c6d5b369b)
-- 安全分析与研究
-  - [周星驰，我唯一的偶像](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496903&idx=1&sn=3361fa116cca0a4e1660338cc7054ace)
-- 看雪学苑
-  - [电动牙刷小程序"越权控制"逆向](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617595&idx=1&sn=35241f6e1cca7d4384db0abb5b1a6048)
-  - [全网大规模扫描来袭！MCP、AI密钥、大模型接口全遭猎捕](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617595&idx=2&sn=76a331f7437e39ab5d4ec60810c0f452)
-  - [自研LangGraph漏洞挖掘工作流 · 高阶实训 · CVE全链路复现](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617595&idx=3&sn=c738c70df4d2631bd66ccd4ca2233bba)
-- 极客公园
-  - [国产卡万亿参数模型发布背后，美团的 AI 人才决心](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653110534&idx=1&sn=d4169f67c08eaadf763ff45fbaefc037)
-  - [印奇首次揭秘：阶跃为什么要造 AI 手机](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653110532&idx=1&sn=ab59570ea0af7c03e0ad5bcdcda40c9b)
-  - [二季度 iPhone 市场份额创下新高；米哈游 AI 互动产品开启抢先体验；被传探索自动驾驶，字节回应 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653110477&idx=1&sn=85b90e73baa5205e5114469cc407839c)
-- 默安科技
-  - [默安科技深度参编行业标准，推动蜜罐产品能力评价规范化](https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247501881&idx=1&sn=fcefadd1df212457029a26d145f97a50)
+- 情报分析师
+  - [卫星图上，情报分析师看到的不是图片，是故事](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650568675&idx=1&sn=172b0ae8827c5a8964d917a5ef0fba71)
 - 软件安全与逆向分析
   - [来了！你要的安卓完美云手机方案](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485290&idx=1&sn=0c8ca70d2b65f48d62f2d07a90b058ae)
 - 字节跳动技术团队
   - [想到即建、不用即停 —— 火山 PostgreSQL 助力飞书妙搭的 AI 效率革新](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520827&idx=1&sn=543e0e51b78349e2c5f87c4867713da5)
-- 情报分析师
-  - [卫星图上，情报分析师看到的不是图片，是故事](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650568675&idx=1&sn=172b0ae8827c5a8964d917a5ef0fba71)
 - TrustedSec
   - [Pandora’s Container Part 1: Unpacking Azure Container Security](https://trustedsec.com/blog/pandoras-container-part-1-unpacking-azure-container-security)
+- DARKNAVY
+  - [deepsec 攻防实录｜AI 黑客如何突破无人机安全边界？](https://mp.weixin.qq.com/s?__biz=MzkyMjM5MTk3NQ==&mid=2247498111&idx=1&sn=559c60604a228a8f46bde57fd031714e)
+- SEI Blog
+  - [A Guide to the Convergence of Electronic Warfare and Cyber Operations](https://www.sei.cmu.edu/blog/a-guide-to-the-convergence-of-electronic-warfare-and-cyber-operations/?utm_source=blog&utm_medium=rss&utm_campaign=my_site_updates)
 - ICT Security Magazine
   - [Metodo SPECTRA: il metodo avanzato di bonifica tecnica multidominio per contrastare spyware e sorveglianza moderna](https://www.ictsecuritymagazine.com/articoli/metodo-spectra/)
   - [Tabletop exercise: provare la risposta a un incidente prima che accada](https://www.ictsecuritymagazine.com/cyber-security/tabletop-exercise-esercitazione-crisi/)
-- Javvad Malik
-  - [What Happens When Someone Mentions Your Name?](https://javvadmalik.com/2026/07/14/what-happens-when-someone-mentions-your-name/)
 - SANS Internet Storm Center, InfoCON: green
   - [Microsoft Patch Tuesday July 2026 - The AI Acopolypse is Here , (Tue, Jul 14th)](https://isc.sans.edu/diary/rss/33154)
   - [ISC Stormcast For Tuesday, July 14th, 2026 https://isc.sans.edu/podcastdetail/10006, (Tue, Jul 14th)](https://isc.sans.edu/diary/rss/33152)
+- 国家互联网应急中心CNCERT
+  - [CNVD漏洞周报2026年第27期](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501866&idx=1&sn=f6c869743e237ff0a2385b6d5b9bb4d0)
+- Javvad Malik
+  - [What Happens When Someone Mentions Your Name?](https://javvadmalik.com/2026/07/14/what-happens-when-someone-mentions-your-name/)
+- Tor Project blog
+  - [New Release: Tor Browser 15.0.18](https://blog.torproject.org/new-release-tor-browser-15018/)
+- GRAHAM CLULEY
+  - [The ransomware negotiator who was working for the other side](https://www.bitdefender.com/en-us/blog/hotforsecurity/ransomware-negotiator-working-other-side)
 - Schneier on Security
   - [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2026/07/upcoming-speaking-engagements-58.html)
   - [Vulnerability in FIFA’s Network](https://www.schneier.com/blog/archives/2026/07/vulnerability-in-fifas-network.html)
 - Securityinfo.it
   - [Gli assistenti AI di coding sono sicuri? Il caso xAI](https://www.securityinfo.it/2026/07/14/gli-assistenti-ai-di-coding-sono-sicuri-il-caso-xai/?utm_source=rss&utm_medium=rss&utm_campaign=gli-assistenti-ai-di-coding-sono-sicuri-il-caso-xai)
-- 国家互联网应急中心CNCERT
-  - [CNVD漏洞周报2026年第27期](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501866&idx=1&sn=f6c869743e237ff0a2385b6d5b9bb4d0)
-- DARKNAVY
-  - [deepsec 攻防实录｜AI 黑客如何突破无人机安全边界？](https://mp.weixin.qq.com/s?__biz=MzkyMjM5MTk3NQ==&mid=2247498111&idx=1&sn=559c60604a228a8f46bde57fd031714e)
+- Security Affairs
+  - [Patch Tuesday security updates for July 2026, the largest update ever. 621 CVEs in one month](https://securityaffairs.com/195347/security/patch-tuesday-security-updates-for-july-2026-the-largest-update-ever-621-cves-in-one-month.html)
+  - [U.S. Treasury Sanctions VPN Provider and Cryptor Seller Behind Billions in Ransomware Losses](https://securityaffairs.com/195336/security/u-s-treasury-sanctions-vpn-provider-and-cryptor-seller-behind-billions-in-ransomware-losses.html)
+  - [Attacker Used AI to Build Custom PowerShell Recon Malware](https://securityaffairs.com/195321/hacking/attacker-used-ai-to-build-custom-powershell-recon-malware.html)
+  - [Malware Hits Japan’s Largest Taxi Company Nihon Kotsu, Services Temporarily Suspended](https://securityaffairs.com/195305/cyber-crime/malware-hits-japans-largest-taxi-company-nihon-kotsu-services-temporarily-suspended.html)
+  - [CrashStealer: New macOS Infostealer Uses Signed Apps to Evade Gatekeeper](https://securityaffairs.com/195278/malware/crashstealer-new-macos-infostealer-uses-signed-apps-to-evade-gatekeeper.html)
+- Krebs on Security
+  - [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
+- Deeplinks
+  - [European Court: Apple Can Not Shirk Off its Interoperability Requirements](https://www.eff.org/deeplinks/2026/07/european-court-apple-can-not-shirk-its-interoperability-requirements)
+  - [Don’t Repeat NY’s 3D Printing Blunder](https://www.eff.org/deeplinks/2026/07/dont-repeat-nys-3d-printing-blunder)
 - The Hacker News
   - [Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack](https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html)
   - [SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data](https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html)
@@ -145,28 +160,10 @@
   - [U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support](https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html)
   - [148 npm Packages Disguised as Student Proxies Turned Browsers Into a DDoS Botnet](https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html)
   - [Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity](https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html)
-- Security Affairs
-  - [Patch Tuesday security updates for July 2026, the largest update ever. 621 CVEs in one month](https://securityaffairs.com/195347/security/patch-tuesday-security-updates-for-july-2026-the-largest-update-ever-621-cves-in-one-month.html)
-  - [U.S. Treasury Sanctions VPN Provider and Cryptor Seller Behind Billions in Ransomware Losses](https://securityaffairs.com/195336/security/u-s-treasury-sanctions-vpn-provider-and-cryptor-seller-behind-billions-in-ransomware-losses.html)
-  - [Attacker Used AI to Build Custom PowerShell Recon Malware](https://securityaffairs.com/195321/hacking/attacker-used-ai-to-build-custom-powershell-recon-malware.html)
-  - [Malware Hits Japan’s Largest Taxi Company Nihon Kotsu, Services Temporarily Suspended](https://securityaffairs.com/195305/cyber-crime/malware-hits-japans-largest-taxi-company-nihon-kotsu-services-temporarily-suspended.html)
-  - [CrashStealer: New macOS Infostealer Uses Signed Apps to Evade Gatekeeper](https://securityaffairs.com/195278/malware/crashstealer-new-macos-infostealer-uses-signed-apps-to-evade-gatekeeper.html)
-- Deeplinks
-  - [European Court: Apple Can Not Shirk Off its Interoperability Requirements](https://www.eff.org/deeplinks/2026/07/european-court-apple-can-not-shirk-its-interoperability-requirements)
-  - [Don’t Repeat NY’s 3D Printing Blunder](https://www.eff.org/deeplinks/2026/07/dont-repeat-nys-3d-printing-blunder)
-- Blackhat Library: Hacking techniques and research
-  - [AntiVE-BehaviorWatch ( AI model Inside a EXE )](https://www.reddit.com/r/blackhat/comments/1uvxzne/antivebehaviorwatch_ai_model_inside_a_exe/)
-  - [How an Infostealer Infection Led to a Sophisticated ClickFix Campaign at Artlist](https://www.reddit.com/r/blackhat/comments/1uw50m0/how_an_infostealer_infection_led_to_a/)
-- Krebs on Security
-  - [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
-- Tor Project blog
-  - [New Release: Tor Browser 15.0.18](https://blog.torproject.org/new-release-tor-browser-15018/)
-- GRAHAM CLULEY
-  - [The ransomware negotiator who was working for the other side](https://www.bitdefender.com/en-us/blog/hotforsecurity/ransomware-negotiator-working-other-side)
-- Daniel Miessler
-  - [The Three Components of Becoming AI Antifragile](https://danielmiessler.com/blog/becoming-ai-antifragile?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - 安全419
   - [微步在线薛锋：攻击者迈入“工业化” 防守方亟待走出“农业时代”](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247554031&idx=1&sn=059b52a747d228d73b0a6d1b4bf79cea)
+- Daniel Miessler
+  - [The Three Components of Becoming AI Antifragile](https://danielmiessler.com/blog/becoming-ai-antifragile?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - Security Weekly Podcast Network (Audio)
   - [Mr. Data, Joomla Babooa, 1VPNS, RabbitMQ, UEFI, Center 16, Sextortion, Aaran Leyland - SWN #598](http://sites.libsyn.com/18678/mr-data-joomla-babooa-1vpns-rabbitmq-uefi-center-16-sextortion-aaran-leyland-swn-598)
   - [Discovering & Securing Your AI Agent Attack Surface - Jeremy Snyder - ASW #391](http://sites.libsyn.com/18678/discovering-securing-your-ai-agent-attack-surface-jeremy-snyder-asw-391)
