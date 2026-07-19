@@ -1,5 +1,13 @@
 # 每日安全资讯（2026-07-19）
 
+- Der Flounder
+  - [FileVault on versus off on Apple Silicon Macs](https://derflounder.wordpress.com/2026/07/18/filevault-on-versus-off-on-apple-silicon-macs/)
+- Recent Commits to cve:main
+  - [Update Sat Jul 18 12:05:33 UTC 2026](https://github.com/trickest/cve/commit/638563f1ec085a412c2e42f3935801ae34f0dfd9)
+- 博客
+  - [Raster image and Vector image](https://dyrnq.com/raster-image-and-vector-image/)
+- SecWiki News
+  - [SecWiki News 2026-07-18 Review](http://www.sec-wiki.com/?2026-07-18)
 - InfoSec Write-ups - Medium
   - [Device Code Phishing: How Attackers Abuse Microsoft’s Legitimate Authentication Page Without…](https://infosecwriteups.com/device-code-phishing-how-attackers-abuse-microsofts-legitimate-authentication-page-without-cfa189643f45?source=rss----7b722bfd1b8d---4)
   - [From SQL Injection to Infrastructure-Level RCE: A PostgreSQL Superuser Compromise](https://infosecwriteups.com/from-sql-injection-to-infrastructure-level-rce-a-postgresql-superuser-compromise-2e0169207286?source=rss----7b722bfd1b8d---4)
@@ -11,14 +19,6 @@
   - [CallMeOnTheChain — EtherRAT Lab Writeup [CyberDefenders]](https://infosecwriteups.com/callmeonthechain-etherrat-lab-writeup-cyberdefenders-e7aecaf51b7a?source=rss----7b722bfd1b8d---4)
   - [600$ For Stealing Podcasts/Show via RSS Feed Manipulation](https://infosecwriteups.com/600-for-stealing-podcasts-show-via-rss-feed-manipulation-f3f2cef08adf?source=rss----7b722bfd1b8d---4)
   - [Decoding the Obfuscated Layer: A Playbook Walkthrough of Command-Line Forensics](https://infosecwriteups.com/decoding-the-obfuscated-layer-a-playbook-walkthrough-of-command-line-forensics-d96840b5b5ef?source=rss----7b722bfd1b8d---4)
-- Der Flounder
-  - [FileVault on versus off on Apple Silicon Macs](https://derflounder.wordpress.com/2026/07/18/filevault-on-versus-off-on-apple-silicon-macs/)
-- 博客
-  - [Raster image and Vector image](https://dyrnq.com/raster-image-and-vector-image/)
-- Recent Commits to cve:main
-  - [Update Sat Jul 18 12:05:33 UTC 2026](https://github.com/trickest/cve/commit/638563f1ec085a412c2e42f3935801ae34f0dfd9)
-- SecWiki News
-  - [SecWiki News 2026-07-18 Review](http://www.sec-wiki.com/?2026-07-18)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [From User Enumeration to PII Exposure: Chaining Two APIs Into a $2,000 Bug](https://infosecwriteups.com/from-user-enumeration-to-pii-exposure-chaining-two-apis-into-a-2-000-bug-adb9ed54ab30?source=rss----7b722bfd1b8d--bug_bounty)
   - [600$ For Stealing Podcasts/Show via RSS Feed Manipulation](https://infosecwriteups.com/600-for-stealing-podcasts-show-via-rss-feed-manipulation-f3f2cef08adf?source=rss----7b722bfd1b8d--bug_bounty)
@@ -28,34 +28,32 @@
   - [重度电视观众与大脑结构缩小相关](https://www.solidot.org/story?sid=84861)
   - [Firefox 将从 9 月 1 日起每两周发布一个新版本](https://www.solidot.org/story?sid=84860)
   - [亚马逊 AWS 计费系统单位错误导致客户看到了数亿乃至数万亿美元的账单](https://www.solidot.org/story?sid=84859)
-- 长亭安全应急响应中心
-  - [【已复现】无需账号、默认配置即可 getshell——WordPress Core 远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493240&idx=1&sn=ea02a6459d38e2e217e4863121873578)
-- 天黑说嘿话
-  - [26年HW行情怎么样？](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486252&idx=1&sn=59d57c35de3a186900d39c1008ec1e02)
 - 黑鸟
   - [实时 SSH 蜜罐遥测数据展示平台](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187731&idx=1&sn=0e56f44d1cca07eb487ff0231199953c)
 - 看雪学苑
   - [深度理解 VEH-CheatEngine vs VEH-PAGE_GUARD](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617658&idx=1&sn=45dcf0e772ba18d96b8944876380c6fc)
   - [从零手写检测引擎+可视化大屏+AI 智能分析，完整交付企业级产品](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617658&idx=2&sn=3165136e6d50a1fb6b93db5441a419a8)
+- 天黑说嘿话
+  - [26年HW行情怎么样？](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486252&idx=1&sn=59d57c35de3a186900d39c1008ec1e02)
 - 中国信息安全
   - [黄殿中院士：以人为本 智能向善——回应人工智能时代之问](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264801&idx=1&sn=e94d0e028a2c2c413206120fcb31b865)
   - [专家解读｜西安电子科技大学校长高新波：融通全球互信互联互操作 共促智能体协同向强向善](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264801&idx=2&sn=2c3b6df7e6316c88e1dfedadc2b224d2)
   - [蚂蚁大安全CTO陈亮：智能体越强，信任风险越不容忽视](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264801&idx=3&sn=ed56d9be6e458762144943969768c93b)
+- 数世咨询
+  - [世界人工智能大会|人工智能安全漏洞治理联盟正式成立](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543523&idx=1&sn=2f18d16f6fa17588b26054a6ef367b2a)
+- 软件安全与逆向分析
+  - [我有一机，可破万检！它叫多多云机，简称多云](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485364&idx=1&sn=f53b2f0bbd5c09b9c67c5dbdd7214594)
 - 安全圈
   - [【安全圈】工信部点名AI编程工具偷传代码到境外](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077891&idx=1&sn=e88d1678cfb4fd1a66a0d4aa3cccd914)
   - [【安全圈】WordPress致命漏洞：无需密码即可远程控制](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077891&idx=2&sn=1e6c79980d3efbe5351e4760aa11aa3c)
   - [【安全圈】新型僵尸网络专偷AI服务API密钥](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077891&idx=3&sn=7f9209051bcf1871609e66259b7abaee)
-- 数世咨询
-  - [世界人工智能大会|人工智能安全漏洞治理联盟正式成立](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543523&idx=1&sn=2f18d16f6fa17588b26054a6ef367b2a)
-- 安全分析与研究
-  - [可解释性与机械可解释性](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496910&idx=1&sn=50ad0d8b4c0421de98b47930174ac7e5)
-  - [Bitter（APT-C-08）APT组织深度分析报告](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496910&idx=2&sn=2f8fd902e19b520e2900c70b241f77df)
 - 极客公园
   - [WAIC 全场少见：极智嘉交出兼顾泛化能力与作业效率的答卷](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653110779&idx=1&sn=0ffe7a995e181587377aa0108682fa60)
   - [拿下 WAIC 镇馆之宝，这台「智能体手机」重新定义了什么？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653110776&idx=1&sn=ef534809f94afbb66c46e0fce4309710)
   - [苹果重回全球市值第一宝座；影视飓风 AI 课单日营收 500 万；华强北内存价格暴涨 320%](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653110726&idx=1&sn=7fe28d9dc84e2b1a07e2bc12f8484eb1)
-- 软件安全与逆向分析
-  - [我有一机，可破万检！它叫多多云机，简称多云](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485364&idx=1&sn=f53b2f0bbd5c09b9c67c5dbdd7214594)
+- 安全分析与研究
+  - [可解释性与机械可解释性](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496910&idx=1&sn=50ad0d8b4c0421de98b47930174ac7e5)
+  - [Bitter（APT-C-08）APT组织深度分析报告](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496910&idx=2&sn=2f8fd902e19b520e2900c70b241f77df)
 - 慢雾科技
   - [xAI Grok Build 开源次日 0day 挖掘：信任机制绕过与 AI 编程工具的安全碎片化](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505450&idx=1&sn=ae635e290bb3eae061844bce426261c4)
 - 丁爸 情报分析师的工具箱
@@ -65,38 +63,41 @@
   - [Cyber-spionaggio mirato e messaggistica istantanea: spyware Graphite tra tecnica, diritto ed etica](https://www.ictsecuritymagazine.com/articoli/spyware-graphite-spionaggio/)
   - [wp2shell, la RCE pre-autenticazione che rimette in discussione il WordPress Core](https://www.ictsecuritymagazine.com/notizie/wordpress-core-wp2shell-rce/)
   - [Data Security Posture Management (DSPM): mappare i dati sensibili prima che l’esposizione diventi un incidente](https://www.ictsecuritymagazine.com/articoli/data-security-posture-management-dspm/)
-- 娜璋AI安全之家
-  - [《数字人文技术及运用》课程有感：且教且学且珍惜](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247503053&idx=1&sn=3df5b63dff9a08489ead7d41077812d9)
-- Daniel Miessler
-  - [Kimi K3 Might Have Just Started a Crash of the US Economy](https://danielmiessler.com/blog/kimi-k3-us-economy?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - BorderGate
   - [NoSQL Injection](https://www.bordergate.co.uk/nosql-injection/)
-- Security Affairs
-  - [OpenSSL Fixes HollowByte Memory Exhaustion Bug](https://securityaffairs.com/195588/hacking/openssl-fixes-hollowbyte-memory-exhaustion-bug.html)
-  - [Daxin: 13-Year-Old China-Linked Malware Found Still Active on Manufacturer’s Network](https://securityaffairs.com/195577/malware/daxin-13-year-old-china-linked-malware-found-still-active-on-manufacturers-network.html)
-  - [U.S. CISA adds Fortinet FortiSandbox and Microsoft SharePoint flaws to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/195569/security/u-s-cisa-adds-fortinet-fortisandbox-and-microsoft-sharepoint-flaws-to-its-known-exploited-vulnerabilities-catalog.html)
+- 长亭安全应急响应中心
+  - [【已复现】无需账号、默认配置即可 getshell——WordPress Core 远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493240&idx=1&sn=ea02a6459d38e2e217e4863121873578)
 - Chaos Computer Club - last 100 events feed
-  - [Phones for the Deaf (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-7601-eng-Phones_for_the_Deaf_sd.mp4)
   - [Killing the astrophysical chameleon (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-24601-eng-Killing_the_astrophysical_chameleon_sd.mp4)
   - [Breaking in to buildings with boobs (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-20601-eng-Breaking_in_to_buildings_with_boobs_sd.mp4)
-  - [OBD-II: Obviously Broken Design, Too... My Introduction into car-hacking (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-5701-eng-OBD-II_Obviously_Broken_Design_Too_My_Introduction_into_car-hacking_sd.mp4)
+  - [Closing Ceremony (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-27901-eng-Closing_Ceremony_sd.mp4)
+  - [An Internet for the Solar System (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-4501-eng-An_Internet_for_the_Solar_System_sd.mp4)
+  - [Turning the EMFcamp 2018 badge into a radiotelescope (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-15501-eng-Turning_the_EMFcamp_2018_badge_into_a_radiotelescope_sd.mp4)
   - [Temperature in space - how and why we make consistently accurate measurements in the most inhospitable environment (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-4001-eng-Temperature_in_space_-_how_and_why_we_make_consistently_accurate_measurements_in_the_most_inhospitable_environment_sd.mp4)
   - ["Don't set fire to the singer!"; Making a video jacket for a world concert tour. (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-3701-eng-Dont_set_fire_to_the_singer_Making_a_video_jacket_for_a_world_concert_tour_sd.mp4)
   - [From zero to engineering superhero (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-22601-eng-From_zero_to_engineering_superhero_sd.mp4)
   - [Have you thought about your digital legacy? (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-15101-eng-Have_you_thought_about_your_digital_legacy_sd.mp4)
-  - [Turning the EMFcamp 2018 badge into a radiotelescope (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-15501-eng-Turning_the_EMFcamp_2018_badge_into_a_radiotelescope_sd.mp4)
   - [How I became (nearly) as strong as the average untrained man (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-16001-eng-How_I_became_nearly_as_strong_as_the_average_untrained_man_sd.mp4)
-  - [Taking the fun out of bird-watching: microphone array, beam-forming, and acoustic manifolds (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-8301-eng-Taking_the_fun_out_of_bird-watching_microphone_array_beam-forming_and_acoustic_manifolds_sd.mp4)
-  - [They Forgot What Happened Last Time: hacking the Windows 365 Link (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-9301-eng-They_Forgot_What_Happened_Last_Time_hacking_the_Windows_365_Link_sd.mp4)
-  - [Did a Robot Knit Your Jumper? (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-20301-eng-Did_a_Robot_Knit_Your_Jumper_sd.mp4)
   - [Dubstep Carrots - your gateway vegetable to accessible music making (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-23701-eng-Dubstep_Carrots_-_your_gateway_vegetable_to_accessible_music_making_sd.mp4)
   - [Life on a Pale Red Dot (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-43501-eng-Life_on_a_Pale_Red_Dot_sd.mp4)
-  - [Infrastructure Review (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-12401-eng-Infrastructure_Review_sd.mp4)
-  - [What's in a number plate? (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-4801-eng-Whats_in_a_number_plate_sd.mp4)
-  - [How To Debug A Human: An Engineer’s Guide To Emergency Medicine (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-7701-eng-How_To_Debug_A_Human_An_Engineers_Guide_To_Emergency_Medicine_sd.mp4)
-  - [Closing Ceremony (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-27901-eng-Closing_Ceremony_sd.mp4)
-  - [Levitation, from hovercrafts to holograms (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-21801-eng-Levitation_from_hovercrafts_to_holograms_sd.mp4)
-  - [An Internet for the Solar System (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-4501-eng-An_Internet_for_the_Solar_System_sd.mp4)
+  - [Phones for the Deaf (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-7601-eng-Phones_for_the_Deaf_sd.mp4)
   - [Mum, can I play Roblox? Navigating online gaming safety for parents and caregivers (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-15901-eng-Mum_can_I_play_Roblox_Navigating_online_gaming_safety_for_parents_and_caregivers_sd.mp4)
+  - [Levitation, from hovercrafts to holograms (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-21801-eng-Levitation_from_hovercrafts_to_holograms_sd.mp4)
+  - [They Forgot What Happened Last Time: hacking the Windows 365 Link (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-9301-eng-They_Forgot_What_Happened_Last_Time_hacking_the_Windows_365_Link_sd.mp4)
+  - [OBD-II: Obviously Broken Design, Too... My Introduction into car-hacking (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-5701-eng-OBD-II_Obviously_Broken_Design_Too_My_Introduction_into_car-hacking_sd.mp4)
+  - [Infrastructure Review (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-12401-eng-Infrastructure_Review_sd.mp4)
+  - [Did a Robot Knit Your Jumper? (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-20301-eng-Did_a_Robot_Knit_Your_Jumper_sd.mp4)
+  - [How To Debug A Human: An Engineer’s Guide To Emergency Medicine (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-7701-eng-How_To_Debug_A_Human_An_Engineers_Guide_To_Emergency_Medicine_sd.mp4)
+  - [What's in a number plate? (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-4801-eng-Whats_in_a_number_plate_sd.mp4)
+  - [Taking the fun out of bird-watching: microphone array, beam-forming, and acoustic manifolds (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-8301-eng-Taking_the_fun_out_of_bird-watching_microphone_array_beam-forming_and_acoustic_manifolds_sd.mp4)
+  - [So - how does the Internet really work (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-9801-eng-So_-_how_does_the_Internet_really_work_sd.mp4)
+- Security Affairs
+  - [OpenSSL Fixes HollowByte Memory Exhaustion Bug](https://securityaffairs.com/195588/hacking/openssl-fixes-hollowbyte-memory-exhaustion-bug.html)
+  - [Daxin: 13-Year-Old China-Linked Malware Found Still Active on Manufacturer’s Network](https://securityaffairs.com/195577/malware/daxin-13-year-old-china-linked-malware-found-still-active-on-manufacturers-network.html)
+  - [U.S. CISA adds Fortinet FortiSandbox and Microsoft SharePoint flaws to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/195569/security/u-s-cisa-adds-fortinet-fortisandbox-and-microsoft-sharepoint-flaws-to-its-known-exploited-vulnerabilities-catalog.html)
+- 娜璋AI安全之家
+  - [《数字人文技术及运用》课程有感：且教且学且珍惜](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247503053&idx=1&sn=3df5b63dff9a08489ead7d41077812d9)
 - 希潭实验室
   - [第170篇：2026年攻防比赛中漏洞类型总结（AI改变漏洞挖掘方式）](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247488506&idx=1&sn=47235d2dccf2695a9575db35928d19ec)
+- Daniel Miessler
+  - [Kimi K3 Might Have Just Started a Crash of the US Economy](https://danielmiessler.com/blog/kimi-k3-us-economy?utm_source=rss&utm_medium=feed&utm_campaign=website)
