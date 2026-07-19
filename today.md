@@ -1,7 +1,5 @@
 # 每日安全资讯（2026-07-19）
 
-- SecWiki News
-  - [SecWiki News 2026-07-18 Review](http://www.sec-wiki.com/?2026-07-18)
 - InfoSec Write-ups - Medium
   - [Device Code Phishing: How Attackers Abuse Microsoft’s Legitimate Authentication Page Without…](https://infosecwriteups.com/device-code-phishing-how-attackers-abuse-microsofts-legitimate-authentication-page-without-cfa189643f45?source=rss----7b722bfd1b8d---4)
   - [From SQL Injection to Infrastructure-Level RCE: A PostgreSQL Superuser Compromise](https://infosecwriteups.com/from-sql-injection-to-infrastructure-level-rce-a-postgresql-superuser-compromise-2e0169207286?source=rss----7b722bfd1b8d---4)
@@ -13,21 +11,20 @@
   - [CallMeOnTheChain — EtherRAT Lab Writeup [CyberDefenders]](https://infosecwriteups.com/callmeonthechain-etherrat-lab-writeup-cyberdefenders-e7aecaf51b7a?source=rss----7b722bfd1b8d---4)
   - [600$ For Stealing Podcasts/Show via RSS Feed Manipulation](https://infosecwriteups.com/600-for-stealing-podcasts-show-via-rss-feed-manipulation-f3f2cef08adf?source=rss----7b722bfd1b8d---4)
   - [Decoding the Obfuscated Layer: A Playbook Walkthrough of Command-Line Forensics](https://infosecwriteups.com/decoding-the-obfuscated-layer-a-playbook-walkthrough-of-command-line-forensics-d96840b5b5ef?source=rss----7b722bfd1b8d---4)
+- Der Flounder
+  - [FileVault on versus off on Apple Silicon Macs](https://derflounder.wordpress.com/2026/07/18/filevault-on-versus-off-on-apple-silicon-macs/)
 - Recent Commits to cve:main
   - [Update Sat Jul 18 12:05:33 UTC 2026](https://github.com/trickest/cve/commit/638563f1ec085a412c2e42f3935801ae34f0dfd9)
 - 博客
   - [Raster image and Vector image](https://dyrnq.com/raster-image-and-vector-image/)
-- Der Flounder
-  - [FileVault on versus off on Apple Silicon Macs](https://derflounder.wordpress.com/2026/07/18/filevault-on-versus-off-on-apple-silicon-macs/)
+- SecWiki News
+  - [SecWiki News 2026-07-18 Review](http://www.sec-wiki.com/?2026-07-18)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [From User Enumeration to PII Exposure: Chaining Two APIs Into a $2,000 Bug](https://infosecwriteups.com/from-user-enumeration-to-pii-exposure-chaining-two-apis-into-a-2-000-bug-adb9ed54ab30?source=rss----7b722bfd1b8d--bug_bounty)
   - [600$ For Stealing Podcasts/Show via RSS Feed Manipulation](https://infosecwriteups.com/600-for-stealing-podcasts-show-via-rss-feed-manipulation-f3f2cef08adf?source=rss----7b722bfd1b8d--bug_bounty)
-- 奇客Solidot–传递最新科技情报
-  - [手动挡汽车越来越少见](https://www.solidot.org/story?sid=84863)
-  - [天文学家确认了 25 光年外的一颗位于宜居带的岩石行星](https://www.solidot.org/story?sid=84862)
-  - [重度电视观众有更小的大脑结构](https://www.solidot.org/story?sid=84861)
-  - [Firefox 将从 9 月 1 日起每两周发布一个新版本](https://www.solidot.org/story?sid=84860)
-  - [亚马逊 AWS 计费系统单位错误导致客户看到了数亿乃至数万亿美元的账单](https://www.solidot.org/story?sid=84859)
+- Reverse Engineering
+  - [Making a mod for Grand Prix Circuit (DSI / Accolade, 1988)](https://www.reddit.com/r/ReverseEngineering/comments/1uzya8i/making_a_mod_for_grand_prix_circuit_dsi_accolade/)
+  - [Automated reverse engineering of Android apps](https://www.reddit.com/r/ReverseEngineering/comments/1uzsmtw/automated_reverse_engineering_of_android_apps/)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [联邦雇员又可以在工作手机上安装TikTok](https://blog.upx8.com/%E8%81%94%E9%82%A6%E9%9B%87%E5%91%98%E5%8F%88%E5%8F%AF%E4%BB%A5%E5%9C%A8%E5%B7%A5%E4%BD%9C%E6%89%8B%E6%9C%BA%E4%B8%8A%E5%AE%89%E8%A3%85TikTok)
   - [印度首枚自主研发轨道火箭成功升空](https://blog.upx8.com/%E5%8D%B0%E5%BA%A6%E9%A6%96%E6%9E%9A%E8%87%AA%E4%B8%BB%E7%A0%94%E5%8F%91%E8%BD%A8%E9%81%93%E7%81%AB%E7%AE%AD%E6%88%90%E5%8A%9F%E5%8D%87%E7%A9%BA)
@@ -35,24 +32,30 @@
   - [苹果就反垄断诉讼与美司法部进行和解谈判](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%B0%B1%E5%8F%8D%E5%9E%84%E6%96%AD%E8%AF%89%E8%AE%BC%E4%B8%8E%E7%BE%8E%E5%8F%B8%E6%B3%95%E9%83%A8%E8%BF%9B%E8%A1%8C%E5%92%8C%E8%A7%A3%E8%B0%88%E5%88%A4)
 - 黑鸟
   - [实时 SSH 蜜罐遥测数据展示平台](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187731&idx=1&sn=0e56f44d1cca07eb487ff0231199953c)
-- 看雪学苑
-  - [深度理解 VEH-CheatEngine vs VEH-PAGE_GUARD](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617658&idx=1&sn=45dcf0e772ba18d96b8944876380c6fc)
-  - [从零手写检测引擎+可视化大屏+AI 智能分析，完整交付企业级产品](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617658&idx=2&sn=3165136e6d50a1fb6b93db5441a419a8)
-- 中国信息安全
-  - [黄殿中院士：以人为本 智能向善——回应人工智能时代之问](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264801&idx=1&sn=e94d0e028a2c2c413206120fcb31b865)
-  - [专家解读｜西安电子科技大学校长高新波：融通全球互信互联互操作 共促智能体协同向强向善](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264801&idx=2&sn=2c3b6df7e6316c88e1dfedadc2b224d2)
-  - [蚂蚁大安全CTO陈亮：智能体越强，信任风险越不容忽视](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264801&idx=3&sn=ed56d9be6e458762144943969768c93b)
+- 奇客Solidot–传递最新科技情报
+  - [手动挡汽车越来越少见](https://www.solidot.org/story?sid=84863)
+  - [天文学家确认了 25 光年外的一颗位于宜居带的岩石行星](https://www.solidot.org/story?sid=84862)
+  - [重度电视观众与大脑结构缩小相关](https://www.solidot.org/story?sid=84861)
+  - [Firefox 将从 9 月 1 日起每两周发布一个新版本](https://www.solidot.org/story?sid=84860)
+  - [亚马逊 AWS 计费系统单位错误导致客户看到了数亿乃至数万亿美元的账单](https://www.solidot.org/story?sid=84859)
+- 安全分析与研究
+  - [可解释性与机械可解释性](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496910&idx=1&sn=50ad0d8b4c0421de98b47930174ac7e5)
+  - [Bitter（APT-C-08）APT组织深度分析报告](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496910&idx=2&sn=2f8fd902e19b520e2900c70b241f77df)
 - 天黑说嘿话
   - [26年HW行情怎么样？](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486252&idx=1&sn=59d57c35de3a186900d39c1008ec1e02)
 - 安全圈
   - [【安全圈】工信部点名AI编程工具偷传代码到境外](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077891&idx=1&sn=e88d1678cfb4fd1a66a0d4aa3cccd914)
   - [【安全圈】WordPress致命漏洞：无需密码即可远程控制](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077891&idx=2&sn=1e6c79980d3efbe5351e4760aa11aa3c)
   - [【安全圈】新型僵尸网络专偷AI服务API密钥](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077891&idx=3&sn=7f9209051bcf1871609e66259b7abaee)
+- 中国信息安全
+  - [黄殿中院士：以人为本 智能向善——回应人工智能时代之问](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264801&idx=1&sn=e94d0e028a2c2c413206120fcb31b865)
+  - [专家解读｜西安电子科技大学校长高新波：融通全球互信互联互操作 共促智能体协同向强向善](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264801&idx=2&sn=2c3b6df7e6316c88e1dfedadc2b224d2)
+  - [蚂蚁大安全CTO陈亮：智能体越强，信任风险越不容忽视](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264801&idx=3&sn=ed56d9be6e458762144943969768c93b)
 - 数世咨询
   - [世界人工智能大会|人工智能安全漏洞治理联盟正式成立](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543523&idx=1&sn=2f18d16f6fa17588b26054a6ef367b2a)
-- 安全分析与研究
-  - [可解释性与机械可解释性](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496910&idx=1&sn=50ad0d8b4c0421de98b47930174ac7e5)
-  - [Bitter（APT-C-08）APT组织深度分析报告](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496910&idx=2&sn=2f8fd902e19b520e2900c70b241f77df)
+- 看雪学苑
+  - [深度理解 VEH-CheatEngine vs VEH-PAGE_GUARD](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617658&idx=1&sn=45dcf0e772ba18d96b8944876380c6fc)
+  - [从零手写检测引擎+可视化大屏+AI 智能分析，完整交付企业级产品](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617658&idx=2&sn=3165136e6d50a1fb6b93db5441a419a8)
 - 极客公园
   - [WAIC 全场少见：极智嘉交出兼顾泛化能力与作业效率的答卷](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653110779&idx=1&sn=0ffe7a995e181587377aa0108682fa60)
   - [拿下 WAIC 镇馆之宝，这台「智能体手机」重新定义了什么？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653110776&idx=1&sn=ef534809f94afbb66c46e0fce4309710)
@@ -61,19 +64,30 @@
   - [我有一机，可破万检！它叫多多云机，简称多云](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485364&idx=1&sn=f53b2f0bbd5c09b9c67c5dbdd7214594)
 - 慢雾科技
   - [xAI Grok Build 开源次日 0day 挖掘：信任机制绕过与 AI 编程工具的安全碎片化](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505450&idx=1&sn=ae635e290bb3eae061844bce426261c4)
+- 娜璋AI安全之家
+  - [《数字人文技术及运用》课程有感：且教且学且珍惜](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247503053&idx=1&sn=3df5b63dff9a08489ead7d41077812d9)
 - ICT Security Magazine
   - [Cyber-spionaggio mirato e messaggistica istantanea: spyware Graphite tra tecnica, diritto ed etica](https://www.ictsecuritymagazine.com/articoli/spyware-graphite-spionaggio/)
   - [wp2shell, la RCE pre-autenticazione che rimette in discussione il WordPress Core](https://www.ictsecuritymagazine.com/notizie/wordpress-core-wp2shell-rce/)
   - [Data Security Posture Management (DSPM): mappare i dati sensibili prima che l’esposizione diventi un incidente](https://www.ictsecuritymagazine.com/articoli/data-security-posture-management-dspm/)
 - BorderGate
   - [NoSQL Injection](https://www.bordergate.co.uk/nosql-injection/)
+- Chaos Computer Club - last 100 events feed
+  - [An Internet for the Solar System (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-hd/emf2026-4501-eng-An_Internet_for_the_Solar_System_hd.mp4)
+  - [Killing the astrophysical chameleon (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-hd/emf2026-24601-eng-Killing_the_astrophysical_chameleon_hd.mp4)
+  - [How I became (nearly) as strong as the average untrained man (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-hd/emf2026-16001-eng-How_I_became_nearly_as_strong_as_the_average_untrained_man_hd.mp4)
+  - [Have you thought about your digital legacy? (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-15101-eng-Have_you_thought_about_your_digital_legacy_sd.mp4)
+  - [What's in a number plate? (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-hd/emf2026-4801-eng-Whats_in_a_number_plate_hd.mp4)
+  - [From zero to engineering superhero (emf2026)](https://cdn.media.ccc.de/events/emf/2026/h264-sd/emf2026-22601-eng-From_zero_to_engineering_superhero_sd.mp4)
 - Security Affairs
   - [OpenSSL Fixes HollowByte Memory Exhaustion Bug](https://securityaffairs.com/195588/hacking/openssl-fixes-hollowbyte-memory-exhaustion-bug.html)
   - [Daxin: 13-Year-Old China-Linked Malware Found Still Active on Manufacturer’s Network](https://securityaffairs.com/195577/malware/daxin-13-year-old-china-linked-malware-found-still-active-on-manufacturers-network.html)
   - [U.S. CISA adds Fortinet FortiSandbox and Microsoft SharePoint flaws to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/195569/security/u-s-cisa-adds-fortinet-fortisandbox-and-microsoft-sharepoint-flaws-to-its-known-exploited-vulnerabilities-catalog.html)
+- Deep Web
+  - [The Next Generation of Crypto Swaps](https://www.reddit.com/r/deepweb/comments/1v0atjw/the_next_generation_of_crypto_swaps/)
+  - [Still Trusting Centralized Exchanges? 👀](https://www.reddit.com/r/deepweb/comments/1v0b572/still_trusting_centralized_exchanges/)
+  - [Why do my icons suddenly look like this and all my steam games undownloaded](https://www.reddit.com/r/deepweb/comments/1uzwcz0/why_do_my_icons_suddenly_look_like_this_and_all/)
 - Daniel Miessler
   - [Kimi K3 Might Have Just Started a Crash of the US Economy](https://danielmiessler.com/blog/kimi-k3-us-economy?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- 娜璋AI安全之家
-  - [《数字人文技术及运用》课程有感：且教且学且珍惜](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247503053&idx=1&sn=3df5b63dff9a08489ead7d41077812d9)
 - 希潭实验室
   - [第170篇：2026年攻防比赛中漏洞类型总结（AI改变漏洞挖掘方式）](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247488506&idx=1&sn=47235d2dccf2695a9575db35928d19ec)
