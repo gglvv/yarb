@@ -1,9 +1,5 @@
 # 每日安全资讯（2026-07-20）
 
-- SecWiki News
-  - [SecWiki News 2026-07-19 Review](http://www.sec-wiki.com/?2026-07-19)
-- Recent Commits to cve:main
-  - [Update Sun Jul 19 12:00:28 UTC 2026](https://github.com/trickest/cve/commit/b4f1378756fd26f414d09a97dc81126672830951)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [Joomla Page Builder CK < = 3.5.10 - Unauthenticated Arbitrary File Upload (RCE)](https://cxsecurity.com/issue/WLB-2026070010)
   - [Microsoft Edge < = 150.0.4078.48 (Chromium-based) Type Confusion RCE](https://cxsecurity.com/issue/WLB-2026070009)
@@ -11,10 +7,12 @@
   - [Langflow 1.3.0 Remote Code Execution](https://cxsecurity.com/issue/WLB-2026070007)
   - [Krayin CRM v2.2.x Authenticated Remote Code Execution](https://cxsecurity.com/issue/WLB-2026070006)
   - [PraisonAI CodeAgent < = 1.6.77 Remote Code Execution (RCE) via Unsandboxed LLM Code Execution](https://cxsecurity.com/issue/WLB-2026070005)
-- Taxodium
-  - [小象超市鮮啤簡評](https://taxodium.ink/xiaoxiang-supermarket-fresh-beer-review.html)
 - 博客
   - [macrobench and benchmark](https://dyrnq.com/macrobench-and-benchmark/)
+- SecWiki News
+  - [SecWiki News 2026-07-19 Review](http://www.sec-wiki.com/?2026-07-19)
+- Recent Commits to cve:main
+  - [Update Sun Jul 19 12:00:28 UTC 2026](https://github.com/trickest/cve/commit/b4f1378756fd26f414d09a97dc81126672830951)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]大模型持久化记忆研究笔记](https://key08.com/index.php/2026/07/19/3219.html)
   - [[2026]冲鸭两周年:大模型针对Agent的垂直微调](https://key08.com/index.php/2026/07/19/3217.html)
@@ -26,58 +24,55 @@
   - [《半秒钟》——XZ 后门启示录](https://www.solidot.org/story?sid=84866)
   - [数据中心抗议席卷美国](https://www.solidot.org/story?sid=84865)
   - [法国命令 ISP 屏蔽 Polymarket](https://www.solidot.org/story?sid=84864)
-- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [汽车OTA带来的网络安全风险已引起担忧](https://blog.upx8.com/%E6%B1%BD%E8%BD%A6OTA%E5%B8%A6%E6%9D%A5%E7%9A%84%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9%E5%B7%B2%E5%BC%95%E8%B5%B7%E6%8B%85%E5%BF%A7)
-  - [美国反数据中心运动蔓延向全国 AI基建热潮遭遇阻力](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%8F%8D%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E8%BF%90%E5%8A%A8%E8%94%93%E5%BB%B6%E5%90%91%E5%85%A8%E5%9B%BD-AI%E5%9F%BA%E5%BB%BA%E7%83%AD%E6%BD%AE%E9%81%AD%E9%81%87%E9%98%BB%E5%8A%9B)
-- 黑鸟
-  - [关于Token经济学与节省方案](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187738&idx=1&sn=e8e54df66a3b0f75ec06bdc7e1a7026d)
 - 我的安全视界观
   - [【AI复盘】日产汽车员工数据泄露事件](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487832&idx=1&sn=f64d91959445ffba8dc5b44f9125a806)
+- 安全分析与研究
+  - [模型供应链安全与水印](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496916&idx=1&sn=dfc2c7feebf633aa1301bbdbd1e1135b)
+- 青衣十三楼飞花堂
+  - [腾达P3+PA3母子电力猫配置说明](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489704&idx=1&sn=204e512fed87e2d737a2f7a18de2290b)
+- 猎户攻防实验室
+  - [【漏洞预警】WordPress wp2shell 紧急漏洞预警：CVE-2026-63030 / CVE-2026-60137 未授权 RCE 链](https://mp.weixin.qq.com/s?__biz=MzI1NDg4MTIxMw==&mid=2247486761&idx=1&sn=b116dd76dfb5663aa23bef2ffb035496)
 - 天御攻防实验室
   - [数据 -> 信息 -> 情报：威胁情报实践的现实思考](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487042&idx=1&sn=8e440b3d1d5c9233a6805ebbca535efb)
 - 天黑说嘿话
   - [历年HW大瓜](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486254&idx=1&sn=ea3f29b5d4900d045fe0421f40e0169b)
-- 青衣十三楼飞花堂
-  - [腾达P3+PA3母子电力猫配置说明](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489704&idx=1&sn=204e512fed87e2d737a2f7a18de2290b)
-- 安全分析与研究
-  - [模型供应链安全与水印](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496916&idx=1&sn=dfc2c7feebf633aa1301bbdbd1e1135b)
+- 黑鸟
+  - [关于Token经济学与节省方案](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187738&idx=1&sn=e8e54df66a3b0f75ec06bdc7e1a7026d)
 - 安全圈
   - [【安全圈】字节TRAE插件市场被指不删除恶意插件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077917&idx=1&sn=a53a4546eac3ebd8903be1948fbe9300)
   - [【安全圈】微软7月修622个CVE创纪录](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077917&idx=2&sn=b266af7e66610d9049e7767967150ca0)
   - [【安全圈】Chrome 148修复3个严重级，已遭实际利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077917&idx=3&sn=12e96b390fb1234635a936e1fd70176e)
-- 中国信息安全
-  - [聚焦 | 2026世界人工智能大会智能社会论坛在上海举办](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264808&idx=1&sn=7cd3c2d93380a9d1e014a4668492cc3b)
-  - [专家解读 | 以数据产权登记为抓手 探索商业银行数据资产化新路径](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264808&idx=2&sn=f0d74809773f829c5936c341046c51c3)
-- 猎户攻防实验室
-  - [【漏洞预警】WordPress wp2shell 紧急漏洞预警：CVE-2026-63030 / CVE-2026-60137 未授权 RCE 链](https://mp.weixin.qq.com/s?__biz=MzI1NDg4MTIxMw==&mid=2247486761&idx=1&sn=b116dd76dfb5663aa23bef2ffb035496)
-- 奇安信 CERT
-  - [【已复现】无需账号密码即可 RCE——WordPress REST API 批处理路由混淆与 SQL 注入组合利用安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506720&idx=1&sn=395e656dda950f7619cc76f2d3e05d1e)
 - 极客公园
   - [给「AI 组织」交了好几波学费后，终于看清了这五级台阶](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653110797&idx=1&sn=046da4f8e3c0f69c96f4873e26855bf8)
   - [马斯克：Grok 4.6 下周完成训练，2 万亿参数；OpenRouter 估值超 13 亿美元；腾讯 WorkBuddy 上线安卓 / iOS / 鸿蒙| 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653110796&idx=1&sn=2b56027589bec7d9c66b0c0c0a24995c)
+- 中国信息安全
+  - [聚焦 | 2026世界人工智能大会智能社会论坛在上海举办](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264808&idx=1&sn=7cd3c2d93380a9d1e014a4668492cc3b)
+  - [专家解读 | 以数据产权登记为抓手 探索商业银行数据资产化新路径](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664264808&idx=2&sn=f0d74809773f829c5936c341046c51c3)
 - 表图
   - [[译苑雅集Vol. 16]和历史上的技术革命一样， AI 创造的回报，最终会流向价值链上的稀缺环节](https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247485120&idx=1&sn=87a5bad98a7d07d2fa579d0a6f3e244c)
+- 自在安全
+  - [WordPress 核心框架严重漏洞 wp2shell ：从路由错位到 SQL 注入再到 RCE](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492898&idx=1&sn=a509a16301531642ba529a3d28a11e71)
+- 奇安信 CERT
+  - [【已复现】无需账号密码即可 RCE——WordPress REST API 批处理路由混淆与 SQL 注入组合利用安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506720&idx=1&sn=395e656dda950f7619cc76f2d3e05d1e)
+- ICT Security Magazine
+  - [Post-incident review: la fase che tutti documentano e quasi nessuno fa sul serio](https://www.ictsecuritymagazine.com/articoli/post-incident-review-lessons-learned/)
 - Have I Been Pwned latest breaches
   - [Paidwork - 23,272,765 breached accounts](https://haveibeenpwned.com/Breach/Paidwork)
 - SANS Internet Storm Center, InfoCON: green
   - [Scans for Hikvision Intelligent Security API, (Sun, Jul 19th)](https://isc.sans.edu/diary/rss/33164)
-- ICT Security Magazine
-  - [Post-incident review: la fase che tutti documentano e quasi nessuno fa sul serio](https://www.ictsecuritymagazine.com/articoli/post-incident-review-lessons-learned/)
-- 自在安全
-  - [WordPress 核心框架严重漏洞 wp2shell ：从路由错位到 SQL 注入再到 RCE](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492898&idx=1&sn=a509a16301531642ba529a3d28a11e71)
 - BorderGate
   - [GraphQL](https://www.bordergate.co.uk/graphql/)
-- The Hacker News
-  - [Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution](https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html)
-  - [UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware](https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html)
-  - [SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access](https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html)
+- Computer Forensics
+  - [Tech to forensics](https://www.reddit.com/r/computerforensics/comments/1v0nlls/tech_to_forensics/)
 - Security Affairs
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 106](https://securityaffairs.com/195620/malware/security-affairs-malware-newsletter-round-106.html)
   - [Security Affairs newsletter Round 586 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/195611/breaking-news/security-affairs-newsletter-round-586-by-pierluigi-paganini-international-edition.html)
   - [Attackers Can Take Over WordPress Sites Using Newly Released wp2shell Exploits](https://securityaffairs.com/195597/hacking/attackers-can-take-over-wordpress-sites-using-newly-released-wp2shell-exploits.html)
-- Deep Web
-  - [[Mature Content] From the TOR community on Reddit: Crazy stuff going download e you and I saw a dud of a dude 2 full bottles of qualifies](https://www.reddit.com/r/deepweb/comments/1v0gkwb/mature_content_from_the_tor_community_on_reddit/)
-- OnionSec
-  - [看见世界](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485863&idx=1&sn=f43b0c8a4354fb1803baff4bdd1c359f)
+- The Hacker News
+  - [Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution](https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html)
+  - [UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware](https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html)
+  - [SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access](https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html)
 - Daniel Miessler
   - [AI Is Just Thinking and Doing](https://danielmiessler.com/blog/ai-is-thinking-and-doing?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- OnionSec
+  - [看见世界](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485863&idx=1&sn=f43b0c8a4354fb1803baff4bdd1c359f)
