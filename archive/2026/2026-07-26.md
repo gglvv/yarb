@@ -1,9 +1,9 @@
 # 每日安全资讯（2026-07-26）
 
-- Recent Commits to cve:main
-  - [Update Sat Jul 25 11:57:35 UTC 2026](https://github.com/trickest/cve/commit/1ba39e3ba737b838bba789f1cc5a339b5a2399ad)
 - SecWiki News
   - [SecWiki News 2026-07-25 Review](http://www.sec-wiki.com/?2026-07-25)
+- Recent Commits to cve:main
+  - [Update Sat Jul 25 11:57:35 UTC 2026](https://github.com/trickest/cve/commit/1ba39e3ba737b838bba789f1cc5a339b5a2399ad)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]把大模型意识与记忆存到硬盘里面（上）](https://key08.com/index.php/2026/07/25/3251.html)
 - daniel.haxx.se
@@ -13,47 +13,47 @@
   - [中国联通香港开始限制在内地激活储值卡](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E8%81%94%E9%80%9A%E9%A6%99%E6%B8%AF%E5%BC%80%E5%A7%8B%E9%99%90%E5%88%B6%E5%9C%A8%E5%86%85%E5%9C%B0%E6%BF%80%E6%B4%BB%E5%82%A8%E5%80%BC%E5%8D%A1)
   - [印度命令GitHub移除蓝牙聊天应用Bitchat](https://blog.upx8.com/%E5%8D%B0%E5%BA%A6%E5%91%BD%E4%BB%A4GitHub%E7%A7%BB%E9%99%A4%E8%93%9D%E7%89%99%E8%81%8A%E5%A4%A9%E5%BA%94%E7%94%A8Bitchat)
   - [谷歌罚款点燃特朗普怒火 欧盟再次面临巨额关税威胁](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E7%BD%9A%E6%AC%BE%E7%82%B9%E7%87%83%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E7%81%AB-%E6%AC%A7%E7%9B%9F%E5%86%8D%E6%AC%A1%E9%9D%A2%E4%B8%B4%E5%B7%A8%E9%A2%9D%E5%85%B3%E7%A8%8E%E5%A8%81%E8%83%81)
-- 黑鸟
-  - [研究人员公布usbliter8 硬件漏洞越狱iOS 27方案](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187808&idx=1&sn=2607e55afbe7f12de9eaa6b9a738fe80)
-- 青衣十三楼飞花堂
-  - [初一升初二的暑期日常练](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489791&idx=1&sn=c2129b2cf4e5e5be6f76a2b1b3eac438)
 - 奇客Solidot–传递最新科技情报
   - [Debian 讨论是否允许使用 LLM](https://www.solidot.org/story?sid=84922)
   - [美国司法部起诉一位公民提供了会导致手机数据自动删除的密码](https://www.solidot.org/story?sid=84921)
   - [英伟达、微软、OpenAI 等公司反对限制开放权重模型](https://www.solidot.org/story?sid=84920)
+- 黑鸟
+  - [研究人员公布usbliter8 硬件漏洞越狱iOS 27方案](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187808&idx=1&sn=2607e55afbe7f12de9eaa6b9a738fe80)
 - 二道情报贩子
   - [平壤国库大盗：网战精英的监守自盗案](https://mp.weixin.qq.com/s?__biz=MzU5NTA3MTk5Ng==&mid=2247490079&idx=1&sn=95bbf2b7cc14adc3f7234c0cf2dc4ba8)
-- 看雪学苑
-  - [ISCC 2026 题目 [house of apple 2] 利用方法](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617793&idx=2&sn=7c04cbd608dbcb66a161c78d512ec8ee)
+- 青衣十三楼飞花堂
+  - [初一升初二的暑期日常练](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489791&idx=1&sn=c2129b2cf4e5e5be6f76a2b1b3eac438)
+- 安全分析与研究
+  - [智能入侵检测IDS与IPS](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496942&idx=1&sn=b7a621ba7861d0fe5a9bf8cd290ff165)
+- 安全圈
+  - [【安全圈】马斯克为了安全，要把"X"完全开源？](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077986&idx=1&sn=c72b731dda33c8916f4096cf332615db)
+  - [【安全圈】每单收超千元服务费，上海警方抓获 3 名外挂代拍违法犯罪人员](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077986&idx=2&sn=11aa39242de4b5b0197f8676b1c497ea)
+  - [【安全圈】新型 Dolphin X 恶意软件利用 AI 对高价值目标进行评分排名](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077986&idx=3&sn=7212e4b798829226046df566ed3e65d8)
+- 天黑说嘿话
+  - [【88VIP专属高返小助手】领隐藏优惠券指定入口，购物省钱操作指南~24小时自助查券返利机器人！](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486280&idx=1&sn=ea11e9746468f7224cbdffe15697807e)
 - 中国信息安全
   - [发布 | 国家网信办发布《国家信息化发展报告（2025年）》](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265059&idx=1&sn=ed1d14c042533500b8c421fef30fe21d)
   - [发布 | APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265059&idx=2&sn=cd90e8eb1a41eb8af9983e1e14d21a37)
   - [携程被罚，51.79亿！](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265059&idx=3&sn=18752a872bedb004b5df784026da005e)
   - [CNCERT | 关于Dysphoria僵尸网络大范围传播的风险提示](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265059&idx=4&sn=8a91a5e3158daddc251e91f7c310a3fb)
   - [关注 | 国家网信办就数据出境安全管理政策法规问题解答](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265059&idx=5&sn=5914bd29a7900d8e4cb55902727ee684)
-- 安全圈
-  - [【安全圈】马斯克为了安全，要把"X"完全开源？](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077986&idx=1&sn=c72b731dda33c8916f4096cf332615db)
-  - [【安全圈】每单收超千元服务费，上海警方抓获 3 名外挂代拍违法犯罪人员](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077986&idx=2&sn=11aa39242de4b5b0197f8676b1c497ea)
-  - [【安全圈】新型 Dolphin X 恶意软件利用 AI 对高价值目标进行评分排名](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077986&idx=3&sn=7212e4b798829226046df566ed3e65d8)
-- 丁爸 情报分析师的工具箱
-  - [【开源情报】美国网络司令部网络国家任务部队（CNMF）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156703&idx=1&sn=9fa056e2cde8a21819ce02e98657ee56)
-  - [【竞赛通知】第四届全国大学生开源情报数据采集与分析挑战专项](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156703&idx=2&sn=9af36fc6aec4d851db5bcde2d93f84f7)
-- 安全分析与研究
-  - [智能入侵检测IDS与IPS](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496942&idx=1&sn=b7a621ba7861d0fe5a9bf8cd290ff165)
 - 漏洞战争
   - [网安人的“理想国”](https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486155&idx=1&sn=930e331925724aba2e1e47f8c150a35b)
 - 极客公园
   - [Google 投资《后室》片方 A24：AI 最难学会的，是别急着优化](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111190&idx=1&sn=1b75fdab11f24753073724481076c4f4)
   - [Claude Opus 5 正式发布；智元机器人已启动上市流程；特斯拉官宣 Cybercab 接入集成星链｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111189&idx=1&sn=be9a749bca1d623f0133efa6a9812b96)
   - [黄仁勋站在 AI 产业的十字路口呐喊：力挺开源](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111181&idx=1&sn=ad3b6eb52ab2841e1466e37645c51427)
-- 吴鲁加
-  - [所谓财务自由](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486144&idx=1&sn=cdcc0c1d2657594ac0bab57e03c42c46)
-- 天黑说嘿话
-  - [【88VIP专属高返小助手】领隐藏优惠券指定入口，购物省钱操作指南~24小时自助查券返利机器人！](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486280&idx=1&sn=ea11e9746468f7224cbdffe15697807e)
 - 复旦白泽战队
   - [哇，我们居然在大模型安全能力国际排行榜排第九了！](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247499523&idx=1&sn=49d790d7c8459d4f77c1eda5d0122b81)
+- 看雪学苑
+  - [ISCC 2026 题目 [house of apple 2] 利用方法](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458617793&idx=2&sn=7c04cbd608dbcb66a161c78d512ec8ee)
+- 吴鲁加
+  - [所谓财务自由](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486144&idx=1&sn=cdcc0c1d2657594ac0bab57e03c42c46)
 - ICT Security Magazine
   - [Security data lake: perché il SIEM si sdoppia tra raccolta e analisi](https://www.ictsecuritymagazine.com/articoli/security-data-lake-siem/)
+- 丁爸 情报分析师的工具箱
+  - [【开源情报】美国网络司令部网络国家任务部队（CNMF）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156703&idx=1&sn=9fa056e2cde8a21819ce02e98657ee56)
+  - [【竞赛通知】第四届全国大学生开源情报数据采集与分析挑战专项](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156703&idx=2&sn=9af36fc6aec4d851db5bcde2d93f84f7)
 - The Hacker News
   - [Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable](https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html)
   - [Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available](https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html)
