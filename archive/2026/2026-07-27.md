@@ -1,17 +1,17 @@
 # 每日安全资讯（2026-07-27）
 
-- Filippo Valsorda
-  - [Production ML-DSA Verification in 350 Lines of Python](https://words.filippo.io/mldsa-py/)
 - Recent Commits to cve:main
   - [Update Sun Jul 26 12:01:37 UTC 2026](https://github.com/trickest/cve/commit/e69d88e0152845fc4d4b49970ca6e503f56b2f93)
-- 先知安全技术社区
-  - [Fastjson 1.2.83 RCE全版本复现（本人两台真实环境）](https://xz.aliyun.com/news/92583)
-- 先知安全技术社区
-  - [Fastjson 1.2.83 RCE全版本复现（本人两台真实环境）](https://xz.aliyun.com/news/92583)
 - SecWiki News
   - [SecWiki News 2026-07-26 Review](http://www.sec-wiki.com/?2026-07-26)
+- Filippo Valsorda
+  - [Production ML-DSA Verification in 350 Lines of Python](https://words.filippo.io/mldsa-py/)
 - Der Flounder
   - [Fixing automatic login issues on Ubuntu 26.04 LTS](https://derflounder.wordpress.com/2026/07/26/fixing-automatic-login-issues-on-ubuntu-26-04-lts/)
+- 先知安全技术社区
+  - [Fastjson 1.2.83 RCE全版本复现（本人两台真实环境）](https://xz.aliyun.com/news/92583)
+- 先知安全技术社区
+  - [Fastjson 1.2.83 RCE全版本复现（本人两台真实环境）](https://xz.aliyun.com/news/92583)
 - muellis blog
   - [Installing a “full” disk encrypted Ubuntu 26.04 Hetzner server](https://blogs.gnome.org/muelli/2026/07/9715/)
 - Reverse Engineering
@@ -33,12 +33,16 @@
   - [苹果改编的《神经漫游者》将于明年 1 月上映](https://www.solidot.org/story?sid=84923)
 - 黑鸟
   - [用ESP32做一台迷你飞机雷达可实时追踪航班](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187841&idx=1&sn=ff3e8f07b6fa8598f655e3e2a323f773)
+- 安全分析与研究
+  - [恶意代码分析与检测](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496946&idx=1&sn=d0f999efc5af4a5c44c3be232d54e657)
 - 我的安全视界观
   - [【AI复盘】AI Coding Agent攻击手法：bash](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487848&idx=1&sn=a95a7dac81d65a9040b04f0c0c5e6afe)
 - 天黑说嘿话
   - [【88VIP专属高返小助手】领隐藏优惠券指定入口，购物省钱操作指南~24小时自助查券返利机器人！](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486281&idx=1&sn=106fd2fd6a1fa971430d8d2f5a5b4f96)
-- 安全分析与研究
-  - [恶意代码分析与检测](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496946&idx=1&sn=d0f999efc5af4a5c44c3be232d54e657)
+- 青衣十三楼飞花堂
+  - [初二最值题的歪门邪道解法](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489792&idx=1&sn=d13c3a5e73425eeab5bf6efdf6dbf454)
+- 二道情报贩子
+  - [Claude 共享链接遭搜索引擎索引](https://mp.weixin.qq.com/s?__biz=MzU5NTA3MTk5Ng==&mid=2247490086&idx=1&sn=821fcd390ccc95853b8692050e245c37)
 - 软件安全与逆向分析
   - [安卓GKI内核模块开发编译工具包开发与使用](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485369&idx=1&sn=0cc7abb85722c7d8533cd09b91355b26)
 - 安全圈
@@ -48,32 +52,28 @@
 - 丁爸 情报分析师的工具箱
   - [【开源情报】美国专门负责/研究中国的机构](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156712&idx=1&sn=33843c52fce88f3d9225e7bb6273529b)
   - [【竞赛通知】第四届全国大学生开源情报数据采集与分析挑战专项](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156712&idx=2&sn=df0e31ce3598f841ca1dc61c2e735324)
-- 青衣十三楼飞花堂
-  - [初二最值题的歪门邪道解法](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489792&idx=1&sn=d13c3a5e73425eeab5bf6efdf6dbf454)
-- 极客公园
-  - [造物100 #02｜能打游戏的「牙套」键盘、众筹 249 万美元的电子假花、能用卫星找狗的项圈](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111224&idx=1&sn=6732d72181bcccabb60981b58a01213d)
-  - [被罚51.79亿元，携程公布 19 项整改措施；传库克向特朗普力荐中国存储芯片，美光强烈反对；三星斩获博通2000亿美元巨额订单 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111218&idx=1&sn=a8f0eb2bdeff9c2a723129053fa6412a)
-- 二道情报贩子
-  - [Claude 共享链接遭搜索引擎索引](https://mp.weixin.qq.com/s?__biz=MzU5NTA3MTk5Ng==&mid=2247490086&idx=1&sn=821fcd390ccc95853b8692050e245c37)
-- ImperialViolet
-  - [We have proof automation now](http://www.imperialviolet.org/2026/07/26/zstd-lean.html)
 - ICT Security Magazine
   - [Quishing: il QR code che scavalca la sicurezza email](https://www.ictsecuritymagazine.com/articoli/quishing-qr-code-phishing/)
   - [Memory safety: la classe di vulnerabilità che i governi vogliono estinguere](https://www.ictsecuritymagazine.com/articoli/memory-safety-linguaggi-sicuri/)
-- Troy Hunt's Blog
-  - [Weekly Update 514: This Week in Data Breaches](https://www.troyhunt.com/weekly-update-514/)
+- 极客公园
+  - [造物100 #02｜能打游戏的「牙套」键盘、众筹 249 万美元的电子假花、能用卫星找狗的项圈](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111224&idx=1&sn=6732d72181bcccabb60981b58a01213d)
+  - [被罚51.79亿元，携程公布 19 项整改措施；传库克向特朗普力荐中国存储芯片，美光强烈反对；三星斩获博通2000亿美元巨额订单 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111218&idx=1&sn=a8f0eb2bdeff9c2a723129053fa6412a)
 - SANS Internet Storm Center, InfoCON: green
   - [Scans for ESAFENET CDG 3 Document Management System Weak Logins, (Sun, Jul 26th)](https://isc.sans.edu/diary/rss/33184)
+- Troy Hunt's Blog
+  - [Weekly Update 514: This Week in Data Breaches](https://www.troyhunt.com/weekly-update-514/)
 - Lenny Zeltser
   - [What 239 Products Reveal About the Shape of AI Security](https://zeltser.com/ai-security-market-shape)
+- ImperialViolet
+  - [We have proof automation now](http://www.imperialviolet.org/2026/07/26/zstd-lean.html)
 - IT Service Management News
   - [Digital Omnibus sull'IA e slittamento delle scadenze dell'AI Act](http://blog.cesaregallotti.it/2026/07/digital-omnibus-sullia-e-slittamento.html)
-- Deep Web
-  - [What should I do in darkweb?](https://www.reddit.com/r/deepweb/comments/1v77wdw/what_should_i_do_in_darkweb/)
-  - [Where found gosthgpt, fraudgpt,wormgpt or...](https://www.reddit.com/r/deepweb/comments/1v7ed5q/where_found_gosthgpt_fraudgptwormgpt_or/)
-- OnionSec
-  - [一本安静躺在书架上的书](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485891&idx=1&sn=b640e27d53f3f818fd2b1d5f7cd7c088)
 - Security Affairs
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 107](https://securityaffairs.com/196037/malware/security-affairs-malware-newsletter-round-107.html)
   - [Hackers Hijack Hotel Wi-Fi to Steal Microsoft 365 Credentials](https://securityaffairs.com/196017/security/hackers-hijack-hotel-wi-fi-to-steal-microsoft-365-credentials.html)
   - [Security Affairs newsletter Round 587 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/196006/security/security-affairs-newsletter-round-587-by-pierluigi-paganini-international-edition.html)
+- Blackhat Library: Hacking techniques and research
+  - [Free, hands-on, 14 weeks security course from the Czech Technical University opened registrations for 2026](https://www.reddit.com/r/blackhat/comments/1v7d9ht/free_handson_14_weeks_security_course_from_the/)
+  - [DM I have something I think you know what to do with I'm noob level but came across something with a lot of clients and info from were they work yo](https://www.reddit.com/r/blackhat/comments/1v76gvi/dm_i_have_something_i_think_you_know_what_to_do/)
+- OnionSec
+  - [一本安静躺在书架上的书](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485891&idx=1&sn=b640e27d53f3f818fd2b1d5f7cd7c088)
