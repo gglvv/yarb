@@ -4,30 +4,28 @@
   - [SecWiki News 2026-07-26 Review](http://www.sec-wiki.com/?2026-07-26)
 - Recent Commits to cve:main
   - [Update Sun Jul 26 12:01:37 UTC 2026](https://github.com/trickest/cve/commit/e69d88e0152845fc4d4b49970ca6e503f56b2f93)
-- Der Flounder
-  - [Fixing automatic login issues on Ubuntu 26.04 LTS](https://derflounder.wordpress.com/2026/07/26/fixing-automatic-login-issues-on-ubuntu-26-04-lts/)
 - Filippo Valsorda
   - [Production ML-DSA Verification in 350 Lines of Python](https://words.filippo.io/mldsa-py/)
+- Der Flounder
+  - [Fixing automatic login issues on Ubuntu 26.04 LTS](https://derflounder.wordpress.com/2026/07/26/fixing-automatic-login-issues-on-ubuntu-26-04-lts/)
 - muellis blog
   - [Installing a “full” disk encrypted Ubuntu 26.04 Hetzner server](https://blogs.gnome.org/muelli/2026/07/9715/)
-- l1nk3dHouse
-  - [xiaomi_unlock_38](https://showlinkroom.me/2026/07/26/xiaomi-unlock-38/)
 - Hc1m1
   - [使用AI对天猫精灵IoT模块进行逆向分析（三）](https://nobb.site/2026/07/26/0x9D/)
   - [使用AI对天猫精灵IoT模块进行逆向分析（二）](https://nobb.site/2026/07/26/0x9C/)
-- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [苹果智能眼镜延期到2027年6月发布](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C%E5%BB%B6%E6%9C%9F%E5%88%B02027%E5%B9%B46%E6%9C%88%E5%8F%91%E5%B8%83)
-  - [亚马逊开始严查卖家使用AI生成图片的行为](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%BC%80%E5%A7%8B%E4%B8%A5%E6%9F%A5%E5%8D%96%E5%AE%B6%E4%BD%BF%E7%94%A8AI%E7%94%9F%E6%88%90%E5%9B%BE%E7%89%87%E7%9A%84%E8%A1%8C%E4%B8%BA)
-  - [华纳兄弟公司正在起诉亚马逊挖角员工](https://blog.upx8.com/%E5%8D%8E%E7%BA%B3%E5%85%84%E5%BC%9F%E5%85%AC%E5%8F%B8%E6%AD%A3%E5%9C%A8%E8%B5%B7%E8%AF%89%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%8C%96%E8%A7%92%E5%91%98%E5%B7%A5)
-  - [前LG员工因向中国泄露OLED技术入狱](https://blog.upx8.com/%E5%89%8DLG%E5%91%98%E5%B7%A5%E5%9B%A0%E5%90%91%E4%B8%AD%E5%9B%BD%E6%B3%84%E9%9C%B2OLED%E6%8A%80%E6%9C%AF%E5%85%A5%E7%8B%B1)
-  - [SpaceX 拒绝猎鹰9火箭新客户 大力押注星舰](https://blog.upx8.com/SpaceX-%E6%8B%92%E7%BB%9D%E7%8C%8E%E9%B9%B09%E7%81%AB%E7%AE%AD%E6%96%B0%E5%AE%A2%E6%88%B7-%E5%A4%A7%E5%8A%9B%E6%8A%BC%E6%B3%A8%E6%98%9F%E8%88%B0)
-  - [Hugging Face遭入侵后要求OpenAI赔偿算力](https://blog.upx8.com/Hugging-Face%E9%81%AD%E5%85%A5%E4%BE%B5%E5%90%8E%E8%A6%81%E6%B1%82OpenAI%E8%B5%94%E5%81%BF%E7%AE%97%E5%8A%9B)
+- l1nk3dHouse
+  - [xiaomi_unlock_38](https://showlinkroom.me/2026/07/26/xiaomi-unlock-38/)
 - 奇客Solidot–传递最新科技情报
   - [社区爱好者给 Scratch 引入了 AI 编程助手](https://www.solidot.org/story?sid=84927)
   - [GrapheneOS 警告在胁迫下删除手机数据可能会有法律后果](https://www.solidot.org/story?sid=84926)
   - [多家知名网站考虑彻底屏蔽 Google](https://www.solidot.org/story?sid=84925)
   - [Cloudflare 将从 9 月 15 日起对新域名默认屏蔽 Google 爬虫](https://www.solidot.org/story?sid=84924)
   - [苹果改编的《神经漫游者》将于明年 1 月上映](https://www.solidot.org/story?sid=84923)
+- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
+  - [苹果智能眼镜延期到2027年6月发布](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C%E5%BB%B6%E6%9C%9F%E5%88%B02027%E5%B9%B46%E6%9C%88%E5%8F%91%E5%B8%83)
+  - [亚马逊开始严查卖家使用AI生成图片的行为](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%BC%80%E5%A7%8B%E4%B8%A5%E6%9F%A5%E5%8D%96%E5%AE%B6%E4%BD%BF%E7%94%A8AI%E7%94%9F%E6%88%90%E5%9B%BE%E7%89%87%E7%9A%84%E8%A1%8C%E4%B8%BA)
+  - [华纳兄弟公司正在起诉亚马逊挖角员工](https://blog.upx8.com/%E5%8D%8E%E7%BA%B3%E5%85%84%E5%BC%9F%E5%85%AC%E5%8F%B8%E6%AD%A3%E5%9C%A8%E8%B5%B7%E8%AF%89%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%8C%96%E8%A7%92%E5%91%98%E5%B7%A5)
+  - [前LG员工因向中国泄露OLED技术入狱](https://blog.upx8.com/%E5%89%8DLG%E5%91%98%E5%B7%A5%E5%9B%A0%E5%90%91%E4%B8%AD%E5%9B%BD%E6%B3%84%E9%9C%B2OLED%E6%8A%80%E6%9C%AF%E5%85%A5%E7%8B%B1)
 - 黑鸟
   - [用ESP32做一台迷你飞机雷达可实时追踪航班](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187841&idx=1&sn=ff3e8f07b6fa8598f655e3e2a323f773)
 - 我的安全视界观
@@ -42,24 +40,24 @@
   - [【安全圈】华为云全球性故障：疑似 IAM 升级故障](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078019&idx=1&sn=991838a24bde82c1239a701fdcdc0d6e)
   - [【安全圈】OpenAI 突发服务器故障，ChatGPT、Codex 出现宕机](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078019&idx=2&sn=9d8980aee1c4002490cdc3bcf80489c3)
   - [【安全圈】Notepad++ 插件悄然安装恶意软件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078019&idx=3&sn=90187063089624728ea3d48fac253b91)
+- 软件安全与逆向分析
+  - [安卓GKI内核模块开发编译工具包开发与使用](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485369&idx=1&sn=0cc7abb85722c7d8533cd09b91355b26)
 - 极客公园
   - [造物100 #02｜能打游戏的「牙套」键盘、众筹 249 万美元的电子假花、能用卫星找狗的项圈](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111224&idx=1&sn=6732d72181bcccabb60981b58a01213d)
   - [被罚51.79亿元，携程公布 19 项整改措施；传库克向特朗普力荐中国存储芯片，美光强烈反对；三星斩获博通2000亿美元巨额订单 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111218&idx=1&sn=a8f0eb2bdeff9c2a723129053fa6412a)
-- 软件安全与逆向分析
-  - [安卓GKI内核模块开发编译工具包开发与使用](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485369&idx=1&sn=0cc7abb85722c7d8533cd09b91355b26)
-- IT Service Management News
-  - [Digital Omnibus sull'IA e slittamento delle scadenze dell'AI Act](http://blog.cesaregallotti.it/2026/07/digital-omnibus-sullia-e-slittamento.html)
-- ImperialViolet
-  - [We have proof automation now](http://www.imperialviolet.org/2026/07/26/zstd-lean.html)
 - ICT Security Magazine
   - [Quishing: il QR code che scavalca la sicurezza email](https://www.ictsecuritymagazine.com/articoli/quishing-qr-code-phishing/)
   - [Memory safety: la classe di vulnerabilità che i governi vogliono estinguere](https://www.ictsecuritymagazine.com/articoli/memory-safety-linguaggi-sicuri/)
+- IT Service Management News
+  - [Digital Omnibus sull'IA e slittamento delle scadenze dell'AI Act](http://blog.cesaregallotti.it/2026/07/digital-omnibus-sullia-e-slittamento.html)
+- Lenny Zeltser
+  - [What 239 Products Reveal About the Shape of AI Security](https://zeltser.com/ai-security-market-shape)
+- ImperialViolet
+  - [We have proof automation now](http://www.imperialviolet.org/2026/07/26/zstd-lean.html)
 - Troy Hunt's Blog
   - [Weekly Update 514: This Week in Data Breaches](https://www.troyhunt.com/weekly-update-514/)
 - SANS Internet Storm Center, InfoCON: green
   - [Scans for ESAFENET CDG 3 Document Management System Weak Logins, (Sun, Jul 26th)](https://isc.sans.edu/diary/rss/33184)
-- Lenny Zeltser
-  - [What 239 Products Reveal About the Shape of AI Security](https://zeltser.com/ai-security-market-shape)
 - Security Affairs
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 107](https://securityaffairs.com/196037/malware/security-affairs-malware-newsletter-round-107.html)
   - [Hackers Hijack Hotel Wi-Fi to Steal Microsoft 365 Credentials](https://securityaffairs.com/196017/security/hackers-hijack-hotel-wi-fi-to-steal-microsoft-365-credentials.html)
