@@ -1,11 +1,13 @@
 # 每日安全资讯（2026-08-02）
 
-- SecWiki News
-  - [SecWiki News 2026-08-01 Review](http://www.sec-wiki.com/?2026-08-01)
 - Recent Commits to cve:main
   - [Update Sat Aug  1 12:00:33 UTC 2026](https://github.com/trickest/cve/commit/34a9e13075452733bcb91f2f69cce2906587662c)
+- SecWiki News
+  - [SecWiki News 2026-08-01 Review](http://www.sec-wiki.com/?2026-08-01)
 - Der Flounder
   - [Creating Jamf Pro API roles with privileges equivalent to Auditor and Administrator account privilege sets](https://derflounder.wordpress.com/2026/08/01/creating-jamf-pro-api-roles-with-privileges-equivalent-to-auditor-and-administrator-account-privilege-sets/)
+- 安全客-有思想的安全新媒体
+  - [纳米Work企业版正式启动全国各级渠道城市合伙人招募](https://www.anquanke.com/post/id/315908)
 - Taxodium
   - [Album#45 - Sweet Sticky Thing](https://taxodium.ink/album-45.html)
 - 博客园 - bamb00
@@ -13,25 +15,18 @@
   - [一个项目带你入门AI应用开发03 - bamb00](https://www.cnblogs.com/goodhacker/p/22137580)
   - [一个项目带你 入门AI应用开发02 - bamb00](https://www.cnblogs.com/goodhacker/p/22137472)
   - [一个项目带你入门AI应用开发01 - bamb00](https://www.cnblogs.com/goodhacker/p/22137356)
-- 安全客-有思想的安全新媒体
-  - [纳米Work企业版正式启动全国各级渠道城市合伙人招募](https://www.anquanke.com/post/id/315908)
 - muellis blog
   - [syncthing-socket for accessing machines through NATs](https://blogs.gnome.org/muelli/2026/08/syncthing-socket-for-accessing-machines-through-nats/)
+- Binary Ninja
+  - [A Decade (or More) in Review](https://binary.ninja/2026/08/01/a-decade-or-more-in-review.html)
 - Didier Stevens
   - [Overview of Content Published in July](https://blog.didierstevens.com/2026/08/01/overview-of-content-published-in-july-11/)
 - Hacking Articles
   - [Impacket for Pentester: atexec](https://www.hackingarticles.in/impacket-for-pentester-atexec/)
   - [Active Directory Enumeration with BloodHound-Python](https://www.hackingarticles.in/active-directory-enumeration-with-bloodhound-python/)
   - [Arsenal-NG: A Terminal Cheat-Sheet Launcher for Faster Penetration Testing](https://www.hackingarticles.in/arsenal-ng-pentest-cheat-sheet/)
-- Binary Ninja
-  - [A Decade (or More) in Review](https://binary.ninja/2026/08/01/a-decade-or-more-in-review.html)
 - shubs
   - [frontier class vulnerabilities: it gets worse before it (maybe) gets better](https://shubs.io/frontier-class-vulnerabilities-it-gets-worse-before-it-maybe-gets-better/)
-- 博客园 - bamb00
-  - [一个项目带你入门AI应用开发04 - bamb00](https://www.cnblogs.com/goodhacker/p/22139916)
-  - [一个项目带你入门AI应用开发03 - bamb00](https://www.cnblogs.com/goodhacker/p/22137580)
-  - [一个项目带你 入门AI应用开发02 - bamb00](https://www.cnblogs.com/goodhacker/p/22137472)
-  - [一个项目带你入门AI应用开发01 - bamb00](https://www.cnblogs.com/goodhacker/p/22137356)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [唱片公司提出规则阻止AI垃圾音乐登上榜单](https://blog.upx8.com/%E5%94%B1%E7%89%87%E5%85%AC%E5%8F%B8%E6%8F%90%E5%87%BA%E8%A7%84%E5%88%99%E9%98%BB%E6%AD%A2AI%E5%9E%83%E5%9C%BE%E9%9F%B3%E4%B9%90%E7%99%BB%E4%B8%8A%E6%A6%9C%E5%8D%95)
   - [均为 10 年以上未解难题：OpenAI 公布在数学与理论计算机科学领域的十项进展，Token 成本仅 2000 美元](https://blog.upx8.com/%E5%9D%87%E4%B8%BA-10-%E5%B9%B4%E4%BB%A5%E4%B8%8A%E6%9C%AA%E8%A7%A3%E9%9A%BE%E9%A2%98-OpenAI-%E5%85%AC%E5%B8%83%E5%9C%A8%E6%95%B0%E5%AD%A6%E4%B8%8E%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E9%A2%86%E5%9F%9F%E7%9A%84%E5%8D%81%E9%A1%B9%E8%BF%9B%E5%B1%95-Token-%E6%88%90%E6%9C%AC%E4%BB%85-2000-%E7%BE%8E%E5%85%83)
@@ -40,21 +35,27 @@
   - [纽约州起诉Kalshi 指控其运营非法赌博业务](https://blog.upx8.com/%E7%BA%BD%E7%BA%A6%E5%B7%9E%E8%B5%B7%E8%AF%89Kalshi-%E6%8C%87%E6%8E%A7%E5%85%B6%E8%BF%90%E8%90%A5%E9%9D%9E%E6%B3%95%E8%B5%8C%E5%8D%9A%E4%B8%9A%E5%8A%A1)
   - [尽管遭到强烈反对 索尼仍坚持淘汰光盘](https://blog.upx8.com/%E5%B0%BD%E7%AE%A1%E9%81%AD%E5%88%B0%E5%BC%BA%E7%83%88%E5%8F%8D%E5%AF%B9-%E7%B4%A2%E5%B0%BC%E4%BB%8D%E5%9D%9A%E6%8C%81%E6%B7%98%E6%B1%B0%E5%85%89%E7%9B%98)
   - [谷歌计划2028年生产1500万颗AI芯片](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%922028%E5%B9%B4%E7%94%9F%E4%BA%A71500%E4%B8%87%E9%A2%97AI%E8%8A%AF%E7%89%87)
-  - [Siri AI 可能会为重度用户推出付费订阅](https://blog.upx8.com/Siri-AI-%E5%8F%AF%E8%83%BD%E4%BC%9A%E4%B8%BA%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7%E6%8E%A8%E5%87%BA%E4%BB%98%E8%B4%B9%E8%AE%A2%E9%98%85)
 - 奇客Solidot–传递最新科技情报
   - [腾讯投资最高的 3A 游戏《最后的哨兵》陷入困境](https://www.solidot.org/story?sid=84984)
   - [近五成美国人赞同学校期间完全禁止使用手机](https://www.solidot.org/story?sid=84983)
   - [硅谷的企业帝国之梦](https://www.solidot.org/story?sid=84982)
   - [Google Earth 发布然后撤回了 AI 工具](https://www.solidot.org/story?sid=84981)
   - [宝马向汽车显示屏推送蜘蛛侠全屏广告](https://www.solidot.org/story?sid=84980)
+- 博客园 - bamb00
+  - [一个项目带你入门AI应用开发04 - bamb00](https://www.cnblogs.com/goodhacker/p/22139916)
+  - [一个项目带你入门AI应用开发03 - bamb00](https://www.cnblogs.com/goodhacker/p/22137580)
+  - [一个项目带你 入门AI应用开发02 - bamb00](https://www.cnblogs.com/goodhacker/p/22137472)
+  - [一个项目带你入门AI应用开发01 - bamb00](https://www.cnblogs.com/goodhacker/p/22137356)
+- 安全分析与研究
+  - [自动化渗透测试与AI红队](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496962&idx=1&sn=f463738e93734913382bc8ec0b95efe9)
 - 安全客
   - [纳米Work企业版正式启动全国各级渠道城市合伙人招募](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790316&idx=1&sn=6773dfc0acbbadb37727c65e062943cf)
 - 绿盟科技研究通讯
   - [AI与云安全事件案例分析周报｜2026.07.27 - 2026.07.31](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247500125&idx=1&sn=c6044ad7a82c26c1f2f9e3f16d088e27)
-- 信息安全国家工程研究中心
-  - [八一建军节|铁血铸军魂 强军守民安](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247504556&idx=1&sn=3fa671be23f3f00aec32ed4eb949ff4d)
 - 看雪学苑
   - [抢先体验！看雪课程播放器正式上线，安全高效双升级](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618088&idx=1&sn=1e526749adf4f85e15bed7402a852757)
+- 信息安全国家工程研究中心
+  - [八一建军节|铁血铸军魂 强军守民安](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247504556&idx=1&sn=3fa671be23f3f00aec32ed4eb949ff4d)
 - 中国信息安全
   - [正式官宣 | 2026 CCS成都网络安全技术交流活动定档9月，议题征集正式启动！](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265250&idx=1&sn=c22940f54801d07694129291776ad9c5)
   - [专家解读｜简化保护措施 兼顾个人信息权益与小型企业创新发展利益](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265250&idx=2&sn=63ad11095273868fb2ac0e3da1e4720e)
@@ -64,33 +65,33 @@
   - [【安全圈】俄罗斯黑客劫持酒店WiFi！虚假更新推送间谍软件，旅行者成猎物](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078107&idx=1&sn=8f1e00d29f3e949d0a3c291ad4b516fd)
   - [【安全圈】Adobe曝CVSS 10.0满分漏洞！无需交互即可远程执行代码](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078107&idx=2&sn=2cf8dfe411ee04cc89037c2656e58a0c)
   - [【安全圈】CISA 敦促水务行业在针对 PLC 的协同攻击后保护 OT](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078107&idx=3&sn=742d5c732454f1931f3439066f297713)
-- 火绒安全
-  - [建军节 | 铁血铸军魂 赤胆扬国威](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247535857&idx=1&sn=d9bf4e915828756ff98d2a364a510366)
-  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247535857&idx=2&sn=66ad4a7994348881428f96a18389c4b1)
 - 极客公园
   - [互联网流量，崩塌了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111422&idx=1&sn=60656f050101cc1504ac8bc59490948f)
   - [Seedance 2.5发布，单次视频时长翻倍；美团上线外卖「等灯停表」功能；长鑫科技突破 4 万亿｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111430&idx=1&sn=214e8d2125b75dd3f6f232b84374759f)
+- 火绒安全
+  - [建军节 | 铁血铸军魂 赤胆扬国威](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247535857&idx=1&sn=d9bf4e915828756ff98d2a364a510366)
+  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247535857&idx=2&sn=66ad4a7994348881428f96a18389c4b1)
 - 安全行者老霍
   - [AI 曾经用于帮助策划入侵，如今正在执行入侵](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486873&idx=1&sn=30e541022d2742d3f52a74324c6beb82)
+- bellingcat
+  - [Welcome to Dubai: Kinahan Cartel’s Visas Revealed](https://www.bellingcat.com/news/2026/08/01/welcome-to-dubai-kinahan-cartels-visas-revealed/)
+- 丁爸 情报分析师的工具箱
+  - [【深度调研】梅文计划（Project Maven）-AI军事化的里程碑、全球影响与中国应对策略](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156768&idx=1&sn=0d3b72a54e0aa306f03db876f5e040ab)
+- Have I Been Pwned latest breaches
+  - [SplitVPN - 865,336 breached accounts](https://haveibeenpwned.com/Breach/SplitVPN)
 - Over Security
   - [Rails patches critical Active Storage flaw with RCE potential](https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/)
   - [SplitVPN - 865,336 breached accounts](https://haveibeenpwned.com/Breach/SplitVPN)
   - [Vulnerability & Patch Roundup — July 2026](https://blog.sucuri.net/2026/07/vulnerability-patch-roundup-july-2026.html)
-- 丁爸 情报分析师的工具箱
-  - [【深度调研】梅文计划（Project Maven）-AI军事化的里程碑、全球影响与中国应对策略](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156768&idx=1&sn=0d3b72a54e0aa306f03db876f5e040ab)
-- bellingcat
-  - [Welcome to Dubai: Kinahan Cartel’s Visas Revealed](https://www.bellingcat.com/news/2026/08/01/welcome-to-dubai-kinahan-cartels-visas-revealed/)
-- Have I Been Pwned latest breaches
-  - [SplitVPN - 865,336 breached accounts](https://haveibeenpwned.com/Breach/SplitVPN)
 - SANS Internet Storm Center, InfoCON: green
   - [Phishing Campaigns Targeting AI Solutions Providers, (Sat, Aug 1st)](https://isc.sans.edu/diary/rss/33206)
+- Security Affairs
+  - [Russian Hackers Hijack Hotel Wi-Fi to Steal Microsoft 365 Tokens](https://securityaffairs.com/196441/apt/russian-hackers-hijack-hotel-wi-fi-to-steal-microsoft-365-tokens.html)
+  - [Adobe fixed a maximum-severity vulnerability flaw in Campaign Classic](https://securityaffairs.com/196429/security/adobe-fixed-a-maximum-severity-vulnerability-flaw-in-campaign-classic.html)
 - The Hacker News
   - [Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes](https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html)
   - [Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites](https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html)
   - [Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction](https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html)
   - [Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware](https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html)
-- Security Affairs
-  - [Russian Hackers Hijack Hotel Wi-Fi to Steal Microsoft 365 Tokens](https://securityaffairs.com/196441/apt/russian-hackers-hijack-hotel-wi-fi-to-steal-microsoft-365-tokens.html)
-  - [Adobe fixed a maximum-severity vulnerability flaw in Campaign Classic](https://securityaffairs.com/196429/security/adobe-fixed-a-maximum-severity-vulnerability-flaw-in-campaign-classic.html)
 - OnionSec
   - [《我是猫》与一杯热拿铁](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485909&idx=1&sn=134aa4da2f00ef9a1fbd5045bc2a0334)
