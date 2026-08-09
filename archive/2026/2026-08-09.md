@@ -1,7 +1,5 @@
 # 每日安全资讯（2026-08-09）
 
-- SecWiki News
-  - [SecWiki News 2026-08-08 Review](http://www.sec-wiki.com/?2026-08-08)
 - Recent Commits to cve:main
   - [Update Sat Aug  8 12:06:54 UTC 2026](https://github.com/trickest/cve/commit/cd4a01a42d95af497d54c028c2f468527d995ec5)
 - Sploitus.com Exploits RSS Feed
@@ -12,13 +10,15 @@
   - [Exploit for CVE-2026-60004](https://sploitus.com/exploit?id=A8BE661C-6C27-5B8F-B009-FE0656507197&utm_source=rss&utm_medium=rss)
   - [Number-Lookup exploit](https://sploitus.com/exploit?id=1E74C83A-D349-52AB-BFCD-B757CC1E115B&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-3844](https://sploitus.com/exploit?id=F490610E-6685-5C18-AA35-F2EAE63339C0&utm_source=rss&utm_medium=rss)
-  - [Exploit for Use After Free in Linux Linux_Kernel](https://sploitus.com/exploit?id=EA81FFC0-451A-5FBE-B06F-CBC5A7B50FB3&utm_source=rss&utm_medium=rss)
+  - [Exploit for Use After Free in Linux Linux_Kernel](https://sploitus.com/exploit?id=5664EE5F-38B2-5799-9818-4F2ECF496899&utm_source=rss&utm_medium=rss)
   - [Vulnhub exploit](https://sploitus.com/exploit?id=436F4F93-C23D-52EB-B020-9D8AD91F323D&utm_source=rss&utm_medium=rss)
   - [XSS2SHELL-POC exploit](https://sploitus.com/exploit?id=997C2594-EFDD-5E85-BDF6-66EDF4485B14&utm_source=rss&utm_medium=rss)
   - [iQOO-Neo9-Kernel-Research exploit](https://sploitus.com/exploit?id=D9CC7EB9-0057-5D7E-993B-8BA83B86A5B9&utm_source=rss&utm_medium=rss)
   - [exploit-development-framework](https://sploitus.com/exploit?id=042E0A15-47C1-5A6C-9C8B-62BCDB7570BE&utm_source=rss&utm_medium=rss)
   - [penetration-testing-windows10 exploit](https://sploitus.com/exploit?id=BE81EDFF-3882-575C-AD05-FBC93589CCC3&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2023-30000](https://sploitus.com/exploit?id=A43BF944-C2D4-5C90-991E-0DA1667A6812&utm_source=rss&utm_medium=rss)
+- SecWiki News
+  - [SecWiki News 2026-08-08 Review](http://www.sec-wiki.com/?2026-08-08)
 - Taxodium
   - [Re: Bloggers, can we make better titles for our posts?](https://taxodium.ink/re-bloggers-can-we-make-better-titles-for-our-posts.html)
 - 奇客Solidot–传递最新科技情报
@@ -33,8 +33,6 @@
   - [DNS 新标准:域名出售信号](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187996&idx=1&sn=a4e80a8332b9c60c6150d93a9109b689)
 - 奶牛安全
   - [数据泄露情报2026.8.8 - 共享印度最大的黑产蛇公哭近18亿条，文末有链接](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489893&idx=1&sn=beae31e13cca6fc62eacbfb5d0c9628b)
-- 安全分析与研究
-  - [第5篇-2025-2026主流勒索家族技术分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496990&idx=1&sn=09d4357d546a93261ec65ed692c789d0)
 - 青衣十三楼飞花堂
   - [《八仙》超喜欢](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489829&idx=1&sn=183239bd92f4b9e6ab2317929f01acf0)
 - 中国信息安全
@@ -43,34 +41,23 @@
   - [【安全圈】北京首例破坏AI模型刑案落槌：九零后算法工程师“删库”获刑](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078200&idx=1&sn=60ec3345150d2fadd6768deb7dd758cb)
   - [【安全圈】电商平台前员工利用系统漏洞，0元购3000多件家电](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078200&idx=2&sn=3fc2c3a12c55a34bfab18b638219139a)
   - [【安全圈】WordPress再次爆出高危安全漏洞，全网约有5亿个网站受影响](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078200&idx=3&sn=49de3825deea363025a052d568a9baaa)
-- 看雪学苑
-  - [2026 KCTF 攻击方规则发布！8月10日12点，正式开赛](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618432&idx=1&sn=e41a435b6f32dfbc90eea7a9dcea1b8f)
-- 丁爸 情报分析师的工具箱
-  - [【资料】乌克兰特种作战课程大纲](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156887&idx=1&sn=f3acee3a05dbd9f59366ae3cef38f34b)
-  - [【资料】乌克兰领土防御部队战术级指挥课程大纲](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156887&idx=2&sn=36adb26d348bf78b942d769bde7efbd7)
-  - [【情报】朝鲜导弹部署俄罗斯，加剧了乌克兰星链项目请求的紧迫性（视频）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156876&idx=1&sn=34a517b995bbc122de4dd300e5b52940)
-  - [【竞赛通知】第四届全国大学生开源情报数据采集与分析挑战专项（含工具下载和教学资源）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156876&idx=2&sn=74813a80cf738ee77e1d0767167f5fdc)
-- 奇安信 CERT
-  - [【已复现】WordPress Core XSS2Shell 预认证 XSS 远程代码执行漏洞(CVE-2026-64638)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506994&idx=1&sn=40b43738c615a5624f431ef45b046b41)
-- 天黑说嘿话
-  - [hvv 2026 -  今年攻防演练的新变量：WAF 看不见，后端却执行了](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486344&idx=1&sn=96ca8c8b2f31e0c963882434778c4fcd)
 - 极客公园
   - [苹果删除Apple智能接入阿里千问页面；苹果或近期上调 iPhone17 价格；5 年后 AI 网络流量是人类 1000 倍 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111725&idx=1&sn=9c76b38485bd98c4e2bccdc5677499c6)
   - [美国本土直播带货，长出一头 200 亿美元「巨兽」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111706&idx=1&sn=2508469aebff543507db5bfa649c770f)
   - [王兴兴回应 DeepSeek 投资宇树：将展开重点合作；微信内测朋友圈 AI 新功能；美国科学家首次用AI设计出新型病毒 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111701&idx=1&sn=ae12691e75b0add00fde5a58ac09027a)
+- 看雪学苑
+  - [2026 KCTF 攻击方规则发布！8月10日12点，正式开赛](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618432&idx=1&sn=e41a435b6f32dfbc90eea7a9dcea1b8f)
 - 凌晨一点零三分
   - [跟党走_政策板块日报2026-08-08](https://mp.weixin.qq.com/s?__biz=MzIxMjI0Mzk0OQ==&mid=2247485675&idx=1&sn=0c18f4e52efc11755347d6d03144f87a)
 - 朴实无华lake2
   - [AI辅助安全工作的一些思考](https://mp.weixin.qq.com/s?__biz=Mzg4NTc0MjAwMg==&mid=2247484408&idx=1&sn=1bd9f9dcb8af9f428c1b711ffaf2af16)
-- Have I Been Pwned latest breaches
-  - [Brinks Home - 732,162 breached accounts](https://haveibeenpwned.com/Breach/BrinksHome)
 - Over Security
   - [Google’s top hacker hunter explains why hacking groups get codenames](https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/)
   - [Hackers breach TrueConf to trojanize client installers with backdoors](https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/)
   - [Brinks Home - 732,162 breached accounts](https://haveibeenpwned.com/Breach/BrinksHome)
   - [XSS2Shell: nuova vulnerabilità nel core di WordPress può portare all’esecuzione di codice remoto](https://cert-agid.gov.it/news/xss2shell-nuova-vulnerabilita-nel-core-di-wordpress-puo-portare-allesecuzione-di-codice-remoto/)
-- OnionSec
-  - [随性洒脱的挥动手臂](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485923&idx=1&sn=8435464c90c88d7b4a51742bb31fe565)
+- Have I Been Pwned latest breaches
+  - [Brinks Home - 732,162 breached accounts](https://haveibeenpwned.com/Breach/BrinksHome)
 - The Hacker News
   - [Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers](https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html)
   - [New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens](https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html)
@@ -82,5 +69,7 @@
   - [Metabase Zero-Day Exploited in the Wild, Exposing Admin Access and Sensitive Data](https://securityaffairs.com/196874/hacking/metabase-zero-day-exploited-in-the-wild-exposing-admin-access-and-sensitive-data.html)
   - [U.S. CISA adds a Progress LoadMaster flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/196863/hacking/u-s-cisa-adds-a-progress-loadmaster-flaw-to-its-known-exploited-vulnerabilities-catalog.html)
   - [Unlimited Technology Systems Data Breach Exposes Data of 3.8 Million Healthcare Patients](https://securityaffairs.com/196843/data-breach/unlimited-technology-systems-data-breach-exposes-data-of-3-8-million-healthcare-patients.html)
+- OnionSec
+  - [随性洒脱的挥动手臂](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485923&idx=1&sn=8435464c90c88d7b4a51742bb31fe565)
 - 网安寻路人
   - [从大规模处理走向系统性风险治理：《大型个人信息处理者个人信息保护规定（征求意见稿）》的六大制度亮点](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247508816&idx=1&sn=4bce47e786fda83bce5e0c3326734406)
