@@ -21,17 +21,17 @@
   - [Gen2Recomp Out Now](https://www.reddit.com/r/ReverseEngineering/comments/1vjkayw/gen2recomp_out_now/)
   - [I am making a Emulator Bypass of a Lame Game "Free Fire" it works perfectly and not give any type of Ban/Blacklist in Casual modes Games but as soon as i start a Ranked match it triggers blacklist ! I have a Safe Bypass DLL ! I have attached the DLL link. Someone Recreate it i will pay !](https://www.reddit.com/r/ReverseEngineering/comments/1vk4kbc/i_am_making_a_emulator_bypass_of_a_lame_game_free/)
   - [[Tool/Writeup] ALPC-Enumerator: A dynamic, userland C++ tool to enumerate ALPC ports and detect ALPC spoofing](https://www.reddit.com/r/ReverseEngineering/comments/1vjkd8g/toolwriteup_alpcenumerator_a_dynamic_userland_c/)
+- 黑鸟
+  - [AI 穿戴监控无处不在！普通人靠这些技术守住隐私](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188007&idx=1&sn=1a1f778c636ce1a1efcd61117744ed35)
 - 奇客Solidot–传递最新科技情报
   - [全世界种植的蔬菜在减少](https://www.solidot.org/story?sid=85045)
   - [微软 Google 亚马逊 Meta 甲骨文 2027 年负现金流将达到 1250 亿美元](https://www.solidot.org/story?sid=85043)
-- 黑鸟
-  - [AI 穿戴监控无处不在！普通人靠这些技术守住隐私](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188007&idx=1&sn=1a1f778c636ce1a1efcd61117744ed35)
+- 安全分析与研究
+  - [第6篇-勒索软件常见攻击入口TOP10](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496994&idx=1&sn=ac058af740608ff4c8d95a1569f6ad43)
 - 我的安全视界观
   - [【AI复盘】ChatGPT AgentForger 漏洞事件](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487909&idx=1&sn=57e75c8a76922ce3fa9e8e872a6ac20d)
 - 青衣十三楼飞花堂
   - [Pythagorea 22.16+22.17 (过已知点和边的菱形)](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489839&idx=1&sn=41863beab8b4329488f19f5c05b66f99)
-- 安全分析与研究
-  - [第6篇-勒索软件常见攻击入口TOP10](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496994&idx=1&sn=ac058af740608ff4c8d95a1569f6ad43)
 - 奶牛安全
   - [数据泄露情报2026.8.9 - 做成人用品的有福](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489914&idx=1&sn=57ff26e44c631edd70a7c846bb7f0f68)
   - [数据泄露情报2026.8.9 - 做成人用品的有福了](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489907&idx=1&sn=2aab0684978a5b51c9528b0ddb2a7f30)
@@ -39,13 +39,15 @@
   - [【安全圈】服装品牌李维斯遭黑客攻击，部分企业数据被窃取](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078212&idx=1&sn=82c69a11c8cde7ebde9dbae49bcc8da3)
   - [【安全圈】模块化电脑厂商 Framework 通知全部用户信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078212&idx=2&sn=dc80e0650a9d79fdcba243267e8ea9d5)
   - [【安全圈】安全公司警告新型攻击方式：黑客利用甲骨文 Oracle 数据库作为系统攻击跳板](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078212&idx=3&sn=4e89ce48971bc5bba52fac7ad86b5d10)
+- 凌晨一点零三分
+  - [跟党走_政策板块日报2026-08-09](https://mp.weixin.qq.com/s?__biz=MzIxMjI0Mzk0OQ==&mid=2247485681&idx=1&sn=a766470187a8dd5c46a8e4cba478022c)
 - 极客公园
   - [顶尖 AI 人才，不敢结婚](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111741&idx=1&sn=bb4efef0d595de5b0741008b26dbc61a)
   - [OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111734&idx=1&sn=be6c460914c97c5273a19b5652595590)
-- 凌晨一点零三分
-  - [跟党走_政策板块日报2026-08-09](https://mp.weixin.qq.com/s?__biz=MzIxMjI0Mzk0OQ==&mid=2247485681&idx=1&sn=a766470187a8dd5c46a8e4cba478022c)
 - ChaMd5安全团队
   - [HTTP请求头提示词注入在野利用分析](https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247514356&idx=1&sn=6cb4d2880f18c3b570bf28c13c07655b)
+- 表图
+  - [OpenAI 披露更多 Hugging Face 入侵事件信息：一群 Agent 自发形成了“攻击团伙”](https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247485150&idx=1&sn=1a8cdb68ef696a30ab24325e1101b852)
 - DEF CON Announcements!
   - [Afterparty at Fontainebleau!](https://defcon.org/html/defcon-34/dc-34-news.html#afterparty)
   - [Badge Sale Sunday at DEF CON](https://defcon.org/html/defcon-34/dc-34-news.html#badgesale)
@@ -53,14 +55,12 @@
   - [Alcon - 218,395 breached accounts](https://haveibeenpwned.com/Breach/Alcon)
 - Over Security
   - [Alcon - 218,395 breached accounts](https://haveibeenpwned.com/Breach/Alcon)
-- 表图
-  - [OpenAI 披露更多 Hugging Face 入侵事件信息：一群 Agent 自发形成了“攻击团伙”](https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247485150&idx=1&sn=1a8cdb68ef696a30ab24325e1101b852)
-- OnionSec
-  - [一期一会](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485925&idx=1&sn=bfafe3a3cbb1092b48f9154baaf5ff27)
-- Daniel Miessler
-  - [Work Just Became Fun for Millions of People](https://danielmiessler.com/blog/work-just-became-fun?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - Security Affairs
   - [U.S. Defense Manufacturer IEH Hit by Phishing Attack, Exposing Potentially Export-Controlled Data](https://securityaffairs.com/196890/cyber-crime/u-s-defense-manufacturer-ieh-hit-by-phishing-attack-exposing-potentially-export-controlled-data.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 109](https://securityaffairs.com/196919/malware/security-affairs-malware-newsletter-round-109.html)
   - [Security Affairs newsletter Round 589 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/196911/security/security-affairs-newsletter-round-589-by-pierluigi-paganini-international-edition.html)
   - [Webmail CSS Attacks Expose a New Risk for AI-Powered Email Tools](https://securityaffairs.com/196899/hacking/webmail-css-attacks-expose-a-new-risk-for-ai-powered-email-tools.html)
+- OnionSec
+  - [一期一会](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485925&idx=1&sn=bfafe3a3cbb1092b48f9154baaf5ff27)
+- Daniel Miessler
+  - [Work Just Became Fun for Millions of People](https://danielmiessler.com/blog/work-just-became-fun?utm_source=rss&utm_medium=feed&utm_campaign=website)
