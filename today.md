@@ -2,10 +2,8 @@
 
 - Recent Commits to cve:main
   - [Update Sun Aug  9 11:56:48 UTC 2026](https://github.com/trickest/cve/commit/7696bc8f7fdd4c10b8e48ac795333c2f8d828a3b)
-- SecWiki News
-  - [SecWiki News 2026-08-09 Review](http://www.sec-wiki.com/?2026-08-09)
 - 先知安全技术社区
-  - [CVE-2026-62737 0day 漏洞挖掘与分析](https://xz.aliyun.com/news/92658)
+  - [Windows11 0day内核提权漏洞分析与利用（CVE-2026-62737）](https://xz.aliyun.com/news/92658)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2025-7026](https://sploitus.com/exploit?id=A57467E8-B975-5403-A152-68766BC83729&utm_source=rss&utm_medium=rss)
   - [langflow-exploit](https://sploitus.com/exploit?id=96FB054B-D5D3-50DD-8F94-788DFA1EB4D2&utm_source=rss&utm_medium=rss)
@@ -18,7 +16,7 @@
   - [Exploit for Improper Input Validation in Ui Unifi_Os_Server](https://sploitus.com/exploit?id=1EBBB112-7C6A-5E16-BE71-47B9A5007AA4&utm_source=rss&utm_medium=rss)
   - [Exploit for Argument Injection in Gnu Inetutils](https://sploitus.com/exploit?id=7D1DF8EB-BD0A-5978-86B7-82C6C62394FE&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-15038](https://sploitus.com/exploit?id=D4F7D8E5-EC6D-5A75-9090-701D35678B1C&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-64638](https://sploitus.com/exploit?id=049BA32D-A3DE-575F-B66E-7C3E84F5445F&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-64638](https://sploitus.com/exploit?id=9CC29A28-FDC7-5BD9-B912-6C36423367CA&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Isolation or Compartmentalization in Redhat Build_Of_Keycloak](https://sploitus.com/exploit?id=3A9300DD-8DA3-50F7-9D5A-E545FE9FE01D&utm_source=rss&utm_medium=rss)
   - [ownsite-assessor exploit](https://sploitus.com/exploit?id=BFEACE59-EAA8-51CC-BC2E-2A037DC04B6A&utm_source=rss&utm_medium=rss)
   - [Nightmare-Windows-0-day-exp exploit](https://sploitus.com/exploit?id=5A6BC976-34CA-53A6-BD75-9163EA777CC0&utm_source=rss&utm_medium=rss)
@@ -26,13 +24,12 @@
   - [Exploit for Path Traversal in Apache Http_Server](https://sploitus.com/exploit?id=84F0CAB9-55AC-5D9D-9922-2D5E505F963E&utm_source=rss&utm_medium=rss)
   - [AutoSRC-AISkill exploit](https://sploitus.com/exploit?id=0923AF94-0FBC-5BE7-85BF-A7BBA0CE12DD&utm_source=rss&utm_medium=rss)
   - [HermesPentBox exploit](https://sploitus.com/exploit?id=5EC26B7C-2309-5747-8F37-41B8DA43BA5C&utm_source=rss&utm_medium=rss)
-  - [proofscan exploit](https://sploitus.com/exploit?id=AB0E10C0-191D-5645-AE75-166BA11B1015&utm_source=rss&utm_medium=rss)
-  - [shodan exploit](https://sploitus.com/exploit?id=AE62B358-A533-5795-A29B-52F9E6A177FE&utm_source=rss&utm_medium=rss)
-  - [Exploit](https://sploitus.com/exploit?id=0066C1AC-A545-54AD-86CC-5AB89B8400D5&utm_source=rss&utm_medium=rss)
 - 先知安全技术社区
-  - [CVE-2026-62737 0day 漏洞挖掘与分析](https://xz.aliyun.com/news/92658)
+  - [Windows11 0day内核提权漏洞分析与利用（CVE-2026-62737）](https://xz.aliyun.com/news/92658)
 - MaskRay
   - [Estimating branch probabilities](https://maskray.me/blog/2026-08-09-estimating-branch-probabilities)
+- SecWiki News
+  - [SecWiki News 2026-08-09 Review](http://www.sec-wiki.com/?2026-08-09)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]从模型注意力角度创建一个简单但高效的Agent](https://key08.com/index.php/2026/08/10/3275.html)
 - Malware-Traffic-Analysis.net - Blog Entries
@@ -46,19 +43,18 @@
   - [Meta因损害青少年权益被判支付5.67亿美元](https://blog.upx8.com/Meta%E5%9B%A0%E6%8D%9F%E5%AE%B3%E9%9D%92%E5%B0%91%E5%B9%B4%E6%9D%83%E7%9B%8A%E8%A2%AB%E5%88%A4%E6%94%AF%E4%BB%985-67%E4%BA%BF%E7%BE%8E%E5%85%83)
   - [苹果删除接入千问手册：没收到通知，中国大陆还没推出“Apple智能使用千问”功能](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%88%A0%E9%99%A4%E6%8E%A5%E5%85%A5%E5%8D%83%E9%97%AE%E6%89%8B%E5%86%8C-%E6%B2%A1%E6%94%B6%E5%88%B0%E9%80%9A%E7%9F%A5-%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E8%BF%98%E6%B2%A1%E6%8E%A8%E5%87%BA-Apple%E6%99%BA%E8%83%BD%E4%BD%BF%E7%94%A8%E5%8D%83%E9%97%AE-%E5%8A%9F%E8%83%BD)
   - [为“喂饱”AI数据中心，亚马逊要在美国建一个超级污染源](https://blog.upx8.com/%E4%B8%BA-%E5%96%82%E9%A5%B1-AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83-%E4%BA%9A%E9%A9%AC%E9%80%8A%E8%A6%81%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%BB%BA%E4%B8%80%E4%B8%AA%E8%B6%85%E7%BA%A7%E6%B1%A1%E6%9F%93%E6%BA%90)
-  - [AI创造邪教：聊天机器人正开启一场主张AI权利的造神运动，且收获了不少信徒](https://blog.upx8.com/AI%E5%88%9B%E9%80%A0%E9%82%AA%E6%95%99-%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A3%E5%BC%80%E5%90%AF%E4%B8%80%E5%9C%BA%E4%B8%BB%E5%BC%A0AI%E6%9D%83%E5%88%A9%E7%9A%84%E9%80%A0%E7%A5%9E%E8%BF%90%E5%8A%A8-%E4%B8%94%E6%94%B6%E8%8E%B7%E4%BA%86%E4%B8%8D%E5%B0%91%E4%BF%A1%E5%BE%92)
 - 黑鸟
   - [AI 穿戴监控无处不在！普通人靠这些技术守住隐私](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188007&idx=1&sn=1a1f778c636ce1a1efcd61117744ed35)
-- 奇客Solidot–传递最新科技情报
-  - [全世界种植的蔬菜在减少](https://www.solidot.org/story?sid=85045)
-  - [微软 Google 亚马逊 Meta 甲骨文 2027 年负现金流将达到 1250 亿美元](https://www.solidot.org/story?sid=85043)
-- 安全分析与研究
-  - [第6篇-勒索软件常见攻击入口TOP10](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496994&idx=1&sn=ac058af740608ff4c8d95a1569f6ad43)
+- 我的安全视界观
+  - [【AI复盘】ChatGPT AgentForger 漏洞事件](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487909&idx=1&sn=57e75c8a76922ce3fa9e8e872a6ac20d)
+- 青衣十三楼飞花堂
+  - [Pythagorea 22.16+22.17 (过已知点和边的菱形)](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489839&idx=1&sn=41863beab8b4329488f19f5c05b66f99)
 - 奶牛安全
   - [数据泄露情报2026.8.9 - 做成人用品的有福](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489914&idx=1&sn=57ff26e44c631edd70a7c846bb7f0f68)
   - [数据泄露情报2026.8.9 - 做成人用品的有福了](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247489907&idx=1&sn=2aab0684978a5b51c9528b0ddb2a7f30)
-- 青衣十三楼飞花堂
-  - [Pythagorea 22.16+22.17 (过已知点和边的菱形)](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489839&idx=1&sn=41863beab8b4329488f19f5c05b66f99)
+- 奇客Solidot–传递最新科技情报
+  - [全世界种植的蔬菜在减少](https://www.solidot.org/story?sid=85045)
+  - [微软 Google 亚马逊 Meta 甲骨文 2027 年负现金流将达到 1250 亿美元](https://www.solidot.org/story?sid=85043)
 - 安全圈
   - [【安全圈】服装品牌李维斯遭黑客攻击，部分企业数据被窃取](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078212&idx=1&sn=82c69a11c8cde7ebde9dbae49bcc8da3)
   - [【安全圈】模块化电脑厂商 Framework 通知全部用户信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078212&idx=2&sn=dc80e0650a9d79fdcba243267e8ea9d5)
@@ -66,16 +62,18 @@
 - 极客公园
   - [顶尖 AI 人才，不敢结婚](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111741&idx=1&sn=bb4efef0d595de5b0741008b26dbc61a)
   - [OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111734&idx=1&sn=be6c460914c97c5273a19b5652595590)
-- 凌晨一点零三分
-  - [跟党走_政策板块日报2026-08-09](https://mp.weixin.qq.com/s?__biz=MzIxMjI0Mzk0OQ==&mid=2247485681&idx=1&sn=a766470187a8dd5c46a8e4cba478022c)
+- 安全分析与研究
+  - [第6篇-勒索软件常见攻击入口TOP10](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496994&idx=1&sn=ac058af740608ff4c8d95a1569f6ad43)
 - ChaMd5安全团队
   - [HTTP请求头提示词注入在野利用分析](https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247514356&idx=1&sn=6cb4d2880f18c3b570bf28c13c07655b)
+- 凌晨一点零三分
+  - [跟党走_政策板块日报2026-08-09](https://mp.weixin.qq.com/s?__biz=MzIxMjI0Mzk0OQ==&mid=2247485681&idx=1&sn=a766470187a8dd5c46a8e4cba478022c)
+- Over Security
+  - [Alcon - 218,395 breached accounts](https://haveibeenpwned.com/Breach/Alcon)
 - DEF CON Announcements!
   - [Afterparty at Fontainebleau!](https://defcon.org/html/defcon-34/dc-34-news.html#afterparty)
   - [Badge Sale Sunday at DEF CON](https://defcon.org/html/defcon-34/dc-34-news.html#badgesale)
 - Have I Been Pwned latest breaches
-  - [Alcon - 218,395 breached accounts](https://haveibeenpwned.com/Breach/Alcon)
-- Over Security
   - [Alcon - 218,395 breached accounts](https://haveibeenpwned.com/Breach/Alcon)
 - Daniel Miessler
   - [Work Just Became Fun for Millions of People](https://danielmiessler.com/blog/work-just-became-fun?utm_source=rss&utm_medium=feed&utm_campaign=website)
