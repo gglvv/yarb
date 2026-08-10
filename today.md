@@ -4,6 +4,8 @@
   - [Update Sun Aug  9 11:56:48 UTC 2026](https://github.com/trickest/cve/commit/7696bc8f7fdd4c10b8e48ac795333c2f8d828a3b)
 - SecWiki News
   - [SecWiki News 2026-08-09 Review](http://www.sec-wiki.com/?2026-08-09)
+- 先知安全技术社区
+  - [CVE-2026-62737 0day 漏洞挖掘与分析](https://xz.aliyun.com/news/92658)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2025-7026](https://sploitus.com/exploit?id=A57467E8-B975-5403-A152-68766BC83729&utm_source=rss&utm_medium=rss)
   - [langflow-exploit](https://sploitus.com/exploit?id=96FB054B-D5D3-50DD-8F94-788DFA1EB4D2&utm_source=rss&utm_medium=rss)
@@ -29,8 +31,8 @@
   - [Exploit](https://sploitus.com/exploit?id=0066C1AC-A545-54AD-86CC-5AB89B8400D5&utm_source=rss&utm_medium=rss)
 - 先知安全技术社区
   - [CVE-2026-62737 0day 漏洞挖掘与分析](https://xz.aliyun.com/news/92658)
-- 先知安全技术社区
-  - [CVE-2026-62737 0day 漏洞挖掘与分析](https://xz.aliyun.com/news/92658)
+- MaskRay
+  - [Estimating branch probabilities](https://maskray.me/blog/2026-08-09-estimating-branch-probabilities)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]从模型注意力角度创建一个简单但高效的Agent](https://key08.com/index.php/2026/08/10/3275.html)
 - Malware-Traffic-Analysis.net - Blog Entries
@@ -45,12 +47,11 @@
   - [苹果删除接入千问手册：没收到通知，中国大陆还没推出“Apple智能使用千问”功能](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%88%A0%E9%99%A4%E6%8E%A5%E5%85%A5%E5%8D%83%E9%97%AE%E6%89%8B%E5%86%8C-%E6%B2%A1%E6%94%B6%E5%88%B0%E9%80%9A%E7%9F%A5-%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E8%BF%98%E6%B2%A1%E6%8E%A8%E5%87%BA-Apple%E6%99%BA%E8%83%BD%E4%BD%BF%E7%94%A8%E5%8D%83%E9%97%AE-%E5%8A%9F%E8%83%BD)
   - [为“喂饱”AI数据中心，亚马逊要在美国建一个超级污染源](https://blog.upx8.com/%E4%B8%BA-%E5%96%82%E9%A5%B1-AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83-%E4%BA%9A%E9%A9%AC%E9%80%8A%E8%A6%81%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%BB%BA%E4%B8%80%E4%B8%AA%E8%B6%85%E7%BA%A7%E6%B1%A1%E6%9F%93%E6%BA%90)
   - [AI创造邪教：聊天机器人正开启一场主张AI权利的造神运动，且收获了不少信徒](https://blog.upx8.com/AI%E5%88%9B%E9%80%A0%E9%82%AA%E6%95%99-%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A3%E5%BC%80%E5%90%AF%E4%B8%80%E5%9C%BA%E4%B8%BB%E5%BC%A0AI%E6%9D%83%E5%88%A9%E7%9A%84%E9%80%A0%E7%A5%9E%E8%BF%90%E5%8A%A8-%E4%B8%94%E6%94%B6%E8%8E%B7%E4%BA%86%E4%B8%8D%E5%B0%91%E4%BF%A1%E5%BE%92)
-  - [AI邪教：AI机器人正开启一场主张AI权利的造神运动，且收获了不少信徒](https://blog.upx8.com/AI%E9%82%AA%E6%95%99-AI%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A3%E5%BC%80%E5%90%AF%E4%B8%80%E5%9C%BA%E4%B8%BB%E5%BC%A0AI%E6%9D%83%E5%88%A9%E7%9A%84%E9%80%A0%E7%A5%9E%E8%BF%90%E5%8A%A8-%E4%B8%94%E6%94%B6%E8%8E%B7%E4%BA%86%E4%B8%8D%E5%B0%91%E4%BF%A1%E5%BE%92)
+- 黑鸟
+  - [AI 穿戴监控无处不在！普通人靠这些技术守住隐私](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188007&idx=1&sn=1a1f778c636ce1a1efcd61117744ed35)
 - 奇客Solidot–传递最新科技情报
   - [全世界种植的蔬菜在减少](https://www.solidot.org/story?sid=85045)
   - [微软 Google 亚马逊 Meta 甲骨文 2027 年负现金流将达到 1250 亿美元](https://www.solidot.org/story?sid=85043)
-- 黑鸟
-  - [AI 穿戴监控无处不在！普通人靠这些技术守住隐私](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188007&idx=1&sn=1a1f778c636ce1a1efcd61117744ed35)
 - 安全分析与研究
   - [第6篇-勒索软件常见攻击入口TOP10](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496994&idx=1&sn=ac058af740608ff4c8d95a1569f6ad43)
 - 奶牛安全
@@ -76,10 +77,10 @@
   - [Alcon - 218,395 breached accounts](https://haveibeenpwned.com/Breach/Alcon)
 - Over Security
   - [Alcon - 218,395 breached accounts](https://haveibeenpwned.com/Breach/Alcon)
+- Daniel Miessler
+  - [Work Just Became Fun for Millions of People](https://danielmiessler.com/blog/work-just-became-fun?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - Security Affairs
   - [U.S. Defense Manufacturer IEH Hit by Phishing Attack, Exposing Potentially Export-Controlled Data](https://securityaffairs.com/196890/cyber-crime/u-s-defense-manufacturer-ieh-hit-by-phishing-attack-exposing-potentially-export-controlled-data.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 109](https://securityaffairs.com/196919/malware/security-affairs-malware-newsletter-round-109.html)
   - [Security Affairs newsletter Round 589 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/196911/security/security-affairs-newsletter-round-589-by-pierluigi-paganini-international-edition.html)
   - [Webmail CSS Attacks Expose a New Risk for AI-Powered Email Tools](https://securityaffairs.com/196899/hacking/webmail-css-attacks-expose-a-new-risk-for-ai-powered-email-tools.html)
-- Daniel Miessler
-  - [Work Just Became Fun for Millions of People](https://danielmiessler.com/blog/work-just-became-fun?utm_source=rss&utm_medium=feed&utm_campaign=website)
