@@ -1,5 +1,7 @@
 # 每日安全资讯（2026-08-15）
 
+- SecWiki News
+  - [SecWiki News 2026-08-14 Review](http://www.sec-wiki.com/?2026-08-14)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Connectwise Screenconnect](https://sploitus.com/exploit?id=8124CEFC-E02F-5BB8-95E3-801916007113&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Erlang Erlang\/Otp](https://sploitus.com/exploit?id=9379C596-214A-50EF-9E00-A1938B33DF51&utm_source=rss&utm_medium=rss)
@@ -13,8 +15,8 @@
   - [Exploit for Missing Release of Memory after Effective Lifetime in Linux Linux_Kernel](https://sploitus.com/exploit?id=A2ABA4D2-7872-5746-9371-05476ACC5160&utm_source=rss&utm_medium=rss)
   - [privil_edge exploit](https://sploitus.com/exploit?id=EE93979C-CEDA-5B38-9D08-B4C5C7D2EA9C&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Citrix Netscaler_Application_Delivery_Controller](https://sploitus.com/exploit?id=966C6430-FD83-5FF2-AB6F-EE80A052F062&utm_source=rss&utm_medium=rss)
-- A Few Thoughts on Cryptographic Engineering
-  - [Everything is about to “go dark”](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
+- 安全客-有思想的安全新媒体
+  - [科技云报到：IDC发布APA市场份额报告，领跑企业都有谁？](https://www.anquanke.com/post/id/315965)
 - Recent Commits to cve:main
   - [Update Fri Aug 14 11:59:23 UTC 2026](https://github.com/trickest/cve/commit/8f71cf22ac755218168d2f957a656c0a4dee554d)
 - InfoSec Write-ups - Medium
@@ -28,15 +30,13 @@
   - [tryhackme beach bar day - 05 writeup](https://infosecwriteups.com/tryhackme-beach-bar-day-05-writeup-86beb05cd3d4?source=rss----7b722bfd1b8d---4)
   - [LetsDefend Practical Case: Corporate Policy Violation | Browser Forensics | Incident Responder…](https://infosecwriteups.com/letsdefend-practical-case-corporate-policy-violation-browser-forensics-incident-responder-e3b9c833a4dc?source=rss----7b722bfd1b8d---4)
   - [When HTTP Cookies Become a Covert Channel: Packed Light](https://infosecwriteups.com/when-http-cookies-become-a-covert-channel-packed-light-aa6255eddaa5?source=rss----7b722bfd1b8d---4)
-- SecWiki News
-  - [SecWiki News 2026-08-14 Review](http://www.sec-wiki.com/?2026-08-14)
-- 安全客-有思想的安全新媒体
-  - [科技云报到：IDC发布APA市场份额报告，领跑企业都有谁？](https://www.anquanke.com/post/id/315965)
-- Securelist
-  - [APT group HoneyMyte upgrades CoolClient: the backdoor gets a kernel-level Windows rootkit](https://securelist.com/honeymyte-coolclient-driver-rootkit/121028/)
+- A Few Thoughts on Cryptographic Engineering
+  - [Everything is about to “go dark”](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [Escalating a Blind Upload to RCE via Path Traversal into Cron and DNS-Restricted Callback Bypass](https://infosecwriteups.com/escalating-a-blind-upload-to-rce-via-path-traversal-into-cron-and-dns-restricted-callback-bypass-0f63db01be92?source=rss----7b722bfd1b8d--bug_bounty)
   - [Revisiting JWT Token Forgery Attack on Recent Bounty Target](https://infosecwriteups.com/revisiting-jwt-token-forgery-attack-on-a-recent-bounty-target-bfe4a423f3df?source=rss----7b722bfd1b8d--bug_bounty)
+- Securelist
+  - [APT group HoneyMyte upgrades CoolClient: the backdoor gets a kernel-level Windows rootkit](https://securelist.com/honeymyte-coolclient-driver-rootkit/121028/)
 - SentinelOne
   - [The Good, the Bad and the Ugly in Cybersecurity – Week 33](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-33-8/)
 - Malwarebytes
@@ -62,50 +62,54 @@
   - [SK海力士崔泰源：明年将迎最严重“存储荒”](https://blog.upx8.com/SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%B4%94%E6%B3%B0%E6%BA%90-%E6%98%8E%E5%B9%B4%E5%B0%86%E8%BF%8E%E6%9C%80%E4%B8%A5%E9%87%8D-%E5%AD%98%E5%82%A8%E8%8D%92)
   - [苹果折叠屏手机生产难度令初期供应受限](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%E7%94%9F%E4%BA%A7%E9%9A%BE%E5%BA%A6%E4%BB%A4%E5%88%9D%E6%9C%9F%E4%BE%9B%E5%BA%94%E5%8F%97%E9%99%90)
   - [比尔·盖茨小女儿被曝涉嫌电信欺诈](https://blog.upx8.com/%E6%AF%94%E5%B0%94-%E7%9B%96%E8%8C%A8%E5%B0%8F%E5%A5%B3%E5%84%BF%E8%A2%AB%E6%9B%9D%E6%B6%89%E5%AB%8C%E7%94%B5%E4%BF%A1%E6%AC%BA%E8%AF%88)
+- 黑鸟
+  - [暗藏白字提示词注入：原告企图利用隐藏指令操控审理案件的 AI](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188086&idx=1&sn=1d49489e1dbde5d06f711fbb82db023e)
 - 微步在线研究响应中心
   - [原创漏洞 | PostgreSQL to_char 堆溢出远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508837&idx=1&sn=2e5abbda66328021e1a15edcefdbf874)
 - 安全客
   - [一张恶意SIM卡，就能接管你的充电桩：1981年的"祖传命令"正在物联网里复活](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790367&idx=1&sn=88b1448154ecea0754434f582f180f04)
 - 威努特安全网络
   - [8月20日正式施行《网络数据安全风险评估办法》](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651143532&idx=1&sn=0704a0fd230d97e21276cff5d9171b7f)
-- 安全内参
-  - [黑飞机！1分钟物理接触即可篡改波音737飞行指令](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516427&idx=1&sn=63f2d90a0ddd58071d5b4ff9653c8f85)
-  - [重大转向！特朗普新政允许私营企业在政府监督下执行进攻性网络任务](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516427&idx=2&sn=eb5e51ddce66a3e59bd2d6997781fe82)
+- 代码卫士
+  - [Fortinet 修复 FortiWeb 和 FortiManager 中的多个身份验证漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526871&idx=1&sn=9b175f70e65bbcd26fcaacef5404a0d8)
 - 青衣十三楼飞花堂
   - [Pythagorea 24.5 (定弦定角作圆)](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489863&idx=1&sn=5e5cf52708c96f8cebb0f00ca31aeaa8)
 - 绿盟科技研究通讯
   - [AI与云安全事件案例分析周报｜2026.08.10 - 2026.08.14](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247500201&idx=1&sn=370ff8950605b5c12f7470302acd11af)
-- 安全分析与研究
-  - [AI时代下的网安人员该何去何从](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497015&idx=1&sn=6554bd5c3c14e285abee44b9b4132b6c)
-- 安全学术圈
-  - [行业会议｜第八届“纵横”网络空间安全创新论坛](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495791&idx=1&sn=bb7129d9f21661904445a911cba49daf)
-- 信安之路
-  - [首期 - AI 应用与攻防实战！](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500642&idx=1&sn=4752221d17f0c480d1635c793c42b2be)
-- 代码卫士
-  - [Fortinet 修复 FortiWeb 和 FortiManager 中的多个身份验证漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526871&idx=1&sn=9b175f70e65bbcd26fcaacef5404a0d8)
-- 360Quake空间测绘
-  - [起底AI中转站](https://mp.weixin.qq.com/s?__biz=Mzk0NzE4MDE2NA==&mid=2247488152&idx=1&sn=e70ca79b0539ef9bafed30a68cd923f2)
+- 安全内参
+  - [黑飞机！1分钟物理接触即可篡改波音737飞行指令](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516427&idx=1&sn=63f2d90a0ddd58071d5b4ff9653c8f85)
+  - [重大转向！特朗普新政允许私营企业在政府监督下执行进攻性网络任务](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516427&idx=2&sn=eb5e51ddce66a3e59bd2d6997781fe82)
 - 看雪学苑
   - [angr符号执行对抗ollvm](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618672&idx=1&sn=65f71de667d50fdef9073b6b60fb5d91)
   - [招人！60-70K～招智驾安全、IoT 渗透、大模型安全工程师](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618672&idx=2&sn=0912f6abdfaf6969f1e9d7b496e8555d)
   - [智谱GLM‑5.3正式发布：开源模型编程能力大幅跃升](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618672&idx=3&sn=92eef51d42d5ed526817084356cc87b8)
+- 信安之路
+  - [首期 - AI 应用与攻防实战！](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500642&idx=1&sn=4752221d17f0c480d1635c793c42b2be)
+- 安全研究GoSSIP
+  - [G.O.S.S.I.P 阅读推荐 2026-08-14 Zilliqa Ledger EC-Schnorr 签名攻击复现](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501980&idx=1&sn=3e0bee47895f3d70f1dd32d4d73a70de)
 - 中国信息安全
   - [专题·量子安全 | 构建量子密码与后量子密码融合发展与协同防御体系](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265628&idx=1&sn=9301412b3960a7cb73e791c60ce0e3c4)
   - [专家解读 | 反网络暴力法征求意见稿的治理逻辑与完善路径](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265628&idx=2&sn=f8a8297e2d46963b2bda5ae4353d2b5b)
   - [注意！这75款APP违法违规收集使用个人信息](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265628&idx=3&sn=f91633854b91ab891209359e6ca73e0c)
   - [国际 | 欧盟强化数字经济规则监管](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265628&idx=4&sn=d520a49f307b42025b46313eeb0480ee)
   - [评论 | 打击网络“黑嘴”切实维护企业利益](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265628&idx=5&sn=83176888176af4f905c46ebd343c6125)
-- 奇安信威胁情报中心
-  - [每周高级威胁情报解读(2026.08.07~08.13)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519857&idx=1&sn=ac62fb3eb6bc94da52f0e696f31357c0)
-- 奇安信 CERT
-  - [【已复现】GeoServer jsonArrayContains 远程代码执行漏洞(QVD-2026-52627)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507107&idx=1&sn=5db9f432d51ec1aab6d263114db93e1c)
-  - [【已复现】Windows Cross Device Service 本地权限提升漏洞(CVE-2026-66804)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507107&idx=2&sn=0caeee931a490818e294cc4bea6227d4)
+- 黑哥虾撩
+  - [EasyDsh紧急发布：让DeepSeek Harness 开箱即用](https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484589&idx=1&sn=8f226202b6a16e729158feeecf94321f)
+- M01N Team
+  - [每周蓝军技术推送（2026.8.1-8.14）](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495400&idx=1&sn=a6f0d17686b5fc5195c8d3e3d573df2b)
+- 安全学术圈
+  - [行业会议｜第八届“纵横”网络空间安全创新论坛](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495791&idx=1&sn=bb7129d9f21661904445a911cba49daf)
+- 安全分析与研究
+  - [AI时代下的网安人员该何去何从](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497015&idx=1&sn=6554bd5c3c14e285abee44b9b4132b6c)
 - 安全圈
   - [【安全圈】macOS窃密木马横行，一键接管你的浏览器](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078279&idx=1&sn=f4a1e091ca8d0b4779258c57116b8577)
   - [【安全圈】开源地图服务器曝零日漏洞，全球遭疯狂利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078279&idx=2&sn=985d79e8e4b1f31fb20e1e8561712d9a)
   - [【安全圈】间谍+诈骗双线并行：黑客组织用浏览器接管全球](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078279&idx=3&sn=94e2033cf4a2cdb76614de9551b98be3)
-- 安全研究GoSSIP
-  - [G.O.S.S.I.P 阅读推荐 2026-08-14 Zilliqa Ledger EC-Schnorr 签名攻击复现](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501980&idx=1&sn=3e0bee47895f3d70f1dd32d4d73a70de)
+- 奇安信 CERT
+  - [【已复现】GeoServer jsonArrayContains 远程代码执行漏洞(QVD-2026-52627)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507107&idx=1&sn=5db9f432d51ec1aab6d263114db93e1c)
+  - [【已复现】Windows Cross Device Service 本地权限提升漏洞(CVE-2026-66804)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507107&idx=2&sn=0caeee931a490818e294cc4bea6227d4)
+- 奇安信威胁情报中心
+  - [每周高级威胁情报解读(2026.08.07~08.13)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519857&idx=1&sn=ac62fb3eb6bc94da52f0e696f31357c0)
 - 数世咨询
   - [为什么风险暴露管理正在取代漏洞管理？](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543681&idx=1&sn=bf087963f7af724269a5861525366116)
 - 丁爸 情报分析师的工具箱
@@ -115,27 +119,40 @@
   - [10 年机器人老兵：具身智能的真相，可能和你想的不一样](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111952&idx=1&sn=43b292cedb3862ed0c229af8894826df)
   - [阿里云，接得住中国智驾吗？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111943&idx=1&sn=331ff3edf487efdc27f6b609f2a0dde5)
   - [DeepSeek Harness 公测，对标 Claude Cowork ；长鑫科技市值超越腾讯；OpenAI 年化营收有望翻番达 400 亿美元｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111937&idx=1&sn=010c7cffc4e0d436990390639f9d14b3)
-- 黑哥虾撩
-  - [EasyDsh紧急发布：让DeepSeek Harness 开箱即用](https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484589&idx=1&sn=8f226202b6a16e729158feeecf94321f)
-- 网络空间安全科学学报
-  - [2026年网络空间安全学术会议通知（第一轮）](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247508135&idx=1&sn=fa1d033bccf3284bfc181979fff76f0a)
 - 凌晨一点零三分
   - [跟党走_政策板块日报2026-08-14](https://mp.weixin.qq.com/s?__biz=MzIxMjI0Mzk0OQ==&mid=2247485711&idx=1&sn=bfb248ec956abff1c13d2043ce35d6df)
 - 安全牛
   - [434项实锤缺陷：AI写的应用"能跑不能守"，数量第一的不是SQL注入而是它](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142357&idx=1&sn=782bb1f17452203b7b53c521973e0cf2)
   - [美国出新政，授权私营企业在政府监管下开展境外网络进攻行动；OpenAI上线加速模式，GPT-5.6 Sol推理速度提升数倍、每秒输出750Token|牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142357&idx=2&sn=e99771bb5f3a62e9ad83c411720e912e)
-- ChaMd5安全团队
-  - [插件、沙箱与一个总钥匙:DeepSeek Harness 四个安全漏洞的发现与利用实录](https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247514392&idx=1&sn=51cd8c0619898d0e068bbd42db067118)
 - 长亭科技
   - [MonkeyScan 硬刚 Codex Security：多找回22个真实漏洞，成本仅1/5](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651390595&idx=1&sn=88dc66c3106aa277fa1f7e49e4636723)
+- 360Quake空间测绘
+  - [起底AI中转站](https://mp.weixin.qq.com/s?__biz=Mzk0NzE4MDE2NA==&mid=2247488152&idx=1&sn=e70ca79b0539ef9bafed30a68cd923f2)
+- 网络空间安全科学学报
+  - [2026年网络空间安全学术会议通知（第一轮）](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247508135&idx=1&sn=fa1d033bccf3284bfc181979fff76f0a)
+- OPPO安全中心
+  - [【有奖调研】想要AI赋能提交报告？想要吐槽平台体验？即刻参与OSRC调研，我们期待听见你的声音](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247495039&idx=1&sn=4917cf60ccbda9baa22f9d712e8eabad)
+  - [【奖励公告】2026年7月](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247495039&idx=2&sn=a4ac4239e374b474ca462e88108d11d7)
+  - [关于违规使用AI提交漏洞报告的处罚通报](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247495039&idx=3&sn=aace4da7682d06fa8c46cde46b26808e)
 - 奇安信病毒响应中心
   - [每周勒索威胁摘要](https://mp.weixin.qq.com/s?__biz=MzI5Mzg5MDM3NQ==&mid=2247498633&idx=1&sn=8138bccc9951224e348dcbdd9cae5706)
+- 火绒安全
+  - [警惕新型勒索病毒来袭！“Sorry” 病毒瞄准Linux服务器发起攻击](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536515&idx=1&sn=da17e84bf134fa72ca1217d7bb1c0741)
+  - [火绒小问答——「企业版」终端概况](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536515&idx=2&sn=1260bd60c2c84bd8cf3914936eb8eae4)
+  - [【火绒安全周报】公安部发布《公安机关网络空间安全监督检查办法》/服装品牌李维斯遭黑客攻击](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536515&idx=3&sn=2f588fd31d99623f50edaaa0df1cbcc9)
+  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536515&idx=4&sn=05ab3d692ca40db4111e2d709920bc7d)
 - 安全行者老霍
   - [Black Hat USA 2026 的热门产品](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486907&idx=1&sn=14b210647779bfb8e340e187275ece1f)
-- 黑鸟
-  - [暗藏白字提示词注入：原告企图利用隐藏指令操控审理案件的 AI](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188086&idx=1&sn=1d49489e1dbde5d06f711fbb82db023e)
-- M01N Team
-  - [每周蓝军技术推送（2026.8.1-8.14）](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495400&idx=1&sn=a6f0d17686b5fc5195c8d3e3d573df2b)
+- ChaMd5安全团队
+  - [插件、沙箱与一个总钥匙:DeepSeek Harness 四个安全漏洞的发现与利用实录](https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247514392&idx=1&sn=51cd8c0619898d0e068bbd42db067118)
+- 360数字安全
+  - [360图龙锋落地首都在线 为云上AI安全治理提供实践参考](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586747&idx=1&sn=d09978696f258eea99531c26db203e07)
+- 威胁猎人Threat Hunter
+  - [企业敏感信息过度公开，威胁猎人推出外部暴露面排查解决方案](https://mp.weixin.qq.com/s?__biz=MzI3NDY3NDUxNg==&mid=2247505020&idx=1&sn=508f92aeb9568425c597c3b4df33443d)
+- DARKNAVY
+  - [只要​ ⁉️ 万8，顶级黑客团队带回家](https://mp.weixin.qq.com/s?__biz=MzkyMjM5MTk3NQ==&mid=2247505137&idx=1&sn=8069492cd1c84693fd7dc1c8f4885a23)
+- Arturo Di Corinto
+  - [SEGNALAZIONI GUERRA PROFONDA sulla stampa italiana](https://dicorinto.it/articoli/recensioni/segnalazioni-guerra-profonda-sulla-stampa-italiana/)
 - Over Security
   - [How Anthropic plans to watermark Claude's AI-generated text](https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/)
   - [Investigation of banking hack leads to arrests in Germany, Brazil](https://therecord.media/investigation-into-banking-hack-leads-to-arrests-germany-brazil)
@@ -162,86 +179,69 @@
   - [AI Won’t Replace Cybersecurity Jobs, It’ll Replace the Toil – Harsha Reddy Explains What’s Next](https://thecyberexpress.com/ai-wont-replace-cybersecurity-jobs-interview/)
   - [Le due responsabilità del GDPR: la promessa e il vincolo](https://www.cybersecurity360.it/legal/privacy-dati-personali/le-due-responsabilita-del-gdpr-la-promessa-e-il-vincolo/)
   - [Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks](https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/)
-- 威胁猎人Threat Hunter
-  - [企业敏感信息过度公开，威胁猎人推出外部暴露面排查解决方案](https://mp.weixin.qq.com/s?__biz=MzI3NDY3NDUxNg==&mid=2247505020&idx=1&sn=508f92aeb9568425c597c3b4df33443d)
-- DARKNAVY
-  - [只要​ ⁉️ 万8，顶级黑客团队带回家](https://mp.weixin.qq.com/s?__biz=MzkyMjM5MTk3NQ==&mid=2247505137&idx=1&sn=8069492cd1c84693fd7dc1c8f4885a23)
-- Beacon Tower Lab
-  - [【0814】重保演习每周情报汇总](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488355&idx=1&sn=b432f3a102fd9ca13dfdcacdf2bb708c)
-- 360数字安全
-  - [360图龙锋落地首都在线 为云上AI安全治理提供实践参考](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586747&idx=1&sn=d09978696f258eea99531c26db203e07)
-- Yak Project
-  - [SSA2LLVM 编译产物大小优化](https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247530054&idx=1&sn=ac618c1422c779baad210eb87ccd3796)
-- Arturo Di Corinto
-  - [SEGNALAZIONI GUERRA PROFONDA sulla stampa italiana](https://dicorinto.it/articoli/recensioni/segnalazioni-guerra-profonda-sulla-stampa-italiana/)
-- 火绒安全
-  - [警惕新型勒索病毒来袭！“Sorry” 病毒瞄准Linux服务器发起攻击](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536515&idx=1&sn=da17e84bf134fa72ca1217d7bb1c0741)
-  - [火绒小问答——「企业版」终端概况](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536515&idx=2&sn=1260bd60c2c84bd8cf3914936eb8eae4)
-  - [【火绒安全周报】公安部发布《公安机关网络空间安全监督检查办法》/服装品牌李维斯遭黑客攻击](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536515&idx=3&sn=2f588fd31d99623f50edaaa0df1cbcc9)
-  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536515&idx=4&sn=05ab3d692ca40db4111e2d709920bc7d)
-- Chaos Computer Club - last 100 events feed
-  - [Googlefrei und Spaß dabei? (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3617-deu-Googlefrei_und_Spass_dabei_sd.mp4)
-  - [Der Cyber Resilience Act: Wo stehen wir? (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3585-deu-Der_Cyber_Resilience_Act_Wo_stehen_wir_sd.mp4)
-  - [QEMU on speed: microVMs in Proxmox (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3559-deu-QEMU_on_speed_microVMs_in_Proxmox_sd.mp4)
-  - [Supply Chain Security in the PHP Ecosystem (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3475-eng-Supply_Chain_Security_in_the_PHP_Ecosystem_sd.mp4)
-  - [Können Lizenzbedingungen Open Data und Open Content vor KI schützen? (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3638-deu-Koennen_Lizenzbedingungen_Open_Data_und_Open_Content_vor_KI_schuetzen_sd.mp4)
-  - [OpenStreetMap jenseits der Karte (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-hd/froscon2026-3575-deu-OpenStreetMap_jenseits_der_Karte_hd.mp4)
-  - [Digitale Teilhabe neu denken (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3506-deu-Digitale_Teilhabe_neu_denken_sd.mp4)
-  - [DigiZiege - A Progressive Web App for Goat Farmers (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3649-eng-DigiZiege_-_A_Progressive_Web_App_for_Goat_Farmers_sd.mp4)
-  - [Verkehrstatistiken mit DAVe (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3502-deu-Verkehrstatistiken_mit_DAVe_sd.mp4)
-  - [Weg von Dropbox & Co.: Einstieg in OpenCloud Selfhosting (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3605-deu-Weg_von_Dropbox_Co_Einstieg_in_OpenCloud_Selfhosting_sd.mp4)
-  - [Unbekannt heißt nicht unzugänglich - Warum OSS Nutzung Mut braucht (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3634-deu-Unbekannt_heisst_nicht_unzugaenglich_-_Warum_OSS_Nutzung_Mut_braucht_sd.mp4)
-  - [Von der Self-Hosting-Hölle zur Data Agency (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3474-deu-Von_der_Self-Hosting-Hoelle_zur_Data_Agency_sd.mp4)
-  - [Reading Video data with IO_URING (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3635-eng-Reading_Video_data_with_IO_URING_sd.mp4)
-  - [KI-Chat mit eigener Suchmaschine: RAG in YaCy (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3643-deu-KI-Chat_mit_eigener_Suchmaschine_RAG_in_YaCy_sd.mp4)
-  - [Welcome by the H-BRS (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3678-deu-Welcome_by_the_H-BRS_sd.mp4)
-  - [curl: Mehr als HTTP (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3540-deu-curl_Mehr_als_HTTP_sd.mp4)
-  - [Jiu Jitsu mit dem Quellcode (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3565-deu-Jiu_Jitsu_mit_dem_Quellcode_sd.mp4)
-  - [init (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3674-eng-init_sd.mp4)
-  - [Ich habe meine Stimme verschenkt – und jetzt?! (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3505-deu-Ich_habe_meine_Stimme_verschenkt_-_und_jetzt_sd.mp4)
-  - [Schreibtischaktivismus (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3595-deu-Schreibtischaktivismus_sd.mp4)
-  - [Freie Software und der Cyber Resilience Act (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3594-deu-Freie_Software_und_der_Cyber_Resilience_Act_sd.mp4)
-  - [Automated testing of a phone operating system (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3588-deu-Automated_testing_of_a_phone_operating_system_sd.mp4)
-  - [Log-Management mit Loki (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3479-deu-Log-Management_mit_Loki_sd.mp4)
-  - [App-Kompatibilität für alle (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3618-deu-App-Kompatibilitaet_fuer_alle_sd.mp4)
-  - [Adventures in Open Source Development (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3673-eng-Adventures_in_Open_Source_Development_sd.mp4)
-  - [Modernes UX-Design und neurodivergente Barrierefreiheit (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3664-deu-Modernes_UX-Design_und_neurodivergente_Barrierefreiheit_sd.mp4)
-  - [Push-Benachrichtigungen. Dezentral und OpenSource (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3564-deu-Push-Benachrichtigungen_Dezentral_und_OpenSource_sd.mp4)
-  - [Nerds gefährden die digitale Souveränität ihrer Familie (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3473-deu-Nerds_gefaehrden_die_digitale_Souveraenitaet_ihrer_Familie_sd.mp4)
-  - [ftrace – dem Kernel bei der Arbeit zusehen (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3550-deu-ftrace_-_dem_Kernel_bei_der_Arbeit_zusehen_sd.mp4)
-  - [Prototype Fund: Version 3.0, here we go! (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3574-deu-Prototype_Fund_Version_30_here_we_go_sd.mp4)
-  - [PegaProx – Was Proxmox im Enterprise-Umfeld gefehlt hat (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3536-deu-PegaProx_-_Was_Proxmox_im_Enterprise-Umfeld_gefehlt_hat_sd.mp4)
-  - [TLS, mTLS, SNI, ECH, CAA, HTTPS, PKI, Zertifikate und ein bisschen PQC (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3584-deu-TLS_mTLS_SNI_ECH_CAA_HTTPS_PKI_Zertifikate_und_ein_bisschen_PQC_sd.mp4)
-  - [Patch me if you can (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-hd/froscon2026-3524-deu-Patch_me_if_you_can_hd.mp4)
-- NetSPI
-  - [Stealing the Artifact – JFrog Artifactory Vulnerability](https://www.netspi.com/blog/technical-blog/red-teaming/stealing-the-artifact-jfrog-artifactory-vulnerability/)
 - LastKnight.com Feed
   - [La Francia boccia il divieto social ai minori: era ovvio ma serviva fare cagnara…](https://mgpf.it/2026/08/14/la-francia-boccia-il-divieto-social-ai-minori.html)
+- Beacon Tower Lab
+  - [【0814】重保演习每周情报汇总](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488355&idx=1&sn=b432f3a102fd9ca13dfdcacdf2bb708c)
 - SANS Internet Storm Center, InfoCON: green
   - [ISC Stormcast For Friday, August 14th, 2026 https://isc.sans.edu/podcastdetail/10052, (Fri, Aug 14th)](https://isc.sans.edu/diary/rss/33246)
-- OPPO安全中心
-  - [【有奖调研】想要AI赋能提交报告？想要吐槽平台体验？即刻参与OSRC调研，我们期待听见你的声音](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247495039&idx=1&sn=4917cf60ccbda9baa22f9d712e8eabad)
-  - [【奖励公告】2026年7月](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247495039&idx=2&sn=a4ac4239e374b474ca462e88108d11d7)
-  - [关于违规使用AI提交漏洞报告的处罚通报](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247495039&idx=3&sn=aace4da7682d06fa8c46cde46b26808e)
-- Krebs on Security
-  - [Who’s Tracking You? Use This New Service to Find Out](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/)
-- Daniel Miessler
-  - [The Different Games OpenAI and Anthropic Are Playing](https://danielmiessler.com/blog/openai-anthropic-approaches?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- Schneier on Security
-  - [Friday Squid Blogging: Searching for the Colossal Squid](https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-searching-for-the-colossal-squid-2.html)
-  - [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2026/08/upcoming-speaking-engagements-59.html)
-  - [If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them](https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html)
 - Vimeo / OffSec’s videos
   - [Week 3](https://vimeo.com/1218274432)
   - [Week 1](https://vimeo.com/1218274431)
   - [Week 4](https://vimeo.com/1218274430)
   - [Week 2](https://vimeo.com/1218274429)
-- 安全419
-  - [网友投稿 | 运营商安全产业布局和发展之路](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247554465&idx=1&sn=2cb434558950a51fa4f2eee34f87116e)
+- Schneier on Security
+  - [Friday Squid Blogging: Searching for the Colossal Squid](https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-searching-for-the-colossal-squid-2.html)
+  - [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2026/08/upcoming-speaking-engagements-59.html)
+  - [If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them](https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html)
+- Chaos Computer Club - last 100 events feed
+  - [QEMU on speed: microVMs in Proxmox (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3559-deu-QEMU_on_speed_microVMs_in_Proxmox_sd.mp4)
+  - [Können Lizenzbedingungen Open Data und Open Content vor KI schützen? (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3638-deu-Koennen_Lizenzbedingungen_Open_Data_und_Open_Content_vor_KI_schuetzen_sd.mp4)
+  - [OpenStreetMap jenseits der Karte (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-hd/froscon2026-3575-deu-OpenStreetMap_jenseits_der_Karte_hd.mp4)
+  - [Digitale Teilhabe neu denken (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3506-deu-Digitale_Teilhabe_neu_denken_sd.mp4)
+  - [Unbekannt heißt nicht unzugänglich - Warum OSS Nutzung Mut braucht (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3634-deu-Unbekannt_heisst_nicht_unzugaenglich_-_Warum_OSS_Nutzung_Mut_braucht_sd.mp4)
+  - [curl: Mehr als HTTP (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3540-deu-curl_Mehr_als_HTTP_sd.mp4)
+  - [Patch me if you can (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3524-deu-Patch_me_if_you_can_sd.mp4)
+  - [DigiZiege - A Progressive Web App for Goat Farmers (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3649-eng-DigiZiege_-_A_Progressive_Web_App_for_Goat_Farmers_sd.mp4)
+  - [Ich habe meine Stimme verschenkt – und jetzt?! (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3505-deu-Ich_habe_meine_Stimme_verschenkt_-_und_jetzt_sd.mp4)
+  - [Automated testing of a phone operating system (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3588-deu-Automated_testing_of_a_phone_operating_system_sd.mp4)
+  - [Reading Video data with IO_URING (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3635-eng-Reading_Video_data_with_IO_URING_sd.mp4)
+  - [KI-Chat mit eigener Suchmaschine: RAG in YaCy (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3643-deu-KI-Chat_mit_eigener_Suchmaschine_RAG_in_YaCy_sd.mp4)
+  - [Freie Software und der Cyber Resilience Act (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3594-deu-Freie_Software_und_der_Cyber_Resilience_Act_sd.mp4)
+  - [Jiu Jitsu mit dem Quellcode (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3565-deu-Jiu_Jitsu_mit_dem_Quellcode_sd.mp4)
+  - [init (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3674-eng-init_sd.mp4)
+  - [Schreibtischaktivismus (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3595-deu-Schreibtischaktivismus_sd.mp4)
+  - [Prototype Fund: Version 3.0, here we go! (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3574-deu-Prototype_Fund_Version_30_here_we_go_sd.mp4)
+  - [Supply Chain Security in the PHP Ecosystem (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3475-eng-Supply_Chain_Security_in_the_PHP_Ecosystem_sd.mp4)
+  - [ftrace – dem Kernel bei der Arbeit zusehen (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3550-deu-ftrace_-_dem_Kernel_bei_der_Arbeit_zusehen_sd.mp4)
+  - [Modernes UX-Design und neurodivergente Barrierefreiheit (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3664-deu-Modernes_UX-Design_und_neurodivergente_Barrierefreiheit_sd.mp4)
+  - [Der Cyber Resilience Act: Wo stehen wir? (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3585-deu-Der_Cyber_Resilience_Act_Wo_stehen_wir_sd.mp4)
+  - [Push-Benachrichtigungen. Dezentral und OpenSource (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3564-deu-Push-Benachrichtigungen_Dezentral_und_OpenSource_sd.mp4)
+  - [Nerds gefährden die digitale Souveränität ihrer Familie (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3473-deu-Nerds_gefaehrden_die_digitale_Souveraenitaet_ihrer_Familie_sd.mp4)
+  - [Weg von Dropbox & Co.: Einstieg in OpenCloud Selfhosting (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3605-deu-Weg_von_Dropbox_Co_Einstieg_in_OpenCloud_Selfhosting_sd.mp4)
+  - [Welcome by the H-BRS (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3678-deu-Welcome_by_the_H-BRS_sd.mp4)
+  - [TLS, mTLS, SNI, ECH, CAA, HTTPS, PKI, Zertifikate und ein bisschen PQC (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3584-deu-TLS_mTLS_SNI_ECH_CAA_HTTPS_PKI_Zertifikate_und_ein_bisschen_PQC_sd.mp4)
+  - [Verkehrstatistiken mit DAVe (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3502-deu-Verkehrstatistiken_mit_DAVe_sd.mp4)
+  - [App-Kompatibilität für alle (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3618-deu-App-Kompatibilitaet_fuer_alle_sd.mp4)
+  - [Log-Management mit Loki (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3479-deu-Log-Management_mit_Loki_sd.mp4)
+  - [Adventures in Open Source Development (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3673-eng-Adventures_in_Open_Source_Development_sd.mp4)
+  - [PegaProx – Was Proxmox im Enterprise-Umfeld gefehlt hat (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3536-deu-PegaProx_-_Was_Proxmox_im_Enterprise-Umfeld_gefehlt_hat_sd.mp4)
+  - [Von der Self-Hosting-Hölle zur Data Agency (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3474-deu-Von_der_Self-Hosting-Hoelle_zur_Data_Agency_sd.mp4)
+  - [Googlefrei und Spaß dabei? (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3617-deu-Googlefrei_und_Spass_dabei_sd.mp4)
 - Security Affairs
   - [Apple warned hundreds of users of mercenary spyware attacks](https://securityaffairs.com/197208/malware/apple-warned-hundreds-of-users-of-mercenary-spyware-attacks.html)
   - [AmnesiaStealer Gives Attackers Live Control of Victims’ macOS Browsers](https://securityaffairs.com/197190/malware/amnesiastealer-gives-attackers-live-control-of-victims-macos-browsers.html)
   - [Chess.com Leak Exposes 7.3 Million Users – Evidence Points to Scraping](https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html)
   - [US Authorizes Private Cyber Firms to Hack Transnational Criminal Networks](https://securityaffairs.com/197161/laws-and-regulations/us-authorizes-private-cyber-firms-to-hack-transnational-criminal-networks.html)
+- Yak Project
+  - [SSA2LLVM 编译产物大小优化](https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247530054&idx=1&sn=ac618c1422c779baad210eb87ccd3796)
+- Daniel Miessler
+  - [The Different Games OpenAI and Anthropic Are Playing](https://danielmiessler.com/blog/openai-anthropic-approaches?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- Krebs on Security
+  - [Who’s Tracking You? Use This New Service to Find Out](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/)
+- NetSPI
+  - [Stealing the Artifact – JFrog Artifactory Vulnerability](https://www.netspi.com/blog/technical-blog/red-teaming/stealing-the-artifact-jfrog-artifactory-vulnerability/)
+- 安全419
+  - [网友投稿 | 运营商安全产业布局和发展之路](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247554465&idx=1&sn=2cb434558950a51fa4f2eee34f87116e)
 - Security Weekly Podcast Network (Audio)
   - [Mathematicians, Lazarus, Akira, Computer History, Zoom, LiteLLM, Josh Marpet and More - SWN #607](http://sites.libsyn.com/18678/mathematicians-lazarus-akira-computer-history-zoom-litellm-josh-marpet-and-more-swn-607)
