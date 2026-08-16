@@ -1,9 +1,5 @@
 # 每日安全资讯（2026-08-16）
 
-- Recent Commits to cve:main
-  - [Update Sat Aug 15 12:13:37 UTC 2026](https://github.com/trickest/cve/commit/bbfabd99d4e0568f2a0ca03e574b36973e758897)
-- 博客
-  - [Excel 和 Excellence](https://dyrnq.com/excel-and-excellence/)
 - Sploitus.com Exploits RSS Feed
   - [WALLABAG-FULL-DISCLOSURE-Stored-XSS-SSRF-CVSS-8.5-GHSA-q2g2- exploit](https://sploitus.com/exploit?id=023747CD-2139-58AD-ABC5-5004806E1FCF&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Write in Php](https://sploitus.com/exploit?id=78BE315A-C781-588D-BD38-065DB981EF80&utm_source=rss&utm_medium=rss)
@@ -35,12 +31,27 @@
   - [SecWiki News 2026-08-15 Review](http://www.sec-wiki.com/?2026-08-15)
 - Tenable Blog
   - [The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure](https://www.tenable.com/blog/the-agentic-ai-threat-cluster-seven-incidents-three-actors-and-what-they-mean)
+- Recent Commits to cve:main
+  - [Update Sat Aug 15 12:13:37 UTC 2026](https://github.com/trickest/cve/commit/bbfabd99d4e0568f2a0ca03e574b36973e758897)
+- 博客
+  - [Excel 和 Excellence](https://dyrnq.com/excel-and-excellence/)
+- 小刀志
+  - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]qwen-exo:基于 SGLang 二次开发的混合注意力推理后端](https://key08.com/index.php/2026/08/15/3283.html)
 - Sucuri Blog
   - [The Illusion of a Lock – How AI is changing the speed and scale of hands-on WordPress vulnerability research.](https://blog.sucuri.net/2026/08/the-illusion-of-a-lock-how-ai-is-changing-the-speed-and-scale-of-hands-on-wordpress-vulnerability-research.html)
-- 小刀志
-  - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
+- Hacking Articles
+  - [Impacket for Pentester: SMBExec](https://www.hackingarticles.in/impacket-for-pentester-smbexec/)
+- 奇客Solidot–传递最新科技情报
+  - [俄罗斯导弹使用了英伟达的 Jetson Orin](https://www.solidot.org/story?sid=85104)
+  - [年轻美国人日益不信任 AI 及 AI 公司高管](https://www.solidot.org/story?sid=85103)
+  - [身陷剽窃丑闻的前剑桥大学教授死亡](https://www.solidot.org/story?sid=85102)
+  - [法国宪法委员会否决青少年社媒禁令](https://www.solidot.org/story?sid=85101)
+- 半块西瓜皮
+  - [dsh-pentest：让人工智能自主推进渗透测试](https://guage.cool/dsh-pentest-plugin.html)
+- 黑鸟
+  - [肉眼看不见的窃密通道：一款12KB后门把C2信息藏进空白空格](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188103&idx=1&sn=b4c0fe5ff7fb1c189608de7406e80a5f)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [女子声称其继父利用Grok将她童年时期的照片转化为露骨图像](https://blog.upx8.com/%E5%A5%B3%E5%AD%90%E5%A3%B0%E7%A7%B0%E5%85%B6%E7%BB%A7%E7%88%B6%E5%88%A9%E7%94%A8Grok%E5%B0%86%E5%A5%B9%E7%AB%A5%E5%B9%B4%E6%97%B6%E6%9C%9F%E7%9A%84%E7%85%A7%E7%89%87%E8%BD%AC%E5%8C%96%E4%B8%BA%E9%9C%B2%E9%AA%A8%E5%9B%BE%E5%83%8F)
   - [1.228亿股！英伟达首度披露SpaceX持仓 成后者第六大股东](https://blog.upx8.com/1-228%E4%BA%BF%E8%82%A1-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%A6%96%E5%BA%A6%E6%8A%AB%E9%9C%B2SpaceX%E6%8C%81%E4%BB%93-%E6%88%90%E5%90%8E%E8%80%85%E7%AC%AC%E5%85%AD%E5%A4%A7%E8%82%A1%E4%B8%9C)
@@ -49,33 +60,26 @@
   - [OpenAI 称其企业业务规模现已超过消费者业务](https://blog.upx8.com/OpenAI-%E7%A7%B0%E5%85%B6%E4%BC%81%E4%B8%9A%E4%B8%9A%E5%8A%A1%E8%A7%84%E6%A8%A1%E7%8E%B0%E5%B7%B2%E8%B6%85%E8%BF%87%E6%B6%88%E8%B4%B9%E8%80%85%E4%B8%9A%E5%8A%A1)
   - [英伟达缩减对OpenAI数据中心项目提供担保的计划](https://blog.upx8.com/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%BC%A9%E5%87%8F%E5%AF%B9OpenAI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%A1%B9%E7%9B%AE%E6%8F%90%E4%BE%9B%E6%8B%85%E4%BF%9D%E7%9A%84%E8%AE%A1%E5%88%92)
   - [阿里开源Qwen3.8-27B：参数量为270亿](https://blog.upx8.com/%E9%98%BF%E9%87%8C%E5%BC%80%E6%BA%90Qwen3-8-27B-%E5%8F%82%E6%95%B0%E9%87%8F%E4%B8%BA270%E4%BA%BF)
-- 奇客Solidot–传递最新科技情报
-  - [俄罗斯导弹使用了英伟达的 Jetson Orin](https://www.solidot.org/story?sid=85104)
-  - [年轻美国人日益不信任 AI 及 AI 公司高管](https://www.solidot.org/story?sid=85103)
-  - [身陷剽窃丑闻的前剑桥大学教授死亡](https://www.solidot.org/story?sid=85102)
-  - [法国宪法委员会否决青少年社媒禁令](https://www.solidot.org/story?sid=85101)
-- 黑鸟
-  - [肉眼看不见的窃密通道：一款12KB后门把C2信息藏进空白空格](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188103&idx=1&sn=b4c0fe5ff7fb1c189608de7406e80a5f)
+- RedTeaming
+  - [从 OpenAI 智能体入侵 Hugging Face 事件，看 Agent 安全边界的工程化设计](https://mp.weixin.qq.com/s?__biz=MzUyMDgzMDMyMg==&mid=2247484728&idx=1&sn=cf08152ad2e10da931a363e488f203fd)
 - 看雪学苑
   - [2026 KCTF | 第三题《午时·永数囚笼》设计思路及解析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618677&idx=1&sn=dea6a7d2a5f398404470a44f2b6516d0)
   - [非虫出品！体系化打通：安卓软件开发与安全逆向全链路能力](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618677&idx=2&sn=3554a8010a489ba06f6d1a074a2ce466)
-- RedTeaming
-  - [从 OpenAI 智能体入侵 Hugging Face 事件，看 Agent 安全边界的工程化设计](https://mp.weixin.qq.com/s?__biz=MzUyMDgzMDMyMg==&mid=2247484728&idx=1&sn=cf08152ad2e10da931a363e488f203fd)
 - 安全圈
   - [【安全圈】macOS屏幕共享漏洞遭利用，被植入门罗币挖矿程序](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=1&sn=4b5441fb275403e73cf04d21dc5c6dbe)
   - [【安全圈】AI让漏洞暴增72%，NIST求助AI管理漏洞库](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=2&sn=59601ed506d26630b5fd959967127d4d)
   - [【安全圈】SAP云端漏洞评分满分，补丁发布3天就被利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=3&sn=197f827e1231607636b09c2de8831b96)
-- 极客公园
-  - [睡觉时往脑袋上通电，4000 个美国人抢着买单](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111980&idx=1&sn=739920269eecd0cb6ecb3a8ce745a1ad)
-  - [闭门、举牌、真话，这场路演有点不一样](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111980&idx=2&sn=117dfaa25b6883a440e5f4bffcee7ca6)
-  - [智谱发布 GLM-5.3，编程能力更强；传苹果训练国内专用 AI 模型；微信：朋友圈现在、过去、未来都不会有二次编辑功能 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111979&idx=1&sn=b293d956506b71bd74cff360d76add6f)
-- 君哥的体历
-  - [做什么都需要花时间，可是很多时候完整听完一首歌的时间都没有](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492523&idx=1&sn=3732ae4b1608d5700a50db76fffa8930)
 - 丁爸 情报分析师的工具箱
   - [【开源报告】印度专门研究中国问题的机构调查](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156984&idx=1&sn=2a4cb719de2e24f504b1167958151e15)
   - [【通知】第六届开源情报技术大会拟于2026年11月贵阳召开](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156984&idx=2&sn=3d57c706ee95fe4c28daade88be38628)
   - [【资料】恐怖组织对人工智能和先进技术的使用](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156977&idx=1&sn=844908feff2a2931e321221d6c582765)
   - [【竞赛通知】第四届全国大学生开源情报数据采集与分析挑战专项（含工具下载和教学资源）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156977&idx=2&sn=66f64c6ca90e5044a6b256574eaf81d0)
+- 君哥的体历
+  - [做什么都需要花时间，可是很多时候完整听完一首歌的时间都没有](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492523&idx=1&sn=3732ae4b1608d5700a50db76fffa8930)
+- 极客公园
+  - [睡觉时往脑袋上通电，4000 个美国人抢着买单](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111980&idx=1&sn=739920269eecd0cb6ecb3a8ce745a1ad)
+  - [闭门、举牌、真话，这场路演有点不一样](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111980&idx=2&sn=117dfaa25b6883a440e5f4bffcee7ca6)
+  - [智谱发布 GLM-5.3，编程能力更强；传苹果训练国内专用 AI 模型；微信：朋友圈现在、过去、未来都不会有二次编辑功能 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111979&idx=1&sn=b293d956506b71bd74cff360d76add6f)
 - Over Security
   - [How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/)
   - [Exclusive: 500 Hosts, 1 TB and No Negotiation: Anubis Reveals Its Fairlife Attack](https://www.suspectfile.com/500-hosts-1-tb-and-no-negotiation-anubis-reveals-its-fairlife-attack/)
@@ -86,6 +90,8 @@
   - [News Round-up from DEF CON 34](https://defcon.org/html/defcon-34/dc-34-news.html#dc34press)
 - IT Service Management News
   - [Digital Omnibus e modifiche al regolamento UE sull'Intelligenza artificiale](http://blog.cesaregallotti.it/2026/08/digital-omnibus-e-modifiche-al.html)
+- Chaos Computer Club - last 100 events feed
+  - [Von Ubuntu zu Debian: Ein neuer Upstream für TUXEDO OS (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-hd/froscon2026-3646-deu-Von_Ubuntu_zu_Debian_Ein_neuer_Upstream_fuer_TUXEDO_OS_hd.mp4)
 - Daniel Miessler
   - [How Easy It Would Be to Hack You](https://danielmiessler.com/blog/how-easy-to-hack-you?utm_source=rss&utm_medium=feed&utm_campaign=website)
   - [Another Crazy Experience with AI](https://danielmiessler.com/blog/ai-fixed-my-mac?utm_source=rss&utm_medium=feed&utm_campaign=website)
