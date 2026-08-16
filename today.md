@@ -2,12 +2,12 @@
 
 - SecWiki News
   - [SecWiki News 2026-08-15 Review](http://www.sec-wiki.com/?2026-08-15)
-- Recent Commits to cve:main
-  - [Update Sat Aug 15 12:13:37 UTC 2026](https://github.com/trickest/cve/commit/bbfabd99d4e0568f2a0ca03e574b36973e758897)
-- 博客
-  - [Excel 和 Excellence](https://dyrnq.com/excel-and-excellence/)
 - Tenable Blog
   - [The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure](https://www.tenable.com/blog/the-agentic-ai-threat-cluster-seven-incidents-three-actors-and-what-they-mean)
+- 博客
+  - [Excel 和 Excellence](https://dyrnq.com/excel-and-excellence/)
+- Recent Commits to cve:main
+  - [Update Sat Aug 15 12:13:37 UTC 2026](https://github.com/trickest/cve/commit/bbfabd99d4e0568f2a0ca03e574b36973e758897)
 - Sploitus.com Exploits RSS Feed
   - [WALLABAG-FULL-DISCLOSURE-Stored-XSS-SSRF-CVSS-8.5-GHSA-q2g2- exploit](https://sploitus.com/exploit?id=023747CD-2139-58AD-ABC5-5004806E1FCF&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Write in Php](https://sploitus.com/exploit?id=78BE315A-C781-588D-BD38-065DB981EF80&utm_source=rss&utm_medium=rss)
@@ -44,6 +44,8 @@
   - [[2026]qwen-exo:基于 SGLang 二次开发的混合注意力推理后端](https://key08.com/index.php/2026/08/15/3283.html)
 - Sucuri Blog
   - [The Illusion of a Lock – How AI is changing the speed and scale of hands-on WordPress vulnerability research.](https://blog.sucuri.net/2026/08/the-illusion-of-a-lock-how-ai-is-changing-the-speed-and-scale-of-hands-on-wordpress-vulnerability-research.html)
+- 半块西瓜皮
+  - [dsh-pentest：让人工智能自主推进渗透测试](https://guage.cool/dsh-pentest-plugin.html)
 - Hacking Articles
   - [Impacket for Pentester: SMBExec](https://www.hackingarticles.in/impacket-for-pentester-smbexec/)
 - 奇客Solidot–传递最新科技情报
@@ -61,11 +63,11 @@
   - [阿里开源Qwen3.8-27B：参数量为270亿](https://blog.upx8.com/%E9%98%BF%E9%87%8C%E5%BC%80%E6%BA%90Qwen3-8-27B-%E5%8F%82%E6%95%B0%E9%87%8F%E4%B8%BA270%E4%BA%BF)
 - 黑鸟
   - [肉眼看不见的窃密通道：一款12KB后门把C2信息藏进空白空格](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188103&idx=1&sn=b4c0fe5ff7fb1c189608de7406e80a5f)
-- RedTeaming
-  - [从 OpenAI 智能体入侵 Hugging Face 事件，看 Agent 安全边界的工程化设计](https://mp.weixin.qq.com/s?__biz=MzUyMDgzMDMyMg==&mid=2247484728&idx=1&sn=cf08152ad2e10da931a363e488f203fd)
 - 看雪学苑
   - [2026 KCTF | 第三题《午时·永数囚笼》设计思路及解析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618677&idx=1&sn=dea6a7d2a5f398404470a44f2b6516d0)
   - [非虫出品！体系化打通：安卓软件开发与安全逆向全链路能力](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618677&idx=2&sn=3554a8010a489ba06f6d1a074a2ce466)
+- RedTeaming
+  - [从 OpenAI 智能体入侵 Hugging Face 事件，看 Agent 安全边界的工程化设计](https://mp.weixin.qq.com/s?__biz=MzUyMDgzMDMyMg==&mid=2247484728&idx=1&sn=cf08152ad2e10da931a363e488f203fd)
 - 安全圈
   - [【安全圈】macOS屏幕共享漏洞遭利用，被植入门罗币挖矿程序](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=1&sn=4b5441fb275403e73cf04d21dc5c6dbe)
   - [【安全圈】AI让漏洞暴增72%，NIST求助AI管理漏洞库](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=2&sn=59601ed506d26630b5fd959967127d4d)
@@ -82,10 +84,10 @@
   - [New Evooo1Bot Linux botnet turns routers into traffic relay nodes](https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/)
   - [Mastering Claude Code Series - Part 1](https://attacker-codeninja.github.io/2026-08-15-Mastering-Claude-Code-Series-1/)
   - [The Illusion of a Lock – How AI is changing the speed and scale of hands-on WordPress vulnerability research.](https://blog.sucuri.net/2026/08/the-illusion-of-a-lock-how-ai-is-changing-the-speed-and-scale-of-hands-on-wordpress-vulnerability-research.html)
-- IT Service Management News
-  - [Digital Omnibus e modifiche al regolamento UE sull'Intelligenza artificiale](http://blog.cesaregallotti.it/2026/08/digital-omnibus-e-modifiche-al.html)
 - DEF CON Announcements!
   - [News Round-up from DEF CON 34](https://defcon.org/html/defcon-34/dc-34-news.html#dc34press)
+- IT Service Management News
+  - [Digital Omnibus e modifiche al regolamento UE sull'Intelligenza artificiale](http://blog.cesaregallotti.it/2026/08/digital-omnibus-e-modifiche-al.html)
 - Security Affairs
   - [Crooks Are Buying Your Expired Domains and Using Them to Deliver Malware](https://securityaffairs.com/197251/uncategorized/crooks-are-buying-your-expired-domains-and-using-them-to-deliver-malware.html)
   - [SAP Commerce Cloud CVE-2026-58231 Exploited in the Wild](https://securityaffairs.com/197244/security/sap-commerce-cloud-cve-2026-58231-exploited-in-the-wild.html)
