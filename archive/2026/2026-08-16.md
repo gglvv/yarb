@@ -1,13 +1,5 @@
 # 每日安全资讯（2026-08-16）
 
-- SecWiki News
-  - [SecWiki News 2026-08-15 Review](http://www.sec-wiki.com/?2026-08-15)
-- Tenable Blog
-  - [The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure](https://www.tenable.com/blog/the-agentic-ai-threat-cluster-seven-incidents-three-actors-and-what-they-mean)
-- Recent Commits to cve:main
-  - [Update Sat Aug 15 12:13:37 UTC 2026](https://github.com/trickest/cve/commit/bbfabd99d4e0568f2a0ca03e574b36973e758897)
-- 博客
-  - [Excel 和 Excellence](https://dyrnq.com/excel-and-excellence/)
 - Sploitus.com Exploits RSS Feed
   - [WALLABAG-FULL-DISCLOSURE-Stored-XSS-SSRF-CVSS-8.5-GHSA-q2g2- exploit](https://sploitus.com/exploit?id=023747CD-2139-58AD-ABC5-5004806E1FCF&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Write in Php](https://sploitus.com/exploit?id=78BE315A-C781-588D-BD38-065DB981EF80&utm_source=rss&utm_medium=rss)
@@ -34,15 +26,26 @@
   - [Exploit for CVE-2026-53587](https://sploitus.com/exploit?id=F90EA90F-8C05-564B-9423-43CECA2FD136&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Samba](https://sploitus.com/exploit?id=C0C324E1-2430-57A2-B02B-C3228B48F665&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-58231](https://sploitus.com/exploit?id=FAAE269D-C3AB-5788-AB72-6177DA18E73D&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-73678](https://sploitus.com/exploit?id=0A7A53BB-5956-561A-ACD6-78E990D78B26&utm_source=rss&utm_medium=rss)
+- Recent Commits to cve:main
+  - [Update Sat Aug 15 12:13:37 UTC 2026](https://github.com/trickest/cve/commit/bbfabd99d4e0568f2a0ca03e574b36973e758897)
+- Tenable Blog
+  - [The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure](https://www.tenable.com/blog/the-agentic-ai-threat-cluster-seven-incidents-three-actors-and-what-they-mean)
+- 博客
+  - [Excel 和 Excellence](https://dyrnq.com/excel-and-excellence/)
+- SecWiki News
+  - [SecWiki News 2026-08-15 Review](http://www.sec-wiki.com/?2026-08-15)
 - 小刀志
   - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
+- Reverse Engineering
+  - [Kimi Work secretly attaches raw records from five recent agent sessions to feedback reports](https://www.reddit.com/r/ReverseEngineering/comments/1vpbvyc/kimi_work_secretly_attaches_raw_records_from_five/)
+  - [Hook ANY string allocation in java virtual machine (github repo link in video description)](https://www.reddit.com/r/ReverseEngineering/comments/1vou6zo/hook_any_string_allocation_in_java_virtual/)
+  - [RPC-Triage: built to avoid starting Windows RPC reversing from a 5000-line dump; statically recovers RPC/MIDL/NDR internals from PE files, ranks interfaces using an AHP/Saaty-based attack-surface model, with no PDBs, live endpoint mapper or target execution](https://www.reddit.com/r/ReverseEngineering/comments/1vp5505/rpctriage_built_to_avoid_starting_windows_rpc/)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]qwen-exo:基于 SGLang 二次开发的混合注意力推理后端](https://key08.com/index.php/2026/08/15/3283.html)
-- Sucuri Blog
-  - [The Illusion of a Lock – How AI is changing the speed and scale of hands-on WordPress vulnerability research.](https://blog.sucuri.net/2026/08/the-illusion-of-a-lock-how-ai-is-changing-the-speed-and-scale-of-hands-on-wordpress-vulnerability-research.html)
 - Hacking Articles
   - [Impacket for Pentester: SMBExec](https://www.hackingarticles.in/impacket-for-pentester-smbexec/)
+- Sucuri Blog
+  - [The Illusion of a Lock – How AI is changing the speed and scale of hands-on WordPress vulnerability research.](https://blog.sucuri.net/2026/08/the-illusion-of-a-lock-how-ai-is-changing-the-speed-and-scale-of-hands-on-wordpress-vulnerability-research.html)
 - 半块西瓜皮
   - [dsh-pentest：让人工智能自主推进渗透测试](https://guage.cool/dsh-pentest-plugin.html)
 - 奇客Solidot–传递最新科技情报
@@ -63,35 +66,33 @@
 - 看雪学苑
   - [2026 KCTF | 第三题《午时·永数囚笼》设计思路及解析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618677&idx=1&sn=dea6a7d2a5f398404470a44f2b6516d0)
   - [非虫出品！体系化打通：安卓软件开发与安全逆向全链路能力](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618677&idx=2&sn=3554a8010a489ba06f6d1a074a2ce466)
-- 君哥的体历
-  - [做什么都需要花时间，可是很多时候完整听完一首歌的时间都没有](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492523&idx=1&sn=3732ae4b1608d5700a50db76fffa8930)
-- 安全圈
-  - [【安全圈】macOS屏幕共享漏洞遭利用，被植入门罗币挖矿程序](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=1&sn=4b5441fb275403e73cf04d21dc5c6dbe)
-  - [【安全圈】AI让漏洞暴增72%，NIST求助AI管理漏洞库](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=2&sn=59601ed506d26630b5fd959967127d4d)
-  - [【安全圈】SAP云端漏洞评分满分，补丁发布3天就被利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=3&sn=197f827e1231607636b09c2de8831b96)
 - 丁爸 情报分析师的工具箱
   - [【开源报告】印度专门研究中国问题的机构调查](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156984&idx=1&sn=2a4cb719de2e24f504b1167958151e15)
   - [【通知】第六届开源情报技术大会拟于2026年11月贵阳召开](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156984&idx=2&sn=3d57c706ee95fe4c28daade88be38628)
   - [【资料】恐怖组织对人工智能和先进技术的使用](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156977&idx=1&sn=844908feff2a2931e321221d6c582765)
   - [【竞赛通知】第四届全国大学生开源情报数据采集与分析挑战专项（含工具下载和教学资源）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156977&idx=2&sn=66f64c6ca90e5044a6b256574eaf81d0)
+- 安全圈
+  - [【安全圈】macOS屏幕共享漏洞遭利用，被植入门罗币挖矿程序](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=1&sn=4b5441fb275403e73cf04d21dc5c6dbe)
+  - [【安全圈】AI让漏洞暴增72%，NIST求助AI管理漏洞库](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=2&sn=59601ed506d26630b5fd959967127d4d)
+  - [【安全圈】SAP云端漏洞评分满分，补丁发布3天就被利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=3&sn=197f827e1231607636b09c2de8831b96)
+- 君哥的体历
+  - [做什么都需要花时间，可是很多时候完整听完一首歌的时间都没有](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492523&idx=1&sn=3732ae4b1608d5700a50db76fffa8930)
 - RedTeaming
   - [从 OpenAI 智能体入侵 Hugging Face 事件，看 Agent 安全边界的工程化设计](https://mp.weixin.qq.com/s?__biz=MzUyMDgzMDMyMg==&mid=2247484728&idx=1&sn=cf08152ad2e10da931a363e488f203fd)
 - 极客公园
   - [睡觉时往脑袋上通电，4000 个美国人抢着买单](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111980&idx=1&sn=739920269eecd0cb6ecb3a8ce745a1ad)
   - [闭门、举牌、真话，这场路演有点不一样](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111980&idx=2&sn=117dfaa25b6883a440e5f4bffcee7ca6)
   - [智谱发布 GLM-5.3，编程能力更强；传苹果训练国内专用 AI 模型；微信：朋友圈现在、过去、未来都不会有二次编辑功能 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111979&idx=1&sn=b293d956506b71bd74cff360d76add6f)
-- Over Security
-  - [How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/)
-  - [Exclusive: 500 Hosts, 1 TB and No Negotiation: Anubis Reveals Its Fairlife Attack](https://www.suspectfile.com/500-hosts-1-tb-and-no-negotiation-anubis-reveals-its-fairlife-attack/)
-  - [New Evooo1Bot Linux botnet turns routers into traffic relay nodes](https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/)
-  - [Mastering Claude Code Series - Part 1](https://attacker-codeninja.github.io/2026-08-15-Mastering-Claude-Code-Series-1/)
-  - [The Illusion of a Lock – How AI is changing the speed and scale of hands-on WordPress vulnerability research.](https://blog.sucuri.net/2026/08/the-illusion-of-a-lock-how-ai-is-changing-the-speed-and-scale-of-hands-on-wordpress-vulnerability-research.html)
-- IT Service Management News
-  - [Digital Omnibus e modifiche al regolamento UE sull'Intelligenza artificiale](http://blog.cesaregallotti.it/2026/08/digital-omnibus-e-modifiche-al.html)
 - DEF CON Announcements!
   - [News Round-up from DEF CON 34](https://defcon.org/html/defcon-34/dc-34-news.html#dc34press)
 - Chaos Computer Club - last 100 events feed
-  - [Von Ubuntu zu Debian: Ein neuer Upstream für TUXEDO OS (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-hd/froscon2026-3646-deu-Von_Ubuntu_zu_Debian_Ein_neuer_Upstream_fuer_TUXEDO_OS_hd.mp4)
+  - [Opening windows to a wider world (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3503-deu-Opening_windows_to_a_wider_world_sd.mp4)
+  - [Linux and PostgreSQL in the Multiverse of Connections (ver 3) (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3509-eng-Linux_and_PostgreSQL_in_the_Multiverse_of_Connections_ver_3_sd.mp4)
+  - [Funding the Commons: Metadata Formats as a Public-Sector Lever (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3485-eng-Funding_the_Commons_Metadata_Formats_as_a_Public-Sector_Lever_sd.mp4)
+  - [Von Ubuntu zu Debian: Ein neuer Upstream für TUXEDO OS (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3646-deu-Von_Ubuntu_zu_Debian_Ein_neuer_Upstream_fuer_TUXEDO_OS_sd.mp4)
+  - [Wie schreibt man eigentlich こんにちは? (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3612-deu-Wie_schreibt_man_eigentlich_konnichiha_sd.mp4)
+- IT Service Management News
+  - [Digital Omnibus e modifiche al regolamento UE sull'Intelligenza artificiale](http://blog.cesaregallotti.it/2026/08/digital-omnibus-e-modifiche-al.html)
 - Daniel Miessler
   - [How Easy It Would Be to Hack You](https://danielmiessler.com/blog/how-easy-to-hack-you?utm_source=rss&utm_medium=feed&utm_campaign=website)
   - [Another Crazy Experience with AI](https://danielmiessler.com/blog/ai-fixed-my-mac?utm_source=rss&utm_medium=feed&utm_campaign=website)
@@ -101,3 +102,9 @@
   - [SAP Commerce Cloud CVE-2026-58231 Exploited in the Wild](https://securityaffairs.com/197244/security/sap-commerce-cloud-cve-2026-58231-exploited-in-the-wild.html)
   - [macOS Screen Sharing Flaw Exploited to Deploy Monero Miners](https://securityaffairs.com/197234/uncategorized/macos-screen-sharing-flaw-exploited-to-deploy-monero-miners.html)
   - [GeoServer Zero-Day Is Already Being Probed. That’s the Problem](https://securityaffairs.com/197216/hacking/geoserver-zero-day-is-already-being-probed-thats-the-problem.html)
+- Over Security
+  - [How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/)
+  - [Exclusive: 500 Hosts, 1 TB and No Negotiation: Anubis Reveals Its Fairlife Attack](https://www.suspectfile.com/500-hosts-1-tb-and-no-negotiation-anubis-reveals-its-fairlife-attack/)
+  - [New Evooo1Bot Linux botnet turns routers into traffic relay nodes](https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/)
+  - [Mastering Claude Code Series - Part 1](https://attacker-codeninja.github.io/2026-08-15-Mastering-Claude-Code-Series-1/)
+  - [The Illusion of a Lock – How AI is changing the speed and scale of hands-on WordPress vulnerability research.](https://blog.sucuri.net/2026/08/the-illusion-of-a-lock-how-ai-is-changing-the-speed-and-scale-of-hands-on-wordpress-vulnerability-research.html)
