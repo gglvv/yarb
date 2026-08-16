@@ -1,13 +1,5 @@
 # 每日安全资讯（2026-08-16）
 
-- Recent Commits to cve:main
-  - [Update Sat Aug 15 12:13:37 UTC 2026](https://github.com/trickest/cve/commit/bbfabd99d4e0568f2a0ca03e574b36973e758897)
-- SecWiki News
-  - [SecWiki News 2026-08-15 Review](http://www.sec-wiki.com/?2026-08-15)
-- Tenable Blog
-  - [The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure](https://www.tenable.com/blog/the-agentic-ai-threat-cluster-seven-incidents-three-actors-and-what-they-mean)
-- 博客
-  - [Excel 和 Excellence](https://dyrnq.com/excel-and-excellence/)
 - Sploitus.com Exploits RSS Feed
   - [WALLABAG-FULL-DISCLOSURE-Stored-XSS-SSRF-CVSS-8.5-GHSA-q2g2- exploit](https://sploitus.com/exploit?id=023747CD-2139-58AD-ABC5-5004806E1FCF&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Write in Php](https://sploitus.com/exploit?id=78BE315A-C781-588D-BD38-065DB981EF80&utm_source=rss&utm_medium=rss)
@@ -26,6 +18,14 @@
   - [Exploit for Deserialization of Untrusted Data in Pdfminer Pdfminer.Six](https://sploitus.com/exploit?id=360B6584-58F5-5BB6-8027-A1A0132867C6&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-9090](https://sploitus.com/exploit?id=037DB8B0-683D-57CC-AE61-99A990118DB0&utm_source=rss&utm_medium=rss)
   - [CodeAlpha_SecureCodingReview exploit](https://sploitus.com/exploit?id=4627B035-1A34-56D9-BC75-CFBAC1454527&utm_source=rss&utm_medium=rss)
+- Recent Commits to cve:main
+  - [Update Sat Aug 15 12:13:37 UTC 2026](https://github.com/trickest/cve/commit/bbfabd99d4e0568f2a0ca03e574b36973e758897)
+- Tenable Blog
+  - [The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure](https://www.tenable.com/blog/the-agentic-ai-threat-cluster-seven-incidents-three-actors-and-what-they-mean)
+- SecWiki News
+  - [SecWiki News 2026-08-15 Review](http://www.sec-wiki.com/?2026-08-15)
+- 博客
+  - [Excel 和 Excellence](https://dyrnq.com/excel-and-excellence/)
 - 小刀志
   - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
 - 白帽Wiki - 一个简单的wiki
@@ -34,15 +34,15 @@
   - [Kimi Work secretly attaches raw records from five recent agent sessions to feedback reports](https://www.reddit.com/r/ReverseEngineering/comments/1vpbvyc/kimi_work_secretly_attaches_raw_records_from_five/)
   - [Hook ANY string allocation in java virtual machine (github repo link in video description)](https://www.reddit.com/r/ReverseEngineering/comments/1vou6zo/hook_any_string_allocation_in_java_virtual/)
   - [RPC-Triage: built to avoid starting Windows RPC reversing from a 5000-line dump; statically recovers RPC/MIDL/NDR internals from PE files, ranks interfaces using an AHP/Saaty-based attack-surface model, with no PDBs, live endpoint mapper or target execution](https://www.reddit.com/r/ReverseEngineering/comments/1vp5505/rpctriage_built_to_avoid_starting_windows_rpc/)
+- Hacking Articles
+  - [Impacket for Pentester: SMBExec](https://www.hackingarticles.in/impacket-for-pentester-smbexec/)
+- Sucuri Blog
+  - [The Illusion of a Lock – How AI is changing the speed and scale of hands-on WordPress vulnerability research.](https://blog.sucuri.net/2026/08/the-illusion-of-a-lock-how-ai-is-changing-the-speed-and-scale-of-hands-on-wordpress-vulnerability-research.html)
 - 奇客Solidot–传递最新科技情报
   - [俄罗斯导弹使用了英伟达的 Jetson Orin](https://www.solidot.org/story?sid=85104)
   - [年轻美国人日益不信任 AI 及 AI 公司高管](https://www.solidot.org/story?sid=85103)
   - [身陷剽窃丑闻的前剑桥大学教授死亡](https://www.solidot.org/story?sid=85102)
   - [法国宪法委员会否决青少年社媒禁令](https://www.solidot.org/story?sid=85101)
-- 半块西瓜皮
-  - [dsh-pentest：让人工智能自主推进渗透测试](https://guage.cool/dsh-pentest-plugin.html)
-- 黑鸟
-  - [肉眼看不见的窃密通道：一款12KB后门把C2信息藏进空白空格](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188103&idx=1&sn=b4c0fe5ff7fb1c189608de7406e80a5f)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [女子声称其继父利用Grok将她童年时期的照片转化为露骨图像](https://blog.upx8.com/%E5%A5%B3%E5%AD%90%E5%A3%B0%E7%A7%B0%E5%85%B6%E7%BB%A7%E7%88%B6%E5%88%A9%E7%94%A8Grok%E5%B0%86%E5%A5%B9%E7%AB%A5%E5%B9%B4%E6%97%B6%E6%9C%9F%E7%9A%84%E7%85%A7%E7%89%87%E8%BD%AC%E5%8C%96%E4%B8%BA%E9%9C%B2%E9%AA%A8%E5%9B%BE%E5%83%8F)
   - [1.228亿股！英伟达首度披露SpaceX持仓 成后者第六大股东](https://blog.upx8.com/1-228%E4%BA%BF%E8%82%A1-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%A6%96%E5%BA%A6%E6%8A%AB%E9%9C%B2SpaceX%E6%8C%81%E4%BB%93-%E6%88%90%E5%90%8E%E8%80%85%E7%AC%AC%E5%85%AD%E5%A4%A7%E8%82%A1%E4%B8%9C)
@@ -50,69 +50,78 @@
   - [Anthropic Q2营收激增至超过 115 亿美元 首次实现季度盈利](https://blog.upx8.com/Anthropic-Q2%E8%90%A5%E6%94%B6%E6%BF%80%E5%A2%9E%E8%87%B3%E8%B6%85%E8%BF%87-115-%E4%BA%BF%E7%BE%8E%E5%85%83-%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E5%AD%A3%E5%BA%A6%E7%9B%88%E5%88%A9)
   - [OpenAI 称其企业业务规模现已超过消费者业务](https://blog.upx8.com/OpenAI-%E7%A7%B0%E5%85%B6%E4%BC%81%E4%B8%9A%E4%B8%9A%E5%8A%A1%E8%A7%84%E6%A8%A1%E7%8E%B0%E5%B7%B2%E8%B6%85%E8%BF%87%E6%B6%88%E8%B4%B9%E8%80%85%E4%B8%9A%E5%8A%A1)
   - [英伟达缩减对OpenAI数据中心项目提供担保的计划](https://blog.upx8.com/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%BC%A9%E5%87%8F%E5%AF%B9OpenAI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%A1%B9%E7%9B%AE%E6%8F%90%E4%BE%9B%E6%8B%85%E4%BF%9D%E7%9A%84%E8%AE%A1%E5%88%92)
-- RedTeaming
-  - [从 OpenAI 智能体入侵 Hugging Face 事件，看 Agent 安全边界的工程化设计](https://mp.weixin.qq.com/s?__biz=MzUyMDgzMDMyMg==&mid=2247484728&idx=1&sn=cf08152ad2e10da931a363e488f203fd)
+- 黑鸟
+  - [肉眼看不见的窃密通道：一款12KB后门把C2信息藏进空白空格](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188103&idx=1&sn=b4c0fe5ff7fb1c189608de7406e80a5f)
 - 看雪学苑
   - [2026 KCTF | 第三题《午时·永数囚笼》设计思路及解析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618677&idx=1&sn=dea6a7d2a5f398404470a44f2b6516d0)
   - [非虫出品！体系化打通：安卓软件开发与安全逆向全链路能力](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618677&idx=2&sn=3554a8010a489ba06f6d1a074a2ce466)
+- RedTeaming
+  - [从 OpenAI 智能体入侵 Hugging Face 事件，看 Agent 安全边界的工程化设计](https://mp.weixin.qq.com/s?__biz=MzUyMDgzMDMyMg==&mid=2247484728&idx=1&sn=cf08152ad2e10da931a363e488f203fd)
+- 安全圈
+  - [【安全圈】macOS屏幕共享漏洞遭利用，被植入门罗币挖矿程序](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=1&sn=4b5441fb275403e73cf04d21dc5c6dbe)
+  - [【安全圈】AI让漏洞暴增72%，NIST求助AI管理漏洞库](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=2&sn=59601ed506d26630b5fd959967127d4d)
+  - [【安全圈】SAP云端漏洞评分满分，补丁发布3天就被利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=3&sn=197f827e1231607636b09c2de8831b96)
+- 极客公园
+  - [睡觉时往脑袋上通电，4000 个美国人抢着买单](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111980&idx=1&sn=739920269eecd0cb6ecb3a8ce745a1ad)
+  - [闭门、举牌、真话，这场路演有点不一样](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111980&idx=2&sn=117dfaa25b6883a440e5f4bffcee7ca6)
+  - [智谱发布 GLM-5.3，编程能力更强；传苹果训练国内专用 AI 模型；微信：朋友圈现在、过去、未来都不会有二次编辑功能 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111979&idx=1&sn=b293d956506b71bd74cff360d76add6f)
 - 丁爸 情报分析师的工具箱
   - [【开源报告】印度专门研究中国问题的机构调查](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156984&idx=1&sn=2a4cb719de2e24f504b1167958151e15)
   - [【通知】第六届开源情报技术大会拟于2026年11月贵阳召开](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156984&idx=2&sn=3d57c706ee95fe4c28daade88be38628)
   - [【资料】恐怖组织对人工智能和先进技术的使用](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156977&idx=1&sn=844908feff2a2931e321221d6c582765)
   - [【竞赛通知】第四届全国大学生开源情报数据采集与分析挑战专项（含工具下载和教学资源）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156977&idx=2&sn=66f64c6ca90e5044a6b256574eaf81d0)
-- 安全圈
-  - [【安全圈】macOS屏幕共享漏洞遭利用，被植入门罗币挖矿程序](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=1&sn=4b5441fb275403e73cf04d21dc5c6dbe)
-  - [【安全圈】AI让漏洞暴增72%，NIST求助AI管理漏洞库](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=2&sn=59601ed506d26630b5fd959967127d4d)
-  - [【安全圈】SAP云端漏洞评分满分，补丁发布3天就被利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078290&idx=3&sn=197f827e1231607636b09c2de8831b96)
-- IT Service Management News
-  - [Digital Omnibus e modifiche al regolamento UE sull'Intelligenza artificiale](http://blog.cesaregallotti.it/2026/08/digital-omnibus-e-modifiche-al.html)
 - 君哥的体历
   - [做什么都需要花时间，可是很多时候完整听完一首歌的时间都没有](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492523&idx=1&sn=3732ae4b1608d5700a50db76fffa8930)
 - DEF CON Announcements!
   - [News Round-up from DEF CON 34](https://defcon.org/html/defcon-34/dc-34-news.html#dc34press)
+- IT Service Management News
+  - [Digital Omnibus e modifiche al regolamento UE sull'Intelligenza artificiale](http://blog.cesaregallotti.it/2026/08/digital-omnibus-e-modifiche-al.html)
 - Chaos Computer Club - last 100 events feed
-  - [Zero Copy statt Kabelsalat (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3545-deu-Zero_Copy_statt_Kabelsalat_sd.mp4)
-  - [KI-Modelle haben keine Werte. Sie haben Wahrscheinlichkeiten. (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3498-deu-KI-Modelle_haben_keine_Werte_Sie_haben_Wahrscheinlichkeiten_sd.mp4)
   - [Funding the Commons: Metadata Formats as a Public-Sector Lever (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3485-eng-Funding_the_Commons_Metadata_Formats_as_a_Public-Sector_Lever_sd.mp4)
   - [Public Money, Public Containers (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3621-deu-Public_Money_Public_Containers_sd.mp4)
-  - [Der Reichweitenmythos debunked (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3620-deu-Der_Reichweitenmythos_debunked_sd.mp4)
-  - [Vereinsregister statt Rewrite: Wie Samba ein neues Fundament bekommt (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3555-deu-Vereinsregister_statt_Rewrite_Wie_Samba_ein_neues_Fundament_bekommt_sd.mp4)
   - [What Works Today Should Work Tomorrow: notes from a 23-year codebase (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3531-eng-What_Works_Today_Should_Work_Tomorrow_notes_from_a_23-year_codebase_sd.mp4)
-  - [To Boldly Share Where No One Has Shared Before (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-hd/froscon2026-3647-deu-To_Boldly_Share_Where_No_One_Has_Shared_Before_hd.mp4)
   - [Wohin führt der Weg von LibreOffice? (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3549-deu-Wohin_fuehrt_der_Weg_von_LibreOffice_sd.mp4)
   - [Richtig schlecht über Technik schreiben (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3537-deu-Richtig_schlecht_ueber_Technik_schreiben_sd.mp4)
-  - [Patch für Patch – Die Reise eines Neulings zur Linux-Kernel-Contribution (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-hd/froscon2026-3573-deu-Patch_fuer_Patch_-_Die_Reise_eines_Neulings_zur_Linux-Kernel-Contribution_hd.mp4)
   - [Backup-Infrastructure with pgBackRest (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-hd/froscon2026-3603-eng-Backup-Infrastructure_with_pgBackRest_hd.mp4)
   - [KDE at 30: Looking Both Ways (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3676-eng-KDE_at_30_Looking_Both_Ways_sd.mp4)
   - [Wie schreibt man eigentlich こんにちは? (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3612-deu-Wie_schreibt_man_eigentlich_konnichiha_sd.mp4)
-  - [Open Source gibt es doch gratis! Warum dafür zahlen? (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3481-deu-Open_Source_gibt_es_doch_gratis_Warum_dafuer_zahlen_sd.mp4)
-  - [Generative KI, Ethik und Nachhaltigkeit (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3560-deu-Generative_KI_Ethik_und_Nachhaltigkeit_sd.mp4)
-  - [Neues von Collabora Office und Collabora Online (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3657-deu-Neues_von_Collabora_Office_und_Collabora_Online_sd.mp4)
   - [Der Open Source Stack für souveräne LLMs (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3521-deu-Der_Open_Source_Stack_fuer_souveraene_LLMs_sd.mp4)
   - [Linux and PostgreSQL in the Multiverse of Connections (ver 3) (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3509-eng-Linux_and_PostgreSQL_in_the_Multiverse_of_Connections_ver_3_sd.mp4)
-  - [Kinderrechte (nicht nur) im Netz (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3632-deu-Kinderrechte_nicht_nur_im_Netz_sd.mp4)
-  - [Spec Driven Development with Spec Kitty (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3679-eng-Spec_Driven_Development_with_Spec_Kitty_sd.mp4)
-  - [Lightning Talks v2 (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3691-deu-Lightning_Talks_v2_sd.mp4)
   - [Canvassing for the commons (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-hd/froscon2026-3598-eng-Canvassing_for_the_commons_hd.mp4)
-  - [Von Ubuntu zu Debian: Ein neuer Upstream für TUXEDO OS (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3646-deu-Von_Ubuntu_zu_Debian_Ein_neuer_Upstream_fuer_TUXEDO_OS_sd.mp4)
-  - [Opening windows to a wider world (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3503-deu-Opening_windows_to_a_wider_world_sd.mp4)
   - [Security is not a Crime: Warum wir die Kriminalisierung der IT-Sicherheit beenden müssen (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-hd/froscon2026-3606-deu-Security_is_not_a_Crime_Warum_wir_die_Kriminalisierung_der_IT-Sicherheit_beenden_muessen_hd.mp4)
+  - [Lightning Talks v2 (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3691-deu-Lightning_Talks_v2_sd.mp4)
+  - [Bringing back the Open in Open Source: (Re-)Building Community after forks and acquisition (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-hd/froscon2026-3654-eng-Bringing_back_the_Open_in_Open_Source_Re-_Building_Community_after_forks_and_acquisition_hd.mp4)
+  - [KDE Linux, BuildStream and Hope (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-hd/froscon2026-3677-eng-KDE_Linux_BuildStream_and_Hope_hd.mp4)
+  - [Sydbox: A highly paranoid, innovative sandbox for Linux (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-hd/froscon2026-3552-eng-Sydbox_A_highly_paranoid_innovative_sandbox_for_Linux_hd.mp4)
+  - [Verkuppeln unter Linux (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-hd/froscon2026-3655-deu-Verkuppeln_unter_Linux_hd.mp4)
+  - [shutdown (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-hd/froscon2026-3675-eng-shutdown_hd.mp4)
+  - [KI-Modelle haben keine Werte. Sie haben Wahrscheinlichkeiten. (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3498-deu-KI-Modelle_haben_keine_Werte_Sie_haben_Wahrscheinlichkeiten_sd.mp4)
+  - [Spec Driven Development with Spec Kitty (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3679-eng-Spec_Driven_Development_with_Spec_Kitty_sd.mp4)
+  - [To Boldly Share Where No One Has Shared Before (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-hd/froscon2026-3647-deu-To_Boldly_Share_Where_No_One_Has_Shared_Before_hd.mp4)
+  - [Neues von Collabora Office und Collabora Online (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3657-deu-Neues_von_Collabora_Office_und_Collabora_Online_sd.mp4)
+  - [Patch für Patch – Die Reise eines Neulings zur Linux-Kernel-Contribution (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-hd/froscon2026-3573-deu-Patch_fuer_Patch_-_Die_Reise_eines_Neulings_zur_Linux-Kernel-Contribution_hd.mp4)
+  - [Open Source gibt es doch gratis! Warum dafür zahlen? (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3481-deu-Open_Source_gibt_es_doch_gratis_Warum_dafuer_zahlen_sd.mp4)
+  - [Kinderrechte (nicht nur) im Netz (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3632-deu-Kinderrechte_nicht_nur_im_Netz_sd.mp4)
+  - [Vereinsregister statt Rewrite: Wie Samba ein neues Fundament bekommt (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3555-deu-Vereinsregister_statt_Rewrite_Wie_Samba_ein_neues_Fundament_bekommt_sd.mp4)
+  - [Opening windows to a wider world (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3503-deu-Opening_windows_to_a_wider_world_sd.mp4)
+  - [Von Ubuntu zu Debian: Ein neuer Upstream für TUXEDO OS (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3646-deu-Von_Ubuntu_zu_Debian_Ein_neuer_Upstream_fuer_TUXEDO_OS_sd.mp4)
+  - [Der Reichweitenmythos debunked (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3620-deu-Der_Reichweitenmythos_debunked_sd.mp4)
+  - [Zero Copy statt Kabelsalat (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3545-deu-Zero_Copy_statt_Kabelsalat_sd.mp4)
+  - [Generative KI, Ethik und Nachhaltigkeit (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-sd/froscon2026-3560-deu-Generative_KI_Ethik_und_Nachhaltigkeit_sd.mp4)
+  - [The Changing State of Openness in Android (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-hd/froscon2026-3609-eng-The_Changing_State_of_Openness_in_Android_hd.mp4)
+  - [npm install und plötzlich haftbar (froscon2026)](https://cdn.media.ccc.de/events/froscon/2026/h264-hd/froscon2026-3652-deu-npm_install_und_ploetzlich_haftbar_hd.mp4)
 - Over Security
   - [How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/)
   - [Exclusive: 500 Hosts, 1 TB and No Negotiation: Anubis Reveals Its Fairlife Attack](https://www.suspectfile.com/500-hosts-1-tb-and-no-negotiation-anubis-reveals-its-fairlife-attack/)
   - [New Evooo1Bot Linux botnet turns routers into traffic relay nodes](https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/)
   - [Mastering Claude Code Series - Part 1](https://attacker-codeninja.github.io/2026-08-15-Mastering-Claude-Code-Series-1/)
   - [The Illusion of a Lock – How AI is changing the speed and scale of hands-on WordPress vulnerability research.](https://blog.sucuri.net/2026/08/the-illusion-of-a-lock-how-ai-is-changing-the-speed-and-scale-of-hands-on-wordpress-vulnerability-research.html)
-- Daniel Miessler
-  - [How Easy It Would Be to Hack You](https://danielmiessler.com/blog/how-easy-to-hack-you?utm_source=rss&utm_medium=feed&utm_campaign=website)
-  - [Another Crazy Experience with AI](https://danielmiessler.com/blog/ai-fixed-my-mac?utm_source=rss&utm_medium=feed&utm_campaign=website)
-  - [There Is Only One Technology](https://danielmiessler.com/blog/only-one-technology?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - Security Affairs
   - [Crooks Are Buying Your Expired Domains and Using Them to Deliver Malware](https://securityaffairs.com/197251/uncategorized/crooks-are-buying-your-expired-domains-and-using-them-to-deliver-malware.html)
   - [SAP Commerce Cloud CVE-2026-58231 Exploited in the Wild](https://securityaffairs.com/197244/security/sap-commerce-cloud-cve-2026-58231-exploited-in-the-wild.html)
   - [macOS Screen Sharing Flaw Exploited to Deploy Monero Miners](https://securityaffairs.com/197234/uncategorized/macos-screen-sharing-flaw-exploited-to-deploy-monero-miners.html)
   - [GeoServer Zero-Day Is Already Being Probed. That’s the Problem](https://securityaffairs.com/197216/hacking/geoserver-zero-day-is-already-being-probed-thats-the-problem.html)
-- 极客公园
-  - [睡觉时往脑袋上通电，4000 个美国人抢着买单](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111980&idx=1&sn=739920269eecd0cb6ecb3a8ce745a1ad)
-  - [闭门、举牌、真话，这场路演有点不一样](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111980&idx=2&sn=117dfaa25b6883a440e5f4bffcee7ca6)
-  - [智谱发布 GLM-5.3，编程能力更强；传苹果训练国内专用 AI 模型；微信：朋友圈现在、过去、未来都不会有二次编辑功能 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111979&idx=1&sn=b293d956506b71bd74cff360d76add6f)
+- Daniel Miessler
+  - [How Easy It Would Be to Hack You](https://danielmiessler.com/blog/how-easy-to-hack-you?utm_source=rss&utm_medium=feed&utm_campaign=website)
+  - [Another Crazy Experience with AI](https://danielmiessler.com/blog/ai-fixed-my-mac?utm_source=rss&utm_medium=feed&utm_campaign=website)
+  - [There Is Only One Technology](https://danielmiessler.com/blog/only-one-technology?utm_source=rss&utm_medium=feed&utm_campaign=website)
