@@ -1,9 +1,13 @@
 # 每日安全资讯（2026-08-16）
 
-- Recent Commits to cve:main
-  - [Update Sat Aug 15 12:13:37 UTC 2026](https://github.com/trickest/cve/commit/bbfabd99d4e0568f2a0ca03e574b36973e758897)
 - SecWiki News
   - [SecWiki News 2026-08-15 Review](http://www.sec-wiki.com/?2026-08-15)
+- Recent Commits to cve:main
+  - [Update Sat Aug 15 12:13:37 UTC 2026](https://github.com/trickest/cve/commit/bbfabd99d4e0568f2a0ca03e574b36973e758897)
+- 博客
+  - [Excel 和 Excellence](https://dyrnq.com/excel-and-excellence/)
+- Tenable Blog
+  - [The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure](https://www.tenable.com/blog/the-agentic-ai-threat-cluster-seven-incidents-three-actors-and-what-they-mean)
 - Sploitus.com Exploits RSS Feed
   - [WALLABAG-FULL-DISCLOSURE-Stored-XSS-SSRF-CVSS-8.5-GHSA-q2g2- exploit](https://sploitus.com/exploit?id=023747CD-2139-58AD-ABC5-5004806E1FCF&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Write in Php](https://sploitus.com/exploit?id=78BE315A-C781-588D-BD38-065DB981EF80&utm_source=rss&utm_medium=rss)
@@ -34,20 +38,14 @@
   - [Threat-Scanner exploit](https://sploitus.com/exploit?id=A1AE2E56-DE44-5DDE-8FD1-25F098F9BC02&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Metabase](https://sploitus.com/exploit?id=C41FB357-C9DA-5D64-8B0B-DEF0D74DC4C0&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Snakeyaml_Project Snakeyaml](https://sploitus.com/exploit?id=BFC305F1-7A53-5CC0-889A-984DEACDBDDA&utm_source=rss&utm_medium=rss)
-- 博客
-  - [Excel 和 Excellence](https://dyrnq.com/excel-and-excellence/)
-- Tenable Blog
-  - [The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure](https://www.tenable.com/blog/the-agentic-ai-threat-cluster-seven-incidents-three-actors-and-what-they-mean)
 - 小刀志
   - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
-- Sucuri Blog
-  - [The Illusion of a Lock – How AI is changing the speed and scale of hands-on WordPress vulnerability research.](https://blog.sucuri.net/2026/08/the-illusion-of-a-lock-how-ai-is-changing-the-speed-and-scale-of-hands-on-wordpress-vulnerability-research.html)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]qwen-exo:基于 SGLang 二次开发的混合注意力推理后端](https://key08.com/index.php/2026/08/15/3283.html)
+- Sucuri Blog
+  - [The Illusion of a Lock – How AI is changing the speed and scale of hands-on WordPress vulnerability research.](https://blog.sucuri.net/2026/08/the-illusion-of-a-lock-how-ai-is-changing-the-speed-and-scale-of-hands-on-wordpress-vulnerability-research.html)
 - Hacking Articles
   - [Impacket for Pentester: SMBExec](https://www.hackingarticles.in/impacket-for-pentester-smbexec/)
-- 半块西瓜皮
-  - [dsh-pentest：让人工智能自主推进渗透测试](https://guage.cool/dsh-pentest-plugin.html)
 - 奇客Solidot–传递最新科技情报
   - [俄罗斯导弹使用了英伟达的 Jetson Orin](https://www.solidot.org/story?sid=85104)
   - [年轻美国人日益不信任 AI 及 AI 公司高管](https://www.solidot.org/story?sid=85103)
@@ -78,6 +76,12 @@
   - [智谱发布 GLM-5.3，编程能力更强；传苹果训练国内专用 AI 模型；微信：朋友圈现在、过去、未来都不会有二次编辑功能 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111979&idx=1&sn=b293d956506b71bd74cff360d76add6f)
 - 君哥的体历
   - [做什么都需要花时间，可是很多时候完整听完一首歌的时间都没有](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492523&idx=1&sn=3732ae4b1608d5700a50db76fffa8930)
+- Over Security
+  - [How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/)
+  - [Exclusive: 500 Hosts, 1 TB and No Negotiation: Anubis Reveals Its Fairlife Attack](https://www.suspectfile.com/500-hosts-1-tb-and-no-negotiation-anubis-reveals-its-fairlife-attack/)
+  - [New Evooo1Bot Linux botnet turns routers into traffic relay nodes](https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/)
+  - [Mastering Claude Code Series - Part 1](https://attacker-codeninja.github.io/2026-08-15-Mastering-Claude-Code-Series-1/)
+  - [The Illusion of a Lock – How AI is changing the speed and scale of hands-on WordPress vulnerability research.](https://blog.sucuri.net/2026/08/the-illusion-of-a-lock-how-ai-is-changing-the-speed-and-scale-of-hands-on-wordpress-vulnerability-research.html)
 - IT Service Management News
   - [Digital Omnibus e modifiche al regolamento UE sull'Intelligenza artificiale](http://blog.cesaregallotti.it/2026/08/digital-omnibus-e-modifiche-al.html)
 - DEF CON Announcements!
@@ -87,12 +91,6 @@
   - [SAP Commerce Cloud CVE-2026-58231 Exploited in the Wild](https://securityaffairs.com/197244/security/sap-commerce-cloud-cve-2026-58231-exploited-in-the-wild.html)
   - [macOS Screen Sharing Flaw Exploited to Deploy Monero Miners](https://securityaffairs.com/197234/uncategorized/macos-screen-sharing-flaw-exploited-to-deploy-monero-miners.html)
   - [GeoServer Zero-Day Is Already Being Probed. That’s the Problem](https://securityaffairs.com/197216/hacking/geoserver-zero-day-is-already-being-probed-thats-the-problem.html)
-- Over Security
-  - [How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/)
-  - [Exclusive: 500 Hosts, 1 TB and No Negotiation: Anubis Reveals Its Fairlife Attack](https://www.suspectfile.com/500-hosts-1-tb-and-no-negotiation-anubis-reveals-its-fairlife-attack/)
-  - [New Evooo1Bot Linux botnet turns routers into traffic relay nodes](https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/)
-  - [Mastering Claude Code Series - Part 1](https://attacker-codeninja.github.io/2026-08-15-Mastering-Claude-Code-Series-1/)
-  - [The Illusion of a Lock – How AI is changing the speed and scale of hands-on WordPress vulnerability research.](https://blog.sucuri.net/2026/08/the-illusion-of-a-lock-how-ai-is-changing-the-speed-and-scale-of-hands-on-wordpress-vulnerability-research.html)
 - Daniel Miessler
   - [How Easy It Would Be to Hack You](https://danielmiessler.com/blog/how-easy-to-hack-you?utm_source=rss&utm_medium=feed&utm_campaign=website)
   - [Another Crazy Experience with AI](https://danielmiessler.com/blog/ai-fixed-my-mac?utm_source=rss&utm_medium=feed&utm_campaign=website)
