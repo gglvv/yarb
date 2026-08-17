@@ -1,5 +1,7 @@
 # 每日安全资讯（2026-08-17）
 
+- SecWiki News
+  - [SecWiki News 2026-08-16 Review](http://www.sec-wiki.com/?2026-08-16)
 - Recent Commits to cve:main
   - [Update Sun Aug 16 12:19:39 UTC 2026](https://github.com/trickest/cve/commit/b0ffae0ae48366cc06ce5d13ffea98e62ed47d53)
 - Sploitus.com Exploits RSS Feed
@@ -21,8 +23,6 @@
   - [Exploit for CVE-2022-24481](https://sploitus.com/exploit?id=AB2A7948-3025-57B9-9F0D-5B495BCC090C&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-73847](https://sploitus.com/exploit?id=F0666787-BCF6-595C-918A-632B2AEBA0A4&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-73519](https://sploitus.com/exploit?id=7B95F7DC-5EEC-5081-A56F-274EE031C041&utm_source=rss&utm_medium=rss)
-- SecWiki News
-  - [SecWiki News 2026-08-16 Review](http://www.sec-wiki.com/?2026-08-16)
 - Reverse Engineering
   - [Reverse Engineering CVE-2026-6837: From Zyxel Firmware to Root Command Execution with full firmware emulation](https://www.reddit.com/r/ReverseEngineering/comments/1vq45q2/reverse_engineering_cve20266837_from_zyxel/)
   - [(OSS) Akamai solver for V2 & V3 sensors and the pixel challenge.](https://www.reddit.com/r/ReverseEngineering/comments/1vpt9pm/oss_akamai_solver_for_v2_v3_sensors_and_the_pixel/)
@@ -32,20 +32,18 @@
   - [Offensive OSINT s06e02 - Data-driven investigations part 2 - UC135](https://www.offensiveosint.io/offensive-osint-s06e02-data-driven-investigations-part-2-uc135/)
 - 
   - [HackGlasgow 2026](https://cornerpirate.com/2026/08/16/hackglasgow-2026/)
-- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [中国将严格实施新能源车“带电池报废”](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%B0%86%E4%B8%A5%E6%A0%BC%E5%AE%9E%E6%96%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6-%E5%B8%A6%E7%94%B5%E6%B1%A0%E6%8A%A5%E5%BA%9F)
-- 黑鸟
-  - [U 盘触发的零点击攻击：Windows 驱动安装机制被滥用](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188119&idx=1&sn=e796c13c234479e5de95220af54806b0)
 - 奇客Solidot–传递最新科技情报
   - [欧洲创纪录热浪杀死了 2.5 万人](https://www.solidot.org/story?sid=85107)
   - [穷人比富人更早出现身体上的老化迹象](https://www.solidot.org/story?sid=85106)
   - [美国历史上的奴隶制可预测今天的黑人白人死亡率差异](https://www.solidot.org/story?sid=85105)
+- 黑鸟
+  - [U 盘触发的零点击攻击：Windows 驱动安装机制被滥用](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188119&idx=1&sn=e796c13c234479e5de95220af54806b0)
 - 我的安全视界观
   - [【AI复盘】AI Agent元编排框架满分漏洞事件](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487939&idx=1&sn=94c1315f339d0dd63a2bc71a942bc063)
-- 安全分析与研究
-  - [第11篇-全球十大勒索事件复盘](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497019&idx=1&sn=03bed2df0fe547dcd02bf236f563d577)
 - 青衣十三楼飞花堂
   - [从“真空吸力”想开去](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489871&idx=1&sn=34c170c59a05442c7cca27d04ec366b2)
+- 安全分析与研究
+  - [第11篇-全球十大勒索事件复盘](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497019&idx=1&sn=03bed2df0fe547dcd02bf236f563d577)
 - 安全圈
   - [【安全圈】爱快路由系统突发漏洞，速升级！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078314&idx=1&sn=93f4cd1f23b28017127dc43fa06566bf)
   - [【安全圈】LastPass又出事！客户数据遭泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078314&idx=2&sn=85c23cd85434f9caf9a7be2fdcd84e92)
@@ -54,11 +52,6 @@
   - [世界机器人大会今年不一定「Wow！」，但有五个问题很值得关注](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112028&idx=1&sn=903a5e80b07019eaa2852160e8a1b526)
   - [被 AI 碾压 30 年后，人们重新爱上了下棋](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112012&idx=1&sn=782a45b103ff806ddae6839cc508befd)
   - [Anthropic 评估 AI 风险上升, 暂不公开更强模型；刘炽平：微信将成为 AI 为先的生态系统；全网吐槽《牛来》票房逆袭 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112007&idx=1&sn=0176e4de88df935ad93d177c2c9cf657)
-- 丁爸 情报分析师的工具箱
-  - [【开源情报】日本中国问题研究机构调研报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156995&idx=1&sn=dc54dd05c10a7b47eb7a9a034f8452b5)
-  - [【通知】第六届开源情报技术大会拟于2026年11月贵阳召开](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156995&idx=2&sn=b7c8d6f33004fc2c5ae1888c0d7d9f3e)
-- 吴鲁加
-  - [听汤质分享6个小时，我几乎一句都没听懂](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486153&idx=1&sn=fd989143925948f2da035c669cee9f99)
 - Over Security
   - [Anthropic confirms Claude is down in major outage affecting multiple services](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/)
   - [Large-scale DDoS attacks disrupted Threema secure messaging service](https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/)
@@ -71,6 +64,11 @@
   - [Guida alla software bill of material (SBOM)](http://blog.cesaregallotti.it/2026/08/guida-alla-software-bill-of-material.html)
   - [Nuova ISO/IEC 27017 per i servizi cloud](http://blog.cesaregallotti.it/2026/08/nuova-isoiec-27017-per-i-servizi-cloud.html)
   - [Guida della Commissione Europea sull'implementazione del CRA](http://blog.cesaregallotti.it/2026/08/guida-della-commissione-europea.html)
+- 丁爸 情报分析师的工具箱
+  - [【开源情报】日本中国问题研究机构调研报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156995&idx=1&sn=dc54dd05c10a7b47eb7a9a034f8452b5)
+  - [【通知】第六届开源情报技术大会拟于2026年11月贵阳召开](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156995&idx=2&sn=b7c8d6f33004fc2c5ae1888c0d7d9f3e)
+- 吴鲁加
+  - [听汤质分享6个小时，我几乎一句都没听懂](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486153&idx=1&sn=fd989143925948f2da035c669cee9f99)
 - SANS Internet Storm Center, InfoCON: green
   - [Wireshark 4.6.8 Released, (Sun, Aug 16th)](https://isc.sans.edu/diary/rss/33248)
 - Blackhat Library: Hacking techniques and research
