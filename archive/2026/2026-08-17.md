@@ -1,5 +1,7 @@
 # 每日安全资讯（2026-08-17）
 
+- Recent Commits to cve:main
+  - [Update Sun Aug 16 12:19:39 UTC 2026](https://github.com/trickest/cve/commit/b0ffae0ae48366cc06ce5d13ffea98e62ed47d53)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-18366](https://sploitus.com/exploit?id=0D05FDA5-2D32-5BF2-B5F3-D39DFE729B14&utm_source=rss&utm_medium=rss)
   - [BlackPearl-CTF-Exploitation](https://sploitus.com/exploit?id=0D8248FB-0941-5922-9979-49DFD99582FD&utm_source=rss&utm_medium=rss)
@@ -21,35 +23,33 @@
   - [Exploit for CVE-2026-73519](https://sploitus.com/exploit?id=7B95F7DC-5EEC-5081-A56F-274EE031C041&utm_source=rss&utm_medium=rss)
 - SecWiki News
   - [SecWiki News 2026-08-16 Review](http://www.sec-wiki.com/?2026-08-16)
-- Recent Commits to cve:main
-  - [Update Sun Aug 16 12:19:39 UTC 2026](https://github.com/trickest/cve/commit/b0ffae0ae48366cc06ce5d13ffea98e62ed47d53)
-- Offensive OSINT
-  - [Offensive OSINT s06e02 - Data-driven investigations part 2 - UC135](https://www.offensiveosint.io/offensive-osint-s06e02-data-driven-investigations-part-2-uc135/)
 - Reverse Engineering
   - [Reverse Engineering CVE-2026-6837: From Zyxel Firmware to Root Command Execution with full firmware emulation](https://www.reddit.com/r/ReverseEngineering/comments/1vq45q2/reverse_engineering_cve20266837_from_zyxel/)
   - [(OSS) Akamai solver for V2 & V3 sensors and the pixel challenge.](https://www.reddit.com/r/ReverseEngineering/comments/1vpt9pm/oss_akamai_solver_for_v2_v3_sensors_and_the_pixel/)
   - [RE: CVX Decomp - Analyzing and removing the blurry PS2 port graphics](https://www.reddit.com/r/ReverseEngineering/comments/1vpiszp/re_cvx_decomp_analyzing_and_removing_the_blurry/)
   - [phaedra: coverage-guided fuzzer that uses a local LLM to bootstrap seeds for undocumented binary formats](https://www.reddit.com/r/ReverseEngineering/comments/1vpl5us/phaedra_coverageguided_fuzzer_that_uses_a_local/)
+- Offensive OSINT
+  - [Offensive OSINT s06e02 - Data-driven investigations part 2 - UC135](https://www.offensiveosint.io/offensive-osint-s06e02-data-driven-investigations-part-2-uc135/)
 - 
   - [HackGlasgow 2026](https://cornerpirate.com/2026/08/16/hackglasgow-2026/)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [中国将严格实施新能源车“带电池报废”](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%B0%86%E4%B8%A5%E6%A0%BC%E5%AE%9E%E6%96%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6-%E5%B8%A6%E7%94%B5%E6%B1%A0%E6%8A%A5%E5%BA%9F)
+- 黑鸟
+  - [U 盘触发的零点击攻击：Windows 驱动安装机制被滥用](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188119&idx=1&sn=e796c13c234479e5de95220af54806b0)
 - 奇客Solidot–传递最新科技情报
   - [欧洲创纪录热浪杀死了 2.5 万人](https://www.solidot.org/story?sid=85107)
   - [穷人比富人更早出现身体上的老化迹象](https://www.solidot.org/story?sid=85106)
   - [美国历史上的奴隶制可预测今天的黑人白人死亡率差异](https://www.solidot.org/story?sid=85105)
-- 黑鸟
-  - [U 盘触发的零点击攻击：Windows 驱动安装机制被滥用](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188119&idx=1&sn=e796c13c234479e5de95220af54806b0)
 - 我的安全视界观
   - [【AI复盘】AI Agent元编排框架满分漏洞事件](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487939&idx=1&sn=94c1315f339d0dd63a2bc71a942bc063)
 - 安全分析与研究
   - [第11篇-全球十大勒索事件复盘](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497019&idx=1&sn=03bed2df0fe547dcd02bf236f563d577)
+- 青衣十三楼飞花堂
+  - [从“真空吸力”想开去](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489871&idx=1&sn=34c170c59a05442c7cca27d04ec366b2)
 - 安全圈
   - [【安全圈】爱快路由系统突发漏洞，速升级！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078314&idx=1&sn=93f4cd1f23b28017127dc43fa06566bf)
   - [【安全圈】LastPass又出事！客户数据遭泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078314&idx=2&sn=85c23cd85434f9caf9a7be2fdcd84e92)
   - [【安全圈】FFmpeg紧急修复CVE-2026-8461：CVSS 8.8](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078314&idx=3&sn=8fe4e8da66f8fa710c3474139cd865d6)
-- 青衣十三楼飞花堂
-  - [从“真空吸力”想开去](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489871&idx=1&sn=34c170c59a05442c7cca27d04ec366b2)
 - 极客公园
   - [世界机器人大会今年不一定「Wow！」，但有五个问题很值得关注](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112028&idx=1&sn=903a5e80b07019eaa2852160e8a1b526)
   - [被 AI 碾压 30 年后，人们重新爱上了下棋](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112012&idx=1&sn=782a45b103ff806ddae6839cc508befd)
@@ -67,8 +67,16 @@
   - [Mastering Claude Code Series - Part 4](https://attacker-codeninja.github.io/2026-08-16-Mastering-Claude-Code-Series-4/)
   - [Mastering Claude Code Series - Part 2](https://attacker-codeninja.github.io/2026-08-16-Mastering-Claude-Code-Series-2/)
   - [Mastering Claude Code Series - Part 5](https://attacker-codeninja.github.io/2026-08-16-Mastering-Claude-Code-Series-5/)
+- IT Service Management News
+  - [Guida alla software bill of material (SBOM)](http://blog.cesaregallotti.it/2026/08/guida-alla-software-bill-of-material.html)
+  - [Nuova ISO/IEC 27017 per i servizi cloud](http://blog.cesaregallotti.it/2026/08/nuova-isoiec-27017-per-i-servizi-cloud.html)
+  - [Guida della Commissione Europea sull'implementazione del CRA](http://blog.cesaregallotti.it/2026/08/guida-della-commissione-europea.html)
 - SANS Internet Storm Center, InfoCON: green
   - [Wireshark 4.6.8 Released, (Sun, Aug 16th)](https://isc.sans.edu/diary/rss/33248)
+- Blackhat Library: Hacking techniques and research
+  - [massive azure exfiltration campaign impacts global brands - mcdonald’s, vodafone, and others](https://www.reddit.com/r/blackhat/comments/1vpyatc/massive_azure_exfiltration_campaign_impacts/)
+  - [Advices needed](https://www.reddit.com/r/blackhat/comments/1vqb10m/advices_needed/)
+  - [hacking windows pc](https://www.reddit.com/r/blackhat/comments/1vpwvo7/hacking_windows_pc/)
 - Security Affairs
   - [DDoS Attacks Cause Major Threema Outages](https://securityaffairs.com/197353/hacking/ddos-attacks-cause-major-threema-outages.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 110](https://securityaffairs.com/197314/malware/security-affairs-malware-newsletter-round-110.html)
@@ -76,7 +84,3 @@
   - [Sophisticated Cyberattack Exposes Data of 678,000 French Taxpayers](https://securityaffairs.com/197287/cyber-crime/sophisticated-cyberattack-exposes-data-of-678000-french-taxpayers.html)
   - [Security Affairs newsletter Round 590 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/197288/breaking-news/security-affairs-newsletter-round-590-by-pierluigi-paganini-international-edition.html)
   - [APT36 Suspected in PATCHCORD Espionage Campaign Using Google Sheets C2](https://securityaffairs.com/197266/intelligence/apt36-suspected-in-patchcord-espionage-campaign-using-google-sheets-c2.html)
-- IT Service Management News
-  - [Guida alla software bill of material (SBOM)](http://blog.cesaregallotti.it/2026/08/guida-alla-software-bill-of-material.html)
-  - [Nuova ISO/IEC 27017 per i servizi cloud](http://blog.cesaregallotti.it/2026/08/nuova-isoiec-27017-per-i-servizi-cloud.html)
-  - [Guida della Commissione Europea sull'implementazione del CRA](http://blog.cesaregallotti.it/2026/08/guida-della-commissione-europea.html)
