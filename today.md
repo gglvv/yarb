@@ -1,14 +1,5 @@
 # 每日安全资讯（2026-08-19）
 
-- Recent Commits to cve:main
-  - [Update Tue Aug 18 12:17:31 UTC 2026](https://github.com/trickest/cve/commit/b61f8201e65a42fa19b9becd7f8343fe28849e59)
-- SecWiki News
-  - [SecWiki News 2026-08-18 Review](http://www.sec-wiki.com/?2026-08-18)
-- Microsoft Security Blog
-  - [Hunting MacSync Stealer infrastructure through behavioral pivots](https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/)
-- 安全客-有思想的安全新媒体
-  - [科技云报到：机器流量首次超过人类，互联网进入“三体流量时代”？](https://www.anquanke.com/post/id/315987)
-  - [三维架构、四种盈利、五重赋能：纳米Work企业版渠道生态正式起航](https://www.anquanke.com/post/id/315983)
 - Sploitus.com Exploits RSS Feed
   - [kill-chain-vulnerability-scanner exploit](https://sploitus.com/exploit?id=495259AA-45B4-55E9-9BBC-F811E79CB6A1&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authorization in Portainer](https://sploitus.com/exploit?id=109DCEB3-DE61-5471-8DDB-A813D9ABF3FE&utm_source=rss&utm_medium=rss)
@@ -28,6 +19,15 @@
   - [Exploit for Incorrect Resource Transfer Between Spheres in Python Urllib3](https://sploitus.com/exploit?id=60AAB9D7-396D-5EB4-9363-468ED143048E&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Piccolo-Orm Piccolo](https://sploitus.com/exploit?id=8E742E8C-4658-50F1-A577-81165E16660B&utm_source=rss&utm_medium=rss)
   - [Exploit for Cross-site Scripting in Palletsprojects Jinja](https://sploitus.com/exploit?id=F0A87857-1F1E-5942-8D1A-427777A2EDA1&utm_source=rss&utm_medium=rss)
+- Recent Commits to cve:main
+  - [Update Tue Aug 18 12:17:31 UTC 2026](https://github.com/trickest/cve/commit/b61f8201e65a42fa19b9becd7f8343fe28849e59)
+- Microsoft Security Blog
+  - [Hunting MacSync Stealer infrastructure through behavioral pivots](https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/)
+- 安全客-有思想的安全新媒体
+  - [科技云报到：机器流量首次超过人类，互联网进入“三体流量时代”？](https://www.anquanke.com/post/id/315987)
+  - [三维架构、四种盈利、五重赋能：纳米Work企业版渠道生态正式起航](https://www.anquanke.com/post/id/315983)
+- SecWiki News
+  - [SecWiki News 2026-08-18 Review](http://www.sec-wiki.com/?2026-08-18)
 - Cerbero Blog
   - [Cerbero Suite 9 Release](https://blog.cerbero.io/cerbero-suite-9-release/)
 - GuidePoint Security
@@ -37,21 +37,14 @@
   - [Apple fixes another image-processing flaw that could allow code execution](https://www.malwarebytes.com/blog/bugs/2026/08/apple-fixes-another-image-processing-flaw-that-could-allow-code-execution)
   - [Be careful what you put in “anyone with the link” Google Docs](https://www.malwarebytes.com/blog/news/2026/08/be-careful-what-you-put-in-anyone-with-the-link-google-docs)
   - [Heights Finance data breach: What customers need to know](https://www.malwarebytes.com/blog/data-breaches/2026/08/heights-finance-data-breach-what-customers-need-to-know)
-- VMRay
-  - [Why Behavior-Based Detection Is the New Standard](https://www.vmray.com/why-behavior-based-detection-is-necessary/)
 - ZeddYu’s Blog
   - [Web Cache Deception in 2026: The Path-Confusion Variants That Still Work](https://blog.zeddyu.info/2026/08/18/Web-Cache-Deception-Path-Confusion-2026/)
-- 360 Netlab Blog - Network Security Research Lab at 360
-  - [AI安全专题周报(20260814)](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao-2/)
-  - [金融行业网络安全监测月报(202607)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202607/)
-  - [金融行业网络安全监测月报(202606)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202606/)
-  - [金融行业网络安全监测月报(202605)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202605/)
-  - [金融行业网络安全监测月报(202604)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202604/)
-  - [金融行业网络安全监测月报(202603)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202603/)
-  - [金融行业网络安全监测月报(202602)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202602/)
-  - [金融行业网络安全监测月报(202601)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202601/)
-  - [金融行业网络安全监测月报(202512)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202512/)
-  - [金融行业网络安全监测月报(202511)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202511/)
+- VMRay
+  - [Why Behavior-Based Detection Is the New Standard](https://www.vmray.com/why-behavior-based-detection-is-necessary/)
+- rtl-sdr.com
+  - [AntSDR T510 Pre-launch: A 1 MHz to 6 GHz SDR with 2 GHz Bandwidth and a Built-In NVIDIA Jetson](https://www.rtl-sdr.com/antsdr-t510-pre-launch-a-1-mhz-to-6-ghz-sdr-with-2-ghz-bandwidth-and-a-built-in-nvidia-jetson/)
+  - [KrakenSDR Tested as a GNSS Jammer and Spoofer Localizer](https://www.rtl-sdr.com/krakensdr-tested-as-a-gnss-jammer-and-spoofer-localizer/)
+  - [Carshepherd: An Android RTL-SDR App For the Early Awareness of Nearby Emergency-Service Vehicles](https://www.rtl-sdr.com/carshepherd-an-android-rtl-sdr-app-for-the-early-awareness-of-nearby-emergency-service-vehicles/)
 - 奇客Solidot–传递最新科技情报
   - [Firefox 154 释出](https://www.solidot.org/story?sid=85130)
   - [Google 拍下破产航空公司 Spirit 的数据](https://www.solidot.org/story?sid=85129)
@@ -64,106 +57,80 @@
   - [Anthropic CEO 称对 AI 的抵触根源在于信任危机](https://www.solidot.org/story?sid=85122)
   - [Web 开发者不再重视 Web 标准](https://www.solidot.org/story?sid=85121)
   - [通过 Zoom 解雇 900 名雇员的 CEO 被解雇](https://www.solidot.org/story?sid=85120)
-- HackerNews
-  - [GitLab 关键 GraphQL 漏洞可能允许未认证攻击者删除公共项目](http://0.0.0.0:8080/post/64566)
-  - [黑客声称窃取大公司 360 万条 Azure 账户记录](http://0.0.0.0:8080/post/64565)
-  - [Pokémon Center 数据泄露暴露客户信息，部分订单被取消](http://0.0.0.0:8080/post/64564)
-  - [麦当劳员工数据出现在泄露中，卖家声称窃取 170 万条记录](http://0.0.0.0:8080/post/64563)
-  - [LiteLLM 供应链攻击——科技、银行和医疗行业受影响最严重](http://0.0.0.0:8080/post/64562)
-  - [SafePal 称 39,798 名客户受数据泄露影响](http://0.0.0.0:8080/post/64561)
+- 360 Netlab Blog - Network Security Research Lab at 360
+  - [AI安全专题周报(20260814)](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao-2/)
+  - [金融行业网络安全监测月报(202607)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202607/)
+  - [金融行业网络安全监测月报(202606)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202606/)
+  - [金融行业网络安全监测月报(202605)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202605/)
+  - [金融行业网络安全监测月报(202604)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202604/)
+  - [金融行业网络安全监测月报(202603)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202603/)
+  - [金融行业网络安全监测月报(202602)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202602/)
+  - [金融行业网络安全监测月报(202601)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202601/)
+  - [金融行业网络安全监测月报(202512)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202512/)
+  - [金融行业网络安全监测月报(202511)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202511/)
 - 黑鸟
   - [勒索软件花招：重启进安全模式绕过EDR，却意外搞崩自身加密程序](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188142&idx=1&sn=47333a892e8bb380b1d0c411e6b35bdc)
 - 我的安全视界观
   - [【AI复盘】伊朗黑客组织攻击美国水务系统](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487954&idx=1&sn=20acd12e14e3b105fcc6fd519dc5504e)
-- 威努特安全网络
-  - [一文读懂半导体工控安全：筑牢芯基安全防线](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651143567&idx=1&sn=f9b81a9e2ad8c101d04123fd15cbf3aa)
-- 安全客
-  - [满分10.0的漏洞，补丁发布3天就被打穿](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790378&idx=1&sn=70d4a5bd0229de6e9bb1fe3a4a6eb2bf)
 - 雷神众测
   - [雷神众测漏洞周报2026.8.10-2026.8.16](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503913&idx=1&sn=ec84b81685e12bd1601a9ecaa0cd8dbd)
-- rtl-sdr.com
-  - [AntSDR T510 Pre-launch: A 1 MHz to 6 GHz SDR with 2 GHz Bandwidth and a Built-In NVIDIA Jetson](https://www.rtl-sdr.com/antsdr-t510-pre-launch-a-1-mhz-to-6-ghz-sdr-with-2-ghz-bandwidth-and-a-built-in-nvidia-jetson/)
-  - [KrakenSDR Tested as a GNSS Jammer and Spoofer Localizer](https://www.rtl-sdr.com/krakensdr-tested-as-a-gnss-jammer-and-spoofer-localizer/)
-  - [Carshepherd: An Android RTL-SDR App For the Early Awareness of Nearby Emergency-Service Vehicles](https://www.rtl-sdr.com/carshepherd-an-android-rtl-sdr-app-for-the-early-awareness-of-nearby-emergency-service-vehicles/)
+- 威努特安全网络
+  - [一文读懂半导体工控安全：筑牢芯基安全防线](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651143567&idx=1&sn=f9b81a9e2ad8c101d04123fd15cbf3aa)
 - 安全内参
   - [某国家全国公民数据疑在暗网论坛公开售卖](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516448&idx=1&sn=77b1888c439de752bf3223a1ee7b077b)
   - [全国土地登记系统遭勒索攻击，某国房地产市场暂停交易多天](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516448&idx=2&sn=94f71b6b75ffe708058b1ca409d45ec4)
 - 代码卫士
   - [GitLab GraphQL 严重漏洞可使未认证攻击者删除公开项目](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526883&idx=1&sn=80604cef5784651f30751cec579a2172)
   - [CISA：Ray 严重漏洞可触发基于浏览器的 RCE 攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526883&idx=2&sn=adfc2a9b47df4c9153c9478ceb011b11)
+- 安全客
+  - [满分10.0的漏洞，补丁发布3天就被打穿](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790378&idx=1&sn=70d4a5bd0229de6e9bb1fe3a4a6eb2bf)
+- 信息安全国家工程研究中心
+  - [导致个人信息泄露的常见原因有哪些?](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247504715&idx=1&sn=4834b97e53f81b145aea0add428e7295)
+- 数世咨询
+  - [全球工控防火墙市场预计到2034年将达到31.9亿美元](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543695&idx=1&sn=1ca130b6eac7ce740746c38558109baa)
+  - [关于“Sorry”勒索病毒，你想知道的都在这里](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543695&idx=2&sn=3709f45e0e9b5c6ac5fd1ce925b095ef)
+- 奇安信 CERT
+  - [【已复现】PostgreSQL 远程代码执行漏洞(CVE-2026-14669)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507128&idx=1&sn=5a09999ea6e550e3265d69024d1d4a15)
+- 奇安信威胁情报中心
+  - [三次调用之后才"变脸"：正在活跃中的 MCP 供应链攻击活动 Deadbugz 深度解析](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519875&idx=1&sn=3b1a002975f42029be1aa3510a4dac7a)
+- 看雪学苑
+  - [2026 KCTF | 第五题《申时·忆海倒带》设计思路及解析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618754&idx=1&sn=bc5ef9a8cdf5583739bf13376d24deb3)
+  - [物流巨头CEVA遭攻击，Steam、宝可梦中心数据外泄](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618754&idx=2&sn=6bac6dd5a77586f85aeb46e014598c55)
 - 中国信息安全
   - [论坛·原创 | 我国人工智能安全治理的制度安排与实践逻辑](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265696&idx=1&sn=957ffba70fea138bce67868a118aa60b)
   - [关注 | 公安部网安局公布14起涉企网络谣言典型案例](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265696&idx=2&sn=2edf6c447ea82e1dc9a6580b840d7377)
   - [前沿 | 词元出海的竞争优势与挑战对策](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265696&idx=3&sn=3ac28c258c78210b4ef5587d2c96a274)
   - [国际 | 全球社交媒体禁令的模式与张力](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265696&idx=4&sn=77f852e7241eee045069dbc6f8d22355)
   - [评论 | 让人工智能这匹千里马跑得又快又稳](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265696&idx=5&sn=dc1947afa85d4af7578f565dcc2858fa)
+- 补天平台
+  - [补天中秋系列活动第一弹|暖情中秋，众测相伴！](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510908&idx=2&sn=9f8f108930ecc84bfe8cbd5801abf14d)
 - 安全分析与研究
   - [第13篇-Windows域环境中的勒索攻击路径](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497027&idx=1&sn=07a91ea8d32a6b2954e9b3115add71c3)
-- 信息安全国家工程研究中心
-  - [导致个人信息泄露的常见原因有哪些?](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247504715&idx=1&sn=4834b97e53f81b145aea0add428e7295)
-- 看雪学苑
-  - [2026 KCTF | 第五题《申时·忆海倒带》设计思路及解析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618754&idx=1&sn=bc5ef9a8cdf5583739bf13376d24deb3)
-  - [物流巨头CEVA遭攻击，Steam、宝可梦中心数据外泄](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618754&idx=2&sn=6bac6dd5a77586f85aeb46e014598c55)
-- 安全牛
-  - [92%企业栽在同一个坑：AI Agent权限比模型算法致命一万倍](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142379&idx=1&sn=bf7c5e9c65339439a1d0d3466aad254a)
-  - [麦当劳为用户建立515页画像：忠诚度App如何变成“商业监控”系统；CNVD发布漏洞周报2026年第32期| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142379&idx=2&sn=b3e78afbebf8db425d11aba22558b53c)
-- 极客公园
-  - [马斯克带火的太空算力领域，传一个 800MB 模型上天要四周](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112231&idx=1&sn=01def39a6417be2e2f78012b9ecdeb26)
-  - [黑鲸鱼 DeepSeek Harness，从「赛博乐高」变成 Agent Store](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112122&idx=1&sn=8d59cfefa14c4ff9ed25f6c04fd5b4f7)
-- 数世咨询
-  - [全球工控防火墙市场预计到2034年将达到31.9亿美元](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543695&idx=1&sn=1ca130b6eac7ce740746c38558109baa)
-  - [关于“Sorry”勒索病毒，你想知道的都在这里](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543695&idx=2&sn=3709f45e0e9b5c6ac5fd1ce925b095ef)
-- 网络空间安全科学学报
-  - [会议 | 关于举办第四届京津冀科技期刊创新发展论坛的通知（第二轮）](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247508357&idx=1&sn=ed84c97c7d60b23b1d18ff21a9c20e84)
-- 青藤云安全
-  - [5000字分享：Mythos/GPT-5对企业安全架构影响思考](https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650851700&idx=1&sn=6d9e27238d63740e428f0ce4cca0081e)
+- 天黑说嘿话
+  - [【88VIP专属高返小助手】领隐藏优惠券指定入口，购物省钱操作指南~24小时自助查券返利机器人！](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486361&idx=1&sn=5833098319219581660802489a604fa7)
 - 安全圈
   - [【安全圈】Cisco 防火墙零日漏洞遭野利用，企业边界防御要重新审视](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078333&idx=1&sn=8661fbfdba0a2e5dd3f3f0bbd96ead7b)
   - [【安全圈】AI 工具热潮下，数据泄露与供应链风险正在悄悄升级](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078333&idx=2&sn=49328a5c7430718272f856907efe1682)
   - [【安全圈】GitLab 关键 GraphQL 漏洞可能允许未认证攻击者删除公共项目](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078333&idx=3&sn=04c4e92193066da60476ed0f40b2d749)
-- 斗象智能安全
-  - [我，AI员工，操作多个安全产品](https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495587&idx=1&sn=b0a8189af60f639837adba8a91584df4)
-- 天黑说嘿话
-  - [【88VIP专属高返小助手】领隐藏优惠券指定入口，购物省钱操作指南~24小时自助查券返利机器人！](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247486361&idx=1&sn=5833098319219581660802489a604fa7)
-- 奇安信 CERT
-  - [【已复现】PostgreSQL 远程代码执行漏洞(CVE-2026-14669)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507128&idx=1&sn=5a09999ea6e550e3265d69024d1d4a15)
-- 字节跳动技术团队
-  - [对比与生成：抖音SOTA多模态表征模型DME](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521321&idx=1&sn=4881e96023fe955d32daac031479bc92)
+- 青藤云安全
+  - [5000字分享：Mythos/GPT-5对企业安全架构影响思考](https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650851700&idx=1&sn=6d9e27238d63740e428f0ce4cca0081e)
 - 中通安全应急响应中心
   - [【通知】关于中通SRC暂停接收漏洞测试的通知](https://mp.weixin.qq.com/s?__biz=MzUyMTcwNTY3Mg==&mid=2247486666&idx=1&sn=103bab8f07e1a52ed09af6fdc22e504d)
+- 极客公园
+  - [马斯克带火的太空算力领域，传一个 800MB 模型上天要四周](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112231&idx=1&sn=01def39a6417be2e2f78012b9ecdeb26)
+  - [黑鲸鱼 DeepSeek Harness，从「赛博乐高」变成 Agent Store](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112122&idx=1&sn=8d59cfefa14c4ff9ed25f6c04fd5b4f7)
+- 网络空间安全科学学报
+  - [会议 | 关于举办第四届京津冀科技期刊创新发展论坛的通知（第二轮）](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247508357&idx=1&sn=ed84c97c7d60b23b1d18ff21a9c20e84)
+- 斗象智能安全
+  - [我，AI员工，操作多个安全产品](https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495587&idx=1&sn=b0a8189af60f639837adba8a91584df4)
 - 火绒安全
   - [总是被突如其来的弹窗打扰？火绒弹窗拦截小指南来啦！](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536559&idx=1&sn=face188f04ad4b909bf771a8df9c0b09)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536559&idx=2&sn=1ad6984bce34e723780888ff780f96c8)
-- 丁爸 情报分析师的工具箱
-  - [【开源报告】近五年中美人工智能发展与深度应用对比研究](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157000&idx=1&sn=f7fbafbf6d057c81f0eda63f8f7bdd7a)
-- 慢雾科技
-  - [MistTrack Agent 正式入驻 AgentOn，将链上调查能力带入 AI Agent](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505715&idx=1&sn=abdf5f6d7da60ab189752cedfe4ab99f)
-- 云鼎实验室
-  - [PostgreSQL 曝高危 RCE 漏洞，腾讯云安全已支持检测](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497886&idx=1&sn=7bd38d30924639bd4c6fe960e64b0b99)
-- Microsoft Security Blog
-  - [Hunting MacSync Stealer infrastructure through behavioral pivots](https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/)
-- TrustedSec
-  - [We've Seen This Movie: The OT/IT Technology Divide](https://trustedsec.com/blog/weve-seen-this-movie-the-ot-it-technology-divide)
-- Javvad Malik
-  - [Budget airlines, mobile phones, and AI](https://javvadmalik.com/2026/08/18/budget-airlines-mobile-phones-and-ai/)
-- D3Lab
-  - [Furto di identità via phishing Wise](https://www.d3lab.net/furto-di-identita-via-phishing-wise/)
-- Schneier on Security
-  - [LLMs and Contextual Integrity](https://www.schneier.com/blog/archives/2026/08/llms-and-contextual-integrity.html)
-- IT Service Management News
-  - [AI slop](http://blog.cesaregallotti.it/2026/08/ai-slop.html)
-- Troy Hunt's Blog
-  - [Weekly Update 517: Cyber Ransoms](https://www.troyhunt.com/weekly-update-517/)
-- Daniel Miessler
-  - [Unconventional Thought Is the Differentiator](https://danielmiessler.com/blog/unconventional-thought-differentiator?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- Tor Project blog
-  - [New Release: Tor Browser 15.0.20](https://blog.torproject.org/new-release-tor-browser-15020/)
-- Security Affairs
-  - [Hackers Expose Data of 1.2 Million Heights Finance Customers](https://securityaffairs.com/197485/data-breach/hackers-expose-data-of-1-2-million-heights-finance-customers.html)
-  - [Project noRecognition: Teaching AI to Fool Surveillance Cameras](https://securityaffairs.com/197465/ai/project-norecognition-teaching-ai-to-fool-surveillance-cameras.html)
-  - [GitLab Patches Critical Unauthenticated GraphQL Vulnerability](https://securityaffairs.com/197454/hacking/gitlab-patches-critical-unauthenticated-graphql-vulnerability.html)
-  - [U.S. CISA adds a Ray-Project Ray flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/197419/security/u-s-cisa-adds-a-ray-project-ray-flaw-to-its-known-exploited-vulnerabilities-catalog.html)
-  - [New Mirai-Based Evooo1Bot Botnet Targets Linux Devices](https://securityaffairs.com/197434/malware/new-mirai-based-evooo1bot-botnet-targets-linux-devices.html)
+- 字节跳动技术团队
+  - [对比与生成：抖音SOTA多模态表征模型DME](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521321&idx=1&sn=4881e96023fe955d32daac031479bc92)
+- 安全牛
+  - [92%企业栽在同一个坑：AI Agent权限比模型算法致命一万倍](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142379&idx=1&sn=bf7c5e9c65339439a1d0d3466aad254a)
+  - [麦当劳为用户建立515页画像：忠诚度App如何变成“商业监控”系统；CNVD发布漏洞周报2026年第32期| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142379&idx=2&sn=b3e78afbebf8db425d11aba22558b53c)
 - Over Security
   - [Comcast turns your Xfinity WiFi into a home motion detector](https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/)
   - [More than 200 victims of Medusa ransomware identified over the last year, CISA says](https://therecord.media/more-than-200-medusa-ransomware-victims-in-last-year-cisa)
@@ -187,8 +154,36 @@
   - [678,000 People Hit in French Tax Authority Data Breach](https://thecyberexpress.com/dgfip-cyberattack-exposes-data/)
   - [Gestione dei rischi NIS 2: il modello ibrido che collega servizi, informazioni, tecnologie e scenari di rischio](https://www.cybersecurity360.it/legal/gestione-dei-rischi-nis-2-il-modello-ibrido-che-collega-servizi-informazioni-tecnologie-e-scenari-di-rischio/)
   - [AI Models Escaped Test Environments and Hit Real Targets](https://thecyberexpress.com/ai-security-incidents-raise-evaluation-risks/)
+- 云鼎实验室
+  - [PostgreSQL 曝高危 RCE 漏洞，腾讯云安全已支持检测](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497886&idx=1&sn=7bd38d30924639bd4c6fe960e64b0b99)
+- TrustedSec
+  - [We've Seen This Movie: The OT/IT Technology Divide](https://trustedsec.com/blog/weve-seen-this-movie-the-ot-it-technology-divide)
+- IT Service Management News
+  - [AI slop](http://blog.cesaregallotti.it/2026/08/ai-slop.html)
+- Microsoft Security Blog
+  - [Hunting MacSync Stealer infrastructure through behavioral pivots](https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/)
+- 慢雾科技
+  - [MistTrack Agent 正式入驻 AgentOn，将链上调查能力带入 AI Agent](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505715&idx=1&sn=abdf5f6d7da60ab189752cedfe4ab99f)
+- 丁爸 情报分析师的工具箱
+  - [【开源报告】近五年中美人工智能发展与深度应用对比研究](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157000&idx=1&sn=f7fbafbf6d057c81f0eda63f8f7bdd7a)
+- D3Lab
+  - [Furto di identità via phishing Wise](https://www.d3lab.net/furto-di-identita-via-phishing-wise/)
 - SANS Internet Storm Center, InfoCON: green
   - [ISC Stormcast For Tuesday, August 18th, 2026 https://isc.sans.edu/podcastdetail/10056, (Tue, Aug 18th)](https://isc.sans.edu/diary/rss/33256)
+- Schneier on Security
+  - [LLMs and Contextual Integrity](https://www.schneier.com/blog/archives/2026/08/llms-and-contextual-integrity.html)
+- Daniel Miessler
+  - [Unconventional Thought Is the Differentiator](https://danielmiessler.com/blog/unconventional-thought-differentiator?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- Troy Hunt's Blog
+  - [Weekly Update 517: Cyber Ransoms](https://www.troyhunt.com/weekly-update-517/)
+- Security Affairs
+  - [Hackers Expose Data of 1.2 Million Heights Finance Customers](https://securityaffairs.com/197485/data-breach/hackers-expose-data-of-1-2-million-heights-finance-customers.html)
+  - [Project noRecognition: Teaching AI to Fool Surveillance Cameras](https://securityaffairs.com/197465/ai/project-norecognition-teaching-ai-to-fool-surveillance-cameras.html)
+  - [GitLab Patches Critical Unauthenticated GraphQL Vulnerability](https://securityaffairs.com/197454/hacking/gitlab-patches-critical-unauthenticated-graphql-vulnerability.html)
+  - [U.S. CISA adds a Ray-Project Ray flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/197419/security/u-s-cisa-adds-a-ray-project-ray-flaw-to-its-known-exploited-vulnerabilities-catalog.html)
+  - [New Mirai-Based Evooo1Bot Botnet Targets Linux Devices](https://securityaffairs.com/197434/malware/new-mirai-based-evooo1bot-botnet-targets-linux-devices.html)
+- Javvad Malik
+  - [Budget airlines, mobile phones, and AI](https://javvadmalik.com/2026/08/18/budget-airlines-mobile-phones-and-ai/)
 - The Hacker News
   - [Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps](https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html)
   - [Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets](https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html)
@@ -199,6 +194,8 @@
   - [16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets](https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html)
   - [SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers](https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html)
   - [CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE](https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html)
+- Tor Project blog
+  - [New Release: Tor Browser 15.0.20](https://blog.torproject.org/new-release-tor-browser-15020/)
 - Deeplinks
   - [Ninth Circuit Ruling Will Force Online Platforms That Host User Speech to Fight Lengthy and Costly Lawsuits Before They Are Dismissed Under Section 230](https://www.eff.org/deeplinks/2026/08/ninth-circuit-ruling-will-force-online-platforms-host-user-speech-fight-lengthy)
 - Security Weekly Podcast Network (Audio)
