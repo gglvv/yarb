@@ -1,7 +1,7 @@
 # 每日安全资讯（2026-08-23）
 
-- Recent Commits to cve:main
-  - [Update Sat Aug 22 12:07:58 UTC 2026](https://github.com/trickest/cve/commit/9572286fb0b63715e6040abfe865514f149bc7b4)
+- SecWiki News
+  - [SecWiki News 2026-08-22 Review](http://www.sec-wiki.com/?2026-08-22)
 - Armin Ronacher's Thoughts and Writings
   - [Fast and Hard Code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/)
 - Sploitus.com Exploits RSS Feed
@@ -29,8 +29,8 @@
   - [-SQLi-Defender exploit](https://sploitus.com/exploit?id=894A03D8-1903-5FA5-B05E-6FA17F6F67C2&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-0740](https://sploitus.com/exploit?id=CD1F93C6-4EF9-5C03-A2B2-46A8D7B1FD54&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-66747](https://sploitus.com/exploit?id=595891B8-C311-5C6A-9220-0544676F9FDF&utm_source=rss&utm_medium=rss)
-- SecWiki News
-  - [SecWiki News 2026-08-22 Review](http://www.sec-wiki.com/?2026-08-22)
+- Recent Commits to cve:main
+  - [Update Sat Aug 22 12:07:58 UTC 2026](https://github.com/trickest/cve/commit/9572286fb0b63715e6040abfe865514f149bc7b4)
 - Kitploit
   - [foxcage — Updated!](https://kitploit.com/en/posts/gitlab-grepular-foxcage-6b90df100153bf7223dd75703bb39004564c150ca61d97961a35b5d78ebe881e)
   - [InfraGuard v0.4.3](https://kitploit.com/en/posts/github-whispergate-infraguard-v043)
@@ -70,19 +70,15 @@
   - [CVE-2015-1328](https://kitploit.com/en/tools/github/whatswrongandwhy/cve-2015-1328)
   - [CVE-2026-6279](https://kitploit.com/en/tools/github/87achrafg-stack/cve-2026-6279)
   - [peirates v1.29](https://kitploit.com/en/posts/github-inguardians-peirates-v129)
-  - [Burp-Recordadora](https://kitploit.com/en/tools/github/hackwarts12/burp-recordadora)
-  - [awesome-mba](https://kitploit.com/en/tools/github/gmh5225/awesome-mba)
+- Hc1m1
+  - [软考学习（二）](https://nobb.site/2026/08/22/ruankao_4/)
+  - [软考学习（一）](https://nobb.site/2026/08/22/ruankao_3_crypto/)
 - 奇客Solidot–传递最新科技情报
   - [3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同](https://www.solidot.org/story?sid=85165)
   - [Rockstar 向微软和 Discord 发去法庭传票以识别 GTA6 泄密者身份](https://www.solidot.org/story?sid=85164)
   - [因门把手安全隐患特斯拉在华召回近 300 万辆车](https://www.solidot.org/story?sid=85163)
   - [使用胁迫密码删除手机数据的美国公民被控妨碍联邦执法的重罪](https://www.solidot.org/story?sid=85162)
   - [中国要求政府部门提前停用 Windows 10 政府版改用 Linux](https://www.solidot.org/story?sid=85161)
-- 黑鸟
-  - [把一堆 AI 变成一间虚拟办公室](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188192&idx=1&sn=e5128e65051bed680b9ffda896059733)
-- Hc1m1
-  - [软考学习（二）](https://nobb.site/2026/08/22/ruankao_4/)
-  - [软考学习（一）](https://nobb.site/2026/08/22/ruankao_3_crypto/)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [英伟达客户被告知AI相关涨价幅度超过15%](https://blog.upx8.com/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%AE%A2%E6%88%B7%E8%A2%AB%E5%91%8A%E7%9F%A5AI%E7%9B%B8%E5%85%B3%E6%B6%A8%E4%BB%B7%E5%B9%85%E5%BA%A6%E8%B6%85%E8%BF%8715)
   - [OpenAI表示加州应加强其人工智能安全法案](https://blog.upx8.com/OpenAI%E8%A1%A8%E7%A4%BA%E5%8A%A0%E5%B7%9E%E5%BA%94%E5%8A%A0%E5%BC%BA%E5%85%B6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%89%E5%85%A8%E6%B3%95%E6%A1%88)
@@ -91,40 +87,37 @@
   - [YouTube Premium 的价格可能在上次涨价几个月后再次上涨](https://blog.upx8.com/YouTube-Premium-%E7%9A%84%E4%BB%B7%E6%A0%BC%E5%8F%AF%E8%83%BD%E5%9C%A8%E4%B8%8A%E6%AC%A1%E6%B6%A8%E4%BB%B7%E5%87%A0%E4%B8%AA%E6%9C%88%E5%90%8E%E5%86%8D%E6%AC%A1%E4%B8%8A%E6%B6%A8)
   - [全国首批“算力词元贷”落地广州 数据资产变身融资硬通货](https://blog.upx8.com/%E5%85%A8%E5%9B%BD%E9%A6%96%E6%89%B9-%E7%AE%97%E5%8A%9B%E8%AF%8D%E5%85%83%E8%B4%B7-%E8%90%BD%E5%9C%B0%E5%B9%BF%E5%B7%9E-%E6%95%B0%E6%8D%AE%E8%B5%84%E4%BA%A7%E5%8F%98%E8%BA%AB%E8%9E%8D%E8%B5%84%E7%A1%AC%E9%80%9A%E8%B4%A7)
   - [Anthropic招股书或把美国公众对AI的抵制情绪列为风险因素](https://blog.upx8.com/Anthropic%E6%8B%9B%E8%82%A1%E4%B9%A6%E6%88%96%E6%8A%8A%E7%BE%8E%E5%9B%BD%E5%85%AC%E4%BC%97%E5%AF%B9AI%E7%9A%84%E6%8A%B5%E5%88%B6%E6%83%85%E7%BB%AA%E5%88%97%E4%B8%BA%E9%A3%8E%E9%99%A9%E5%9B%A0%E7%B4%A0)
+- 黑鸟
+  - [把一堆 AI 变成一间虚拟办公室](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188192&idx=1&sn=e5128e65051bed680b9ffda896059733)
+- 天御攻防实验室
+  - [中央网信办重磅发布《促进网信企业高质量发展行动计划（2026-2030年）》](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487131&idx=1&sn=6875fac780d00f5eb018908b8e1e4045)
 - 安全圈
   - [【安全圈】GitHub 通报本周大规模宕机原因](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078399&idx=1&sn=a577b3bca089b66810df811b4600dd70)
   - [【安全圈】湘潭警方破获一起网游外挂案 多人落网](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078399&idx=2&sn=c56ff5686ac538d13fdbcec6e37bcf8e)
   - [【安全圈】《GTA6》史诗级泄露！黑客手握可运行完整版](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078399&idx=3&sn=eeafabe504ec175a660a5bf975d30fb6)
-- 天御攻防实验室
-  - [中央网信办重磅发布《促进网信企业高质量发展行动计划（2026-2030年）》](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487131&idx=1&sn=6875fac780d00f5eb018908b8e1e4045)
-- 百度安全应急响应中心
-  - [【八强诞生】「Agent+」攻防挑战赛决赛名单揭晓，现场见！](https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544314&idx=1&sn=d4d081eedfeff4e4ec6d0027c17df27d)
-- 慢雾科技
-  - [横跨一个月的跨链攻击：Allbridge 被黑分析](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505763&idx=1&sn=e015a36b11897f98e4361f8bd04a1164)
-- 安全分析与研究
-  - [第17篇-勒索软件IOC与YARA规则实战](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497043&idx=1&sn=aab534cfe5f82cc2e82ec4a025447fc1)
 - 极客公园
   - [「AstraTennis」时刻：机器人在全球直播中打了一场真正的网球](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112522&idx=1&sn=39811dcb1d85f55cf0389fffd8f2c033)
   - [越会用 AI 的人，学习能力退化得越快](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112509&idx=1&sn=40ad4461da4ab2483f7671478c73cd33)
   - [微信灰测「按住转文字」功能被吐槽；DeepSeek 上线多模态功能；应急机械拉手难操作，多家车企召回 427 万辆车 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112505&idx=1&sn=90b550102cd76187b26fde0c369e0366)
+- 百度安全应急响应中心
+  - [【八强诞生】「Agent+」攻防挑战赛决赛名单揭晓，现场见！](https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544314&idx=1&sn=d4d081eedfeff4e4ec6d0027c17df27d)
+- 安全分析与研究
+  - [第17篇-勒索软件IOC与YARA规则实战](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497043&idx=1&sn=aab534cfe5f82cc2e82ec4a025447fc1)
+- 慢雾科技
+  - [横跨一个月的跨链攻击：Allbridge 被黑分析](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505763&idx=1&sn=e015a36b11897f98e4361f8bd04a1164)
 - 看雪学苑
   - [2026 KCTF | 《第八题：亥子合辰·塔影迷楼》设计思路及解析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618875&idx=1&sn=bbb2a06cd82c87cec3367672f678e9de)
   - [当漏洞挖掘遇上 AI Agent：主流企业防火墙 0day 挖掘实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618875&idx=2&sn=2c1e91df59b1d650e8d6965f888a94ae)
-- Posts on Maurice's Blog 🐍
-  - [235 Billion Tokens Later: Auditing What The AI Agents Really Did](https://momo5502.com/posts/2026-08-22-mw2-decompilation-audit/)
-- Have I Been Pwned latest breaches
-  - [Golf Canada - 568,972 breached accounts](https://haveibeenpwned.com/Breach/GolfCanada)
 - Dark Space Blogspot
   - [Come Sfruttare L'Arbitraggio Del Funding Rate (Delta Neutral)](http://darkwhite666.blogspot.com/2026/08/come-sfruttare-larbitraggio-del-funding.html)
-- Security Affairs
-  - [ToxicPanda 2.0 Gets a Major Upgrade, Expanding Attacks Across 16 Countries](https://securityaffairs.com/197681/breaking-news/toxicpanda-2-0-gets-a-major-upgrade.html)
-  - [Malware Hijacks Android Car Head Units](https://securityaffairs.com/197700/hacking/malware-hijacks-android-car-head-units.html)
-  - [Critical Flaw in NASA/JPL Open-Source Spacecraft Command Software Allowed Unauthenticated Command Execution](https://securityaffairs.com/197689/hacking/critical-flaw-in-nasa-jpl-open-source-spacecraft-command-software.html)
-  - [U.S. CISA adds Zimbra Collaboration Suite (ZCS) flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/197693/security/u-s-cisa-adds-zimbra-collaboration-suite-zcs-flaw-to-its-known-exploited-vulnerabilities-catalog.html)
-- The Hacker News
-  - [TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit](https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html)
+- Have I Been Pwned latest breaches
+  - [Golf Canada - 568,972 breached accounts](https://haveibeenpwned.com/Breach/GolfCanada)
 - Over Security
   - [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa)
+- Posts on Maurice's Blog 🐍
+  - [235 Billion Tokens Later: Auditing What The AI Agents Really Did](https://momo5502.com/posts/2026-08-22-mw2-decompilation-audit/)
+- The Hacker News
+  - [TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit](https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html)
 - KitPloit - PenTest Tools!
   - [foxcage — Updated!](https://kitploit.com/en/posts/gitlab-grepular-foxcage-6b90df100153bf7223dd75703bb39004564c150ca61d97961a35b5d78ebe881e)
   - [InfraGuard v0.4.3](https://kitploit.com/en/posts/github-whispergate-infraguard-v043)
@@ -165,7 +158,8 @@
   - [CVE-2026-6279](https://kitploit.com/en/tools/github/87achrafg-stack/cve-2026-6279)
   - [peirates v1.29](https://kitploit.com/en/posts/github-inguardians-peirates-v129)
   - [Burp-Recordadora](https://kitploit.com/en/tools/github/hackwarts12/burp-recordadora)
-  - [awesome-mba](https://kitploit.com/en/tools/github/gmh5225/awesome-mba)
-  - [bedaisy-bypass](https://kitploit.com/en/tools/github/gmh5225/bedaisy-bypass)
-  - [Argus](https://kitploit.com/en/tools/github/dozermx/argus)
-  - [revera](https://kitploit.com/en/tools/github/aaravmaloo/revera)
+- Security Affairs
+  - [ToxicPanda 2.0 Gets a Major Upgrade, Expanding Attacks Across 16 Countries](https://securityaffairs.com/197681/breaking-news/toxicpanda-2-0-gets-a-major-upgrade.html)
+  - [Malware Hijacks Android Car Head Units](https://securityaffairs.com/197700/hacking/malware-hijacks-android-car-head-units.html)
+  - [Critical Flaw in NASA/JPL Open-Source Spacecraft Command Software Allowed Unauthenticated Command Execution](https://securityaffairs.com/197689/hacking/critical-flaw-in-nasa-jpl-open-source-spacecraft-command-software.html)
+  - [U.S. CISA adds Zimbra Collaboration Suite (ZCS) flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/197693/security/u-s-cisa-adds-zimbra-collaboration-suite-zcs-flaw-to-its-known-exploited-vulnerabilities-catalog.html)
