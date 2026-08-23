@@ -1,9 +1,9 @@
 # 每日安全资讯（2026-08-23）
 
+- SecWiki News
+  - [SecWiki News 2026-08-22 Review](http://www.sec-wiki.com/?2026-08-22)
 - Armin Ronacher's Thoughts and Writings
   - [Fast and Hard Code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/)
-- Recent Commits to cve:main
-  - [Update Sat Aug 22 12:07:58 UTC 2026](https://github.com/trickest/cve/commit/9572286fb0b63715e6040abfe865514f149bc7b4)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Cutephp Cutenews](https://sploitus.com/exploit?id=DE3037CC-3A52-5C9C-B637-079CC5C589AD&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-75616](https://sploitus.com/exploit?id=8FE02773-848D-5AFE-9942-9C0B004CD15B&utm_source=rss&utm_medium=rss)
@@ -32,8 +32,8 @@
   - [laravel-access-control-lab exploit](https://sploitus.com/exploit?id=3B4A9F73-30BD-5F47-BCBD-CEE7814E85CE&utm_source=rss&utm_medium=rss)
   - [gha-oidc-auditor exploit](https://sploitus.com/exploit?id=1AC19A14-3747-5625-9AFB-FE4B4A643CD1&utm_source=rss&utm_medium=rss)
   - [Automated-Data-and-Code-Quality-Controller exploit](https://sploitus.com/exploit?id=4260277F-0218-5B04-B078-5D2272CBD1A8&utm_source=rss&utm_medium=rss)
-- SecWiki News
-  - [SecWiki News 2026-08-22 Review](http://www.sec-wiki.com/?2026-08-22)
+- Recent Commits to cve:main
+  - [Update Sat Aug 22 12:07:58 UTC 2026](https://github.com/trickest/cve/commit/9572286fb0b63715e6040abfe865514f149bc7b4)
 - Kitploit
   - [foxcage — Updated!](https://kitploit.com/en/posts/gitlab-grepular-foxcage-6b90df100153bf7223dd75703bb39004564c150ca61d97961a35b5d78ebe881e)
   - [InfraGuard v0.4.3](https://kitploit.com/en/posts/github-whispergate-infraguard-v043)
@@ -78,9 +78,6 @@
   - [bedaisy-bypass](https://kitploit.com/en/tools/github/gmh5225/bedaisy-bypass)
   - [Argus](https://kitploit.com/en/tools/github/dozermx/argus)
   - [revera](https://kitploit.com/en/tools/github/aaravmaloo/revera)
-  - [ESCepcion](https://kitploit.com/en/tools/github/hackwarts12/escepcion)
-  - [training-application-security](https://kitploit.com/en/tools/github/ransomleak/training-application-security)
-  - [training-security-awareness](https://kitploit.com/en/tools/github/ransomleak/training-security-awareness)
 - Hc1m1
   - [软考学习（二）](https://nobb.site/2026/08/22/ruankao_4/)
   - [软考学习（一）](https://nobb.site/2026/08/22/ruankao_3_crypto/)
@@ -109,23 +106,23 @@
   - [【安全圈】《GTA6》史诗级泄露！黑客手握可运行完整版](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078399&idx=3&sn=eeafabe504ec175a660a5bf975d30fb6)
 - 安全分析与研究
   - [第17篇-勒索软件IOC与YARA规则实战](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497043&idx=1&sn=aab534cfe5f82cc2e82ec4a025447fc1)
-- 百度安全应急响应中心
-  - [【八强诞生】「Agent+」攻防挑战赛决赛名单揭晓，现场见！](https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544314&idx=1&sn=d4d081eedfeff4e4ec6d0027c17df27d)
-- 慢雾科技
-  - [横跨一个月的跨链攻击：Allbridge 被黑分析](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505763&idx=1&sn=e015a36b11897f98e4361f8bd04a1164)
-- 看雪学苑
-  - [2026 KCTF | 《第八题：亥子合辰·塔影迷楼》设计思路及解析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618875&idx=1&sn=bbb2a06cd82c87cec3367672f678e9de)
-  - [当漏洞挖掘遇上 AI Agent：主流企业防火墙 0day 挖掘实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618875&idx=2&sn=2c1e91df59b1d650e8d6965f888a94ae)
 - 极客公园
   - [「AstraTennis」时刻：机器人在全球直播中打了一场真正的网球](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112522&idx=1&sn=39811dcb1d85f55cf0389fffd8f2c033)
   - [越会用 AI 的人，学习能力退化得越快](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112509&idx=1&sn=40ad4461da4ab2483f7671478c73cd33)
   - [微信灰测「按住转文字」功能被吐槽；DeepSeek 上线多模态功能；应急机械拉手难操作，多家车企召回 427 万辆车 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112505&idx=1&sn=90b550102cd76187b26fde0c369e0366)
+- 看雪学苑
+  - [2026 KCTF | 《第八题：亥子合辰·塔影迷楼》设计思路及解析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618875&idx=1&sn=bbb2a06cd82c87cec3367672f678e9de)
+  - [当漏洞挖掘遇上 AI Agent：主流企业防火墙 0day 挖掘实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618875&idx=2&sn=2c1e91df59b1d650e8d6965f888a94ae)
+- 百度安全应急响应中心
+  - [【八强诞生】「Agent+」攻防挑战赛决赛名单揭晓，现场见！](https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544314&idx=1&sn=d4d081eedfeff4e4ec6d0027c17df27d)
+- 慢雾科技
+  - [横跨一个月的跨链攻击：Allbridge 被黑分析](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505763&idx=1&sn=e015a36b11897f98e4361f8bd04a1164)
 - Over Security
   - [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa)
-- Have I Been Pwned latest breaches
-  - [Golf Canada - 568,972 breached accounts](https://haveibeenpwned.com/Breach/GolfCanada)
 - Dark Space Blogspot
   - [Come Sfruttare L'Arbitraggio Del Funding Rate (Delta Neutral)](http://darkwhite666.blogspot.com/2026/08/come-sfruttare-larbitraggio-del-funding.html)
+- Have I Been Pwned latest breaches
+  - [Golf Canada - 568,972 breached accounts](https://haveibeenpwned.com/Breach/GolfCanada)
 - Posts on Maurice's Blog 🐍
   - [235 Billion Tokens Later: Auditing What The AI Agents Really Did](https://momo5502.com/posts/2026-08-22-mw2-decompilation-audit/)
 - Security Affairs
@@ -181,5 +178,3 @@
   - [revera](https://kitploit.com/en/tools/github/aaravmaloo/revera)
   - [ESCepcion](https://kitploit.com/en/tools/github/hackwarts12/escepcion)
   - [training-application-security](https://kitploit.com/en/tools/github/ransomleak/training-application-security)
-  - [training-security-awareness](https://kitploit.com/en/tools/github/ransomleak/training-security-awareness)
-  - [Apkx-Hunter v2.7.2](https://kitploit.com/en/posts/github-syscallx-18113-apkx-hunter-v272)
