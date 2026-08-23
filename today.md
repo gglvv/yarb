@@ -1,7 +1,5 @@
 # 每日安全资讯（2026-08-23）
 
-- SecWiki News
-  - [SecWiki News 2026-08-22 Review](http://www.sec-wiki.com/?2026-08-22)
 - Recent Commits to cve:main
   - [Update Sat Aug 22 12:07:58 UTC 2026](https://github.com/trickest/cve/commit/9572286fb0b63715e6040abfe865514f149bc7b4)
 - Sploitus.com Exploits RSS Feed
@@ -25,11 +23,11 @@
   - [CVE-2026-77946 exploit](https://sploitus.com/exploit?id=CVE-2026-77946&utm_source=rss&utm_medium=rss)
   - [Exploit for Classic Buffer Overflow in Cisco Adaptive_Security_Appliance_Software](https://sploitus.com/exploit?id=89EF59E9-C994-5617-9C60-64831E998DC3&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Vmware Spring_Cloud_Function](https://sploitus.com/exploit?id=5423CECE-181F-5F68-AC03-189C2DB2328A&utm_source=rss&utm_medium=rss)
-  - [Exploit for Unrestricted Upload of File with Dangerous Type in Drupal](https://sploitus.com/exploit?id=E2E709C7-BDD3-5889-84D9-4F014B7C5300&utm_source=rss&utm_medium=rss)
-  - [BUG-BOUNTY-SLM exploit](https://sploitus.com/exploit?id=5FA59815-1506-5F03-A89E-72343CC91CE4&utm_source=rss&utm_medium=rss)
-  - [Exploit for Authentication Bypass by Capture-replay in Microsoft](https://sploitus.com/exploit?id=780FD160-D0F4-52DF-9098-850E40DB1896&utm_source=rss&utm_medium=rss)
+  - [Exploit for Unrestricted Upload of File with Dangerous Type in Drupal](https://sploitus.com/exploit?id=A38CD375-804A-57F8-8ADF-ADBE2565EF2D&utm_source=rss&utm_medium=rss)
 - Armin Ronacher's Thoughts and Writings
   - [Fast and Hard Code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/)
+- SecWiki News
+  - [SecWiki News 2026-08-22 Review](http://www.sec-wiki.com/?2026-08-22)
 - Kitploit
   - [foxcage — Updated!](https://kitploit.com/en/posts/gitlab-grepular-foxcage-6b90df100153bf7223dd75703bb39004564c150ca61d97961a35b5d78ebe881e)
   - [InfraGuard v0.4.3](https://kitploit.com/en/posts/github-whispergate-infraguard-v043)
@@ -63,8 +61,9 @@
   - [essh v0.3.2](https://kitploit.com/en/posts/github-matthart1983-essh-v032)
   - [Bad secure rails app](https://kitploit.com/en/tools/gitlab/vivian.maes/bad-secure-rails-app)
   - [vegadns](https://kitploit.com/en/tools/gitlab/wattocyber/vegadns)
-  - [Packet-Sniffer v4.0.0](https://kitploit.com/en/posts/github-eonraider-packet-sniffer-v400)
-  - [aws-iam-authenticator v0.7.19](https://kitploit.com/en/posts/github-kubernetes-sigs-aws-iam-authenticator-v0719)
+- Hc1m1
+  - [软考学习（二）](https://nobb.site/2026/08/22/ruankao_4/)
+  - [软考学习（一）](https://nobb.site/2026/08/22/ruankao_3_crypto/)
 - 奇客Solidot–传递最新科技情报
   - [3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同](https://www.solidot.org/story?sid=85165)
   - [Rockstar 向微软和 Discord 发去法庭传票以识别 GTA6 泄密者身份](https://www.solidot.org/story?sid=85164)
@@ -77,47 +76,47 @@
   - [荣耀人形机器人“闪电”百米测试跑出9秒32](https://blog.upx8.com/%E8%8D%A3%E8%80%80%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA-%E9%97%AA%E7%94%B5-%E7%99%BE%E7%B1%B3%E6%B5%8B%E8%AF%95%E8%B7%91%E5%87%BA9%E7%A7%9232)
   - [YouTube Premium欧洲订阅价格即将上涨](https://blog.upx8.com/YouTube-Premium%E6%AC%A7%E6%B4%B2%E8%AE%A2%E9%98%85%E4%BB%B7%E6%A0%BC%E5%8D%B3%E5%B0%86%E4%B8%8A%E6%B6%A8)
   - [YouTube Premium 的价格可能在上次涨价几个月后再次上涨](https://blog.upx8.com/YouTube-Premium-%E7%9A%84%E4%BB%B7%E6%A0%BC%E5%8F%AF%E8%83%BD%E5%9C%A8%E4%B8%8A%E6%AC%A1%E6%B6%A8%E4%BB%B7%E5%87%A0%E4%B8%AA%E6%9C%88%E5%90%8E%E5%86%8D%E6%AC%A1%E4%B8%8A%E6%B6%A8)
-- Hc1m1
-  - [软考学习（二）](https://nobb.site/2026/08/22/ruankao_4/)
-  - [软考学习（一）](https://nobb.site/2026/08/22/ruankao_3_crypto/)
-- 安全分析与研究
-  - [第17篇-勒索软件IOC与YARA规则实战](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497043&idx=1&sn=aab534cfe5f82cc2e82ec4a025447fc1)
 - 黑鸟
   - [把一堆 AI 变成一间虚拟办公室](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188192&idx=1&sn=e5128e65051bed680b9ffda896059733)
-- 看雪学苑
-  - [2026 KCTF | 《第八题：亥子合辰·塔影迷楼》设计思路及解析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618875&idx=1&sn=bbb2a06cd82c87cec3367672f678e9de)
-  - [当漏洞挖掘遇上 AI Agent：主流企业防火墙 0day 挖掘实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618875&idx=2&sn=2c1e91df59b1d650e8d6965f888a94ae)
+- 天御攻防实验室
+  - [中央网信办重磅发布《促进网信企业高质量发展行动计划（2026-2030年）》](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487131&idx=1&sn=6875fac780d00f5eb018908b8e1e4045)
 - 安全圈
   - [【安全圈】GitHub 通报本周大规模宕机原因](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078399&idx=1&sn=a577b3bca089b66810df811b4600dd70)
   - [【安全圈】湘潭警方破获一起网游外挂案 多人落网](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078399&idx=2&sn=c56ff5686ac538d13fdbcec6e37bcf8e)
   - [【安全圈】《GTA6》史诗级泄露！黑客手握可运行完整版](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078399&idx=3&sn=eeafabe504ec175a660a5bf975d30fb6)
-- 天御攻防实验室
-  - [中央网信办重磅发布《促进网信企业高质量发展行动计划（2026-2030年）》](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487131&idx=1&sn=6875fac780d00f5eb018908b8e1e4045)
-- 慢雾科技
-  - [横跨一个月的跨链攻击：Allbridge 被黑分析](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505763&idx=1&sn=e015a36b11897f98e4361f8bd04a1164)
-- 情报分析师
-  - [代理型AI到底是下一代情报官还是下一个自信的骗子?](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569167&idx=1&sn=4004e59db41196655c729fac9701203f)
 - 极客公园
   - [「AstraTennis」时刻：机器人在全球直播中打了一场真正的网球](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112522&idx=1&sn=39811dcb1d85f55cf0389fffd8f2c033)
   - [越会用 AI 的人，学习能力退化得越快](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112509&idx=1&sn=40ad4461da4ab2483f7671478c73cd33)
   - [微信灰测「按住转文字」功能被吐槽；DeepSeek 上线多模态功能；应急机械拉手难操作，多家车企召回 427 万辆车 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112505&idx=1&sn=90b550102cd76187b26fde0c369e0366)
+- 百度安全应急响应中心
+  - [【八强诞生】「Agent+」攻防挑战赛决赛名单揭晓，现场见！](https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544314&idx=1&sn=d4d081eedfeff4e4ec6d0027c17df27d)
+- 安全分析与研究
+  - [第17篇-勒索软件IOC与YARA规则实战](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497043&idx=1&sn=aab534cfe5f82cc2e82ec4a025447fc1)
+- 情报分析师
+  - [代理型AI到底是下一代情报官还是下一个自信的骗子?](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569167&idx=1&sn=4004e59db41196655c729fac9701203f)
 - Over Security
   - [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa)
-- Dark Space Blogspot
-  - [Come Sfruttare L'Arbitraggio Del Funding Rate (Delta Neutral)](http://darkwhite666.blogspot.com/2026/08/come-sfruttare-larbitraggio-del-funding.html)
-- Have I Been Pwned latest breaches
-  - [Golf Canada - 568,972 breached accounts](https://haveibeenpwned.com/Breach/GolfCanada)
+- 看雪学苑
+  - [2026 KCTF | 《第八题：亥子合辰·塔影迷楼》设计思路及解析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618875&idx=1&sn=bbb2a06cd82c87cec3367672f678e9de)
+  - [当漏洞挖掘遇上 AI Agent：主流企业防火墙 0day 挖掘实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618875&idx=2&sn=2c1e91df59b1d650e8d6965f888a94ae)
+- 丁爸 情报分析师的工具箱
+  - [【开源报告】联合国安理会基地组织/塔利班/ISIL(达伊沙)1267制裁机制的监测报告汇总分析报告（2002–2026）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157046&idx=1&sn=3a3675425e68e712944ccd5f505fbb51)
+  - [【通知】第六届开源情报技术大会与第四届全国大学生开源情报数据采集与分析挑战赛](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157046&idx=2&sn=8cc985f013752e0391b1b30d59f4f568)
+- 慢雾科技
+  - [横跨一个月的跨链攻击：Allbridge 被黑分析](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505763&idx=1&sn=e015a36b11897f98e4361f8bd04a1164)
 - Posts on Maurice's Blog
   - [235 Billion Tokens Later: Auditing What The AI Agents Really Did](https://momo5502.com/posts/2026-08-22-mw2-decompilation-audit/)
+- Have I Been Pwned latest breaches
+  - [Golf Canada - 568,972 breached accounts](https://haveibeenpwned.com/Breach/GolfCanada)
+- Dark Space Blogspot
+  - [Come Sfruttare L'Arbitraggio Del Funding Rate (Delta Neutral)](http://darkwhite666.blogspot.com/2026/08/come-sfruttare-larbitraggio-del-funding.html)
+- The Hacker News
+  - [TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit](https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html)
 - Security Affairs
   - [ToxicPanda 2.0 Gets a Major Upgrade, Expanding Attacks Across 16 Countries](https://securityaffairs.com/197681/breaking-news/toxicpanda-2-0-gets-a-major-upgrade.html)
   - [Malware Hijacks Android Car Head Units](https://securityaffairs.com/197700/hacking/malware-hijacks-android-car-head-units.html)
   - [Critical Flaw in NASA/JPL Open-Source Spacecraft Command Software Allowed Unauthenticated Command Execution](https://securityaffairs.com/197689/hacking/critical-flaw-in-nasa-jpl-open-source-spacecraft-command-software.html)
   - [U.S. CISA adds Zimbra Collaboration Suite (ZCS) flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/197693/security/u-s-cisa-adds-zimbra-collaboration-suite-zcs-flaw-to-its-known-exploited-vulnerabilities-catalog.html)
-- 百度安全应急响应中心
-  - [【八强诞生】「Agent+」攻防挑战赛决赛名单揭晓，现场见！](https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544314&idx=1&sn=d4d081eedfeff4e4ec6d0027c17df27d)
-- The Hacker News
-  - [TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit](https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html)
 - KitPloit - PenTest Tools!
   - [foxcage — Updated!](https://kitploit.com/en/posts/gitlab-grepular-foxcage-6b90df100153bf7223dd75703bb39004564c150ca61d97961a35b5d78ebe881e)
   - [InfraGuard v0.4.3](https://kitploit.com/en/posts/github-whispergate-infraguard-v043)
@@ -152,6 +151,3 @@
   - [Bad secure rails app](https://kitploit.com/en/tools/gitlab/vivian.maes/bad-secure-rails-app)
   - [vegadns](https://kitploit.com/en/tools/gitlab/wattocyber/vegadns)
   - [Packet-Sniffer v4.0.0](https://kitploit.com/en/posts/github-eonraider-packet-sniffer-v400)
-  - [aws-iam-authenticator v0.7.19](https://kitploit.com/en/posts/github-kubernetes-sigs-aws-iam-authenticator-v0719)
-  - [CVE-2026-57155](https://kitploit.com/en/tools/github/babyshen/cve-2026-57155)
-  - [CVE-2015-1328](https://kitploit.com/en/tools/github/whatswrongandwhy/cve-2015-1328)
