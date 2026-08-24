@@ -2,6 +2,13 @@
 
 - SecWiki News
   - [SecWiki News 2026-08-23 Review](http://www.sec-wiki.com/?2026-08-23)
+- Der Flounder
+  - [Using the Jamf Pro API to retrieve Recovery Lock passwords](https://derflounder.wordpress.com/2026/08/23/using-the-jamf-pro-api-to-retrieve-recovery-lock-passwords/)
+- Recent Commits to cve:main
+  - [Update Sun Aug 23 17:18:34 UTC 2026](https://github.com/trickest/cve/commit/28c457adbaca6f077741d3eb42ba0a7d0cffa4fe)
+- Taxodium
+  - [給博客添加純文本版本](https://taxodium.ink/add-plain-text-version-to-blog.html)
+  - [在 Emacs 中用漢典查詢倉頡碼](https://taxodium.ink/query-cangjie-codes-using-han-dian-in-emacs.html)
 - Sploitus.com Exploits RSS Feed
   - [0day-eds exploit](https://sploitus.com/exploit?id=1CB841FD-4B04-5942-A754-29E7A501B78A&utm_source=rss&utm_medium=rss)
   - [pentesting-lab-ntlm-relay exploit](https://sploitus.com/exploit?id=3F3F9698-88A3-537F-AE19-A82332CCF4CF&utm_source=rss&utm_medium=rss)
@@ -10,34 +17,10 @@
   - [Exploit for Release of Invalid Pointer or Reference in Mozilla Firefox](https://sploitus.com/exploit?id=46CACC58-44DA-5127-AC4E-775083607CF1&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-10053](https://sploitus.com/exploit?id=0EA9307C-5E8F-5065-ACB7-BC40C37AFBD0&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-66917](https://sploitus.com/exploit?id=44FBF26F-2C6B-57D1-98CC-7EEDE10A0B52&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-66916](https://sploitus.com/exploit?id=4175E4EC-5306-5CEF-B434-F0E877753685&utm_source=rss&utm_medium=rss)
-  - [vuln-labs-angara exploit](https://sploitus.com/exploit?id=A7C6B521-94D9-56C1-9A49-71CB615FA65B&utm_source=rss&utm_medium=rss)
-  - [poc_cve_2026_19681 exploit](https://sploitus.com/exploit?id=E95FF5C7-7787-5663-BB53-6D811102E073&utm_source=rss&utm_medium=rss)
-  - [xss-tools exploit](https://sploitus.com/exploit?id=4327859E-7C06-5EE8-B424-9751F0856B02&utm_source=rss&utm_medium=rss)
-  - [nginx-log-analyzer exploit](https://sploitus.com/exploit?id=D12E0EED-D3A3-57D5-B95C-580B76956789&utm_source=rss&utm_medium=rss)
-  - [ids-traffic-analysis exploit](https://sploitus.com/exploit?id=94A395F2-55DD-545D-8FF6-88397734A58F&utm_source=rss&utm_medium=rss)
-  - [Exploit for Confused Deputy in Google Android](https://sploitus.com/exploit?id=7E0E1B39-EA9B-5B91-A86F-CBBFD37921BD&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-64560](https://sploitus.com/exploit?id=238DCD54-CB55-5351-8CA9-E392880CA594&utm_source=rss&utm_medium=rss)
-  - [pentest-ubuntu-privilege-escalation exploit](https://sploitus.com/exploit?id=10E70F9A-C1D7-5753-862C-24D21E6067EC&utm_source=rss&utm_medium=rss)
-  - [notevault-vapt-assessment exploit](https://sploitus.com/exploit?id=7E538382-17FC-5032-B925-532B1C727550&utm_source=rss&utm_medium=rss)
-  - [cve-autopsy exploit](https://sploitus.com/exploit?id=309CAD3F-48DF-5406-878E-0709CB1003E8&utm_source=rss&utm_medium=rss)
-  - [M3200-OpenUI exploit](https://sploitus.com/exploit?id=9C94C661-9ED8-523C-97C3-4A37554797D0&utm_source=rss&utm_medium=rss)
-  - [Exploit for Use After Free in Linux Linux_Kernel](https://sploitus.com/exploit?id=0E069C06-6785-5F77-8FDF-57883A08D4DB&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-78122](https://sploitus.com/exploit?id=2DDF171A-EC6F-5014-AC4E-DBE83BFEDB8A&utm_source=rss&utm_medium=rss)
-  - [owasp-top10-2025-labs exploit](https://sploitus.com/exploit?id=2B981B2C-4078-5DE2-A9B2-1B74560CE49A&utm_source=rss&utm_medium=rss)
-- Der Flounder
-  - [Using the Jamf Pro API to retrieve Recovery Lock passwords](https://derflounder.wordpress.com/2026/08/23/using-the-jamf-pro-api-to-retrieve-recovery-lock-passwords/)
-- Recent Commits to cve:main
-  - [Update Sun Aug 23 17:18:34 UTC 2026](https://github.com/trickest/cve/commit/28c457adbaca6f077741d3eb42ba0a7d0cffa4fe)
-- Taxodium
-  - [給博客添加純文本版本](https://taxodium.ink/add-plain-text-version-to-blog.html)
-  - [在 Emacs 中用漢典查詢倉頡碼](https://taxodium.ink/query-cangjie-codes-using-han-dian-in-emacs.html)
 - MaskRay
   - [Block frequency](https://maskray.me/blog/block-frequency)
 - Didier Stevens
   - [Update: base64dump.py Version 0.0.31](https://blog.didierstevens.com/2026/08/23/update-base64dump-py-version-0-0-31/)
-- 白帽Wiki - 一个简单的wiki
-  - [[2026]防止自己的二进制文件被AI一键逆向](https://key08.com/index.php/2026/08/23/3296.html)
 - Reverse Engineering
   - [A short Story of hacking a HDMI Encoder](https://www.reddit.com/r/ReverseEngineering/comments/1vw5thl/a_short_story_of_hacking_a_hdmi_encoder/)
   - [Reverse engineered WoW 3.3.5a's client binary to raise the 25-quest-log cap to 50 — full writeup + patch](https://www.reddit.com/r/ReverseEngineering/comments/1vw894w/reverse_engineered_wow_335as_client_binary_to/)
@@ -45,6 +28,8 @@
   - [GitHub - Koosjuh/pal-outbreak-2-server: Reviving the online mode of Resident Evil Outbreak File #2 (PAL) on real, unmodified PS2 hardware](https://www.reddit.com/r/ReverseEngineering/comments/1vw4svk/github_koosjuhpaloutbreak2server_reviving_the/)
   - [[Tool] Strilight: Zero-Unroll O(1) SMT Loop Lifting & Strided Interval Domain for x86_64 Binary Analysis](https://www.reddit.com/r/ReverseEngineering/comments/1vwfsxp/tool_strilight_zerounroll_o1_smt_loop_lifting/)
   - [I gave a repair tool exactly one worked example. It inferred the rest and fixed 5/5 bugs in code it had never seen — 4 CPU instructions, zero tokens.](https://www.reddit.com/r/ReverseEngineering/comments/1vw6z59/i_gave_a_repair_tool_exactly_one_worked_example/)
+- 白帽Wiki - 一个简单的wiki
+  - [[2026]防止自己的二进制文件被AI一键逆向](https://key08.com/index.php/2026/08/23/3296.html)
 - 奇客Solidot–传递最新科技情报
   - [机器人短跑超越人类，但刹住是问题](https://www.solidot.org/story?sid=85169)
   - [卡巴斯基发现第一种针对汽车的 Android 恶意程序](https://www.solidot.org/story?sid=85168)
@@ -57,21 +42,18 @@
   - [嫦娥七号不能在今年预定窗口发射](https://blog.upx8.com/%E5%AB%A6%E5%A8%A5%E4%B8%83%E5%8F%B7%E4%B8%8D%E8%83%BD%E5%9C%A8%E4%BB%8A%E5%B9%B4%E9%A2%84%E5%AE%9A%E7%AA%97%E5%8F%A3%E5%8F%91%E5%B0%84)
   - [Epic Games Store 即将推出 Linux 版本](https://blog.upx8.com/Epic-Games-Store-%E5%8D%B3%E5%B0%86%E6%8E%A8%E5%87%BA-Linux-%E7%89%88%E6%9C%AC)
   - [DeepSeek周末“打折”？API平台计费再调整](https://blog.upx8.com/DeepSeek%E5%91%A8%E6%9C%AB-%E6%89%93%E6%8A%98-API%E5%B9%B3%E5%8F%B0%E8%AE%A1%E8%B4%B9%E5%86%8D%E8%B0%83%E6%95%B4)
-  - [AliExpress被发现静默运行WebAudio指纹](https://blog.upx8.com/AliExpress%E8%A2%AB%E5%8F%91%E7%8E%B0%E9%9D%99%E9%BB%98%E8%BF%90%E8%A1%8CWebAudio%E6%8C%87%E7%BA%B9)
-  - [中国教育网联合镜像站正式上线](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2%E7%BD%91%E8%81%94%E5%90%88%E9%95%9C%E5%83%8F%E7%AB%99%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF)
-  - [谷歌开源大模型Gemma下载量破10亿次](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8BGemma%E4%B8%8B%E8%BD%BD%E9%87%8F%E7%A0%B410%E4%BA%BF%E6%AC%A1)
 - 黑鸟
   - [看不见的车上乘客：安卓车机正悄悄沦为僵尸网络节点](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188210&idx=1&sn=700740b03b1037d3d4e45dbf11a0e045)
 - 安全圈
   - [【安全圈】NASA严重安全漏洞，可导致黑客向飞船发送任意指令](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=1&sn=47ca0c1187ff87e4599a50f3f5724193)
   - [【安全圈】WordPress 扩展 曝出 CVSS 满分重大漏洞，可允许黑客写入任意文件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=2&sn=1bd7cb253e8a95883d98fc32b18dae8b)
   - [【安全圈】Zimbra 高危远程代码执行漏洞现已遭到实际利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=3&sn=451af21916a0b7d0a23c16b2fb950fc0)
+- 安全分析与研究
+  - [第18篇-从ATTCK到D3FEND勒索防御体系设计](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497047&idx=1&sn=ab97404fe2bfc9d0d5d28be04f83b8c5)
 - 极客公园
   - [年轻人的网络社交，正在偷偷「鸽化」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112548&idx=1&sn=ffbdfbae9d61ad17942951cb0efee618)
   - [造物100 #03｜众筹 1192 万美元的 3D 打印机、能给 WiFi「拍照」的相机、会自己滚的泡沫轴](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112541&idx=1&sn=1dc8513bb94f8aa5603c3ed20a629450)
   - [DeepSeek 周末用量统一低价收费；特斯拉 9 月 3 日首秀 Cybercab；神秘 Ox Alpha 模型爆火网络 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112540&idx=1&sn=366b06f43db5e2770863652c1d37c072)
-- 安全分析与研究
-  - [第18篇-从ATTCK到D3FEND勒索防御体系设计](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497047&idx=1&sn=ab97404fe2bfc9d0d5d28be04f83b8c5)
 - 火绒安全
   - [处暑│清风解暑意 网安护清秋](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536707&idx=1&sn=f6ddd69ca08d97cdb53895f3a6dfcff4)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536707&idx=2&sn=d449ac461f50fee4b9ddb88d9ffde959)
@@ -86,3 +68,8 @@
   - [UK Power Plant Disabled for Four Days by Iran-Linked Hackers, Concurrent with US Water Attacks](https://securityaffairs.com/197734/cyber-warfare-2/uk-power-plant-disabled-for-four-days-by-iran-linked-hackers-concurrent-with-us-water-attacks.html)
   - [Security Affairs newsletter Round 591 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/197728/breaking-news/security-affairs-newsletter-round-591-by-pierluigi-paganini-international-edition.html)
   - [Zero-Click Grok Chat History Theft: Adversa AI Demonstrates Cryptographic Context Injection](https://securityaffairs.com/197717/hacking/zero-click-grok-chat-history-theft-adversa-ai-demonstrates-cryptographic-context-injection.html)
+- Information Security
+  - [The real risk of online JWT decoders that log your secrets](https://www.reddit.com/r/Information_Security/comments/1vwenzt/the_real_risk_of_online_jwt_decoders_that_log/)
+  - [Zara data breach exposes 197,000 customers via Anodot analytics token compromise](https://www.reddit.com/r/Information_Security/comments/1vwd8or/zara_data_breach_exposes_197000_customers_via/)
+  - [.](https://www.reddit.com/r/Information_Security/comments/1vwapuz/_/)
+  - [Critical Patches, AI-Driven Attacks, and Data Theft Define the Week in August 2026](https://www.reddit.com/r/Information_Security/comments/1vvshx2/critical_patches_aidriven_attacks_and_data_theft/)
