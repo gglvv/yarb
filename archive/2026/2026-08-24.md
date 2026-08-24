@@ -1,11 +1,11 @@
 # 每日安全资讯（2026-08-24）
 
+- Der Flounder
+  - [Using the Jamf Pro API to retrieve Recovery Lock passwords](https://derflounder.wordpress.com/2026/08/23/using-the-jamf-pro-api-to-retrieve-recovery-lock-passwords/)
 - Recent Commits to cve:main
   - [Update Sun Aug 23 17:18:34 UTC 2026](https://github.com/trickest/cve/commit/28c457adbaca6f077741d3eb42ba0a7d0cffa4fe)
 - SecWiki News
   - [SecWiki News 2026-08-23 Review](http://www.sec-wiki.com/?2026-08-23)
-- Der Flounder
-  - [Using the Jamf Pro API to retrieve Recovery Lock passwords](https://derflounder.wordpress.com/2026/08/23/using-the-jamf-pro-api-to-retrieve-recovery-lock-passwords/)
 - Taxodium
   - [給博客添加純文本版本](https://taxodium.ink/add-plain-text-version-to-blog.html)
   - [在 Emacs 中用漢典查詢倉頡碼](https://taxodium.ink/query-cangjie-codes-using-han-dian-in-emacs.html)
@@ -46,10 +46,10 @@
   - [【安全圈】NASA严重安全漏洞，可导致黑客向飞船发送任意指令](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=1&sn=47ca0c1187ff87e4599a50f3f5724193)
   - [【安全圈】WordPress 扩展 曝出 CVSS 满分重大漏洞，可允许黑客写入任意文件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=2&sn=1bd7cb253e8a95883d98fc32b18dae8b)
   - [【安全圈】Zimbra 高危远程代码执行漏洞现已遭到实际利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=3&sn=451af21916a0b7d0a23c16b2fb950fc0)
-- Have I Been Pwned latest breaches
-  - [NIUS - 6,090 breached accounts](https://haveibeenpwned.com/Breach/NIUS)
 - Troy Hunt's Blog
   - [Welcoming the Sri Lankan Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/)
+- Have I Been Pwned latest breaches
+  - [NIUS - 6,090 breached accounts](https://haveibeenpwned.com/Breach/NIUS)
 - Security Affairs
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 111](https://securityaffairs.com/197743/security/security-affairs-malware-newsletter-round-111.html)
   - [UK Power Plant Disabled for Four Days by Iran-Linked Hackers, Concurrent with US Water Attacks](https://securityaffairs.com/197734/cyber-warfare-2/uk-power-plant-disabled-for-four-days-by-iran-linked-hackers-concurrent-with-us-water-attacks.html)
