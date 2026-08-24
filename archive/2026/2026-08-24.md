@@ -2,8 +2,6 @@
 
 - SecWiki News
   - [SecWiki News 2026-08-23 Review](http://www.sec-wiki.com/?2026-08-23)
-- Recent Commits to cve:main
-  - [Update Sun Aug 23 17:18:34 UTC 2026](https://github.com/trickest/cve/commit/28c457adbaca6f077741d3eb42ba0a7d0cffa4fe)
 - Der Flounder
   - [Using the Jamf Pro API to retrieve Recovery Lock passwords](https://derflounder.wordpress.com/2026/08/23/using-the-jamf-pro-api-to-retrieve-recovery-lock-passwords/)
 - Sploitus.com Exploits RSS Feed
@@ -14,14 +12,16 @@
 - Taxodium
   - [給博客添加純文本版本](https://taxodium.ink/add-plain-text-version-to-blog.html)
   - [在 Emacs 中用漢典查詢倉頡碼](https://taxodium.ink/query-cangjie-codes-using-han-dian-in-emacs.html)
+- Recent Commits to cve:main
+  - [Update Sun Aug 23 17:18:34 UTC 2026](https://github.com/trickest/cve/commit/28c457adbaca6f077741d3eb42ba0a7d0cffa4fe)
 - MaskRay
   - [Block frequency](https://maskray.me/blog/block-frequency)
 - Objective-See's Blog
   - [Detecting (Evil) Dylibs](https://objective-see.org/blog/blog_0x89.html)
-- 白帽Wiki - 一个简单的wiki
-  - [[2026]防止自己的二进制文件被AI一键逆向](https://key08.com/index.php/2026/08/23/3296.html)
 - Didier Stevens
   - [Update: base64dump.py Version 0.0.31](https://blog.didierstevens.com/2026/08/23/update-base64dump-py-version-0-0-31/)
+- 白帽Wiki - 一个简单的wiki
+  - [[2026]防止自己的二进制文件被AI一键逆向](https://key08.com/index.php/2026/08/23/3296.html)
 - 奇客Solidot–传递最新科技情报
   - [机器人短跑超越人类，但刹住是问题](https://www.solidot.org/story?sid=85169)
   - [卡巴斯基发现第一种针对汽车的 Android 恶意程序](https://www.solidot.org/story?sid=85168)
@@ -39,11 +39,11 @@
   - [年轻人的网络社交，正在偷偷「鸽化」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112548&idx=1&sn=ffbdfbae9d61ad17942951cb0efee618)
   - [造物100 #03｜众筹 1192 万美元的 3D 打印机、能给 WiFi「拍照」的相机、会自己滚的泡沫轴](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112541&idx=1&sn=1dc8513bb94f8aa5603c3ed20a629450)
   - [DeepSeek 周末用量统一低价收费；特斯拉 9 月 3 日首秀 Cybercab；神秘 Ox Alpha 模型爆火网络 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112540&idx=1&sn=366b06f43db5e2770863652c1d37c072)
-- 安全分析与研究
-  - [第18篇-从ATTCK到D3FEND勒索防御体系设计](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497047&idx=1&sn=ab97404fe2bfc9d0d5d28be04f83b8c5)
 - 火绒安全
   - [处暑│清风解暑意 网安护清秋](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536707&idx=1&sn=f6ddd69ca08d97cdb53895f3a6dfcff4)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536707&idx=2&sn=d449ac461f50fee4b9ddb88d9ffde959)
+- 安全分析与研究
+  - [第18篇-从ATTCK到D3FEND勒索防御体系设计](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497047&idx=1&sn=ab97404fe2bfc9d0d5d28be04f83b8c5)
 - 看雪学苑
   - [抓紧申报！SDC2026议题征集9月10日截止](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618876&idx=1&sn=d5a93bea0d315fc0ccb3b2b0bab89f70)
 - Have I Been Pwned latest breaches
