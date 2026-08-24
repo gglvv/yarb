@@ -1,9 +1,11 @@
 # 每日安全资讯（2026-08-24）
 
-- SecWiki News
-  - [SecWiki News 2026-08-23 Review](http://www.sec-wiki.com/?2026-08-23)
 - Der Flounder
   - [Using the Jamf Pro API to retrieve Recovery Lock passwords](https://derflounder.wordpress.com/2026/08/23/using-the-jamf-pro-api-to-retrieve-recovery-lock-passwords/)
+- SecWiki News
+  - [SecWiki News 2026-08-23 Review](http://www.sec-wiki.com/?2026-08-23)
+- Recent Commits to cve:main
+  - [Update Sun Aug 23 17:18:34 UTC 2026](https://github.com/trickest/cve/commit/28c457adbaca6f077741d3eb42ba0a7d0cffa4fe)
 - Sploitus.com Exploits RSS Feed
   - [0day-eds exploit](https://sploitus.com/exploit?id=1CB841FD-4B04-5942-A754-29E7A501B78A&utm_source=rss&utm_medium=rss)
   - [pentesting-lab-ntlm-relay exploit](https://sploitus.com/exploit?id=3F3F9698-88A3-537F-AE19-A82332CCF4CF&utm_source=rss&utm_medium=rss)
@@ -11,48 +13,42 @@
   - [solutions exploit](https://sploitus.com/exploit?id=260BB20D-7E01-5A22-AD21-20F63E8EC7CE&utm_source=rss&utm_medium=rss)
   - [Exploit for Release of Invalid Pointer or Reference in Mozilla Firefox](https://sploitus.com/exploit?id=46CACC58-44DA-5127-AC4E-775083607CF1&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-10053](https://sploitus.com/exploit?id=0EA9307C-5E8F-5065-ACB7-BC40C37AFBD0&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-66917](https://sploitus.com/exploit?id=44FBF26F-2C6B-57D1-98CC-7EEDE10A0B52&utm_source=rss&utm_medium=rss)
-- Taxodium
-  - [給博客添加純文本版本](https://taxodium.ink/add-plain-text-version-to-blog.html)
-  - [在 Emacs 中用漢典查詢倉頡碼](https://taxodium.ink/query-cangjie-codes-using-han-dian-in-emacs.html)
-- Recent Commits to cve:main
-  - [Update Sun Aug 23 17:18:34 UTC 2026](https://github.com/trickest/cve/commit/28c457adbaca6f077741d3eb42ba0a7d0cffa4fe)
 - MaskRay
   - [Block frequency](https://maskray.me/blog/block-frequency)
 - Didier Stevens
   - [Update: base64dump.py Version 0.0.31](https://blog.didierstevens.com/2026/08/23/update-base64dump-py-version-0-0-31/)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]防止自己的二进制文件被AI一键逆向](https://key08.com/index.php/2026/08/23/3296.html)
-- 奇客Solidot–传递最新科技情报
-  - [机器人短跑超越人类，但刹住是问题](https://www.solidot.org/story?sid=85169)
-  - [卡巴斯基发现第一种针对汽车的 Android 恶意程序](https://www.solidot.org/story?sid=85168)
-  - [柳树和杨树释放出的化合物会恶化城市空气质量](https://www.solidot.org/story?sid=85167)
-  - [波兰加密货币交易所 CEO 在 2022 年失踪，4 年后他的继任者也失踪了](https://www.solidot.org/story?sid=85166)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [Hugging Face考虑出售估值130亿美元](https://blog.upx8.com/Hugging-Face%E8%80%83%E8%99%91%E5%87%BA%E5%94%AE%E4%BC%B0%E5%80%BC130%E4%BA%BF%E7%BE%8E%E5%85%83)
   - [英国一发电厂七月遭伊朗黑客网络攻击](https://blog.upx8.com/%E8%8B%B1%E5%9B%BD%E4%B8%80%E5%8F%91%E7%94%B5%E5%8E%82%E4%B8%83%E6%9C%88%E9%81%AD%E4%BC%8A%E6%9C%97%E9%BB%91%E5%AE%A2%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB)
   - [索尼向欧盟PlayStation用户发信 提醒玩家买的不是游戏 而是“使用授权”](https://blog.upx8.com/%E7%B4%A2%E5%B0%BC%E5%90%91%E6%AC%A7%E7%9B%9FPlayStation%E7%94%A8%E6%88%B7%E5%8F%91%E4%BF%A1-%E6%8F%90%E9%86%92%E7%8E%A9%E5%AE%B6%E4%B9%B0%E7%9A%84%E4%B8%8D%E6%98%AF%E6%B8%B8%E6%88%8F-%E8%80%8C%E6%98%AF-%E4%BD%BF%E7%94%A8%E6%8E%88%E6%9D%83)
   - [嫦娥七号不能在今年预定窗口发射](https://blog.upx8.com/%E5%AB%A6%E5%A8%A5%E4%B8%83%E5%8F%B7%E4%B8%8D%E8%83%BD%E5%9C%A8%E4%BB%8A%E5%B9%B4%E9%A2%84%E5%AE%9A%E7%AA%97%E5%8F%A3%E5%8F%91%E5%B0%84)
   - [Epic Games Store 即将推出 Linux 版本](https://blog.upx8.com/Epic-Games-Store-%E5%8D%B3%E5%B0%86%E6%8E%A8%E5%87%BA-Linux-%E7%89%88%E6%9C%AC)
+- 奇客Solidot–传递最新科技情报
+  - [机器人短跑超越人类，但刹住是问题](https://www.solidot.org/story?sid=85169)
+  - [卡巴斯基发现第一种针对汽车的 Android 恶意程序](https://www.solidot.org/story?sid=85168)
+  - [柳树和杨树释放出的化合物会恶化城市空气质量](https://www.solidot.org/story?sid=85167)
+  - [波兰加密货币交易所 CEO 在 2022 年失踪，4 年后他的继任者也失踪了](https://www.solidot.org/story?sid=85166)
 - 黑鸟
   - [看不见的车上乘客：安卓车机正悄悄沦为僵尸网络节点](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188210&idx=1&sn=700740b03b1037d3d4e45dbf11a0e045)
-- 安全分析与研究
-  - [第18篇-从ATTCK到D3FEND勒索防御体系设计](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497047&idx=1&sn=ab97404fe2bfc9d0d5d28be04f83b8c5)
-- 极客公园
-  - [年轻人的网络社交，正在偷偷「鸽化」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112548&idx=1&sn=ffbdfbae9d61ad17942951cb0efee618)
-  - [造物100 #03｜众筹 1192 万美元的 3D 打印机、能给 WiFi「拍照」的相机、会自己滚的泡沫轴](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112541&idx=1&sn=1dc8513bb94f8aa5603c3ed20a629450)
-  - [DeepSeek 周末用量统一低价收费；特斯拉 9 月 3 日首秀 Cybercab；神秘 Ox Alpha 模型爆火网络 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112540&idx=1&sn=366b06f43db5e2770863652c1d37c072)
 - 安全圈
   - [【安全圈】NASA严重安全漏洞，可导致黑客向飞船发送任意指令](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=1&sn=47ca0c1187ff87e4599a50f3f5724193)
   - [【安全圈】WordPress 扩展 曝出 CVSS 满分重大漏洞，可允许黑客写入任意文件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=2&sn=1bd7cb253e8a95883d98fc32b18dae8b)
   - [【安全圈】Zimbra 高危远程代码执行漏洞现已遭到实际利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=3&sn=451af21916a0b7d0a23c16b2fb950fc0)
+- 火绒安全
+  - [处暑│清风解暑意 网安护清秋](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536707&idx=1&sn=f6ddd69ca08d97cdb53895f3a6dfcff4)
+  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536707&idx=2&sn=d449ac461f50fee4b9ddb88d9ffde959)
+- 极客公园
+  - [年轻人的网络社交，正在偷偷「鸽化」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112548&idx=1&sn=ffbdfbae9d61ad17942951cb0efee618)
+  - [造物100 #03｜众筹 1192 万美元的 3D 打印机、能给 WiFi「拍照」的相机、会自己滚的泡沫轴](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112541&idx=1&sn=1dc8513bb94f8aa5603c3ed20a629450)
+  - [DeepSeek 周末用量统一低价收费；特斯拉 9 月 3 日首秀 Cybercab；神秘 Ox Alpha 模型爆火网络 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112540&idx=1&sn=366b06f43db5e2770863652c1d37c072)
+- 安全分析与研究
+  - [第18篇-从ATTCK到D3FEND勒索防御体系设计](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497047&idx=1&sn=ab97404fe2bfc9d0d5d28be04f83b8c5)
 - 看雪学苑
   - [抓紧申报！SDC2026议题征集9月10日截止](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618876&idx=1&sn=d5a93bea0d315fc0ccb3b2b0bab89f70)
 - Have I Been Pwned latest breaches
   - [NIUS - 6,090 breached accounts](https://haveibeenpwned.com/Breach/NIUS)
-- 火绒安全
-  - [处暑│清风解暑意 网安护清秋](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536707&idx=1&sn=f6ddd69ca08d97cdb53895f3a6dfcff4)
-  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536707&idx=2&sn=d449ac461f50fee4b9ddb88d9ffde959)
 - Troy Hunt's Blog
   - [Welcoming the Sri Lankan Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/)
 - Security Affairs
