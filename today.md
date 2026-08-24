@@ -6,45 +6,49 @@
   - [Using the Jamf Pro API to retrieve Recovery Lock passwords](https://derflounder.wordpress.com/2026/08/23/using-the-jamf-pro-api-to-retrieve-recovery-lock-passwords/)
 - Recent Commits to cve:main
   - [Update Sun Aug 23 17:18:34 UTC 2026](https://github.com/trickest/cve/commit/28c457adbaca6f077741d3eb42ba0a7d0cffa4fe)
-- Taxodium
-  - [給博客添加純文本版本](https://taxodium.ink/add-plain-text-version-to-blog.html)
-  - [在 Emacs 中用漢典查詢倉頡碼](https://taxodium.ink/query-cangjie-codes-using-han-dian-in-emacs.html)
-- MaskRay
-  - [Block frequency](https://maskray.me/blog/block-frequency)
 - Objective-See's Blog
   - [Detecting (Evil) Dylibs](https://objective-see.org/blog/blog_0x89.html)
-- 白帽Wiki - 一个简单的wiki
-  - [[2026]防止自己的二进制文件被AI一键逆向](https://key08.com/index.php/2026/08/23/3296.html)
+- MaskRay
+  - [Block frequency](https://maskray.me/blog/block-frequency)
 - Didier Stevens
   - [Update: base64dump.py Version 0.0.31](https://blog.didierstevens.com/2026/08/23/update-base64dump-py-version-0-0-31/)
-- 黑鸟
-  - [看不见的车上乘客：安卓车机正悄悄沦为僵尸网络节点](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188210&idx=1&sn=700740b03b1037d3d4e45dbf11a0e045)
-- 看雪学苑
-  - [抓紧申报！SDC2026议题征集9月10日截止](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618876&idx=1&sn=d5a93bea0d315fc0ccb3b2b0bab89f70)
-- 安全圈
-  - [【安全圈】NASA严重安全漏洞，可导致黑客向飞船发送任意指令](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=1&sn=47ca0c1187ff87e4599a50f3f5724193)
-  - [【安全圈】WordPress 扩展 曝出 CVSS 满分重大漏洞，可允许黑客写入任意文件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=2&sn=1bd7cb253e8a95883d98fc32b18dae8b)
-  - [【安全圈】Zimbra 高危远程代码执行漏洞现已遭到实际利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=3&sn=451af21916a0b7d0a23c16b2fb950fc0)
-- 火绒安全
-  - [处暑│清风解暑意 网安护清秋](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536707&idx=1&sn=f6ddd69ca08d97cdb53895f3a6dfcff4)
-  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536707&idx=2&sn=d449ac461f50fee4b9ddb88d9ffde959)
+- 白帽Wiki - 一个简单的wiki
+  - [[2026]防止自己的二进制文件被AI一键逆向](https://key08.com/index.php/2026/08/23/3296.html)
+- Reverse Engineering
+  - [A short Story of hacking a HDMI Encoder](https://www.reddit.com/r/ReverseEngineering/comments/1vw5thl/a_short_story_of_hacking_a_hdmi_encoder/)
+  - [Reverse engineered WoW 3.3.5a's client binary to raise the 25-quest-log cap to 50 — full writeup + patch](https://www.reddit.com/r/ReverseEngineering/comments/1vw894w/reverse_engineered_wow_335as_client_binary_to/)
+  - [I Hacked a Broken Smartwatch and Replaced the Firmware | nRF52832](https://www.reddit.com/r/ReverseEngineering/comments/1vw0plr/i_hacked_a_broken_smartwatch_and_replaced_the/)
+  - [GitHub - Koosjuh/pal-outbreak-2-server: Reviving the online mode of Resident Evil Outbreak File #2 (PAL) on real, unmodified PS2 hardware](https://www.reddit.com/r/ReverseEngineering/comments/1vw4svk/github_koosjuhpaloutbreak2server_reviving_the/)
+  - [[Tool] Strilight: Zero-Unroll O(1) SMT Loop Lifting & Strided Interval Domain for x86_64 Binary Analysis](https://www.reddit.com/r/ReverseEngineering/comments/1vwfsxp/tool_strilight_zerounroll_o1_smt_loop_lifting/)
+  - [I gave a repair tool exactly one worked example. It inferred the rest and fixed 5/5 bugs in code it had never seen — 4 CPU instructions, zero tokens.](https://www.reddit.com/r/ReverseEngineering/comments/1vw6z59/i_gave_a_repair_tool_exactly_one_worked_example/)
 - 奇客Solidot–传递最新科技情报
   - [机器人短跑超越人类，但刹住是问题](https://www.solidot.org/story?sid=85169)
   - [卡巴斯基发现第一种针对汽车的 Android 恶意程序](https://www.solidot.org/story?sid=85168)
   - [柳树和杨树释放出的化合物会恶化城市空气质量](https://www.solidot.org/story?sid=85167)
   - [波兰加密货币交易所 CEO 在 2022 年失踪，4 年后他的继任者也失踪了](https://www.solidot.org/story?sid=85166)
+- 黑鸟
+  - [看不见的车上乘客：安卓车机正悄悄沦为僵尸网络节点](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188210&idx=1&sn=700740b03b1037d3d4e45dbf11a0e045)
+- 安全圈
+  - [【安全圈】NASA严重安全漏洞，可导致黑客向飞船发送任意指令](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=1&sn=47ca0c1187ff87e4599a50f3f5724193)
+  - [【安全圈】WordPress 扩展 曝出 CVSS 满分重大漏洞，可允许黑客写入任意文件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=2&sn=1bd7cb253e8a95883d98fc32b18dae8b)
+  - [【安全圈】Zimbra 高危远程代码执行漏洞现已遭到实际利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078410&idx=3&sn=451af21916a0b7d0a23c16b2fb950fc0)
 - 极客公园
   - [年轻人的网络社交，正在偷偷「鸽化」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112548&idx=1&sn=ffbdfbae9d61ad17942951cb0efee618)
   - [造物100 #03｜众筹 1192 万美元的 3D 打印机、能给 WiFi「拍照」的相机、会自己滚的泡沫轴](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112541&idx=1&sn=1dc8513bb94f8aa5603c3ed20a629450)
   - [DeepSeek 周末用量统一低价收费；特斯拉 9 月 3 日首秀 Cybercab；神秘 Ox Alpha 模型爆火网络 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112540&idx=1&sn=366b06f43db5e2770863652c1d37c072)
 - 安全分析与研究
   - [第18篇-从ATTCK到D3FEND勒索防御体系设计](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497047&idx=1&sn=ab97404fe2bfc9d0d5d28be04f83b8c5)
+- 火绒安全
+  - [处暑│清风解暑意 网安护清秋](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536707&idx=1&sn=f6ddd69ca08d97cdb53895f3a6dfcff4)
+  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536707&idx=2&sn=d449ac461f50fee4b9ddb88d9ffde959)
+- 看雪学苑
+  - [抓紧申报！SDC2026议题征集9月10日截止](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618876&idx=1&sn=d5a93bea0d315fc0ccb3b2b0bab89f70)
+- Have I Been Pwned latest breaches
+  - [NIUS - 6,090 breached accounts](https://haveibeenpwned.com/Breach/NIUS)
+- Troy Hunt's Blog
+  - [Welcoming the Sri Lankan Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/)
 - Security Affairs
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 111](https://securityaffairs.com/197743/security/security-affairs-malware-newsletter-round-111.html)
   - [UK Power Plant Disabled for Four Days by Iran-Linked Hackers, Concurrent with US Water Attacks](https://securityaffairs.com/197734/cyber-warfare-2/uk-power-plant-disabled-for-four-days-by-iran-linked-hackers-concurrent-with-us-water-attacks.html)
   - [Security Affairs newsletter Round 591 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/197728/breaking-news/security-affairs-newsletter-round-591-by-pierluigi-paganini-international-edition.html)
   - [Zero-Click Grok Chat History Theft: Adversa AI Demonstrates Cryptographic Context Injection](https://securityaffairs.com/197717/hacking/zero-click-grok-chat-history-theft-adversa-ai-demonstrates-cryptographic-context-injection.html)
-- Have I Been Pwned latest breaches
-  - [NIUS - 6,090 breached accounts](https://haveibeenpwned.com/Breach/NIUS)
-- Troy Hunt's Blog
-  - [Welcoming the Sri Lankan Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/)
