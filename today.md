@@ -1,26 +1,26 @@
 # 每日安全资讯（2026-08-25）
 
-- Armin Ronacher's Thoughts and Writings
-  - [Anger, Anxiety and Agency](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/)
 - SecWiki News
   - [SecWiki News 2026-08-24 Review](http://www.sec-wiki.com/?2026-08-24)
 - Taxodium
   - [香港雞公嶺](https://taxodium.ink/hong-kong-kai-kung-leng.html)
-- ongoing by Tim Bray
-  - [Text Watermarking](https://www.tbray.org/ongoing/When/202x/2026/08/24/Text-Watermarking)
 - 安全客-有思想的安全新媒体
   - [2.45亿次下载的Rust crate被投毒：编译时恶意代码自动执行，朝鲜黑客又出手了](https://www.anquanke.com/post/id/316013)
   - [科技云报到：WRC 观察 | 竞争走向底层，算力资产决定具身智能“终局”](https://www.anquanke.com/post/id/316006)
   - [众安天下获CCIA “2026网络安全优秀创新成果大赛”人工智能赛道优胜奖](https://www.anquanke.com/post/id/316008)
+- Recent Commits to cve:main
+  - [Update Mon Aug 24 11:56:33 UTC 2026](https://github.com/trickest/cve/commit/235695a8d6e678885a94267e24d9ebcc3512150a)
+- ongoing by Tim Bray
+  - [Text Watermarking](https://www.tbray.org/ongoing/When/202x/2026/08/24/Text-Watermarking)
 - Sucuri Blog
   - [Third-Party Script Security: How Tags, Pixels, and Embeds Can Put Websites at Risk](https://blog.sucuri.net/2026/08/third-party-script-security-how-tags-pixels-and-embeds-can-put-websites-at-risk.html)
 - InfoSec Write-ups - Medium
   - [I Changed One “User_Id” and the API Said “Sure” — From Password Reset to Mass Account Takeover](https://infosecwriteups.com/i-changed-one-user-id-and-the-api-said-sure-from-password-reset-to-mass-account-takeover-9d4d4e15e022?source=rss----7b722bfd1b8d---4)
   - [Lakera’s Break The Agent Challenge— Solace AI Write-up](https://infosecwriteups.com/lakeras-break-the-agent-challenge-solace-ai-write-up-5f99a48c6c69?source=rss----7b722bfd1b8d---4)
-- Recent Commits to cve:main
-  - [Update Mon Aug 24 11:56:33 UTC 2026](https://github.com/trickest/cve/commit/235695a8d6e678885a94267e24d9ebcc3512150a)
 - ElcomSoft blog
   - [The True Meaning of Consent in ‘Consent Extractions’](https://blog.elcomsoft.com/2026/08/the-true-meaning-of-consent-in-consent-extractions/)
+- Armin Ronacher's Thoughts and Writings
+  - [Anger, Anxiety and Agency](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [I Changed One “User_Id” and the API Said “Sure” — From Password Reset to Mass Account Takeover](https://infosecwriteups.com/i-changed-one-user-id-and-the-api-said-sure-from-password-reset-to-mass-account-takeover-9d4d4e15e022?source=rss----7b722bfd1b8d--bug_bounty)
 - Kitploit
@@ -46,14 +46,8 @@
   - [TrustworthyRAG](https://kitploit.com/en/tools/github/gpt-laboratory/trustworthyrag)
   - [CrystalPotato](https://kitploit.com/en/tools/github/ricardojoserf/crystalpotato)
   - [miLazyCracker](https://kitploit.com/en/tools/github/nfc-tools/milazycracker)
-  - [agent-bom v0.102.0](https://kitploit.com/en/posts/github-msaad00-agent-bom-v01020)
-  - [RFIDIOt](https://kitploit.com/en/tools/github/adamlaurie/rfidiot)
 - Horizon3
   - [Operationalize CTEM with NodeZero®](https://horizon3.ai/downloads/factsheets/operationalize-ctem-with-nodezero/)
-- Sucuri Blog
-  - [Third-Party Script Security: How Tags, Pixels, and Embeds Can Put Websites at Risk](https://blog.sucuri.net/2026/08/third-party-script-security-how-tags-pixels-and-embeds-can-put-websites-at-risk.html)
-- Intigriti
-  - [When fear no longer holds you back. Interview with Ryan Bonner (Roll4CombatUS)](https://www.intigriti.com/researchers/blog/hacker-spotlight/interview-with-ryan-bonner-aka-roll4combatus)
 - Malwarebytes
   - [Fake GTA 6 Extended Look and demo sites deliver an infostealer](https://www.malwarebytes.com/blog/threat-intel/2026/08/fake-gta-6-extended-look-and-demo-sites-deliver-an-infostealer)
   - [Fake Microsoft security scans trick victims into uninstalling their antivirus](https://www.malwarebytes.com/blog/threat-intel/2026/08/fake-microsoft-security-scans-trick-victims-into-uninstalling-their-antivirus)
@@ -62,6 +56,10 @@
   - [ToxicPanda 2.0 can take over your Android phone and banking apps](https://www.malwarebytes.com/blog/mobile/2026/08/toxicpanda-2-0-can-take-over-your-android-phone-and-banking-apps)
   - [Tracking PavinLoader across ClickFix and fake download campaigns](https://www.malwarebytes.com/blog/threat-intel/2026/08/tracking-pavinloader-across-clickfix-and-fake-download-campaigns)
   - [A week in security (August 17 – August 23)](https://www.malwarebytes.com/blog/news/2026/08/a-week-in-security-august-17-august-23)
+- Sucuri Blog
+  - [Third-Party Script Security: How Tags, Pixels, and Embeds Can Put Websites at Risk](https://blog.sucuri.net/2026/08/third-party-script-security-how-tags-pixels-and-embeds-can-put-websites-at-risk.html)
+- Intigriti
+  - [When fear no longer holds you back. Interview with Ryan Bonner (Roll4CombatUS)](https://www.intigriti.com/researchers/blog/hacker-spotlight/interview-with-ryan-bonner-aka-roll4combatus)
 - HackerNews
   - [黑客滥用 FTP 服务器横幅投递新型 Windows 恶意软件](http://0.0.0.0:8080/post/64589)
   - [思科修复 Crosswork 和 Secure Workload 共九项漏洞](http://0.0.0.0:8080/post/64588)
@@ -81,28 +79,41 @@
   - [九成生物医学论文有 AI 辅助写作痕迹](https://www.solidot.org/story?sid=85173)
 - 腾讯玄武实验室
   - [每日安全动态推送(26/8/24)](https://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&mid=2651960530&idx=1&sn=73d95434c985f03aeb7ac547dd8e8975)
-- 黑鸟
-  - [把Linux伪装成苹果设备也可拿到Find My的共享位置数据](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188227&idx=1&sn=0173111153eacfab13f8975dabda356b)
 - 安全内参
   - [某发电厂因网络攻击停运4天](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516472&idx=1&sn=757dd32416d77d9909b0c4d94cd6c033)
   - [机器速度解决人工滞后：美国陆军“狮鹫项目”拟以AI代理重塑网络防御体系](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516472&idx=2&sn=14b4e5e4464900ca81950ecfdb95452a)
-- 代码卫士
-  - [CISA：速修复已遭活跃利用的 TrueConf Server 漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526945&idx=1&sn=49c1fbcc51b2b499e529c7d3643569b9)
 - 威努特安全网络
   - [威努特入选国家工业信息安全漏洞库技术支撑单位](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651143622&idx=1&sn=0a7f08da0509b024272f1f0d1705700d)
 - 青衣十三楼飞花堂
   - [求f(x)=3/(2^x-1)的对称中心，据说是高三填空、选择小压轴](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489890&idx=1&sn=1fc5d630c1f1304b1430310355bd3c64)
+- 黑鸟
+  - [把Linux伪装成苹果设备也可拿到Find My的共享位置数据](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188227&idx=1&sn=0173111153eacfab13f8975dabda356b)
+- 代码卫士
+  - [CISA：速修复已遭活跃利用的 TrueConf Server 漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526945&idx=1&sn=49c1fbcc51b2b499e529c7d3643569b9)
+- 安全客
+  - [2.45亿次下载的Rust crate被投毒：编译时恶意代码自动执行，朝鲜黑客又出手了](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790403&idx=1&sn=8cf1b30a38308f84623ec2faaf677312)
 - 安全学术圈
   - [区块链与数据安全全国重点实验室2026年开放课题申请指南](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495807&idx=1&sn=2b79796e773aef721ea667ecb3da650a)
 - 软件安全与逆向分析
   - [安卓完美云手机内测镜像已发布，支持以下机型](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485396&idx=1&sn=4f20dc5e303adf9d75bd57d448d9b57d)
-- 安全客
-  - [2.45亿次下载的Rust crate被投毒：编译时恶意代码自动执行，朝鲜黑客又出手了](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790403&idx=1&sn=8cf1b30a38308f84623ec2faaf677312)
-- 微步在线
-  - [名列榜首！微步获评NVDB“四星级技术支撑单位”](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650187763&idx=1&sn=188bf9e60aea76da979824c5d3016c48)
+- 信息安全国家工程研究中心
+  - [《促进网信企业高质量发展行动计划（2026-2030年）》印发，强调安全有序发展（附全文）](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247504760&idx=1&sn=9a984bcb345ad7fb9acdee56f670d9d5)
+- 数世咨询
+  - [OWASP 发布全新安全蓝图，揭示 AI 技能十大安全风险](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543736&idx=1&sn=b0e44d6b4777578a2d45d47f3ae0b1c8)
+  - [从“长城杯”看2026网安风向：实战与创新并重的“新质”人才长这样](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543736&idx=2&sn=b0cb12acafa18f0094a70bb7ff9010d4)
 - 电子物证
   - [【服务器在境外，电子数据该怎么取证？】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049122&idx=1&sn=eb0df9ef2fe83e988f4d3fa2c3d6f18d)
   - [【像查监控回放一样看懂电子物证里的“服务器日志”】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049122&idx=2&sn=3736f4cbfbe8b0a9f87027c99ac5b697)
+- 微步在线
+  - [名列榜首！微步获评NVDB“四星级技术支撑单位”](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650187763&idx=1&sn=188bf9e60aea76da979824c5d3016c48)
+- 安全圈
+  - [【安全圈】三大网银木马升级肆虐：ToxicPanda与Manic全面突袭全球金融](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078426&idx=1&sn=9c781b0c6bda71d442785b08091428f1)
+  - [【安全圈】黑客组织利用AI扩大攻击：部署隐蔽Rootkit横扫全球](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078426&idx=2&sn=7a7d480d930b44060995ef1a81884671)
+  - [【安全圈】Anthropic发布Claude安全体系：3500万基金护航开源底座](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078426&idx=3&sn=cee0ea7fe48f38bac396d2a8426cf064)
+- 奇安信威胁情报中心
+  - [每 3 天一起投毒：软件供应链攻击正式进入「蠕虫时代」](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519978&idx=1&sn=c3c6d5c7e21f72e966ef1702af707af7)
+- M01N Team
+  - [AI安全案例分析 | 思维病毒在AI智能体间的跨会话传播与持久化注入](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495432&idx=1&sn=4d662e5c062b0f0455efa4dcd4a1a8d0)
 - 中国信息安全
   - [论坛·原创 | 中非人工智能合作的现状、挑战及应对](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265876&idx=1&sn=9d380228fc07e91f9a5dca6cf95f0096)
   - [邬贺铨院士：智能体时代，互联网基础资源技术创新正当时](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265876&idx=2&sn=d87f672dadb7a33de18818dc37e28428)
@@ -110,63 +121,52 @@
   - [专家解读 | 王志成：促进网信企业高质量发展 持续开创网络强国建设新局面](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265876&idx=4&sn=4d1254b7b498e6ed502783deb0f8b769)
   - [通知 | 网安标委发布《网络安全标准实践指南——个人用户使用人工智能服务安全指南》（附全文）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265876&idx=5&sn=e0c93a59022ebcb5b6fe557758580c9e)
   - [关注 | 10项关键信息基础设施安全保护系列团体标准将于8月27日正式发布](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265876&idx=6&sn=f87fc67f63e1e5027e42a72426238516)
-- 默安科技
-  - [攻防演练实战｜默安智能体：让蓝队专家聚焦高价值深度研判](https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247501991&idx=1&sn=c145d41016fa7b25f59b757258c7568b)
+- 火绒安全
+  - [以服务践初心 | 专业高效解难题 火绒再获用户锦旗致谢](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536708&idx=1&sn=8c273c42d0a312dfeab08c03c9da7b03)
+  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536708&idx=2&sn=91b56a404b5c5138dbbece06595c8487)
+- 安全牛
+  - [3.61美元一个PoC，21分钟出利用：微软MSRC内部数据曝光，漏洞响应团队正在失效"](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142427&idx=1&sn=159c96e993d96b605c5352d82a0647ae)
+  - [中央网信委出台行动计划，多维度推动网信企业高质量发展筑牢网络强国根基；TikTok 因违反 COPPA 儿童隐私法案与美国司法部达成协议| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142427&idx=2&sn=c19aa31fbfd0ae3e412b00d16209f866)
 - 极客公园
   - [对话黄青虬：成立半年估值 70 亿，阿里腾讯联投，交出了能「长程执行」的第一个自研模型](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112585&idx=1&sn=48d7065e041dd0a3009308a6112823f1)
   - [硅谷押注的下一个 Harness，是整个桌面操作系统](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112572&idx=1&sn=8e4ad35fdb6c245f79871ae4d996c650)
   - [传 Hugging Face 寻求出售，估值 130 亿美元；Altman：担心 AI 被少数强势主体掌控；成都 AG.AL 获电竞世俱杯冠军 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112562&idx=1&sn=8d456c806a46b0fbbf65135a686dce5b)
-- M01N Team
-  - [AI安全案例分析 | 思维病毒在AI智能体间的跨会话传播与持久化注入](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495432&idx=1&sn=4d662e5c062b0f0455efa4dcd4a1a8d0)
-- 数世咨询
-  - [OWASP 发布全新安全蓝图，揭示 AI 技能十大安全风险](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543736&idx=1&sn=b0e44d6b4777578a2d45d47f3ae0b1c8)
-  - [从“长城杯”看2026网安风向：实战与创新并重的“新质”人才长这样](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543736&idx=2&sn=b0cb12acafa18f0094a70bb7ff9010d4)
-- 信息安全国家工程研究中心
-  - [《促进网信企业高质量发展行动计划（2026-2030年）》印发，强调安全有序发展（附全文）](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247504760&idx=1&sn=9a984bcb345ad7fb9acdee56f670d9d5)
+- 默安科技
+  - [攻防演练实战｜默安智能体：让蓝队专家聚焦高价值深度研判](https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247501991&idx=1&sn=c145d41016fa7b25f59b757258c7568b)
 - 安全分析与研究
   - [第19篇-勒索软件解密技术原理与工具实战](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497051&idx=1&sn=8a16fc1132d731afb4a8e692306e7581)
-- 安全牛
-  - [3.61美元一个PoC，21分钟出利用：微软MSRC内部数据曝光，漏洞响应团队正在失效"](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142427&idx=1&sn=159c96e993d96b605c5352d82a0647ae)
-  - [中央网信委出台行动计划，多维度推动网信企业高质量发展筑牢网络强国根基；TikTok 因违反 COPPA 儿童隐私法案与美国司法部达成协议| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142427&idx=2&sn=c19aa31fbfd0ae3e412b00d16209f866)
-- 火绒安全
-  - [以服务践初心 | 专业高效解难题 火绒再获用户锦旗致谢](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536708&idx=1&sn=8c273c42d0a312dfeab08c03c9da7b03)
-  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536708&idx=2&sn=91b56a404b5c5138dbbece06595c8487)
-- 安全圈
-  - [【安全圈】三大网银木马升级肆虐：ToxicPanda与Manic全面突袭全球金融](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078426&idx=1&sn=9c781b0c6bda71d442785b08091428f1)
-  - [【安全圈】黑客组织利用AI扩大攻击：部署隐蔽Rootkit横扫全球](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078426&idx=2&sn=7a7d480d930b44060995ef1a81884671)
-  - [【安全圈】Anthropic发布Claude安全体系：3500万基金护航开源底座](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078426&idx=3&sn=cee0ea7fe48f38bac396d2a8426cf064)
-- 奇安信威胁情报中心
-  - [每 3 天一起投毒：软件供应链攻击正式进入「蠕虫时代」](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247519978&idx=1&sn=c3c6d5c7e21f72e966ef1702af707af7)
+- 网安国际
+  - [第一届CCF网络与系统安全大会在杭州成功举办](https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652318585&idx=1&sn=ca827b2b4167d70ef9fb80c2b3c3521b)
+- 情报分析师
+  - [可靠来源也会提供错误信息！如何分开评价信源与内容](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569181&idx=1&sn=dc8c4c6462ecaf299a657dfde3621702)
 - 君哥的体历
   - [金融企业安全治理：AI攻击挑战与诈骗风险防护｜总第320周](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492540&idx=1&sn=f27ea19f8779e75004bdabe66174aac5)
-- 丁爸 情报分析师的工具箱
-  - [【开源情报】中央情报局如何在东南亚开展活动](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157090&idx=1&sn=9b5df3f2bc02951239208ffa1c464499)
-  - [【开源报告】国际间谍博物馆（International Spy Museum）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157090&idx=2&sn=27db2f0d448fbdd9716e8e17c1483549)
 - 看雪学苑
   - [2026 KCTF | 《第九题：丑寅同墟·星海抉择》设计思路及解析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618893&idx=1&sn=efa7ac8d77b3f8038f3dbfaad6e4f49f)
   - [首个Android车机专项木马曝光：竟通过系统更新传播](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618893&idx=2&sn=87b86ef2b5b874ebb02680b120265e8f)
   - [结课 | 已全部更新！基于CVD的云手机定制与风控分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618893&idx=3&sn=55767e655f4cfe7c7417fe293db66b78)
-- 情报分析师
-  - [可靠来源也会提供错误信息！如何分开评价信源与内容](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569181&idx=1&sn=dc8c4c6462ecaf299a657dfde3621702)
-- 网安国际
-  - [第一届CCF网络与系统安全大会在杭州成功举办](https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652318585&idx=1&sn=ca827b2b4167d70ef9fb80c2b3c3521b)
+- 丁爸 情报分析师的工具箱
+  - [【开源情报】中央情报局如何在东南亚开展活动](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157090&idx=1&sn=9b5df3f2bc02951239208ffa1c464499)
+  - [【开源报告】国际间谍博物馆（International Spy Museum）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157090&idx=2&sn=27db2f0d448fbdd9716e8e17c1483549)
+- D3Lab
+  - [I cyber criminali sfruttano Free Flow](https://www.d3lab.net/i-cyber-criminali-sfruttano-free-flow/)
+- Lenny Zeltser
+  - [The Security Autonomy Matrix: Deciding AI Authority](https://zeltser.com/security-autonomy-matrix)
 - Krypt3ia
   - [Weekly all-source espionage brief](https://krypt3ia.wordpress.com/2026/08/24/weekly-all-source-espionage-brief/)
 - CNVD漏洞平台
   - [CNVD漏洞周报2026年第33期](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497211&idx=1&sn=e500b156de4162c48c92c789fbcc7997)
   - [上周关注度较高的产品安全漏洞(20260817-20260823)](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497211&idx=2&sn=dfc810b8ce603541e6379dc692cf2178)
-- D3Lab
-  - [I cyber criminali sfruttano Free Flow](https://www.d3lab.net/i-cyber-criminali-sfruttano-free-flow/)
-- Troy Hunt's Blog
-  - [Weekly Update 518: IoT Doorlock Nirvana with UniFi](https://www.troyhunt.com/weekly-update-518/)
-- SANS Internet Storm Center, InfoCON: green
-  - [DOUBLECUP's PNG Payload, (Mon, Aug 24th)](https://isc.sans.edu/diary/rss/33274)
-  - [ISC Stormcast For Monday, August 24th, 2026 https://isc.sans.edu/podcastdetail/10064, (Mon, Aug 24th)](https://isc.sans.edu/diary/rss/33276)
 - Schneier on Security
   - [Criminal Deception in Silicon Valley](https://www.schneier.com/blog/archives/2026/08/criminal-deception-in-silicon-valley.html)
 - TG Soft Software House - News
   - [<strong>2026W34 Report</strong> settimanale =&gt; 17/08 2K26 - 23/08 2K26&nbsp;<strong>campagne MalSpam</strong> target<strong> Italia</strong>](http://www.tgsoft.it/italy/news_archivio.asp?id=1763)
   - [<strong>2026W33 Report</strong> settimanale =&gt; 10/08 2K26 - 16/08 2K26&nbsp;<strong>campagne MalSpam</strong> target<strong> Italia</strong>](http://www.tgsoft.it/italy/news_archivio.asp?id=1762)
+- Troy Hunt's Blog
+  - [Weekly Update 518: IoT Doorlock Nirvana with UniFi](https://www.troyhunt.com/weekly-update-518/)
+- SANS Internet Storm Center, InfoCON: green
+  - [DOUBLECUP's PNG Payload, (Mon, Aug 24th)](https://isc.sans.edu/diary/rss/33274)
+  - [ISC Stormcast For Monday, August 24th, 2026 https://isc.sans.edu/podcastdetail/10064, (Mon, Aug 24th)](https://isc.sans.edu/diary/rss/33276)
 - The Hacker News
   - [Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt](https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html)
   - [Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning](https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html)
@@ -176,11 +176,6 @@
   - [Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor](https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html)
   - [The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk](https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html)
   - [UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit](https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html)
-- Lenny Zeltser
-  - [The Security Autonomy Matrix: Deciding AI Authority](https://zeltser.com/security-autonomy-matrix)
-- GRAHAM CLULEY
-  - [Malicious Firefox add-ons caught stealing cryptowallet seed phrases and browser credentials](https://www.bitdefender.com/en-us/blog/hotforsecurity/malicious-firefox-add-ons-stealing-cryptowallet-seed-phrases-browser-credentials)
-  - [Gunra ransomware: what you need to know](https://www.fortra.com/blog/gunra-ransomware-what-you-need-know)
 - KitPloit - PenTest Tools!
   - [kern](https://kitploit.com/en/tools/github/getkern/kern)
   - [slythestx](https://kitploit.com/en/tools/github/stuxctf/slythestx)
@@ -206,8 +201,6 @@
   - [miLazyCracker](https://kitploit.com/en/tools/github/nfc-tools/milazycracker)
   - [agent-bom v0.102.0](https://kitploit.com/en/posts/github-msaad00-agent-bom-v01020)
   - [RFIDIOt](https://kitploit.com/en/tools/github/adamlaurie/rfidiot)
-  - [libfreefare](https://kitploit.com/en/tools/github/nfc-tools/libfreefare)
-  - [foremost](https://kitploit.com/en/tools/github/korczis/foremost)
 - Security Affairs
   - [Cybercriminals Turn GTA VI Leaks Into Malware Bait](https://securityaffairs.com/197772/malware/cybercriminals-turn-gta-vi-leaks-into-malware-bait.html)
   - [Slovakia Warns of Cyber Risks in Road Speed Cameras](https://securityaffairs.com/197764/hacking/slovakia-warns-of-cyber-risks-in-road-speed-cameras.html)
@@ -215,5 +208,8 @@
   - [iAuthFlow v2: The $10,000 Phishing Toolkit That Survives Your Password Reset](https://securityaffairs.com/197748/cyber-crime/iauthflow-v2-the-10000-phishing-toolkit-that-survives-your-password-reset.html)
 - 安全419
   - [《网安行业深度观察系列》 | 网络安全行业投融资的理性审视与前瞻思考](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247554583&idx=1&sn=06bf1c2d133d54203a85c0721c3a1cb1)
+- GRAHAM CLULEY
+  - [Malicious Firefox add-ons caught stealing cryptowallet seed phrases and browser credentials](https://www.bitdefender.com/en-us/blog/hotforsecurity/malicious-firefox-add-ons-stealing-cryptowallet-seed-phrases-browser-credentials)
+  - [Gunra ransomware: what you need to know](https://www.fortra.com/blog/gunra-ransomware-what-you-need-know)
 - Security Weekly Podcast Network (Audio)
   - [Can employees safely use AI agents? AI pentesting agent liabilities, and the news - Rob Allen - ESW #473](http://sites.libsyn.com/18678/can-employees-safely-use-ai-agents-ai-pentesting-agent-liabilities-and-the-news-rob-allen-esw-473)
