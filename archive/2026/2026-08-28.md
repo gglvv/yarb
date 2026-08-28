@@ -1,14 +1,14 @@
 # 每日安全资讯（2026-08-28）
 
-- Microsoft Security Blog
-  - [​​​​​​What’s new in Microsoft Security: August 2026](https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/)
-- SecWiki News
-  - [SecWiki News 2026-08-27 Review](http://www.sec-wiki.com/?2026-08-27)
 - Recent Commits to cve:main
   - [Update Thu Aug 27 11:56:08 UTC 2026](https://github.com/trickest/cve/commit/ea673a226031bc550c60f1e0bf6d46d3e190eff9)
+- Microsoft Security Blog
+  - [​​​​​​What’s new in Microsoft Security: August 2026](https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/)
 - 安全客-有思想的安全新媒体
   - [Redis补丁被绕过了：最新RCE的PoC已全网公开，你的缓存服务器还在裸奔吗](https://www.anquanke.com/post/id/316025)
   - [科技云报到：Agent不省钱反而亏钱？你需要这位“魔术师”](https://www.anquanke.com/post/id/316019)
+- SecWiki News
+  - [SecWiki News 2026-08-27 Review](http://www.sec-wiki.com/?2026-08-27)
 - Tenable Blog
   - [How to build an exposure management program the business trusts: Lessons from Tenable’s CSO](https://www.tenable.com/blog/how-to-build-an-exposure-management-program-the-business-trusts-lessons-from-tenables-cso)
 - Kitploit
@@ -36,18 +36,6 @@
   - [aegis-latent-core](https://kitploit.com/en/tools/github/juanlunaia/aegis-latent-core)
   - [RDP-Guard](https://kitploit.com/en/tools/gitlab/siberanka/rdp-guard)
   - [hayduk](https://kitploit.com/en/tools/github/jolovicdev/hayduk)
-  - [Sentora](https://kitploit.com/en/tools/github/d3vhex/sentora)
-  - [keyhog v0.5.86](https://kitploit.com/en/posts/github-santhreal-keyhog-v0586)
-  - [droidground v1.0.14](https://kitploit.com/en/posts/github-secforce-droidground-v1014)
-  - [sandbox-runtime v0.0.74](https://kitploit.com/en/posts/github-anthropic-experimental-sandbox-runtime-v0074)
-  - [ApplicationInspector v1.10.1](https://kitploit.com/en/posts/github-microsoft-applicationinspector-v1101)
-  - [SkillSpector v2.10.0](https://kitploit.com/en/posts/github-nvidia-skillspector-v2100)
-  - [semgrep v1.175.0](https://kitploit.com/en/posts/github-semgrep-semgrep-v11750)
-  - [promptfoo v0.122.1](https://kitploit.com/en/posts/github-promptfoo-promptfoo-01221)
-  - [httrack v3.49.24](https://kitploit.com/en/posts/github-xroche-httrack-34924)
-  - [AppEnumGuard v1.2](https://kitploit.com/en/posts/github-kolbicz-appenumguard-v12)
-  - [DakshSCRA v0.38-beta](https://kitploit.com/en/posts/github-coffeeandsecurity-dakshscra-v038-beta)
-  - [cloudprober v0.14.5](https://kitploit.com/en/posts/github-cloudprober-cloudprober-v0145)
 - GuidePoint Security
   - [Hunting Abuse: Detecting Privilege Escalation Through the ADCS Database](https://www.guidepointsecurity.com/blog/detecting-privilege-escalaction-through-adcs/)
 - Malwarebytes
@@ -57,8 +45,17 @@
   - [New Instagram and Facebook rules set a default two-hour limit for teens](https://www.malwarebytes.com/blog/news/2026/08/new-instagram-and-facebook-rules-will-set-a-default-two-hour-daily-limit-for-teens)
 - Panda's Blog
   - [Java安全20年：从BlackHat20年议题看Java安全发展趋势](https://www.cnpanda.net/sec/java-security-blackhat-2002-2026.html)
-- Shostack & Friends Blog
-  - [Boundaries, Not Trust Boundaries (Threat Model Thursday)](https://shostack.org/blog/boundaries-threat-model-thursday/)
+- HackerNews
+  - [Avada WordPress 主题严重漏洞可实现零点击 RCE](http://0.0.0.0:8080/post/64607)
+  - [Boston Scientific 称网络攻击导致全球运营中断](http://0.0.0.0:8080/post/64606)
+  - [新型 GPUThor 攻击突破 NVIDIA ECC 保护实现 root 权限获取](http://0.0.0.0:8080/post/64605)
+  - [CISA 红队攻陷两家关键基础设施组织，一家毫无察觉](http://0.0.0.0:8080/post/64604)
+  - [Nimbus Manticore 扩展工具集：新增类 TWOSTROKE 后门与 SSH 隧道工具](http://0.0.0.0:8080/post/64603)
+  - [NovaCookies 活动滥用真实 Docusign 通知窃取 Microsoft 365 会话](http://0.0.0.0:8080/post/64602)
+- 黑鸟
+  - [浏览网页劫持本地 AI 智能体](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188310&idx=1&sn=d037430d718c37b91701a75cb3f5ca86)
+- 威努特安全网络
+  - [大模型和算力的选型与调优](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651143689&idx=1&sn=31d94ec6565ada63882975f0334caaac)
 - 奇客Solidot–传递最新科技情报
   - [一名微软工程师一个月的 AI 支出高达 2.8 万美元](https://www.solidot.org/story?sid=85216)
   - [Meta将支付 170 亿美元和解儿童隐私保护诉讼，将限制青少年在特定时间访问社媒](https://www.solidot.org/story?sid=85215)
@@ -70,39 +67,24 @@
   - [中尼边境泥石流灾害逾 1300 人失踪](https://www.solidot.org/story?sid=85209)
   - [亚马逊收购开源数据库 DuckDB 开发团队](https://www.solidot.org/story?sid=85208)
   - [新 Twitter.now 上线](https://www.solidot.org/story?sid=85207)
-  - [英伟达同意以 129 亿美元收购 Hugging Face](https://www.solidot.org/story?sid=85206)
+- Shostack & Friends Blog
+  - [Boundaries, Not Trust Boundaries (Threat Model Thursday)](https://shostack.org/blog/boundaries-threat-model-thursday/)
+- 微步在线研究响应中心
+  - [不是"核弹"。Log4j issue 4255 的FAQ](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508851&idx=1&sn=6d4abc77773fd4c209c7f88dcf8dbe6e)
 - 腾讯玄武实验室
   - [每日安全动态推送(26/8/27)](https://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&mid=2651960534&idx=1&sn=8a01a89a934021f179cc88cf5f29b27b)
-- HackerNews
-  - [Avada WordPress 主题严重漏洞可实现零点击 RCE](http://0.0.0.0:8080/post/64607)
-  - [Boston Scientific 称网络攻击导致全球运营中断](http://0.0.0.0:8080/post/64606)
-  - [新型 GPUThor 攻击突破 NVIDIA ECC 保护实现 root 权限获取](http://0.0.0.0:8080/post/64605)
-  - [CISA 红队攻陷两家关键基础设施组织，一家毫无察觉](http://0.0.0.0:8080/post/64604)
-  - [Nimbus Manticore 扩展工具集：新增类 TWOSTROKE 后门与 SSH 隧道工具](http://0.0.0.0:8080/post/64603)
-  - [NovaCookies 活动滥用真实 Docusign 通知窃取 Microsoft 365 会话](http://0.0.0.0:8080/post/64602)
-- 威努特安全网络
-  - [大模型和算力的选型与调优](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651143689&idx=1&sn=31d94ec6565ada63882975f0334caaac)
-- 黑鸟
-  - [浏览网页劫持本地 AI 智能体](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188310&idx=1&sn=d037430d718c37b91701a75cb3f5ca86)
 - 安全客
   - [Redis补丁被绕过了：最新RCE的PoC已全网公开，你的缓存服务器还在裸奔吗](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790421&idx=1&sn=04d34797f18ebbbcc719392803a5cade)
-- 代码卫士
-  - [OpenSSL 多个漏洞可导致服务器远程崩溃、堆内存损坏](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526978&idx=1&sn=0b79f23829d11d3ffdf826da6b5075d2)
-  - [SonicWall NetExtender 多个漏洞可用于以root身份写入任意文件](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526978&idx=2&sn=43af008fe7c471a0e023d7056f53e66d)
 - 安全内参
   - [知名医疗器械上市公司遭网络攻击：全球运营中断 预计数周才能恢复](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516487&idx=1&sn=5e38d92ebe9baa097e570f52c7b5f5d2)
   - [美国国家安全局举办非传统重聚活动吸引精英黑客重返TAO](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516487&idx=2&sn=ee540fe85ef729105ee850e1e68a51ad)
-- 微步在线研究响应中心
-  - [不是"核弹"。Log4j issue 4255 的FAQ](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508851&idx=1&sn=6d4abc77773fd4c209c7f88dcf8dbe6e)
-- 奇安信 CERT
-  - [Log4j2 Issue #4255 深度解析：技术真相与风险评估](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507249&idx=1&sn=abb209214149c740debd33859fd3e96d)
-- 奇安信威胁情报中心
-  - [npm 供应链双重威胁：AI 远控植入 + ClickFix 钓鱼存储](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520041&idx=1&sn=d6c2f6dff18ee2a3a81507b59e9f60b6)
-- ChaMd5安全团队
-  - [某国产PLC固件安全分析研究](https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247514453&idx=1&sn=620c8da5e32a1fc8c142be0092a5e0a6)
-- 看雪学苑
-  - [D3CTF 2026 d3llvm.apk 反调试定位与加密 SO的Dump](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618994&idx=2&sn=f6d8e52efe0c96ba3684bce3529c3d30)
-  - [Log4j2 新漏洞绕过安全白名单，部分部署可远程代码执行](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618994&idx=3&sn=0488a148cf4827e04a6ac7248fb80eea)
+- 代码卫士
+  - [OpenSSL 多个漏洞可导致服务器远程崩溃、堆内存损坏](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526978&idx=1&sn=0b79f23829d11d3ffdf826da6b5075d2)
+  - [SonicWall NetExtender 多个漏洞可用于以root身份写入任意文件](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247526978&idx=2&sn=43af008fe7c471a0e023d7056f53e66d)
+- 青衣十三楼飞花堂
+  - [已知正整数x、y，x²+y²=2025，求x+y](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489901&idx=1&sn=6a89b0a6b119a792f6af76b6b233b5fd)
+- 吾爱破解论坛
+  - [吾爱破解论坛网络诊断修复工具 v3.2 新增验证码异常修复](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144702&idx=1&sn=6bb514af5aac64ef49fbd1b72c0b66d4)
 - 中国信息安全
   - [前沿 | 汽车数据出境的安全风险演进及治理谱系建构](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265962&idx=1&sn=d7f8f8beb98093c52330822001c8e332)
   - [专家解读｜做强做优做大网信企业 以高质量发展扛起高水平科技自立自强时代使命](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265962&idx=2&sn=d005d169fed301572d4fc7ace8271e53)
@@ -111,8 +93,20 @@
   - [评论 | 开放共赢是人工智能发展的必由之路](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664265962&idx=5&sn=601b9348f4cec47e34982f1a2a5c07d5)
 - 微步在线
   - [2人团队，用Flocks全自动安全运营！](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650187785&idx=1&sn=6e3cded727785abec4375e15d23bab5d)
-- 青藤云安全
-  - [AI攻防备战报告：攻击可以买，防守只能自建](https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650851725&idx=1&sn=95c3457371369392343676c165b459ec)
+- 安全学术圈
+  - [行业会议｜第八届“纵横”网络空间安全创新论坛详细议题](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495854&idx=1&sn=eca06ff0e907a75962e7399d2d0b1923)
+- 安全圈
+  - [【安全圈】GPUThor击穿N卡ECC防线：普通算力夺宿主Root](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078465&idx=1&sn=6803572c0747bad6b3bca99e1d770ca7)
+  - [【安全圈】CISA通报网关与数据库6大漏洞遭在野利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078465&idx=2&sn=40dc01c9d631dc45a8ac7ea0406d1a8f)
+  - [【安全圈】FBI捣毁黑客隐蔽跳板军火库斩断潜伏链路](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078465&idx=3&sn=649134b790a408e1586536a05fdbc592)
+- 奇安信 CERT
+  - [Log4j2 Issue #4255 深度解析：技术真相与风险评估](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507249&idx=1&sn=abb209214149c740debd33859fd3e96d)
+- 数世咨询
+  - [微软 Defender 自带的驱动程序可能被恶意利用，在启动时删除安全软件](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543807&idx=1&sn=253c60961a081a59c2f6da0ad03daa09)
+  - [三十年网安跃迁：从产业迭代看国产ASIC的使命与担当](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543807&idx=2&sn=de5a3240e3e5edbd0981ff0746d08eef)
+- 看雪学苑
+  - [D3CTF 2026 d3llvm.apk 反调试定位与加密 SO的Dump](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618994&idx=2&sn=f6d8e52efe0c96ba3684bce3529c3d30)
+  - [Log4j2 新漏洞绕过安全白名单，部分部署可远程代码执行](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618994&idx=3&sn=0488a148cf4827e04a6ac7248fb80eea)
 - 极客公园
   - [编辑部来了 AI 实习生｜千问入职 20 天，我给它写了一份实习小结](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112790&idx=1&sn=d0ad1e4770af28b086658469fe0f3e3d)
   - [一年卖出 3 万台后，极壳即将发布下一代外骨骼](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112782&idx=1&sn=cb0fe63a5ca2a8d04711cb7cf37bd645)
@@ -120,63 +114,60 @@
 - 安全牛
   - [你的 ChatGPT 可能正在被“安静入侵”：AI使用者的15 分钟黄金止损手册](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142477&idx=1&sn=c1c013bdc1feaba8a2df1e2eb95fbded)
   - [7 项网络安全国家标准征求意见稿公开征求意见；逆向工程发现：Microsoft Paint 内置强制 InvisMark 隐形盲水印，用户无法关闭| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142477&idx=2&sn=269a11fe2db5a3c9264f1799db190113)
-- 云鼎实验室
-  - [以无厚入有间：CodeBuddy Security的漏洞发现思路与实践](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497935&idx=1&sn=4a79fa45de221104b0195b8d0bcd0234)
-- 吾爱破解论坛
-  - [吾爱破解论坛网络诊断修复工具 v3.2 新增验证码异常修复](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144702&idx=1&sn=6bb514af5aac64ef49fbd1b72c0b66d4)
-- 君哥的体历
-  - [情报洞察｜美国陆军启动“狮鹫项目”以构建AI智能体网络自主防御体系](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492547&idx=1&sn=31a7f62db860ec7acd09eaefaeb5233e)
+- 奇安信威胁情报中心
+  - [npm 供应链双重威胁：AI 远控植入 + ClickFix 钓鱼存储](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520041&idx=1&sn=d6c2f6dff18ee2a3a81507b59e9f60b6)
+- 青藤云安全
+  - [AI攻防备战报告：攻击可以买，防守只能自建](https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650851725&idx=1&sn=95c3457371369392343676c165b459ec)
 - 火绒安全
   - [开学季这些"套路"要当心 火绒护航开学新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536866&idx=1&sn=9fcd945343a550f6a4fb8e253fc71bb2)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247536866&idx=2&sn=b210c17b21e3ebe4e502adc149223803)
-- 安全学术圈
-  - [行业会议｜第八届“纵横”网络空间安全创新论坛详细议题](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495854&idx=1&sn=eca06ff0e907a75962e7399d2d0b1923)
-- 安全圈
-  - [【安全圈】GPUThor击穿N卡ECC防线：普通算力夺宿主Root](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078465&idx=1&sn=6803572c0747bad6b3bca99e1d770ca7)
-  - [【安全圈】CISA通报网关与数据库6大漏洞遭在野利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078465&idx=2&sn=40dc01c9d631dc45a8ac7ea0406d1a8f)
-  - [【安全圈】FBI捣毁黑客隐蔽跳板军火库斩断潜伏链路](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078465&idx=3&sn=649134b790a408e1586536a05fdbc592)
 - 安全分析与研究
   - [EDR架构与检测机制](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497067&idx=1&sn=d23a5ec63b908dd0db297e9b68b3209a)
-- 国家互联网应急中心CNCERT
-  - [中国—东盟网络安全应急响应能力建设研讨会在北京举办](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502071&idx=1&sn=40c30dbc916c2ee8c1873c9af86e69b5)
 - 复旦白泽战队
   - [办公智能体大战正酣，它能安全地操作你的文件吗？（上）](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247499683&idx=1&sn=713e61025310a75ef0357d8c31a7115e)
-- 数世咨询
-  - [微软 Defender 自带的驱动程序可能被恶意利用，在启动时删除安全软件](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543807&idx=1&sn=253c60961a081a59c2f6da0ad03daa09)
-  - [三十年网安跃迁：从产业迭代看国产ASIC的使命与担当](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543807&idx=2&sn=de5a3240e3e5edbd0981ff0746d08eef)
-- 美团技术团队
-  - [GeoRA: 为RLVR设计的LoRA——ACL 2026杰出论文解析](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651783211&idx=1&sn=ebc6f935700052ebc5ab702911ce8449)
-  - [校招｜美团无人机2027届北斗计划热招中](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651783211&idx=2&sn=68dc28cbb4d361a2d3fffc92ff03dcf3)
-- 威胁猎人Threat Hunter
-  - [恶意手机号产业链调研：海外手机号成为黑产批量注册和换号验证的重要资源](https://mp.weixin.qq.com/s?__biz=MzI3NDY3NDUxNg==&mid=2247505131&idx=1&sn=ba2c8fbd9ca0ce910e36385a61500f46)
+- ChaMd5安全团队
+  - [某国产PLC固件安全分析研究](https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247514453&idx=1&sn=620c8da5e32a1fc8c142be0092a5e0a6)
+- 云鼎实验室
+  - [以无厚入有间：CodeBuddy Security的漏洞发现思路与实践](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247497935&idx=1&sn=4a79fa45de221104b0195b8d0bcd0234)
 - 情报分析师
   - [尼泊尔"8·26"山洪的地理情报复盘——卫星图前后对比曝光之后，我们到底看见了什么？](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569279&idx=1&sn=120c8db43dfbc924b928d67703188a45)
   - [新西兰情报局发布《安全威胁环境》报告，外国国家及其代理人针对知识产权、创新技术与侨民社区的活动对我在太平洋及海外利益的关联风险](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569279&idx=2&sn=9e84d0decfbc3d8391872da18c514a70)
-- 表图
-  - [从奖励黑客到超级对齐：AI 为何会完成任务，却背离人类意图](https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247485161&idx=1&sn=1c3e5f54f27433991d8930d6c97b8b97)
-- Yak Project
-  - [牛来，速归！Memfit接入：GLM-5.3；Qwen3.8-Flash](https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247530123&idx=1&sn=479bf6c20dba87a9a83ac70af777ffc3)
-- Microsoft Security Blog
-  - [​​​​​​What’s new in Microsoft Security: August 2026](https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/)
 - 字节跳动技术团队
   - [ADrive 跨产品协作实践：文件通了，Agent 就通了](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521712&idx=1&sn=584ee46d8b9021b56004a8a7e318e2d0)
-- RedTeam
-  - [用 AI 搞 Google VRP 赚了50万美金](https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484692&idx=1&sn=da658538620fddc879c274ba5f08c6bb)
-- SANS Internet Storm Center, InfoCON: green
-  - [A polymorphic phishing page (that occasionally breaks itself), (Thu, Aug 27th)](https://isc.sans.edu/diary/rss/33290)
-  - [ISC Stormcast For Thursday, August 27th, 2026 https://isc.sans.edu/podcastdetail/10070, (Thu, Aug 27th)](https://isc.sans.edu/diary/rss/33286)
+- 君哥的体历
+  - [情报洞察｜美国陆军启动“狮鹫项目”以构建AI智能体网络自主防御体系](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492547&idx=1&sn=31a7f62db860ec7acd09eaefaeb5233e)
+- 丁爸 情报分析师的工具箱
+  - [【开源报告】美国国家安全局恢复 “特定入侵行动办公室”](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157205&idx=1&sn=4db45c88b7b3053048b2a897ef76ebdc)
+  - [【开源报告】美国特别入侵行动办公室人员梳理调研报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157205&idx=2&sn=17c103d14b9d55e955f4b7ad636f9c2a)
+- 表图
+  - [从奖励黑客到超级对齐：AI 为何会完成任务，却背离人类意图](https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247485161&idx=1&sn=1c3e5f54f27433991d8930d6c97b8b97)
+- 国家互联网应急中心CNCERT
+  - [中国—东盟网络安全应急响应能力建设研讨会在北京举办](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502071&idx=1&sn=40c30dbc916c2ee8c1873c9af86e69b5)
 - cavallette
   - [[REPOST] The Server Called Paranoia: Defend Autistici/Inventati Before September 25](https://cavallette.noblogs.org/2026/08/10083)
-- LastKnight.com Feed
-  - [META HA VINTO: la multa è solo il prezzo](https://mgpf.it/2026/08/27/meta-ha-vinto.html)
+- 威胁猎人Threat Hunter
+  - [恶意手机号产业链调研：海外手机号成为黑产批量注册和换号验证的重要资源](https://mp.weixin.qq.com/s?__biz=MzI3NDY3NDUxNg==&mid=2247505131&idx=1&sn=ba2c8fbd9ca0ce910e36385a61500f46)
+- Yak Project
+  - [牛来，速归！Memfit接入：GLM-5.3；Qwen3.8-Flash](https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247530123&idx=1&sn=479bf6c20dba87a9a83ac70af777ffc3)
+- Chaos Computer Club - last 100 events feed
+  - [Project TEMPA v2: Getting Phon(e)key again with Tesla's Phone-as-a-Key technology (hackmas2026)](https://cdn.media.ccc.de/events/hackmas/2026/h264-sd/hackmas2026-579323725-eng-Project_TEMPA_v2_Getting_Phon_e_key_again_with_Teslas_Phone-as-a-Key_technology_sd.mp4)
+  - [Basics of Personal Information Management: Finding the best tool(s) (hackmas2026)](https://cdn.media.ccc.de/events/hackmas/2026/h264-sd/hackmas2026-1458328107-eng-Basics_of_Personal_Information_Management_Finding_the_best_tool_s_sd.mp4)
+  - [Das AUR wird angegriffen. Und jetzt? (hackmas2026)](https://cdn.media.ccc.de/events/hackmas/2026/h264-sd/hackmas2026-322312250-deu-Das_AUR_wird_angegriffen_Und_jetzt_sd.mp4)
+- Microsoft Security Blog
+  - [​​​​​​What’s new in Microsoft Security: August 2026](https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/)
 - Schneier on Security
   - [LLM-Based Social Engineering Scams](https://www.schneier.com/blog/archives/2026/08/llm-based-social-engineering-scams.html)
+- 美团技术团队
+  - [GeoRA: 为RLVR设计的LoRA——ACL 2026杰出论文解析](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651783211&idx=1&sn=ebc6f935700052ebc5ab702911ce8449)
+  - [校招｜美团无人机2027届北斗计划热招中](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651783211&idx=2&sn=68dc28cbb4d361a2d3fffc92ff03dcf3)
 - Future of Tech and Security: Strategy & Innovation with Raffy
   - [Strategy Is Not the Value-Creation Plan](https://raffy.ch/blog/2026/08/27/strategy-is-not-the-value-creation-plan/)
+- RedTeam
+  - [用 AI 搞 Google VRP 赚了50万美金](https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484692&idx=1&sn=da658538620fddc879c274ba5f08c6bb)
 - D3Lab
   - [Phishing a danno del Registro delle Imprese](https://www.d3lab.net/phishing-a-danno-del-registro-delle-imprese/)
-- GRAHAM CLULEY
-  - [US Navy tells sailors and their families: scrub your social media, enemies are watching](https://www.bitdefender.com/en-us/blog/hotforsecurity/us-navy-sailors-families-scrub-social-media-enemies-watching)
+- Tor Project blog
+  - [New Alpha Release: Tor Browser 16.0a10](https://blog.torproject.org/new-alpha-release-tor-browser-160a10/)
 - The Hacker News
   - [OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face](https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html)
   - [Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE](https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html)
@@ -189,18 +180,9 @@
   - [GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address](https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html)
   - [New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access](https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html)
   - [CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs](https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html)
-- Security Affairs
-  - [Dark Caracal Deploys New Go Malware With Ethereum-Based C2 Fallback](https://securityaffairs.com/197948/apt/dark-caracal-deploys-new-go-malware-with-ethereum-based-c2-fallback.html)
-  - [Australian Police Charge Two Over TeamPCP Credential Theft](https://securityaffairs.com/197929/security/two-arrests-one-supply-chain-attack-and-a-lot-of-stolen-credentials.html)
-  - [Meta to Pay Up to $18B Over Teen Social Media Use](https://securityaffairs.com/197914/laws-and-regulations/meta-to-pay-up-to-18b-over-teen-social-media-use.html)
-  - [CISA Warns Water Utilities: Find Your Exposed PLCs Before Attackers Do](https://securityaffairs.com/197891/ics-scada/cisa-warns-water-utilities-find-your-exposed-plcs-before-attackers-do.html)
-  - [OpenAI banned Russian ChatGPT accounts backing covert influence operation](https://securityaffairs.com/197878/intelligence/openai-banned-russian-chatgpt-accounts-backing-covert-influence-operation.html)
-- Security Weekly Podcast Network (Audio)
-  - [Hacking All The Devices, with AI? - Rob Allen - PSW #941](http://sites.libsyn.com/18678/hacking-all-the-devices-with-ai-rob-allen-psw-941)
-- Krebs on Security
-  - [Two Alleged ‘TeamPCP’ Hackers Arrested in Australia](https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/)
-- Boschko Security Blog
-  - [UniBLEed: Unauthenticated Root RCE on Any Unitree G1 Humanoid Robot Within Bluetooth Range](https://boschko.ca/g1-ble-rce/)
+- SANS Internet Storm Center, InfoCON: green
+  - [A polymorphic phishing page (that occasionally breaks itself), (Thu, Aug 27th)](https://isc.sans.edu/diary/rss/33290)
+  - [ISC Stormcast For Thursday, August 27th, 2026 https://isc.sans.edu/podcastdetail/10070, (Thu, Aug 27th)](https://isc.sans.edu/diary/rss/33286)
 - KitPloit - PenTest Tools!
   - [AIDebug](https://kitploit.com/en/tools/github/anpa1200/aidebug)
   - [llm-agent-testbed](https://kitploit.com/en/tools/github/pie-script/llm-agent-testbed)
@@ -226,15 +208,18 @@
   - [aegis-latent-core](https://kitploit.com/en/tools/github/juanlunaia/aegis-latent-core)
   - [RDP-Guard](https://kitploit.com/en/tools/gitlab/siberanka/rdp-guard)
   - [hayduk](https://kitploit.com/en/tools/github/jolovicdev/hayduk)
-  - [Sentora](https://kitploit.com/en/tools/github/d3vhex/sentora)
-  - [keyhog v0.5.86](https://kitploit.com/en/posts/github-santhreal-keyhog-v0586)
-  - [droidground v1.0.14](https://kitploit.com/en/posts/github-secforce-droidground-v1014)
-  - [sandbox-runtime v0.0.74](https://kitploit.com/en/posts/github-anthropic-experimental-sandbox-runtime-v0074)
-  - [ApplicationInspector v1.10.1](https://kitploit.com/en/posts/github-microsoft-applicationinspector-v1101)
-  - [SkillSpector v2.10.0](https://kitploit.com/en/posts/github-nvidia-skillspector-v2100)
-  - [semgrep v1.175.0](https://kitploit.com/en/posts/github-semgrep-semgrep-v11750)
-  - [promptfoo v0.122.1](https://kitploit.com/en/posts/github-promptfoo-promptfoo-01221)
-  - [httrack v3.49.24](https://kitploit.com/en/posts/github-xroche-httrack-34924)
-  - [AppEnumGuard v1.2](https://kitploit.com/en/posts/github-kolbicz-appenumguard-v12)
-  - [DakshSCRA v0.38-beta](https://kitploit.com/en/posts/github-coffeeandsecurity-dakshscra-v038-beta)
-  - [cloudprober v0.14.5](https://kitploit.com/en/posts/github-cloudprober-cloudprober-v0145)
+- Security Affairs
+  - [Dark Caracal Deploys New Go Malware With Ethereum-Based C2 Fallback](https://securityaffairs.com/197948/apt/dark-caracal-deploys-new-go-malware-with-ethereum-based-c2-fallback.html)
+  - [Australian Police Charge Two Over TeamPCP Credential Theft](https://securityaffairs.com/197929/security/two-arrests-one-supply-chain-attack-and-a-lot-of-stolen-credentials.html)
+  - [Meta to Pay Up to $18B Over Teen Social Media Use](https://securityaffairs.com/197914/laws-and-regulations/meta-to-pay-up-to-18b-over-teen-social-media-use.html)
+  - [CISA Warns Water Utilities: Find Your Exposed PLCs Before Attackers Do](https://securityaffairs.com/197891/ics-scada/cisa-warns-water-utilities-find-your-exposed-plcs-before-attackers-do.html)
+- Krebs on Security
+  - [Two Alleged ‘TeamPCP’ Hackers Arrested in Australia](https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/)
+- GRAHAM CLULEY
+  - [US Navy tells sailors and their families: scrub your social media, enemies are watching](https://www.bitdefender.com/en-us/blog/hotforsecurity/us-navy-sailors-families-scrub-social-media-enemies-watching)
+- LastKnight.com Feed
+  - [META HA VINTO: la multa è solo il prezzo](https://mgpf.it/2026/08/27/meta-ha-vinto.html)
+- Boschko Security Blog
+  - [UniBLEed: Unauthenticated Root RCE on Any Unitree G1 Humanoid Robot Within Bluetooth Range](https://boschko.ca/g1-ble-rce/)
+- Security Weekly Podcast Network (Audio)
+  - [Hacking All The Devices, with AI? - Rob Allen - PSW #941](http://sites.libsyn.com/18678/hacking-all-the-devices-with-ai-rob-allen-psw-941)
