@@ -1,5 +1,9 @@
 # 每日安全资讯（2026-08-30）
 
+- SecWiki News
+  - [SecWiki News 2026-08-29 Review](http://www.sec-wiki.com/?2026-08-29)
+- Der Flounder
+  - [Checking APNS communication on macOS Tahoe](https://derflounder.wordpress.com/2026/08/29/checking-apns-communication-on-macos-tahoe/)
 - Recent Commits to cve:main
   - [Update Sat Aug 29 12:12:38 UTC 2026](https://github.com/trickest/cve/commit/031b718845d41ea82730c4bf094e6d1d7a232402)
 - InfoSec Write-ups - Medium
@@ -8,10 +12,6 @@
   - [Operation RepoGhost: Exposing a Russian-Linked Malware Campaign Hiding in GitHub’s Open-Source…](https://infosecwriteups.com/operation-repoghost-exposing-a-russian-linked-malware-campaign-hiding-in-githubs-open-source-85a5dd6fa01e?source=rss----7b722bfd1b8d---4)
 - Microsoft Security Blog
   - [TerminalFix campaign deploys a reverse tunnel through multistage intrusion](https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/)
-- SecWiki News
-  - [SecWiki News 2026-08-29 Review](http://www.sec-wiki.com/?2026-08-29)
-- Der Flounder
-  - [Checking APNS communication on macOS Tahoe](https://derflounder.wordpress.com/2026/08/29/checking-apns-communication-on-macos-tahoe/)
 - Bug Bounty in InfoSec Write-ups on Medium
   - [How I Got My Highest Payout](https://infosecwriteups.com/how-i-got-my-highest-payout-466213a1cb47?source=rss----7b722bfd1b8d--bug_bounty)
 - Kitploit
@@ -48,33 +48,38 @@
   - [长鑫存储官宣LPDDR6量产 小米18 Fold搭载](https://blog.upx8.com/%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%E5%AE%98%E5%AE%A3LPDDR6%E9%87%8F%E4%BA%A7-%E5%B0%8F%E7%B1%B318-Fold%E6%90%AD%E8%BD%BD)
 - 黑鸟
   - [大学泄露文件曝光俄军网络战人才流水线，鲍曼第四部门如何为GRU输送黑客](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188342&idx=1&sn=d4f0fc3ea2569af4e9c3902c23c1e90c)
-- 安全圈
-  - [【安全圈】宇树人形机器人曝Root漏洞可蓝牙近场劫持](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078497&idx=1&sn=3fbeaecddf79cb3f00d718cff2d065ba)
-  - [【安全圈】ZBT路由器曝出厂双后门可未授权获Root权限](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078497&idx=2&sn=ecfcde083da2ce793130fc1236640841)
-  - [【安全圈】ServiceNow曝3个满分10分漏洞可未授权RCE](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078497&idx=3&sn=65f6ba777b56d6ba9c3032a22d80cb2d)
 - 看雪学苑
   - [HTB Nimbus渗透测试靶机 Writeup](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619031&idx=1&sn=c049e90e9e21461f5ce9db0847b5772d)
   - [抢先体验！看雪课程播放器正式上线，安全高效双升级](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619031&idx=2&sn=525db3183f77b1376edf7870a66052fb)
 - 安全分析与研究
   - [模块伪装与调用栈欺骗](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497075&idx=1&sn=44a1fca0dd21eb1fe131a0a57d45b4cd)
-- 表图
-  - [网安公司的AI收入，到底有多少了？](https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247485179&idx=1&sn=efbd59be00d8c43e14ebb6b1fb309634)
+- 安全圈
+  - [【安全圈】宇树人形机器人曝Root漏洞可蓝牙近场劫持](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078497&idx=1&sn=3fbeaecddf79cb3f00d718cff2d065ba)
+  - [【安全圈】ZBT路由器曝出厂双后门可未授权获Root权限](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078497&idx=2&sn=ecfcde083da2ce793130fc1236640841)
+  - [【安全圈】ServiceNow曝3个满分10分漏洞可未授权RCE](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078497&idx=3&sn=65f6ba777b56d6ba9c3032a22d80cb2d)
+- 极客公园
+  - [人类，越来越难理解 AI](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112913&idx=1&sn=df9387b5e54be2b2efe0ad0df7a0a265)
+  - [399 美元的小黄鸭，藏着 Hugging Face 最大的野心](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112866&idx=1&sn=644c0c738af6eeaa293d4e2ca465c5e5)
+  - [Anthropic 将发招股书，预计募资 1300 亿美元超越 SpaceX；腾讯发布 HY4 preview 模型；科隆游戏展多个展位失窃 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112908&idx=1&sn=b6dc01b00b38744077e1d24781bbf20f)
 - Chaos Computer Club - last 100 events feed
   - [Closing (hackmas2026)](https://cdn.media.ccc.de/events/hackmas/2026/h264-sd/hackmas2026-347299728-deu-Closing_sd.mp4)
-- Microsoft Security Blog
-  - [TerminalFix campaign deploys a reverse tunnel through multistage intrusion](https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/)
 - 娜璋AI安全之家
   - [十年磨一剑！《Python文本挖掘和知识发现》重磅上市：从文本挖掘到大模型，探索知识发现新范式](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247503108&idx=1&sn=d711070e998fed05f6474e90ae9a1cf8)
-- IT Service Management News
-  - [OWASP GenAI LLM Top 10 2026](http://blog.cesaregallotti.it/2026/08/owasp-genai-llm-top-10-2026.html)
-  - [Linee guida CISA sull'esposizione su Internet](http://blog.cesaregallotti.it/2026/08/linee-guida-cisa-sullesposizione-su.html)
 - cavallette
   - [Comunicato stampa Autistici / Inventati 29.8.2026](https://cavallette.noblogs.org/2026/08/10093)
   - [Aggiornamento situazione Noblogs / Noblogs status update](https://cavallette.noblogs.org/2026/08/10092)
-- Security Affairs
-  - [Hack One Robot, Reach the Next: Unitree G1 Security Flaws](https://securityaffairs.com/198085/hacking/hack-one-robot-reach-the-next-unitree-g1-security-flaws.html)
-  - [Rhysida Ransomware Group Targets Berlin Government Ahead of Vote](https://securityaffairs.com/198064/cyber-crime/rhysida-ransomware-group-targets-berlin-government-ahead-of-vote.html)
-  - [Philippine Nuclear and Naval Targets Hit by Suspected Chinese Operator](https://securityaffairs.com/198041/intelligence/philippine-nuclear-and-naval-targets-hit-by-suspected-chinese-operator.html)
+- Microsoft Security Blog
+  - [TerminalFix campaign deploys a reverse tunnel through multistage intrusion](https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/)
+- Over Security
+  - [Anthropic is cutting Claude Code's current weekly limits by 17%](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/)
+  - [Brave browser adds email aliases to help users evade tracking](https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/)
+- 表图
+  - [网安公司的AI收入，到底有多少了？](https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247485179&idx=1&sn=efbd59be00d8c43e14ebb6b1fb309634)
+- IT Service Management News
+  - [OWASP GenAI LLM Top 10 2026](http://blog.cesaregallotti.it/2026/08/owasp-genai-llm-top-10-2026.html)
+  - [Linee guida CISA sull'esposizione su Internet](http://blog.cesaregallotti.it/2026/08/linee-guida-cisa-sullesposizione-su.html)
+- The Hacker News
+  - [Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE](https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html)
 - KitPloit - PenTest Tools!
   - [age v1.3.2](https://kitploit.com/en/posts/github-filosottile-age-v132)
   - [CrackMeZ3S-CTF-CrackMe-Tutorial](https://kitploit.com/en/tools/github/pelock/crackmez3s-ctf-crackme-tutorial)
@@ -93,12 +98,7 @@
   - [ziti v2.0.4](https://kitploit.com/en/posts/github-openziti-ziti-v204)
 - Arturo Di Corinto
   - [SEGNALAZIONI GUERRA PROFONDA sulla stampa italiana](https://dicorinto.it/articoli/recensioni/segnalazioni-guerra-profonda-sulla-stampa-italiana/)
-- Over Security
-  - [Anthropic is cutting Claude Code's current weekly limits by 17%](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/)
-  - [Brave browser adds email aliases to help users evade tracking](https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/)
-- The Hacker News
-  - [Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE](https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html)
-- 极客公园
-  - [人类，越来越难理解 AI](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112913&idx=1&sn=df9387b5e54be2b2efe0ad0df7a0a265)
-  - [399 美元的小黄鸭，藏着 Hugging Face 最大的野心](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112866&idx=1&sn=644c0c738af6eeaa293d4e2ca465c5e5)
-  - [Anthropic 将发招股书，预计募资 1300 亿美元超越 SpaceX；腾讯发布 HY4 preview 模型；科隆游戏展多个展位失窃 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112908&idx=1&sn=b6dc01b00b38744077e1d24781bbf20f)
+- Security Affairs
+  - [Hack One Robot, Reach the Next: Unitree G1 Security Flaws](https://securityaffairs.com/198085/hacking/hack-one-robot-reach-the-next-unitree-g1-security-flaws.html)
+  - [Rhysida Ransomware Group Targets Berlin Government Ahead of Vote](https://securityaffairs.com/198064/cyber-crime/rhysida-ransomware-group-targets-berlin-government-ahead-of-vote.html)
+  - [Philippine Nuclear and Naval Targets Hit by Suspected Chinese Operator](https://securityaffairs.com/198041/intelligence/philippine-nuclear-and-naval-targets-hit-by-suspected-chinese-operator.html)
