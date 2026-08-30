@@ -1,9 +1,7 @@
 # 每日安全资讯（2026-08-30）
 
-- Recent Commits to cve:main
-  - [Update Sat Aug 29 12:12:38 UTC 2026](https://github.com/trickest/cve/commit/031b718845d41ea82730c4bf094e6d1d7a232402)
-- SecWiki News
-  - [SecWiki News 2026-08-29 Review](http://www.sec-wiki.com/?2026-08-29)
+- Der Flounder
+  - [Checking APNS communication on macOS Tahoe](https://derflounder.wordpress.com/2026/08/29/checking-apns-communication-on-macos-tahoe/)
 - InfoSec Write-ups - Medium
   - [Hunting Down Hackers: Incident Response with Wireshark](https://infosecwriteups.com/hunting-down-hackers-incident-response-with-wireshark-dad8110b74e9?source=rss----7b722bfd1b8d---4)
   - [[HS] Dark Writeup](https://infosecwriteups.com/hs-dark-writeup-022749c6f241?source=rss----7b722bfd1b8d---4)
@@ -15,39 +13,10 @@
   - [Hacker Holidays 2026: Day 11 Walkthrough (Infinity Pool)](https://infosecwriteups.com/hacker-holidays-2026-day-11-walkthrough-infinity-pool-76267e802804?source=rss----7b722bfd1b8d---4)
   - [[OFFSEC] Stapler Writeup](https://infosecwriteups.com/offsec-stapler-writeup-d7e5f4600a0a?source=rss----7b722bfd1b8d---4)
   - [How I Got My Highest Payout](https://infosecwriteups.com/how-i-got-my-highest-payout-466213a1cb47?source=rss----7b722bfd1b8d---4)
-- Sploitus.com Exploits RSS Feed
-  - [oathkeeper exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ORY-OATHKEEPER&utm_source=rss&utm_medium=rss)
-  - [ultralytics exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ULTRALYTICS-ULTRALYTICS&utm_source=rss&utm_medium=rss)
-  - [stringsifter exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MANDIANT-STRINGSIFTER&utm_source=rss&utm_medium=rss)
-  - [CVE-2023-21716 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-XNUVERS007-CVE-2023-21716&utm_source=rss&utm_medium=rss)
-  - [CVE-2019-11043 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JAS502N-CVE-2019-11043&utm_source=rss&utm_medium=rss)
-  - [WHP exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-51X-WHP&utm_source=rss&utm_medium=rss)
-  - [prowler exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PROWLER-CLOUD-PROWLER&utm_source=rss&utm_medium=rss)
-  - [hacker-scripts exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NARKOZ-HACKER-SCRIPTS&utm_source=rss&utm_medium=rss)
-  - [Phisher-man exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FDX100-PHISHER-MAN&utm_source=rss&utm_medium=rss)
-  - [KrbRelay exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CUBE0X0-KRBRELAY&utm_source=rss&utm_medium=rss)
-  - [dawgmon exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ANVILSECURE-DAWGMON&utm_source=rss&utm_medium=rss)
-  - [Klyda exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HCBAKER-KLYDA&utm_source=rss&utm_medium=rss)
-  - [Puwr exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HCBAKER-PUWR&utm_source=rss&utm_medium=rss)
-  - [cve-2019-6453-poc exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PROOFOFCALC-CVE-2019-6453-POC&utm_source=rss&utm_medium=rss)
-  - [dropengine exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-S0LST1C3-DROPENGINE&utm_source=rss&utm_medium=rss)
-  - [chapcrack exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MOXIE0-CHAPCRACK&utm_source=rss&utm_medium=rss)
-  - [KerberosRun exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DEV-2NULL-KERBEROSRUN&utm_source=rss&utm_medium=rss)
-  - [houndsploit exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NICOLAS-CAROLO-HOUNDSPLOIT&utm_source=rss&utm_medium=rss)
-  - [CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SAUMYAJEETDAS-CVE-2023-46604-RCE-REVERSE-SHELL-APACHE-ACTIVEMQ&utm_source=rss&utm_medium=rss)
-  - [PenCrawLer exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-THEM4HD1-PENCRAWLER&utm_source=rss&utm_medium=rss)
-  - [evildork exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FRICCIOLOSA-RED-TEAM-EVILDORK&utm_source=rss&utm_medium=rss)
-  - [CVE-2022-34718-PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SECLABRESEARCHBV-CVE-2022-34718-POC&utm_source=rss&utm_medium=rss)
-  - [C4 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PROFESSIONALLYEVIL-C4&utm_source=rss&utm_medium=rss)
-  - [fhex exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ECHO-DEVIM-FHEX&utm_source=rss&utm_medium=rss)
-  - [PrintNightmare exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LY4K-PRINTNIGHTMARE&utm_source=rss&utm_medium=rss)
-  - [XposedFridaBridge exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MONKEYLORD-XPOSEDFRIDABRIDGE&utm_source=rss&utm_medium=rss)
-  - [loki exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GRAFANA-LOKI&utm_source=rss&utm_medium=rss)
-  - [uberscan exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BATCHMCNULTY-UBERSCAN&utm_source=rss&utm_medium=rss)
-  - [custom-bytecode-analyzer exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FERGARRUI-CUSTOM-BYTECODE-ANALYZER&utm_source=rss&utm_medium=rss)
-  - [DuplicateDump exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HAGRID29-DUPLICATEDUMP&utm_source=rss&utm_medium=rss)
-- Der Flounder
-  - [Checking APNS communication on macOS Tahoe](https://derflounder.wordpress.com/2026/08/29/checking-apns-communication-on-macos-tahoe/)
+- SecWiki News
+  - [SecWiki News 2026-08-29 Review](http://www.sec-wiki.com/?2026-08-29)
+- Recent Commits to cve:main
+  - [Update Sat Aug 29 12:12:38 UTC 2026](https://github.com/trickest/cve/commit/031b718845d41ea82730c4bf094e6d1d7a232402)
 - Microsoft Security Blog
   - [TerminalFix campaign deploys a reverse tunnel through multistage intrusion](https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/)
 - Kitploit
@@ -71,6 +40,8 @@
 - CCC Event Blog
   - [FediDay 2026](https://events.ccc.de/2026/08/29/fediday2026/)
 - 奇客Solidot–传递最新科技情报
+  - [Pixel 11 取消了对硬件 MTE 的支持](https://www.solidot.org/story?sid=85233)
+  - [中国账户试图悄悄煽动美国反数据中心情绪？](https://www.solidot.org/story?sid=85232)
   - [女性在产后遭遇 PTSD](https://www.solidot.org/story?sid=85231)
   - [日韩上半年人口都出现增长](https://www.solidot.org/story?sid=85230)
   - [Debian 项目将允许以负责任的方式使用生成式 AI](https://www.solidot.org/story?sid=85229)
@@ -84,43 +55,37 @@
   - [长鑫存储官宣LPDDR6量产 小米18 Fold搭载](https://blog.upx8.com/%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%E5%AE%98%E5%AE%A3LPDDR6%E9%87%8F%E4%BA%A7-%E5%B0%8F%E7%B1%B318-Fold%E6%90%AD%E8%BD%BD)
   - [AI会冲垮软件业？Anthropic CEO：无意摧毁任何人](https://blog.upx8.com/AI%E4%BC%9A%E5%86%B2%E5%9E%AE%E8%BD%AF%E4%BB%B6%E4%B8%9A-Anthropic-CEO-%E6%97%A0%E6%84%8F%E6%91%A7%E6%AF%81%E4%BB%BB%E4%BD%95%E4%BA%BA)
   - [长鑫科技起诉五角大楼 要求移出涉军名单](https://blog.upx8.com/%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E8%B5%B7%E8%AF%89%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC-%E8%A6%81%E6%B1%82%E7%A7%BB%E5%87%BA%E6%B6%89%E5%86%9B%E5%90%8D%E5%8D%95)
-  - [美环境保护署想让数据中心隐瞒其空气污染](https://blog.upx8.com/%E7%BE%8E%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E7%BD%B2%E6%83%B3%E8%AE%A9%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%9A%90%E7%9E%92%E5%85%B6%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93)
-  - [流媒体服务Apple TV上涨至14.99美元/月](https://blog.upx8.com/%E6%B5%81%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1Apple-TV%E4%B8%8A%E6%B6%A8%E8%87%B314-99%E7%BE%8E%E5%85%83-%E6%9C%88)
 - 黑鸟
   - [大学泄露文件曝光俄军网络战人才流水线，鲍曼第四部门如何为GRU输送黑客](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188342&idx=1&sn=d4f0fc3ea2569af4e9c3902c23c1e90c)
 - 看雪学苑
   - [HTB Nimbus渗透测试靶机 Writeup](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619031&idx=1&sn=c049e90e9e21461f5ce9db0847b5772d)
   - [抢先体验！看雪课程播放器正式上线，安全高效双升级](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619031&idx=2&sn=525db3183f77b1376edf7870a66052fb)
-- 极客公园
-  - [人类，越来越难理解 AI](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112913&idx=1&sn=df9387b5e54be2b2efe0ad0df7a0a265)
-  - [399 美元的小黄鸭，藏着 Hugging Face 最大的野心](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112866&idx=1&sn=644c0c738af6eeaa293d4e2ca465c5e5)
-  - [Anthropic 将发招股书，预计募资 1300 亿美元超越 SpaceX；腾讯发布 HY4 preview 模型；科隆游戏展多个展位失窃 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112908&idx=1&sn=b6dc01b00b38744077e1d24781bbf20f)
-- 安全分析与研究
-  - [模块伪装与调用栈欺骗](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497075&idx=1&sn=44a1fca0dd21eb1fe131a0a57d45b4cd)
 - 安全圈
   - [【安全圈】宇树人形机器人曝Root漏洞可蓝牙近场劫持](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078497&idx=1&sn=3fbeaecddf79cb3f00d718cff2d065ba)
   - [【安全圈】ZBT路由器曝出厂双后门可未授权获Root权限](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078497&idx=2&sn=ecfcde083da2ce793130fc1236640841)
   - [【安全圈】ServiceNow曝3个满分10分漏洞可未授权RCE](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078497&idx=3&sn=65f6ba777b56d6ba9c3032a22d80cb2d)
-- Microsoft Security Blog
-  - [TerminalFix campaign deploys a reverse tunnel through multistage intrusion](https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/)
-- 娜璋AI安全之家
-  - [十年磨一剑！《Python文本挖掘和知识发现》重磅上市：从文本挖掘到大模型，探索知识发现新范式](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247503108&idx=1&sn=d711070e998fed05f6474e90ae9a1cf8)
+- 安全分析与研究
+  - [模块伪装与调用栈欺骗](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497075&idx=1&sn=44a1fca0dd21eb1fe131a0a57d45b4cd)
+- 极客公园
+  - [人类，越来越难理解 AI](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112913&idx=1&sn=df9387b5e54be2b2efe0ad0df7a0a265)
+  - [399 美元的小黄鸭，藏着 Hugging Face 最大的野心](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112866&idx=1&sn=644c0c738af6eeaa293d4e2ca465c5e5)
+  - [Anthropic 将发招股书，预计募资 1300 亿美元超越 SpaceX；腾讯发布 HY4 preview 模型；科隆游戏展多个展位失窃 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112908&idx=1&sn=b6dc01b00b38744077e1d24781bbf20f)
+- 表图
+  - [网安公司的AI收入，到底有多少了？](https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247485179&idx=1&sn=efbd59be00d8c43e14ebb6b1fb309634)
+- Over Security
+  - [Anthropic is cutting Claude Code's current weekly limits by 17%](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/)
+  - [Brave browser adds email aliases to help users evade tracking](https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/)
 - Arturo Di Corinto
   - [SEGNALAZIONI GUERRA PROFONDA sulla stampa italiana](https://dicorinto.it/articoli/recensioni/segnalazioni-guerra-profonda-sulla-stampa-italiana/)
+- IT Service Management News
+  - [OWASP GenAI LLM Top 10 2026](http://blog.cesaregallotti.it/2026/08/owasp-genai-llm-top-10-2026.html)
+  - [Linee guida CISA sull'esposizione su Internet](http://blog.cesaregallotti.it/2026/08/linee-guida-cisa-sullesposizione-su.html)
+- Microsoft Security Blog
+  - [TerminalFix campaign deploys a reverse tunnel through multistage intrusion](https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/)
 - Security Affairs
   - [Hack One Robot, Reach the Next: Unitree G1 Security Flaws](https://securityaffairs.com/198085/hacking/hack-one-robot-reach-the-next-unitree-g1-security-flaws.html)
   - [Rhysida Ransomware Group Targets Berlin Government Ahead of Vote](https://securityaffairs.com/198064/cyber-crime/rhysida-ransomware-group-targets-berlin-government-ahead-of-vote.html)
   - [Philippine Nuclear and Naval Targets Hit by Suspected Chinese Operator](https://securityaffairs.com/198041/intelligence/philippine-nuclear-and-naval-targets-hit-by-suspected-chinese-operator.html)
-- Over Security
-  - [Anthropic is cutting Claude Code's current weekly limits by 17%](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/)
-  - [Brave browser adds email aliases to help users evade tracking](https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/)
-- The Hacker News
-  - [Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE](https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html)
-- IT Service Management News
-  - [OWASP GenAI LLM Top 10 2026](http://blog.cesaregallotti.it/2026/08/owasp-genai-llm-top-10-2026.html)
-  - [Linee guida CISA sull'esposizione su Internet](http://blog.cesaregallotti.it/2026/08/linee-guida-cisa-sullesposizione-su.html)
-- 表图
-  - [网安公司的AI收入，到底有多少了？](https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247485179&idx=1&sn=efbd59be00d8c43e14ebb6b1fb309634)
 - KitPloit - PenTest Tools!
   - [age v1.3.2](https://kitploit.com/en/posts/github-filosottile-age-v132)
   - [CrackMeZ3S-CTF-CrackMe-Tutorial](https://kitploit.com/en/tools/github/pelock/crackmez3s-ctf-crackme-tutorial)
@@ -137,3 +102,7 @@
   - [systeminformer v4.0.26241.138](https://kitploit.com/en/posts/github-winsiderss-systeminformer-v4026241138)
   - [vphone-cli](https://kitploit.com/en/tools/github/lakr233/vphone-cli)
   - [ziti v2.0.4](https://kitploit.com/en/posts/github-openziti-ziti-v204)
+- 娜璋AI安全之家
+  - [十年磨一剑！《Python文本挖掘和知识发现》重磅上市：从文本挖掘到大模型，探索知识发现新范式](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247503108&idx=1&sn=d711070e998fed05f6474e90ae9a1cf8)
+- The Hacker News
+  - [Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE](https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html)
