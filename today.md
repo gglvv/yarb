@@ -2,8 +2,12 @@
 
 - SecWiki News
   - [SecWiki News 2026-08-30 Review](http://www.sec-wiki.com/?2026-08-30)
+- Recent Commits to cve:main
+  - [Update Sun Aug 30 12:39:30 UTC 2026](https://github.com/trickest/cve/commit/a52834dd8570772b7b17d2629e04d333801b20cd)
+- bunnie's blog
+  - [Name that Ware, August 2026](https://www.bunniestudios.com/blog/2026/name-that-ware-august-2026/)
+  - [Winner, Name that Ware July 2026](https://www.bunniestudios.com/blog/2026/winner-name-that-ware-july-2026/)
 - InfoSec Write-ups - Medium
-  - [He Sent 200,000 Reset Codes to Instagram in 10 Minutes. Instagram Paid Him $30,000.](https://infosecwriteups.com/he-sent-200-000-reset-codes-to-instagram-in-10-minutes-instagram-paid-him-30-000-0afd2bcaa3b2?source=rss----7b722bfd1b8d---4)
   - [How I Scraped Most Dark Stores in India — Blinkit, Zepto & Swiggy Instamart](https://infosecwriteups.com/how-i-scraped-most-dark-stores-in-india-blinkit-zepto-swiggy-instamart-ad939ff17af9?source=rss----7b722bfd1b8d---4)
   - [EGCTF 2025 Qualifications — “TNKR.1” Forensics Challenge](https://infosecwriteups.com/egctf-2025-qualifications-tnkr-1-forensics-challenge-1ee952e9f69b?source=rss----7b722bfd1b8d---4)
   - [WebStrike Blue Team Lab (CyberDefenders)](https://infosecwriteups.com/webstrike-blue-team-lab-cyberdefenders-c5eb87ea6dd0?source=rss----7b722bfd1b8d---4)
@@ -11,23 +15,11 @@
   - [I Made Claude Believe I Was an Anthropic-Verified 
 Researcher.](https://infosecwriteups.com/i-made-claude-believe-i-was-an-anthropic-verified-researcher-e38e4fa4716f?source=rss----7b722bfd1b8d---4)
   - [When a Single Text File Breaks a Trust Boundary (Bug Bounty writeup)](https://infosecwriteups.com/when-a-single-text-file-breaks-a-trust-boundary-bug-bounty-writeup-824c1e2dc9f0?source=rss----7b722bfd1b8d---4)
-- Recent Commits to cve:main
-  - [Update Sun Aug 30 12:39:30 UTC 2026](https://github.com/trickest/cve/commit/a52834dd8570772b7b17d2629e04d333801b20cd)
 - 安全客-有思想的安全新媒体
   - [满分预警：ServiceNow连爆3个CVSS 10.0漏洞，无需登录即可接管整个平台](https://www.anquanke.com/post/id/316039)
   - [用IP情报构建反自动采集防线：转发行为识别与风险画像实战](https://www.anquanke.com/post/id/316035)
-- bunnie's blog
-  - [Name that Ware, August 2026](https://www.bunniestudios.com/blog/2026/name-that-ware-august-2026/)
-  - [Winner, Name that Ware July 2026](https://www.bunniestudios.com/blog/2026/winner-name-that-ware-july-2026/)
-- Bug Bounty in InfoSec Write-ups on Medium
-  - [He Sent 200,000 Reset Codes to Instagram in 10 Minutes. Instagram Paid Him $30,000.](https://infosecwriteups.com/he-sent-200-000-reset-codes-to-instagram-in-10-minutes-instagram-paid-him-30-000-0afd2bcaa3b2?source=rss----7b722bfd1b8d--bug_bounty)
-  - [I Made Claude Believe I Was an Anthropic-Verified 
-Researcher.](https://infosecwriteups.com/i-made-claude-believe-i-was-an-anthropic-verified-researcher-e38e4fa4716f?source=rss----7b722bfd1b8d--bug_bounty)
-  - [When a Single Text File Breaks a Trust Boundary (Bug Bounty writeup)](https://infosecwriteups.com/when-a-single-text-file-breaks-a-trust-boundary-bug-bounty-writeup-824c1e2dc9f0?source=rss----7b722bfd1b8d--bug_bounty)
-- Reverse Engineering
-  - [Reverse-engineered a guitar amp's DSP firmware to run it as an instruction-level emulator (open source, GPLv3)](https://www.reddit.com/r/ReverseEngineering/comments/1w2k057/reverseengineered_a_guitar_amps_dsp_firmware_to/)
-  - [Reverse Engineering Unknown File Formats with ImHex](https://www.reddit.com/r/ReverseEngineering/comments/1w2cixp/reverse_engineering_unknown_file_formats_with/)
-  - [Reconstructing Angry Birds 1.4.2's ARMv7 native runtime for AArch64 Android](https://www.reddit.com/r/ReverseEngineering/comments/1w2jgda/reconstructing_angry_birds_142s_armv7_native/)
+- Taxodium
+  - [Zine#57 - IndieWeb Is Punk、用你的錢包去投票、為終端瀏覧器优化網站](https://taxodium.ink/57.html)
 - Kitploit
   - [fil-c v0.683](https://kitploit.com/en/posts/github-pizlonator-fil-c-v0683)
   - [zen-desktop v0.25.1](https://kitploit.com/en/posts/github-irbis-sh-zen-desktop-v0251)
@@ -54,39 +46,41 @@ Researcher.](https://infosecwriteups.com/i-made-claude-believe-i-was-an-anthropi
   - [spyder-osint](https://kitploit.com/en/tools/github/tq17oa7/spyder-osint)
   - [web3-decoder](https://kitploit.com/en/tools/github/uwctcjnwlk/web3-decoder)
   - [trustmebro](https://kitploit.com/en/tools/github/davidcarliez/trustmebro)
-  - [red-clippy](https://kitploit.com/en/tools/github/cspf-founder/red-clippy)
-  - [idamcp](https://kitploit.com/en/tools/github/idamcp/idamcp)
-  - [ecdsa-private-key-recovery](https://kitploit.com/en/tools/github/yadyvazifeh1oz92/ecdsa-private-key-recovery)
-  - [liboqs](https://kitploit.com/en/tools/github/open-quantum-safe/liboqs)
-  - [HQC](https://kitploit.com/en/tools/gitlab/pqc-hqc/hqc)
-  - [mlkem-native](https://kitploit.com/en/tools/github/pq-code-package/mlkem-native)
-  - [HardBreacher](https://kitploit.com/en/tools/github/msnightmare/hardbreacher)
-  - [kamene](https://kitploit.com/en/tools/github/phaethon/kamene)
+- Bug Bounty in InfoSec Write-ups on Medium
+  - [I Made Claude Believe I Was an Anthropic-Verified 
+Researcher.](https://infosecwriteups.com/i-made-claude-believe-i-was-an-anthropic-verified-researcher-e38e4fa4716f?source=rss----7b722bfd1b8d--bug_bounty)
+  - [When a Single Text File Breaks a Trust Boundary (Bug Bounty writeup)](https://infosecwriteups.com/when-a-single-text-file-breaks-a-trust-boundary-bug-bounty-writeup-824c1e2dc9f0?source=rss----7b722bfd1b8d--bug_bounty)
+- Reverse Engineering
+  - [Reverse-engineered a guitar amp's DSP firmware to run it as an instruction-level emulator (open source, GPLv3)](https://www.reddit.com/r/ReverseEngineering/comments/1w2k057/reverseengineered_a_guitar_amps_dsp_firmware_to/)
+  - [Reverse Engineering Unknown File Formats with ImHex](https://www.reddit.com/r/ReverseEngineering/comments/1w2cixp/reverse_engineering_unknown_file_formats_with/)
+  - [Reconstructing Angry Birds 1.4.2's ARMv7 native runtime for AArch64 Android](https://www.reddit.com/r/ReverseEngineering/comments/1w2jgda/reconstructing_angry_birds_142s_armv7_native/)
+- Yang Hao's blog
+  - [加固APK的AndroidManifest.xml修复方法总结](https://yanghaoi.github.io/2026/08/31/jia-gu-apk-de-androidmanifest-xiu-fu-fang-fa-zong-jie/)
 - 奇客Solidot–传递最新科技情报
   - [索尼华纳起诉 Anthropic 侵犯版权](https://www.solidot.org/story?sid=85234)
-- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [谷歌地图将安大略湖标记为美国湖](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%9C%B0%E5%9B%BE%E5%B0%86%E5%AE%89%E5%A4%A7%E7%95%A5%E6%B9%96%E6%A0%87%E8%AE%B0%E4%B8%BA%E7%BE%8E%E5%9B%BD%E6%B9%96)
-  - [Steam泄露12TB数据 半条命2第三章在列](https://blog.upx8.com/Steam%E6%B3%84%E9%9C%B212TB%E6%95%B0%E6%8D%AE-%E5%8D%8A%E6%9D%A1%E5%91%BD2%E7%AC%AC%E4%B8%89%E7%AB%A0%E5%9C%A8%E5%88%97)
-  - [🖼 NASA 罗曼空间望远镜成功发射](https://blog.upx8.com/NASA-%E7%BD%97%E6%9B%BC%E7%A9%BA%E9%97%B4%E6%9C%9B%E8%BF%9C%E9%95%9C%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84)
-  - [🖼 超级小爱输入法语音输入会屏蔽敏感内容](https://blog.upx8.com/%E8%B6%85%E7%BA%A7%E5%B0%8F%E7%88%B1%E8%BE%93%E5%85%A5%E6%B3%95%E8%AF%AD%E9%9F%B3%E8%BE%93%E5%85%A5%E4%BC%9A%E5%B1%8F%E8%94%BD%E6%95%8F%E6%84%9F%E5%86%85%E5%AE%B9)
-  - [中国国家数据局：探索适配产业实际的词元商业模式](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%95%B0%E6%8D%AE%E5%B1%80-%E6%8E%A2%E7%B4%A2%E9%80%82%E9%85%8D%E4%BA%A7%E4%B8%9A%E5%AE%9E%E9%99%85%E7%9A%84%E8%AF%8D%E5%85%83%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F)
-  - [中国机器人企业依赖英伟达芯片及软件](https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%81%E4%B8%9A%E4%BE%9D%E8%B5%96%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87%E5%8F%8A%E8%BD%AF%E4%BB%B6)
-  - [索尼等起诉Anthropic 指控窃取知识产权](https://blog.upx8.com/%E7%B4%A2%E5%B0%BC%E7%AD%89%E8%B5%B7%E8%AF%89Anthropic-%E6%8C%87%E6%8E%A7%E7%AA%83%E5%8F%96%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83)
-- 黑鸟
-  - [黑客电脑也会被黑：从邮箱到盲眼鹰APT组织工作站的追踪过程](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188360&idx=1&sn=1334366d86068e2473dd8b8717f5a4ab)
+- Hc1m1
+  - [软考学习（二十四）](https://nobb.site/2026/08/30/ruankao_26/)
+  - [软考学习（二十三）](https://nobb.site/2026/08/30/ruankao_25/)
+  - [软考学习（二十二）](https://nobb.site/2026/08/30/ruankao_24/)
 - 我的安全视界观
   - [AI 安全招人，大家抢的是同一种人](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488005&idx=1&sn=9f3995baea50cdd05281f92b80b79783)
   - [公众号菜单调整通知](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488005&idx=2&sn=92e5f1be9f41590bbe35382588c7df73)
-- 安全分析与研究
-  - [间接系统调用与C2定制](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497080&idx=1&sn=b1e39caf2e63273c5dd98097eff0179b)
-- 极客公园
-  - [折叠屏的尽头，是不折叠：华为 Pura X View 体验](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112946&idx=1&sn=c53289601d462e435621a6fddf7ce504)
-  - [造物 100 #04｜AI 为爱做「鸭」、PLAUD 又推新作、字节 TRAE 造了个数字工牌](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112945&idx=1&sn=a4a237f0d3da1cb49d353c57bd581893)
-  - [OpenAI 终止与 Cursor 合作；雷军：2600名小米车主行程超 10 万公里；华纳与索尼起诉 Anthropic，索赔数十亿美元 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112936&idx=1&sn=17f8ff01c68a20f714544294b6e9518e)
+- 黑鸟
+  - [黑客电脑也会被黑：从邮箱到盲眼鹰APT组织工作站的追踪过程](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188360&idx=1&sn=1334366d86068e2473dd8b8717f5a4ab)
+- 安全客
+  - [OpenAI自曝家丑：1200个AI智能体"组团造反"，自主挖零日攻破Hugging Face](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790431&idx=1&sn=0d416c2e3fa4987afaee8c2a9b27405c)
 - 安全圈
   - [【安全圈】cPanel致命漏洞！秒拿服务器root权限](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078524&idx=1&sn=3d59bba62ea3d7dd826441a0ecd67732)
   - [【安全圈】UniFi全线沦陷！22个漏洞3个满分无需认证](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078524&idx=2&sn=a13ec178b9b59357321f9f8714630c77)
   - [【安全圈】英国三机场客户数据遭窃！邮箱电话车牌全泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078524&idx=3&sn=6b700d549588250c08bb92ec6a50e2e7)
+- 极客公园
+  - [折叠屏的尽头，是不折叠：华为 Pura X View 体验](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112946&idx=1&sn=c53289601d462e435621a6fddf7ce504)
+  - [造物 100 #04｜AI 为爱做「鸭」、PLAUD 又推新作、字节 TRAE 造了个数字工牌](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112945&idx=1&sn=a4a237f0d3da1cb49d353c57bd581893)
+  - [OpenAI 终止与 Cursor 合作；雷军：2600名小米车主行程超 10 万公里；华纳与索尼起诉 Anthropic，索赔数十亿美元 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112936&idx=1&sn=17f8ff01c68a20f714544294b6e9518e)
+- 安全分析与研究
+  - [间接系统调用与C2定制](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497080&idx=1&sn=b1e39caf2e63273c5dd98097eff0179b)
+- Arturo Di Corinto
+  - [Presentazione di Guerra Profonda a Castronno (Varese)](https://dicorinto.it/temi/cybersecurity-temi/presentazione-di-guerra-profonda-a-castronno-varese/)
 - Over Security
   - [FulcrumSec claims Manchester Airports hack, theft of 86 GB of data](https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/)
   - [Chrome Web Store extensions caught stealing crypto, browser data](https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/)
@@ -94,12 +88,10 @@ Researcher.](https://infosecwriteups.com/i-made-claude-believe-i-was-an-anthropi
   - [The Cyber Express Weekly Roundup: Tax Data Breach, AI Security Risks, and Critical GitLab Flaw](https://thecyberexpress.com/weekly-roundup-tax-breach-ai-gitlab-flaw/)
   - [Microsoft Says CVSS 10.0 Entra ID Code Execution Flaw Was Exploited Before Server-Side Fix](https://thecyberexpress.com/microsoft-entra-id-cve-2026-69836-exploited/)
   - [Microsoft Reverses Its Own ‘Exploitation’ Warning on Entra ID Flaw CVE-2026-69836](https://thecyberexpress.com/microsoft-reverses-exploitation-cve-2026-69836/)
-- cavallette
-  - [Your mail isn’t lost: info on how to get it back – No, non hai perso tutta la mail: ecco come accedere alla tua posta](https://cavallette.noblogs.org/2026/08/10094)
 - SANS Internet Storm Center, InfoCON: green
   - [YARA-X 1.20.0 Release, (Sun, Aug 30th)](https://isc.sans.edu/diary/rss/33288)
-- Daniel Miessler
-  - [The Link Between Your Workplace Situation and Your Mental Health](https://danielmiessler.com/blog/workplace-situation-mental-health?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- The Hacker News
+  - [TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor](https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html)
 - KitPloit - PenTest Tools!
   - [fil-c v0.683](https://kitploit.com/en/posts/github-pizlonator-fil-c-v0683)
   - [zen-desktop v0.25.1](https://kitploit.com/en/posts/github-irbis-sh-zen-desktop-v0251)
@@ -127,13 +119,6 @@ Researcher.](https://infosecwriteups.com/i-made-claude-believe-i-was-an-anthropi
   - [web3-decoder](https://kitploit.com/en/tools/github/uwctcjnwlk/web3-decoder)
   - [trustmebro](https://kitploit.com/en/tools/github/davidcarliez/trustmebro)
   - [red-clippy](https://kitploit.com/en/tools/github/cspf-founder/red-clippy)
-  - [idamcp](https://kitploit.com/en/tools/github/idamcp/idamcp)
-  - [ecdsa-private-key-recovery](https://kitploit.com/en/tools/github/yadyvazifeh1oz92/ecdsa-private-key-recovery)
-  - [liboqs](https://kitploit.com/en/tools/github/open-quantum-safe/liboqs)
-  - [HQC](https://kitploit.com/en/tools/gitlab/pqc-hqc/hqc)
-  - [mlkem-native](https://kitploit.com/en/tools/github/pq-code-package/mlkem-native)
-  - [HardBreacher](https://kitploit.com/en/tools/github/msnightmare/hardbreacher)
-  - [kamene](https://kitploit.com/en/tools/github/phaethon/kamene)
 - Full Disclosure
   - [CyberDanube Security Research 20260611-0 | Multiple Denial of Service Vulnerabilities in Dahua IPC/SD/NVR/XVR/EVS/VTO/VTH/ASI/TPC Camera Series](https://seclists.org/fulldisclosure/2026/Aug/120)
   - [Multiple Integer Overflows in U-Boot Filesystem Parsing	(CVE-2025-70290 through CVE-2025-70293)](https://seclists.org/fulldisclosure/2026/Aug/119)
@@ -145,5 +130,9 @@ Researcher.](https://infosecwriteups.com/i-made-claude-believe-i-was-an-anthropi
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 112](https://securityaffairs.com/198133/malware/security-affairs-malware-newsletter-round-112.html)
   - [Hackers Are Probing PaperCut Servers, and 47% Still Have No Patch](https://securityaffairs.com/198107/uncategorized/hackers-are-probing-papercut-servers-and-47-still-have-no-patch.html)
   - [Security Affairs newsletter Round 592 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/198124/security/security-affairs-newsletter-round-592-by-pierluigi-paganini-international-edition.html)
-- The Hacker News
-  - [TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor](https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html)
+- Blackhat Library: Hacking techniques and research
+  - [Cern Basher - shares some really great use cases for electric cybercabs](https://www.reddit.com/r/blackhat/comments/1w28llq/cern_basher_shares_some_really_great_use_cases/)
+- cavallette
+  - [Your mail isn’t lost: info on how to get it back – No, non hai perso tutta la mail: ecco come accedere alla tua posta](https://cavallette.noblogs.org/2026/08/10094)
+- Daniel Miessler
+  - [The Link Between Your Workplace Situation and Your Mental Health](https://danielmiessler.com/blog/workplace-situation-mental-health?utm_source=rss&utm_medium=feed&utm_campaign=website)
