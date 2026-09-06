@@ -44,14 +44,12 @@
   - [parsedmarc v11.0.1](https://kitploit.com/en/posts/github-domainaware-parsedmarc-1101)
 - Sucuri Blog
   - [WordPress Security Plugins: How to Choose the Right One](https://blog.sucuri.net/2026/09/wordpress-security-plugins-how-to-choose-the-right-one.html)
-- 微步在线研究响应中心
-  - [原创漏洞 | FreeRDP 客户端 X.224 routing token 堆缓冲区溢出漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508912&idx=1&sn=2f17c849f02e78979d288165b3049447)
-- 奇客Solidot–传递最新科技情报
-  - [食用加工肉增加肺癌食道癌风险](https://www.solidot.org/story?sid=85297)
-  - [等效原理适用于量子领域](https://www.solidot.org/story?sid=85296)
-  - [肾病患者靠移植猪肾生活九个月](https://www.solidot.org/story?sid=85295)
-  - [F-Droid 考虑采用与 Debian 相同的 AI 政策](https://www.solidot.org/story?sid=85294)
-  - [联合国大会批准新地图](https://www.solidot.org/story?sid=85293)
+- Reverse Engineering
+  - [Binary Ninja 6.0: MCP, Binary Similarity, Perf, Migration Wizard, much more](https://www.reddit.com/r/ReverseEngineering/comments/1w86vit/binary_ninja_60_mcp_binary_similarity_perf/)
+  - [Reverse Engineering Jane Street’s 2026 ASIC Puzzle](https://www.reddit.com/r/ReverseEngineering/comments/1w7x2t6/reverse_engineering_jane_streets_2026_asic_puzzle/)
+  - [FF-16-Web is a browser-based, interactive static pattern discovery tool that finds frequently occurring local 16-bit patterns across the entire file. It can run offline in a web browser. FF-16-Web is hosted on GitHub and it works in the same way like as the CLI and TUI versions.](https://www.reddit.com/r/ReverseEngineering/comments/1w811zm/ff16web_is_a_browserbased_interactive_static/)
+  - [VAXD_VM: Reverse Engineering a Running Windows Program from Outside the VM](https://www.reddit.com/r/ReverseEngineering/comments/1w7n8rk/vaxd_vm_reverse_engineering_a_running_windows/)
+  - [SKILL-CCT-Psi-v1.1.md](https://www.reddit.com/r/ReverseEngineering/comments/1w8duat/skillcctpsiv11md/)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [美军移动设备陷广告追踪器暴露行踪风险 军方称已关闭功能](https://blog.upx8.com/%E7%BE%8E%E5%86%9B%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87%E9%99%B7%E5%B9%BF%E5%91%8A%E8%BF%BD%E8%B8%AA%E5%99%A8%E6%9A%B4%E9%9C%B2%E8%A1%8C%E8%B8%AA%E9%A3%8E%E9%99%A9-%E5%86%9B%E6%96%B9%E7%A7%B0%E5%B7%B2%E5%85%B3%E9%97%AD%E5%8A%9F%E8%83%BD)
   - [徒步旅行者使用Gemini进行规划后被困山上](https://blog.upx8.com/%E5%BE%92%E6%AD%A5%E6%97%85%E8%A1%8C%E8%80%85%E4%BD%BF%E7%94%A8Gemini%E8%BF%9B%E8%A1%8C%E8%A7%84%E5%88%92%E5%90%8E%E8%A2%AB%E5%9B%B0%E5%B1%B1%E4%B8%8A)
@@ -59,27 +57,33 @@
   - [任天堂连续两场直面会 塞尔达专场+综合](https://blog.upx8.com/%E4%BB%BB%E5%A4%A9%E5%A0%82%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%9C%BA%E7%9B%B4%E9%9D%A2%E4%BC%9A-%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%B8%93%E5%9C%BA-%E7%BB%BC%E5%90%88)
   - [新世界地图要来了 联合国弃用墨卡托投影](https://blog.upx8.com/%E6%96%B0%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE%E8%A6%81%E6%9D%A5%E4%BA%86-%E8%81%94%E5%90%88%E5%9B%BD%E5%BC%83%E7%94%A8%E5%A2%A8%E5%8D%A1%E6%89%98%E6%8A%95%E5%BD%B1)
   - [Claude首次实现费马大定理自动形式化证明](https://blog.upx8.com/Claude%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E8%B4%B9%E9%A9%AC%E5%A4%A7%E5%AE%9A%E7%90%86%E8%87%AA%E5%8A%A8%E5%BD%A2%E5%BC%8F%E5%8C%96%E8%AF%81%E6%98%8E)
-  - [美国白宫网站上线抓捕移民电子游戏](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E7%99%BD%E5%AE%AB%E7%BD%91%E7%AB%99%E4%B8%8A%E7%BA%BF%E6%8A%93%E6%8D%95%E7%A7%BB%E6%B0%91%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F)
-  - [特斯拉Cybercab挑战监管极限：马斯克要借灰色地带强行上路？](https://blog.upx8.com/%E7%89%B9%E6%96%AF%E6%8B%89Cybercab%E6%8C%91%E6%88%98%E7%9B%91%E7%AE%A1%E6%9E%81%E9%99%90-%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A6%81%E5%80%9F%E7%81%B0%E8%89%B2%E5%9C%B0%E5%B8%A6%E5%BC%BA%E8%A1%8C%E4%B8%8A%E8%B7%AF)
-  - [CD销量在复古科技热潮中出人意料地复苏](https://blog.upx8.com/CD%E9%94%80%E9%87%8F%E5%9C%A8%E5%A4%8D%E5%8F%A4%E7%A7%91%E6%8A%80%E7%83%AD%E6%BD%AE%E4%B8%AD%E5%87%BA%E4%BA%BA%E6%84%8F%E6%96%99%E5%9C%B0%E5%A4%8D%E8%8B%8F)
-  - [OpenAI智能体据悉“劫持”德国网站 逾1.5万次编辑成AI“地下论坛”](https://blog.upx8.com/OpenAI%E6%99%BA%E8%83%BD%E4%BD%93%E6%8D%AE%E6%82%89-%E5%8A%AB%E6%8C%81-%E5%BE%B7%E5%9B%BD%E7%BD%91%E7%AB%99-%E9%80%BE1-5%E4%B8%87%E6%AC%A1%E7%BC%96%E8%BE%91%E6%88%90AI-%E5%9C%B0%E4%B8%8B%E8%AE%BA%E5%9D%9B)
 - 黑鸟
   - [服务器正常运转，后门却已经编译进了负载均衡软件源码里](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188451&idx=1&sn=1b534c02706e0587e875dee31c05f707)
-- 安全分析与研究
-  - [数据投毒的工程化检测与防御](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497107&idx=1&sn=ce97a317ab04587edd2ce4697fd1db90)
-- 安全圈
-  - [【安全圈】WordPress 再曝插件漏洞使数百万网站面临接管攻击风险](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078690&idx=1&sn=0edc246025fac54952c7708b37605e04)
-  - [【安全圈】谷歌Chrome 152版本发布，修复漏洞CVE-2026-85046](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078690&idx=2&sn=dac0f2bd379ed112cb57f96b93365b57)
-  - [【安全圈】服务器管理销售面板WHMCS出现高危安全漏洞 无需登录即可窃取用户资料](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078690&idx=3&sn=a0cf0c3ed40d84c4410fac5d8a31d0ae)
+- 奇客Solidot–传递最新科技情报
+  - [食用加工肉增加肺癌食道癌风险](https://www.solidot.org/story?sid=85297)
+  - [等效原理适用于量子领域](https://www.solidot.org/story?sid=85296)
+  - [肾病患者靠移植猪肾生活九个月](https://www.solidot.org/story?sid=85295)
+  - [F-Droid 考虑采用与 Debian 相同的 AI 政策](https://www.solidot.org/story?sid=85294)
+  - [联合国大会批准新地图](https://www.solidot.org/story?sid=85293)
+- 微步在线研究响应中心
+  - [原创漏洞 | FreeRDP 客户端 X.224 routing token 堆缓冲区溢出漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508912&idx=1&sn=2f17c849f02e78979d288165b3049447)
 - 看雪学苑
   - [把奇思妙想带到SDC，极客市集展商招募开启](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619528&idx=1&sn=10b4485c9fed16d4be2418d532a084ab)
   - [Windows调试体系揭秘](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619528&idx=2&sn=24940f883e8435ecda20073eec37fb9b)
 - 奇安信 CERT
   - [【已复现】JimuReport未授权远程代码执行(QVD-2026-61751)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507460&idx=1&sn=e53dc07f1555117353dde7e52a9ec64b)
+- 安全分析与研究
+  - [数据投毒的工程化检测与防御](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497107&idx=1&sn=ce97a317ab04587edd2ce4697fd1db90)
 - 极客公园
   - [没有方向盘、没有踏板、没有后视镜：特斯拉最疯狂的车来了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113192&idx=1&sn=c0d003482886593b38fa92eca4cc0bef)
   - [互联网最古老的恐惧，被 AI 复活了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113181&idx=1&sn=b39d6aca07d431c19ccc91b7e754c0ac)
   - [传玛莎拉蒂和华为+江淮合作开发电动车；苹果最大新品阵容时代开启；人人影视回归，终身 VIP 888 元 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113176&idx=1&sn=dae914a951a5fcb7a35ced1a03cf2263)
+- 安全圈
+  - [【安全圈】WordPress 再曝插件漏洞使数百万网站面临接管攻击风险](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078690&idx=1&sn=0edc246025fac54952c7708b37605e04)
+  - [【安全圈】谷歌Chrome 152版本发布，修复漏洞CVE-2026-85046](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078690&idx=2&sn=dac0f2bd379ed112cb57f96b93365b57)
+  - [【安全圈】服务器管理销售面板WHMCS出现高危安全漏洞 无需登录即可窃取用户资料](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078690&idx=3&sn=a0cf0c3ed40d84c4410fac5d8a31d0ae)
+- 朴实无华lake2
+  - [百度“Agent+”攻防能力挑战赛参加感想](https://mp.weixin.qq.com/s?__biz=Mzg4NTc0MjAwMg==&mid=2247484414&idx=1&sn=97dbe9257ffa9c230045e30155251e4f)
 - Over Security
   - [Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain](https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/)
   - [OpenAI admits it didn't disclose rogue AI wiki hijacking incident](https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/)
@@ -90,10 +94,23 @@
   - [Incidenti significativi NIS2: perché IS-4 separa i soggetti essenziali da quelli importanti](https://www.ictsecuritymagazine.com/notizie/incidenti-significativi-nis2-is4-soggetti-essenziali-importanti/)
   - [CVE-2026-19490: primi tentativi di sfruttamento sull’authentication bypass di Citrix NetScaler](https://www.ictsecuritymagazine.com/notizie/cve-2026-19490-citrix-netscaler-authentication-bypass/)
   - [Amir Yaryab, taglia USA da 10 milioni sul capo cyber dell’IRGC](https://www.ictsecuritymagazine.com/geopolitica-cyberspazio/amir-yaryab-taglia-usa/)
-- 朴实无华lake2
-  - [百度“Agent+”攻防能力挑战赛参加感想](https://mp.weixin.qq.com/s?__biz=Mzg4NTc0MjAwMg==&mid=2247484414&idx=1&sn=97dbe9257ffa9c230045e30155251e4f)
 - SANS Internet Storm Center, InfoCON: green
   - [numbat - AI agent observability, (Fri, Sep 4th)](https://isc.sans.edu/diary/rss/33312)
+- 丁爸 情报分析师的工具箱
+  - [【开源报告】美军打击哈尔克岛与"镐山"的可能性](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157318&idx=1&sn=0a0f3978a9cfa1e724256259cf2c9510)
+  - [【资料】金融开源情报(FININT OSINT)](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157318&idx=2&sn=a0c6a89ac32192e999d4c5c3d637f31d)
+  - [【资料】捷克老师教你如何用AI进行开源情报调研](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157294&idx=2&sn=b1e058287ed7f05a43c4981e303f13a3)
+- Security Affairs
+  - [OpenAI Announced $1B in Defensive Tools for Water Utilities](https://securityaffairs.com/198506/ai/openai-announced-1b-in-defensive-tools-for-water-utilities.html)
+  - [PaperCut Flaws Exploited in Attacks on U.S. and European Schools](https://securityaffairs.com/198476/hacking/papercut-flaws-exploited-in-attacks-on-u-s-and-european-schools.html)
+  - [Broadcom Patches Critical VMware Workstation and Fusion VM-Escape Vulnerabilities](https://securityaffairs.com/198465/security/broadcom-patches-critical-vmware-workstation-and-fusion-vm-escape-vulnerabilities.html)
+- The Hacker News
+  - [Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores](https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html)
+  - [Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials](https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html)
+  - [Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code](https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html)
+  - [Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted](https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html)
+  - [Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel](https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html)
+  - [Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities](https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html)
 - KitPloit - PenTest Tools!
   - [AperiSolve v3.7.10](https://kitploit.com/en/posts/github-zeecka-aperisolve-3710)
   - [caido v0.58.3](https://kitploit.com/en/posts/github-caido-caido-v0583)
@@ -128,16 +145,5 @@
   - [openvpn v2.7.7](https://kitploit.com/en/posts/github-openvpn-openvpn-v277)
   - [SharpHound v2.16.0-rc2](https://kitploit.com/en/posts/github-specterops-sharphound-v2160-rc2)
   - [parsedmarc v11.0.1](https://kitploit.com/en/posts/github-domainaware-parsedmarc-1101)
-- Security Affairs
-  - [OpenAI Announced $1B in Defensive Tools for Water Utilities](https://securityaffairs.com/198506/ai/openai-announced-1b-in-defensive-tools-for-water-utilities.html)
-  - [PaperCut Flaws Exploited in Attacks on U.S. and European Schools](https://securityaffairs.com/198476/hacking/papercut-flaws-exploited-in-attacks-on-u-s-and-european-schools.html)
-  - [Broadcom Patches Critical VMware Workstation and Fusion VM-Escape Vulnerabilities](https://securityaffairs.com/198465/security/broadcom-patches-critical-vmware-workstation-and-fusion-vm-escape-vulnerabilities.html)
-- The Hacker News
-  - [Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores](https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html)
-  - [Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials](https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html)
-  - [Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code](https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html)
-  - [Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted](https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html)
-  - [Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel](https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html)
-  - [Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities](https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html)
 - 安全419
   - [安全419 | 8月安全厂商动态：企业融资与AI](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247554808&idx=1&sn=c879bd8ba29faf37938ee5795f1e5326)
