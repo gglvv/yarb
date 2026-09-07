@@ -1,5 +1,7 @@
 # 每日安全资讯（2026-09-07）
 
+- Recent Commits to cve:main
+  - [Update Sun Sep  6 12:01:06 UTC 2026](https://github.com/trickest/cve/commit/1f7e926b0d17962f5b781ef47ed9a96b9dba26bd)
 - SecWiki News
   - [SecWiki News 2026-09-06 Review](http://www.sec-wiki.com/?2026-09-06)
 - CXSECURITY Database RSS Feed - CXSecurity.com
@@ -10,8 +12,6 @@
   - [EVerest 2025.9.0 DoS](https://cxsecurity.com/issue/WLB-2026090003)
   - [FreePBX  17.0.2 Remote Code Execution (RCE)](https://cxsecurity.com/issue/WLB-2026090002)
   - [lnrbda - SQL Injection vulnerability](https://cxsecurity.com/issue/WLB-2026090001)
-- Recent Commits to cve:main
-  - [Update Sun Sep  6 12:01:06 UTC 2026](https://github.com/trickest/cve/commit/1f7e926b0d17962f5b781ef47ed9a96b9dba26bd)
 - Kitploit
   - [AllTools v1.7](https://kitploit.com/en/posts/github-zodiacon-alltools-v17)
   - [Claude-Skills-Governance-Risk-and-Compliance v1.9.0](https://kitploit.com/en/posts/github-sushegaad-claude-skills-governance-risk-and-compliance-v190)
@@ -50,19 +50,18 @@
   - [2026 年雨果奖公布](https://www.solidot.org/story?sid=85298)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [欧洲私营企业首次成功将火箭送入轨道](https://blog.upx8.com/%E6%AC%A7%E6%B4%B2%E7%A7%81%E8%90%A5%E4%BC%81%E4%B8%9A%E9%A6%96%E6%AC%A1%E6%88%90%E5%8A%9F%E5%B0%86%E7%81%AB%E7%AE%AD%E9%80%81%E5%85%A5%E8%BD%A8%E9%81%93)
-  - [亚马逊货运飞机冲出跑道造成5死5伤](https://blog.upx8.com/%E4%BA%9A%E9%A9%AC%E9%80%8A%E8%B4%A7%E8%BF%90%E9%A3%9E%E6%9C%BA%E5%86%B2%E5%87%BA%E8%B7%91%E9%81%93%E9%80%A0%E6%88%905%E6%AD%BB5%E4%BC%A4)
 - Light Cube
   - [仅用 8 块钱成本，无损点亮许嵩演唱会荧光棒](https://github.red/lightstick/)
 - 我的安全视界观
   - [我的读书笔记：动起来，别等完美](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488015&idx=1&sn=175688fc35673ce9f09104eefed8a856)
 - 黑鸟
   - [活了20多年的感染型病毒网络终于被端](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188465&idx=1&sn=efc122e998a0cb79422a826f140b1120)
-- 安全分析与研究
-  - [后门攻击的深度分析与检测工程](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497111&idx=1&sn=f8c7939459dd3f9984eb5529a33e422a)
 - 安全圈
   - [【安全圈】快递网点竟成间谍目标？国安部披露窃密新手段](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078704&idx=1&sn=ee4352edbb6c93e7ec0c35269c095208)
   - [【安全圈】联通反诈大模型揪出涉诈 VOIP 黑盒](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078704&idx=2&sn=5aa23ade39ae4a4afd6205c221931155)
   - [【安全圈】法国医院因泄露 72.7 万人数据被罚款 50 万欧元](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078704&idx=3&sn=47920124b9e01ac1687a4c07d52ea558)
+- 安全分析与研究
+  - [后门攻击的深度分析与检测工程](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497111&idx=1&sn=f8c7939459dd3f9984eb5529a33e422a)
 - 极客公园
   - [判断用不用你的软件，Agent 只需 500 个 Token](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113214&idx=1&sn=d6672f7f11292648a5e6b6732fe700bd)
   - [造物100#05｜给 AI 发外设，戴森派摄像头进嘴、绿联给充电宝开了扇窗](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113213&idx=1&sn=7fce2c166081d3e6abef8531fbb94420)
@@ -71,35 +70,23 @@
   - [Di ritorno da Lugano](https://roccosicilia.com/2026/09/06/di-ritorno-da-lugano/)
   - [Attackers conceal phishing lures using invisible Unicode characters](https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/)
   - [Google Maps peggiora il traffico?](https://guerredirete.substack.com/p/google-maps-peggiora-il-traffico)
-- SANS Internet Storm Center, InfoCON: green
-  - [Critical MikroTik Vulnerability - Patch Now, (Sun, Sep 6th)](https://isc.sans.edu/diary/rss/33314)
 - ICT Security Magazine
   - [VM escape su VMware Workstation e Fusion: cosa cambia per i laboratori di analisi malware](https://www.ictsecuritymagazine.com/notizie/vm-escape-vmware-workstation/)
   - [Falle PaperCut sfruttate contro scuole e atenei: dal server di stampa al dominio Active Directory](https://www.ictsecuritymagazine.com/notizie/vulnerabilita-papercut-attacchi-scuole-universita/)
   - [Zero-day Magento e Adobe Commerce: StyleSmuggler sfruttato attivamente, Adobe non ha ancora rilasciato la patch](https://www.ictsecuritymagazine.com/notizie/zero-day-magento-stylesmuggler-adobe-commerce/)
   - [MikroTik RouterOS: la catena “MikroTrick” è sfruttata attivamente, patch urgente](https://www.ictsecuritymagazine.com/notizie/mikrotik-mikrotrick/)
   - [Panzer, il nuovo ransomware-as-a-service che ha già colpito due aziende italiane](https://www.ictsecuritymagazine.com/notizie/panzer-ransomware-vittime-italiane/)
-- Troy Hunt's Blog
-  - [Weekly Update 520: The Unscripted Edition](https://www.troyhunt.com/weekly-update-520/)
 - cavallette
   - [A/I Chiude, Restare Umani – A/I Shuts Down, Stay Human](https://cavallette.noblogs.org/2026/09/10098)
-- 丁爸 情报分析师的工具箱
-  - [【资料】开源情报的应用方法-1](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157360&idx=1&sn=14aa0d54d2fdd566d22138f161c6fb78)
-  - [【资料】开源情报的应用方法-2](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157360&idx=2&sn=4c5fb5b090b585f8bb7d61dddfa24fd2)
+- SANS Internet Storm Center, InfoCON: green
+  - [Critical MikroTik Vulnerability - Patch Now, (Sun, Sep 6th)](https://isc.sans.edu/diary/rss/33314)
+- BorderGate
+  - [MSI Custom Actions](https://www.bordergate.co.uk/msi-custom-actions/)
+- Troy Hunt's Blog
+  - [Weekly Update 520: The Unscripted Edition](https://www.troyhunt.com/weekly-update-520/)
 - The Hacker News
   - [Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication](https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html)
   - [Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner](https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html)
-- Security Affairs
-  - [Your MikroTik Router May Already Be Compromised: Look for SSH User “-2”](https://securityaffairs.com/198538/security/your-mikrotik-router-may-already-be-compromised-look-for-ssh-user-2.html)
-  - [AI Agents Hijacked German Wiki to Cheat, OpenAI Delayed Disclosure](https://securityaffairs.com/198524/ai/ai-agents-hijacked-german-wiki-to-cheat-openai-delayed-disclosure.html)
-  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 113](https://securityaffairs.com/198522/security/security-affairs-malware-newsletter-round-113.html)
-  - [Security Affairs newsletter Round 593 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/198495/breaking-news/security-affairs-newsletter-round-593-by-pierluigi-paganini-international-edition.html)
-- Blackhat Library: Hacking techniques and research
-  - [Sou novo na área de cybersecurity](https://www.reddit.com/r/blackhat/comments/1w9acwi/sou_novo_na_área_de_cybersecurity/)
-- BorderGate
-  - [MSI Custom Actions](https://www.bordergate.co.uk/msi-custom-actions/)
-- OnionSec
-  - [我面了一个半小时的好岗位，然后发现：妈的，是个火坑](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485958&idx=1&sn=be8487b2f2683620f32a9fa4da4962a2)
 - KitPloit - PenTest Tools!
   - [AllTools v1.7](https://kitploit.com/en/posts/github-zodiacon-alltools-v17)
   - [Claude-Skills-Governance-Risk-and-Compliance v1.9.0](https://kitploit.com/en/posts/github-sushegaad-claude-skills-governance-risk-and-compliance-v190)
@@ -125,5 +112,17 @@
   - [FalconFlank](https://kitploit.com/en/tools/github/msnightmare/falconflank)
   - [rewerse-engineering v1.4.0](https://kitploit.com/en/posts/github-bytesizedmarius-rewerse-engineering-v140)
   - [modbus-scanner](https://kitploit.com/en/tools/github/k3ystr0k3r/modbus-scanner)
+- Security Affairs
+  - [Your MikroTik Router May Already Be Compromised: Look for SSH User “-2”](https://securityaffairs.com/198538/security/your-mikrotik-router-may-already-be-compromised-look-for-ssh-user-2.html)
+  - [AI Agents Hijacked German Wiki to Cheat, OpenAI Delayed Disclosure](https://securityaffairs.com/198524/ai/ai-agents-hijacked-german-wiki-to-cheat-openai-delayed-disclosure.html)
+  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 113](https://securityaffairs.com/198522/security/security-affairs-malware-newsletter-round-113.html)
+  - [Security Affairs newsletter Round 593 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/198495/breaking-news/security-affairs-newsletter-round-593-by-pierluigi-paganini-international-edition.html)
+- Your Open Hacker Community
+  - [Learning about Ciscos](https://www.reddit.com/r/HowToHack/comments/1w8wehk/learning_about_ciscos/)
+- 丁爸 情报分析师的工具箱
+  - [【资料】开源情报的应用方法-1](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157360&idx=1&sn=14aa0d54d2fdd566d22138f161c6fb78)
+  - [【资料】开源情报的应用方法-2](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157360&idx=2&sn=4c5fb5b090b585f8bb7d61dddfa24fd2)
+- OnionSec
+  - [我面了一个半小时的好岗位，然后发现：妈的，是个火坑](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485958&idx=1&sn=be8487b2f2683620f32a9fa4da4962a2)
 - Medi0cr1ty
   - [XProxy 的设计与思考](https://mp.weixin.qq.com/s?__biz=Mzg5ODE3NTU1OQ==&mid=2247484531&idx=1&sn=077a1759d360371f032c5c9b4112f9a0)
