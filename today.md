@@ -1,26 +1,19 @@
 # 每日安全资讯（2026-09-13）
 
-- Recent Commits to cve:main
-  - [Update Sat Sep 12 12:20:52 UTC 2026](https://github.com/trickest/cve/commit/ff7dafee817d7add09a2fac8a0d56d5bed7f9e32)
 - Armin Ronacher's Thoughts and Writings
   - [P(doom)](https://lucumr.pocoo.org/2026/9/12/pdoom/)
 - SecWiki News
   - [SecWiki News 2026-09-12 Review](http://www.sec-wiki.com/?2026-09-12)
+- 先知安全技术社区
+  - [游戏逆向-状态类数据查找](https://xz.aliyun.com/news/92818)
 - Zdziarski
   - [AI Can’t Kill Us All Without a Few Idiots](https://www.zdziarski.com/blog/?p=13970)
 - 先知安全技术社区
   - [游戏逆向-状态类数据查找](https://xz.aliyun.com/news/92818)
+- Recent Commits to cve:main
+  - [Update Sat Sep 12 12:20:52 UTC 2026](https://github.com/trickest/cve/commit/ff7dafee817d7add09a2fac8a0d56d5bed7f9e32)
 - MaskRay
   - [lld 23 ELF changes](https://maskray.me/blog/lld-23-elf-changes)
-- 先知安全技术社区
-  - [游戏逆向-状态类数据查找](https://xz.aliyun.com/news/92818)
-- Reverse Engineering
-  - [Microcode in Intel's 8087 floating-point chip: the scale instruction](https://www.reddit.com/r/ReverseEngineering/comments/1wejv8y/microcode_in_intels_8087_floatingpoint_chip_the/)
-  - [Beltdown2: Escaping the Cursor CLI sandbox](https://www.reddit.com/r/ReverseEngineering/comments/1wefn5t/beltdown2_escaping_the_cursor_cli_sandbox/)
-  - [GitHub - mein-0/LolModapi: MSI Dragon Center 2.0.155.0 LPE](https://www.reddit.com/r/ReverseEngineering/comments/1wekt7q/github_mein0lolmodapi_msi_dragon_center_201550_lpe/)
-  - [ReArk v1.0.0 Released: Now Supports Android APK/AAB Reverse Engineering](https://www.reddit.com/r/ReverseEngineering/comments/1we1cp5/reark_v100_released_now_supports_android_apkaab/)
-- CCC Event Blog
-  - [CCC lädt alle Model Citizens zum 40C3](https://events.ccc.de/2026/09/12/40c3-model-citizens/)
 - Kitploit — Hacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!
   - [Labtainers v1.4.4n](https://kitploit.com/en/posts/github-mfthomps-labtainers-v144n)
   - [Dropper](https://kitploit.com/en/tools/github/gmh5225/dropper)
@@ -45,57 +38,67 @@
   - [voidsec-proxy](https://kitploit.com/en/tools/github/voidsecsoftwares/voidsec-proxy)
   - [Krawl v2.4.0](https://kitploit.com/en/posts/github-blessedrebus-krawl-v240)
   - [mcpsnoop v0.22.0](https://kitploit.com/en/posts/github-kerlenton-mcpsnoop-v0220)
-  - [stackrox v4.11.4-rc.1](https://kitploit.com/en/posts/github-stackrox-stackrox-4114-rc1)
-  - [kasld v0.4.0](https://kitploit.com/en/posts/github-bcoles-kasld-v040)
-  - [Harden-Windows-Security HardenSystemSecurity-v1.0.88.0](https://kitploit.com/en/posts/github-hotcakex-harden-windows-security-hardensystemsecurity-v10880)
-  - [sandbox-runtime v0.0.76](https://kitploit.com/en/posts/github-anthropic-experimental-sandbox-runtime-v0076)
-- Dhole Moments
-  - [The V8 JavaScript Runtime Undermined My Constant-Time JavaScript Library](https://soatok.blog/2026/09/12/the-v8-javascript-runtime-undermined-my-constant-time-javascript-library/)
+- CCC Event Blog
+  - [CCC lädt alle Model Citizens zum 40C3](https://events.ccc.de/2026/09/12/40c3-model-citizens/)
+- Reverse Engineering
+  - [Microcode in Intel's 8087 floating-point chip: the scale instruction](https://www.reddit.com/r/ReverseEngineering/comments/1wejv8y/microcode_in_intels_8087_floatingpoint_chip_the/)
+  - [Beltdown2: Escaping the Cursor CLI sandbox](https://www.reddit.com/r/ReverseEngineering/comments/1wefn5t/beltdown2_escaping_the_cursor_cli_sandbox/)
+  - [GitHub - mein-0/LolModapi: MSI Dragon Center 2.0.155.0 LPE](https://www.reddit.com/r/ReverseEngineering/comments/1wekt7q/github_mein0lolmodapi_msi_dragon_center_201550_lpe/)
+  - [ReArk v1.0.0 Released: Now Supports Android APK/AAB Reverse Engineering](https://www.reddit.com/r/ReverseEngineering/comments/1we1cp5/reark_v100_released_now_supports_android_apkaab/)
 - 奇客Solidot–传递最新科技情报
   - [墨西哥毒贩涉足加密货币挖矿](https://www.solidot.org/story?sid=85361)
   - [Waymo 举报了两名携带幽灵枪的青少年乘客](https://www.solidot.org/story?sid=85360)
   - [克雷数学研究所就 Navier-Stokes 问题发表公开声明](https://www.solidot.org/story?sid=85359)
   - [25 名菲尔茨奖得主发表公开信批评 AI 公司](https://www.solidot.org/story?sid=85358)
-- 微步在线研究响应中心
-  - [CVSS10分Gitlab漏洞究竟能不能读任意文件？](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508929&idx=1&sn=e1657879176766f53a682622be5138d8)
+- Dhole Moments
+  - [The V8 JavaScript Runtime Undermined My Constant-Time JavaScript Library](https://soatok.blog/2026/09/12/the-v8-javascript-runtime-undermined-my-constant-time-javascript-library/)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [Anthropic CEO呼吁AI公司放缓研发步伐](https://blog.upx8.com/Anthropic-CEO%E5%91%BC%E5%90%81AI%E5%85%AC%E5%8F%B8%E6%94%BE%E7%BC%93%E7%A0%94%E5%8F%91%E6%AD%A5%E4%BC%90)
   - [VMware限制措施面临欧盟新的反垄断审查](https://blog.upx8.com/VMware%E9%99%90%E5%88%B6%E6%8E%AA%E6%96%BD%E9%9D%A2%E4%B8%B4%E6%AC%A7%E7%9B%9F%E6%96%B0%E7%9A%84%E5%8F%8D%E5%9E%84%E6%96%AD%E5%AE%A1%E6%9F%A5)
   - [特斯拉预告将于10月1日举办活动 展示下一代Roadster跑车](https://blog.upx8.com/%E7%89%B9%E6%96%AF%E6%8B%89%E9%A2%84%E5%91%8A%E5%B0%86%E4%BA%8E10%E6%9C%881%E6%97%A5%E4%B8%BE%E5%8A%9E%E6%B4%BB%E5%8A%A8-%E5%B1%95%E7%A4%BA%E4%B8%8B%E4%B8%80%E4%BB%A3Roadster%E8%B7%91%E8%BD%A6)
   - [传创始人等16名员工被带走 月之暗面：恶意造谣](https://blog.upx8.com/%E4%BC%A0%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%AD%8916%E5%90%8D%E5%91%98%E5%B7%A5%E8%A2%AB%E5%B8%A6%E8%B5%B0-%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2-%E6%81%B6%E6%84%8F%E9%80%A0%E8%B0%A3)
   - [25 位菲尔兹奖得主联合警告“AI 在数学领域严重错位”，邓煜调侃要退休回家写百合小说](https://blog.upx8.com/25-%E4%BD%8D%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E8%81%94%E5%90%88%E8%AD%A6%E5%91%8A-AI-%E5%9C%A8%E6%95%B0%E5%AD%A6%E9%A2%86%E5%9F%9F%E4%B8%A5%E9%87%8D%E9%94%99%E4%BD%8D-%E9%82%93%E7%85%9C%E8%B0%83%E4%BE%83%E8%A6%81%E9%80%80%E4%BC%91%E5%9B%9E%E5%AE%B6%E5%86%99%E7%99%BE%E5%90%88%E5%B0%8F%E8%AF%B4)
+- 微步在线研究响应中心
+  - [CVSS10分Gitlab漏洞究竟能不能读任意文件？](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508929&idx=1&sn=e1657879176766f53a682622be5138d8)
 - 黑鸟
   - [失控的大模型：AI 被武器化的真实网络行动案例合集](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188723&idx=1&sn=5d35817e7de53cfa588ad00e2e47fe78)
-- 安全分析与研究
-  - [FDE工程实战02-RAG与Agent系统设计](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497135&idx=1&sn=71a3af0f97a3f7c9792680524286a39f)
 - 青衣十三楼飞花堂
   - [cby讲的教师节段子](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489927&idx=1&sn=d0830ea05e3963c4fb22cc9c56bb52f8)
-- 看雪学苑
-  - [Frida 整体启动逻辑](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619811&idx=1&sn=bfee625d49ac82cbc5ddbde393844170)
-  - [可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619811&idx=2&sn=81d4d57b0d4c42643f283bb87a10bd88)
-- 丁爸 情报分析师的工具箱
-  - [【资料】超高杀伤力战场环境下的战术通信生存能力](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157481&idx=1&sn=3bf36ba26bd1736798fdab972b355bac)
-  - [【资料】美国AI公司报告显示武器开发等机密信息被泄露](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157473&idx=1&sn=5afcf36adfbc99fe3bd4b53a6de8a542)
 - 安全学术圈
   - [会议征文 | 第三届大模型供应链研讨会征稿通知](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495907&idx=1&sn=68942b370ffe423e2e3ee08cc2781cd5)
-- 网络空间安全科学学报
-  - [2026年网络空间安全学术会议通知（第二轮）](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247508516&idx=1&sn=4f4a5577b53a789099be07b333286edd)
+- 安全分析与研究
+  - [FDE工程实战02-RAG与Agent系统设计](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497135&idx=1&sn=71a3af0f97a3f7c9792680524286a39f)
 - 安全圈
   - [【安全圈】黑客操纵数百个AI Agent：26秒破11家企业，夜袭440台服务器](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078850&idx=1&sn=a1f8892fc8c69e287f340031c3603b4c)
   - [【安全圈】黑客把Claude玩疯了：全自动扒光180万安卓App密钥机密](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078850&idx=2&sn=7b444fc1f876f56f24b4bd8b8fcfb24f)
   - [【安全圈】GitLab曝CVSS 10满分漏洞：免密盗源码，数小时遭在野狂扫](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078850&idx=3&sn=3d7d3bb3a87dca466246957ea44f5c69)
-- 极客公园
-  - [AI 时代的「4399」，可把我玩嗨了｜AI 上新](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113496&idx=1&sn=a65a14dedf98f1803cdf7003455e0201)
-  - [月之暗面冲击 20 亿美元 ARR；燧原科技上市，高开 188%；iPhone Duo 二手平台每台涨价 2.4 万｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113475&idx=1&sn=a7ce102635ee294c7814c733acdc1bfe)
-- 情报分析师
-  - [FBI最新网络战略没有一次提到我，但真正的信号都藏在字缝里](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569620&idx=1&sn=db541d930178c03c2193f82678467392)
 - 数世咨询
   - [速看，OWASP 最新十大 LLM 关键漏洞](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543880&idx=1&sn=d474ac6cfe6b19df9211bf8f04532bd5)
   - [从Anthropic报告看政企AI落地的数据安全挑战，永信至诚以「原生安全」构建数据「反萃取」防线](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543880&idx=2&sn=5bbf2d71499d8a08fda9ba4f0634a52c)
+- 极客公园
+  - [AI 时代的「4399」，可把我玩嗨了｜AI 上新](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113496&idx=1&sn=a65a14dedf98f1803cdf7003455e0201)
+  - [月之暗面冲击 20 亿美元 ARR；燧原科技上市，高开 188%；iPhone Duo 二手平台每台涨价 2.4 万｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113475&idx=1&sn=a7ce102635ee294c7814c733acdc1bfe)
+- 看雪学苑
+  - [Frida 整体启动逻辑](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619811&idx=1&sn=bfee625d49ac82cbc5ddbde393844170)
+  - [可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619811&idx=2&sn=81d4d57b0d4c42643f283bb87a10bd88)
+- 网络空间安全科学学报
+  - [2026年网络空间安全学术会议通知（第二轮）](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247508516&idx=1&sn=4f4a5577b53a789099be07b333286edd)
+- 丁爸 情报分析师的工具箱
+  - [【资料】超高杀伤力战场环境下的战术通信生存能力](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157481&idx=1&sn=3bf36ba26bd1736798fdab972b355bac)
+  - [【资料】美国AI公司报告显示武器开发等机密信息被泄露](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157473&idx=1&sn=5afcf36adfbc99fe3bd4b53a6de8a542)
+- 情报分析师
+  - [FBI最新网络战略没有一次提到我，但真正的信号都藏在字缝里](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569620&idx=1&sn=db541d930178c03c2193f82678467392)
+- 吴鲁加
+  - [[翻译]几个人一个月做出 Grok Bot](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486206&idx=1&sn=8e52cabcfe4d31e99f00d74b33491978)
 - 奇安信病毒响应中心
   - [每周勒索威胁摘要](https://mp.weixin.qq.com/s?__biz=MzI5Mzg5MDM3NQ==&mid=2247498641&idx=1&sn=6ba4c641eb134cbc62b2259ae9609606)
+- IT Service Management News
+  - [Vademecum NIS di ACN](http://blog.cesaregallotti.it/2026/09/vademecum-nis-di-acn.html)
 - 渊龙Sec安全团队
   - [针对浏览器Cookie和密码提取的免杀研究](https://mp.weixin.qq.com/s?__biz=Mzg4NTY0MDg1Mg==&mid=2247486017&idx=1&sn=f6d8da61a24972020e858cedc9b4ab21)
+- Over Security
+  - [Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent](https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/)
+  - [Revolut Confirms Sending Passport and Bitcoin Records to Fake Government Email](https://www.yahoo.com/news/us/articles/revolut-confirms-fake-government-email-092043717.html?guccounter=1)
 - Chaos Computer Club - last 100 events feed
   - [Kriegsgebiete in Theorie und Praxis (mrmcd26)](https://cdn.media.ccc.de/events/mrmcd/mrmcd26/h264-sd/mrmcd26-700-deu-Kriegsgebiete_in_Theorie_und_Praxis_sd.mp4)
   - [FACEB13D exploit: Liberating the A100 beast inside Nvidia’s CMP 170HX e-waste (mrmcd26)](https://cdn.media.ccc.de/events/mrmcd/mrmcd26/h264-sd/mrmcd26-757-eng-FACEB13D_exploit_Liberating_the_A100_beast_inside_Nvidias_CMP_170HX_e-waste_sd.mp4)
@@ -113,17 +116,13 @@
   - [Wie Züge (Infrastruktur-)Grenzen überwinden (mrmcd26)](https://cdn.media.ccc.de/events/mrmcd/mrmcd26/h264-sd/mrmcd26-636-deu-Wie_Zuege_Infrastruktur-_Grenzen_ueberwinden_sd.mp4)
   - [Trespassing the Walled Garden: Teaching Linux to Speak Apple's Low-Latency WiFi (mrmcd26)](https://cdn.media.ccc.de/events/mrmcd/mrmcd26/h264-sd/mrmcd26-734-eng-Trespassing_the_Walled_Garden_Teaching_Linux_to_Speak_Apples_Low-Latency_WiFi_sd.mp4)
   - [Transgressing cell type boundaries: This is how we get cancer (mrmcd26)](https://cdn.media.ccc.de/events/mrmcd/mrmcd26/h264-sd/mrmcd26-690-eng-Transgressing_cell_type_boundaries_This_is_how_we_get_cancer_sd.mp4)
-- IT Service Management News
-  - [Vademecum NIS di ACN](http://blog.cesaregallotti.it/2026/09/vademecum-nis-di-acn.html)
-- 吴鲁加
-  - [[翻译]几个人一个月做出 Grok Bot](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486206&idx=1&sn=8e52cabcfe4d31e99f00d74b33491978)
-- Over Security
-  - [Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent](https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/)
-  - [Revolut Confirms Sending Passport and Bitcoin Records to Fake Government Email](https://www.yahoo.com/news/us/articles/revolut-confirms-fake-government-email-092043717.html?guccounter=1)
 - The Hacker News
   - [CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV](https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html)
   - [When the Whole Company Adopts AI: What It Does to Your SOC](https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html)
   - [OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers](https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html)
+- Security Affairs
+  - [Revolut Exposed KYC Data After Fraudulent Government Email Passed Security Checks](https://securityaffairs.com/198922/data-breach/revolut-exposed-kyc-data-after-fraudulent-government-email-passed-security-checks.html)
+  - [Anthropic: AI Misuse Is Entering a New Phase: From Cybercrime to Surveillance, Propaganda and Weapons](https://securityaffairs.com/198905/ai/anthropic-ai-misuse-is-entering-a-new-phase-from-cybercrime-to-surveillance-propaganda-and-weapons.html)
 - KitPloit - PenTest Tools!
   - [Labtainers v1.4.4n](https://kitploit.com/en/posts/github-mfthomps-labtainers-v144n)
   - [Dropper](https://kitploit.com/en/tools/github/gmh5225/dropper)
@@ -148,12 +147,5 @@
   - [voidsec-proxy](https://kitploit.com/en/tools/github/voidsecsoftwares/voidsec-proxy)
   - [Krawl v2.4.0](https://kitploit.com/en/posts/github-blessedrebus-krawl-v240)
   - [mcpsnoop v0.22.0](https://kitploit.com/en/posts/github-kerlenton-mcpsnoop-v0220)
-  - [stackrox v4.11.4-rc.1](https://kitploit.com/en/posts/github-stackrox-stackrox-4114-rc1)
-  - [kasld v0.4.0](https://kitploit.com/en/posts/github-bcoles-kasld-v040)
-  - [Harden-Windows-Security HardenSystemSecurity-v1.0.88.0](https://kitploit.com/en/posts/github-hotcakex-harden-windows-security-hardensystemsecurity-v10880)
-  - [sandbox-runtime v0.0.76](https://kitploit.com/en/posts/github-anthropic-experimental-sandbox-runtime-v0076)
 - OnionSec
   - [我还挺会想的，香港国际机场](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485995&idx=1&sn=7114ff31e830f532e4fc64b53e6ac648)
-- Security Affairs
-  - [Revolut Exposed KYC Data After Fraudulent Government Email Passed Security Checks](https://securityaffairs.com/198922/data-breach/revolut-exposed-kyc-data-after-fraudulent-government-email-passed-security-checks.html)
-  - [Anthropic: AI Misuse Is Entering a New Phase: From Cybercrime to Surveillance, Propaganda and Weapons](https://securityaffairs.com/198905/ai/anthropic-ai-misuse-is-entering-a-new-phase-from-cybercrime-to-surveillance-propaganda-and-weapons.html)
