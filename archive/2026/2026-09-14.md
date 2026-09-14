@@ -47,13 +47,13 @@
   - [waf-checker v1.2.0](https://kitploit.com/en/posts/github-sech0us3-waf-checker-v120)
   - [clawpatrol v0.5.10](https://kitploit.com/en/posts/github-denoland-clawpatrol-v0510)
   - [GhostESP v2.2-pre1](https://kitploit.com/en/posts/github-ghostesp-revival-ghostesp-v22-pre1)
-- 白帽Wiki - 一个简单的wiki
-  - [[2026]虫群Agent代码审计](https://key08.com/index.php/2026/09/13/3321.html)
 - Reverse Engineering
   - [Super Trouper: A new MCP server in Golang to give coding agents a Frida interface](https://www.reddit.com/r/ReverseEngineering/comments/1wf8wpo/super_trouper_a_new_mcp_server_in_golang_to_give/)
   - [Locating Flutter's TLS certificate verifier in a stripped libflutter.so, tested across 13 apps and 9 engine versions](https://www.reddit.com/r/ReverseEngineering/comments/1wexq29/locating_flutters_tls_certificate_verifier_in_a/)
   - [From the Shandalar community on Reddit: Shandalar: 30th Anniversay Edition - August Update](https://www.reddit.com/r/ReverseEngineering/comments/1wf4igs/from_the_shandalar_community_on_reddit_shandalar/)
   - [GitHub - grm2ngo/turnstile: Cloudflare Turnstile — measured research notes: the 2-POST chain, the per-fetch build pool, the capture protocol, and the FO1 bag-binding mechanism (per-draw execution/nonce binding)](https://www.reddit.com/r/ReverseEngineering/comments/1wf0ddl/github_grm2ngoturnstile_cloudflare_turnstile/)
+- 白帽Wiki - 一个简单的wiki
+  - [[2026]虫群Agent代码审计](https://key08.com/index.php/2026/09/13/3321.html)
 - 离别歌
   - [AI记账的最佳实践](https://www.leavesongs.com/THINK/ai-bookkeeping-best-practices.html)
 - 离别歌
@@ -63,17 +63,17 @@
   - [Matt Mullenweg 据报道恢复了对 Automattic 的控制](https://www.solidot.org/story?sid=85365)
   - [北京全面限制无人机](https://www.solidot.org/story?sid=85364)
   - [暴雪宣布 FPS 版《星际争霸》](https://www.solidot.org/story?sid=85362)
-- 青衣十三楼飞花堂
-  - [跑得跟兔子一样快的小小四](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489931&idx=1&sn=82ec6e95ea18c5a9727c8decace7e0c5)
 - 安全分析与研究
   - [FDE工程实战03-评估体系工程](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497139&idx=1&sn=19a0b8210e299d7e8bb3b332884880b4)
-- 安全学术圈
-  - [2026年中国通信学会科技奖形审通过项目（网络空间安全领域）](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495912&idx=1&sn=29c57a4f8475e40b9afcfdfee8c4292b)
-  - [行业会议 | 2026年网络空间安全学术会议](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495911&idx=1&sn=c4c76784980c65eaee8379baeec1b861)
-- 中国信息安全
-  - [国家安全部党委书记、部长陈一新：全面筑牢人工智能安全屏障 推动人工智能健康有序发展](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664266571&idx=1&sn=a7b2fca40cf53ca3957d2e717e5eaeb2)
+- 青衣十三楼飞花堂
+  - [一道披着初二物理外衣的数学题](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489932&idx=1&sn=b93369e4542b82c3b68767c3e92998d9)
+  - [跑得跟兔子一样快的小小四](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489931&idx=1&sn=82ec6e95ea18c5a9727c8decace7e0c5)
+- 黑鸟
+  - [一个复原新闻组时代的互联网档案平台](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188741&idx=1&sn=92a29092dc9b0f14ea46abfb0914a65d)
 - 君哥的体历
   - [亚投行五楼的国图书店，上午和妙妙去看了会书](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492565&idx=1&sn=8a74a6873aae5500ae53c64ca7a9370b)
+- 中国信息安全
+  - [国家安全部党委书记、部长陈一新：全面筑牢人工智能安全屏障 推动人工智能健康有序发展](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664266571&idx=1&sn=a7b2fca40cf53ca3957d2e717e5eaeb2)
 - 安全圈
   - [【安全圈】GitHub又崩了！PR重大中断全球研发停摆](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078887&idx=1&sn=827bd308e3107145cc3946977e22cc37)
   - [【安全圈】洗衣机19小时传400MB流量！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078887&idx=2&sn=5cfaa97c4a7dd9162e99d90a914de125)
@@ -84,6 +84,9 @@
   - [苹果的折叠屏等了十五年，体验还差临门一脚](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113527&idx=1&sn=0002cf5a91bfa191da1d5c3ec3230fb7)
   - [造物 100 #06｜自动驾驶「上」轮椅了，口袋相机学会飞行，AI 教练上了雪场](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113524&idx=1&sn=d6c58a1c726f1d4780f166c6ea2dde92)
   - [OpenAI、Anthropic 再次发出「AI 末日」警告；小米澎程今日全国交付；Deepseek 灰度测试 AI 语音对话 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113508&idx=1&sn=de3431aa0248e1833ba2af2104632cbf)
+- 安全学术圈
+  - [2026年中国通信学会科技奖形审通过项目（网络空间安全领域）](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495912&idx=1&sn=29c57a4f8475e40b9afcfdfee8c4292b)
+  - [行业会议 | 2026年网络空间安全学术会议](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495911&idx=1&sn=c4c76784980c65eaee8379baeec1b861)
 - Over Security
   - [Thorough reorganization at NSA will create five 'mission centers,' including cyber and AI](https://therecord.media/nsa-reorganization-five-mission-centers)
   - [BSides Munich: Fantastic clear-text passwords and where to collect them](http://localhost:1313/talks/bsides_munich_2025/)
@@ -94,17 +97,19 @@
   - [Hackers exploit Tencent app flaw to deploy GrayRabbit malware](https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/)
   - [Chess.com (2026) - 4,653,212 breached accounts](https://haveibeenpwned.com/Breach/Chess2026)
   - [Il fragile patto di fiducia della cybersecurity](https://guerredirete.substack.com/p/il-fragile-patto-di-fiducia-della)
-- Have I Been Pwned latest breaches
-  - [Chess.com (2026) - 4,653,212 breached accounts](https://haveibeenpwned.com/Breach/Chess2026)
 - 熵减矩阵
   - [150亿token：我给小米平板6 Pro移植了原生Linux](https://mp.weixin.qq.com/s?__biz=Mzg2MTc1NDAxMA==&mid=2247485416&idx=1&sn=2634bd517520bc9b1d27f3067025266e)
-- The Hacker News
-  - [Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data](https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html)
+- Have I Been Pwned latest breaches
+  - [Chess.com (2026) - 4,653,212 breached accounts](https://haveibeenpwned.com/Breach/Chess2026)
 - Security Affairs
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 114](https://securityaffairs.com/198980/breaking-news/security-affairs-malware-newsletter-round-114.html)
   - [Security Affairs newsletter Round 594 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/198957/security/security-affairs-newsletter-round-594-by-pierluigi-paganini-international-edition.html)
   - [GitLab CVE-2026-85706: One HTTP Request, No Authentication, Full File Read – Exploited Within 24 Hours](https://securityaffairs.com/198945/hacking/gitlab-cve-2026-85706-one-http-request-no-authentication-full-file-read-exploited-within-24-hours.html)
   - [Conti Hacker Who Built Malware and Attacked Victims Gets Four-Year Sentence](https://securityaffairs.com/198931/cyber-crime/conti-hacker-who-built-malware-and-attacked-victims-gets-four-year-sentence.html)
+- OnionSec
+  - [想哭](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247486001&idx=1&sn=bfdcfc72152a95e97118e86e929c900c)
+- The Hacker News
+  - [Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data](https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html)
 - KitPloit - PenTest Tools!
   - [espectre snapshot](https://kitploit.com/en/posts/github-francescopace-espectre-snapshot)
   - [wifit3 v0.3.1](https://kitploit.com/en/posts/github-derv82-wifit3-v031)
@@ -134,5 +139,3 @@
   - [waf-checker v1.2.0](https://kitploit.com/en/posts/github-sech0us3-waf-checker-v120)
   - [clawpatrol v0.5.10](https://kitploit.com/en/posts/github-denoland-clawpatrol-v0510)
   - [GhostESP v2.2-pre1](https://kitploit.com/en/posts/github-ghostesp-revival-ghostesp-v22-pre1)
-- OnionSec
-  - [想哭](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247486001&idx=1&sn=bfdcfc72152a95e97118e86e929c900c)
