@@ -1,18 +1,22 @@
 # 每日安全资讯（2026-09-14）
 
-- SecWiki News
-  - [SecWiki News 2026-09-13 Review](http://www.sec-wiki.com/?2026-09-13)
 - Recent Commits to cve:main
   - [Update Sun Sep 13 12:09:33 UTC 2026](https://github.com/trickest/cve/commit/f9372750dbaf1331551a12ecd109eff26d402c33)
+- SecWiki News
+  - [SecWiki News 2026-09-13 Review](http://www.sec-wiki.com/?2026-09-13)
 - 先知安全技术社区
   - [Android App WebView JSBridge任意页面凭证窃取漏洞挖掘案例分析](https://xz.aliyun.com/news/92826)
   - [多成员 gzip 请求体的解压范围错位](https://xz.aliyun.com/news/92825)
   - [先声明者胜:glibc 同名符号裁决顺序下的实现替换与依赖降级](https://xz.aliyun.com/news/92824)
+  - [当WAF 开始记住我：绕过后的攻击者画像思考](https://xz.aliyun.com/news/92823)
+  - [病毒0基础入门之PE文件格式及利用](https://xz.aliyun.com/news/92822)
   - [有意思的ssrf绕过](https://xz.aliyun.com/news/92821)
 - 先知安全技术社区
   - [Android App WebView JSBridge任意页面凭证窃取漏洞挖掘案例分析](https://xz.aliyun.com/news/92826)
   - [多成员 gzip 请求体的解压范围错位](https://xz.aliyun.com/news/92825)
   - [先声明者胜:glibc 同名符号裁决顺序下的实现替换与依赖降级](https://xz.aliyun.com/news/92824)
+  - [当WAF 开始记住我：绕过后的攻击者画像思考](https://xz.aliyun.com/news/92823)
+  - [病毒0基础入门之PE文件格式及利用](https://xz.aliyun.com/news/92822)
   - [有意思的ssrf绕过](https://xz.aliyun.com/news/92821)
 - Kitploit — Hacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!
   - [espectre snapshot](https://kitploit.com/en/posts/github-francescopace-espectre-snapshot)
@@ -59,19 +63,15 @@
   - [Matt Mullenweg 据报道恢复了对 Automattic 的控制](https://www.solidot.org/story?sid=85365)
   - [北京全面限制无人机](https://www.solidot.org/story?sid=85364)
   - [暴雪宣布 FPS 版《星际争霸》](https://www.solidot.org/story?sid=85362)
-- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [报告：中国AI发展重心从大模型转向智能体](https://blog.upx8.com/%E6%8A%A5%E5%91%8A-%E4%B8%AD%E5%9B%BDAI%E5%8F%91%E5%B1%95%E9%87%8D%E5%BF%83%E4%BB%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BD%AC%E5%90%91%E6%99%BA%E8%83%BD%E4%BD%93)
-  - [三星请来名叫蒂姆·库克的新西兰房产经纪人“评测”自家折叠机](https://blog.upx8.com/%E4%B8%89%E6%98%9F%E8%AF%B7%E6%9D%A5%E5%90%8D%E5%8F%AB%E8%92%82%E5%A7%86-%E5%BA%93%E5%85%8B%E7%9A%84%E6%96%B0%E8%A5%BF%E5%85%B0%E6%88%BF%E4%BA%A7%E7%BB%8F%E7%BA%AA%E4%BA%BA-%E8%AF%84%E6%B5%8B-%E8%87%AA%E5%AE%B6%E6%8A%98%E5%8F%A0%E6%9C%BA)
-  - [淘宝闪购：苹果 iPhone 18 Pro 系列手机预售火爆，首小时销售额较上代 17 Pro 系列翻倍](https://blog.upx8.com/%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD-%E8%8B%B9%E6%9E%9C-iPhone-18-Pro-%E7%B3%BB%E5%88%97%E6%89%8B%E6%9C%BA%E9%A2%84%E5%94%AE%E7%81%AB%E7%88%86-%E9%A6%96%E5%B0%8F%E6%97%B6%E9%94%80%E5%94%AE%E9%A2%9D%E8%BE%83%E4%B8%8A%E4%BB%A3-17-Pro-%E7%B3%BB%E5%88%97%E7%BF%BB%E5%80%8D)
-  - [新修订的《北京市无人驾驶航空器管理规定》将于11月15日实施！开放三种处置渠道](https://blog.upx8.com/%E6%96%B0%E4%BF%AE%E8%AE%A2%E7%9A%84-%E5%8C%97%E4%BA%AC%E5%B8%82%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E8%88%AA%E7%A9%BA%E5%99%A8%E7%AE%A1%E7%90%86%E8%A7%84%E5%AE%9A-%E5%B0%86%E4%BA%8E11%E6%9C%8815%E6%97%A5%E5%AE%9E%E6%96%BD-%E5%BC%80%E6%94%BE%E4%B8%89%E7%A7%8D%E5%A4%84%E7%BD%AE%E6%B8%A0%E9%81%93)
 - 青衣十三楼飞花堂
   - [跑得跟兔子一样快的小小四](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489931&idx=1&sn=82ec6e95ea18c5a9727c8decace7e0c5)
 - 安全分析与研究
   - [FDE工程实战03-评估体系工程](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497139&idx=1&sn=19a0b8210e299d7e8bb3b332884880b4)
+- 安全学术圈
+  - [2026年中国通信学会科技奖形审通过项目（网络空间安全领域）](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495912&idx=1&sn=29c57a4f8475e40b9afcfdfee8c4292b)
+  - [行业会议 | 2026年网络空间安全学术会议](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495911&idx=1&sn=c4c76784980c65eaee8379baeec1b861)
 - 中国信息安全
   - [国家安全部党委书记、部长陈一新：全面筑牢人工智能安全屏障 推动人工智能健康有序发展](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664266571&idx=1&sn=a7b2fca40cf53ca3957d2e717e5eaeb2)
-- 安全学术圈
-  - [行业会议 | 2026年网络空间安全学术会议](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495911&idx=1&sn=c4c76784980c65eaee8379baeec1b861)
 - 君哥的体历
   - [亚投行五楼的国图书店，上午和妙妙去看了会书](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492565&idx=1&sn=8a74a6873aae5500ae53c64ca7a9370b)
 - 安全圈
@@ -105,11 +105,6 @@
   - [Security Affairs newsletter Round 594 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/198957/security/security-affairs-newsletter-round-594-by-pierluigi-paganini-international-edition.html)
   - [GitLab CVE-2026-85706: One HTTP Request, No Authentication, Full File Read – Exploited Within 24 Hours](https://securityaffairs.com/198945/hacking/gitlab-cve-2026-85706-one-http-request-no-authentication-full-file-read-exploited-within-24-hours.html)
   - [Conti Hacker Who Built Malware and Attacked Victims Gets Four-Year Sentence](https://securityaffairs.com/198931/cyber-crime/conti-hacker-who-built-malware-and-attacked-victims-gets-four-year-sentence.html)
-- OnionSec
-  - [想哭](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247486001&idx=1&sn=bfdcfc72152a95e97118e86e929c900c)
-- Deep Web
-  - [WARNING: Dark Matter is exit scamming!](https://www.reddit.com/r/deepweb/comments/1weul11/warning_dark_matter_is_exit_scamming/)
-  - [Info about darkweb](https://www.reddit.com/r/deepweb/comments/1wfce4k/info_about_darkweb/)
 - KitPloit - PenTest Tools!
   - [espectre snapshot](https://kitploit.com/en/posts/github-francescopace-espectre-snapshot)
   - [wifit3 v0.3.1](https://kitploit.com/en/posts/github-derv82-wifit3-v031)
@@ -139,3 +134,5 @@
   - [waf-checker v1.2.0](https://kitploit.com/en/posts/github-sech0us3-waf-checker-v120)
   - [clawpatrol v0.5.10](https://kitploit.com/en/posts/github-denoland-clawpatrol-v0510)
   - [GhostESP v2.2-pre1](https://kitploit.com/en/posts/github-ghostesp-revival-ghostesp-v22-pre1)
+- OnionSec
+  - [想哭](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247486001&idx=1&sn=bfdcfc72152a95e97118e86e929c900c)
