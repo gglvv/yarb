@@ -2,39 +2,18 @@
 
 - SecWiki News
   - [SecWiki News 2026-09-13 Review](http://www.sec-wiki.com/?2026-09-13)
-- Sploitus.com Exploits RSS Feed
-  - [Exploit for Use After Free in Linux Linux_Kernel](https://sploitus.com/exploit?id=91EA059D-A324-5C1F-B26D-A8D9C38120C9&utm_source=rss&utm_medium=rss)
-  - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Cisco Secure_Firewall_Management_Center](https://sploitus.com/exploit?id=EA2ECD75-AD35-54E6-9081-7E8EC3145347&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-86283](https://sploitus.com/exploit?id=BF41E29F-12BF-5AE5-85F2-DA882483DEC0&utm_source=rss&utm_medium=rss)
-  - [react2shell-exploit](https://sploitus.com/exploit?id=35C76A41-F72A-53E4-97CE-1E777348D9FC&utm_source=rss&utm_medium=rss)
-  - [Exploit for Classic Buffer Overflow in Apache Http_Server](https://sploitus.com/exploit?id=92C0957A-F7CF-5B24-B6B3-B6B5F0C22EC9&utm_source=rss&utm_medium=rss)
-  - [Exploit for SQL Injection in Drupal](https://sploitus.com/exploit?id=AD4457C9-F24C-5AC0-9548-721DEFF4A69B&utm_source=rss&utm_medium=rss)
-  - [cve-2025-15467 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MATERAJ2-CVE-2025-15467&utm_source=rss&utm_medium=rss)
-  - [xortigate-cve-2023-27997 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LEXFO-XORTIGATE-CVE-2023-27997&utm_source=rss&utm_medium=rss)
-  - [CVE-2025-66516-POC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SID6224-CVE-2025-66516-POC&utm_source=rss&utm_medium=rss)
-  - [Firefox-CVE-2024-9680 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TDONAWORTH-FIREFOX-CVE-2024-9680&utm_source=rss&utm_medium=rss)
-  - [CVE-2021-40444 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KLEZVIRUS-CVE-2021-40444&utm_source=rss&utm_medium=rss)
-  - [Rie exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-IMPOST0R-RIE&utm_source=rss&utm_medium=rss)
-  - [CVE-2016-4437 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PIZZA-POWER-CVE-2016-4437&utm_source=rss&utm_medium=rss)
-  - [CVE-2021-34646 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MOTIKAN2010-CVE-2021-34646&utm_source=rss&utm_medium=rss)
-  - [CVE-2023-43344-Quick-CMS-Stored-XSS---SEO-Meta-description exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SROMANHU-CVE-2023-43344-QUICK-CMS-STORED-XSS---SEO-META-DESCRIPTION&utm_source=rss&utm_medium=rss)
-  - [CVE-2023-49982 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GERALDOALCANTARA-CVE-2023-49982&utm_source=rss&utm_medium=rss)
-  - [cve-2017-5638 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JRRDEV-CVE-2017-5638&utm_source=rss&utm_medium=rss)
-  - [CVE-2021-43858-MinIO exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KHUNTOR-CVE-2021-43858-MINIO&utm_source=rss&utm_medium=rss)
-  - [CVE-2024-50986 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RIFTSANDROSES-CVE-2024-50986&utm_source=rss&utm_medium=rss)
-  - [CVE-2006-3392 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KERNEL-CYBER-CVE-2006-3392&utm_source=rss&utm_medium=rss)
-  - [CVE-2023-30212-OURPHP-Vulnerability exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-IMATHEWVINCENT-CVE-2023-30212-OURPHP-VULNERABILITY&utm_source=rss&utm_medium=rss)
-  - [CVE-2018-16987 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GQUERE-CVE-2018-16987&utm_source=rss&utm_medium=rss)
-  - [Log4j-JNDIServer exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-IMMUNITYINC-LOG4J-JNDISERVER&utm_source=rss&utm_medium=rss)
-  - [CVE-2025-24893-XWiki-SSTI-RCE exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RIPPSEC-CVE-2025-24893-XWIKI-SSTI-RCE&utm_source=rss&utm_medium=rss)
-  - [CVE-2025-34300POC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JISI-001-CVE-2025-34300POC&utm_source=rss&utm_medium=rss)
-  - [CVE-2026-37065 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JFS-JFS-CVE-2026-37065&utm_source=rss&utm_medium=rss)
-  - [CVE-2019-6340 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JAS502N-CVE-2019-6340&utm_source=rss&utm_medium=rss)
-  - [CVE-2022-28368 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RVZSEC-CVE-2022-28368&utm_source=rss&utm_medium=rss)
-  - [SpoolFool exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LY4K-SPOOLFOOL&utm_source=rss&utm_medium=rss)
-  - [CVE-2024-23897 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MURATAYDEMIR-CVE-2024-23897&utm_source=rss&utm_medium=rss)
 - Recent Commits to cve:main
   - [Update Sun Sep 13 12:09:33 UTC 2026](https://github.com/trickest/cve/commit/f9372750dbaf1331551a12ecd109eff26d402c33)
+- 先知安全技术社区
+  - [Android App WebView JSBridge任意页面凭证窃取漏洞挖掘案例分析](https://xz.aliyun.com/news/92826)
+  - [多成员 gzip 请求体的解压范围错位](https://xz.aliyun.com/news/92825)
+  - [先声明者胜:glibc 同名符号裁决顺序下的实现替换与依赖降级](https://xz.aliyun.com/news/92824)
+  - [有意思的ssrf绕过](https://xz.aliyun.com/news/92821)
+- 先知安全技术社区
+  - [Android App WebView JSBridge任意页面凭证窃取漏洞挖掘案例分析](https://xz.aliyun.com/news/92826)
+  - [多成员 gzip 请求体的解压范围错位](https://xz.aliyun.com/news/92825)
+  - [先声明者胜:glibc 同名符号裁决顺序下的实现替换与依赖降级](https://xz.aliyun.com/news/92824)
+  - [有意思的ssrf绕过](https://xz.aliyun.com/news/92821)
 - Kitploit — Hacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!
   - [espectre snapshot](https://kitploit.com/en/posts/github-francescopace-espectre-snapshot)
   - [wifit3 v0.3.1](https://kitploit.com/en/posts/github-derv82-wifit3-v031)
@@ -66,8 +45,6 @@
   - [GhostESP v2.2-pre1](https://kitploit.com/en/posts/github-ghostesp-revival-ghostesp-v22-pre1)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]虫群Agent代码审计](https://key08.com/index.php/2026/09/13/3321.html)
-- 离别歌
-  - [AI记账的最佳实践](https://www.leavesongs.com/THINK/ai-bookkeeping-best-practices.html)
 - Reverse Engineering
   - [Super Trouper: A new MCP server in Golang to give coding agents a Frida interface](https://www.reddit.com/r/ReverseEngineering/comments/1wf8wpo/super_trouper_a_new_mcp_server_in_golang_to_give/)
   - [Locating Flutter's TLS certificate verifier in a stripped libflutter.so, tested across 13 apps and 9 engine versions](https://www.reddit.com/r/ReverseEngineering/comments/1wexq29/locating_flutters_tls_certificate_verifier_in_a/)
@@ -75,28 +52,35 @@
   - [GitHub - grm2ngo/turnstile: Cloudflare Turnstile — measured research notes: the 2-POST chain, the per-fetch build pool, the capture protocol, and the FO1 bag-binding mechanism (per-draw execution/nonce binding)](https://www.reddit.com/r/ReverseEngineering/comments/1wf0ddl/github_grm2ngoturnstile_cloudflare_turnstile/)
 - 离别歌
   - [AI记账的最佳实践](https://www.leavesongs.com/THINK/ai-bookkeeping-best-practices.html)
+- 离别歌
+  - [AI记账的最佳实践](https://www.leavesongs.com/THINK/ai-bookkeeping-best-practices.html)
+- 奇客Solidot–传递最新科技情报
+  - [宇树如何将机器狗的价格降至 2000 美元](https://www.solidot.org/story?sid=85366)
+  - [Matt Mullenweg 据报道恢复了对 Automattic 的控制](https://www.solidot.org/story?sid=85365)
+  - [北京全面限制无人机](https://www.solidot.org/story?sid=85364)
+  - [暴雪宣布 FPS 版《星际争霸》](https://www.solidot.org/story?sid=85362)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [报告：中国AI发展重心从大模型转向智能体](https://blog.upx8.com/%E6%8A%A5%E5%91%8A-%E4%B8%AD%E5%9B%BDAI%E5%8F%91%E5%B1%95%E9%87%8D%E5%BF%83%E4%BB%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BD%AC%E5%90%91%E6%99%BA%E8%83%BD%E4%BD%93)
   - [三星请来名叫蒂姆·库克的新西兰房产经纪人“评测”自家折叠机](https://blog.upx8.com/%E4%B8%89%E6%98%9F%E8%AF%B7%E6%9D%A5%E5%90%8D%E5%8F%AB%E8%92%82%E5%A7%86-%E5%BA%93%E5%85%8B%E7%9A%84%E6%96%B0%E8%A5%BF%E5%85%B0%E6%88%BF%E4%BA%A7%E7%BB%8F%E7%BA%AA%E4%BA%BA-%E8%AF%84%E6%B5%8B-%E8%87%AA%E5%AE%B6%E6%8A%98%E5%8F%A0%E6%9C%BA)
   - [淘宝闪购：苹果 iPhone 18 Pro 系列手机预售火爆，首小时销售额较上代 17 Pro 系列翻倍](https://blog.upx8.com/%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD-%E8%8B%B9%E6%9E%9C-iPhone-18-Pro-%E7%B3%BB%E5%88%97%E6%89%8B%E6%9C%BA%E9%A2%84%E5%94%AE%E7%81%AB%E7%88%86-%E9%A6%96%E5%B0%8F%E6%97%B6%E9%94%80%E5%94%AE%E9%A2%9D%E8%BE%83%E4%B8%8A%E4%BB%A3-17-Pro-%E7%B3%BB%E5%88%97%E7%BF%BB%E5%80%8D)
   - [新修订的《北京市无人驾驶航空器管理规定》将于11月15日实施！开放三种处置渠道](https://blog.upx8.com/%E6%96%B0%E4%BF%AE%E8%AE%A2%E7%9A%84-%E5%8C%97%E4%BA%AC%E5%B8%82%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E8%88%AA%E7%A9%BA%E5%99%A8%E7%AE%A1%E7%90%86%E8%A7%84%E5%AE%9A-%E5%B0%86%E4%BA%8E11%E6%9C%8815%E6%97%A5%E5%AE%9E%E6%96%BD-%E5%BC%80%E6%94%BE%E4%B8%89%E7%A7%8D%E5%A4%84%E7%BD%AE%E6%B8%A0%E9%81%93)
-  - [奥尔特曼：OpenAI公司年内不会IPO](https://blog.upx8.com/%E5%A5%A5%E5%B0%94%E7%89%B9%E6%9B%BC-OpenAI%E5%85%AC%E5%8F%B8%E5%B9%B4%E5%86%85%E4%B8%8D%E4%BC%9AIPO)
-- 安全分析与研究
-  - [FDE工程实战03-评估体系工程](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497139&idx=1&sn=19a0b8210e299d7e8bb3b332884880b4)
-- 奇客Solidot–传递最新科技情报
-  - [暴雪宣布 FPS 版《星际争霸》](https://www.solidot.org/story?sid=85362)
 - 青衣十三楼飞花堂
   - [跑得跟兔子一样快的小小四](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489931&idx=1&sn=82ec6e95ea18c5a9727c8decace7e0c5)
+- 安全分析与研究
+  - [FDE工程实战03-评估体系工程](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497139&idx=1&sn=19a0b8210e299d7e8bb3b332884880b4)
 - 中国信息安全
   - [国家安全部党委书记、部长陈一新：全面筑牢人工智能安全屏障 推动人工智能健康有序发展](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664266571&idx=1&sn=a7b2fca40cf53ca3957d2e717e5eaeb2)
 - 安全学术圈
   - [行业会议 | 2026年网络空间安全学术会议](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495911&idx=1&sn=c4c76784980c65eaee8379baeec1b861)
+- 君哥的体历
+  - [亚投行五楼的国图书店，上午和妙妙去看了会书](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492565&idx=1&sn=8a74a6873aae5500ae53c64ca7a9370b)
 - 安全圈
   - [【安全圈】GitHub又崩了！PR重大中断全球研发停摆](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078887&idx=1&sn=827bd308e3107145cc3946977e22cc37)
   - [【安全圈】洗衣机19小时传400MB流量！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078887&idx=2&sn=5cfaa97c4a7dd9162e99d90a914de125)
   - [【安全圈】微软9月补丁日！973个漏洞3个已在野利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078887&idx=3&sn=215aae05d6856f35530102d5d20892aa)
   - [【安全圈】游戏资源站暗藏投毒！黑产盗号卖进暗网](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078887&idx=4&sn=6ebb239da4887467b6f9f6ca7a1ccf39)
 - 极客公园
+  - [移动支持折叠屏 iPhone esim 业务；特斯拉将曝光 Roadster 跑车；智谱融 50 亿美元加码基础模型 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113546&idx=1&sn=28b67eeb83b98518855e05809bce4815)
   - [苹果的折叠屏等了十五年，体验还差临门一脚](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113527&idx=1&sn=0002cf5a91bfa191da1d5c3ec3230fb7)
   - [造物 100 #06｜自动驾驶「上」轮椅了，口袋相机学会飞行，AI 教练上了雪场](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113524&idx=1&sn=d6c58a1c726f1d4780f166c6ea2dde92)
   - [OpenAI、Anthropic 再次发出「AI 末日」警告；小米澎程今日全国交付；Deepseek 灰度测试 AI 语音对话 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113508&idx=1&sn=de3431aa0248e1833ba2af2104632cbf)
@@ -110,10 +94,22 @@
   - [Hackers exploit Tencent app flaw to deploy GrayRabbit malware](https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/)
   - [Chess.com (2026) - 4,653,212 breached accounts](https://haveibeenpwned.com/Breach/Chess2026)
   - [Il fragile patto di fiducia della cybersecurity](https://guerredirete.substack.com/p/il-fragile-patto-di-fiducia-della)
-- 君哥的体历
-  - [亚投行五楼的国图书店，上午和妙妙去看了会书](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492565&idx=1&sn=8a74a6873aae5500ae53c64ca7a9370b)
+- Have I Been Pwned latest breaches
+  - [Chess.com (2026) - 4,653,212 breached accounts](https://haveibeenpwned.com/Breach/Chess2026)
 - 熵减矩阵
   - [150亿token：我给小米平板6 Pro移植了原生Linux](https://mp.weixin.qq.com/s?__biz=Mzg2MTc1NDAxMA==&mid=2247485416&idx=1&sn=2634bd517520bc9b1d27f3067025266e)
+- The Hacker News
+  - [Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data](https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html)
+- Security Affairs
+  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 114](https://securityaffairs.com/198980/breaking-news/security-affairs-malware-newsletter-round-114.html)
+  - [Security Affairs newsletter Round 594 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/198957/security/security-affairs-newsletter-round-594-by-pierluigi-paganini-international-edition.html)
+  - [GitLab CVE-2026-85706: One HTTP Request, No Authentication, Full File Read – Exploited Within 24 Hours](https://securityaffairs.com/198945/hacking/gitlab-cve-2026-85706-one-http-request-no-authentication-full-file-read-exploited-within-24-hours.html)
+  - [Conti Hacker Who Built Malware and Attacked Victims Gets Four-Year Sentence](https://securityaffairs.com/198931/cyber-crime/conti-hacker-who-built-malware-and-attacked-victims-gets-four-year-sentence.html)
+- OnionSec
+  - [想哭](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247486001&idx=1&sn=bfdcfc72152a95e97118e86e929c900c)
+- Deep Web
+  - [WARNING: Dark Matter is exit scamming!](https://www.reddit.com/r/deepweb/comments/1weul11/warning_dark_matter_is_exit_scamming/)
+  - [Info about darkweb](https://www.reddit.com/r/deepweb/comments/1wfce4k/info_about_darkweb/)
 - KitPloit - PenTest Tools!
   - [espectre snapshot](https://kitploit.com/en/posts/github-francescopace-espectre-snapshot)
   - [wifit3 v0.3.1](https://kitploit.com/en/posts/github-derv82-wifit3-v031)
@@ -143,16 +139,3 @@
   - [waf-checker v1.2.0](https://kitploit.com/en/posts/github-sech0us3-waf-checker-v120)
   - [clawpatrol v0.5.10](https://kitploit.com/en/posts/github-denoland-clawpatrol-v0510)
   - [GhostESP v2.2-pre1](https://kitploit.com/en/posts/github-ghostesp-revival-ghostesp-v22-pre1)
-- Have I Been Pwned latest breaches
-  - [Chess.com (2026) - 4,653,212 breached accounts](https://haveibeenpwned.com/Breach/Chess2026)
-- Blackhat Library: Hacking techniques and research
-  - [Some completely unhinged paranoid dev built 290+ web tools that run 100% locally with zero server contact, like they're prepping for an internet collapse](https://www.reddit.com/r/blackhat/comments/1wfie6p/some_completely_unhinged_paranoid_dev_built_290/)
-- OnionSec
-  - [想哭](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247486001&idx=1&sn=bfdcfc72152a95e97118e86e929c900c)
-- Security Affairs
-  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 114](https://securityaffairs.com/198980/breaking-news/security-affairs-malware-newsletter-round-114.html)
-  - [Security Affairs newsletter Round 594 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/198957/security/security-affairs-newsletter-round-594-by-pierluigi-paganini-international-edition.html)
-  - [GitLab CVE-2026-85706: One HTTP Request, No Authentication, Full File Read – Exploited Within 24 Hours](https://securityaffairs.com/198945/hacking/gitlab-cve-2026-85706-one-http-request-no-authentication-full-file-read-exploited-within-24-hours.html)
-  - [Conti Hacker Who Built Malware and Attacked Victims Gets Four-Year Sentence](https://securityaffairs.com/198931/cyber-crime/conti-hacker-who-built-malware-and-attacked-victims-gets-four-year-sentence.html)
-- The Hacker News
-  - [Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data](https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html)
