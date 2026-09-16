@@ -1,29 +1,30 @@
 # 每日安全资讯（2026-09-16）
 
-- SecWiki News
-  - [SecWiki News 2026-09-15 Review](http://www.sec-wiki.com/?2026-09-15)
-- Tenable Blog
-  - [Oracle September 2026 Critical Security Patch Update addresses 672 CVEs](https://www.tenable.com/blog/oracle-september-2026-critical-security-patch-update-addresses-672-cves)
-  - [Australia is replacing the Essential Eight with a new cyber framework. Here’s how exposure management can help you get ahead of it.](https://www.tenable.com/blog/australia-essential-eight-replacement-compliance-exposure-management)
-- Paper - 知道创宇404实验室
-  - [融合谱特征与激活聚类用于医疗影像模型后门检测：方法、实现与评估](https://paper.seebug.org/3519)
-- 先知安全技术社区
-  - [Groovy 沙箱绕过技术分析-以Apache Syncope为例的多版本RCE绕过](https://xz.aliyun.com/news/92835)
-  - [CVE-2024-51504 漏洞分析](https://xz.aliyun.com/news/92832)
-  - [vm2 沙箱逃逸全解析：从跨 Realm 边界到异常与 Promise 链的攻防演进](https://xz.aliyun.com/news/92831)
-- obaby 𝐢‍𝐧⃝ void
-  - [成也UNI，败也UNI](https://zhongxiaojie.cn/2026/09/1914/)
 - Recent Commits to cve:main
   - [Update Tue Sep 15 12:11:31 UTC 2026](https://github.com/trickest/cve/commit/f4a9fe77dab6bbcb968031a8159589af57be8024)
 - Der Flounder
   - [Enrolling macOS Golden Gate 27.0.0 virtual machines with MDM servers does not work correctly](https://derflounder.wordpress.com/2026/09/15/enrolling-macos-golden-gate-27-0-0-virtual-machines-with-mdm-servers-does-not-work-correctly/)
   - [Intel apps and macOS Golden Gate](https://derflounder.wordpress.com/2026/09/15/intel-apps-and-macos-golden-gate/)
+- Tenable Blog
+  - [Oracle September 2026 Critical Security Patch Update addresses 672 CVEs](https://www.tenable.com/blog/oracle-september-2026-critical-security-patch-update-addresses-672-cves)
+  - [Australia is replacing the Essential Eight with a new cyber framework. Here’s how exposure management can help you get ahead of it.](https://www.tenable.com/blog/australia-essential-eight-replacement-compliance-exposure-management)
 - 先知安全技术社区
   - [Groovy 沙箱绕过技术分析-以Apache Syncope为例的多版本RCE绕过](https://xz.aliyun.com/news/92835)
   - [CVE-2024-51504 漏洞分析](https://xz.aliyun.com/news/92832)
   - [vm2 沙箱逃逸全解析：从跨 Realm 边界到异常与 Promise 链的攻防演进](https://xz.aliyun.com/news/92831)
-- GuidePoint Security
-  - [The Next Evolution of Identity: Extending IAM Across People, Machines, and AI](https://www.guidepointsecurity.com/blog/evolution-of-identity-extending-iam/)
+- 先知安全技术社区
+  - [Groovy 沙箱绕过技术分析-以Apache Syncope为例的多版本RCE绕过](https://xz.aliyun.com/news/92835)
+  - [CVE-2024-51504 漏洞分析](https://xz.aliyun.com/news/92832)
+  - [vm2 沙箱逃逸全解析：从跨 Realm 边界到异常与 Promise 链的攻防演进](https://xz.aliyun.com/news/92831)
+- SecWiki News
+  - [SecWiki News 2026-09-15 Review](http://www.sec-wiki.com/?2026-09-15)
+- obaby 𝐢‍𝐧⃝ void
+  - [成也UNI，败也UNI](https://zhongxiaojie.cn/2026/09/1914/)
+- Paper - 知道创宇404实验室
+  - [融合谱特征与激活聚类用于医疗影像模型后门检测：方法、实现与评估](https://paper.seebug.org/3519)
+- Horizon3
+  - [Security Data Isn’t the Problem. Security Context Is.](https://horizon3.ai/intelligence/blogs/security-data-context-crowdstrike/)
+  - [Horizon3 Announces Integration with CrowdStrike Falcon® Next-Gen SIEM](https://horizon3.ai/news/press-release/crowdstrike-falcon-next-gen-siem-integration/)
 - Kitploit — Hacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!
   - [macnoise v1.0.0](https://kitploit.com/en/posts/github-0xv1n-macnoise-v100)
   - [django-DefectDojo v3.3.100](https://kitploit.com/en/posts/github-defectdojo-django-defectdojo-33100)
@@ -55,18 +56,24 @@
   - [WhoCord v1.2.1](https://kitploit.com/en/posts/github-siv-nick-whocord-v121)
   - [brook v20270101](https://kitploit.com/en/posts/github-txthinking-brook-v20270101)
   - [osv-scanner v2.6.0](https://kitploit.com/en/posts/github-google-osv-scanner-v260)
-  - [warpgate v0.29.0-beta.1](https://kitploit.com/en/posts/github-warp-tech-warpgate-v0290-beta1)
-  - [cowrie v3.0.14](https://kitploit.com/en/posts/github-cowrie-cowrie-v3014)
-- Horizon3
-  - [Security Data Isn’t the Problem. Security Context Is.](https://horizon3.ai/intelligence/blogs/security-data-context-crowdstrike/)
-  - [Horizon3 Announces Integration with CrowdStrike Falcon® Next-Gen SIEM](https://horizon3.ai/news/press-release/crowdstrike-falcon-next-gen-siem-integration/)
+- GuidePoint Security
+  - [The Next Evolution of Identity: Extending IAM Across People, Machines, and AI](https://www.guidepointsecurity.com/blog/evolution-of-identity-extending-iam/)
+- The Trail of Bits Blog
+  - [1Password's AI patching benchmark is misleading](https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/)
 - Malwarebytes
   - [How to opt out of AI chatbot training](https://www.malwarebytes.com/blog/how-to/2026/09/how-to-opt-out-of-ai-chatbot-training)
   - [HBO Max’s verified Reddit account hijacked to spread malware](https://www.malwarebytes.com/blog/news/2026/09/hbo-maxs-verified-reddit-account-hijacked-to-spread-malware)
   - [Meta AI builds detailed profiles of children from years of family posts](https://www.malwarebytes.com/blog/family-and-parenting/2026/09/meta-ai-builds-detailed-profiles-of-children-from-years-of-family-posts)
   - [Search results are sending people to fake Bitrefill checkouts](https://www.malwarebytes.com/blog/threat-intel/2026/09/search-results-are-sending-people-to-fake-bitrefill-checkouts)
-- The Trail of Bits Blog
-  - [1Password's AI patching benchmark is misleading](https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/)
+- HackerNews
+  - [黑客针对暴露的 Vite 开发服务器窃取 AWS、Azure 机密信息](http://0.0.0.0:8080/post/64685)
+  - [安装量达 3 万的 Twitch 扩展泄露用户 OAuth 令牌](http://0.0.0.0:8080/post/64684)
+  - [日本数字厅称 VPN 漏洞泄露 24.6 万条人员记录](http://0.0.0.0:8080/post/64683)
+  - [Telegram Desktop 缺陷允许隐藏 JavaScript 从 HTML 导出文件中窃取消息](http://0.0.0.0:8080/post/64682)
+  - [新型 DDRop 攻击攻破 Intel TDX 和 AMD SEV-SNP 机密计算](http://0.0.0.0:8080/post/64681)
+  - [3BB 攻击者利用 MeshCentral 后门获取 root 权限，目标是用户凭据](http://0.0.0.0:8080/post/64680)
+- 威努特安全网络
+  - [集团分支越多，安全风险越大？威努特给出一体化方案](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651144091&idx=1&sn=ef35fe3b0b28fc4a77eb35a6c99a027e)
 - rtl-sdr.com
   - [SDR–: A Software-Defined Radio Application with Visual Signal Path](https://www.rtl-sdr.com/sdr-a-software-defined-radio-application-with-visual-signal-path/)
   - [AVARE ADS-B Receiver for Android Updated](https://www.rtl-sdr.com/avare-ads-b-receiver-for-android-updated/)
@@ -85,31 +92,38 @@
 - 网安志异
   - [数学家的数学，还是数学的数学？](https://mp.weixin.qq.com/s?__biz=MzAxNzYyNzMyNg==&mid=2664232853&idx=1&sn=7ea5ea2ff05dbd44abb84b7951fdb310)
   - [数学是什么？](https://mp.weixin.qq.com/s?__biz=MzAxNzYyNzMyNg==&mid=2664232853&idx=2&sn=ba711ebfe4f4e1d800860105ac6c281f)
-- 安全客
-  - [AI已经开始自动打你了：Anthropic捅破窗户纸，黑客用Claude实现"检测即重生"](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790476&idx=1&sn=259ec76a2dc788f984e054bb78b54e1f)
-- 安全内参
-  - [AI已成网络犯罪“核动力”？Anthropic警告黑客组织滥用AI进度惊人](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516598&idx=1&sn=7065f075905a219b4ed6ef61a4335a5b)
-  - [欧盟《数据法》迎来关键节点：新上市连接产品必须“默认支持用户访问数据”](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516598&idx=2&sn=fbb62480d771378a662b4b4f2579ad42)
 - vivo千镜
   - [vivo 通过ISO漏洞管理体系认证，漏洞治理全面接轨国际标准](https://mp.weixin.qq.com/s?__biz=MzI0Njg4NzE3MQ==&mid=2247492424&idx=1&sn=ddf6fff159e06459eeb6f3daf07d5d3d)
+- 我的安全视界观
+  - [我的读书笔记：停止用"我"思考](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488060&idx=1&sn=6cd3420deaed7bad480bb37639490c36)
 - 安全分析与研究
   - [FDE工程实战05-客户交付与模式沉淀](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497154&idx=1&sn=c9f422632d62bf38174fa2b088a9dbe3)
-- HackerNews
-  - [黑客针对暴露的 Vite 开发服务器窃取 AWS、Azure 机密信息](http://0.0.0.0:8080/post/64685)
-  - [安装量达 3 万的 Twitch 扩展泄露用户 OAuth 令牌](http://0.0.0.0:8080/post/64684)
-  - [日本数字厅称 VPN 漏洞泄露 24.6 万条人员记录](http://0.0.0.0:8080/post/64683)
-  - [Telegram Desktop 缺陷允许隐藏 JavaScript 从 HTML 导出文件中窃取消息](http://0.0.0.0:8080/post/64682)
-  - [新型 DDRop 攻击攻破 Intel TDX 和 AMD SEV-SNP 机密计算](http://0.0.0.0:8080/post/64681)
-  - [3BB 攻击者利用 MeshCentral 后门获取 root 权限，目标是用户凭据](http://0.0.0.0:8080/post/64680)
-- Shostack & Friends Blog
-  - [Threat Modeling Intensive with Complete AI: From a Developer's POV](https://shostack.org/blog/threat-modeling-from-a-software-pov/)
-- 奇安信 CERT
-  - [【已复现】搜狗输入法 Windows 版远程代码执行漏洞(CVE-2026-51990)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507611&idx=1&sn=e76659ca3884261ca6e4af22710cb167)
 - 看雪学苑
   - [安卓ACE反作弊拉黑设备机制技术解析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458620413&idx=2&sn=8845e3d839e35c55394911375ee298b5)
   - [高危漏洞潜伏2年！Telegram导出文件暗藏窃密后门，旧文档至今危险](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458620413&idx=3&sn=48a06d747ea585125c655237ecec878c)
-- 奇安信威胁情报中心
-  - [Cyclops Blink 卷土重来：沉寂四年后再升级，Sandworm 模块化植入体现身 Cisco 防火墙管理中心](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520420&idx=1&sn=fa97b272ba8e38d318ef6721a59c5b10)
+- 奇安信 CERT
+  - [【已复现】搜狗输入法 Windows 版远程代码执行漏洞(CVE-2026-51990)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507611&idx=1&sn=e76659ca3884261ca6e4af22710cb167)
+- 安全客
+  - [AI已经开始自动打你了：Anthropic捅破窗户纸，黑客用Claude实现"检测即重生"](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790476&idx=1&sn=259ec76a2dc788f984e054bb78b54e1f)
+- RapidDNS
+  - [RapidDNS](https://mp.weixin.qq.com/s?__biz=Mzg4NDU0ODMxOQ==&mid=2247485871&idx=1&sn=d4d35852d6d10c2e008c902da923598d)
+- 安全内参
+  - [AI已成网络犯罪“核动力”？Anthropic警告黑客组织滥用AI进度惊人](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516598&idx=1&sn=7065f075905a219b4ed6ef61a4335a5b)
+  - [欧盟《数据法》迎来关键节点：新上市连接产品必须“默认支持用户访问数据”](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516598&idx=2&sn=fbb62480d771378a662b4b4f2579ad42)
+- 数世咨询
+  - [Debian 13.7 修复 92 项安全公告涉及问题，更新 106 个软件包](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543905&idx=1&sn=074bf9ce52a52f1aa52fa2cf51d0bccc)
+  - [直播预热：ASIC芯片的硬核极致打磨之路](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543905&idx=2&sn=cf9b292b35fc2a72b1272f920049f4ac)
+- 补天平台
+  - [《AI 时代，白帽进阶：补天沙龙成都站议题精华抢先看!》](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247511045&idx=1&sn=9ef0ff8a0241ce57b4a196a8fbcecff7)
+- 安全圈
+  - [【安全圈】DeepSeek又崩了！！！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078938&idx=1&sn=c5c5b2a63e54a1113a078fcee36f047a)
+- 安全牛
+  - [Anthropic主动踩刹车，AI落地团队该醒醒了：模型聪明≠敢让它碰核心系统](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142730&idx=1&sn=5a5ac466370969789abc0eb2c54946c8)
+  - [网安标委发布《人工智能安全治理框架3.0》，风险分类与技术应对措施同步更新；CNVD发布2026年第36期漏洞周报| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142730&idx=2&sn=1b5184c30967d3d8dc83d1996adfe06b)
+- 微步在线
+  - [微步收购主流AI渗透工具CyberStrikeAI](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188078&idx=1&sn=d57338f080a0c7d41b16094080ab906e)
+- Shostack & Friends Blog
+  - [Threat Modeling Intensive with Complete AI: From a Developer's POV](https://shostack.org/blog/threat-modeling-from-a-software-pov/)
 - 奇客Solidot–传递最新科技情报
   - [夜晚睡眠光照太亮可能会损伤心脏](https://www.solidot.org/story?sid=85388)
   - [出于兴趣阅读有助于促进终身的身心健康](https://www.solidot.org/story?sid=85387)
@@ -123,42 +137,36 @@
   - [NVIDIA中国开发者日定档10月苏州，现场设认证考试与黑客松决赛](https://www.solidot.org/story?sid=85379)
   - [Windows 11 的 9 月例行安全更新再次引发了大量故障](https://www.solidot.org/story?sid=85378)
   - [XCancel 服务再次下线](https://www.solidot.org/story?sid=85377)
-- 数世咨询
-  - [Debian 13.7 修复 92 项安全公告涉及问题，更新 106 个软件包](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543905&idx=1&sn=074bf9ce52a52f1aa52fa2cf51d0bccc)
-  - [直播预热：ASIC芯片的硬核极致打磨之路](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543905&idx=2&sn=cf9b292b35fc2a72b1272f920049f4ac)
-- 微步在线
-  - [微步收购主流AI渗透工具CyberStrikeAI](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188078&idx=1&sn=d57338f080a0c7d41b16094080ab906e)
-- 黑鸟
-  - [朝鲜IT远程工作战术升级：跨境招募绕过风控](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188777&idx=1&sn=9fce50553941fc03c79980c7fa3ab062)
-- 安全圈
-  - [【安全圈】DeepSeek又崩了！！！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078938&idx=1&sn=c5c5b2a63e54a1113a078fcee36f047a)
-- 安全牛
-  - [Anthropic主动踩刹车，AI落地团队该醒醒了：模型聪明≠敢让它碰核心系统](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142730&idx=1&sn=5a5ac466370969789abc0eb2c54946c8)
-  - [网安标委发布《人工智能安全治理框架3.0》，风险分类与技术应对措施同步更新；CNVD发布2026年第36期漏洞周报| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142730&idx=2&sn=1b5184c30967d3d8dc83d1996adfe06b)
-- 威努特安全网络
-  - [集团分支越多，安全风险越大？威努特给出一体化方案](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651144091&idx=1&sn=ef35fe3b0b28fc4a77eb35a6c99a027e)
-- 青藤云安全
-  - [深度报告 | NIST CSF 2.0，给 AI 一把安全标尺](https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650851857&idx=1&sn=c440d38a99344ead7ca2afa307eff8d3)
-- 国家互联网应急中心CNCERT
-  - [CNVD漏洞周报2026年第36期](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502165&idx=1&sn=f76897a4faed11bffee8aada736cb34b)
-- 火绒安全
-  - [采购文件暗藏杀机——PureRAT木马针对电商定向窃密](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247537496&idx=1&sn=8d47c16e350caf59e3306701ea2a21c8)
-  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247537496&idx=2&sn=fb35a0a25037c93f6159f0129c4df3fe)
-- 字节跳动技术团队
-  - [飞连，让豆包工作更安全办公](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247522397&idx=1&sn=c787c3b15a18e9d64fcf1280f127b958)
-- 补天平台
-  - [《AI 时代，白帽进阶：补天沙龙成都站议题精华抢先看!》](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247511045&idx=1&sn=9ef0ff8a0241ce57b4a196a8fbcecff7)
 - 网络空间安全科学学报
   - [2026年网络空间安全学术会议注册早鸟票延期通知](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247508693&idx=1&sn=00cc38b00ff11dd37ac384f361e99ea1)
+- 奇安信威胁情报中心
+  - [Cyclops Blink 卷土重来：沉寂四年后再升级，Sandworm 模块化植入体现身 Cisco 防火墙管理中心](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520420&idx=1&sn=fa97b272ba8e38d318ef6721a59c5b10)
+- 青藤云安全
+  - [深度报告 | NIST CSF 2.0，给 AI 一把安全标尺](https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650851857&idx=1&sn=c440d38a99344ead7ca2afa307eff8d3)
+- 字节跳动技术团队
+  - [飞连，让豆包工作更安全办公](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247522397&idx=1&sn=c787c3b15a18e9d64fcf1280f127b958)
+- 国家互联网应急中心CNCERT
+  - [CNVD漏洞周报2026年第36期](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502165&idx=1&sn=f76897a4faed11bffee8aada736cb34b)
+- 黑鸟
+  - [朝鲜IT远程工作战术升级：跨境招募绕过风控](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188777&idx=1&sn=9fce50553941fc03c79980c7fa3ab062)
+- CNVD漏洞平台
+  - [2025年度CNVD优秀单位（个人）名单](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497365&idx=1&sn=157360bcf4c8fc6439fadc347b915683)
+- 360数字安全
+  - [CCS 2026成都网络安全技术交流活动启幕，360破解智能体规模应用必答题！](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586896&idx=1&sn=1e5665a04adb8216f42d05a53591b305)
+  - [香港政府及业界代表团到访360数字安全集团参观交流](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586896&idx=2&sn=ef5959e02a2cdaac6faaeeb073fa918a)
 - 极客公园
   - [在飞书的上下文底座上，豆包开工了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113628&idx=1&sn=dfdf0f7a300cb13179445a543c369ced)
   - [对话小宇宙 kyth：播客的护城河是真实，AI 无法取代的是人的立场](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113576&idx=1&sn=eb6fa0af13ee2ed5bc1057ce88b202c8)
   - [iOS 27、MacOS 27 正式发布；豆包手机助手消费者版亮相；李想：「大车」趋势一定会结束 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113565&idx=1&sn=a8850001e818966b020623026d7cbef1)
-- 360数字安全
-  - [CCS 2026成都网络安全技术交流活动启幕，360破解智能体规模应用必答题！](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586896&idx=1&sn=1e5665a04adb8216f42d05a53591b305)
-  - [香港政府及业界代表团到访360数字安全集团参观交流](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586896&idx=2&sn=ef5959e02a2cdaac6faaeeb073fa918a)
-- CNVD漏洞平台
-  - [2025年度CNVD优秀单位（个人）名单](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247497365&idx=1&sn=157360bcf4c8fc6439fadc347b915683)
+- ICT Security Magazine
+  - [Richieste dell’autorità contraffatte: il caso Revolut e la verifica delle istanze](https://www.ictsecuritymagazine.com/notizie/richieste-dati-contraffatte-autorita-caso-revolut/)
+  - [DDRop, un interposer da 159 dollari rimette in discussione le garanzie del confidential computing](https://www.ictsecuritymagazine.com/notizie/ddrop-confidential-computing-intel/)
+- SANS Internet Storm Center, InfoCON: green
+  - [MacOS 27 - First Boot, (Tue, Sep 15th)](https://isc.sans.edu/diary/rss/33340)
+  - [ISC Stormcast For Tuesday, September 15th, 2026 https://isc.sans.edu/podcastdetail/10094, (Tue, Sep 15th)](https://isc.sans.edu/diary/rss/33338)
+- Schneier on Security
+  - [25 Years of Mass Surveillance Is Enough](https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html)
+  - [On the NSA’s Supercomputer from the 1960s](https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html)
 - Over Security
   - [Threat Hunting and Defending #2: concepts, framework, Threat Model (p3)](https://roccosicilia.com/2026/09/13/threat-hunting-and-defending-2-concepts-framework-threat-model-p3/)
   - [CenterPoint Energy confirms customer data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/)
@@ -188,11 +196,22 @@
   - [Il “pulsante di aiuto” sui siti del Terzo settore: come progettarlo in linea con il GDPR](https://www.cybersecurity360.it/legal/privacy-dati-personali/il-pulsante-di-aiuto-sui-siti-del-terzo-settore-come-progettarlo-in-linea-con-il-gdpr/)
   - [Cisco patches Secure Email Gateway zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/)
   - [International Meteor Organization Hit by Cyberattack, Weeks of Disruption Expected](https://thecyberexpress.com/international-meteor-organization-cyberattack/)
-  - [Nintendo Switch Flaw Lets Nearby Attackers Run Code, Steal Data](https://thecyberexpress.com/nintendo-switch-vulnerability/)
-  - [UK Small Firms Bear Brunt of Rising Cyberattacks, Hiscox Finds](https://thecyberexpress.com/uk-cyberattack-rate-hits-38-among-small-firms/)
-- ICT Security Magazine
-  - [Richieste dell’autorità contraffatte: il caso Revolut e la verifica delle istanze](https://www.ictsecuritymagazine.com/notizie/richieste-dati-contraffatte-autorita-caso-revolut/)
-  - [DDRop, un interposer da 159 dollari rimette in discussione le garanzie del confidential computing](https://www.ictsecuritymagazine.com/notizie/ddrop-confidential-computing-intel/)
+- 火绒安全
+  - [采购文件暗藏杀机——PureRAT木马针对电商定向窃密](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247537496&idx=1&sn=8d47c16e350caf59e3306701ea2a21c8)
+  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247537496&idx=2&sn=fb35a0a25037c93f6159f0129c4df3fe)
+- Deeplinks
+  - [California: Tell the Governor to Stand Up for Net Neutrality, Affordability, and Public Safety](https://www.eff.org/deeplinks/2026/09/california-tell-governor-stand-net-neutrality-affordability-and-public-safety)
+- Security Affairs
+  - [U.S. CISA adds Cisco Secure Email Gateway flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/199156/security/u-s-cisa-adds-cisco-secure-email-gateway-flaw-to-its-known-exploited-vulnerabilities-catalog.html)
+  - [Cisco Warns of Ongoing Exploitation of Critical Email Gateway Zero-Day](https://securityaffairs.com/199137/hacking/cisco-warns-of-ongoing-exploitation-of-critical-email-gateway-zero-day.html)
+  - [Shared Hosting at Risk: LiteSpeed Enterprise Bug Can Grant Root from a Single Tenant](https://securityaffairs.com/199127/security/shared-hosting-at-risk-litespeed-enterprise-bug-can-grant-root-from-a-single-tenant.html)
+  - [One Exploit Chain, Two Espionage Campaigns: Chrome and Windows Under Fire](https://securityaffairs.com/199104/apt/one-exploit-chain-two-espionage-campaigns-chrome-and-windows-under-fire.html)
+  - [Telegram Desktop Flaw Could Turn Old Chat Exports Into Data Theft Traps](https://securityaffairs.com/199076/security/telegram-desktop-flaw-could-turn-old-chat-exports-into-data-theft-traps.html)
+  - [Non-Zero-Day VPN Flaw Left Japan ‘s Government Shared Network Platform Exposed: 246,000 Records at Risk](https://securityaffairs.com/199090/security/non-zero-day-vpn-flaw-left-japan-government-shared-network-platform-exposed-246000-records-at-risk.html)
+- GRAHAM CLULEY
+  - [Former AT&T store worker jailed after moonlighting as a SIM-swap gang’s inside man](https://www.bitdefender.com/en-us/blog/hotforsecurity/former-at-t-worker-jailed-sim-swap)
+- 安全419
+  - [AI 向善 安全有道｜2026 CCS 启幕 多维共探智能时代网安新范式](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247555004&idx=1&sn=df8849c9cbe3ed3659747a82a34c3518)
 - The Hacker News
   - [KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens](https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html)
   - [Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists](https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html)
@@ -203,14 +222,8 @@
   - [LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server](https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html)
   - [Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution](https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html)
   - [China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE](https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html)
-- SANS Internet Storm Center, InfoCON: green
-  - [MacOS 27 - First Boot, (Tue, Sep 15th)](https://isc.sans.edu/diary/rss/33340)
-  - [ISC Stormcast For Tuesday, September 15th, 2026 https://isc.sans.edu/podcastdetail/10094, (Tue, Sep 15th)](https://isc.sans.edu/diary/rss/33338)
-- Deeplinks
-  - [California: Tell the Governor to Stand Up for Net Neutrality, Affordability, and Public Safety](https://www.eff.org/deeplinks/2026/09/california-tell-governor-stand-net-neutrality-affordability-and-public-safety)
-- Schneier on Security
-  - [25 Years of Mass Surveillance Is Enough](https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html)
-  - [On the NSA’s Supercomputer from the 1960s](https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html)
+- Tor Project blog
+  - [New Release: Tor Browser 15.0.23](https://blog.torproject.org/new-release-tor-browser-15023/)
 - KitPloit - PenTest Tools!
   - [macnoise v1.0.0](https://kitploit.com/en/posts/github-0xv1n-macnoise-v100)
   - [django-DefectDojo v3.3.100](https://kitploit.com/en/posts/github-defectdojo-django-defectdojo-33100)
@@ -243,18 +256,6 @@
   - [brook v20270101](https://kitploit.com/en/posts/github-txthinking-brook-v20270101)
   - [osv-scanner v2.6.0](https://kitploit.com/en/posts/github-google-osv-scanner-v260)
   - [warpgate v0.29.0-beta.1](https://kitploit.com/en/posts/github-warp-tech-warpgate-v0290-beta1)
-  - [cowrie v3.0.14](https://kitploit.com/en/posts/github-cowrie-cowrie-v3014)
-- Tor Project blog
-  - [New Release: Tor Browser 15.0.23](https://blog.torproject.org/new-release-tor-browser-15023/)
-- 安全419
-  - [AI 向善 安全有道｜2026 CCS 启幕 多维共探智能时代网安新范式](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247555004&idx=1&sn=df8849c9cbe3ed3659747a82a34c3518)
-- Security Affairs
-  - [U.S. CISA adds Cisco Secure Email Gateway flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/199156/security/u-s-cisa-adds-cisco-secure-email-gateway-flaw-to-its-known-exploited-vulnerabilities-catalog.html)
-  - [Cisco Warns of Ongoing Exploitation of Critical Email Gateway Zero-Day](https://securityaffairs.com/199137/hacking/cisco-warns-of-ongoing-exploitation-of-critical-email-gateway-zero-day.html)
-  - [Shared Hosting at Risk: LiteSpeed Enterprise Bug Can Grant Root from a Single Tenant](https://securityaffairs.com/199127/security/shared-hosting-at-risk-litespeed-enterprise-bug-can-grant-root-from-a-single-tenant.html)
-  - [One Exploit Chain, Two Espionage Campaigns: Chrome and Windows Under Fire](https://securityaffairs.com/199104/apt/one-exploit-chain-two-espionage-campaigns-chrome-and-windows-under-fire.html)
-  - [Telegram Desktop Flaw Could Turn Old Chat Exports Into Data Theft Traps](https://securityaffairs.com/199076/security/telegram-desktop-flaw-could-turn-old-chat-exports-into-data-theft-traps.html)
-  - [Non-Zero-Day VPN Flaw Left Japan ‘s Government Shared Network Platform Exposed: 246,000 Records at Risk](https://securityaffairs.com/199090/security/non-zero-day-vpn-flaw-left-japan-government-shared-network-platform-exposed-246000-records-at-risk.html)
 - Security Weekly Podcast Network (Audio)
   - [RoboGators, HBOMAX, Microsoft, DAS, Horsebot 3000,  Aaran Leyland does AI, and More - SWN #616](http://sites.libsyn.com/18678/robogators-hbomax-microsoft-das-horsebot-3000-aaran-leyland-does-ai-and-more-swn-616)
   - [The AI Threat Multiplier: Securing Mobile Apps in the Automated Era - Ryan Lloyd, Jason Cortlund - ASW #400](http://sites.libsyn.com/18678/the-ai-threat-multiplier-securing-mobile-apps-in-the-automated-era-ryan-lloyd-jason-cortlund-asw-400)
