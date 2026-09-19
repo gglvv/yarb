@@ -1,21 +1,31 @@
 # 每日安全资讯（2026-09-19）
 
-- SecWiki News
-  - [SecWiki News 2026-09-18 Review](http://www.sec-wiki.com/?2026-09-18)
 - Recent Commits to cve:main
   - [Update Fri Sep 18 11:51:27 UTC 2026](https://github.com/trickest/cve/commit/314b0878e4a8f1bf74c8d23a9c9e2b26865b7740)
-- 先知安全技术社区
-  - [AI安全风险TOP 10: OWASP GenAI LLM TOP 10 2026 中文民间翻译](https://xz.aliyun.com/news/92853)
-- obaby 𝐢‍𝐧⃝ void
-  - [夜跑](https://zhongxiaojie.cn/2026/09/1936/)
 - 安全客-有思想的安全新媒体
   - [首个"AI黑客"智能体暗网开售：渗透周期从两周缩到2.8天](https://www.anquanke.com/post/id/316114)
 - 先知安全技术社区
   - [AI安全风险TOP 10: OWASP GenAI LLM TOP 10 2026 中文民间翻译](https://xz.aliyun.com/news/92853)
+- obaby 𝐢‍𝐧⃝ void
+  - [夜跑](https://zhongxiaojie.cn/2026/09/1936/)
 - ongoing by Tim Bray
   - [Regulate and Standardize AI? Nope.](https://www.tbray.org/ongoing/When/202x/2026/09/18/On-Regulating-AI)
+- SecWiki News
+  - [SecWiki News 2026-09-18 Review](http://www.sec-wiki.com/?2026-09-18)
+- 先知安全技术社区
+  - [AI安全风险TOP 10: OWASP GenAI LLM TOP 10 2026 中文民间翻译](https://xz.aliyun.com/news/92853)
 - 小刀志
   - [从 PE 到 PKCS#7：深入理解 Windows PE 数字签名机制](https://xiaodaozhi.com/security/482.html)
+- Horizon3
+  - [How Kyocera AVX Built a Global Security Validation Program from Zero](https://horizon3.ai/customer-story/kyocera-avx-global-security-validation/)
+- Malwarebytes
+  - [New Android malware uses AI to steal bank logins and PINs](https://www.malwarebytes.com/blog/news/2026/09/new-android-malware-uses-ai-to-steal-bank-logins-and-pins)
+  - [Did an AI really try to break free from human control?](https://www.malwarebytes.com/blog/ai/2026/09/did-an-ai-really-try-to-break-free-from-human-control)
+  - [Fake parcel delivery messages steal your card and bank details](https://www.malwarebytes.com/blog/scams/2026/09/fake-parcel-delivery-messages-steal-your-card-and-bank-details)
+- Reverse Engineering
+  - [Flock Safety camera teardown: 53 hardcoded credentials, Android 8.1 with June 2018 patches, encryption key stored in plaintext on the same partition, root access via button sequence on the back. These cameras process 20B vehicle scans/month for 5,000 police departments.](https://www.reddit.com/r/ReverseEngineering/comments/1wk5c8y/flock_safety_camera_teardown_53_hardcoded/)
+  - [Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug | Ledger Donjon](https://www.reddit.com/r/ReverseEngineering/comments/1wk21lf/photonemissionguided_laser_fault_injection/)
+  - [EVA DAWN OFFLINE GLOBAL: Progress 17/09/2026 (5 weeks with ChatGPT Free and Plus)](https://www.reddit.com/r/ReverseEngineering/comments/1wju9mo/eva_dawn_offline_global_progress_17092026_5_weeks/)
 - Kitploit — Hacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!
   - [SmartScanner-Source](https://kitploit.com/en/tools/github/fauxrougee/smartscanner-source)
   - [syft v1.52.0](https://kitploit.com/en/posts/github-anchore-syft-v1520)
@@ -43,18 +53,6 @@
   - [user-scanner v1.5.2](https://kitploit.com/en/posts/github-kaifcodec-user-scanner-v152)
   - [authelia v4.39.28](https://kitploit.com/en/posts/github-authelia-authelia-v43928)
   - [screenpipe app-v2.7.42](https://kitploit.com/en/posts/github-screenpipe-screenpipe-app-v2742)
-  - [o1js-scan](https://kitploit.com/en/tools/github/auditinfra-io/o1js-scan)
-  - [HydraDragonAntivirus openedr-v2-release-portable-9](https://kitploit.com/en/posts/github-hydradragonantivirus-hydradragonantivirus-openedr-v2-release-portable-9)
-- Malwarebytes
-  - [New Android malware uses AI to steal bank logins and PINs](https://www.malwarebytes.com/blog/news/2026/09/new-android-malware-uses-ai-to-steal-bank-logins-and-pins)
-  - [Did an AI really try to break free from human control?](https://www.malwarebytes.com/blog/ai/2026/09/did-an-ai-really-try-to-break-free-from-human-control)
-  - [Fake parcel delivery messages steal your card and bank details](https://www.malwarebytes.com/blog/scams/2026/09/fake-parcel-delivery-messages-steal-your-card-and-bank-details)
-- Reverse Engineering
-  - [Flock Safety camera teardown: 53 hardcoded credentials, Android 8.1 with June 2018 patches, encryption key stored in plaintext on the same partition, root access via button sequence on the back. These cameras process 20B vehicle scans/month for 5,000 police departments.](https://www.reddit.com/r/ReverseEngineering/comments/1wk5c8y/flock_safety_camera_teardown_53_hardcoded/)
-  - [Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug | Ledger Donjon](https://www.reddit.com/r/ReverseEngineering/comments/1wk21lf/photonemissionguided_laser_fault_injection/)
-  - [EVA DAWN OFFLINE GLOBAL: Progress 17/09/2026 (5 weeks with ChatGPT Free and Plus)](https://www.reddit.com/r/ReverseEngineering/comments/1wju9mo/eva_dawn_offline_global_progress_17092026_5_weeks/)
-- Horizon3
-  - [How Kyocera AVX Built a Global Security Validation Program from Zero](https://horizon3.ai/customer-story/kyocera-avx-global-security-validation/)
 - The Trail of Bits Blog
   - [Auditing in the age of (good enough) AI](https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/)
 - Panda's Blog
@@ -89,46 +87,29 @@
   - [Cloudflare开源专为安全审计打造的Ai技能框架](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188832&idx=1&sn=b6117b0e17cde62de53258e7f140b584)
 - 安全客
   - [首个"AI黑客"智能体暗网开售：渗透周期从两周缩到2.8天](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790486&idx=1&sn=22c8dc8a3d15ede66750b8fb97c3481c)
-- 代码卫士
-  - [思科：ISE 认证绕过满分 0day 已遭活跃利用](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527173&idx=1&sn=1ae52540af18bbb2b176b85380e718cc)
-  - [Brevo 供应链攻击将 ClickFix 脚本注入客户网站](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527173&idx=2&sn=925116097a06747f1ebf65484314fe58)
 - 安全内参
   - [大模型主动撒谎掩盖错误！OpenAI又披露6起AI失控行为事件](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516622&idx=1&sn=a47a33f8503fe96fcece4630c4cd6bd1)
   - [泰国最大网络运营商3BB遭工具投毒，多台内网服务器被远控窃取数据](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516622&idx=2&sn=3afb6cf1740be46b8ad4828db710a7b4)
 - 青衣十三楼飞花堂
   - [Ubuntu 26+MobaXterm 26.4+X11转发](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489944&idx=1&sn=6b71fb1b951ae74da02cd8344d62971c)
+- 代码卫士
+  - [思科：ISE 认证绕过满分 0day 已遭活跃利用](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527173&idx=1&sn=1ae52540af18bbb2b176b85380e718cc)
+  - [Brevo 供应链攻击将 ClickFix 脚本注入客户网站](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527173&idx=2&sn=925116097a06747f1ebf65484314fe58)
 - 天御攻防实验室
   - [独家｜白宫国家安全委员会秘密推动“网络铸造厂”](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487180&idx=1&sn=1bf3ea4c8e3a5f8b18c7fa4d26cf6c03)
-- 绿盟科技研究通讯
-  - [AI与云安全事件案例分析周报｜2026.09.14 - 2026.09.18](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247500300&idx=1&sn=801a881290e1f047de6c1cdabab2b19a)
 - 安全分析与研究
   - [EDR内存与行为分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497174&idx=1&sn=48009da89ded21353e98601dfdb193ca)
+- 安全研究GoSSIP
+  - [G.O.S.S.I.P 阅读推荐 2026-09-18 复活吧，僵尸银行卡！](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247502243&idx=1&sn=318abe668bb722e1c68813f5e93cb69f)
+- 绿盟科技研究通讯
+  - [AI与云安全事件案例分析周报｜2026.09.14 - 2026.09.18](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247500300&idx=1&sn=801a881290e1f047de6c1cdabab2b19a)
+- 安全学术圈
+  - [你的智能体归我：LLM 供应链中恶意中间人攻击的实测研究](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495942&idx=1&sn=daf851538f72f5b732a6ca33136ecac6)
 - 数世咨询
   - [报告发布 | 大模型安全测评体系与实践报告（2026）](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543953&idx=1&sn=ad2684fb3899e3bd7863e1dce1aa2299)
   - [看不见的防线，看得见的安全守护｜政务专网安全专题分享会直播预告](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543953&idx=2&sn=c2971e4b06af8ef474f98f414addc59c)
-- 奇安信 CERT
-  - [【已复现】CUPS 本地权限提升漏洞(QVD-2026-70361)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507636&idx=1&sn=287f2ab9ef346511394206fe57e15917)
 - 微步在线
   - [权威认可！微步斩获CyberSecAsia两项大奖](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188150&idx=1&sn=acdca4f65958cf7f1d5e7c6000f40ca8)
-- 看雪学苑
-  - [伪造 Object Header：一次 C++ 解释器类型混淆漏洞利用分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458620746&idx=1&sn=f11712bbd283f302d31c548f756d7d8f)
-  - [借助Claude Opus 5，研究人员攻破OpenAI论坛并触达内部代码仓库](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458620746&idx=2&sn=cafe80533071083ad69ac58e45cce2d2)
-  - [招人！60-70K～招智驾安全、IoT 渗透、大模型安全工程师](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458620746&idx=3&sn=db4e79d91f3ff4a1704cc7768f03216e)
-- 安全研究GoSSIP
-  - [G.O.S.S.I.P 阅读推荐 2026-09-18 复活吧，僵尸银行卡！](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247502243&idx=1&sn=318abe668bb722e1c68813f5e93cb69f)
-- KCon 黑客大会
-  - [弈智破局，善用智能——KCon 2026 议题招募正式开启](https://mp.weixin.qq.com/s?__biz=MzIzOTAwNzc1OQ==&mid=2651138082&idx=1&sn=bf4db17767b1e6f81da28770620bc5ec)
-- 极客公园
-  - [机器人如何自进化，乐享科技走了一条新路](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113802&idx=1&sn=a052c9e85b2b45528e0ead024c40210a)
-  - [三体还没降临，是因为叶文洁没用上千问办公吗？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113785&idx=1&sn=62ac6619e846a2d7090b8ed72d174ec2)
-  - [影视飓风 Tim 称 iPhone Duo「烫到握不住」；赛力斯否认「问界撤出华为门店」；黄仁勋：英伟达 2027 年芯片销量将翻倍 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113754&idx=1&sn=3dc40bd5cc5e66ba3f19cf65468b61ef)
-- M01N Team
-  - [每周蓝军技术推送（2026.9.12-9.18）](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495539&idx=1&sn=c2334ae480a3aa5461312b2bd80c1006)
-- 安全圈
-  - [【安全圈】程序员炸锅！智谱 ZCode 被曝静默打包工作区与 Git 历史直传云端](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079007&idx=1&sn=e3ef54109cd4fbca8f3ac931c56cc95c)
-  - [【安全圈】AI 控机还杀不死！新型安卓木马曝光：卸载仍常驻 Shell](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079007&idx=2&sn=1de45fa1e0c91b7f0ce3601436604bef)
-  - [【安全圈】AI 智能体打穿沙箱！Docker 曝 9.4 分逃逸漏洞：穿透虚拟机读写宿主](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079007&idx=3&sn=f573fda0930936118a001a7d0985e466)
-  - [【安全圈】防火墙中枢被击穿！Check Point 曝 9.8 分漏洞：超长用户名直接拿 Root](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079007&idx=4&sn=ee03a1d00069903ffa5e2b89cb3178f0)
 - 中国信息安全
   - [通知 | 国家网信办就《国务院关于保障未成年人健康安全使用网络的规定（征求意见稿）》公开征求意见](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267043&idx=1&sn=03d8d9bd9aea0c5be7012f536d5dd570)
   - [通知 | 中央网信办发文 加强涉企侵权信息管理 持续推动营商网络环境优化](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267043&idx=2&sn=bc10ecb798d170bf09977d6066a3ebf5)
@@ -136,24 +117,44 @@
   - [通知 | 网安标委就《网络安全标准实践指南——智能体系统开发安全指南（征求意见稿）》公开征求意见](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267043&idx=4&sn=6ef6b991cb7d79eb3636336d5cd91047)
   - [关注 | 又一批“银狐”木马相关恶意域名及恶意IP公布！](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267043&idx=5&sn=77beeefb24f9126356ab80b9ef31b15d)
   - [专家观点 | 全民合力守护智能时代网络安全](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267043&idx=6&sn=683535c3e8bc3d813e62d2e5537d7b42)
-- 安全学术圈
-  - [你的智能体归我：LLM 供应链中恶意中间人攻击的实测研究](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495942&idx=1&sn=daf851538f72f5b732a6ca33136ecac6)
+- M01N Team
+  - [每周蓝军技术推送（2026.9.12-9.18）](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247495539&idx=1&sn=c2334ae480a3aa5461312b2bd80c1006)
+- 安全圈
+  - [【安全圈】程序员炸锅！智谱 ZCode 被曝静默打包工作区与 Git 历史直传云端](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079007&idx=1&sn=e3ef54109cd4fbca8f3ac931c56cc95c)
+  - [【安全圈】AI 控机还杀不死！新型安卓木马曝光：卸载仍常驻 Shell](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079007&idx=2&sn=1de45fa1e0c91b7f0ce3601436604bef)
+  - [【安全圈】AI 智能体打穿沙箱！Docker 曝 9.4 分逃逸漏洞：穿透虚拟机读写宿主](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079007&idx=3&sn=f573fda0930936118a001a7d0985e466)
+  - [【安全圈】防火墙中枢被击穿！Check Point 曝 9.8 分漏洞：超长用户名直接拿 Root](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079007&idx=4&sn=ee03a1d00069903ffa5e2b89cb3178f0)
+- KCon 黑客大会
+  - [弈智破局，善用智能——KCon 2026 议题招募正式开启](https://mp.weixin.qq.com/s?__biz=MzIzOTAwNzc1OQ==&mid=2651138082&idx=1&sn=bf4db17767b1e6f81da28770620bc5ec)
+- 腾讯安全威胁情报中心
+  - [Skill 攻防新战场：经典威胁的载体迁移与检测回归](https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247512121&idx=1&sn=e2018388664af7321424160553e65ec7)
 - 京东安全应急响应中心
   - [关于成长体系 V2.0「守卫计划」上线及通用漏洞计划调整公告](https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727851318&idx=1&sn=edba3d033050f0f4b396f9d53773fe2b)
 - 安全牛
   - [黑产也开始做“供应商评估”了！当犯罪走向供应链化，我们的防御思维还停在原地吗？](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142769&idx=1&sn=19141321d5f95471ee95fe65dc69bec5)
   - [CISA将停发每周漏洞公告，漏洞管理转向真实风险优先；国家计算机病毒应急处理中心发布《大模型与智能体安全综合测评报告（2026）》| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142769&idx=2&sn=1088753198b95568d815cc936f14fd2e)
-- 字节跳动安全中心
-  - [Mythos 对企业安全架构影响的思考](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496379&idx=1&sn=6e86473c1f1fc30edfbb2cc00d263b34)
-- 网络空间安全科学学报
-  - [墙报征集 | 2026年网络空间安全学术会议墙报征集](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247509132&idx=1&sn=3f035d6cf446232eaf0bf2489bf9a3b5)
-- 腾讯安全威胁情报中心
-  - [Skill 攻防新战场：经典威胁的载体迁移与检测回归](https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247512121&idx=1&sn=e2018388664af7321424160553e65ec7)
+- 奇安信 CERT
+  - [【已复现】CUPS 本地权限提升漏洞(QVD-2026-70361)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507636&idx=1&sn=287f2ab9ef346511394206fe57e15917)
+- 看雪学苑
+  - [伪造 Object Header：一次 C++ 解释器类型混淆漏洞利用分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458620746&idx=1&sn=f11712bbd283f302d31c548f756d7d8f)
+  - [借助Claude Opus 5，研究人员攻破OpenAI论坛并触达内部代码仓库](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458620746&idx=2&sn=cafe80533071083ad69ac58e45cce2d2)
+  - [招人！60-70K～招智驾安全、IoT 渗透、大模型安全工程师](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458620746&idx=3&sn=db4e79d91f3ff4a1704cc7768f03216e)
+- 极客公园
+  - [机器人如何自进化，乐享科技走了一条新路](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113802&idx=1&sn=a052c9e85b2b45528e0ead024c40210a)
+  - [三体还没降临，是因为叶文洁没用上千问办公吗？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113785&idx=1&sn=62ac6619e846a2d7090b8ed72d174ec2)
+  - [影视飓风 Tim 称 iPhone Duo「烫到握不住」；赛力斯否认「问界撤出华为门店」；黄仁勋：英伟达 2027 年芯片销量将翻倍 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113754&idx=1&sn=3dc40bd5cc5e66ba3f19cf65468b61ef)
+- 丁爸 情报分析师的工具箱
+  - [【开源报告】美国中央情报局的隐蔽行动与政治暗杀](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157513&idx=1&sn=ecb6f424d96ad72385af4d9d1041c4d7)
+  - [【开源报告】日本右翼与极右翼政党近十年发展、趋势预测与对策建议](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157503&idx=1&sn=4ca07811e83fa861815d7eb7a73e72bf)
 - 火绒安全
   - [Windows11 24H2系统即将停更 火绒守护不打烊](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247537685&idx=1&sn=e16d7134ecc132a87e98cf1c8b0ed497)
   - [火绒小问答——「企业版」联网控制](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247537685&idx=2&sn=750bca97bf27e75519ba15e3256f0964)
   - [【火绒安全周报】国家网信办发布一批执法典型案例/学生信息成黑市商品](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247537685&idx=3&sn=8028c1bef85a25246ec050c77e06c8ed)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247537685&idx=4&sn=94923949ebd506e48c01c4e2ed4a5644)
+- 字节跳动安全中心
+  - [Mythos 对企业安全架构影响的思考](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247496379&idx=1&sn=6e86473c1f1fc30edfbb2cc00d263b34)
+- 网络空间安全科学学报
+  - [墙报征集 | 2026年网络空间安全学术会议墙报征集](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247509132&idx=1&sn=3f035d6cf446232eaf0bf2489bf9a3b5)
 - 奇安信威胁情报中心
   - [一张图片打进 OpenAI 内部代码库：Claude 助攻的 72 小时攻击链复盘](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520635&idx=1&sn=3c4e4803b0c06c11bd1c0072d499aee2)
   - [每周高级威胁情报解读(2026.09.11~09.17)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520635&idx=2&sn=bfc3819c83ad27cf38b330b18da89f40)
@@ -162,9 +163,15 @@
   - [美国宾州21岁男子被控为“YSL国”筹备恐袭并被查获步枪弹药，在线独狼模式与加密动员对我海外人员及网络治理构成示范风险](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569722&idx=2&sn=bba44b826b461f47188a07535edd67ad)
 - 国家互联网应急中心CNCERT
   - [网络安全能力共享平台发布](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502212&idx=1&sn=194abbc1ecc4b2dfa07006b16c1f4422)
-- 丁爸 情报分析师的工具箱
-  - [【开源报告】美国中央情报局的隐蔽行动与政治暗杀](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157513&idx=1&sn=ecb6f424d96ad72385af4d9d1041c4d7)
-  - [【开源报告】日本右翼与极右翼政党近十年发展、趋势预测与对策建议](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157503&idx=1&sn=4ca07811e83fa861815d7eb7a73e72bf)
+- Beacon Tower Lab
+  - [【0918】重保演习每周情报汇总](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488377&idx=1&sn=a52192cfa67c6734583bb0285dede0fb)
+- ICT Security Magazine
+  - [Forum ICT Security 2026 – NIS2, agenti AI e infrastrutture critiche: due giornate tra responsabilità e incidenti reali](https://www.ictsecuritymagazine.com/notizie/forum-ict-security-2026-evento/)
+  - [Auditabilità dei sistemi AI e catena di custodia digitale: tecniche, artefatti e rischio residuo nella prova](https://www.ictsecuritymagazine.com/articoli/sistemi-ai-audit/)
+- LastKnight.com Feed
+  - [Il più grande furto di competenze della storia umana](https://mgpf.it/2026/09/18/piu-grande-furto-competenze.html)
+- Dark Space Blogspot
+  - [Come Un Dominio Mail Può Essere Compromesso (Apparendo Legittimo)](http://darkwhite666.blogspot.com/2026/09/come-un-dominio-mail-puo-essere.html)
 - Over Security
   - [North Korean hackers infect thousands of devices across 100 countries as part of ‘WaterPlum’ campaign](https://therecord.media/north-korean-hackers-infect-thousands-of-devices-waterplum-scheme)
   - [Gyazo server flaw exploited to steal 23.6 million user records](https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/)
@@ -191,73 +198,59 @@
   - [Intelligenza artificiale e modello 231: cosa cambia per la compliance aziendale](https://www.cybersecurity360.it/legal/intelligenza-artificiale-e-modello-231-cosa-cambia-per-la-compliance-aziendale/)
   - [Microsoft fixes broken copy and paste for Excel 2016 users](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/)
   - [Children Under 13 Could Be Barred From Social Media Under New EU Plan](https://thecyberexpress.com/eu-kids-act-would-block-social-media-access/)
-- Beacon Tower Lab
-  - [【0918】重保演习每周情报汇总](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247488377&idx=1&sn=a52192cfa67c6734583bb0285dede0fb)
-- LastKnight.com Feed
-  - [Il più grande furto di competenze della storia umana](https://mgpf.it/2026/09/18/piu-grande-furto-competenze.html)
-- ICT Security Magazine
-  - [Forum ICT Security 2026 – NIS2, agenti AI e infrastrutture critiche: due giornate tra responsabilità e incidenti reali](https://www.ictsecuritymagazine.com/notizie/forum-ict-security-2026-evento/)
-  - [Auditabilità dei sistemi AI e catena di custodia digitale: tecniche, artefatti e rischio residuo nella prova](https://www.ictsecuritymagazine.com/articoli/sistemi-ai-audit/)
+- SANS Internet Storm Center, InfoCON: green
+  - [ISC Stormcast For Friday, September 18th, 2026 https://isc.sans.edu/podcastdetail/10100, (Fri, Sep 18th)](https://isc.sans.edu/diary/rss/33350)
 - Schneier on Security
   - [Friday Squid Blogging: On Squid Egg Sacs](https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html)
   - [Are AIs Still Struggling with CAPTCHAs?](https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html)
-- SANS Internet Storm Center, InfoCON: green
-  - [ISC Stormcast For Friday, September 18th, 2026 https://isc.sans.edu/podcastdetail/10100, (Fri, Sep 18th)](https://isc.sans.edu/diary/rss/33350)
-- Dark Space Blogspot
-  - [Come Un Dominio Mail Può Essere Compromesso (Apparendo Legittimo)](http://darkwhite666.blogspot.com/2026/09/come-un-dominio-mail-puo-essere.html)
+- 悬镜安全
+  - [从智能代码审计到 AI 漏洞挖掘，看灵脉Code AI如何赋能Agentic Coding](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647800805&idx=1&sn=83ae229e0beb751697d3719060f2c838)
 - Chaos Computer Club - last 100 events feed
+  - [Russische Drohnen zerlegen für Anfänger (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-733-deu-Russische_Drohnen_zerlegen_fuer_Anfaenger_sd.mp4)
+  - [Build Europe's Fediverse Video Infrastructure - Aufbau 1 europäischen Fediverse-Videoinfrastruktur (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-689-deu-Build_Europes_Fediverse_Video_Infrastructure_-_Aufbau_1_europaeischen_Fediverse-Videoinfrastruktur_sd.mp4)
+  - [Über goldene Käfige und ganz wenig Luft (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-hd/ds26-718-deu-Ueber_goldene_Kaefige_und_ganz_wenig_Luft_hd.mp4)
   - [Welcome and Introduction (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-56-eng-Welcome_and_Introduction_sd.mp4)
-  - [Jabber/XMPP: 25 Jahre Digitale Souveränität (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-678-deu-Jabber_XMPP_25_Jahre_Digitale_Souveraenitaet_sd.mp4)
-  - [Bau eines vorbildfreien 8-Bit-Relaiscomputers (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-629-deu-Bau_eines_vorbildfreien_8-Bit-Relaiscomputers_sd.mp4)
-  - [Musikalische Lesung "Das Handbuch – Utopien eines Realisten" (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-620-deu-Musikalische_Lesung_Das_Handbuch_-_Utopien_eines_Realisten_sd.mp4)
-  - [Open Source: Wie Schulen es der deutschen Verwaltung zeigen könnten (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-622-deu-Open_Source_Wie_Schulen_es_der_deutschen_Verwaltung_zeigen_koennten_sd.mp4)
   - [Drone Aid (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-720-eng-Drone_Aid_sd.mp4)
-  - [Joining KDE (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-40-eng-Joining_KDE_sd.mp4)
-  - [GNU Taler: Lose your phone, Lose your money? (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-642-eng-GNU_Taler_Lose_your_phone_Lose_your_money_sd.mp4)
-  - [KDE Development Best Practices (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-33-eng-KDE_Development_Best_Practices_sd.mp4)
-  - [How to test your Craft blueprints (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-24-eng-How_to_test_your_Craft_blueprints_sd.mp4)
-  - [Ocean Design: Build Phase! (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-20-eng-Ocean_Design_Build_Phase_sd.mp4)
-  - [Beauty in Code - A graphical journey through 30 years of KDE's commit history (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-27-eng-Beauty_in_Code_-_A_graphical_journey_through_30_years_of_KDEs_commit_history_sd.mp4)
-  - [An Agency, A Need of Sovereignty, and KDE's Will to Conquer the Enterprise... (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-6-eng-An_Agency_A_Need_of_Sovereignty_and_KDEs_Will_to_Conquer_the_Enterprise_sd.mp4)
-  - [Flood the zone with good arguments – Sea-lioning, aber richtig (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-672-deu-Flood_the_zone_with_good_arguments_-_Sea-lioning_aber_richtig_sd.mp4)
-  - [Kdenlive - take risks while having fun (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-52-eng-Kdenlive_-_take_risks_while_having_fun_sd.mp4)
-  - [KEcoLab Year in Review (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-28-eng-KEcoLab_Year_in_Review_sd.mp4)
-  - [Rethinking KDE builds (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-8-eng-Rethinking_KDE_builds_sd.mp4)
-  - [Hacken lernen trotz KI (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-654-deu-Hacken_lernen_trotz_KI_sd.mp4)
-  - [Vulkan in KWin (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-hd/kde2026-26-eng-Vulkan_in_KWin_hd.mp4)
-  - [A day in the life of QA -  how testing and triage help development (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-49-eng-A_day_in_the_life_of_QA_-_how_testing_and_triage_help_development_sd.mp4)
-  - [QA infrastructure in KDE (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-hd/kde2026-53-eng-QA_infrastructure_in_KDE_hd.mp4)
-  - [Reproducible Builds zur Absicherung von Open-Source-Supply-Chains mit Zero Trust (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-633-deu-Reproducible_Builds_zur_Absicherung_von_Open-Source-Supply-Chains_mit_Zero_Trust_sd.mp4)
-  - [Musiktheorie und Programmierung in der Praxis (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-616-deu-Musiktheorie_und_Programmierung_in_der_Praxis_sd.mp4)
-  - [Kolonialreich Russland, Extraktivismus, indigene Völker und der Krieg (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-695-deu-Kolonialreich_Russland_Extraktivismus_indigene_Voelker_und_der_Krieg_sd.mp4)
-  - [Are we really going to use the same Desktop UX forever? (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-7-eng-Are_we_really_going_to_use_the_same_Desktop_UX_forever_sd.mp4)
-  - [Tales of using KDE software for teaching (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-17-eng-Tales_of_using_KDE_software_for_teaching_sd.mp4)
-  - [Kryptographische Grundlagen verschlüsselnder Dateisysteme (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-655-deu-Kryptographische_Grundlagen_verschluesselnder_Dateisysteme_sd.mp4)
-  - [A year in Plasma (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-21-eng-A_year_in_Plasma_sd.mp4)
-  - [Turning users into contributors - CD in application development (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-16-eng-Turning_users_into_contributors_-_CD_in_application_development_sd.mp4)
   - [Eine FORTH Reise von den 70ern mitten ins Herz des PinePhone (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-683-deu-Eine_FORTH_Reise_von_den_70ern_mitten_ins_Herz_des_PinePhone_sd.mp4)
-  - [What's coming up in Qt (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-22-eng-Whats_coming_up_in_Qt_sd.mp4)
-  - [Wie die CDU die Transparenz abschaffen will (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-674-deu-Wie_die_CDU_die_Transparenz_abschaffen_will_sd.mp4)
-  - [Cyber, cyber, hacks, hacks - Besser berichten über Cybersicherheit (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-643-deu-Cyber_cyber_hacks_hacks_-_Besser_berichten_ueber_Cybersicherheit_sd.mp4)
+  - [Musiktheorie und Programmierung in der Praxis (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-616-deu-Musiktheorie_und_Programmierung_in_der_Praxis_sd.mp4)
+  - [Reproducible Builds zur Absicherung von Open-Source-Supply-Chains mit Zero Trust (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-633-deu-Reproducible_Builds_zur_Absicherung_von_Open-Source-Supply-Chains_mit_Zero_Trust_sd.mp4)
+  - [Musikalische Lesung "Das Handbuch – Utopien eines Realisten" (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-620-deu-Musikalische_Lesung_Das_Handbuch_-_Utopien_eines_Realisten_sd.mp4)
+  - [A day in the life of QA -  how testing and triage help development (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-49-eng-A_day_in_the_life_of_QA_-_how_testing_and_triage_help_development_sd.mp4)
+  - [Rethinking KDE builds (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-8-eng-Rethinking_KDE_builds_sd.mp4)
   - [Palantir Überwachungstechnologie und tödliche Kriegswaffen mit KI im CyberWarfare (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-649-deu-Palantir_Ueberwachungstechnologie_und_toedliche_Kriegswaffen_mit_KI_im_CyberWarfare_sd.mp4)
   - [How do we want to pay? (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-650-eng-How_do_we_want_to_pay_sd.mp4)
+  - [Beauty in Code - A graphical journey through 30 years of KDE's commit history (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-27-eng-Beauty_in_Code_-_A_graphical_journey_through_30_years_of_KDEs_commit_history_sd.mp4)
+  - [KDE Development Best Practices (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-33-eng-KDE_Development_Best_Practices_sd.mp4)
+  - [Kolonialreich Russland, Extraktivismus, indigene Völker und der Krieg (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-695-deu-Kolonialreich_Russland_Extraktivismus_indigene_Voelker_und_der_Krieg_sd.mp4)
+  - [Are we really going to use the same Desktop UX forever? (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-7-eng-Are_we_really_going_to_use_the_same_Desktop_UX_forever_sd.mp4)
+  - [Flood the zone with good arguments – Sea-lioning, aber richtig (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-672-deu-Flood_the_zone_with_good_arguments_-_Sea-lioning_aber_richtig_sd.mp4)
+  - [QA infrastructure in KDE (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-hd/kde2026-53-eng-QA_infrastructure_in_KDE_hd.mp4)
+  - [GNU Taler: Lose your phone, Lose your money? (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-642-eng-GNU_Taler_Lose_your_phone_Lose_your_money_sd.mp4)
+  - [Open Source: Wie Schulen es der deutschen Verwaltung zeigen könnten (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-622-deu-Open_Source_Wie_Schulen_es_der_deutschen_Verwaltung_zeigen_koennten_sd.mp4)
+  - [Vulkan in KWin (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-hd/kde2026-26-eng-Vulkan_in_KWin_hd.mp4)
+  - [Joining KDE (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-40-eng-Joining_KDE_sd.mp4)
+  - [KEcoLab Year in Review (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-28-eng-KEcoLab_Year_in_Review_sd.mp4)
+  - [Kryptographische Grundlagen verschlüsselnder Dateisysteme (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-655-deu-Kryptographische_Grundlagen_verschluesselnder_Dateisysteme_sd.mp4)
+  - [An Agency, A Need of Sovereignty, and KDE's Will to Conquer the Enterprise... (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-6-eng-An_Agency_A_Need_of_Sovereignty_and_KDEs_Will_to_Conquer_the_Enterprise_sd.mp4)
+  - [Jabber/XMPP: 25 Jahre Digitale Souveränität (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-678-deu-Jabber_XMPP_25_Jahre_Digitale_Souveraenitaet_sd.mp4)
+  - [Kdenlive - take risks while having fun (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-52-eng-Kdenlive_-_take_risks_while_having_fun_sd.mp4)
+  - [A year in Plasma (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-21-eng-A_year_in_Plasma_sd.mp4)
+  - [Tales of using KDE software for teaching (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-17-eng-Tales_of_using_KDE_software_for_teaching_sd.mp4)
+  - [How to test your Craft blueprints (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-24-eng-How_to_test_your_Craft_blueprints_sd.mp4)
+  - [Hacken lernen trotz KI (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-654-deu-Hacken_lernen_trotz_KI_sd.mp4)
+  - [Cyber, cyber, hacks, hacks - Besser berichten über Cybersicherheit (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-643-deu-Cyber_cyber_hacks_hacks_-_Besser_berichten_ueber_Cybersicherheit_sd.mp4)
+  - [Wie die CDU die Transparenz abschaffen will (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-674-deu-Wie_die_CDU_die_Transparenz_abschaffen_will_sd.mp4)
   - [How-To: Mainline Linux auf dein Handy porten (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-666-deu-How-To_Mainline_Linux_auf_dein_Handy_porten_sd.mp4)
+  - [What's coming up in Qt (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-22-eng-Whats_coming_up_in_Qt_sd.mp4)
+  - [OPSEC by an Armed Forces of Ukraine OSINT team (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-hd/ds26-685-eng-OPSEC_by_an_Armed_Forces_of_Ukraine_OSINT_team_hd.mp4)
+  - [Ocean Design: Build Phase! (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-20-eng-Ocean_Design_Build_Phase_sd.mp4)
   - [Conquering The World, Together (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-23-eng-Conquering_The_World_Together_sd.mp4)
+  - [Turning users into contributors - CD in application development (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-16-eng-Turning_users_into_contributors_-_CD_in_application_development_sd.mp4)
+  - [Bau eines vorbildfreien 8-Bit-Relaiscomputers (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-629-deu-Bau_eines_vorbildfreien_8-Bit-Relaiscomputers_sd.mp4)
 - Yak Project
   - [YTray 实战案例：隔离浏览器越权测试与加密桥接](https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247530377&idx=1&sn=6644d99db88998b1c382b56899c2b9e9)
-- Security Affairs
-  - [Brevo Supply-Chain Attack Infected Over 100,000 Websites](https://securityaffairs.com/199355/hacking/brevo-supply-chain-attack-infected-over-100000-websites.html)
-  - [Gyazo Data Breach Exposes 23 Million User Records](https://securityaffairs.com/199338/data-breach/gyazo-data-breach-exposes-23-million-user-records.html)
-  - [RatHat Turns Android Accessibility Into an Attack Weapon](https://securityaffairs.com/199317/malware/rathat-turns-android-accessibility-into-an-attack-weapon.html)
-  - [Check Point Fixes Critical CVE-2026-91843 Allowing Root Code Execution](https://securityaffairs.com/199279/security/check-point-fixes-critical-cve-2026-91843-allowing-root-code-execution.html)
-- Deep Web
-  - [Good forum](https://www.reddit.com/r/deepweb/comments/1wjvhzc/good_forum/)
-  - [NOOB ALERT](https://www.reddit.com/r/deepweb/comments/1wjeu5v/noob_alert/)
-- Deeplinks
-  - [EFF Statement on California Governor's Executive Order on AI](https://www.eff.org/deeplinks/2026/09/eff-statement-california-governors-executive-order-ai)
-  - [How to Limit What Apple’s New Siri AI Can Access in iOS 27](https://www.eff.org/deeplinks/2026/09/how-limit-what-apples-new-siri-ai-can-access-ios-27)
-  - [Secure Messaging and AI Remain In Conflict Despite the Promise of TEEs](https://www.eff.org/deeplinks/2026/09/secure-messaging-and-ai-remain-conflict-despite-promise-tees)
-  - [EFF to Lawmakers: Ground AI Cybersecurity Rules in Best Practices](https://www.eff.org/deeplinks/2026/09/eff-lawmakers-ground-ai-cybersecurity-rules-best-practices)
+- markitzeroday.com
+  - [Modern Web Security: Essential Pentesting Techniques](https://markitzeroday.com/2026/09/19/modern-web-security-essential-pentesting-technique.html)
 - The Hacker News
   - [Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root](https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html)
   - [New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution](https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html)
@@ -268,12 +261,11 @@
   - [WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage](https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html)
   - [Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer](https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html)
   - [RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall](https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html)
-- markitzeroday.com
-  - [Modern Web Security: Essential Pentesting Techniques](https://markitzeroday.com/2026/09/19/modern-web-security-essential-pentesting-technique.html)
-- OnionSec
-  - [下一个](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247486012&idx=1&sn=fcd97522326a41ca8e48f3dce851b99e)
-- 悬镜安全
-  - [从智能代码审计到 AI 漏洞挖掘，看灵脉Code AI如何赋能Agentic Coding](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647800805&idx=1&sn=83ae229e0beb751697d3719060f2c838)
+- Security Affairs
+  - [Brevo Supply-Chain Attack Infected Over 100,000 Websites](https://securityaffairs.com/199355/hacking/brevo-supply-chain-attack-infected-over-100000-websites.html)
+  - [Gyazo Data Breach Exposes 23 Million User Records](https://securityaffairs.com/199338/data-breach/gyazo-data-breach-exposes-23-million-user-records.html)
+  - [RatHat Turns Android Accessibility Into an Attack Weapon](https://securityaffairs.com/199317/malware/rathat-turns-android-accessibility-into-an-attack-weapon.html)
+  - [Check Point Fixes Critical CVE-2026-91843 Allowing Root Code Execution](https://securityaffairs.com/199279/security/check-point-fixes-critical-cve-2026-91843-allowing-root-code-execution.html)
 - KitPloit - PenTest Tools!
   - [SmartScanner-Source](https://kitploit.com/en/tools/github/fauxrougee/smartscanner-source)
   - [syft v1.52.0](https://kitploit.com/en/posts/github-anchore-syft-v1520)
@@ -302,7 +294,13 @@
   - [authelia v4.39.28](https://kitploit.com/en/posts/github-authelia-authelia-v43928)
   - [screenpipe app-v2.7.42](https://kitploit.com/en/posts/github-screenpipe-screenpipe-app-v2742)
   - [o1js-scan](https://kitploit.com/en/tools/github/auditinfra-io/o1js-scan)
-  - [HydraDragonAntivirus openedr-v2-release-portable-9](https://kitploit.com/en/posts/github-hydradragonantivirus-hydradragonantivirus-openedr-v2-release-portable-9)
+- Deeplinks
+  - [EFF Statement on California Governor's Executive Order on AI](https://www.eff.org/deeplinks/2026/09/eff-statement-california-governors-executive-order-ai)
+  - [How to Limit What Apple’s New Siri AI Can Access in iOS 27](https://www.eff.org/deeplinks/2026/09/how-limit-what-apples-new-siri-ai-can-access-ios-27)
+  - [Secure Messaging and AI Remain In Conflict Despite the Promise of TEEs](https://www.eff.org/deeplinks/2026/09/secure-messaging-and-ai-remain-conflict-despite-promise-tees)
+  - [EFF to Lawmakers: Ground AI Cybersecurity Rules in Best Practices](https://www.eff.org/deeplinks/2026/09/eff-lawmakers-ground-ai-cybersecurity-rules-best-practices)
+- OnionSec
+  - [下一个](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247486012&idx=1&sn=fcd97522326a41ca8e48f3dce851b99e)
 - 安全419
   - [盘点16款国外AI治理工具 筑牢企业大模型与智能体安全防线](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247555375&idx=1&sn=ee177e16cc88fe1ddff6f3dcd69a597b)
 - Security Weekly Podcast Network (Audio)
