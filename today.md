@@ -1,22 +1,16 @@
 # 每日安全资讯（2026-09-20）
 
-- SecWiki News
-  - [SecWiki News 2026-09-19 Review](http://www.sec-wiki.com/?2026-09-19)
-- Sploitus.com Exploits RSS Feed
-  - [hash-identifier exploit](https://sploitus.com/exploit?id=KITPLOIT:1455874543546034505&utm_source=rss&utm_medium=rss)
-  - [CyberStrikeAI exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ED1S0NZ-CYBERSTRIKEAI&utm_source=rss&utm_medium=rss)
-  - [BruteShark exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ODEDSHIMON-BRUTESHARK&utm_source=rss&utm_medium=rss)
-  - [trivy exploit](https://sploitus.com/exploit?id=KITPLOIT:7323577050718865961&utm_source=rss&utm_medium=rss)
-  - [CVE-Lib exploit](https://sploitus.com/exploit?id=1C797369-C048-5DA4-8C1B-2A7D2F947D3B&utm_source=rss&utm_medium=rss)
-  - [tcpdump exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-THE-TCPDUMP-GROUP-TCPDUMP&utm_source=rss&utm_medium=rss)
-  - [malicious-pdf exploit](https://sploitus.com/exploit?id=KITPLOIT:8063277894541294784&utm_source=rss&utm_medium=rss)
-  - [awesome-osint-arsenal exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RAWFILEJSON-AWESOME-OSINT-ARSENAL&utm_source=rss&utm_medium=rss)
-  - [redamon exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SAMUGIT83-REDAMON&utm_source=rss&utm_medium=rss)
 - Recent Commits to cve:main
   - [Update Sat Sep 19 12:26:43 UTC 2026](https://github.com/trickest/cve/commit/d2c1721a31be4adbef7d8969ab2cb94a05da24fb)
+- 先知安全技术社区
+  - [Agentic Skills 供应链攻击与运行监测防御范式](https://xz.aliyun.com/news/92855)
 - 安全客-有思想的安全新媒体
   - [3000 美元、3 个人、72 小时：AI 把 OpenAI 的论坛打穿了](https://www.anquanke.com/post/id/316124)
   - [一个月 68 个 CVE、91.8% 没有 OAuth：你的 AI 工具层正在裸奔](https://www.anquanke.com/post/id/316121)
+- 先知安全技术社区
+  - [Agentic Skills 供应链攻击与运行监测防御范式](https://xz.aliyun.com/news/92855)
+- SecWiki News
+  - [SecWiki News 2026-09-19 Review](http://www.sec-wiki.com/?2026-09-19)
 - Kitploit — Hacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!
   - [rustinel v1.8.0-rc.1](https://kitploit.com/en/posts/github-karib0u-rustinel-v180-rc1)
   - [urx v0.11.0](https://kitploit.com/en/posts/github-hahwul-urx-0110)
@@ -52,30 +46,46 @@
   - [海豚 Bubbles 被发现会强迫饱腹鱼吐出食物然后自己将其吞下](https://www.solidot.org/story?sid=85424)
 - 黑鸟
   - [当全网以为现在是2006年](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188860&idx=1&sn=0be1615627475a59dca7d45ba5a12b1b)
-- 安全客
-  - [国家信息安全漏洞共享平台认证！360揽获三项漏洞治理核心殊荣](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790491&idx=1&sn=4dcf28d6df4c4eeff6eebcf39bc3dcc4)
 - 我的安全视界观
   - [AI在企业级漏洞预警中的应用](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488068&idx=1&sn=46340601f344788aa253f02e77e47a18)
 - 安全分析与研究
   - [EDR攻击技术-进程与遥测欺骗](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497178&idx=1&sn=bc85ee18b9552d272157a8c07ffcda05)
+- 安全客
+  - [国家信息安全漏洞共享平台认证！360揽获三项漏洞治理核心殊荣](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790491&idx=1&sn=4dcf28d6df4c4eeff6eebcf39bc3dcc4)
 - 看雪学苑
   - [OLLVM学姐攻略手册](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458620747&idx=1&sn=b6cdcf56b1664c94f4a37df1fd185ee5)
   - [基于CVD的云手机定制与风控分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458620747&idx=2&sn=662385a51d32288a3332eec39beed28e)
+- 安全圈
+  - [【安全圈】新型 Android 恶意软件 RatHat 利用 AI 自动化控制设备](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079023&idx=1&sn=221bca05e355496f1bc9f47e9891e117)
+  - [【安全圈】攻击者利用 Issabel Framework 漏洞实现未经身份验证的 OS 命令执行](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079023&idx=2&sn=c088f068edf8a75702195606b9aaa1f6)
+  - [【安全圈】美国查封 NightmareStresser DDoS 雇佣攻击平台](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079023&idx=3&sn=6f7e7984ee00e110c789b4ee0537ae17)
+- 丁爸 情报分析师的工具箱
+  - [【开源报告】美国中央情报局（CIA）精神控制项目深度分析报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157527&idx=1&sn=ee6b5483dcb9e69767df193476dcacbb)
 - 极客公园
   - [不可逆的人类衰老，快被 AI 破解了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113803&idx=1&sn=b9376438580cf7a9f202bed98f3fa1d7)
   - [折叠屏iPhone维修费传8000元，苹果称尚未定价；腾讯Chatterfly输入法内测；微软高管称AI训练是「史上最大规模劳动盗窃」｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113820&idx=1&sn=f0fbec42cd39f0844f985dd4b04222e8)
+- Chaos Computer Club - last 100 events feed
+  - [How we hacked the Bavarian State with an Open Source Open Letter (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-29-eng-How_we_hacked_the_Bavarian_State_with_an_Open_Source_Open_Letter_sd.mp4)
+  - [What Has Been Brewing in KDE PIM Land? (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-11-eng-What_Has_Been_Brewing_in_KDE_PIM_Land_sd.mp4)
+- IT Service Management News
+  - [ISO 9001:2026](http://blog.cesaregallotti.it/2026/09/iso-90012026.html)
+- bellingcat
+  - [Christy Kinahan’s UAE Residence Visa Cancelled](https://www.bellingcat.com/news/2026/09/19/christy-kinahans-uae-residence-visa-cancelled/)
+- 技术猫屋
+  - [现代 Web 框架共享原生图片处理链的攻击面拆解](https://mp.weixin.qq.com/s?__biz=Mzg4MzYxODA4Mw==&mid=2247484194&idx=1&sn=0385d879aac31fc35ae40227258d5c1c)
 - Over Security
   - [Viral AI actress' hotline face-scans every caller, watches their mood](https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/)
   - [BragJack attacks hijack AI browser agents through malicious extensions](https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/)
   - [North Korean WaterPlum hackers infected 30,000 devices worldwide](https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/)
   - [ShinyHunters hacks Clop leak site, threatens to extort ransomware gang](https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/)
   - [Calling viral AI actress Tilly Norwood? Agree to a face scan first](https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/)
-- IT Service Management News
-  - [ISO 9001:2026](http://blog.cesaregallotti.it/2026/09/iso-90012026.html)
+- Daniel Miessler
+  - [My Early Thoughts on Jev](https://danielmiessler.com/blog/early-thoughts-on-jev?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - SANS Internet Storm Center, InfoCON: green
   - [HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)](https://isc.sans.edu/diary/rss/33352)
-- bellingcat
-  - [Christy Kinahan’s UAE Residence Visa Cancelled](https://www.bellingcat.com/news/2026/09/19/christy-kinahans-uae-residence-visa-cancelled/)
+- Security Affairs
+  - [Google Gemini also Broke Out of Its Test Environment](https://securityaffairs.com/199392/ai/google-gemini-also-broke-out-of-its-test-environment.html)
+  - [AI Helps Hackers Hijack OpenAI Staff Accounts Through a Forum](https://securityaffairs.com/199378/ai/ai-helps-hackers-hijack-openai-staff-accounts-through-a-forum.html)
 - The Hacker News
   - [Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws](https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html)
   - [Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar](https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html)
@@ -85,15 +95,12 @@
   - [Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up](https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html)
   - [CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories](https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html)
   - [CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild](https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html)
-- Daniel Miessler
-  - [My Early Thoughts on Jev](https://danielmiessler.com/blog/early-thoughts-on-jev?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- Security Affairs
-  - [Google Gemini also Broke Out of Its Test Environment](https://securityaffairs.com/199392/ai/google-gemini-also-broke-out-of-its-test-environment.html)
-  - [AI Helps Hackers Hijack OpenAI Staff Accounts Through a Forum](https://securityaffairs.com/199378/ai/ai-helps-hackers-hijack-openai-staff-accounts-through-a-forum.html)
-- T00ls安全
-  - [十八而志，与子同袍 - tormail](https://mp.weixin.qq.com/s?__biz=Mzg3NzYzODU5NQ==&mid=2247485845&idx=1&sn=e0bbe6f8e76a33ecc679cd22aa3f598d)
+- Blackhat Library: Hacking techniques and research
+  - [Back when you could just freely login to hundreds of active servers a day](https://www.reddit.com/r/blackhat/comments/1wkw4o5/back_when_you_could_just_freely_login_to_hundreds/)
 - OnionSec
   - [从春天走到秋天](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247486017&idx=1&sn=b60b274839e45d2d2a15333714ff742e)
+- T00ls安全
+  - [十八而志，与子同袍 - tormail](https://mp.weixin.qq.com/s?__biz=Mzg3NzYzODU5NQ==&mid=2247485845&idx=1&sn=e0bbe6f8e76a33ecc679cd22aa3f598d)
 - KitPloit - PenTest Tools!
   - [rustinel v1.8.0-rc.1](https://kitploit.com/en/posts/github-karib0u-rustinel-v180-rc1)
   - [urx v0.11.0](https://kitploit.com/en/posts/github-hahwul-urx-0110)
@@ -120,5 +127,3 @@
   - [evmbench-certora-agent-harness](https://kitploit.com/en/tools/github/gmh5225/evmbench-certora-agent-harness)
   - [sslscan v2.2.3](https://kitploit.com/en/posts/github-rbsec-sslscan-223)
   - [faraday v5.24.2](https://kitploit.com/en/posts/github-infobyte-faraday-v5242)
-- 技术猫屋
-  - [现代 Web 框架共享原生图片处理链的攻击面拆解](https://mp.weixin.qq.com/s?__biz=Mzg4MzYxODA4Mw==&mid=2247484194&idx=1&sn=0385d879aac31fc35ae40227258d5c1c)
