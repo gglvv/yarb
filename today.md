@@ -46,15 +46,12 @@
   - [海豚 Bubbles 被发现会强迫饱腹鱼吐出食物然后自己将其吞下](https://www.solidot.org/story?sid=85424)
 - 黑鸟
   - [当全网以为现在是2006年](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188860&idx=1&sn=0be1615627475a59dca7d45ba5a12b1b)
-- 我的安全视界观
-  - [AI在企业级漏洞预警中的应用](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488068&idx=1&sn=46340601f344788aa253f02e77e47a18)
 - 安全客
   - [国家信息安全漏洞共享平台认证！360揽获三项漏洞治理核心殊荣](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790491&idx=1&sn=4dcf28d6df4c4eeff6eebcf39bc3dcc4)
+- 我的安全视界观
+  - [AI在企业级漏洞预警中的应用](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488068&idx=1&sn=46340601f344788aa253f02e77e47a18)
 - 安全分析与研究
   - [EDR攻击技术-进程与遥测欺骗](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497178&idx=1&sn=bc85ee18b9552d272157a8c07ffcda05)
-- 看雪学苑
-  - [OLLVM学姐攻略手册](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458620747&idx=1&sn=b6cdcf56b1664c94f4a37df1fd185ee5)
-  - [基于CVD的云手机定制与风控分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458620747&idx=2&sn=662385a51d32288a3332eec39beed28e)
 - 安全圈
   - [【安全圈】新型 Android 恶意软件 RatHat 利用 AI 自动化控制设备](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079023&idx=1&sn=221bca05e355496f1bc9f47e9891e117)
   - [【安全圈】攻击者利用 Issabel Framework 漏洞实现未经身份验证的 OS 命令执行](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079023&idx=2&sn=c088f068edf8a75702195606b9aaa1f6)
@@ -62,40 +59,63 @@
 - 极客公园
   - [不可逆的人类衰老，快被 AI 破解了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113803&idx=1&sn=b9376438580cf7a9f202bed98f3fa1d7)
   - [折叠屏iPhone维修费传8000元，苹果称尚未定价；腾讯Chatterfly输入法内测；微软高管称AI训练是「史上最大规模劳动盗窃」｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113820&idx=1&sn=f0fbec42cd39f0844f985dd4b04222e8)
-- 丁爸 情报分析师的工具箱
-  - [【开源报告】美国中央情报局（CIA）精神控制项目深度分析报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157527&idx=1&sn=ee6b5483dcb9e69767df193476dcacbb)
+- 看雪学苑
+  - [OLLVM学姐攻略手册](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458620747&idx=1&sn=b6cdcf56b1664c94f4a37df1fd185ee5)
+  - [基于CVD的云手机定制与风控分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458620747&idx=2&sn=662385a51d32288a3332eec39beed28e)
 - Over Security
   - [Viral AI actress' hotline face-scans every caller, watches their mood](https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/)
   - [BragJack attacks hijack AI browser agents through malicious extensions](https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/)
   - [North Korean WaterPlum hackers infected 30,000 devices worldwide](https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/)
   - [ShinyHunters hacks Clop leak site, threatens to extort ransomware gang](https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/)
   - [Calling viral AI actress Tilly Norwood? Agree to a face scan first](https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/)
-- Chaos Computer Club - last 100 events feed
-  - [LGBTQ+ people under russian occupation (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-hd/ds26-696-eng-LGBTQ_people_under_russian_occupation_hd.mp4)
-  - [Who's the robot, here? (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-653-eng-Whos_the_robot_here_sd.mp4)
-  - [TiX.im - a decentralized supercluster (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-646-eng-TiXim_-_a_decentralized_supercluster_sd.mp4)
-  - [Mit einem demokratischen digitalen Euro aus der Polykrise (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-608-deu-Mit_einem_demokratischen_digitalen_Euro_aus_der_Polykrise_sd.mp4)
-  - [KDE Goals - An Upward Spiral (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-25-eng-KDE_Goals_-_An_Upward_Spiral_sd.mp4)
-  - [Closing (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-712-deu-Closing_sd.mp4)
-  - [Home Assistant - Project Insights (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-624-deu-Home_Assistant_-_Project_Insights_sd.mp4)
-  - [Wie man eine Brandmauer einreißt & wie wir darüber reden -  Rechte Mehrheiten im Europaparlament (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-697-deu-Wie_man_eine_Brandmauer_einreisst_wie_wir_darueber_reden_-_Rechte_Mehrheiten_im_Europaparlament_sd.mp4)
-  - [Community Accountability, Sexualisierte Gewalt und die Rolle von Communities (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-736-deu-Community_Accountability_Sexualisierte_Gewalt_und_die_Rolle_von_Communities_sd.mp4)
-  - [How to outlive your home server: The polyproto federation protocol (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-627-eng-How_to_outlive_your_home_server_The_polyproto_federation_protocol_sd.mp4)
-  - [What Has Been Brewing in KDE PIM Land? (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-11-eng-What_Has_Been_Brewing_in_KDE_PIM_Land_sd.mp4)
-  - [Wir haben unser Leben heruntergeladen: Was Unternehmen wirklich über uns wissen (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-637-deu-Wir_haben_unser_Leben_heruntergeladen_Was_Unternehmen_wirklich_ueber_uns_wissen_sd.mp4)
-  - [Привет, Russentrolle! Auf Tuchfühlung mit russischer Desinformation (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-701-deu-Privet_Russentrolle_Auf_Tuchfuehlung_mit_russischer_Desinformation_sd.mp4)
-  - [How we hacked the Bavarian State with an Open Source Open Letter (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-29-eng-How_we_hacked_the_Bavarian_State_with_an_Open_Source_Open_Letter_sd.mp4)
-  - [Prototype Fund: Version 3.0, here we go! (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-652-deu-Prototype_Fund_Version_30_here_we_go_sd.mp4)
-  - [Die Sächsische Polizeirechtsreform ist durch - und nun? (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-612-deu-Die_Saechsische_Polizeirechtsreform_ist_durch_-_und_nun_sd.mp4)
-  - [Peace Union - A Century-Old yet Highly Topical Anti-War Concept (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-664-eng-Peace_Union_-_A_Century-Old_yet_Highly_Topical_Anti-War_Concept_sd.mp4)
-- bellingcat
-  - [Christy Kinahan’s UAE Residence Visa Cancelled](https://www.bellingcat.com/news/2026/09/19/christy-kinahans-uae-residence-visa-cancelled/)
+- 丁爸 情报分析师的工具箱
+  - [【开源报告】美国中央情报局（CIA）精神控制项目深度分析报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157527&idx=1&sn=ee6b5483dcb9e69767df193476dcacbb)
 - IT Service Management News
   - [ISO 9001:2026](http://blog.cesaregallotti.it/2026/09/iso-90012026.html)
 - 技术猫屋
   - [现代 Web 框架共享原生图片处理链的攻击面拆解](https://mp.weixin.qq.com/s?__biz=Mzg4MzYxODA4Mw==&mid=2247484194&idx=1&sn=0385d879aac31fc35ae40227258d5c1c)
 - SANS Internet Storm Center, InfoCON: green
   - [HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)](https://isc.sans.edu/diary/rss/33352)
+- bellingcat
+  - [Christy Kinahan’s UAE Residence Visa Cancelled](https://www.bellingcat.com/news/2026/09/19/christy-kinahans-uae-residence-visa-cancelled/)
+- Daniel Miessler
+  - [My Early Thoughts on Jev](https://danielmiessler.com/blog/early-thoughts-on-jev?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- Chaos Computer Club - last 100 events feed
+  - [Who's the robot, here? (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-653-eng-Whos_the_robot_here_sd.mp4)
+  - [KDE Goals - An Upward Spiral (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-25-eng-KDE_Goals_-_An_Upward_Spiral_sd.mp4)
+  - [Dolphin, the beloved filemanager, past and future (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-15-eng-Dolphin_the_beloved_filemanager_past_and_future_sd.mp4)
+  - [KDE goes to the Pyramids (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-58-eng-KDE_goes_to_the_Pyramids_sd.mp4)
+  - [Report of the Working Groups (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-42-eng-Report_of_the_Working_Groups_sd.mp4)
+  - [Akademy Awards, & Closing Announcements (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-60-eng-Akademy_Awards_Closing_Announcements_sd.mp4)
+  - [Closing (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-712-deu-Closing_sd.mp4)
+  - [TiX.im - a decentralized supercluster (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-646-eng-TiXim_-_a_decentralized_supercluster_sd.mp4)
+  - [Sponsor's talks (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-59-eng-Sponsors_talks_sd.mp4)
+  - [Wie man eine Brandmauer einreißt & wie wir darüber reden -  Rechte Mehrheiten im Europaparlament (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-697-deu-Wie_man_eine_Brandmauer_einreisst_wie_wir_darueber_reden_-_Rechte_Mehrheiten_im_Europaparlament_sd.mp4)
+  - [Wir haben unser Leben heruntergeladen: Was Unternehmen wirklich über uns wissen (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-637-deu-Wir_haben_unser_Leben_heruntergeladen_Was_Unternehmen_wirklich_ueber_uns_wissen_sd.mp4)
+  - [What would it take? A lovable, sovereign, AI-native KDE (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-32-eng-What_would_it_take_A_lovable_sovereign_AI-native_KDE_sd.mp4)
+  - [Community Accountability, Sexualisierte Gewalt und die Rolle von Communities (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-736-deu-Community_Accountability_Sexualisierte_Gewalt_und_die_Rolle_von_Communities_sd.mp4)
+  - [Die Sächsische Polizeirechtsreform ist durch - und nun? (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-612-deu-Die_Saechsische_Polizeirechtsreform_ist_durch_-_und_nun_sd.mp4)
+  - [Packaging KDE on Debian (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-5-eng-Packaging_KDE_on_Debian_sd.mp4)
+  - [Report of the board (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-41-eng-Report_of_the_board_sd.mp4)
+  - [StyleKit - A common QML API for styling Controls and Widgets (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-14-eng-StyleKit_-_A_common_QML_API_for_styling_Controls_and_Widgets_sd.mp4)
+  - [Mit einem demokratischen digitalen Euro aus der Polykrise (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-608-deu-Mit_einem_demokratischen_digitalen_Euro_aus_der_Polykrise_sd.mp4)
+  - [How to cut a tree (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-2-eng-How_to_cut_a_tree_sd.mp4)
+  - [KDE Linux at 2: what we've learned and how it can help you (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-50-eng-KDE_Linux_at_2_what_weve_learned_and_how_it_can_help_you_sd.mp4)
+  - [Peace Union - A Century-Old yet Highly Topical Anti-War Concept (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-664-eng-Peace_Union_-_A_Century-Old_yet_Highly_Topical_Anti-War_Concept_sd.mp4)
+  - [What Has Been Brewing in KDE PIM Land? (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-11-eng-What_Has_Been_Brewing_in_KDE_PIM_Land_sd.mp4)
+  - [LGBTQ+ people under russian occupation (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-hd/ds26-696-eng-LGBTQ_people_under_russian_occupation_hd.mp4)
+  - [Still Breathing: The Past, Present, and Future of Oxygen (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-10-eng-Still_Breathing_The_Past_Present_and_Future_of_Oxygen_sd.mp4)
+  - [Modernizing KDE Print Manager for the Future of Linux Printing (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-47-eng-Modernizing_KDE_Print_Manager_for_the_Future_of_Linux_Printing_sd.mp4)
+  - [License all the files \o/ (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-36-eng-License_all_the_files_o_sd.mp4)
+  - [Activities BoF (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-hd/kde2026-46-eng-Activities_BoF_hd.mp4)
+  - [How to outlive your home server: The polyproto federation protocol (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-627-eng-How_to_outlive_your_home_server_The_polyproto_federation_protocol_sd.mp4)
+  - [Home Assistant - Project Insights (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-624-deu-Home_Assistant_-_Project_Insights_sd.mp4)
+  - [How we hacked the Bavarian State with an Open Source Open Letter (kde2026)](https://cdn.media.ccc.de/events/kde/kde2026/h264-sd/kde2026-29-eng-How_we_hacked_the_Bavarian_State_with_an_Open_Source_Open_Letter_sd.mp4)
+  - [Привет, Russentrolle! Auf Tuchfühlung mit russischer Desinformation (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-701-deu-Privet_Russentrolle_Auf_Tuchfuehlung_mit_russischer_Desinformation_sd.mp4)
+  - [Prototype Fund: Version 3.0, here we go! (DS2026)](https://cdn.media.ccc.de/events/datenspuren/2026/h264-sd/ds26-652-deu-Prototype_Fund_Version_30_here_we_go_sd.mp4)
+- Security Affairs
+  - [Google Gemini also Broke Out of Its Test Environment](https://securityaffairs.com/199392/ai/google-gemini-also-broke-out-of-its-test-environment.html)
+  - [AI Helps Hackers Hijack OpenAI Staff Accounts Through a Forum](https://securityaffairs.com/199378/ai/ai-helps-hackers-hijack-openai-staff-accounts-through-a-forum.html)
 - The Hacker News
   - [Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws](https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html)
   - [Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar](https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html)
@@ -105,14 +125,12 @@
   - [Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up](https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html)
   - [CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories](https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html)
   - [CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild](https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html)
-- Deep Web
-  - [I don't go on the beep web often never new how crazy it could get (9/11 propaganda an conspiracy theories from 2021)](https://www.reddit.com/r/deepweb/comments/1wkirdl/i_dont_go_on_the_beep_web_often_never_new_how/)
-  - [What to do, what to do….](https://www.reddit.com/r/deepweb/comments/1wkei59/what_to_do_what_to_do/)
-- Security Affairs
-  - [Google Gemini also Broke Out of Its Test Environment](https://securityaffairs.com/199392/ai/google-gemini-also-broke-out-of-its-test-environment.html)
-  - [AI Helps Hackers Hijack OpenAI Staff Accounts Through a Forum](https://securityaffairs.com/199378/ai/ai-helps-hackers-hijack-openai-staff-accounts-through-a-forum.html)
-- Daniel Miessler
-  - [My Early Thoughts on Jev](https://danielmiessler.com/blog/early-thoughts-on-jev?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- Blackhat Library: Hacking techniques and research
+  - [Back when you could just freely login to hundreds of active servers a day](https://www.reddit.com/r/blackhat/comments/1wkw4o5/back_when_you_could_just_freely_login_to_hundreds/)
+- T00ls安全
+  - [十八而志，与子同袍 - tormail](https://mp.weixin.qq.com/s?__biz=Mzg3NzYzODU5NQ==&mid=2247485845&idx=1&sn=e0bbe6f8e76a33ecc679cd22aa3f598d)
+- OnionSec
+  - [从春天走到秋天](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247486017&idx=1&sn=b60b274839e45d2d2a15333714ff742e)
 - KitPloit - PenTest Tools!
   - [rustinel v1.8.0-rc.1](https://kitploit.com/en/posts/github-karib0u-rustinel-v180-rc1)
   - [urx v0.11.0](https://kitploit.com/en/posts/github-hahwul-urx-0110)
@@ -139,7 +157,3 @@
   - [evmbench-certora-agent-harness](https://kitploit.com/en/tools/github/gmh5225/evmbench-certora-agent-harness)
   - [sslscan v2.2.3](https://kitploit.com/en/posts/github-rbsec-sslscan-223)
   - [faraday v5.24.2](https://kitploit.com/en/posts/github-infobyte-faraday-v5242)
-- T00ls安全
-  - [十八而志，与子同袍 - tormail](https://mp.weixin.qq.com/s?__biz=Mzg3NzYzODU5NQ==&mid=2247485845&idx=1&sn=e0bbe6f8e76a33ecc679cd22aa3f598d)
-- OnionSec
-  - [从春天走到秋天](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247486017&idx=1&sn=b60b274839e45d2d2a15333714ff742e)
