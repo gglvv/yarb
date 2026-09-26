@@ -1,7 +1,11 @@
 # 每日安全资讯（2026-09-26）
 
+- SecWiki News
+  - [SecWiki News 2026-09-25 Review](http://www.sec-wiki.com/?2026-09-25)
 - Der Flounder
   - [Apple Filing Protocol removed from macOS Golden Gate](https://derflounder.wordpress.com/2026/09/25/apple-filing-protocol-removed-from-macos-golden-gate/)
+- Recent Commits to cve:main
+  - [Update Fri Sep 25 12:23:58 UTC 2026](https://github.com/trickest/cve/commit/2832e7079fb71c43cf2c630380920c1bae1d5169)
 - Sploitus.com Exploits RSS Feed
   - [AstraRecon exploit](https://sploitus.com/exploit?id=F587A5E2-86B2-5925-9BB5-DF106F2772F3&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-96512](https://sploitus.com/exploit?id=B61E5A00-1230-5E18-BF55-19A81ED0C7A6&utm_source=rss&utm_medium=rss)
@@ -9,6 +13,7 @@
   - [Exploit for CVE-2026-62062](https://sploitus.com/exploit?id=33F94CBD-2E88-51A0-A98F-DF6D6F27FF55&utm_source=rss&utm_medium=rss)
   - [Exploit for Incorrect Implementation of Authentication Algorithm in Golang Crypto](https://sploitus.com/exploit?id=1E53DFDC-E275-5FDC-A9D0-0B9D9A2A9B7C&utm_source=rss&utm_medium=rss)
   - [sBOMBPath exploit](https://sploitus.com/exploit?id=12A08394-0EB6-5025-9E3D-D9F5DF1EC24A&utm_source=rss&utm_medium=rss)
+  - [moniorg exploit](https://sploitus.com/exploit?id=KITPLOIT:3580208088708200636&utm_source=rss&utm_medium=rss)
   - [operative-framework exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GRANIET-OPERATIVE-FRAMEWORK&utm_source=rss&utm_medium=rss)
   - [kasld exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BCOLES-KASLD&utm_source=rss&utm_medium=rss)
   - [osint_toolkit exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DEV-LU-OSINT_TOOLKIT&utm_source=rss&utm_medium=rss)
@@ -17,26 +22,12 @@
   - [RMS-Runtime-Mobile-Security exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-M0BILESECURITY-RMS-RUNTIME-MOBILE-SECURITY&utm_source=rss&utm_medium=rss)
   - [M3UAScan exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SIGPLOITER-M3UASCAN&utm_source=rss&utm_medium=rss)
   - [reversemap exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-Z00NX-REVERSEMAP&utm_source=rss&utm_medium=rss)
-  - [C3 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-REVERSECLABS-C3&utm_source=rss&utm_medium=rss)
-  - [Pyrit exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JPAULMORA-PYRIT&utm_source=rss&utm_medium=rss)
-  - [unblob exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ONEKEY-SEC-UNBLOB&utm_source=rss&utm_medium=rss)
-  - [searxng exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SEARXNG-SEARXNG&utm_source=rss&utm_medium=rss)
-  - [CVE-2025-1974-go exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RUBBY2001-CVE-2025-1974-GO&utm_source=rss&utm_medium=rss)
-  - [Patriot-Linux exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-YJESUS-PATRIOT-LINUX&utm_source=rss&utm_medium=rss)
-  - [cve-2022-31898 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GIGARYTE-CVE-2022-31898&utm_source=rss&utm_medium=rss)
-  - [Q-DDOS-GUI exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SECLEGHOST-Q-DDOS-GUI&utm_source=rss&utm_medium=rss)
-  - [CVE-2021-46422_PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TWONING-CVE-2021-46422_POC&utm_source=rss&utm_medium=rss)
-  - [burp-radamsa exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RAZ0R-BURP-RADAMSA&utm_source=rss&utm_medium=rss)
-  - [njsscan exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-AJINABRAHAM-NJSSCAN&utm_source=rss&utm_medium=rss)
-  - [CVE-2017-0785-PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RICHARD1031-CVE-2017-0785-POC&utm_source=rss&utm_medium=rss)
-  - [Exploit for Improper Verification of Cryptographic Signature in Wso2 Api_Control_Plane](https://sploitus.com/exploit?id=7EBF7D0E-E647-5A7E-B585-B7325B9AF11F&utm_source=rss&utm_medium=rss)
-  - [tenzir exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TENZIR-TENZIR&utm_source=rss&utm_medium=rss)
-- Recent Commits to cve:main
-  - [Update Fri Sep 25 12:23:58 UTC 2026](https://github.com/trickest/cve/commit/2832e7079fb71c43cf2c630380920c1bae1d5169)
-- SecWiki News
-  - [SecWiki News 2026-09-25 Review](http://www.sec-wiki.com/?2026-09-25)
 - Microsoft Security Blog
   - [Storm-3168: Agentic-driven cloud attacks using compromised service principals](https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/)
+- Horizon3
+  - [Trading Maintenance for Momentum: Scaling Security Validation Across 230+ Sites](https://horizon3.ai/customer-story/scaling-security-validation-230-sites/)
+- GuidePoint Security
+  - [Secure AI Adoption: Close the Governance Gap to Accelerate AI in the  Cloud](https://www.guidepointsecurity.com/blog/secure-ai-adoption-cloud/)
 - Kitploit — Hacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!
   - [OsintCase](https://kitploit.com/en/tools/github/emrekybs/osintcase)
   - [OnTheEdge](https://kitploit.com/en/tools/github/jssngc/ontheedge)
@@ -65,26 +56,22 @@
   - [CryptoClipGuard](https://kitploit.com/en/tools/github/prox0959/cryptoclipguard)
   - [ShadowMem](https://kitploit.com/en/tools/github/zjuwyh/shadowmem)
   - [malware-analysis-fake-hwmonitor](https://kitploit.com/en/tools/github/dmitry-matvienko/malware-analysis-fake-hwmonitor)
-- 白帽Wiki - 一个简单的wiki
-  - [[2026]AI大型虫群AGENT扩展涌现的智能研究](https://key08.com/index.php/2026/09/25/3327.html)
-- GuidePoint Security
-  - [Secure AI Adoption: Close the Governance Gap to Accelerate AI in the  Cloud](https://www.guidepointsecurity.com/blog/secure-ai-adoption-cloud/)
+- Reverse Engineering
+  - [I reverse-engineered Crestron's AirMedia wireless-presentation protocol so I could screen-share from Ubuntu without a browser](https://www.reddit.com/r/ReverseEngineering/comments/1wpj2io/i_reverseengineered_crestrons_airmedia/)
+  - [ceasta: open-source disassembler, decompiler and debugger in one program. with a built-in MCP server for driving it from an AI (mac, windows, linux)](https://www.reddit.com/r/ReverseEngineering/comments/1wq9kfs/ceasta_opensource_disassembler_decompiler_and/)
 - The Trail of Bits Blog
   - [Don't let TEEs break your MPC](https://blog.trailofbits.com/2026/09/25/dont-let-tees-break-your-mpc/)
-- Reverse Engineering
-  - [ceasta: open-source disassembler, decompiler and debugger in one program. with a built-in MCP server for driving it from an AI (mac, windows, linux)](https://www.reddit.com/r/ReverseEngineering/comments/1wq9kfs/ceasta_opensource_disassembler_decompiler_and/)
-  - [I reverse-engineered Crestron's AirMedia wireless-presentation protocol so I could screen-share from Ubuntu without a browser](https://www.reddit.com/r/ReverseEngineering/comments/1wpj2io/i_reverseengineered_crestrons_airmedia/)
+- 白帽Wiki - 一个简单的wiki
+  - [[2026]AI大型虫群AGENT扩展涌现的智能研究](https://key08.com/index.php/2026/09/25/3327.html)
+- Malware-Traffic-Analysis.net - Blog Entries
+  - [2026-09-24: Files for an ISC Diary (Macfinger ClickFix activity)](https://www.malware-traffic-analysis.net/2026/09/24/index.html)
+- HAHWUL
+  - [Why I Build Gori](https://www.hahwul.com/posts/2026/why-i-build-gori/)
 - Malwarebytes
   - [LinkedIn adds new checks for fake profiles and work histories](https://www.malwarebytes.com/blog/news/2026/09/linkedin-adds-new-checks-for-fake-profiles-and-work-histories)
   - [Kothamine malware uses Tailscale’s tailcat to evade network detection](https://www.malwarebytes.com/blog/threat-intel/2026/09/kothamine-malware-uses-tailscales-tailcat-to-evade-network-detection)
   - [Criminals turn placeholder domain into ClickFix trap](https://www.malwarebytes.com/blog/news/2026/09/criminals-turn-placeholder-domain-into-clickfix-trap)
   - [That shipping rebate offer may come with a monthly charge](https://www.malwarebytes.com/blog/threat-intel/2026/09/that-shipping-rebate-offer-may-come-with-a-monthly-charge)
-- Horizon3
-  - [Trading Maintenance for Momentum: Scaling Security Validation Across 230+ Sites](https://horizon3.ai/customer-story/scaling-security-validation-230-sites/)
-- Malware-Traffic-Analysis.net - Blog Entries
-  - [2026-09-24: Files for an ISC Diary (Macfinger ClickFix activity)](https://www.malware-traffic-analysis.net/2026/09/24/index.html)
-- HAHWUL
-  - [Why I Build Gori](https://www.hahwul.com/posts/2026/why-i-build-gori/)
 - Hacking Articles
   - [Windows Privilege Escalation: SeManageVolumePrivilege](https://www.hackingarticles.in/windows-privilege-escalation-semanagevolumeprivilege/)
 - Intigriti
@@ -104,46 +91,42 @@
   - [AI安全专题周报（20260925）](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao-7/)
 - 黑鸟
   - [TACACS+预认证远程代码执行漏洞攻击链](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188948&idx=1&sn=d8ba41b3eca3c94048cd8adc8062b6c1)
-- 安全分析与研究
-  - [多Agent涌现风险的形式化理论](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497202&idx=1&sn=0220a363345bfda782a3606007ca11ff)
-- 吾爱破解论坛
-  - [把乡愁写进栈帧，出栈时就是团圆](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144717&idx=1&sn=58ce187fcd2bda53afb9f6c6186256d5)
 - 360漏洞云
   - [月映千山开新境，桂香万里护安澜](https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247505218&idx=1&sn=17a800a414b9486c73528fe117b8ef8c)
-- 看雪学苑
-  - [2026中秋致谢 | 月启新程，共守安澜（留言赠礼）](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458621951&idx=1&sn=2368a58281a7df9e2ba6ee31adfed3a1)
-  - [纯静态分析DumpSDK所需的加密数据，动态定位加密UWorld、GameInstance、Object的未加密地址](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458621951&idx=2&sn=e59a7f58900fb55d57442f76aea9a62e)
-- DataCon大数据安全分析竞赛
-  - [[中秋悦安]DataCon祝您中秋安康，岁岁长乐！](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247489682&idx=1&sn=ecc887636b820b866cef8e1a6d2748bb)
-- 信息安全国家工程研究中心
-  - [中秋 | 月无缺 ·人团圆](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247505287&idx=1&sn=9529bdd4c66d4440758de62596ea1ce6)
-- 极客公园
-  - [AI 手机只是起点，高通要为智能体铺一条全栈技术路线](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114134&idx=1&sn=95c76efd97c33120f97b185f4159f028)
-  - [「济公」游本昌去世；罗永浩再评小米 18 Fold；Meta 推出手持设备 Muse Charm｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114142&idx=1&sn=296195777313bb24520e13b40a66c6b9)
-- 安全圈
-  - [【安全圈】MikroTik 路由器曝高危攻击链：无需密码即可取得管理权限](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079107&idx=1&sn=5712944c4f810ffca0d15071dc160407)
-  - [【安全圈】恶意软件混入 Terraform 插件，基础设施部署依赖成攻击入口](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079107&idx=2&sn=ea4ee6438b9b45eeb555d7995bd16de6)
-  - [【安全圈】开发文档里的示例域名被用于攻击，假人机验证诱导执行命令](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079107&idx=3&sn=27c8b75a75e32d9b0ea12450dc4c2a94)
-- 慢雾科技
-  - [🌕 明月寄情，共祝中秋安好！](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247506218&idx=1&sn=7e8180e79f42f3c4e062638cdb2c70e5)
+- 吾爱破解论坛
+  - [把乡愁写进栈帧，出栈时就是团圆](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144717&idx=1&sn=58ce187fcd2bda53afb9f6c6186256d5)
+- 安全分析与研究
+  - [多Agent涌现风险的形式化理论](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497202&idx=1&sn=0220a363345bfda782a3606007ca11ff)
 - 中国信息安全
   - [前沿 | AI进核心系统，安全不能只守在软件层](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267387&idx=1&sn=b98c1fdd879a696838526f3b8d9e0b0e)
   - [专家解读 | 张凌寒：《人工智能安全治理框架3.0》推进系统化治理与前瞻性布局](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267387&idx=2&sn=fe9a1b3431a254f70996aeac0b9229f4)
   - [观点 | 个人信息保护分层治理体系迎来制度完善](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267387&idx=3&sn=cf385937651f47d21c3b45101c7641ec)
   - [国际 | 英国拒绝为人工智能设置“紧急终止开关”](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664267387&idx=4&sn=ecbf4b39c8d0e6b8b7baec5a793e7a80)
-- 网安国际
-  - [桂香伴月，共祝佳节安康](https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652318608&idx=1&sn=71f6a301580991d59c23ca249dbe3223)
+- 看雪学苑
+  - [2026中秋致谢 | 月启新程，共守安澜（留言赠礼）](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458621951&idx=1&sn=2368a58281a7df9e2ba6ee31adfed3a1)
+  - [纯静态分析DumpSDK所需的加密数据，动态定位加密UWorld、GameInstance、Object的未加密地址](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458621951&idx=2&sn=e59a7f58900fb55d57442f76aea9a62e)
 - 奇安信威胁情报中心
   - [每周高级威胁情报解读(2026.09.18~09.24)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520738&idx=1&sn=5ca11989b16e574f59d3ee77ff24c94b)
-- 360数字安全
-  - [360数字安全集团祝您中秋安康](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586983&idx=1&sn=ab45a12f3150f212e530453c6c2d0dec)
-- Microsoft Security Blog
-  - [Storm-3168: Agentic-driven cloud attacks using compromised service principals](https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/)
+- 信息安全国家工程研究中心
+  - [中秋 | 月无缺 ·人团圆](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247505287&idx=1&sn=9529bdd4c66d4440758de62596ea1ce6)
 - 火绒安全
   - [中秋节 | 中秋喜乐 人月团圆](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538025&idx=1&sn=20f0babe3766735f4f7cdbf1e1d840a1)
   - [火绒小问答——「企业版」桌面控制](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538025&idx=2&sn=f9558f443a7d28071c50385a98df2ccd)
   - [【火绒安全周报】HBO Max官方账号被入侵/黑客团伙称攻破FBI系统](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538025&idx=3&sn=3b5a34baabf382dbf935f0fcafe4b1c3)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538025&idx=4&sn=3d118e50f4ae43594b35cb4bfdb99ab7)
+- 极客公园
+  - [AI 手机只是起点，高通要为智能体铺一条全栈技术路线](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114134&idx=1&sn=95c76efd97c33120f97b185f4159f028)
+  - [「济公」游本昌去世；罗永浩再评小米 18 Fold；Meta 推出手持设备 Muse Charm｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114142&idx=1&sn=296195777313bb24520e13b40a66c6b9)
+- 慢雾科技
+  - [🌕 明月寄情，共祝中秋安好！](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247506218&idx=1&sn=7e8180e79f42f3c4e062638cdb2c70e5)
+- 安全圈
+  - [【安全圈】MikroTik 路由器曝高危攻击链：无需密码即可取得管理权限](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079107&idx=1&sn=5712944c4f810ffca0d15071dc160407)
+  - [【安全圈】恶意软件混入 Terraform 插件，基础设施部署依赖成攻击入口](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079107&idx=2&sn=ea4ee6438b9b45eeb555d7995bd16de6)
+  - [【安全圈】开发文档里的示例域名被用于攻击，假人机验证诱导执行命令](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079107&idx=3&sn=27c8b75a75e32d9b0ea12450dc4c2a94)
+- DataCon大数据安全分析竞赛
+  - [[中秋悦安]DataCon祝您中秋安康，岁岁长乐！](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247489682&idx=1&sn=ecc887636b820b866cef8e1a6d2748bb)
+- 网安国际
+  - [桂香伴月，共祝佳节安康](https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652318608&idx=1&sn=71f6a301580991d59c23ca249dbe3223)
 - Over Security
   - [Kiteworks urges 6-hour server shutdown over potential zero-day attacks](https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/)
   - [U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions](https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/)
@@ -176,6 +159,8 @@
   - [Videosorveglianza: come distinguere tra GDPR e trattamento dati per finalità di polizia](https://www.cybersecurity360.it/legal/privacy-dati-personali/videosorveglianza-come-distinguere-tra-gdpr-e-trattamento-dati-per-finalita-di-polizia/)
   - [Ecco come AI e guerra cibernetica ridefiniscono il nuovo rischio cyber](https://www.cybersecurity360.it/outlook/ecco-come-ai-e-guerra-cibernetica-ridefiniscono-il-nuovo-rischio-cyber/)
   - [Ban on Discord Lifted After Platform Commits to Work With DICT and CICC](https://thecyberexpress.com/ban-on-discord-lifted-dict-cicc/)
+- Microsoft Security Blog
+  - [Storm-3168: Agentic-driven cloud attacks using compromised service principals](https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/)
 - LastKnight.com Feed
   - [Sacrificare i bambini per l’AI è un sacrificio che sono disposto a fare](https://mgpf.it/2026/09/25/huang-bambini-matematica-ai.html)
 - ICT Security Magazine
@@ -183,6 +168,25 @@
 - SANS Internet Storm Center, InfoCON: green
   - [A Closer Look at Malware From the Macfinger ClickFix Campaign, (Fri, Sep 25th)](https://isc.sans.edu/diary/rss/33368)
   - [ISC Stormcast For Friday, September 25th, 2026 https://isc.sans.edu/podcastdetail/10110, (Fri, Sep 25th)](https://isc.sans.edu/diary/rss/33370)
+- Schneier on Security
+  - [Friday Squid Blogging: Participatory Squid Dissection in October in Tennessee](https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-participatory-squid-dissection-in-october-in-tennessee.html)
+  - [On Anthropic’s AI Misuse Report](https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html)
+- 360数字安全
+  - [360数字安全集团祝您中秋安康](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586983&idx=1&sn=ab45a12f3150f212e530453c6c2d0dec)
+- Deeplinks
+  - [EFF to Court: Trump's Use of Truth Social's Pay-To-See-Posts-First Scheme Violates Americans' 1st Amendment Equal Access Rights](https://www.eff.org/deeplinks/2026/09/ff-court-trumps-use-truth-socials-pay-see-posts-first-scheme-violates-americans)
+- Blackhat Library: Hacking techniques and research
+  - [I got hacked and my crypto was drained.](https://www.reddit.com/r/blackhat/comments/1wptijx/i_got_hacked_and_my_crypto_was_drained/)
+- Krebs on Security
+  - [U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions](https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/)
+- OnionSec
+  - [暂时不努力](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247486040&idx=1&sn=8840357257d0d3a6e935ab25ab15604d)
+- Security Affairs
+  - [U.S. CISA adds Microsoft SharePoint and Mikrotik RouterOS flaws to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/199777/hacking/u-s-cisa-adds-microsoft-sharepoint-and-mikrotik-routeros-flaws-to-its-known-exploited-vulnerabilities-catalog.html)
+  - [Cryptocurrency exchange Bitget Says North Korea-Linked Hackers Stole $351.6 Million](https://securityaffairs.com/199754/cyber-crime/cryptocurrency-exchange-bitget-says-north-korea-linked-hackers-stole-351-6-million.html)
+  - [ClickFix Campaign Abuses Trusted Websites to Deploy Psychedelic Stealer](https://securityaffairs.com/199731/malware/clickfix-campaign-abuses-trusted-websites-to-deploy-psychedelic-stealer.html)
+  - [AI-Powered CARBONATO Botnet Steals Credentials to Fund Its Own LLM Gateway](https://securityaffairs.com/199716/malware/ai-powered-carbonato-botnet-steals-credentials-to-fund-its-own-llm-gateway.html)
+  - [U.S. CISA adds Adobe and WSO2 flaws to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/199704/hacking/u-s-cisa-adds-adobe-and-wso2-flaws-to-its-known-exploited-vulnerabilities-catalog.html)
 - The Hacker News
   - [Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware](https://thehackernews.com/2026/09/compromised-github-actions-came-back.html)
   - [PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence](https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html)
@@ -191,26 +195,11 @@
   - [Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild](https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html)
   - [Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data](https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html)
   - [WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV](https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html)
-- Schneier on Security
-  - [Friday Squid Blogging: Participatory Squid Dissection in October in Tennessee](https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-participatory-squid-dissection-in-october-in-tennessee.html)
-  - [On Anthropic’s AI Misuse Report](https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html)
-- Deeplinks
-  - [EFF to Court: Trump's Use of Truth Social's Pay-To-See-Posts-First Scheme Violates Americans' 1st Amendment Equal Access Rights](https://www.eff.org/deeplinks/2026/09/ff-court-trumps-use-truth-socials-pay-see-posts-first-scheme-violates-americans)
-- Security Affairs
-  - [U.S. CISA adds Microsoft SharePoint and Mikrotik RouterOS flaws to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/199777/hacking/u-s-cisa-adds-microsoft-sharepoint-and-mikrotik-routeros-flaws-to-its-known-exploited-vulnerabilities-catalog.html)
-  - [Cryptocurrency exchange Bitget Says North Korea-Linked Hackers Stole $351.6 Million](https://securityaffairs.com/199754/cyber-crime/cryptocurrency-exchange-bitget-says-north-korea-linked-hackers-stole-351-6-million.html)
-  - [ClickFix Campaign Abuses Trusted Websites to Deploy Psychedelic Stealer](https://securityaffairs.com/199731/malware/clickfix-campaign-abuses-trusted-websites-to-deploy-psychedelic-stealer.html)
-  - [AI-Powered CARBONATO Botnet Steals Credentials to Fund Its Own LLM Gateway](https://securityaffairs.com/199716/malware/ai-powered-carbonato-botnet-steals-credentials-to-fund-its-own-llm-gateway.html)
-  - [U.S. CISA adds Adobe and WSO2 flaws to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/199704/hacking/u-s-cisa-adds-adobe-and-wso2-flaws-to-its-known-exploited-vulnerabilities-catalog.html)
-- OnionSec
-  - [暂时不努力](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247486040&idx=1&sn=8840357257d0d3a6e935ab25ab15604d)
 - Daniel Miessler
   - [How Jev Picks the Model and Effort for Every Prompt](https://danielmiessler.com/blog/glance-routes-model-and-effort?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- Krebs on Security
-  - [U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions](https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/)
-- Blackhat Library: Hacking techniques and research
-  - [I got hacked and my crypto was drained.](https://www.reddit.com/r/blackhat/comments/1wptijx/i_got_hacked_and_my_crypto_was_drained/)
 - KitPloit - PenTest Tools!
+  - [OsintCase](https://kitploit.com/en/tools/github/emrekybs/osintcase)
+  - [OnTheEdge](https://kitploit.com/en/tools/github/jssngc/ontheedge)
   - [OmniTriage](https://kitploit.com/en/tools/github/prox0959/omnitriage)
   - [ubuntils](https://kitploit.com/en/tools/github/asmitdesai/ubuntils)
   - [disrobe](https://kitploit.com/en/tools/github/1-3-7/disrobe)
