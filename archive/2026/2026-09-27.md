@@ -2,6 +2,8 @@
 
 - Recent Commits to cve:main
   - [Update Sat Sep 26 12:35:48 UTC 2026](https://github.com/trickest/cve/commit/23a9ed946d607b8c319d43f9bcfac0f02ad86fba)
+- SecWiki News
+  - [SecWiki News 2026-09-26 Review](http://www.sec-wiki.com/?2026-09-26)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [Planyo_Online_Reservation_System  3.0 Arbitrary File Read via SSRF](https://cxsecurity.com/issue/WLB-2026090012)
   - [CubeCart 6.7.4 SQL injection](https://cxsecurity.com/issue/WLB-2026090011)
@@ -32,12 +34,6 @@
   - [Exploit for CVE-2026-64560](https://sploitus.com/exploit?id=BDBFE918-5AED-5AA9-83DB-FF878FA62899&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-13249](https://sploitus.com/exploit?id=3593A880-2AC8-59E0-BCC9-741401DBF84C&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel](https://sploitus.com/exploit?id=92515C43-CA7C-59C7-A1C0-DA7717DEB09F&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-93834](https://sploitus.com/exploit?id=C81798E6-2635-5D4B-8C2D-5EB1A9839B58&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-57836](https://sploitus.com/exploit?id=17B63DF1-38A9-5E0B-80A9-A8C21779F0E1&utm_source=rss&utm_medium=rss)
-  - [serval exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TGADOLA-SERVAL&utm_source=rss&utm_medium=rss)
-  - [mscache exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-QAX-A-TEAM-MSCACHE&utm_source=rss&utm_medium=rss)
-- SecWiki News
-  - [SecWiki News 2026-09-26 Review](http://www.sec-wiki.com/?2026-09-26)
 - Kitploit — Hacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!
   - [wordpress-cve-scanner](https://kitploit.com/en/tools/gitlab/valtersit/wordpress-cve-scanner)
   - [Prompt-Injection-in-the-Wild](https://kitploit.com/en/tools/github/cybershujin/prompt-injection-in-the-wild)
@@ -69,6 +65,11 @@
   - [1 little known secret of UIEOrchestratorStub.exe](https://www.hexacorn.com/blog/2026/09/26/1-little-known-secret-of-uieorchestratorstub-exe/)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]qwen3.8系列微调的坑](https://key08.com/index.php/2026/09/27/3335.html)
+- Reverse Engineering
+  - [Reverse-engineered 8BitDo firmware encryption](https://www.reddit.com/r/ReverseEngineering/comments/1wr4kyu/reverseengineered_8bitdo_firmware_encryption/)
+  - [Reverse-engineered a gaming mouse's HID protocol (write-only device, no official Linux support) to build a full desktop configurator](https://www.reddit.com/r/ReverseEngineering/comments/1wqsk2c/reverseengineered_a_gaming_mouses_hid_protocol/)
+  - [My projector commited click-fraud: Reverse engineering Badbox malware in the Wielo Smart Mini projector AT-M269 H713 to clean it.](https://www.reddit.com/r/ReverseEngineering/comments/1wqxw1h/my_projector_commited_clickfraud_reverse/)
+  - [FlowName – AST-guided JS identifier recovery(85% faster, 36% cheaper)](https://www.reddit.com/r/ReverseEngineering/comments/1wqyq2a/flowname_astguided_js_identifier_recovery85/)
 - shubs
   - [do we still enjoy software engineering in the age of AI?](https://shubs.io/do-we-still-enjoy-software-engineering-in-the-age-of-ai/)
 - 奇客Solidot–传递最新科技情报
@@ -79,6 +80,8 @@
   - [黑手党可能阻止了芬太尼流入意大利](https://www.solidot.org/story?sid=85478)
 - 黑鸟
   - [赢得以色列情报精英青睐的神秘网络武器公司Dataflow](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188956&idx=1&sn=ede97dbb2609f4d406718998a60ec7c3)
+- 我的安全视界观
+  - [开放 2 个咨询位，聊聊你卡住的那件事](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488082&idx=1&sn=799f788f97df794d7ecb9a173b873e84)
 - 360漏洞云
   - [360漏洞云中秋致谢丨月满话团圆，安全共守护！](https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247505426&idx=1&sn=c026a626ff35a44cf3a8ef58f56f3994)
 - 绿盟科技研究通讯
@@ -89,25 +92,20 @@
   - [【安全圈】Roundcube 旧漏洞出现实际利用报告，邮件系统需核对版本](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079118&idx=3&sn=34002ec3d4c40f3f8b2224c5576bbfa3)
 - 安全分析与研究
   - [AI安全的计算复杂性与不可判定性](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497206&idx=1&sn=5d5c4dc918921e908fb01e37e70f5515)
-- 安全学术圈
-  - [行业会议 | 2026年网络空间安全学术会议（网络空间智能对抗专题议题）](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495972&idx=1&sn=27f7c78f9fdd78fb4eaa68adadb28f45)
-- 极客公园
-  - [不到 1 个月估值暴涨 100 亿美元，Jev 创造者：ChatGPT 把 AI 带歪了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114145&idx=1&sn=6a6e8fd8a1c054c0beefed58aee5c208)
-  - [Deepseek桌面版悄悄上线；Muse大火，扎克伯格跃升全球第四大富豪；OpenAI被曝筹备推出ProMax订阅层级，月费或达500-600美元 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114159&idx=1&sn=632a30ffe63c4d97a3cdd1cce1277c8c)
 - 看雪学苑
   - [Copy Fail漏洞深度学习](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458621952&idx=1&sn=88420cd350d20c349e907e1a0affb4a3)
   - [冰与火的战歌：Windows内核攻防实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458621952&idx=2&sn=8619d1e57ff56692441a3d1694363190)
+- 极客公园
+  - [不到 1 个月估值暴涨 100 亿美元，Jev 创造者：ChatGPT 把 AI 带歪了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114145&idx=1&sn=6a6e8fd8a1c054c0beefed58aee5c208)
+  - [Deepseek桌面版悄悄上线；Muse大火，扎克伯格跃升全球第四大富豪；OpenAI被曝筹备推出ProMax订阅层级，月费或达500-600美元 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114159&idx=1&sn=632a30ffe63c4d97a3cdd1cce1277c8c)
+- 安全学术圈
+  - [行业会议 | 2026年网络空间安全学术会议（网络空间智能对抗专题议题）](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495972&idx=1&sn=27f7c78f9fdd78fb4eaa68adadb28f45)
 - Over Security
   - [ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks](https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/)
   - [Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/)
   - [Microsoft pauses KB5002907 update after Office license deactivations](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/)
   - [GitHub Actions re-enabled with Mini Shai-Hulud payload still active](https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/)
   - [OpenAI's AI agents accidentally uploaded user-provided images to third-party sites](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/)
-- Arturo Di Corinto
-  - [Brescia, la presentazione di Guerra Profonda al festival Librixia](https://dicorinto.it/guerra-profonda/brescia-la-presentazione-di-guerra-profonda-al-festival-librixia/)
-  - [Ci vogliono regole e sanzioni per l’IA](https://dicorinto.it/formazione/ci-vogliono-regole-e-sanzioni-per-lia/)
-- Daniel Miessler
-  - [One Foot Pedal, Two Ways to Dictate](https://danielmiessler.com/blog/typeless-foot-pedal?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - The Hacker News
   - [Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials](https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html)
   - [Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells](https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html)
@@ -115,12 +113,12 @@
   - [Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link](https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html)
   - [SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild](https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html)
   - [Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack](https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html)
+- Daniel Miessler
+  - [One Foot Pedal, Two Ways to Dictate](https://danielmiessler.com/blog/typeless-foot-pedal?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - Security Affairs
   - [OpenAI Agents Accessed US Government Websites Without Authorization](https://securityaffairs.com/199815/ai/openai-agents-accessed-us-government-websites-without-authorization.html)
   - [Exploit.in Database Reveals the Roots of Today’s Ransomware Ecosystem](https://securityaffairs.com/199800/cyber-crime/exploit-in-database-reveals-the-roots-of-todays-ransomware-ecosystem.html)
   - [U.S. CISA adds WordPress flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/199790/security/u-s-cisa-adds-wordpress-flaw-to-its-known-exploited-vulnerabilities-catalog.html)
-- OnionSec
-  - [我也曾经这样学东西](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247486043&idx=1&sn=92cb2f85101a0a48632b2beb50a93d40)
 - KitPloit - PenTest Tools!
   - [wordpress-cve-scanner](https://kitploit.com/en/tools/gitlab/valtersit/wordpress-cve-scanner)
   - [Prompt-Injection-in-the-Wild](https://kitploit.com/en/tools/github/cybershujin/prompt-injection-in-the-wild)
@@ -146,3 +144,8 @@
   - [ReflectivePluginLoader](https://kitploit.com/en/tools/github/racoten/reflectivepluginloader)
   - [SmuggleMyPayload](https://kitploit.com/en/tools/github/shaheeryasirofficial/smugglemypayload)
   - [RLCDAlignBench](https://kitploit.com/en/tools/github/sumleo/rlcdalignbench)
+- Arturo Di Corinto
+  - [Brescia, la presentazione di Guerra Profonda al festival Librixia](https://dicorinto.it/guerra-profonda/brescia-la-presentazione-di-guerra-profonda-al-festival-librixia/)
+  - [Ci vogliono regole e sanzioni per l’IA](https://dicorinto.it/formazione/ci-vogliono-regole-e-sanzioni-per-lia/)
+- OnionSec
+  - [我也曾经这样学东西](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247486043&idx=1&sn=92cb2f85101a0a48632b2beb50a93d40)
