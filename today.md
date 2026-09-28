@@ -2,10 +2,6 @@
 
 - Recent Commits to cve:main
   - [Update Sun Sep 27 12:40:08 UTC 2026](https://github.com/trickest/cve/commit/418cfec83cda7fff35588cbd37622d373fcc70ba)
-- SecWiki News
-  - [SecWiki News 2026-09-27 Review](http://www.sec-wiki.com/?2026-09-27)
-- 博客
-  - [linux-network-interface-naming](https://dyrnq.com/linux-network-interface-naming/)
 - Tenable Blog
   - [Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities](https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities)
 - Taxodium
@@ -13,31 +9,10 @@
   - [使用 Emacs Everywhere，把任意輸入框用 Emacs 接管](https://taxodium.ink/use-emacs-everywhere-to-take-over-any-input-field-with-emacs.html)
   - [水蒸蛋](https://taxodium.ink/recipe-shui-zheng-dan.html)
   - [一些關於連結的建議](https://taxodium.ink/some-advice-about-links.html)
-- Sploitus.com Exploits RSS Feed
-  - [Exploit for Incorrect Authorization in Traefik](https://sploitus.com/exploit?id=EAF0F02E-0087-5E20-810F-F02F79FB99A6&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-71963](https://sploitus.com/exploit?id=A3A566B8-1E43-5A76-BC68-BBAFF717598A&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-44011](https://sploitus.com/exploit?id=A834BCF0-E023-51A9-8F2E-11A733CC2BAB&utm_source=rss&utm_medium=rss)
-  - [Exploit for Improper Authentication in Openprinting Cups](https://sploitus.com/exploit?id=6B27CCD9-82CB-57F1-86BF-AF90CC9DDFF8&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-88772](https://sploitus.com/exploit?id=47F4D662-7265-5507-AF7B-22B94A1EC716&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-87902](https://sploitus.com/exploit?id=CA3428DF-FABF-51F2-8D5F-580412B5A75E&utm_source=rss&utm_medium=rss)
-  - [helpdeskz-file-upload-poc exploit](https://sploitus.com/exploit?id=913938FC-B2E3-5AF3-8653-AADE9690D349&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-14281](https://sploitus.com/exploit?id=39F9376A-3CC9-5B5B-B366-309D1545CBD5&utm_source=rss&utm_medium=rss)
-  - [Exploit for Improper Neutralization of Special Elements Used in a Template Engine in Craftcms Craft_Cms](https://sploitus.com/exploit?id=A54A5938-BA5D-5806-84F3-4FA469BE331A&utm_source=rss&utm_medium=rss)
-  - [Exploit for Path Traversal in Grafana](https://sploitus.com/exploit?id=C98685BE-19AF-5361-BA63-49E7751CDCA5&utm_source=rss&utm_medium=rss)
-  - [python-mini-waf exploit](https://sploitus.com/exploit?id=35E8910D-FD9B-534D-B980-BA492F73755F&utm_source=rss&utm_medium=rss)
-  - [cve-pocs exploit](https://sploitus.com/exploit?id=4CE0307D-08A3-5641-9B78-2FB97E43680D&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-76547](https://sploitus.com/exploit?id=219F093C-5009-5CE5-8199-3CE50D3F5DB7&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-100382](https://sploitus.com/exploit?id=3B63F433-A5FA-50AD-8361-312FD3C19CD5&utm_source=rss&utm_medium=rss)
-  - [Exploit for Write-what-where Condition in Linux Linux_Kernel](https://sploitus.com/exploit?id=65189B76-6BEC-579A-B766-8A8D9409677C&utm_source=rss&utm_medium=rss)
-  - [Meterpreter_Paranoid_Mode-SSL exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-R00T-3XP10IT-METERPRETER_PARANOID_MODE-SSL&utm_source=rss&utm_medium=rss)
-  - [Exploit for Race Condition in Apple Ipados](https://sploitus.com/exploit?id=FD8A04B1-D057-58C9-BC31-006A65581BC5&utm_source=rss&utm_medium=rss)
-  - [Exploit for Path Traversal in Jenkins](https://sploitus.com/exploit?id=00CF0B79-6C3F-511E-A6A0-21F98528BBA1&utm_source=rss&utm_medium=rss)
-  - [selinux-netfix exploit](https://sploitus.com/exploit?id=D604F264-3651-51DB-9DC8-3DC62FE5591E&utm_source=rss&utm_medium=rss)
-  - [Exploit for Interpretation Conflict in Wordpress](https://sploitus.com/exploit?id=F74EC44C-61CC-53D5-AD49-47CAC0D7F062&utm_source=rss&utm_medium=rss)
-  - [Exploit for Improper Enforcement of Behavioral Workflow in Mikrotik Routeros](https://sploitus.com/exploit?id=4CC4CE6B-9A85-51E0-A90F-4F3155BABD37&utm_source=rss&utm_medium=rss)
-  - [discord-v8-sandbox-escape exploit](https://sploitus.com/exploit?id=4051B44B-ED0E-5609-B9AE-43D990B9F12A&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-48842](https://sploitus.com/exploit?id=82C4E759-B6AD-59C6-9170-0A9E10A58C1B&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-100835](https://sploitus.com/exploit?id=A80F03EF-F3AB-5350-9315-32C06592D2AA&utm_source=rss&utm_medium=rss)
+- SecWiki News
+  - [SecWiki News 2026-09-27 Review](http://www.sec-wiki.com/?2026-09-27)
+- 博客
+  - [linux-network-interface-naming](https://dyrnq.com/linux-network-interface-naming/)
 - Kitploit — Hacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!
   - [house_of_apple_2](https://kitploit.com/en/tools/github/jazho76/house_of_apple_2)
   - [EmbedXPL-Forge](https://kitploit.com/en/tools/github/mrhenrike/embedxpl-forge)
@@ -61,25 +36,20 @@
   - [俄罗斯全国手机预装的Max聊天应用的技术底牌](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188971&idx=1&sn=e20371502b011ee9a35330bb6b30a6c0)
 - 安全分析与研究
   - [机械可解释性与安全](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497210&idx=1&sn=3e24e0e68294470656e88ea64b66de31)
-- 看雪学苑
-  - [2026腾讯游戏安全初赛Android题解](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622024&idx=1&sn=54a9aa955b8185e7701a9bd55a79842f)
-  - [为可信智能时代筑基：2026 CSA大中华区大会暨AI+安全大会聚焦基础设施安全与产业实践](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622024&idx=2&sn=20f61756c31961faf3b695da2bd2bd1d)
-- 软件安全与逆向分析
-  - [OnePlus15手机本地提权Root分析](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485498&idx=1&sn=cc614f6fde7b4f0dfc7b86b1eb26d7cb)
 - 安全圈
   - [【安全圈】OpenAI 研究代理曾将用户图片传到第三方图床，已发现 53 次](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079129&idx=1&sn=7df0283a6c5d51694b17203ac0b35c59)
   - [【安全圈】两个恶意 GitHub Actions 曾重新上线，旧工作流需排查](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079129&idx=2&sn=df0e0e05d2843681315bf1ebf88e985d)
   - [【安全圈】SharePoint 代码注入漏洞出现实际攻击，已发布补丁仍需核对](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079129&idx=3&sn=8eab1210d63abf0b373ad59028f7c1ad)
+- 网络空间安全科学学报
+  - [10月17日专题会议：新技术应用安全前沿学术会议](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247509684&idx=1&sn=ba7e1b93a4b769d5d3d52c1ae975745a)
 - 极客公园
   - [OpenAI，经历了最漫长的一天](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114187&idx=1&sn=1a2155468976ee9e236a0e31064eb742)
   - [接连发生 AI 失控，OpenAI 暂停最强模型训练；腾讯推出云端小龙虾：已接入微信 QQ；王兴兴回应造 390 万元变形机甲 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114179&idx=1&sn=1ba4d68db537d077b52706f01949e54f)
-- 网络空间安全科学学报
-  - [10月17日专题会议：新技术应用安全前沿学术会议](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247509684&idx=1&sn=ba7e1b93a4b769d5d3d52c1ae975745a)
-- SANS Internet Storm Center, InfoCON: green
-  - [Wireshark 4.6.9 Released, (Sun, Sep 27th)](https://isc.sans.edu/diary/rss/33372)
-- IT Service Management News
-  - [Provvedimento del Garante sulle prove di rilascio dell'informativa](http://blog.cesaregallotti.it/2026/09/provvedimento-del-garante-sulle-prove.html)
-  - [ENISA Threat Landscape 2026](http://blog.cesaregallotti.it/2026/09/enisa-threat-landscape-2026.html)
+- 软件安全与逆向分析
+  - [OnePlus15手机本地提权Root分析](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485498&idx=1&sn=cc614f6fde7b4f0dfc7b86b1eb26d7cb)
+- 看雪学苑
+  - [2026腾讯游戏安全初赛Android题解](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622024&idx=1&sn=54a9aa955b8185e7701a9bd55a79842f)
+  - [为可信智能时代筑基：2026 CSA大中华区大会暨AI+安全大会聚焦基础设施安全与产业实践](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622024&idx=2&sn=20f61756c31961faf3b695da2bd2bd1d)
 - Over Security
   - [OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/)
   - [Threat Hunting and Defending #2: concepts, framework, Threat Model (p4)](https://roccosicilia.com/2026/09/27/threat-hunting-and-defending-2-concepts-framework-threat-model-p4/)
@@ -87,6 +57,11 @@
   - [Cloudflare fixes Containers cross-tenant flaw exposing customer data](https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/)
   - [Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/)
   - [Che cosa sono le ambasciate dei dati](https://guerredirete.substack.com/p/che-cosa-sono-le-ambasciate-dei-dati)
+- IT Service Management News
+  - [Provvedimento del Garante sulle prove di rilascio dell'informativa](http://blog.cesaregallotti.it/2026/09/provvedimento-del-garante-sulle-prove.html)
+  - [ENISA Threat Landscape 2026](http://blog.cesaregallotti.it/2026/09/enisa-threat-landscape-2026.html)
+- SANS Internet Storm Center, InfoCON: green
+  - [Wireshark 4.6.9 Released, (Sun, Sep 27th)](https://isc.sans.edu/diary/rss/33372)
 - Full Disclosure
   - [SEC Consult SA-20260923-0 :: Local Privilege Escalation in Honeywell IQ MultiAccess Update Service #CVE-2026-13742](https://seclists.org/fulldisclosure/2026/Sep/88)
   - [[SYSS-2026-071]: GDCM (Grassroots DICOM) - Format String	(CWE-134)](https://seclists.org/fulldisclosure/2026/Sep/87)
@@ -103,6 +78,8 @@
   - [[0day-rubbish] Netsis NetOpenX REST 2.0.6.9 Unauthenticated SQL injection to xp_cmdshell SYSTEM command execution (9.8)](https://seclists.org/fulldisclosure/2026/Sep/78)
   - [[0day-rubbish] MultiTech Conduit AEP 6.3.6 Authenticated import_config filename command injection to root RCE (7.2)](https://seclists.org/fulldisclosure/2026/Sep/77)
   - [[0day-rubbish] Lightstreamer Server 7.4.8 Unauthenticated JMX jvmtiAgentLoad native code execution (8.1)](https://seclists.org/fulldisclosure/2026/Sep/76)
+- The Hacker News
+  - [Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation](https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html)
 - KitPloit - PenTest Tools!
   - [house_of_apple_2](https://kitploit.com/en/tools/github/jazho76/house_of_apple_2)
   - [EmbedXPL-Forge](https://kitploit.com/en/tools/github/mrhenrike/embedxpl-forge)
@@ -120,5 +97,3 @@
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 116](https://securityaffairs.com/199850/malware/security-affairs-malware-newsletter-round-116.html)
   - [Security Affairs newsletter Round 597 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/199841/breaking-news/security-affairs-newsletter-round-597-by-pierluigi-paganini-international-edition.html)
   - [Rydox Admin Faces 20 Years After Selling Stolen Data and Fraud Tools](https://securityaffairs.com/199825/uncategorized/rydox-admin-faces-20-years-after-selling-stolen-data-and-fraud-tools.html)
-- The Hacker News
-  - [Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation](https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html)
