@@ -2,26 +2,28 @@
 
 - SecWiki News
   - [SecWiki News 2026-09-29 Review](http://www.sec-wiki.com/?2026-09-29)
-- Armin Ronacher's Thoughts and Writings
-  - [Deser: Rethinking Rust Serialization](https://lucumr.pocoo.org/2026/9/29/deser/)
 - bunnie's blog
   - [Name that Ware, September 2026](https://www.bunniestudios.com/blog/2026/name-that-ware-september-2026/)
   - [Winner, Name that Ware August 2026](https://www.bunniestudios.com/blog/2026/winner-name-that-ware-august-2026/)
 - Recent Commits to cve:main
   - [Update Tue Sep 29 12:42:37 UTC 2026](https://github.com/trickest/cve/commit/1250fa801122f60dbfb96c2c7a2852d5bbad6d27)
-- Sploitus.com Exploits RSS Feed
-  - [xss-methodology exploit](https://sploitus.com/exploit?id=8024CEEA-518F-5B6B-94B5-1F697CA4A522&utm_source=rss&utm_medium=rss)
+- Armin Ronacher's Thoughts and Writings
+  - [Deser: Rethinking Rust Serialization](https://lucumr.pocoo.org/2026/9/29/deser/)
 - 先知安全技术社区
   - [从 ZCode Trust Folder Bypass 0day 漏洞看 Coding Agent 的 Trust Folder 安全问题](https://xz.aliyun.com/news/92897)
-- 先知安全技术社区
-  - [从 ZCode Trust Folder Bypass 0day 漏洞看 Coding Agent 的 Trust Folder 安全问题](https://xz.aliyun.com/news/92897)
+- 安全客-有思想的安全新媒体
+  - [3.5亿美元一夜蒸发！黑客没偷密钥，Bitget是怎么被掏空的](https://www.anquanke.com/post/id/316193)
+  - [机器开始自己越权了：AI 智能体一年 17 次"翻墙"，英伟达紧急下场装护栏](https://www.anquanke.com/post/id/316190)
 - Microsoft Security Blog
   - [Phishing Abuses RMM Tools for Persistent Access](https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/)
   - [​​Beyond source code: A path to the keys to the kingdom](https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/)
   - [Star Blizzard refines phishing and malware delivery with the RedFlick technique](https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/)
-- 安全客-有思想的安全新媒体
-  - [3.5亿美元一夜蒸发！黑客没偷密钥，Bitget是怎么被掏空的](https://www.anquanke.com/post/id/316193)
-  - [机器开始自己越权了：AI 智能体一年 17 次"翻墙"，英伟达紧急下场装护栏](https://www.anquanke.com/post/id/316190)
+- 先知安全技术社区
+  - [从 ZCode Trust Folder Bypass 0day 漏洞看 Coding Agent 的 Trust Folder 安全问题](https://xz.aliyun.com/news/92897)
+- 白帽Wiki - 一个简单的wiki
+  - [[2026]anthropic的追踪SUB2API技巧](https://key08.com/index.php/2026/09/30/3339.html)
+- GuidePoint Security
+  - [Managing Agentic AI: Why the Control Plane Problem Is an AI Problem](https://www.guidepointsecurity.com/blog/managing_agentic_ai/)
 - Kitploit — Hacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!
   - [ip-obfuscation](https://kitploit.com/en/tools/github/hackinglz/ip-obfuscation)
   - [Relapse-Exploit](https://kitploit.com/en/tools/github/ntfargo/relapse-exploit)
@@ -38,14 +40,8 @@
   - [security-harness](https://kitploit.com/en/tools/github/dmdhrumilmistry/security-harness)
   - [VulnForge](https://kitploit.com/en/tools/github/rootless-ghost/vulnforge)
   - [phantom-grid](https://kitploit.com/en/tools/github/haidang-infosec/phantom-grid)
-- 白帽Wiki - 一个简单的wiki
-  - [[2026]anthropic的追踪SUB2API技巧](https://key08.com/index.php/2026/09/30/3339.html)
 - CCC Event Blog
   - [Abheben zum chaos.jetzt-Geekend #jetzt15 in Frankfurt (Main)](https://events.ccc.de/2026/09/29/jetzt15-geekend/)
-- Binary Ninja
-  - [Debugger Conditional Breakpoints and the Expression Parser That Backs Them](https://binary.ninja/2026/09/29/debugger-conditional-breakpoint.html)
-- GuidePoint Security
-  - [Managing Agentic AI: Why the Control Plane Problem Is an AI Problem](https://www.guidepointsecurity.com/blog/managing_agentic_ai/)
 - Reverse Engineering
   - [80 Days Reversing an IoT DVR: Stripped ARM32 Firmware, Hardcoded AES Keys & Post-Mortem here is my write up love yall.](https://www.reddit.com/r/ReverseEngineering/comments/1wtcusg/80_days_reversing_an_iot_dvr_stripped_arm32/)
   - [Intel C/C++ Compiler 4.0](https://www.reddit.com/r/ReverseEngineering/comments/1wtaapk/intel_cc_compiler_40/)
@@ -60,6 +56,8 @@
   - [Humans are reviewing Copilot users’ bizarre and abusive image-editing requests](https://www.malwarebytes.com/blog/ai/2026/09/humans-are-reviewing-copilot-users-bizarre-and-abusive-image-editing-requests)
 - Intigriti
   - [10 years of Intigriti](https://www.intigriti.com/blog/news/10-years-of-intigriti)
+- Binary Ninja
+  - [Debugger Conditional Breakpoints and the Expression Parser That Backs Them](https://binary.ninja/2026/09/29/debugger-conditional-breakpoint.html)
 - rtl-sdr.com
   - [Echo Pro: KiwiSDR, OpenWebRX, WebSDR and FM-DX iOS Browser App now with Live Transcription and Translation](https://www.rtl-sdr.com/echo-sdr-pro-kiwisdr-openwebrx-websdr-and-fm-dx-ios-browser-app-now-with-live-transcription-and-translation/)
   - [RTL-SDR Pager: Android App for Receiving and Decoding POCSAG and FLEX Pager Messages](https://www.rtl-sdr.com/rtl-sdr-pager-android-app-for-receiving-and-decoding-pocsag-and-flex-pager-messages/)
@@ -71,17 +69,6 @@
   - [Fastjson 1.2.x无需gadget远程代码执行漏洞通告](https://blog.nsfocus.net/fastjson-1-2-x%e6%97%a0%e9%9c%80gadget%e8%bf%9c%e7%a8%8b%e4%bb%a3%e7%a0%81%e6%89%a7%e8%a1%8c%e6%bc%8f%e6%b4%9e%e9%80%9a%e5%91%8a/)
   - [使用Ubuntu 26远程桌面](https://blog.nsfocus.net/%e4%bd%bf%e7%94%a8ubuntu-26%e8%bf%9c%e7%a8%8b%e6%a1%8c%e9%9d%a2/)
   - [给英文版Ubuntu 26安装中文输入法](https://blog.nsfocus.net/%e7%bb%99%e8%8b%b1%e6%96%87%e7%89%88ubuntu-26%e5%ae%89%e8%a3%85%e4%b8%ad%e6%96%87%e8%be%93%e5%85%a5%e6%b3%95/)
-- 奇客Solidot–传递最新科技情报
-  - [八分之一癌症病例由感染引起](https://www.solidot.org/story?sid=85507)
-  - [银行高管被 Deepfake 语音骗走 1 亿美元](https://www.solidot.org/story?sid=85506)
-  - [美光台工厂工会准备罢工](https://www.solidot.org/story?sid=85505)
-  - [Firefox 157 释出](https://www.solidot.org/story?sid=85504)
-  - [微软告诉非营利组织他们被删除的数据无法恢复](https://www.solidot.org/story?sid=85503)
-  - [不易变黑的香蕉准备上市](https://www.solidot.org/story?sid=85502)
-  - [AMD 以 82 亿美元收购李飞飞的 World Labs](https://www.solidot.org/story?sid=85501)
-  - [Google 计划到 2034 年停止支持 ChromeOS](https://www.solidot.org/story?sid=85500)
-  - [Windows 10 更新 bug 远少于 Windows 11](https://www.solidot.org/story?sid=85499)
-  - [中国冰川大幅减少](https://www.solidot.org/story?sid=85498)
 - HackerNews
   - [Bitget 在 3.875 亿美元加密货币被盗后恢复比特币提现](http://0.0.0.0:8080/post/64743)
   - [超过 16,000 个 Supabase 数据库暴露 PII、密码和身份验证令牌](http://0.0.0.0:8080/post/64742)
@@ -89,42 +76,15 @@
   - [Times Car 证实数据泄露影响 660 万用户账户](http://0.0.0.0:8080/post/64740)
   - [日本 Keio 证实遭勒索软件攻击，业务系统中断](http://0.0.0.0:8080/post/64739)
   - [Apple 修复 CoreGraphics 漏洞，该漏洞可能在定向攻击中被利用](http://0.0.0.0:8080/post/64738)
-- ICT Security Magazine
-  - [Operational Summary ACN agosto 2026: incidenti stabili, sistemi a rischio quasi triplicati da una vulnerabilità di cPanel](https://www.ictsecuritymagazine.com/cyber-security/operational-summary-acn-agosto-2026/)
-  - [Minacce spaziali, la nuova decisione UE abroga la STRA del 2021: cosa cambia per Stati membri e sicurezza informatica](https://www.ictsecuritymagazine.com/notizie/stra-minacce-spaziali-ue/)
-  - [Prove digitali e intelligenza artificiale: deepfake, provenance e scenari critici verso una forensics AI-resistant](https://www.ictsecuritymagazine.com/articoli/prove-digitali-ai/)
-- Microsoft Security Blog
-  - [Phishing Abuses RMM Tools for Persistent Access](https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/)
-  - [​​Beyond source code: A path to the keys to the kingdom](https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/)
-  - [Star Blizzard refines phishing and malware delivery with the RedFlick technique](https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/)
-- Chaos Computer Club - last 100 events feed
-  - [Image Based Modular Deployment for Large Teams in Embedded Systems (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-413-eng-Image_Based_Modular_Deployment_for_Large_Teams_in_Embedded_Systems_sd.mp4)
-  - [systemd: state of the project (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-389-eng-systemd_state_of_the_project_sd.mp4)
-  - [Measured Boot in NixOS & Other systemd Updates (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-391-eng-Measured_Boot_in_NixOS_Other_systemd_Updates_sd.mp4)
-  - [Moonforge: Making Yocto Easy To Assemble (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-409-eng-Moonforge_Making_Yocto_Easy_To_Assemble_sd.mp4)
-  - [systemd: round table (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-390-eng-systemd_round_table_sd.mp4)
-  - [attezt: device attestation, PKCS11 and ACME (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-414-eng-attezt_device_attestation_PKCS11_and_ACME_sd.mp4)
-  - [ParticleOS in action (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-445-eng-ParticleOS_in_action_sd.mp4)
-  - [Provisioning and Deployment Mechanisms in systemd (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-434-eng-Provisioning_and_Deployment_Mechanisms_in_systemd_sd.mp4)
-  - [Proposal for TPM2+FIDO2 enrollment in systemd (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-394-eng-Proposal_for_TPM2_FIDO2_enrollment_in_systemd_sd.mp4)
-  - [Bridging the (varlink) gap (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-407-eng-Bridging_the_varlink_gap_sd.mp4)
-  - [Do Users Actually Want a Trusted, Immutable OS?  Lessons from the Industry (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-395-eng-Do_Users_Actually_Want_a_Trusted_Immutable_OS_Lessons_from_the_Industry_sd.mp4)
-  - [A unified OS installer in systemd (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-hd/asg2026-404-eng-A_unified_OS_installer_in_systemd_hd.mp4)
-  - [Containers without a new runtime: sdme on systemd-nspawn (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-hd/asg2026-403-eng-Containers_without_a_new_runtime_sdme_on_systemd-nspawn_hd.mp4)
-- Krypt3ia
-  - [Weekly Cyber Espionage Intelligence Brief 9.29.26](https://krypt3ia.wordpress.com/2026/09/29/weekly-cyber-espionage-intelligence-brief-9-29-26/)
-  - [Weekly All-Source Espionage Intelligence Brief 9.29.26](https://krypt3ia.wordpress.com/2026/09/29/weekly-all-source-espionage-intelligence-brief-9-29-26/)
-- SANS Internet Storm Center, InfoCON: green
-  - [Scans for Wordfence Protected Websites, (Tue, Sep 29th)](https://isc.sans.edu/diary/rss/33382)
-  - [ISC Stormcast For Tuesday, September 29th, 2026 https://isc.sans.edu/podcastdetail/10114, (Tue, Sep 29th)](https://isc.sans.edu/diary/rss/33378)
-- Blog on Shielder
-  - [louis-rs Security Audit](https://www.shielder.com/blog/2026/09/louis-rs-security-audit/)
-- Full Disclosure
-  - [APPLE-SA-09-28-2026-3 macOS Sequoia 15.8.1](https://seclists.org/fulldisclosure/2026/Sep/91)
-  - [APPLE-SA-09-28-2026-2 macOS Tahoe 26.7.1](https://seclists.org/fulldisclosure/2026/Sep/90)
-  - [APPLE-SA-09-28-2026-1 iOS 26.7.1 and iPadOS 26.7.1](https://seclists.org/fulldisclosure/2026/Sep/89)
-- Daniel Miessler
-  - [AI State of the Union (October 2026)](https://danielmiessler.com/blog/ai-state-of-the-union?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- 奇客Solidot–传递最新科技情报
+  - [中国 AI 智能体也会撒谎和欺骗](https://www.solidot.org/story?sid=85508)
+  - [八分之一癌症病例由感染引起](https://www.solidot.org/story?sid=85507)
+  - [银行高管被 Deepfake 语音骗走 1 亿美元](https://www.solidot.org/story?sid=85506)
+  - [美光台工厂工会准备罢工](https://www.solidot.org/story?sid=85505)
+  - [Firefox 157 释出](https://www.solidot.org/story?sid=85504)
+  - [微软告诉非营利组织他们被删除的数据无法恢复](https://www.solidot.org/story?sid=85503)
+  - [不易变黑的香蕉准备上市](https://www.solidot.org/story?sid=85502)
+  - [AMD 以 82 亿美元收购李飞飞的 World Labs](https://www.solidot.org/story?sid=85501)
 - Over Security
   - [Signal adds encypted local backup support to iOS, desktop apps](https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/)
   - [US Air Force members given over 6 years in prison for cyber theft of more than $2 million](https://therecord.media/us-air-force-members-given-6-year-sentence-cyber)
@@ -152,32 +112,63 @@
   - [AI penetration testing: dalla vulnerabilità rilevata all’exploit realmente validato](https://www.cybersecurity360.it/soluzioni-aziendali/ai-penetration-testing-dalla-vulnerabilita-rilevata-allexploit-realmente-validato/)
   - [Kiteworks patches critical flaw, brings customer systems online](https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/)
   - [Hackers Are Stealing AI Keys. The Cost Can Reach $600,000](https://thecyberexpress.com/ai-service-security-how-attackers-exploit-keys/)
-  - [France Awards Airbus 25-Year Contract for Military Network Gateways](https://thecyberexpress.com/airbus-cybersecurity-sas-paracom-contract/)
-  - [Polish Medical Software Hit by Cyberattack, Patient Data Stolen](https://thecyberexpress.com/medyc-cyberattack-exposes-polish-patients-data/)
-  - [Apple Fixes CoreGraphics Flaw Used in Targeted Attacks](https://thecyberexpress.com/apple-fixes-cve-2026-86950-ios-ipados/)
-  - [September 2026 Cyber Attacks Timeline](https://www.hackmageddon.com/2026/09/29/september-2026-cyber-attacks-timeline/)
-  - [Major Cyber Attacks in September 2026: US and EU Face Session Theft, Remote Access, and Payment Fraud](https://any.run/cybersecurity-blog/major-cyber-attacks-september-2026/)
-  - [Attacchi LLM-jacking: hacker dirottano account aziendali per colpire terzi a costi irrisori](https://www.cybersecurity360.it/nuove-minacce/attacchi-llm-jacking-hacker-dirottano-account-aziendali-per-colpire-terzi-a-costi-irrisori/)
-  - [Apple patches CoreGraphics zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/)
-  - [GPT-6 Astra e l’attacco alla supply chain: quando l’AI viola le regole](https://www.cybersecurity360.it/nuove-minacce/gpt-6-astra-e-lattacco-alla-supply-chain-quando-lai-viola-le-regole/)
-- Security Affairs
-  - [Japanese railway operators Keio Corporation and Tokyo Metro disclose security breaches](https://securityaffairs.com/200027/data-breach/japanese-railway-operators-keio-corporation-and-tokyo-metro-disclose-security-breaches.html)
-  - [Three Million Affected in Pentagon Personnel Agency Data Breach](https://securityaffairs.com/200017/uncategorized/three-million-affected-in-pentagon-personnel-agency-data-breach.html)
-  - [Apple Patches CoreGraphics Zero-Day Linked to Sophisticated Targeted Attacks](https://securityaffairs.com/200001/hacking/apple-patches-coregraphics-zero-day-linked-to-sophisticated-targeted-attacks.html)
-  - [24-Year-Old Arrested in Dutch Investigation Into ShinyHunters](https://securityaffairs.com/199979/cyber-crime/24-year-old-arrested-in-dutch-investigation-into-shinyhunters.html)
-  - [GPT-6 Astra and the Supply Chain Attack It Wasn’t Asked to Launch](https://securityaffairs.com/199947/ai/gpt-6-astra-and-the-supply-chain-attack-it-wasnt-asked-to-launch.html)
+- Chaos Computer Club - last 100 events feed
+  - [Image Based Modular Deployment for Large Teams in Embedded Systems (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-413-eng-Image_Based_Modular_Deployment_for_Large_Teams_in_Embedded_Systems_sd.mp4)
+  - [ParticleOS in action (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-445-eng-ParticleOS_in_action_sd.mp4)
+  - [The state of systemd sandboxing in Debian (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-400-eng-The_state_of_systemd_sandboxing_in_Debian_sd.mp4)
+  - [systemd & OCI (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-435-eng-systemd_OCI_sd.mp4)
+  - [Couple Services, Not the Host: Portable Services and Capsules (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-436-eng-Couple_Services_Not_the_Host_Portable_Services_and_Capsules_sd.mp4)
+  - [Immutable, Fully-Confined Debian Server Images, Even on a Raspberry Pi 3 (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-422-eng-Immutable_Fully-Confined_Debian_Server_Images_Even_on_a_Raspberry_Pi_3_sd.mp4)
+  - [single-file containers with statically linked systemd (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-427-eng-single-file_containers_with_statically_linked_systemd_sd.mp4)
+  - [Proposal for TPM2+FIDO2 enrollment in systemd (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-394-eng-Proposal_for_TPM2_FIDO2_enrollment_in_systemd_sd.mp4)
+  - [Bridging the (varlink) gap (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-407-eng-Bridging_the_varlink_gap_sd.mp4)
+  - [Provisioning and Deployment Mechanisms in systemd (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-434-eng-Provisioning_and_Deployment_Mechanisms_in_systemd_sd.mp4)
+  - [zbus 6.0 (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-447-eng-zbus_60_sd.mp4)
+  - [From fsync to Block I/O: Tracing Storage with eBPF (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-418-eng-From_fsync_to_Block_I_O_Tracing_Storage_with_eBPF_sd.mp4)
+  - [systemd services as microvms (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-448-eng-systemd_services_as_microvms_sd.mp4)
+  - [Modernizing local storage management for systemd services (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-410-eng-Modernizing_local_storage_management_for_systemd_services_sd.mp4)
+  - [An update on systemd-sysext/confext (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-429-eng-An_update_on_systemd-sysext_confext_sd.mp4)
+  - [Rethinking systemd-homed's Key Hierarchy (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-412-eng-Rethinking_systemd-homeds_Key_Hierarchy_sd.mp4)
+  - [Make Debian Immutable with mkosi and Nix (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-415-eng-Make_Debian_Immutable_with_mkosi_and_Nix_sd.mp4)
+  - [Moonforge: Making Yocto Easy To Assemble (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-409-eng-Moonforge_Making_Yocto_Easy_To_Assemble_sd.mp4)
+  - [Do Users Actually Want a Trusted, Immutable OS?  Lessons from the Industry (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-395-eng-Do_Users_Actually_Want_a_Trusted_Immutable_OS_Lessons_from_the_Industry_sd.mp4)
+  - [Forget "podman generate systemd": How Quadlet Really Works (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-424-eng-Forget_podman_generate_systemd_How_Quadlet_Really_Works_sd.mp4)
+  - [Containers without a new runtime: sdme on systemd-nspawn (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-403-eng-Containers_without_a_new_runtime_sdme_on_systemd-nspawn_sd.mp4)
+  - [systemd: state of the project (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-389-eng-systemd_state_of_the_project_sd.mp4)
+  - [systemd: round table (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-390-eng-systemd_round_table_sd.mp4)
+  - [Measured Boot in NixOS & Other systemd Updates (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-391-eng-Measured_Boot_in_NixOS_Other_systemd_Updates_sd.mp4)
+  - [A unified OS installer in systemd (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-404-eng-A_unified_OS_installer_in_systemd_sd.mp4)
+  - [attezt: device attestation, PKCS11 and ACME (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-414-eng-attezt_device_attestation_PKCS11_and_ACME_sd.mp4)
+- Microsoft Security Blog
+  - [Phishing Abuses RMM Tools for Persistent Access](https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/)
+  - [​​Beyond source code: A path to the keys to the kingdom](https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/)
+  - [Star Blizzard refines phishing and malware delivery with the RedFlick technique](https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/)
+- SANS Internet Storm Center, InfoCON: green
+  - [Scans for Wordfence Protected Websites, (Tue, Sep 29th)](https://isc.sans.edu/diary/rss/33382)
+  - [ISC Stormcast For Tuesday, September 29th, 2026 https://isc.sans.edu/podcastdetail/10114, (Tue, Sep 29th)](https://isc.sans.edu/diary/rss/33378)
+- Krypt3ia
+  - [Weekly Cyber Espionage Intelligence Brief 9.29.26](https://krypt3ia.wordpress.com/2026/09/29/weekly-cyber-espionage-intelligence-brief-9-29-26/)
+  - [Weekly All-Source Espionage Intelligence Brief 9.29.26](https://krypt3ia.wordpress.com/2026/09/29/weekly-all-source-espionage-intelligence-brief-9-29-26/)
+- Full Disclosure
+  - [APPLE-SA-09-28-2026-3 macOS Sequoia 15.8.1](https://seclists.org/fulldisclosure/2026/Sep/91)
+  - [APPLE-SA-09-28-2026-2 macOS Tahoe 26.7.1](https://seclists.org/fulldisclosure/2026/Sep/90)
+  - [APPLE-SA-09-28-2026-1 iOS 26.7.1 and iPadOS 26.7.1](https://seclists.org/fulldisclosure/2026/Sep/89)
+- ICT Security Magazine
+  - [Operational Summary ACN agosto 2026: incidenti stabili, sistemi a rischio quasi triplicati da una vulnerabilità di cPanel](https://www.ictsecuritymagazine.com/cyber-security/operational-summary-acn-agosto-2026/)
+  - [Minacce spaziali, la nuova decisione UE abroga la STRA del 2021: cosa cambia per Stati membri e sicurezza informatica](https://www.ictsecuritymagazine.com/notizie/stra-minacce-spaziali-ue/)
+  - [Prove digitali e intelligenza artificiale: deepfake, provenance e scenari critici verso una forensics AI-resistant](https://www.ictsecuritymagazine.com/articoli/prove-digitali-ai/)
 - Schneier on Security
   - [Using Device Linking to Eavesdrop on WhatsApp and Signal](https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html)
-- The Hacker News
-  - [French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks](https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html)
-  - [New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses](https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html)
-  - [Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor](https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html)
-  - [Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown](https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html)
-  - [101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent](https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html)
-  - [Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation](https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html)
-  - [Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials](https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html)
-  - [OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions](https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html)
-  - [OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot](https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html)
+- Tor Project blog
+  - [New Release: Tor Browser 15.0.24](https://blog.torproject.org/new-release-tor-browser-15024/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [2024 cyber grad here. did a 1-year internship AND a 1-year contract, but the ATS bots are still humbling me daily. need a referral before i completely crash out.](https://www.reddit.com/r/netsecstudents/comments/1wtetem/2024_cyber_grad_here_did_a_1year_internship_and_a/)
+  - [What should I know before trusting a vendor's self-improving SOC claim?](https://www.reddit.com/r/netsecstudents/comments/1wt7ksf/what_should_i_know_before_trusting_a_vendors/)
+- Daniel Miessler
+  - [AI State of the Union (October 2026)](https://danielmiessler.com/blog/ai-state-of-the-union?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- Deeplinks
+  - [While the Country Rejects ALPR Mass Surveillance, SF Settles for Weak Safeguards](https://www.eff.org/deeplinks/2026/09/while-country-rejects-alpr-mass-surveillance-sf-settles-weak-safeguards)
+  - [Privacy’s Defenders Podcast: Cowboys, Cypherpunks and Visionaries](https://www.eff.org/deeplinks/2026/09/privacys-defenders-podcast-cowboys-cypherpunks-and-visionaries)
 - KitPloit - PenTest Tools!
   - [ip-obfuscation](https://kitploit.com/en/tools/github/hackinglz/ip-obfuscation)
   - [Relapse-Exploit](https://kitploit.com/en/tools/github/ntfargo/relapse-exploit)
@@ -194,11 +185,24 @@
   - [security-harness](https://kitploit.com/en/tools/github/dmdhrumilmistry/security-harness)
   - [VulnForge](https://kitploit.com/en/tools/github/rootless-ghost/vulnforge)
   - [phantom-grid](https://kitploit.com/en/tools/github/haidang-infosec/phantom-grid)
-- Tor Project blog
-  - [New Release: Tor Browser 15.0.24](https://blog.torproject.org/new-release-tor-browser-15024/)
-- Deeplinks
-  - [While the Country Rejects ALPR Mass Surveillance, SF Settles for Weak Safeguards](https://www.eff.org/deeplinks/2026/09/while-country-rejects-alpr-mass-surveillance-sf-settles-weak-safeguards)
-  - [Privacy’s Defenders Podcast: Cowboys, Cypherpunks and Visionaries](https://www.eff.org/deeplinks/2026/09/privacys-defenders-podcast-cowboys-cypherpunks-and-visionaries)
+- Security Affairs
+  - [Japanese railway operators Keio Corporation and Tokyo Metro disclose security breaches](https://securityaffairs.com/200027/data-breach/japanese-railway-operators-keio-corporation-and-tokyo-metro-disclose-security-breaches.html)
+  - [Three Million Affected in Pentagon Personnel Agency Data Breach](https://securityaffairs.com/200017/uncategorized/three-million-affected-in-pentagon-personnel-agency-data-breach.html)
+  - [Apple Patches CoreGraphics Zero-Day Linked to Sophisticated Targeted Attacks](https://securityaffairs.com/200001/hacking/apple-patches-coregraphics-zero-day-linked-to-sophisticated-targeted-attacks.html)
+  - [24-Year-Old Arrested in Dutch Investigation Into ShinyHunters](https://securityaffairs.com/199979/cyber-crime/24-year-old-arrested-in-dutch-investigation-into-shinyhunters.html)
+  - [GPT-6 Astra and the Supply Chain Attack It Wasn’t Asked to Launch](https://securityaffairs.com/199947/ai/gpt-6-astra-and-the-supply-chain-attack-it-wasnt-asked-to-launch.html)
+- The Hacker News
+  - [French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks](https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html)
+  - [New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses](https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html)
+  - [Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor](https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html)
+  - [Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown](https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html)
+  - [101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent](https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html)
+  - [Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation](https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html)
+  - [Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials](https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html)
+  - [OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions](https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html)
+  - [OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot](https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html)
+- Blog on Shielder
+  - [louis-rs Security Audit](https://www.shielder.com/blog/2026/09/louis-rs-security-audit/)
 - Security Weekly Podcast Network (Audio)
   - [Venus in Furs, Money Laundering, AI Hijinx, MCP, Thunderbastard, and Aaran Leyland  - SWN #620](http://sites.libsyn.com/18678/venus-in-furs-money-laundering-ai-hijinx-mcp-thunderbastard-and-aaran-leyland-swn-620)
   - [Going From Bug Bounty Bugs to More Secure Systems - Shlomie Liberow - ASW #402](http://sites.libsyn.com/18678/going-from-bug-bounty-bugs-to-more-secure-systems-shlomie-liberow-asw-402)
