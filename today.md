@@ -1,45 +1,27 @@
 # 每日安全资讯（2026-09-30）
 
-- bunnie's blog
-  - [Name that Ware, September 2026](https://www.bunniestudios.com/blog/2026/name-that-ware-september-2026/)
-  - [Winner, Name that Ware August 2026](https://www.bunniestudios.com/blog/2026/winner-name-that-ware-august-2026/)
 - SecWiki News
   - [SecWiki News 2026-09-29 Review](http://www.sec-wiki.com/?2026-09-29)
 - Armin Ronacher's Thoughts and Writings
   - [Deser: Rethinking Rust Serialization](https://lucumr.pocoo.org/2026/9/29/deser/)
+- bunnie's blog
+  - [Name that Ware, September 2026](https://www.bunniestudios.com/blog/2026/name-that-ware-september-2026/)
+  - [Winner, Name that Ware August 2026](https://www.bunniestudios.com/blog/2026/winner-name-that-ware-august-2026/)
 - Recent Commits to cve:main
   - [Update Tue Sep 29 12:42:37 UTC 2026](https://github.com/trickest/cve/commit/1250fa801122f60dbfb96c2c7a2852d5bbad6d27)
-- 安全客-有思想的安全新媒体
-  - [3.5亿美元一夜蒸发！黑客没偷密钥，Bitget是怎么被掏空的](https://www.anquanke.com/post/id/316193)
-  - [机器开始自己越权了：AI 智能体一年 17 次"翻墙"，英伟达紧急下场装护栏](https://www.anquanke.com/post/id/316190)
 - Sploitus.com Exploits RSS Feed
   - [xss-methodology exploit](https://sploitus.com/exploit?id=8024CEEA-518F-5B6B-94B5-1F697CA4A522&utm_source=rss&utm_medium=rss)
-  - [Relapse-Exploit](https://sploitus.com/exploit?id=8A9E0782-7097-56A3-AE0C-397F6619E92A&utm_source=rss&utm_medium=rss)
-  - [ps5 exploit](https://sploitus.com/exploit?id=F834CB8A-EA79-5292-88F7-F732B3046883&utm_source=rss&utm_medium=rss)
-  - [Exploit for Injection in Arjunsharda Searchor](https://sploitus.com/exploit?id=4F53287C-2F9A-58F5-8FCA-E5857E0D4330&utm_source=rss&utm_medium=rss)
-  - [exploit](https://sploitus.com/exploit?id=88BC7F11-7D2A-5D4A-B05A-1A93F5BDE925&utm_source=rss&utm_medium=rss)
-  - [Relapse-Exploit-13.40-local](https://sploitus.com/exploit?id=9D536A3F-C037-52D7-BDF6-588600FC53AD&utm_source=rss&utm_medium=rss)
-  - [Relapse-Exploit-Before](https://sploitus.com/exploit?id=CFCC80C9-B0D7-554C-B00F-0234993FBC18&utm_source=rss&utm_medium=rss)
-  - [Exploit for PHP Remote File Inclusion in Wordpress](https://sploitus.com/exploit?id=569311D0-BF9F-5EF7-8C56-E61EADA98014&utm_source=rss&utm_medium=rss)
-  - [vestigium exploit](https://sploitus.com/exploit?id=E022B7F3-C006-547C-B5F1-121245F6559D&utm_source=rss&utm_medium=rss)
-  - [MyModel exploit](https://sploitus.com/exploit?id=CC9AFB87-74D3-5CA9-8283-855373FE0232&utm_source=rss&utm_medium=rss)
-  - [SymaX5SW-Rx-Tx exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-INFOBYTE-SYMAX5SW-RX-TX&utm_source=rss&utm_medium=rss)
-  - [bulk_extractor exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SIMSONG-BULK_EXTRACTOR&utm_source=rss&utm_medium=rss)
-  - [Mortimer exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NCCGROUP-MORTIMER&utm_source=rss&utm_medium=rss)
-  - [relapse-exploit](https://sploitus.com/exploit?id=F2353DB9-73A1-503F-AA87-AB0EDAD63AEA&utm_source=rss&utm_medium=rss)
-  - [kali-rpi-luks-crypt exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TOTHI-KALI-RPI-LUKS-CRYPT&utm_source=rss&utm_medium=rss)
-  - [OWASPBugBounty exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OWASP-OWASPBUGBOUNTY&utm_source=rss&utm_medium=rss)
-  - [ngxray exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CALIFIO-NGXRAY&utm_source=rss&utm_medium=rss)
-  - [CVE-2019-8781-macOS exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TRUNGNGUYEN1909-CVE-2019-8781-MACOS&utm_source=rss&utm_medium=rss)
-  - [CVE-2025-1094-PoC-Postgre-SQLi exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ISHWARDEEPP-CVE-2025-1094-POC-POSTGRE-SQLI&utm_source=rss&utm_medium=rss)
-  - [sshroute exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-THEREISNOTIME-SSHROUTE&utm_source=rss&utm_medium=rss)
-  - [CVE-2026-43284 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-0XBLACKASH-CVE-2026-43284&utm_source=rss&utm_medium=rss)
-  - [rdpy exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CITRONNEUR-RDPY&utm_source=rss&utm_medium=rss)
-  - [CVE-2024-38063 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SKAC44-CVE-2024-38063&utm_source=rss&utm_medium=rss)
+- 先知安全技术社区
+  - [从 ZCode Trust Folder Bypass 0day 漏洞看 Coding Agent 的 Trust Folder 安全问题](https://xz.aliyun.com/news/92897)
+- 先知安全技术社区
+  - [从 ZCode Trust Folder Bypass 0day 漏洞看 Coding Agent 的 Trust Folder 安全问题](https://xz.aliyun.com/news/92897)
 - Microsoft Security Blog
   - [Phishing Abuses RMM Tools for Persistent Access](https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/)
   - [​​Beyond source code: A path to the keys to the kingdom](https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/)
   - [Star Blizzard refines phishing and malware delivery with the RedFlick technique](https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/)
+- 安全客-有思想的安全新媒体
+  - [3.5亿美元一夜蒸发！黑客没偷密钥，Bitget是怎么被掏空的](https://www.anquanke.com/post/id/316193)
+  - [机器开始自己越权了：AI 智能体一年 17 次"翻墙"，英伟达紧急下场装护栏](https://www.anquanke.com/post/id/316190)
 - Kitploit — Hacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!
   - [ip-obfuscation](https://kitploit.com/en/tools/github/hackinglz/ip-obfuscation)
   - [Relapse-Exploit](https://kitploit.com/en/tools/github/ntfargo/relapse-exploit)
@@ -56,19 +38,14 @@
   - [security-harness](https://kitploit.com/en/tools/github/dmdhrumilmistry/security-harness)
   - [VulnForge](https://kitploit.com/en/tools/github/rootless-ghost/vulnforge)
   - [phantom-grid](https://kitploit.com/en/tools/github/haidang-infosec/phantom-grid)
+- 白帽Wiki - 一个简单的wiki
+  - [[2026]anthropic的追踪SUB2API技巧](https://key08.com/index.php/2026/09/30/3339.html)
 - CCC Event Blog
   - [Abheben zum chaos.jetzt-Geekend #jetzt15 in Frankfurt (Main)](https://events.ccc.de/2026/09/29/jetzt15-geekend/)
 - Binary Ninja
   - [Debugger Conditional Breakpoints and the Expression Parser That Backs Them](https://binary.ninja/2026/09/29/debugger-conditional-breakpoint.html)
-- 白帽Wiki - 一个简单的wiki
-  - [[2026]anthropic的追踪SUB2API技巧](https://key08.com/index.php/2026/09/30/3339.html)
 - GuidePoint Security
   - [Managing Agentic AI: Why the Control Plane Problem Is an AI Problem](https://www.guidepointsecurity.com/blog/managing_agentic_ai/)
-- Malwarebytes
-  - [Meta’s Muse sent a Facebook Marketplace buyer to a seller’s home](https://www.malwarebytes.com/blog/news/2026/09/metas-muse-sent-a-facebook-marketplace-buyer-to-a-sellers-home)
-  - [Update your iPhone, iPad, or Mac: Flaw could run attackers’ code](https://www.malwarebytes.com/blog/bugs/2026/09/update-your-iphone-ipad-or-mac-flaw-could-run-attackers-code)
-  - [Fake iPhone Duo preorder scam triggers DarkSword attack](https://www.malwarebytes.com/blog/threat-intel/2026/09/fake-iphone-duo-preorder-scam-triggers-darksword-attack)
-  - [Humans are reviewing Copilot users’ bizarre and abusive image-editing requests](https://www.malwarebytes.com/blog/ai/2026/09/humans-are-reviewing-copilot-users-bizarre-and-abusive-image-editing-requests)
 - Reverse Engineering
   - [80 Days Reversing an IoT DVR: Stripped ARM32 Firmware, Hardcoded AES Keys & Post-Mortem here is my write up love yall.](https://www.reddit.com/r/ReverseEngineering/comments/1wtcusg/80_days_reversing_an_iot_dvr_stripped_arm32/)
   - [Intel C/C++ Compiler 4.0](https://www.reddit.com/r/ReverseEngineering/comments/1wtaapk/intel_cc_compiler_40/)
@@ -76,8 +53,16 @@
   - [Flare-On13 discussion](https://www.reddit.com/r/ReverseEngineering/comments/1wt2xj5/flareon13_discussion/)
   - [QUICKSURFACE AI - QUICKSURFACE](https://www.reddit.com/r/ReverseEngineering/comments/1wteme8/quicksurface_ai_quicksurface/)
   - [I dare you to decode this: 392.2 -219.6 2 0 386.2 -67.3 2 1 192.7 128.9 1 2 543.7 116 1 3 135 434 3 4 608.5 303.5 1 5 438.2 444.4 2 6;0 1 0 1 3 2 1 2 1 2 4 1 3 4 2 3 5 1 2 5 2 5 6 0 6 4 0;8 0](https://www.reddit.com/r/ReverseEngineering/comments/1wtafyg/i_dare_you_to_decode_this_3922_2196_2_0_3862_673/)
+- Malwarebytes
+  - [Meta’s Muse sent a Facebook Marketplace buyer to a seller’s home](https://www.malwarebytes.com/blog/news/2026/09/metas-muse-sent-a-facebook-marketplace-buyer-to-a-sellers-home)
+  - [Update your iPhone, iPad, or Mac: Flaw could run attackers’ code](https://www.malwarebytes.com/blog/bugs/2026/09/update-your-iphone-ipad-or-mac-flaw-could-run-attackers-code)
+  - [Fake iPhone Duo preorder scam triggers DarkSword attack](https://www.malwarebytes.com/blog/threat-intel/2026/09/fake-iphone-duo-preorder-scam-triggers-darksword-attack)
+  - [Humans are reviewing Copilot users’ bizarre and abusive image-editing requests](https://www.malwarebytes.com/blog/ai/2026/09/humans-are-reviewing-copilot-users-bizarre-and-abusive-image-editing-requests)
 - Intigriti
   - [10 years of Intigriti](https://www.intigriti.com/blog/news/10-years-of-intigriti)
+- rtl-sdr.com
+  - [Echo Pro: KiwiSDR, OpenWebRX, WebSDR and FM-DX iOS Browser App now with Live Transcription and Translation](https://www.rtl-sdr.com/echo-sdr-pro-kiwisdr-openwebrx-websdr-and-fm-dx-ios-browser-app-now-with-live-transcription-and-translation/)
+  - [RTL-SDR Pager: Android App for Receiving and Decoding POCSAG and FLEX Pager Messages](https://www.rtl-sdr.com/rtl-sdr-pager-android-app-for-receiving-and-decoding-pocsag-and-flex-pager-messages/)
 - 绿盟科技技术博客
   - [四次进化，绿盟科技将开拓怎样的安全新境？](https://blog.nsfocus.net/%e5%9b%9b%e6%ac%a1%e8%bf%9b%e5%8c%96%ef%bc%8c%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e5%b0%86%e5%bc%80%e6%8b%93%e6%80%8e%e6%a0%b7%e7%9a%84%e5%ae%89%e5%85%a8%e6%96%b0%e5%a2%83%ef%bc%9f/)
   - [微软9月安全更新多个产品高危漏洞通告](https://blog.nsfocus.net/%e5%be%ae%e8%bd%af9%e6%9c%88%e5%ae%89%e5%85%a8%e6%9b%b4%e6%96%b0%e5%a4%9a%e4%b8%aa%e4%ba%a7%e5%93%81%e9%ab%98%e5%8d%b1%e6%bc%8f%e6%b4%9e%e9%80%9a%e5%91%8a/)
@@ -86,9 +71,6 @@
   - [Fastjson 1.2.x无需gadget远程代码执行漏洞通告](https://blog.nsfocus.net/fastjson-1-2-x%e6%97%a0%e9%9c%80gadget%e8%bf%9c%e7%a8%8b%e4%bb%a3%e7%a0%81%e6%89%a7%e8%a1%8c%e6%bc%8f%e6%b4%9e%e9%80%9a%e5%91%8a/)
   - [使用Ubuntu 26远程桌面](https://blog.nsfocus.net/%e4%bd%bf%e7%94%a8ubuntu-26%e8%bf%9c%e7%a8%8b%e6%a1%8c%e9%9d%a2/)
   - [给英文版Ubuntu 26安装中文输入法](https://blog.nsfocus.net/%e7%bb%99%e8%8b%b1%e6%96%87%e7%89%88ubuntu-26%e5%ae%89%e8%a3%85%e4%b8%ad%e6%96%87%e8%be%93%e5%85%a5%e6%b3%95/)
-- rtl-sdr.com
-  - [Echo Pro: KiwiSDR, OpenWebRX, WebSDR and FM-DX iOS Browser App now with Live Transcription and Translation](https://www.rtl-sdr.com/echo-sdr-pro-kiwisdr-openwebrx-websdr-and-fm-dx-ios-browser-app-now-with-live-transcription-and-translation/)
-  - [RTL-SDR Pager: Android App for Receiving and Decoding POCSAG and FLEX Pager Messages](https://www.rtl-sdr.com/rtl-sdr-pager-android-app-for-receiving-and-decoding-pocsag-and-flex-pager-messages/)
 - 奇客Solidot–传递最新科技情报
   - [八分之一癌症病例由感染引起](https://www.solidot.org/story?sid=85507)
   - [银行高管被 Deepfake 语音骗走 1 亿美元](https://www.solidot.org/story?sid=85506)
@@ -100,6 +82,49 @@
   - [Google 计划到 2034 年停止支持 ChromeOS](https://www.solidot.org/story?sid=85500)
   - [Windows 10 更新 bug 远少于 Windows 11](https://www.solidot.org/story?sid=85499)
   - [中国冰川大幅减少](https://www.solidot.org/story?sid=85498)
+- HackerNews
+  - [Bitget 在 3.875 亿美元加密货币被盗后恢复比特币提现](http://0.0.0.0:8080/post/64743)
+  - [超过 16,000 个 Supabase 数据库暴露 PII、密码和身份验证令牌](http://0.0.0.0:8080/post/64742)
+  - [荷兰警方证实在 ShinyHunters 黑客调查中实施逮捕](http://0.0.0.0:8080/post/64741)
+  - [Times Car 证实数据泄露影响 660 万用户账户](http://0.0.0.0:8080/post/64740)
+  - [日本 Keio 证实遭勒索软件攻击，业务系统中断](http://0.0.0.0:8080/post/64739)
+  - [Apple 修复 CoreGraphics 漏洞，该漏洞可能在定向攻击中被利用](http://0.0.0.0:8080/post/64738)
+- ICT Security Magazine
+  - [Operational Summary ACN agosto 2026: incidenti stabili, sistemi a rischio quasi triplicati da una vulnerabilità di cPanel](https://www.ictsecuritymagazine.com/cyber-security/operational-summary-acn-agosto-2026/)
+  - [Minacce spaziali, la nuova decisione UE abroga la STRA del 2021: cosa cambia per Stati membri e sicurezza informatica](https://www.ictsecuritymagazine.com/notizie/stra-minacce-spaziali-ue/)
+  - [Prove digitali e intelligenza artificiale: deepfake, provenance e scenari critici verso una forensics AI-resistant](https://www.ictsecuritymagazine.com/articoli/prove-digitali-ai/)
+- Microsoft Security Blog
+  - [Phishing Abuses RMM Tools for Persistent Access](https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/)
+  - [​​Beyond source code: A path to the keys to the kingdom](https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/)
+  - [Star Blizzard refines phishing and malware delivery with the RedFlick technique](https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/)
+- Chaos Computer Club - last 100 events feed
+  - [Image Based Modular Deployment for Large Teams in Embedded Systems (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-413-eng-Image_Based_Modular_Deployment_for_Large_Teams_in_Embedded_Systems_sd.mp4)
+  - [systemd: state of the project (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-389-eng-systemd_state_of_the_project_sd.mp4)
+  - [Measured Boot in NixOS & Other systemd Updates (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-391-eng-Measured_Boot_in_NixOS_Other_systemd_Updates_sd.mp4)
+  - [Moonforge: Making Yocto Easy To Assemble (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-409-eng-Moonforge_Making_Yocto_Easy_To_Assemble_sd.mp4)
+  - [systemd: round table (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-390-eng-systemd_round_table_sd.mp4)
+  - [attezt: device attestation, PKCS11 and ACME (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-414-eng-attezt_device_attestation_PKCS11_and_ACME_sd.mp4)
+  - [ParticleOS in action (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-445-eng-ParticleOS_in_action_sd.mp4)
+  - [Provisioning and Deployment Mechanisms in systemd (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-434-eng-Provisioning_and_Deployment_Mechanisms_in_systemd_sd.mp4)
+  - [Proposal for TPM2+FIDO2 enrollment in systemd (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-394-eng-Proposal_for_TPM2_FIDO2_enrollment_in_systemd_sd.mp4)
+  - [Bridging the (varlink) gap (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-407-eng-Bridging_the_varlink_gap_sd.mp4)
+  - [Do Users Actually Want a Trusted, Immutable OS?  Lessons from the Industry (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-395-eng-Do_Users_Actually_Want_a_Trusted_Immutable_OS_Lessons_from_the_Industry_sd.mp4)
+  - [A unified OS installer in systemd (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-hd/asg2026-404-eng-A_unified_OS_installer_in_systemd_hd.mp4)
+  - [Containers without a new runtime: sdme on systemd-nspawn (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-hd/asg2026-403-eng-Containers_without_a_new_runtime_sdme_on_systemd-nspawn_hd.mp4)
+- Krypt3ia
+  - [Weekly Cyber Espionage Intelligence Brief 9.29.26](https://krypt3ia.wordpress.com/2026/09/29/weekly-cyber-espionage-intelligence-brief-9-29-26/)
+  - [Weekly All-Source Espionage Intelligence Brief 9.29.26](https://krypt3ia.wordpress.com/2026/09/29/weekly-all-source-espionage-intelligence-brief-9-29-26/)
+- SANS Internet Storm Center, InfoCON: green
+  - [Scans for Wordfence Protected Websites, (Tue, Sep 29th)](https://isc.sans.edu/diary/rss/33382)
+  - [ISC Stormcast For Tuesday, September 29th, 2026 https://isc.sans.edu/podcastdetail/10114, (Tue, Sep 29th)](https://isc.sans.edu/diary/rss/33378)
+- Blog on Shielder
+  - [louis-rs Security Audit](https://www.shielder.com/blog/2026/09/louis-rs-security-audit/)
+- Full Disclosure
+  - [APPLE-SA-09-28-2026-3 macOS Sequoia 15.8.1](https://seclists.org/fulldisclosure/2026/Sep/91)
+  - [APPLE-SA-09-28-2026-2 macOS Tahoe 26.7.1](https://seclists.org/fulldisclosure/2026/Sep/90)
+  - [APPLE-SA-09-28-2026-1 iOS 26.7.1 and iPadOS 26.7.1](https://seclists.org/fulldisclosure/2026/Sep/89)
+- Daniel Miessler
+  - [AI State of the Union (October 2026)](https://danielmiessler.com/blog/ai-state-of-the-union?utm_source=rss&utm_medium=feed&utm_campaign=website)
 - Over Security
   - [Signal adds encypted local backup support to iOS, desktop apps](https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/)
   - [US Air Force members given over 6 years in prison for cyber theft of more than $2 million](https://therecord.media/us-air-force-members-given-6-year-sentence-cyber)
@@ -135,21 +160,14 @@
   - [Attacchi LLM-jacking: hacker dirottano account aziendali per colpire terzi a costi irrisori](https://www.cybersecurity360.it/nuove-minacce/attacchi-llm-jacking-hacker-dirottano-account-aziendali-per-colpire-terzi-a-costi-irrisori/)
   - [Apple patches CoreGraphics zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/)
   - [GPT-6 Astra e l’attacco alla supply chain: quando l’AI viola le regole](https://www.cybersecurity360.it/nuove-minacce/gpt-6-astra-e-lattacco-alla-supply-chain-quando-lai-viola-le-regole/)
-- Blog on Shielder
-  - [louis-rs Security Audit](https://www.shielder.com/blog/2026/09/louis-rs-security-audit/)
-- Krypt3ia
-  - [Weekly Cyber Espionage Intelligence Brief 9.29.26](https://krypt3ia.wordpress.com/2026/09/29/weekly-cyber-espionage-intelligence-brief-9-29-26/)
-  - [Weekly All-Source Espionage Intelligence Brief 9.29.26](https://krypt3ia.wordpress.com/2026/09/29/weekly-all-source-espionage-intelligence-brief-9-29-26/)
-- ICT Security Magazine
-  - [Operational Summary ACN agosto 2026: incidenti stabili, sistemi a rischio quasi triplicati da una vulnerabilità di cPanel](https://www.ictsecuritymagazine.com/cyber-security/operational-summary-acn-agosto-2026/)
-  - [Minacce spaziali, la nuova decisione UE abroga la STRA del 2021: cosa cambia per Stati membri e sicurezza informatica](https://www.ictsecuritymagazine.com/notizie/stra-minacce-spaziali-ue/)
-  - [Prove digitali e intelligenza artificiale: deepfake, provenance e scenari critici verso una forensics AI-resistant](https://www.ictsecuritymagazine.com/articoli/prove-digitali-ai/)
+- Security Affairs
+  - [Japanese railway operators Keio Corporation and Tokyo Metro disclose security breaches](https://securityaffairs.com/200027/data-breach/japanese-railway-operators-keio-corporation-and-tokyo-metro-disclose-security-breaches.html)
+  - [Three Million Affected in Pentagon Personnel Agency Data Breach](https://securityaffairs.com/200017/uncategorized/three-million-affected-in-pentagon-personnel-agency-data-breach.html)
+  - [Apple Patches CoreGraphics Zero-Day Linked to Sophisticated Targeted Attacks](https://securityaffairs.com/200001/hacking/apple-patches-coregraphics-zero-day-linked-to-sophisticated-targeted-attacks.html)
+  - [24-Year-Old Arrested in Dutch Investigation Into ShinyHunters](https://securityaffairs.com/199979/cyber-crime/24-year-old-arrested-in-dutch-investigation-into-shinyhunters.html)
+  - [GPT-6 Astra and the Supply Chain Attack It Wasn’t Asked to Launch](https://securityaffairs.com/199947/ai/gpt-6-astra-and-the-supply-chain-attack-it-wasnt-asked-to-launch.html)
 - Schneier on Security
   - [Using Device Linking to Eavesdrop on WhatsApp and Signal](https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html)
-- Full Disclosure
-  - [APPLE-SA-09-28-2026-3 macOS Sequoia 15.8.1](https://seclists.org/fulldisclosure/2026/Sep/91)
-  - [APPLE-SA-09-28-2026-2 macOS Tahoe 26.7.1](https://seclists.org/fulldisclosure/2026/Sep/90)
-  - [APPLE-SA-09-28-2026-1 iOS 26.7.1 and iPadOS 26.7.1](https://seclists.org/fulldisclosure/2026/Sep/89)
 - The Hacker News
   - [French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks](https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html)
   - [New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses](https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html)
@@ -160,22 +178,6 @@
   - [Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials](https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html)
   - [OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions](https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html)
   - [OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot](https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html)
-- Security Affairs
-  - [Japanese railway operators Keio Corporation and Tokyo Metro disclose security breaches](https://securityaffairs.com/200027/data-breach/japanese-railway-operators-keio-corporation-and-tokyo-metro-disclose-security-breaches.html)
-  - [Three Million Affected in Pentagon Personnel Agency Data Breach](https://securityaffairs.com/200017/uncategorized/three-million-affected-in-pentagon-personnel-agency-data-breach.html)
-  - [Apple Patches CoreGraphics Zero-Day Linked to Sophisticated Targeted Attacks](https://securityaffairs.com/200001/hacking/apple-patches-coregraphics-zero-day-linked-to-sophisticated-targeted-attacks.html)
-  - [24-Year-Old Arrested in Dutch Investigation Into ShinyHunters](https://securityaffairs.com/199979/cyber-crime/24-year-old-arrested-in-dutch-investigation-into-shinyhunters.html)
-  - [GPT-6 Astra and the Supply Chain Attack It Wasn’t Asked to Launch](https://securityaffairs.com/199947/ai/gpt-6-astra-and-the-supply-chain-attack-it-wasnt-asked-to-launch.html)
-- Deep Web
-  - [Ummmm I’m nervous bout if I’m hacked orrrr](https://www.reddit.com/r/deepweb/comments/1wtnqsu/ummmm_im_nervous_bout_if_im_hacked_orrrr/)
-  - [OS helppp](https://www.reddit.com/r/deepweb/comments/1wsw2s9/os_helppp/)
-- Tor Project blog
-  - [New Release: Tor Browser 15.0.24](https://blog.torproject.org/new-release-tor-browser-15024/)
-- Daniel Miessler
-  - [AI State of the Union (October 2026)](https://danielmiessler.com/blog/ai-state-of-the-union?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- Deeplinks
-  - [While the Country Rejects ALPR Mass Surveillance, SF Settles for Weak Safeguards](https://www.eff.org/deeplinks/2026/09/while-country-rejects-alpr-mass-surveillance-sf-settles-weak-safeguards)
-  - [Privacy’s Defenders Podcast: Cowboys, Cypherpunks and Visionaries](https://www.eff.org/deeplinks/2026/09/privacys-defenders-podcast-cowboys-cypherpunks-and-visionaries)
 - KitPloit - PenTest Tools!
   - [ip-obfuscation](https://kitploit.com/en/tools/github/hackinglz/ip-obfuscation)
   - [Relapse-Exploit](https://kitploit.com/en/tools/github/ntfargo/relapse-exploit)
@@ -192,13 +194,11 @@
   - [security-harness](https://kitploit.com/en/tools/github/dmdhrumilmistry/security-harness)
   - [VulnForge](https://kitploit.com/en/tools/github/rootless-ghost/vulnforge)
   - [phantom-grid](https://kitploit.com/en/tools/github/haidang-infosec/phantom-grid)
-- SANS Internet Storm Center, InfoCON: green
-  - [Scans for Wordfence Protected Websites, (Tue, Sep 29th)](https://isc.sans.edu/diary/rss/33382)
-  - [ISC Stormcast For Tuesday, September 29th, 2026 https://isc.sans.edu/podcastdetail/10114, (Tue, Sep 29th)](https://isc.sans.edu/diary/rss/33378)
-- Microsoft Security Blog
-  - [Phishing Abuses RMM Tools for Persistent Access](https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/)
-  - [​​Beyond source code: A path to the keys to the kingdom](https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/)
-  - [Star Blizzard refines phishing and malware delivery with the RedFlick technique](https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/)
+- Tor Project blog
+  - [New Release: Tor Browser 15.0.24](https://blog.torproject.org/new-release-tor-browser-15024/)
+- Deeplinks
+  - [While the Country Rejects ALPR Mass Surveillance, SF Settles for Weak Safeguards](https://www.eff.org/deeplinks/2026/09/while-country-rejects-alpr-mass-surveillance-sf-settles-weak-safeguards)
+  - [Privacy’s Defenders Podcast: Cowboys, Cypherpunks and Visionaries](https://www.eff.org/deeplinks/2026/09/privacys-defenders-podcast-cowboys-cypherpunks-and-visionaries)
 - Security Weekly Podcast Network (Audio)
   - [Venus in Furs, Money Laundering, AI Hijinx, MCP, Thunderbastard, and Aaran Leyland  - SWN #620](http://sites.libsyn.com/18678/venus-in-furs-money-laundering-ai-hijinx-mcp-thunderbastard-and-aaran-leyland-swn-620)
   - [Going From Bug Bounty Bugs to More Secure Systems - Shlomie Liberow - ASW #402](http://sites.libsyn.com/18678/going-from-bug-bounty-bugs-to-more-secure-systems-shlomie-liberow-asw-402)
