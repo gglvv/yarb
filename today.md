@@ -1,40 +1,16 @@
 # 每日安全资讯（2026-10-01）
 
-- A Few Thoughts on Cryptographic Engineering
-  - [Is sandboxing sufficient to contain rogue agents?](https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/)
-- Recent Commits to cve:main
-  - [Update Wed Sep 30 12:13:39 UTC 2026](https://github.com/trickest/cve/commit/bdaa2f6c83900562325ae7798f12633b7eac952e)
-- Sploitus.com Exploits RSS Feed
-  - [Exploit for Use After Free in Linux Linux_Kernel](https://sploitus.com/exploit?id=B44AC8CC-C651-5ABB-8A2C-D206E36A7985&utm_source=rss&utm_medium=rss)
-  - [RelapseEx exploit](https://sploitus.com/exploit?id=89DCE164-CCC8-568E-B539-00846087D3A0&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-91159](https://sploitus.com/exploit?id=E2A85B23-BFD7-54EB-8368-F3A4ADB875E1&utm_source=rss&utm_medium=rss)
-  - [Relapse-Exploit](https://sploitus.com/exploit?id=EF60E858-BAC8-591F-972E-CBB691D1AF2F&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-76504](https://sploitus.com/exploit?id=6B65C86A-36FF-5B37-9509-8BDF94015F72&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-103446](https://sploitus.com/exploit?id=96AC3ACA-3CEC-53B6-A0D2-0DC89F63ED14&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-103445](https://sploitus.com/exploit?id=FBF5CA39-2978-53DC-870B-CEEF0452F4A9&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-103442](https://sploitus.com/exploit?id=FF842BEE-4393-5C9C-8C75-B127E2E7475D&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-103441](https://sploitus.com/exploit?id=ACBEC541-EE2D-585D-B09B-D408177315D3&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-103440](https://sploitus.com/exploit?id=82671E0C-1E10-55E3-97D2-E5511C186519&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-103437](https://sploitus.com/exploit?id=3EB801D0-EC94-57F5-A40D-37F53BEB4B10&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-12227](https://sploitus.com/exploit?id=06422BAA-B971-513B-B075-772DE8627CA4&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-102427](https://sploitus.com/exploit?id=E017761E-5C4F-534C-944D-1C39C25D0DD0&utm_source=rss&utm_medium=rss)
-  - [Exploit for Improper Authorization in Vercel Next.Js](https://sploitus.com/exploit?id=7893FFA6-2A71-56C1-83E1-158B23C948F4&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2026-76570](https://sploitus.com/exploit?id=BC53427D-053C-5773-A12D-17DFF1F19C95&utm_source=rss&utm_medium=rss)
-  - [Exploit for Code Injection in Flowiseai Flowise](https://sploitus.com/exploit?id=F6CE9614-1DB3-5603-9BA8-CDF5F1CEE0E8&utm_source=rss&utm_medium=rss)
-  - [Exploit-Machine](https://sploitus.com/exploit?id=11810EFE-0100-588F-85C8-7F82E7FD0861&utm_source=rss&utm_medium=rss)
-  - [recce exploit](https://sploitus.com/exploit?id=3E0A1D3C-EA18-5F99-9ADE-12654C8BA26E&utm_source=rss&utm_medium=rss)
-  - [CVE-2025-40634 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HACEFRESKO-CVE-2025-40634&utm_source=rss&utm_medium=rss)
-  - [secveri-cve-2026-50011-positive exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BIBOTAI-SECVERI-CVE-2026-50011-POSITIVE&utm_source=rss&utm_medium=rss)
-  - [pollyscan exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PADAYALI-JD-POLLYSCAN&utm_source=rss&utm_medium=rss)
-  - [CVE-2017-8759-exploits](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ASHR-CVE-2017-8759-EXPLOITS&utm_source=rss&utm_medium=rss)
-  - [recon-skills exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-UPHIAGO-RECON-SKILLS&utm_source=rss&utm_medium=rss)
-  - [Gemini-api-key-hunter exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-COFFINXP-GEMINI-API-KEY-HUNTER&utm_source=rss&utm_medium=rss)
-  - [CVE-2026-28992-IOHIDFamily-FastPathUserClient-Race-Conditions exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-0XJOHNNYDEV-CVE-2026-28992-IOHIDFAMILY-FASTPATHUSERCLIENT-RACE-CONDITIONS&utm_source=rss&utm_medium=rss)
 - SecWiki News
   - [SecWiki News 2026-09-30 Review](http://www.sec-wiki.com/?2026-09-30)
 - Microsoft Security Blog
   - [​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026](https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/)
   - [Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570](https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/)
+- Recent Commits to cve:main
+  - [Update Wed Sep 30 12:13:39 UTC 2026](https://github.com/trickest/cve/commit/bdaa2f6c83900562325ae7798f12633b7eac952e)
+- A Few Thoughts on Cryptographic Engineering
+  - [Is sandboxing sufficient to contain rogue agents?](https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/)
+- Didier Stevens
+  - [Update: search-for-compression.py Version 0.0.8](https://blog.didierstevens.com/2026/09/30/update-search-for-compression-py-version-0-0-8/)
 - Kitploit — Hacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!
   - [TamarinAgent](https://kitploit.com/en/tools/github/laplace1002/tamarinagent)
   - [honeypot-stuff](https://kitploit.com/en/tools/github/jeeberrr/honeypot-stuff)
@@ -61,23 +37,21 @@
   - [redStackPRO](https://kitploit.com/en/tools/github/devzero-security/redstackpro)
   - [btr](https://kitploit.com/en/tools/github/vusec/btr)
   - [openssl openssl-4.0.3](https://kitploit.com/en/posts/openssl-09531ce30ef1dfd6)
-- Didier Stevens
-  - [Update: search-for-compression.py Version 0.0.8](https://blog.didierstevens.com/2026/09/30/update-search-for-compression-py-version-0-0-8/)
-- Horizon3
-  - [Horizon3’s Tales from the Trenches: Anthropic’s Mythos and Rejetto HFS](https://horizon3.ai/attack-research/disclosures/anthropic-mythos-rejetto-hfs-rce/)
-- Reverse Engineering
-  - [Gigabyte kernel driver LPE](https://www.reddit.com/r/ReverseEngineering/comments/1wue3of/gigabyte_kernel_driver_lpe/)
-  - [HANDLE Duplication internals : What happens behind the scenes when you call kernelbase! DuplicateHandle( )](https://www.reddit.com/r/ReverseEngineering/comments/1wuklnp/handle_duplication_internals_what_happens_behind/)
-  - [Wow64 implementation details: How is Wow64 implemented in Windows 11 25H2](https://www.reddit.com/r/ReverseEngineering/comments/1wuklah/wow64_implementation_details_how_is_wow64/)
-  - [Deep dive into the object creation flow in Windows - PART 4: Handle table internals.](https://www.reddit.com/r/ReverseEngineering/comments/1wukl41/deep_dive_into_the_object_creation_flow_in/)
-  - [Deep dive into the object creation flow in Windows - PART 3: Post-initialization and Name Lookup](https://www.reddit.com/r/ReverseEngineering/comments/1wukktq/deep_dive_into_the_object_creation_flow_in/)
-  - [Deepdive into the object creation flow in Windows -PART 2 : access check internals](https://www.reddit.com/r/ReverseEngineering/comments/1wukknc/deepdive_into_the_object_creation_flow_in_windows/)
-  - [Deep dive into the object creation flow in Windows -PART1 : Allocation and Pre-Initialization](https://www.reddit.com/r/ReverseEngineering/comments/1wukk8o/deep_dive_into_the_object_creation_flow_in/)
-  - [Loading windows PE .dlls on linux](https://www.reddit.com/r/ReverseEngineering/comments/1wuj1jb/loading_windows_pe_dlls_on_linux/)
-  - [ASM BOTS: Core War where every warrior is raw 8086 machine code you can ndisasm, with an in-browser debugger (step back 256, watches, trace). Open source, MIT](https://www.reddit.com/r/ReverseEngineering/comments/1wuiwuf/asm_bots_core_war_where_every_warrior_is_raw_8086/)
 - Malwarebytes
   - [Hackers steal protective order and foster care records from Arizona courts](https://www.malwarebytes.com/blog/data-breaches/2026/09/hackers-steal-protective-order-and-foster-care-records-from-arizona-courts)
   - [Your car’s app could be telling Big Tech who you are and where you go](https://www.malwarebytes.com/blog/news/2026/09/your-cars-app-could-be-telling-big-tech-who-you-are-and-where-you-go)
+- Reverse Engineering
+  - [Wow64 implementation details: How is Wow64 implemented in Windows 11 25H2](https://www.reddit.com/r/ReverseEngineering/comments/1wuklah/wow64_implementation_details_how_is_wow64/)
+  - [Gigabyte kernel driver LPE](https://www.reddit.com/r/ReverseEngineering/comments/1wue3of/gigabyte_kernel_driver_lpe/)
+  - [HANDLE Duplication internals : What happens behind the scenes when you call kernelbase! DuplicateHandle( )](https://www.reddit.com/r/ReverseEngineering/comments/1wuklnp/handle_duplication_internals_what_happens_behind/)
+  - [Loading windows PE .dlls on linux](https://www.reddit.com/r/ReverseEngineering/comments/1wuj1jb/loading_windows_pe_dlls_on_linux/)
+  - [Deep dive into the object creation flow in Windows - PART 4: Handle table internals.](https://www.reddit.com/r/ReverseEngineering/comments/1wukl41/deep_dive_into_the_object_creation_flow_in/)
+  - [ASM BOTS: Core War where every warrior is raw 8086 machine code you can ndisasm, with an in-browser debugger (step back 256, watches, trace). Open source, MIT](https://www.reddit.com/r/ReverseEngineering/comments/1wuiwuf/asm_bots_core_war_where_every_warrior_is_raw_8086/)
+  - [Deep dive into the object creation flow in Windows -PART1 : Allocation and Pre-Initialization](https://www.reddit.com/r/ReverseEngineering/comments/1wukk8o/deep_dive_into_the_object_creation_flow_in/)
+  - [Deep dive into the object creation flow in Windows - PART 3: Post-initialization and Name Lookup](https://www.reddit.com/r/ReverseEngineering/comments/1wukktq/deep_dive_into_the_object_creation_flow_in/)
+  - [Deepdive into the object creation flow in Windows -PART 2 : access check internals](https://www.reddit.com/r/ReverseEngineering/comments/1wukknc/deepdive_into_the_object_creation_flow_in_windows/)
+- Horizon3
+  - [Horizon3’s Tales from the Trenches: Anthropic’s Mythos and Rejetto HFS](https://horizon3.ai/attack-research/disclosures/anthropic-mythos-rejetto-hfs-rce/)
 - Wallarm
   - [AI Governance on AWS: The Runtime Control Loop: AI Governance on AWS: Four Functions, One Loop, and a Deadline That Already Passed](https://lab.wallarm.com/runtime-ai-governance-aws-control-loop/)
 - HackerNews
@@ -87,9 +61,6 @@
   - [两名前美国空军成员因 BEC 攻击被判入狱](http://0.0.0.0:8080/post/64746)
   - [新型 Spectre-v2 BTR 攻击绕过现有防御泄露 Linux 内存](http://0.0.0.0:8080/post/64745)
   - [法国税务数据因员工密码被盗被窃，七周未被发现](http://0.0.0.0:8080/post/64744)
-- 360 Netlab Blog - Network Security Research Lab at 360
-  - [AI安全专题周报（20260930）](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao-8/)
-  - [金融行业网络安全监测月报(202609)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202609/)
 - 奇客Solidot–传递最新科技情报
   - [PS5 越狱取得突破](https://www.solidot.org/story?sid=85520)
   - [CNNIC 称中国生成式 AI 用户超 7 亿](https://www.solidot.org/story?sid=85519)
@@ -103,6 +74,17 @@
   - [FBI 与荷兰合作逮捕 ShinyHunters 组织领导成员](https://www.solidot.org/story?sid=85511)
   - [AMD CEO 苏姿丰成为清华经管学院顾问委员会委员](https://www.solidot.org/story?sid=85510)
   - [加州禁止公职人员发行模因币](https://www.solidot.org/story?sid=85509)
+- 360 Netlab Blog - Network Security Research Lab at 360
+  - [AI安全专题周报（20260930）](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao-8/)
+  - [金融行业网络安全监测月报(202609)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202609/)
+- ICT Security Magazine
+  - [Responsabilità e rischio nei sistemi di IA: il ruolo del contratto tra AI Act e NIS2](https://www.ictsecuritymagazine.com/articoli/sistemi-di-ia/)
+  - [Star Blizzard passa alla tecnica RedFlick: oltre 100 organizzazioni prese di mira con finti inviti a eventi](https://www.ictsecuritymagazine.com/geopolitica-cyberspazio/star-blizzard-redflick-cosmicpulse/)
+  - [Branch Target Reuse: la variante di Spectre-v2 che sfrutta i motori JIT su Intel, AMD e Arm](https://www.ictsecuritymagazine.com/notizie/spectre-v2-branch-target-reuse-motori-jit/)
+- Have I Been Pwned latest breaches
+  - [Medela - 423,947 breached accounts](https://haveibeenpwned.com/Breach/Medela)
+- Max Kersten
+  - [My impressions of BruCon 0x12](https://maxkersten.nl/2026/09/30/my-impressions-of-brucon-0x12/)
 - Over Security
   - [US sanctions 10 over ATM malware scheme tied to Tren de Aragua](https://therecord.media/us-sanctions-10-atm-jackpotting-tren-de-aragua)
   - [Automakers routinely share personally identifiable connected-car data with third parties, report says](https://therecord.media/automakers-routinely-share-connected-car-data-third-parties)
@@ -144,53 +126,17 @@
   - [Sovranità digitale: perché l’Europa si muove contro la dipendenza dal software statunitense](https://www.cybersecurity360.it/cybersecurity-nazionale/sovranita-digitale-perche-leuropa-si-muove-contro-la-dipendenza-dal-software-statunitense/)
   - [GitLost: così la prompt injection negli agenti AI può esfiltrare repository privati](https://www.cybersecurity360.it/nuove-minacce/gitlost-cosi-la-prompt-injection-negli-agenti-ai-puo-esfiltrare-repository-privati/)
   - [Microsoft is rolling out Linux container support to WSL](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/)
+- SANS Internet Storm Center, InfoCON: green
+  - [ISC Stormcast For Wednesday, September 30th, 2026 https://isc.sans.edu/podcastdetail/10116, (Wed, Sep 30th)](https://isc.sans.edu/diary/rss/33384)
+- Schneier on Security
+  - [I Want Better Reporting on AI Genie Behavior](https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html)
 - Microsoft Security Blog
   - [​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026](https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/)
   - [Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570](https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/)
-- ICT Security Magazine
-  - [Responsabilità e rischio nei sistemi di IA: il ruolo del contratto tra AI Act e NIS2](https://www.ictsecuritymagazine.com/articoli/sistemi-di-ia/)
-  - [Star Blizzard passa alla tecnica RedFlick: oltre 100 organizzazioni prese di mira con finti inviti a eventi](https://www.ictsecuritymagazine.com/geopolitica-cyberspazio/star-blizzard-redflick-cosmicpulse/)
-  - [Branch Target Reuse: la variante di Spectre-v2 che sfrutta i motori JIT su Intel, AMD e Arm](https://www.ictsecuritymagazine.com/notizie/spectre-v2-branch-target-reuse-motori-jit/)
-- SANS Internet Storm Center, InfoCON: green
-  - [ISC Stormcast For Wednesday, September 30th, 2026 https://isc.sans.edu/podcastdetail/10116, (Wed, Sep 30th)](https://isc.sans.edu/diary/rss/33384)
-- SEI Blog
-  - [Choosing the Hardware That Will Put DARPA MOCHA’s Compilers to the Test](https://www.sei.cmu.edu/blog/choosing-the-hardware-that-will-put-darpa-mochas-compilers-to-the-test/?utm_source=blog&utm_medium=rss&utm_campaign=my_site_updates)
-- Schneier on Security
-  - [I Want Better Reporting on AI Genie Behavior](https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html)
-- Have I Been Pwned latest breaches
-  - [Medela - 423,947 breached accounts](https://haveibeenpwned.com/Breach/Medela)
-- GRAHAM CLULEY
-  - [Pentagon personnel database breach exposes personal data of millions](https://www.bitdefender.com/en-us/blog/hotforsecurity/pentagon-personnel-database-breach-personal-data-millions)
 - Tor Project blog
   - [New Release: Tails 7.14](https://blog.torproject.org/new-release-tails-7_14/)
-- Security Affairs
-  - [WatchGuard fixes critical Fireware OS flaw allowing remote code execution](https://securityaffairs.com/200108/security/watchguard-fixes-critical-fireware-os-flaw-allowing-remote-code-execution.html)
-  - [Oxygen Forensics, A Russian-run forensics firm spent a decade inside European police departments](https://securityaffairs.com/200090/intelligence/oxygen-forensics-a-russian-run-forensics-firm-spent-a-decade-inside-european-police-departments.html)
-  - [Attackers Abuse ChatGPT Custom GPTs to Deploy a Full-Featured RAT](https://securityaffairs.com/200079/ai/attackers-abuse-chatgpt-custom-gpts-to-deploy-a-full-featured-rat.html)
-  - [U.S. CISA adds Apple Multiple Products flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/200069/security/u-s-cisa-adds-apple-multiple-products-flaw-to-its-known-exploited-vulnerabilities-catalog.html)
-  - [WHIPSHOT and SLAPSHOT: the tools behind an active Citrix NetScaler campaign](https://securityaffairs.com/200046/security/whipshot-and-slapshot-the-tools-behind-an-active-citrix-netscaler-campaign.html)
-- Deeplinks
-  - [Victory! California Appeals Court Refuses to Revive Surveillance Tech CEO’s Meritless Lawsuit Against Journalist](https://www.eff.org/deeplinks/2026/09/victory-california-appeals-court-refuses-revive-surveillance-tech-ceos-meritless)
-  - [📱 Hey Siri, How Do I Limit AI Data Access? | EFFector 38.17](https://www.eff.org/deeplinks/2026/09/hey-siri-how-do-i-limit-ai-data-access-effector-3817)
-- The Hacker News
-  - [Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets](https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html)
-  - [Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks](https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html)
-  - [Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager](https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html)
-  - [Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures](https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html)
-  - [Know Your Enemy: Browser-Based Attack Techniques in 2026](https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html)
-  - [AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub](https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html)
-  - [US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access](https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html)
-  - [Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT](https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html)
-  - [OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted](https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html)
-  - [Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution](https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html)
-- Deep Web
-  - [Im a noob to the dark web](https://www.reddit.com/r/deepweb/comments/1wu9hp9/im_a_noob_to_the_dark_web/)
-  - [Any weirded sites on the dw or random sites that aint on the surface web? Also not popular](https://www.reddit.com/r/deepweb/comments/1wttsic/any_weirded_sites_on_the_dw_or_random_sites_that/)
-  - [WARNING: Prime Darknet Extortion Attempt- DO NOT PAY!](https://www.reddit.com/r/deepweb/comments/1wtqkoc/warning_prime_darknet_extortion_attempt_do_not_pay/)
-  - [Any dw forums that would allow us to upload images other than dred and populars or any weirded sitesout of random?](https://www.reddit.com/r/deepweb/comments/1wttqa7/any_dw_forums_that_would_allow_us_to_upload/)
-- Max Kersten
-  - [My impressions of BruCon 0x12](https://maxkersten.nl/2026/09/30/my-impressions-of-brucon-0x12/)
 - KitPloit - PenTest Tools!
+  - [TamarinAgent](https://kitploit.com/en/tools/github/laplace1002/tamarinagent)
   - [honeypot-stuff](https://kitploit.com/en/tools/github/jeeberrr/honeypot-stuff)
   - [keycloak v26.7.5](https://kitploit.com/en/posts/keycloak-b520086576975b10)
   - [pcybox-attackgraph](https://kitploit.com/en/tools/github/mister-iks/pcybox-attackgraph)
@@ -215,5 +161,27 @@
   - [redStackPRO](https://kitploit.com/en/tools/github/devzero-security/redstackpro)
   - [btr](https://kitploit.com/en/tools/github/vusec/btr)
   - [openssl openssl-4.0.3](https://kitploit.com/en/posts/openssl-09531ce30ef1dfd6)
+- SEI Blog
+  - [Choosing the Hardware That Will Put DARPA MOCHA’s Compilers to the Test](https://www.sei.cmu.edu/blog/choosing-the-hardware-that-will-put-darpa-mochas-compilers-to-the-test/?utm_source=blog&utm_medium=rss&utm_campaign=my_site_updates)
+- Security Affairs
+  - [WatchGuard fixes critical Fireware OS flaw allowing remote code execution](https://securityaffairs.com/200108/security/watchguard-fixes-critical-fireware-os-flaw-allowing-remote-code-execution.html)
+  - [Oxygen Forensics, A Russian-run forensics firm spent a decade inside European police departments](https://securityaffairs.com/200090/intelligence/oxygen-forensics-a-russian-run-forensics-firm-spent-a-decade-inside-european-police-departments.html)
+  - [Attackers Abuse ChatGPT Custom GPTs to Deploy a Full-Featured RAT](https://securityaffairs.com/200079/ai/attackers-abuse-chatgpt-custom-gpts-to-deploy-a-full-featured-rat.html)
+  - [U.S. CISA adds Apple Multiple Products flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/200069/security/u-s-cisa-adds-apple-multiple-products-flaw-to-its-known-exploited-vulnerabilities-catalog.html)
+  - [WHIPSHOT and SLAPSHOT: the tools behind an active Citrix NetScaler campaign](https://securityaffairs.com/200046/security/whipshot-and-slapshot-the-tools-behind-an-active-citrix-netscaler-campaign.html)
+- The Hacker News
+  - [Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets](https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html)
+  - [Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks](https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html)
+  - [Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager](https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html)
+  - [Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures](https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html)
+  - [Know Your Enemy: Browser-Based Attack Techniques in 2026](https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html)
+  - [AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub](https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html)
+  - [US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access](https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html)
+  - [Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT](https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html)
+  - [OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted](https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html)
+  - [Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution](https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html)
+- Deeplinks
+  - [Victory! California Appeals Court Refuses to Revive Surveillance Tech CEO’s Meritless Lawsuit Against Journalist](https://www.eff.org/deeplinks/2026/09/victory-california-appeals-court-refuses-revive-surveillance-tech-ceos-meritless)
+  - [📱 Hey Siri, How Do I Limit AI Data Access? | EFFector 38.17](https://www.eff.org/deeplinks/2026/09/hey-siri-how-do-i-limit-ai-data-access-effector-3817)
 - Security Weekly Podcast Network (Audio)
   - [Defending at AI Speed as Quantum Threats and AI Policies Won't Save You - Nolan Karpinski - BSW #467](http://sites.libsyn.com/18678/defending-at-ai-speed-as-quantum-threats-and-ai-policies-wont-save-you-nolan-karpinski-bsw-467)
