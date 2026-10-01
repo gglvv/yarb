@@ -2,15 +2,13 @@
 
 - SecWiki News
   - [SecWiki News 2026-09-30 Review](http://www.sec-wiki.com/?2026-09-30)
+- Recent Commits to cve:main
+  - [Update Wed Sep 30 12:13:39 UTC 2026](https://github.com/trickest/cve/commit/bdaa2f6c83900562325ae7798f12633b7eac952e)
 - Microsoft Security Blog
   - [​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026](https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/)
   - [Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570](https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/)
-- Recent Commits to cve:main
-  - [Update Wed Sep 30 12:13:39 UTC 2026](https://github.com/trickest/cve/commit/bdaa2f6c83900562325ae7798f12633b7eac952e)
 - A Few Thoughts on Cryptographic Engineering
   - [Is sandboxing sufficient to contain rogue agents?](https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/)
-- Didier Stevens
-  - [Update: search-for-compression.py Version 0.0.8](https://blog.didierstevens.com/2026/09/30/update-search-for-compression-py-version-0-0-8/)
 - Kitploit — Hacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!
   - [TamarinAgent](https://kitploit.com/en/tools/github/laplace1002/tamarinagent)
   - [honeypot-stuff](https://kitploit.com/en/tools/github/jeeberrr/honeypot-stuff)
@@ -37,30 +35,23 @@
   - [redStackPRO](https://kitploit.com/en/tools/github/devzero-security/redstackpro)
   - [btr](https://kitploit.com/en/tools/github/vusec/btr)
   - [openssl openssl-4.0.3](https://kitploit.com/en/posts/openssl-09531ce30ef1dfd6)
+- Didier Stevens
+  - [Update: search-for-compression.py Version 0.0.8](https://blog.didierstevens.com/2026/09/30/update-search-for-compression-py-version-0-0-8/)
 - Malwarebytes
   - [Hackers steal protective order and foster care records from Arizona courts](https://www.malwarebytes.com/blog/data-breaches/2026/09/hackers-steal-protective-order-and-foster-care-records-from-arizona-courts)
   - [Your car’s app could be telling Big Tech who you are and where you go](https://www.malwarebytes.com/blog/news/2026/09/your-cars-app-could-be-telling-big-tech-who-you-are-and-where-you-go)
+- Horizon3
+  - [Horizon3’s Tales from the Trenches: Anthropic’s Mythos and Rejetto HFS](https://horizon3.ai/attack-research/disclosures/anthropic-mythos-rejetto-hfs-rce/)
 - Reverse Engineering
   - [Wow64 implementation details: How is Wow64 implemented in Windows 11 25H2](https://www.reddit.com/r/ReverseEngineering/comments/1wuklah/wow64_implementation_details_how_is_wow64/)
-  - [Gigabyte kernel driver LPE](https://www.reddit.com/r/ReverseEngineering/comments/1wue3of/gigabyte_kernel_driver_lpe/)
-  - [HANDLE Duplication internals : What happens behind the scenes when you call kernelbase! DuplicateHandle( )](https://www.reddit.com/r/ReverseEngineering/comments/1wuklnp/handle_duplication_internals_what_happens_behind/)
   - [Loading windows PE .dlls on linux](https://www.reddit.com/r/ReverseEngineering/comments/1wuj1jb/loading_windows_pe_dlls_on_linux/)
-  - [Deep dive into the object creation flow in Windows - PART 4: Handle table internals.](https://www.reddit.com/r/ReverseEngineering/comments/1wukl41/deep_dive_into_the_object_creation_flow_in/)
+  - [HANDLE Duplication internals : What happens behind the scenes when you call kernelbase! DuplicateHandle( )](https://www.reddit.com/r/ReverseEngineering/comments/1wuklnp/handle_duplication_internals_what_happens_behind/)
   - [ASM BOTS: Core War where every warrior is raw 8086 machine code you can ndisasm, with an in-browser debugger (step back 256, watches, trace). Open source, MIT](https://www.reddit.com/r/ReverseEngineering/comments/1wuiwuf/asm_bots_core_war_where_every_warrior_is_raw_8086/)
+  - [Gigabyte kernel driver LPE](https://www.reddit.com/r/ReverseEngineering/comments/1wue3of/gigabyte_kernel_driver_lpe/)
+  - [Deep dive into the object creation flow in Windows - PART 4: Handle table internals.](https://www.reddit.com/r/ReverseEngineering/comments/1wukl41/deep_dive_into_the_object_creation_flow_in/)
   - [Deep dive into the object creation flow in Windows -PART1 : Allocation and Pre-Initialization](https://www.reddit.com/r/ReverseEngineering/comments/1wukk8o/deep_dive_into_the_object_creation_flow_in/)
   - [Deep dive into the object creation flow in Windows - PART 3: Post-initialization and Name Lookup](https://www.reddit.com/r/ReverseEngineering/comments/1wukktq/deep_dive_into_the_object_creation_flow_in/)
   - [Deepdive into the object creation flow in Windows -PART 2 : access check internals](https://www.reddit.com/r/ReverseEngineering/comments/1wukknc/deepdive_into_the_object_creation_flow_in_windows/)
-- Horizon3
-  - [Horizon3’s Tales from the Trenches: Anthropic’s Mythos and Rejetto HFS](https://horizon3.ai/attack-research/disclosures/anthropic-mythos-rejetto-hfs-rce/)
-- Wallarm
-  - [AI Governance on AWS: The Runtime Control Loop: AI Governance on AWS: Four Functions, One Loop, and a Deadline That Already Passed](https://lab.wallarm.com/runtime-ai-governance-aws-control-loop/)
-- HackerNews
-  - [俄罗斯 Star Blizzard 以虚假活动邀请攻击 100 多个组织，投递后门](http://0.0.0.0:8080/post/64749)
-  - [自动化 AI 智能体被用于入侵网络安全非营利组织 DIVD](http://0.0.0.0:8080/post/64748)
-  - [定制 ChatGPT 推动ClickFix攻击部署 RAT 恶意软件](http://0.0.0.0:8080/post/64747)
-  - [两名前美国空军成员因 BEC 攻击被判入狱](http://0.0.0.0:8080/post/64746)
-  - [新型 Spectre-v2 BTR 攻击绕过现有防御泄露 Linux 内存](http://0.0.0.0:8080/post/64745)
-  - [法国税务数据因员工密码被盗被窃，七周未被发现](http://0.0.0.0:8080/post/64744)
 - 奇客Solidot–传递最新科技情报
   - [PS5 越狱取得突破](https://www.solidot.org/story?sid=85520)
   - [CNNIC 称中国生成式 AI 用户超 7 亿](https://www.solidot.org/story?sid=85519)
@@ -74,13 +65,16 @@
   - [FBI 与荷兰合作逮捕 ShinyHunters 组织领导成员](https://www.solidot.org/story?sid=85511)
   - [AMD CEO 苏姿丰成为清华经管学院顾问委员会委员](https://www.solidot.org/story?sid=85510)
   - [加州禁止公职人员发行模因币](https://www.solidot.org/story?sid=85509)
+- Wallarm
+  - [AI Governance on AWS: The Runtime Control Loop: AI Governance on AWS: Four Functions, One Loop, and a Deadline That Already Passed](https://lab.wallarm.com/runtime-ai-governance-aws-control-loop/)
 - 360 Netlab Blog - Network Security Research Lab at 360
   - [AI安全专题周报（20260930）](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao-8/)
   - [金融行业网络安全监测月报(202609)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202609/)
-- ICT Security Magazine
-  - [Responsabilità e rischio nei sistemi di IA: il ruolo del contratto tra AI Act e NIS2](https://www.ictsecuritymagazine.com/articoli/sistemi-di-ia/)
-  - [Star Blizzard passa alla tecnica RedFlick: oltre 100 organizzazioni prese di mira con finti inviti a eventi](https://www.ictsecuritymagazine.com/geopolitica-cyberspazio/star-blizzard-redflick-cosmicpulse/)
-  - [Branch Target Reuse: la variante di Spectre-v2 che sfrutta i motori JIT su Intel, AMD e Arm](https://www.ictsecuritymagazine.com/notizie/spectre-v2-branch-target-reuse-motori-jit/)
+- Microsoft Security Blog
+  - [​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026](https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/)
+  - [Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570](https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/)
+- SEI Blog
+  - [Choosing the Hardware That Will Put DARPA MOCHA’s Compilers to the Test](https://www.sei.cmu.edu/blog/choosing-the-hardware-that-will-put-darpa-mochas-compilers-to-the-test/?utm_source=blog&utm_medium=rss&utm_campaign=my_site_updates)
 - Have I Been Pwned latest breaches
   - [Medela - 423,947 breached accounts](https://haveibeenpwned.com/Breach/Medela)
 - Max Kersten
@@ -117,24 +111,26 @@
   - [TeamViewer urges users to patch severe flaws “as soon as possible”](https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/)
   - [Medela - 423,947 breached accounts](https://haveibeenpwned.com/Breach/Medela)
   - [Russian FSB-linked hackers scale up phishing attacks against Ukraine supporters](https://therecord.media/russia-hackers-ukraine-blizzard)
-  - [Bitget hacked via zero-day in third-party security products](https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/)
-  - [Phishing Response Protocol: 3 Essential SOC Steps Powered by ANY.RUN’s Latest Product Updates](https://any.run/cybersecurity-blog/phishing-response-protocol/)
-  - [China-nexus UAT-11587 targets government and policy organizations across Asia with Antino backdoor](https://blog.talosintelligence.com/china-nexus-uat-11587-targets-government-and-policy-organizations-across-asia-with-antino-backdoor/)
-  - [OpenSSL Flaw Could Expose Heap Memory and Crash Applications](https://thecyberexpress.com/openssl-dtls-flaw-cve-2026-84782/)
-  - [Come gestire il debito tecnico tra AI e sicurezza aziendale](https://www.cybersecurity360.it/corsi-cybersecurity/cybersecurity/come-gestire-il-debito-tecnico-tra-ai-e-sicurezza-aziendale/)
-  - [NordPass Business: la gestione centralizzata delle credenziali con crittografia xChaCha20 e integrazione SIEM per le aziende](https://www.cybersecurity360.it/cultura-cyber/nordpass-business-gestione-password-aziendali-crittografia-xchacha20-siem/)
-  - [Sovranità digitale: perché l’Europa si muove contro la dipendenza dal software statunitense](https://www.cybersecurity360.it/cybersecurity-nazionale/sovranita-digitale-perche-leuropa-si-muove-contro-la-dipendenza-dal-software-statunitense/)
-  - [GitLost: così la prompt injection negli agenti AI può esfiltrare repository privati](https://www.cybersecurity360.it/nuove-minacce/gitlost-cosi-la-prompt-injection-negli-agenti-ai-puo-esfiltrare-repository-privati/)
-  - [Microsoft is rolling out Linux container support to WSL](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/)
-- SANS Internet Storm Center, InfoCON: green
-  - [ISC Stormcast For Wednesday, September 30th, 2026 https://isc.sans.edu/podcastdetail/10116, (Wed, Sep 30th)](https://isc.sans.edu/diary/rss/33384)
+- ICT Security Magazine
+  - [Responsabilità e rischio nei sistemi di IA: il ruolo del contratto tra AI Act e NIS2](https://www.ictsecuritymagazine.com/articoli/sistemi-di-ia/)
+  - [Star Blizzard passa alla tecnica RedFlick: oltre 100 organizzazioni prese di mira con finti inviti a eventi](https://www.ictsecuritymagazine.com/geopolitica-cyberspazio/star-blizzard-redflick-cosmicpulse/)
+  - [Branch Target Reuse: la variante di Spectre-v2 che sfrutta i motori JIT su Intel, AMD e Arm](https://www.ictsecuritymagazine.com/notizie/spectre-v2-branch-target-reuse-motori-jit/)
+- Chaos Computer Club - last 100 events feed
+  - [An API for systemd Machines (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-433-eng-An_API_for_systemd_Machines_sd.mp4)
+  - [KDE Linux Under the Hood (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-416-eng-KDE_Linux_Under_the_Hood_sd.mp4)
+  - [systemd: reducing impact of servicing interruptions on restart/reboot (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-393-eng-systemd_reducing_impact_of_servicing_interruptions_on_restart_reboot_sd.mp4)
+  - [Native OS enrollment for the Linux userspace: A proposal for open APIs and protocols (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-397-eng-Native_OS_enrollment_for_the_Linux_userspace_A_proposal_for_open_APIs_and_protocols_sd.mp4)
+  - [Running mutable OS images on Confidential VMs: is there any hope? (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-399-eng-Running_mutable_OS_images_on_Confidential_VMs_is_there_any_hope_sd.mp4)
+  - [Seamless Upgrades with KHO, LUO, and systemd (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-430-eng-Seamless_Upgrades_with_KHO_LUO_and_systemd_sd.mp4)
+  - [Building image-based operating system images with BuildStream and mkosi (asg2026)](https://cdn.media.ccc.de/events/all_systems_go/2026/h264-sd/asg2026-423-eng-Building_image-based_operating_system_images_with_BuildStream_and_mkosi_sd.mp4)
 - Schneier on Security
   - [I Want Better Reporting on AI Genie Behavior](https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html)
-- Microsoft Security Blog
-  - [​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026](https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/)
-  - [Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570](https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/)
+- SANS Internet Storm Center, InfoCON: green
+  - [ISC Stormcast For Wednesday, September 30th, 2026 https://isc.sans.edu/podcastdetail/10116, (Wed, Sep 30th)](https://isc.sans.edu/diary/rss/33384)
 - Tor Project blog
   - [New Release: Tails 7.14](https://blog.torproject.org/new-release-tails-7_14/)
+- GRAHAM CLULEY
+  - [Pentagon personnel database breach exposes personal data of millions](https://www.bitdefender.com/en-us/blog/hotforsecurity/pentagon-personnel-database-breach-personal-data-millions)
 - KitPloit - PenTest Tools!
   - [TamarinAgent](https://kitploit.com/en/tools/github/laplace1002/tamarinagent)
   - [honeypot-stuff](https://kitploit.com/en/tools/github/jeeberrr/honeypot-stuff)
@@ -161,14 +157,15 @@
   - [redStackPRO](https://kitploit.com/en/tools/github/devzero-security/redstackpro)
   - [btr](https://kitploit.com/en/tools/github/vusec/btr)
   - [openssl openssl-4.0.3](https://kitploit.com/en/posts/openssl-09531ce30ef1dfd6)
-- SEI Blog
-  - [Choosing the Hardware That Will Put DARPA MOCHA’s Compilers to the Test](https://www.sei.cmu.edu/blog/choosing-the-hardware-that-will-put-darpa-mochas-compilers-to-the-test/?utm_source=blog&utm_medium=rss&utm_campaign=my_site_updates)
 - Security Affairs
   - [WatchGuard fixes critical Fireware OS flaw allowing remote code execution](https://securityaffairs.com/200108/security/watchguard-fixes-critical-fireware-os-flaw-allowing-remote-code-execution.html)
   - [Oxygen Forensics, A Russian-run forensics firm spent a decade inside European police departments](https://securityaffairs.com/200090/intelligence/oxygen-forensics-a-russian-run-forensics-firm-spent-a-decade-inside-european-police-departments.html)
   - [Attackers Abuse ChatGPT Custom GPTs to Deploy a Full-Featured RAT](https://securityaffairs.com/200079/ai/attackers-abuse-chatgpt-custom-gpts-to-deploy-a-full-featured-rat.html)
   - [U.S. CISA adds Apple Multiple Products flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/200069/security/u-s-cisa-adds-apple-multiple-products-flaw-to-its-known-exploited-vulnerabilities-catalog.html)
   - [WHIPSHOT and SLAPSHOT: the tools behind an active Citrix NetScaler campaign](https://securityaffairs.com/200046/security/whipshot-and-slapshot-the-tools-behind-an-active-citrix-netscaler-campaign.html)
+- Deeplinks
+  - [Victory! California Appeals Court Refuses to Revive Surveillance Tech CEO’s Meritless Lawsuit Against Journalist](https://www.eff.org/deeplinks/2026/09/victory-california-appeals-court-refuses-revive-surveillance-tech-ceos-meritless)
+  - [📱 Hey Siri, How Do I Limit AI Data Access? | EFFector 38.17](https://www.eff.org/deeplinks/2026/09/hey-siri-how-do-i-limit-ai-data-access-effector-3817)
 - The Hacker News
   - [Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets](https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html)
   - [Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks](https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html)
@@ -180,8 +177,5 @@
   - [Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT](https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html)
   - [OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted](https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html)
   - [Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution](https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html)
-- Deeplinks
-  - [Victory! California Appeals Court Refuses to Revive Surveillance Tech CEO’s Meritless Lawsuit Against Journalist](https://www.eff.org/deeplinks/2026/09/victory-california-appeals-court-refuses-revive-surveillance-tech-ceos-meritless)
-  - [📱 Hey Siri, How Do I Limit AI Data Access? | EFFector 38.17](https://www.eff.org/deeplinks/2026/09/hey-siri-how-do-i-limit-ai-data-access-effector-3817)
 - Security Weekly Podcast Network (Audio)
   - [Defending at AI Speed as Quantum Threats and AI Policies Won't Save You - Nolan Karpinski - BSW #467](http://sites.libsyn.com/18678/defending-at-ai-speed-as-quantum-threats-and-ai-policies-wont-save-you-nolan-karpinski-bsw-467)
