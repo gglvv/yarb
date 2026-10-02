@@ -2,11 +2,11 @@
 
 - SecWiki News
   - [SecWiki News 2026-10-01 Review](http://www.sec-wiki.com/?2026-10-01)
-- Recent Commits to cve:main
-  - [Update Thu Oct  1 12:54:31 UTC 2026](https://github.com/trickest/cve/commit/3d219727e5f0d72b963f1daf7c7a0c3ab3e1ffdc)
 - Sucuri Blog
   - [Vulnerability & Patch Roundup — September 2026](https://blog.sucuri.net/2026/09/vulnerability-patch-roundup-september-2026.html)
   - [SC WordPress Malware: A Self-Healing Mesh of Loaders, Drop-Ins, and a Blockchain-Controlled Backdoor](https://blog.sucuri.net/2026/09/sc-wordpress-malware-a-self-healing-mesh-of-loaders-drop-ins-and-a-blockchain-controlled-backdoor.html)
+- Recent Commits to cve:main
+  - [Update Thu Oct  1 12:54:31 UTC 2026](https://github.com/trickest/cve/commit/3d219727e5f0d72b963f1daf7c7a0c3ab3e1ffdc)
 - Microsoft Security Blog
   - [Preparing governments for an era of interconnected cyber risk](https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/)
   - [Insights from the 2026 Microsoft Digital Defense Report](https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/)
@@ -36,24 +36,35 @@
 - Horizon3
   - [What Security Metrics Actually Matter?](https://horizon3.ai/intelligence/blogs/ctem-security-metrics-that-matter/)
   - [CVE-2026-76504 | Cisco Catalyst SD-WAN Manager API Authentication Bypass Vulnerability | Reversed by Horizon3](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-76504/)
-- Didier Stevens
-  - [Overview of Content Published in September](https://blog.didierstevens.com/2026/10/01/overview-of-content-published-in-september-10/)
+- GuidePoint Security
+  - [Cloud Security Assessments: Why, When, and How Often?](https://www.guidepointsecurity.com/blog/cloud-security-assessment-cadence/)
 - Reverse Engineering
   - [Reverse Engineering NovaLogic's Comanche [1992] Terrain Maps](https://www.reddit.com/r/ReverseEngineering/comments/1wuzm2k/reverse_engineering_novalogics_comanche_1992/)
   - [I built an MCP server that lets AI agents debug and inspect running Windows programs (memory scan, breakpoints, disassembly) – Cortex 1.0, open source](https://www.reddit.com/r/ReverseEngineering/comments/1wv8e4o/i_built_an_mcp_server_that_lets_ai_agents_debug/)
   - [BitBlt capture in DWM: suppressing the readback flag (g_pComposition+0x196A) bypasses DisplayAffinity and visual hiding — Part 3](https://www.reddit.com/r/ReverseEngineering/comments/1wul6zf/bitblt_capture_in_dwm_suppressing_the_readback/)
   - [Trace-assisted VMProtect devirtualization research](https://www.reddit.com/r/ReverseEngineering/comments/1wv0qcp/traceassisted_vmprotect_devirtualization_research/)
-- GuidePoint Security
-  - [Cloud Security Assessments: Why, When, and How Often?](https://www.guidepointsecurity.com/blog/cloud-security-assessment-cadence/)
-- Malwarebytes
-  - [Fake xStocks, Pendle, and other sites bait crypto users with rewards votes](https://www.malwarebytes.com/blog/threat-intel/2026/10/fake-xstocks-pendle-and-other-sites-bait-crypto-users-with-rewards-votes)
-  - [Shadow AI explained: The work shortcut that could leak your company’s secrets](https://www.malwarebytes.com/blog/ai/2026/10/shadow-ai-explained-the-work-shortcut-that-could-leak-your-companys-secrets)
-  - [Malwarebytes earns another Top Product award in independent testing](https://www.malwarebytes.com/blog/product/2026/10/malwarebytes-earns-another-top-product-award-in-independent-testing)
-  - [Pentagon breach exposes Social Security numbers and military records of millions](https://www.malwarebytes.com/blog/privacy/2026/10/pentagon-breach-exposes-social-security-numbers-and-military-records-of-millions)
-  - [Losing gamblers pushed to bet more by DraftKings’ AI, report says](https://www.malwarebytes.com/blog/ai/2026/10/losing-gamblers-pushed-to-bet-more-by-draftkings-ai-report-says)
+- Didier Stevens
+  - [Overview of Content Published in September](https://blog.didierstevens.com/2026/10/01/overview-of-content-published-in-september-10/)
 - Sucuri Blog
   - [Vulnerability & Patch Roundup — September 2026](https://blog.sucuri.net/2026/09/vulnerability-patch-roundup-september-2026.html)
   - [SC WordPress Malware: A Self-Healing Mesh of Loaders, Drop-Ins, and a Blockchain-Controlled Backdoor](https://blog.sucuri.net/2026/09/sc-wordpress-malware-a-self-healing-mesh-of-loaders-drop-ins-and-a-blockchain-controlled-backdoor.html)
+- Malwarebytes
+  - [Fake xStocks, Pendle, and other sites bait crypto users with rewards votes](https://www.malwarebytes.com/blog/threat-intel/2026/10/fake-xstocks-pendle-and-other-sites-bait-crypto-users-with-rewards-votes)
+  - [Shadow AI explained: The work shortcut that could leak your company’s secrets](https://www.malwarebytes.com/blog/ai/2026/10/shadow-ai-explained-the-work-shortcut-that-could-leak-your-companys-secrets)
+  - [Convincing Free Mobile phishing emails appear after data breach](https://www.malwarebytes.com/blog/threat-intel/2026/10/free-mobile-phishing-texts-appear-days-after-data-breach)
+  - [Malwarebytes earns another Top Product award in independent testing](https://www.malwarebytes.com/blog/product/2026/10/malwarebytes-earns-another-top-product-award-in-independent-testing)
+  - [Pentagon breach exposes Social Security numbers and military records of millions](https://www.malwarebytes.com/blog/privacy/2026/10/pentagon-breach-exposes-social-security-numbers-and-military-records-of-millions)
+  - [Losing gamblers pushed to bet more by DraftKings’ AI, report says](https://www.malwarebytes.com/blog/ai/2026/10/losing-gamblers-pushed-to-bet-more-by-draftkings-ai-report-says)
+- Yang Hao's blog
+  - [PE文件版本资源注入问题排查与工具实现](https://yanghaoi.github.io/2026/10/01/pe-wen-jian-ban-ben-zi-yuan-zhu-ru-wen-ti-pai-cha-yu-gong-ju-shi-xian/)
+- Shostack & Friends Blog
+  - [Threats and LLMs (Threat Model Thursday)](https://shostack.org/blog/threats-to-llms/)
+- rtl-sdr.com
+  - [Various Projects Independently Find Hidden SDR Capabilities in ESP32 Microcontrollers](https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/)
+  - [Using an Affordable Optical Encoder as an SDR Tuning Wheel](https://www.rtl-sdr.com/using-an-affordable-optical-encoder-as-an-sdr-tuning-wheel/)
+  - [FoxSDR Updates: Node Canvas, Single Map Display, Linux+Android Builds, Locating Air Traffic Radar Positions](https://www.rtl-sdr.com/foxsdr-updates-node-canvas-single-map-display-linuxandroid-builds-locating-air-traffic-radar-positions/)
+  - [NNJ-SDR++: Improved Firmware and Software for Kintex-7 AD9361 B210 Clones](https://www.rtl-sdr.com/nnj-sdr-improved-firmware-and-software-for-kintex-7-ad9361-b210-clones/)
+  - [RF-Traffic-Monitor: Track Aircraft, Ships, Drones and Radiosondes in One Program](https://www.rtl-sdr.com/rf-traffic-monitor-track-aircraft-ships-drones-and-radiosondes-in-one-program/)
 - Exploit-DB.com RSS Feed
   - [[remote] Teltonika_RutOS 00.07.06.21 - command injection](https://www.exploit-db.com/exploits/52692)
   - [[webapps] TigerGraph_Community_Edition 4.2.4  - arbitrary file write](https://www.exploit-db.com/exploits/52691)
@@ -64,64 +75,13 @@
   - [[webapps] SuiteCRM  8.10.1 - Authenticated SSRF](https://www.exploit-db.com/exploits/52686)
   - [[webapps] InvoicePlane 1.7.1 -  RCE](https://www.exploit-db.com/exploits/52685)
   - [[webapps] POMS oretnom23v1.0  - SQLi vulnerabilities](https://www.exploit-db.com/exploits/52684)
-- Yang Hao's blog
-  - [PE文件版本资源注入问题排查与工具实现](https://yanghaoi.github.io/2026/10/01/pe-wen-jian-ban-ben-zi-yuan-zhu-ru-wen-ti-pai-cha-yu-gong-ju-shi-xian/)
-- rtl-sdr.com
-  - [Various Projects Independently Find Hidden SDR Capabilities in ESP32 Microcontrollers](https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/)
-  - [Using an Affordable Optical Encoder as an SDR Tuning Wheel](https://www.rtl-sdr.com/using-an-affordable-optical-encoder-as-an-sdr-tuning-wheel/)
-  - [FoxSDR Updates: Node Canvas, Single Map Display, Linux+Android Builds, Locating Air Traffic Radar Positions](https://www.rtl-sdr.com/foxsdr-updates-node-canvas-single-map-display-linuxandroid-builds-locating-air-traffic-radar-positions/)
-  - [NNJ-SDR++: Improved Firmware and Software for Kintex-7 AD9361 B210 Clones](https://www.rtl-sdr.com/nnj-sdr-improved-firmware-and-software-for-kintex-7-ad9361-b210-clones/)
-  - [RF-Traffic-Monitor: Track Aircraft, Ships, Drones and Radiosondes in One Program](https://www.rtl-sdr.com/rf-traffic-monitor-track-aircraft-ships-drones-and-radiosondes-in-one-program/)
 - 奇客Solidot–传递最新科技情报
   - [PS5 模拟器的开发取得突破](https://www.solidot.org/story?sid=85524)
   - [二手 CPU 导致玩家被 Riot 封禁](https://www.solidot.org/story?sid=85523)
   - [新加坡推出面向公务员的约会软件 FirstDate](https://www.solidot.org/story?sid=85522)
   - [猫与幸福感正相关](https://www.solidot.org/story?sid=85521)
-- Shostack & Friends Blog
-  - [Threats and LLMs (Threat Model Thursday)](https://shostack.org/blog/threats-to-llms/)
 - TrustedSec
   - [HashcatRosetta: Reading the Rosetta Stone of Password Cracking](https://trustedsec.com/blog/hashcatrosetta-reading-the-rosetta-stone-of-password-cracking)
-- IT Service Management News
-  - [VERA 8.0.3](http://blog.cesaregallotti.it/2026/10/vera-803.html)
-  - [Cyber warfare - Milano 4 novembre 2026](http://blog.cesaregallotti.it/2026/10/cyber-warfare-milano-4-novembre-2026.html)
-- Microsoft Security Blog
-  - [Preparing governments for an era of interconnected cyber risk](https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/)
-  - [Insights from the 2026 Microsoft Digital Defense Report](https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/)
-- bellingcat
-  - [Viral Google Maps Images Shared Widely This Week Show Gaza Ruins. We Obtained More Recent Satellite Imagery](https://www.bellingcat.com/news/middle-east/2026/10/01/viral-google-maps-images-shared-widely-this-week-show-gaza-ruins-we-obtained-more-recent-satellite-imagery/)
-- SANS Internet Storm Center, InfoCON: green
-  - [ScreenConnect Client (Ab)used by Attackers, (Thu, Oct 1st)](https://isc.sans.edu/diary/rss/33388)
-  - [ISC Stormcast For Thursday, October 1st, 2026 https://isc.sans.edu/podcastdetail/10118, (Thu, Oct 1st)](https://isc.sans.edu/diary/rss/33386)
-- Schneier on Security
-  - [Connected Cars Are a Surveillance Platform](https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html)
-- TG Soft Software House - News
-  - [Mercoled&igrave;&nbsp;<strong>07 ottobre&nbsp;</strong>a<strong>&nbsp;SecSolutionForum </strong>l'intervento&nbsp;di<strong>&nbsp;Enrico Tonello</strong>&nbsp;<strong><em>&quot;Attacchi di cifratura e Business Continuity&quot;</em></strong>](http://www.tgsoft.it/italy/news_archivio.asp?id=1777)
-- Daniel Miessler
-  - [Our AI Agents Should Pay the People Who Help Them](https://danielmiessler.com/blog/agents-should-pay-creators?utm_source=rss&utm_medium=feed&utm_campaign=website)
-- ICT Security Magazine
-  - [Le linee guida AgID e problematiche di responsabilità](https://www.ictsecuritymagazine.com/articoli/linee-guida-agid/)
-  - [MetaMask Staking, infrastruttura compromessa: in uscita i validatori Ethereum](https://www.ictsecuritymagazine.com/notizie/metamask-staking-validatori-ethereum-lido/)
-  - [Gemini 4 Argon: Google lo affida prima ai difensori del Fairwind Program, senza guardrail cyber](https://www.ictsecuritymagazine.com/notizie/gemini-4-argon-fairwind-program-guardrail-cyber/)
-- Blackhat Library: Hacking techniques and research
-  - [Microsoft built all the authentication checks... except the authentication check.](https://www.reddit.com/r/blackhat/comments/1wv00l6/microsoft_built_all_the_authentication_checks/)
-  - [Gigabyte kernel driver LPE](https://www.reddit.com/r/blackhat/comments/1wutfat/gigabyte_kernel_driver_lpe/)
-- Tor Project blog
-  - [New Alpha Release: Tor Browser 16.0a13](https://blog.torproject.org/new-alpha-release-tor-browser-160a13/)
-  - [Arti 2.7.0 released](https://blog.torproject.org/arti_2_7_0_released/)
-- Full Disclosure
-  - [[NotCVE-2026-0019] game-music-emu through 0.6.5 VGM Command Interpreter Missing Operand Length Check Allows Heap Out-of-Bounds Read](https://seclists.org/fulldisclosure/2026/Sep/95)
-  - [[NotCVE-2026-0018] game-music-emu (libgme) through 0.6.5 Unbounded GYM Command Loop Allows Heap Out-of-Bounds Read](https://seclists.org/fulldisclosure/2026/Sep/94)
-  - [[NotCVE-2026-0017] game-music-emu (libgme) 0.6.5 and Earlier AY Loader NULL Pointer Dereference Allows Denial of Service](https://seclists.org/fulldisclosure/2026/Sep/93)
-  - [[NotCVE-2026-0016] game-music-emu VGM Command Interpreter Unvalidated 0xE0 PCM Seek Offset Allows Out-of-Bounds Read and Denial of Service](https://seclists.org/fulldisclosure/2026/Sep/92)
-- GRAHAM CLULEY
-  - [FBI tells ShinyHunters members to turn themselves in, after arrest of alleged leader](https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-shinyhunters-turn-themselves-in-arrest-leader)
-  - [ShinyHunters suspect arrested, and is now investigated over alleged murder plots](https://www.bitdefender.com/en-us/blog/hotforsecurity/shinyhunters-suspect-arrested-now-investigated-alleged-murder-plots)
-- Security Affairs
-  - [Operation KillSwitch: Police Dismantle KillSec Ransomware Group](https://securityaffairs.com/200200/cyber-crime/operation-killswitch-police-dismantle-killsec-ransomware-group.html)
-  - [Inside Gemini 4 Argon, the model Google is testing on its own infrastructure first](https://securityaffairs.com/200187/ai/inside-gemini-4-argon-the-model-google-is-testing-on-its-own-infrastructure-first.html)
-  - [Public PoC Released for Apple CoreGraphics Zero-Day CVE-2026-86950](https://securityaffairs.com/200175/hacking/public-poc-released-for-apple-coregraphics-zero-day-cve-2026-86950.html)
-  - [U.S. CISA adds Cisco Catalyst SD-WAN Manager flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/200152/security/u-s-cisa-adds-cisco-catalyst-sd-wan-manager-flaw-to-its-known-exploited-vulnerabilities-catalog.html)
-  - [AI Agent Chains Zammad Zero-Days To Take Over DIVD Systems in Seconds](https://securityaffairs.com/200126/hacking/ai-agent-chains-zammad-zero-days-to-take-over-divd-systems-in-seconds.html)
 - Over Security
   - [Fortinet warns of critical FortiMail flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/)
   - [Autonomous AI agents tried to hack US, Canadian government websites](https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/)
@@ -155,16 +115,30 @@
   - [MSP360 RMM Abused in Phishing Campaigns to Deploy ScreenConnect](https://thecyberexpress.com/msp360-rmm-phishing-screenconnect/)
   - [Il lato nascosto della cybersecurity: costi umani e danni operativi](https://www.cybersecurity360.it/soluzioni-aziendali/il-lato-nascosto-della-cybersecurity-costi-umani-e-danni-operativi/)
   - [Metamask discloses security incident affecting its infrastructure](https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/)
-  - [Gemini 4 Argon Restricted Over Cybersecurity Misuse Risks](https://thecyberexpress.com/google-restricts-gemini-4-argon-ai-model/)
-  - [Gotta Breach 'Em All! The Journey Of ShinyHunters](https://www.sekoia.com/blog/gotta-breach-em-all-the-journey-of-shinyhunters)
-  - [Tutti i limiti della verifica dell’età, schiacciata fra tecnologia e politica](https://www.cybersecurity360.it/outlook/limiti-verifica-eta/)
-  - [Vulnerability & Patch Roundup — September 2026](https://blog.sucuri.net/2026/09/vulnerability-patch-roundup-september-2026.html)
-  - [SC WordPress Malware: A Self-Healing Mesh of Loaders, Drop-Ins, and a Blockchain-Controlled Backdoor](https://blog.sucuri.net/2026/09/sc-wordpress-malware-a-self-healing-mesh-of-loaders-drop-ins-and-a-blockchain-controlled-backdoor.html)
-- Deeplinks
-  - [We Demand More Information on How Marin Cops Illegally Shared Flock ALPR Data](https://www.eff.org/deeplinks/2026/10/we-demand-more-information-how-marin-cops-illegally-shared-flock-alpr-data)
-  - [Challengers Approach: Third Party App Stores Arrive to Google Play](https://www.eff.org/deeplinks/2026/10/challengers-approach-third-party-app-stores-arrive-google-play)
-  - [Court Agrees with EFF: Utah’s VPN Law Demands a Technical Impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
-  - [Happy Opt Out October! Let’s Find Real Alternatives to the Tech Giants](https://www.eff.org/deeplinks/2026/10/happy-opt-out-october-lets-find-real-alternatives-tech-giants)
+- IT Service Management News
+  - [VERA 8.0.3](http://blog.cesaregallotti.it/2026/10/vera-803.html)
+  - [Cyber warfare - Milano 4 novembre 2026](http://blog.cesaregallotti.it/2026/10/cyber-warfare-milano-4-novembre-2026.html)
+- Microsoft Security Blog
+  - [Preparing governments for an era of interconnected cyber risk](https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/)
+  - [Insights from the 2026 Microsoft Digital Defense Report](https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/)
+- SANS Internet Storm Center, InfoCON: green
+  - [ScreenConnect Client (Ab)used by Attackers, (Thu, Oct 1st)](https://isc.sans.edu/diary/rss/33388)
+  - [ISC Stormcast For Thursday, October 1st, 2026 https://isc.sans.edu/podcastdetail/10118, (Thu, Oct 1st)](https://isc.sans.edu/diary/rss/33386)
+- TG Soft Software House - News
+  - [Mercoled&igrave;&nbsp;<strong>07 ottobre&nbsp;</strong>a<strong>&nbsp;SecSolutionForum </strong>l'intervento&nbsp;di<strong>&nbsp;Enrico Tonello</strong>&nbsp;<strong><em>&quot;Attacchi di cifratura e Business Continuity&quot;</em></strong>](http://www.tgsoft.it/italy/news_archivio.asp?id=1777)
+- Daniel Miessler
+  - [Our AI Agents Should Pay the People Who Help Them](https://danielmiessler.com/blog/agents-should-pay-creators?utm_source=rss&utm_medium=feed&utm_campaign=website)
+- bellingcat
+  - [Viral Google Maps Images Shared Widely This Week Show Gaza Ruins. We Obtained More Recent Satellite Imagery](https://www.bellingcat.com/news/middle-east/2026/10/01/viral-google-maps-images-shared-widely-this-week-show-gaza-ruins-we-obtained-more-recent-satellite-imagery/)
+- ICT Security Magazine
+  - [Le linee guida AgID e problematiche di responsabilità](https://www.ictsecuritymagazine.com/articoli/linee-guida-agid/)
+  - [MetaMask Staking, infrastruttura compromessa: in uscita i validatori Ethereum](https://www.ictsecuritymagazine.com/notizie/metamask-staking-validatori-ethereum-lido/)
+  - [Gemini 4 Argon: Google lo affida prima ai difensori del Fairwind Program, senza guardrail cyber](https://www.ictsecuritymagazine.com/notizie/gemini-4-argon-fairwind-program-guardrail-cyber/)
+- Full Disclosure
+  - [[NotCVE-2026-0019] game-music-emu through 0.6.5 VGM Command Interpreter Missing Operand Length Check Allows Heap Out-of-Bounds Read](https://seclists.org/fulldisclosure/2026/Sep/95)
+  - [[NotCVE-2026-0018] game-music-emu (libgme) through 0.6.5 Unbounded GYM Command Loop Allows Heap Out-of-Bounds Read](https://seclists.org/fulldisclosure/2026/Sep/94)
+  - [[NotCVE-2026-0017] game-music-emu (libgme) 0.6.5 and Earlier AY Loader NULL Pointer Dereference Allows Denial of Service](https://seclists.org/fulldisclosure/2026/Sep/93)
+  - [[NotCVE-2026-0016] game-music-emu VGM Command Interpreter Unvalidated 0xE0 PCM Seek Offset Allows Out-of-Bounds Read and Denial of Service](https://seclists.org/fulldisclosure/2026/Sep/92)
 - The Hacker News
   - [Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers](https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html)
   - [ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories](https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html)
@@ -177,6 +151,26 @@
   - [Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft](https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html)
   - [MetaMask Security Incident Prompts Exit of Affected Ethereum Validators](https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html)
   - [Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs](https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html)
+- Security Affairs
+  - [Operation KillSwitch: Police Dismantle KillSec Ransomware Group](https://securityaffairs.com/200200/cyber-crime/operation-killswitch-police-dismantle-killsec-ransomware-group.html)
+  - [Inside Gemini 4 Argon, the model Google is testing on its own infrastructure first](https://securityaffairs.com/200187/ai/inside-gemini-4-argon-the-model-google-is-testing-on-its-own-infrastructure-first.html)
+  - [Public PoC Released for Apple CoreGraphics Zero-Day CVE-2026-86950](https://securityaffairs.com/200175/hacking/public-poc-released-for-apple-coregraphics-zero-day-cve-2026-86950.html)
+  - [U.S. CISA adds Cisco Catalyst SD-WAN Manager flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/200152/security/u-s-cisa-adds-cisco-catalyst-sd-wan-manager-flaw-to-its-known-exploited-vulnerabilities-catalog.html)
+  - [AI Agent Chains Zammad Zero-Days To Take Over DIVD Systems in Seconds](https://securityaffairs.com/200126/hacking/ai-agent-chains-zammad-zero-days-to-take-over-divd-systems-in-seconds.html)
+- Computer Forensics
+  - [Digital Forensics Tech exemptions](https://www.reddit.com/r/computerforensics/comments/1wv4sa7/digital_forensics_tech_exemptions/)
+  - [Time machine backups](https://www.reddit.com/r/computerforensics/comments/1wve64j/time_machine_backups/)
+  - [Fourteen record CRCs pass but the block CRC over them doesn't, edit or corruption?](https://www.reddit.com/r/computerforensics/comments/1wvc8sm/fourteen_record_crcs_pass_but_the_block_crc_over/)
+- Security Weekly Podcast Network (Audio)
+  - [Hacking Without Boundaries - Michael Jenkins - PSW #946](http://sites.libsyn.com/18678/hacking-without-boundaries-michael-jenkins-psw-946)
+- Tor Project blog
+  - [New Alpha Release: Tor Browser 16.0a13](https://blog.torproject.org/new-alpha-release-tor-browser-160a13/)
+  - [Arti 2.7.0 released](https://blog.torproject.org/arti_2_7_0_released/)
+- Deeplinks
+  - [We Demand More Information on How Marin Cops Illegally Shared Flock ALPR Data](https://www.eff.org/deeplinks/2026/10/we-demand-more-information-how-marin-cops-illegally-shared-flock-alpr-data)
+  - [Challengers Approach: Third Party App Stores Arrive to Google Play](https://www.eff.org/deeplinks/2026/10/challengers-approach-third-party-app-stores-arrive-google-play)
+  - [Court Agrees with EFF: Utah’s VPN Law Demands a Technical Impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
+  - [Happy Opt Out October! Let’s Find Real Alternatives to the Tech Giants](https://www.eff.org/deeplinks/2026/10/happy-opt-out-october-lets-find-real-alternatives-tech-giants)
 - KitPloit - PenTest Tools!
   - [wazuh v4.14.9-rc1](https://kitploit.com/en/posts/wazuh-8ef96dd84e64bd0a)
   - [kube-reaper](https://kitploit.com/en/tools/github/stillbigjosh/kube-reaper)
@@ -200,5 +194,8 @@
   - [dns_watchdog_windows2](https://kitploit.com/en/tools/github/microlaser/dns_watchdog_windows2)
   - [awesome-latency-attacks](https://kitploit.com/en/tools/github/guzonghua/awesome-latency-attacks)
   - [Meta_SecAlign](https://kitploit.com/en/tools/github/facebookresearch/meta_secalign)
-- Security Weekly Podcast Network (Audio)
-  - [Hacking Without Boundaries - Michael Jenkins - PSW #946](http://sites.libsyn.com/18678/hacking-without-boundaries-michael-jenkins-psw-946)
+- GRAHAM CLULEY
+  - [FBI tells ShinyHunters members to turn themselves in, after arrest of alleged leader](https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-shinyhunters-turn-themselves-in-arrest-leader)
+  - [ShinyHunters suspect arrested, and is now investigated over alleged murder plots](https://www.bitdefender.com/en-us/blog/hotforsecurity/shinyhunters-suspect-arrested-now-investigated-alleged-murder-plots)
+- Schneier on Security
+  - [Connected Cars Are a Surveillance Platform](https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html)
