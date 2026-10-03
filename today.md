@@ -1,11 +1,11 @@
 # 每日安全资讯（2026-10-03）
 
-- SecWiki News
-  - [SecWiki News 2026-10-02 Review](http://www.sec-wiki.com/?2026-10-02)
 - Der Flounder
   - [Copying macOS login keychains to different Macs on macOS Tahoe 26.4 and later](https://derflounder.wordpress.com/2026/10/02/copying-macos-login-keychains-to-different-macs-on-macos-tahoe-26-4-and-later/)
 - obaby 𝐢‍𝐧⃝ void
   - [再谈 Carplay 播放视频](https://zhongxiaojie.cn/2026/10/2029/)
+- SecWiki News
+  - [SecWiki News 2026-10-02 Review](http://www.sec-wiki.com/?2026-10-02)
 - Recent Commits to cve:main
   - [Update Fri Oct  2 12:33:02 UTC 2026](https://github.com/trickest/cve/commit/0a11ab945b81964bf0f31210f21587ee380b7cef)
 - Kitploit — Hacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!
@@ -29,16 +29,14 @@
   - [Kousei](https://kitploit.com/en/tools/github/nu11secur1ty/kousei)
   - [skyvern v1.0.55](https://kitploit.com/en/posts/skyvern-6756867a08a9a525)
   - [ps-ppl-bypass](https://kitploit.com/en/tools/github/r41n3rzuf477/ps-ppl-bypass)
-- Horizon3
-  - [Horizon3 + CrowdStrike: Prove. Prioritize. Verify.](https://horizon3.ai/downloads/factsheets/horizon3-crowdstrike-integration/)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]sm120上sglang的fp8的triton内核的矩阵乘性能问题](https://key08.com/index.php/2026/10/02/3341.html)
+- Horizon3
+  - [Horizon3 + CrowdStrike: Prove. Prioritize. Verify.](https://horizon3.ai/downloads/factsheets/horizon3-crowdstrike-integration/)
 - GuidePoint Security
   - [AI Governance: Between the Prompt and the Policy](https://www.guidepointsecurity.com/blog/ai-governance-prompt-to-policy/)
 - Hexacorn
   - [EtwCheckCoverage API](https://www.hexacorn.com/blog/2026/10/02/etwcheckcoverage-api/)
-- Whwlsfb's Tech Blog
-  - [hacked by trenggalek6etar](https://blog.wanghw.cn/uncategorized/cox-htm.html)
 - The Trail of Bits Blog
   - [SequenceHash: multihashing for the rest of us](https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/)
 - Reverse Engineering
@@ -48,6 +46,8 @@
   - [I built dex2jvm: a DEX → JVM bytecode converter designed for actual HotSpot execution](https://www.reddit.com/r/ReverseEngineering/comments/1ww1hx8/i_built_dex2jvm_a_dex_jvm_bytecode_converter/)
   - [NativePe: libpeconv ported to Delphi (PE loader, dumper, import rebuild, Win32/Win64)](https://www.reddit.com/r/ReverseEngineering/comments/1wvzt04/nativepe_libpeconv_ported_to_delphi_pe_loader/)
   - [Silent Hill (PS1, US v1.1) decompilation fork: 100% of code matched, nearly all data moved into C](https://www.reddit.com/r/ReverseEngineering/comments/1wvjb6z/silent_hill_ps1_us_v11_decompilation_fork_100_of/)
+- Whwlsfb's Tech Blog
+  - [hacked by trenggalek6etar](https://blog.wanghw.cn/uncategorized/cox-htm.html)
 - Over Security
   - [Judge dismisses spyware case brought by Salvadoran journalists targeted with Pegasus](https://therecord.media/judge-dismisses-spyware-case-brought-by-salvadoran-journalists)
   - [Bipartisan backlash to ALPRs grows as two high-profile bills are introduced](https://therecord.media/alpr-legislation-hawley-sanders-merkley-aoc)
@@ -71,18 +71,17 @@
   - [Microsoft’s X account hacked in crypto pump-and-dump scheme](https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/)
   - [Trattamenti per finalità di Polizia: come governare la circolazione dei dati](https://www.cybersecurity360.it/legal/privacy-dati-personali/trattamenti-per-finalita-di-polizia-come-governare-la-circolazione-dei-dati/)
   - [Anatomía de BraZetsu: Cómo los cibercriminales abastecen el ecosistema clandestino](https://www.group-ib.com/blog/brazetsu-ai-enhanced-iab-marketplace-es/)
-- Future of Tech and Security: Strategy & Innovation with Raffy
-  - [The Security Operations Market Is Moving From Narrative To Execution](https://raffy.ch/blog/2026/10/02/the-security-operations-market-is-moving-from-narrative-to-execution/)
+- ICT Security Magazine
+  - [Conservazione dei dati di traffico: il vincolo che torna da Bruxelles non è il termine, è la struttura dell’archivio](https://www.ictsecuritymagazine.com/gdpr-e-privacy/conservazione-dei-dati-di-traffico-separazione-archivi/)
+  - [La formazione in cybersecurity funziona? Efficacia percepita e cambiamenti comportamentali](https://www.ictsecuritymagazine.com/articoli/formazione-in-cybersecurity/)
 - SANS Internet Storm Center, InfoCON: green
   - [ISC Stormcast For Friday, October 2nd, 2026 https://isc.sans.edu/podcastdetail/10120, (Fri, Oct 2nd)](https://isc.sans.edu/diary/rss/33390)
-- The Hacker News
-  - [GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers](https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html)
-  - [Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign](https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html)
-  - [Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes](https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html)
-  - [OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling](https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html)
-  - [Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report](https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html)
-  - [Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools](https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html)
-  - [Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes](https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html)
+- Schneier on Security
+  - [Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing](https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html)
+  - [Unidentified Flock Cameras in Florida](https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html)
+  - [How American Political Campaigns Are Using AI—and What They’re Spending on the Tools](https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html)
+- Future of Tech and Security: Strategy & Innovation with Raffy
+  - [The Security Operations Market Is Moving From Narrative To Execution](https://raffy.ch/blog/2026/10/02/the-security-operations-market-is-moving-from-narrative-to-execution/)
 - KitPloit - PenTest Tools!
   - [ZoneClaw-code](https://kitploit.com/en/tools/github/euph00/zoneclaw-code)
   - [cowrie v3.1.0](https://kitploit.com/en/posts/cowrie-4115130f3aeb0ede)
@@ -109,17 +108,18 @@
   - [AI Agents Attempt SQL Injection While Searching Government Data](https://securityaffairs.com/200234/ai/ai-agents-attempt-sql-injection-while-searching-government-data.html)
   - [Investigators trace an AI agent ‘s path from research task to reconnaissance](https://securityaffairs.com/200215/ai/investigators-trace-an-ai-agent-s-path-from-research-task-to-reconnaissance.html)
   - [U.S. CISA adds Fortinet FortiMail flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/200224/security/u-s-cisa-adds-fortinet-fortimail-flaw-to-its-known-exploited-vulnerabilities-catalog.html)
-- ICT Security Magazine
-  - [Conservazione dei dati di traffico: il vincolo che torna da Bruxelles non è il termine, è la struttura dell’archivio](https://www.ictsecuritymagazine.com/gdpr-e-privacy/conservazione-dei-dati-di-traffico-separazione-archivi/)
-  - [La formazione in cybersecurity funziona? Efficacia percepita e cambiamenti comportamentali](https://www.ictsecuritymagazine.com/articoli/formazione-in-cybersecurity/)
 - Deeplinks
   - [Site-Blocking Will Not Defend IP, No Matter the Bill’s Name](https://www.eff.org/deeplinks/2026/10/site-blocking-will-not-defend-ip-no-matter-bills-name)
   - [Congress Has Another Site-Blocking Bill, And This One Targets VPNs](https://www.eff.org/deeplinks/2026/10/congress-has-another-site-blocking-bill-and-one-targets-vpns)
   - [Victory! Court Rejects Government Effort to Dismiss Social Media Surveillance Lawsuit](https://www.eff.org/press/releases/victory-court-rejects-government-effort-dismiss-social-media-surveillance-lawsuit)
   - [Ola Bini Ordered to Leave Ecuador Under Obscure Accusations](https://www.eff.org/deeplinks/2026/10/ola-bini-ordered-leave-ecuador-under-obscure-accusations)
-- Schneier on Security
-  - [Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing](https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html)
-  - [Unidentified Flock Cameras in Florida](https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html)
-  - [How American Political Campaigns Are Using AI—and What They’re Spending on the Tools](https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html)
+- The Hacker News
+  - [GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers](https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html)
+  - [Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign](https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html)
+  - [Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes](https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html)
+  - [OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling](https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html)
+  - [Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report](https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html)
+  - [Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools](https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html)
+  - [Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes](https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html)
 - Security Weekly Podcast Network (Audio)
   - [RAM, Muse, CloudSyncD, Springsteen, Software, Persistence, and Michael Jenkins - Michael Jenkins - SWN #621](http://sites.libsyn.com/18678/ram-muse-cloudsyncd-springsteen-software-persistence-michael-jenkins-cto-and-michael-jenkins-swn-621)
