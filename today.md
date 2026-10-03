@@ -1,7 +1,13 @@
 # 每日安全资讯（2026-10-03）
 
+- Recent Commits to cve:main
+  - [Update Fri Oct  2 12:33:02 UTC 2026](https://github.com/trickest/cve/commit/0a11ab945b81964bf0f31210f21587ee380b7cef)
+- Der Flounder
+  - [Copying macOS login keychains to different Macs on macOS Tahoe 26.4 and later](https://derflounder.wordpress.com/2026/10/02/copying-macos-login-keychains-to-different-macs-on-macos-tahoe-26-4-and-later/)
 - SecWiki News
   - [SecWiki News 2026-10-02 Review](http://www.sec-wiki.com/?2026-10-02)
+- obaby 𝐢‍𝐧⃝ void
+  - [再谈 Carplay 播放视频](https://zhongxiaojie.cn/2026/10/2029/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-102282](https://sploitus.com/exploit?id=23482FFE-B5C9-5736-A66B-ABBDCFF4AFA5&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-15989](https://sploitus.com/exploit?id=9F5189C5-CE21-56B0-BC4D-0E6C71AE4BEA&utm_source=rss&utm_medium=rss)
@@ -11,36 +17,33 @@
   - [Recruit-SSRF-LFI-SQL-Injection-Admin-Takeover-THM exploit](https://sploitus.com/exploit?id=B0207EDE-C6C2-5FC6-A209-C0E0C0DF7CCC&utm_source=rss&utm_medium=rss)
   - [Cloud-Penetration-Testing-Guide exploit](https://sploitus.com/exploit?id=03907739-994B-5360-8D69-09FD3DD16E00&utm_source=rss&utm_medium=rss)
   - [VORNEX-MTOOL exploit](https://sploitus.com/exploit?id=E60D5646-D397-50DC-8903-CD911258418A&utm_source=rss&utm_medium=rss)
+  - [CVE-2024-29671-POC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LASKDJLASKDJ12-CVE-2024-29671-POC&utm_source=rss&utm_medium=rss)
+  - [CVE-2017-5223 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CSCLI-CVE-2017-5223&utm_source=rss&utm_medium=rss)
+  - [DolibabyPhp exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ANDRIA-DEV-DOLIBABYPHP&utm_source=rss&utm_medium=rss)
+  - [CVE-2022-30525 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FURKANZENGIN-CVE-2022-30525&utm_source=rss&utm_medium=rss)
   - [exploit-CVE-2020-5844](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-UNICORDEV-EXPLOIT-CVE-2020-5844&utm_source=rss&utm_medium=rss)
   - [Emojify exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TOMIWA-OT-EMOJIFY&utm_source=rss&utm_medium=rss)
   - [bcm4360-wpa3 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-UNSIGNEDCHAD-BCM4360-WPA3&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-53921-PoC-Exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TC4DY-CVE-2026-53921-POC-EXPLOIT&utm_source=rss&utm_medium=rss)
   - [rekor exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SIGSTORE-REKOR&utm_source=rss&utm_medium=rss)
   - [tippa-my-tongue exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-J-BAINES-TIPPA-MY-TONGUE&utm_source=rss&utm_medium=rss)
   - [CVE-2018-14847 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TAUSIFZAMAN-CVE-2018-14847&utm_source=rss&utm_medium=rss)
   - [CVE-2014-2383-LFI-to-RCE-Escalation exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RELATIV3PA1N-CVE-2014-2383-LFI-TO-RCE-ESCALATION&utm_source=rss&utm_medium=rss)
-  - [CVE-2024-29868 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DEVISIONS-CVE-2024-29868&utm_source=rss&utm_medium=rss)
-  - [CVE-2024-9474 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ARATANE-CVE-2024-9474&utm_source=rss&utm_medium=rss)
-  - [CVE-2026-44706 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HAKAIOFFSEC-CVE-2026-44706&utm_source=rss&utm_medium=rss)
-  - [fleet-cve-scanner exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BOOSTEDCHAOS-FLEET-CVE-SCANNER&utm_source=rss&utm_medium=rss)
-  - [secretive exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MAXGOEDJEN-SECRETIVE&utm_source=rss&utm_medium=rss)
-  - [openwrt exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OPENWRT-OPENWRT&utm_source=rss&utm_medium=rss)
-  - [CVE-2025-22131-PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ZZN1NJ4-CVE-2025-22131-POC&utm_source=rss&utm_medium=rss)
-  - [cve-2025-38001 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KHOATRAN107-CVE-2025-38001&utm_source=rss&utm_medium=rss)
-  - [mpacktrafficripper exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HARTWORK-MPACKTRAFFICRIPPER&utm_source=rss&utm_medium=rss)
-  - [CVE-2026-23416-POC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BLUEDRAGONSECURITY-CVE-2026-23416-POC&utm_source=rss&utm_medium=rss)
-  - [hinge-command-control-c2 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MATTHEWWIESE-HINGE-COMMAND-CONTROL-C2&utm_source=rss&utm_medium=rss)
-  - [CVE-2026-54806 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JOSHUAVANDERPOLL-CVE-2026-54806&utm_source=rss&utm_medium=rss)
-  - [SharpStat exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RAIKIA-SHARPSTAT&utm_source=rss&utm_medium=rss)
-- Recent Commits to cve:main
-  - [Update Fri Oct  2 12:33:02 UTC 2026](https://github.com/trickest/cve/commit/0a11ab945b81964bf0f31210f21587ee380b7cef)
-- Der Flounder
-  - [Copying macOS login keychains to different Macs on macOS Tahoe 26.4 and later](https://derflounder.wordpress.com/2026/10/02/copying-macos-login-keychains-to-different-macs-on-macos-tahoe-26-4-and-later/)
-- obaby 𝐢‍𝐧⃝ void
-  - [再谈 Carplay 播放视频](https://zhongxiaojie.cn/2026/10/2029/)
-- Horizon3
-  - [Horizon3 + CrowdStrike: Prove. Prioritize. Verify.](https://horizon3.ai/downloads/factsheets/horizon3-crowdstrike-integration/)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]sm120上sglang的fp8的triton内核的矩阵乘性能问题](https://key08.com/index.php/2026/10/02/3341.html)
+- GuidePoint Security
+  - [AI Governance: Between the Prompt and the Policy](https://www.guidepointsecurity.com/blog/ai-governance-prompt-to-policy/)
+- Horizon3
+  - [Horizon3 + CrowdStrike: Prove. Prioritize. Verify.](https://horizon3.ai/downloads/factsheets/horizon3-crowdstrike-integration/)
+- Hexacorn
+  - [EtwCheckCoverage API](https://www.hexacorn.com/blog/2026/10/02/etwcheckcoverage-api/)
+- Reverse Engineering
+  - [IDA Pro 9.5 Beta (with Dalvik, TriCore, Hexagon decompilers)](https://www.reddit.com/r/ReverseEngineering/comments/1wvv879/ida_pro_95_beta_with_dalvik_tricore_hexagon/)
+  - [History of Windows symbols all the way to 1.0 from 1985](https://www.reddit.com/r/ReverseEngineering/comments/1ww59x0/history_of_windows_symbols_all_the_way_to_10_from/)
+  - [Super Trouper v0.4.0 — more Frida tools for iOS app reverse engineering](https://www.reddit.com/r/ReverseEngineering/comments/1ww25ox/super_trouper_v040_more_frida_tools_for_ios_app/)
+  - [NativePe: libpeconv ported to Delphi (PE loader, dumper, import rebuild, Win32/Win64)](https://www.reddit.com/r/ReverseEngineering/comments/1wvzt04/nativepe_libpeconv_ported_to_delphi_pe_loader/)
+  - [I built dex2jvm: a DEX → JVM bytecode converter designed for actual HotSpot execution](https://www.reddit.com/r/ReverseEngineering/comments/1ww1hx8/i_built_dex2jvm_a_dex_jvm_bytecode_converter/)
+  - [Silent Hill (PS1, US v1.1) decompilation fork: 100% of code matched, nearly all data moved into C](https://www.reddit.com/r/ReverseEngineering/comments/1wvjb6z/silent_hill_ps1_us_v11_decompilation_fork_100_of/)
 - Kitploit — Hacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!
   - [ZoneClaw-code](https://kitploit.com/en/tools/github/euph00/zoneclaw-code)
   - [cowrie v3.1.0](https://kitploit.com/en/posts/cowrie-4115130f3aeb0ede)
@@ -62,21 +65,13 @@
   - [Kousei](https://kitploit.com/en/tools/github/nu11secur1ty/kousei)
   - [skyvern v1.0.55](https://kitploit.com/en/posts/skyvern-6756867a08a9a525)
   - [ps-ppl-bypass](https://kitploit.com/en/tools/github/r41n3rzuf477/ps-ppl-bypass)
-- GuidePoint Security
-  - [AI Governance: Between the Prompt and the Policy](https://www.guidepointsecurity.com/blog/ai-governance-prompt-to-policy/)
 - The Trail of Bits Blog
   - [SequenceHash: multihashing for the rest of us](https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/)
 - Whwlsfb's Tech Blog
   - [hacked by trenggalek6etar](https://blog.wanghw.cn/uncategorized/cox-htm.html)
-- Hexacorn
-  - [EtwCheckCoverage API](https://www.hexacorn.com/blog/2026/10/02/etwcheckcoverage-api/)
-- Reverse Engineering
-  - [IDA Pro 9.5 Beta (with Dalvik, TriCore, Hexagon decompilers)](https://www.reddit.com/r/ReverseEngineering/comments/1wvv879/ida_pro_95_beta_with_dalvik_tricore_hexagon/)
-  - [History of Windows symbols all the way to 1.0 from 1985](https://www.reddit.com/r/ReverseEngineering/comments/1ww59x0/history_of_windows_symbols_all_the_way_to_10_from/)
-  - [Super Trouper v0.4.0 — more Frida tools for iOS app reverse engineering](https://www.reddit.com/r/ReverseEngineering/comments/1ww25ox/super_trouper_v040_more_frida_tools_for_ios_app/)
-  - [I built dex2jvm: a DEX → JVM bytecode converter designed for actual HotSpot execution](https://www.reddit.com/r/ReverseEngineering/comments/1ww1hx8/i_built_dex2jvm_a_dex_jvm_bytecode_converter/)
-  - [NativePe: libpeconv ported to Delphi (PE loader, dumper, import rebuild, Win32/Win64)](https://www.reddit.com/r/ReverseEngineering/comments/1wvzt04/nativepe_libpeconv_ported_to_delphi_pe_loader/)
-  - [Silent Hill (PS1, US v1.1) decompilation fork: 100% of code matched, nearly all data moved into C](https://www.reddit.com/r/ReverseEngineering/comments/1wvjb6z/silent_hill_ps1_us_v11_decompilation_fork_100_of/)
+- ICT Security Magazine
+  - [Conservazione dei dati di traffico: il vincolo che torna da Bruxelles non è il termine, è la struttura dell’archivio](https://www.ictsecuritymagazine.com/gdpr-e-privacy/conservazione-dei-dati-di-traffico-separazione-archivi/)
+  - [La formazione in cybersecurity funziona? Efficacia percepita e cambiamenti comportamentali](https://www.ictsecuritymagazine.com/articoli/formazione-in-cybersecurity/)
 - Over Security
   - [Judge dismisses spyware case brought by Salvadoran journalists targeted with Pegasus](https://therecord.media/judge-dismisses-spyware-case-brought-by-salvadoran-journalists)
   - [Bipartisan backlash to ALPRs grows as two high-profile bills are introduced](https://therecord.media/alpr-legislation-hawley-sanders-merkley-aoc)
@@ -102,22 +97,12 @@
   - [Anatomía de BraZetsu: Cómo los cibercriminales abastecen el ecosistema clandestino](https://www.group-ib.com/blog/brazetsu-ai-enhanced-iab-marketplace-es/)
 - SANS Internet Storm Center, InfoCON: green
   - [ISC Stormcast For Friday, October 2nd, 2026 https://isc.sans.edu/podcastdetail/10120, (Fri, Oct 2nd)](https://isc.sans.edu/diary/rss/33390)
-- Future of Tech and Security: Strategy & Innovation with Raffy
-  - [The Security Operations Market Is Moving From Narrative To Execution](https://raffy.ch/blog/2026/10/02/the-security-operations-market-is-moving-from-narrative-to-execution/)
 - Schneier on Security
   - [Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing](https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html)
   - [Unidentified Flock Cameras in Florida](https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html)
   - [How American Political Campaigns Are Using AI—and What They’re Spending on the Tools](https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html)
-- Deeplinks
-  - [Site-Blocking Will Not Defend IP, No Matter the Bill’s Name](https://www.eff.org/deeplinks/2026/10/site-blocking-will-not-defend-ip-no-matter-bills-name)
-  - [Congress Has Another Site-Blocking Bill, And This One Targets VPNs](https://www.eff.org/deeplinks/2026/10/congress-has-another-site-blocking-bill-and-one-targets-vpns)
-  - [Victory! Court Rejects Government Effort to Dismiss Social Media Surveillance Lawsuit](https://www.eff.org/press/releases/victory-court-rejects-government-effort-dismiss-social-media-surveillance-lawsuit)
-  - [Ola Bini Ordered to Leave Ecuador Under Obscure Accusations](https://www.eff.org/deeplinks/2026/10/ola-bini-ordered-leave-ecuador-under-obscure-accusations)
-- Security Affairs
-  - [U.S. CISA adds Zammad GmbH Zammad flaws to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/200248/security/u-s-cisa-adds-zammad-gmbh-zammad-flaws-to-its-known-exploited-vulnerabilities-catalog.html)
-  - [AI Agents Attempt SQL Injection While Searching Government Data](https://securityaffairs.com/200234/ai/ai-agents-attempt-sql-injection-while-searching-government-data.html)
-  - [Investigators trace an AI agent ‘s path from research task to reconnaissance](https://securityaffairs.com/200215/ai/investigators-trace-an-ai-agent-s-path-from-research-task-to-reconnaissance.html)
-  - [U.S. CISA adds Fortinet FortiMail flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/200224/security/u-s-cisa-adds-fortinet-fortimail-flaw-to-its-known-exploited-vulnerabilities-catalog.html)
+- Future of Tech and Security: Strategy & Innovation with Raffy
+  - [The Security Operations Market Is Moving From Narrative To Execution](https://raffy.ch/blog/2026/10/02/the-security-operations-market-is-moving-from-narrative-to-execution/)
 - The Hacker News
   - [GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers](https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html)
   - [Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign](https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html)
@@ -147,8 +132,15 @@
   - [Kousei](https://kitploit.com/en/tools/github/nu11secur1ty/kousei)
   - [skyvern v1.0.55](https://kitploit.com/en/posts/skyvern-6756867a08a9a525)
   - [ps-ppl-bypass](https://kitploit.com/en/tools/github/r41n3rzuf477/ps-ppl-bypass)
-- ICT Security Magazine
-  - [Conservazione dei dati di traffico: il vincolo che torna da Bruxelles non è il termine, è la struttura dell’archivio](https://www.ictsecuritymagazine.com/gdpr-e-privacy/conservazione-dei-dati-di-traffico-separazione-archivi/)
-  - [La formazione in cybersecurity funziona? Efficacia percepita e cambiamenti comportamentali](https://www.ictsecuritymagazine.com/articoli/formazione-in-cybersecurity/)
+- Security Affairs
+  - [U.S. CISA adds Zammad GmbH Zammad flaws to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/200248/security/u-s-cisa-adds-zammad-gmbh-zammad-flaws-to-its-known-exploited-vulnerabilities-catalog.html)
+  - [AI Agents Attempt SQL Injection While Searching Government Data](https://securityaffairs.com/200234/ai/ai-agents-attempt-sql-injection-while-searching-government-data.html)
+  - [Investigators trace an AI agent ‘s path from research task to reconnaissance](https://securityaffairs.com/200215/ai/investigators-trace-an-ai-agent-s-path-from-research-task-to-reconnaissance.html)
+  - [U.S. CISA adds Fortinet FortiMail flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/200224/security/u-s-cisa-adds-fortinet-fortimail-flaw-to-its-known-exploited-vulnerabilities-catalog.html)
+- Deeplinks
+  - [Site-Blocking Will Not Defend IP, No Matter the Bill’s Name](https://www.eff.org/deeplinks/2026/10/site-blocking-will-not-defend-ip-no-matter-bills-name)
+  - [Congress Has Another Site-Blocking Bill, And This One Targets VPNs](https://www.eff.org/deeplinks/2026/10/congress-has-another-site-blocking-bill-and-one-targets-vpns)
+  - [Victory! Court Rejects Government Effort to Dismiss Social Media Surveillance Lawsuit](https://www.eff.org/press/releases/victory-court-rejects-government-effort-dismiss-social-media-surveillance-lawsuit)
+  - [Ola Bini Ordered to Leave Ecuador Under Obscure Accusations](https://www.eff.org/deeplinks/2026/10/ola-bini-ordered-leave-ecuador-under-obscure-accusations)
 - Security Weekly Podcast Network (Audio)
   - [RAM, Muse, CloudSyncD, Springsteen, Software, Persistence, and Michael Jenkins - Michael Jenkins - SWN #621](http://sites.libsyn.com/18678/ram-muse-cloudsyncd-springsteen-software-persistence-michael-jenkins-cto-and-michael-jenkins-swn-621)
