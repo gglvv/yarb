@@ -1,11 +1,11 @@
 # 每日安全资讯（2026-10-04）
 
-- Recent Commits to cve:main
-  - [Update Sat Oct  3 12:33:01 UTC 2026](https://github.com/trickest/cve/commit/de57b3a5c16ff0c40c543149c930e2eef3c2d611)
 - 博客
   - [ifupdown and ifupdown2](https://dyrnq.com/ifupdown-and-ifupdown2/)
 - SecWiki News
   - [SecWiki News 2026-10-03 Review](http://www.sec-wiki.com/?2026-10-03)
+- Recent Commits to cve:main
+  - [Update Sat Oct  3 12:33:01 UTC 2026](https://github.com/trickest/cve/commit/de57b3a5c16ff0c40c543149c930e2eef3c2d611)
 - Kitploit — Hacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!
   - [N0xis](https://kitploit.com/en/tools/github/structio-labs/n0xis)
   - [Decepticon v1.2.2](https://kitploit.com/en/posts/decepticon-7ec23d84d6dcd0b8)
@@ -27,28 +27,30 @@
   - [grype v0.120.0](https://kitploit.com/en/posts/grype-244879363bf818de)
   - [Chamemask](https://kitploit.com/en/tools/github/manhnho/chamemask)
   - [CCTV](https://kitploit.com/en/tools/github/c2sp/cctv)
+- Malware-Traffic-Analysis.net - Blog Entries
+  - [2026-09-29: Macfinger ClickFix activity](https://www.malware-traffic-analysis.net/2026/09/29/index.html)
 - Reverse Engineering
   - [N0xis: from a hardware watchpoint in a live process to the decompiled statement that wrote the value (Rust, Windows/Linux, CLI + MCP)](https://www.reddit.com/r/ReverseEngineering/comments/1wwy6x4/n0xis_from_a_hardware_watchpoint_in_a_live/)
   - [I turned a low-cost RP2040-Zero into a FIDO2/WebAuthn security key](https://www.reddit.com/r/ReverseEngineering/comments/1wwwvpb/i_turned_a_lowcost_rp2040zero_into_a/)
   - [Pre-installed C2 loader on cheap Android projectors - deploys proxy/ad-fraud botnets, can run arbitrary code (Technical analysis)](https://www.reddit.com/r/ReverseEngineering/comments/1wwmw15/preinstalled_c2_loader_on_cheap_android/)
   - [how to remove or bypass this message from flutter app "com.vistring.blink.android" "message : you are currently use unofficial version" pirated message after remove pairip](https://www.reddit.com/r/ReverseEngineering/comments/1wwt2vk/how_to_remove_or_bypass_this_message_from_flutter/)
   - [Anti-Debug tricks ( unknow )](https://www.reddit.com/r/ReverseEngineering/comments/1wwh3li/antidebug_tricks_unknow/)
-- Malware-Traffic-Analysis.net - Blog Entries
-  - [2026-09-29: Macfinger ClickFix activity](https://www.malware-traffic-analysis.net/2026/09/29/index.html)
-- Hacking Dream
-  - [Understanding Abliteration: How I Learned to Read and Edit an Open-Weight LLM Without Fine-Tuning](https://www.hackingdream.net/2026/10/understanding-abliteration-how-i-learned-to-edit-an-open-weight-llm-without-finetuning.html)
 - Hexacorn
   - [The boring state of stalled timelines…](https://www.hexacorn.com/blog/2026/10/03/the-boring-state-of-stalled-timelines/)
+- Hacking Dream
+  - [Understanding Abliteration: How I Learned to Read and Edit an Open-Weight LLM Without Fine-Tuning](https://www.hackingdream.net/2026/10/understanding-abliteration-how-i-learned-to-edit-an-open-weight-llm-without-finetuning.html)
 - Yang Hao's blog
   - [桌面壁纸层监控HUD踩坑实录](https://yanghaoi.github.io/2026/10/04/zhuo-mian-bi-zhi-ceng-jian-kong-hud-cai-keng-shi-lu/)
-- LastKnight.com Feed
-  - [Altman e Amodei sul ceppo: la macchina che trema è l’alibi perfetto](https://mgpf.it/2026/10/03/altman-amodei-ceppo.html)
-- SANS Internet Storm Center, InfoCON: green
-  - [YARA-X 1.21.0 Release, (Sat, Oct 3rd)](https://isc.sans.edu/diary/rss/33392)
 - Over Security
   - [Google Gemini could soon get full access to your Mac’s files, apps and the web](https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/)
   - [ShinyHunters hacker reportedly detained in Jordan, aiding FBI](https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/)
   - [Danish university DTU breach exposes data of up to 200,000 people](https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/)
+- LastKnight.com Feed
+  - [Altman e Amodei sul ceppo: la macchina che trema è l’alibi perfetto](https://mgpf.it/2026/10/03/altman-amodei-ceppo.html)
+- SANS Internet Storm Center, InfoCON: green
+  - [YARA-X 1.21.0 Release, (Sat, Oct 3rd)](https://isc.sans.edu/diary/rss/33392)
+- ICT Security Magazine
+  - [Zero trust negli ambienti OT: perché l’air gap non basta più](https://www.ictsecuritymagazine.com/articoli/zero-trust-ot-air-gap/)
 - Security Affairs
   - [Fake Zoom installer hides macOS backdoor CloudSyncD](https://securityaffairs.com/200293/malware/fake-zoom-installer-hides-macos-backdoor-cloudsyncd.html)
   - [CVE-2026-90970: Critical GitLab AI Gateway Flaw Fixed](https://securityaffairs.com/200283/hacking/cve-2026-90970-critical-gitlab-ai-gateway-flaw-fixed.html)
@@ -74,14 +76,10 @@
   - [grype v0.120.0](https://kitploit.com/en/posts/grype-244879363bf818de)
   - [Chamemask](https://kitploit.com/en/tools/github/manhnho/chamemask)
   - [CCTV](https://kitploit.com/en/tools/github/c2sp/cctv)
-- Your Open Hacker Community
-  - [Learning Hacking fundamentals](https://www.reddit.com/r/HowToHack/comments/1wx0my1/learning_hacking_fundamentals/)
-  - [first project idea](https://www.reddit.com/r/HowToHack/comments/1wwsb2j/first_project_idea/)
-  - [How to? Using ByeDPI and mitmproxy together on Android](https://www.reddit.com/r/HowToHack/comments/1wwmfeq/how_to_using_byedpi_and_mitmproxy_together_on/)
-  - [need to anonymously disable a camera](https://www.reddit.com/r/HowToHack/comments/1wwagh7/need_to_anonymously_disable_a_camera/)
+- Deep Web
+  - [Theory:All DN sites are monitored.](https://www.reddit.com/r/deepweb/comments/1wwsvvz/theoryall_dn_sites_are_monitored/)
+  - [Anyone know if this website is legit?](https://www.reddit.com/r/deepweb/comments/1wwwyqu/anyone_know_if_this_website_is_legit/)
 - The Hacker News
   - [MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics](https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html)
   - [Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware](https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html)
   - [The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html)
-- ICT Security Magazine
-  - [Zero trust negli ambienti OT: perché l’air gap non basta più](https://www.ictsecuritymagazine.com/articoli/zero-trust-ot-air-gap/)
