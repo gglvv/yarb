@@ -27,6 +27,8 @@
   - [prompt-injection-email-samples](https://kitploit.com/en/tools/github/cyb3rmik3/prompt-injection-email-samples)
   - [Scrapling — Updated!](https://kitploit.com/en/posts/scrapling-161a836c30cc5203)
   - [AI-FILE](https://kitploit.com/en/tools/github/kyle41111/ai-file)
+- Malware-Traffic-Analysis.net - Blog Entries
+  - [2026-09-30: SmartApeSG ClickFix pushes CNCmachineRMS RAT](https://www.malware-traffic-analysis.net/2026/09/30/index.html)
 - Hacking Dream
   - [Abliteration Workbench: My Llama 3.2 Refusal Research](https://www.hackingdream.net/2026/10/llama-3-2-refusal-research-abliteration-workbench.html)
 - Reverse Engineering
@@ -34,30 +36,26 @@
   - [iOS 27 kernelcache RE writeup — full SEP dispatch map (96 selectors), AMFI diff, Ghidra workflow (zero new vulns, but full methodology public)](https://www.reddit.com/r/ReverseEngineering/comments/1wxqpf9/ios_27_kernelcache_re_writeup_full_sep_dispatch/)
   - [Bug hunt: Pizza Tycoon's missing pizza boxes](https://www.reddit.com/r/ReverseEngineering/comments/1wxepbe/bug_hunt_pizza_tycoons_missing_pizza_boxes/)
   - [I built Gu3ssWeak — a deliberately vulnerable Android app for mobile security research & pentesting](https://www.reddit.com/r/ReverseEngineering/comments/1wx493p/i_built_gu3ssweak_a_deliberately_vulnerable/)
-- Malware-Traffic-Analysis.net - Blog Entries
-  - [2026-09-30: SmartApeSG ClickFix pushes CNCmachineRMS RAT](https://www.malware-traffic-analysis.net/2026/09/30/index.html)
 - 奇客Solidot–传递最新科技情报
   - [太阳系可能没有以前认为的能存在千亿年](https://www.solidot.org/story?sid=85535)
   - [AI 聊天机器人会成为意识形态回音室](https://www.solidot.org/story?sid=85534)
 - 黑鸟
   - [关于Anthropic秘密联动全球宗教学者一事](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189130&idx=1&sn=b3600013ad1236bac4f3f4854a477dc0)
-- 安全分析与研究
-  - [AI事件归因与责任追踪](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497238&idx=1&sn=03964a9bf67b9c12d05aacd272f86c02)
 - 安全圈
   - [【安全圈】苹果确认缺陷！新机信号瘫痪](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079241&idx=1&sn=ae1ce80834d6928964edefeda1e490e0)
   - [【安全圈】300万条市民投诉被挂暗网](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079241&idx=2&sn=274db5f2487ae3b91f667168f252a6e1)
   - [【安全圈】Edge爆25个漏洞！快升级154版本](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079241&idx=3&sn=4090c0f568b1446a98717788cce02e59)
+- 安全分析与研究
+  - [AI事件归因与责任追踪](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497238&idx=1&sn=03964a9bf67b9c12d05aacd272f86c02)
 - KCon 黑客大会
   - [KCon 2026 大会主视觉发布 — AI 与安全 | 弈智破局，善用智能](https://mp.weixin.qq.com/s?__biz=MzIzOTAwNzc1OQ==&mid=2651138188&idx=1&sn=10ed610f8eba4cc7b56271a5cd6a56b3)
+- 安全学术圈
+  - [行业会议 | 2026年网络空间安全学术会议（青年学者专题议题）](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495983&idx=1&sn=c3d095962ce33764d4fb4a2d2b65e158)
 - 极客公园
   - [Jev 之后，中国团队开始深挖 AI 的「直觉层」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114436&idx=1&sn=fefdf92776bff0858cd12aad0743211d)
   - [苹果确认美版 iPhone 18 Pro Max 有问题；OpenAI 每天烧超 50 万美元查 AI 入侵事故；求职者吐槽 AI 面试「恐怖谷」上热搜｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114435&idx=1&sn=543bad3ca798fa141d661dcdf6e4d6d2)
 - 网络空间安全科学学报
   - [重磅预告｜张小松教授将在2026年网络空间安全学术会议作主旨报告](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247509911&idx=1&sn=beca03b10e65824dbaf14b4949c1343d)
-- Arturo Di Corinto
-  - [RomHack, presentazione del libro Guerra profonda](https://dicorinto.it/guerra-profonda/romhack-presentazione-del-libro-guerra-profonda/)
-- Dark Space Blogspot
-  - [L'Attacco Alla Banca Fideuram Tramite AI e Voice Cloning](http://darkwhite666.blogspot.com/2026/10/lattacco-alla-banca-fideuram-tramite-ai.html)
 - ICT Security Magazine
   - [NIS2 e AI Act: cybersecurity e cyber risk tra gestione del rischio e responsabilità nell’ecosistema digitale europeo](https://www.ictsecuritymagazine.com/articoli/nis2-ai-act-cyber-risk/)
 - Over Security
@@ -66,13 +64,17 @@
   - [Perché i colossi dell’AI distruggono i libri?](https://guerredirete.substack.com/p/perche-i-colossi-dellai-distruggono)
 - 丁爸 情报分析师的工具箱
   - [情报分析师培训课程（三）情报学科与全源分析（1）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157677&idx=1&sn=44dc5afbc2f75bfb8203bfe2a4921708)
+- Troy Hunt's Blog
+  - [Weekly Update 524: Live From Copenhagen](https://www.troyhunt.com/weekly-update-524/)
 - SANS Internet Storm Center, InfoCON: green
   - [User Agent Strings Curiosities, (Sun, Oct 4th)](https://isc.sans.edu/diary/rss/33394)
+- Arturo Di Corinto
+  - [RomHack, presentazione del libro Guerra profonda](https://dicorinto.it/guerra-profonda/romhack-presentazione-del-libro-guerra-profonda/)
 - The Hacker News
   - [ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html)
   - [China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing](https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html)
-- Troy Hunt's Blog
-  - [Weekly Update 524: Live From Copenhagen](https://www.troyhunt.com/weekly-update-524/)
+- Dark Space Blogspot
+  - [L'Attacco Alla Banca Fideuram Tramite AI e Voice Cloning](http://darkwhite666.blogspot.com/2026/10/lattacco-alla-banca-fideuram-tramite-ai.html)
 - KitPloit - PenTest Tools!
   - [veneficus](https://kitploit.com/en/tools/github/abraxas/veneficus)
   - [Gu3ssWeak](https://kitploit.com/en/tools/github/b4sith-sec/gu3ssweak)
@@ -96,15 +98,13 @@
   - [prompt-injection-email-samples](https://kitploit.com/en/tools/github/cyb3rmik3/prompt-injection-email-samples)
   - [Scrapling — Updated!](https://kitploit.com/en/posts/scrapling-161a836c30cc5203)
   - [AI-FILE](https://kitploit.com/en/tools/github/kyle41111/ai-file)
-- OnionSec
-  - [那只黄色的小狗](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247486070&idx=1&sn=25b595455f3c17e4fb9b1cf50ced833d)
-- Blackhat Library: Hacking techniques and research
-  - [Combining TOR, WebRTC and Git into a Decentralized E2EE P2P Messaging App](https://www.reddit.com/r/blackhat/comments/1wxk3gn/combining_tor_webrtc_and_git_into_a_decentralized/)
 - Security Affairs
   - [SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 2](https://securityaffairs.com/200367/ai/security-affairs-ai-cybersecurity-newsletter-round-2.html)
   - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 117](https://securityaffairs.com/200354/security/security-affairs-malware-newsletter-round-117.html)
   - [ShinyHunters Suspect Detained in Jordan Helps FBI Track Down the Group](https://securityaffairs.com/200338/cyber-crime/shinyhunters-suspect-detained-in-jordan-helps-fbi-track-down-the-group.html)
   - [Security Affairs newsletter Round 598 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/200326/breaking-news/security-affairs-newsletter-round-598-by-pierluigi-paganini-international-edition.html)
-  - [Warlock Ransomware Still Exploits Year-Old SharePoint Flaws to Hit Critical Infrastructure](https://securityaffairs.com/200304/malware/warlock-ransomware-still-exploits-year-old-sharepoint-flaws-to-hit-critical-infrastructure.html)
-- 安全学术圈
-  - [行业会议 | 2026年网络空间安全学术会议（青年学者专题议题）](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495983&idx=1&sn=c3d095962ce33764d4fb4a2d2b65e158)
+- Computer Forensics
+  - [Unexplained NTFS ACL change — what artifact am I missing?](https://www.reddit.com/r/computerforensics/comments/1wx99xo/unexplained_ntfs_acl_change_what_artifact_am_i/)
+  - [Need Help!!! A Friend Was Hit By A Van, An AI Manipulated dashcam Video Is Suspected.](https://www.reddit.com/r/computerforensics/comments/1wx66ko/need_help_a_friend_was_hit_by_a_van_an_ai/)
+- OnionSec
+  - [那只黄色的小狗](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247486070&idx=1&sn=25b595455f3c17e4fb9b1cf50ced833d)
