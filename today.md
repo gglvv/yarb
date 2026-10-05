@@ -2,33 +2,6 @@
 
 - Recent Commits to cve:main
   - [Update Sun Oct  4 12:33:41 UTC 2026](https://github.com/trickest/cve/commit/4a2278d3f35e8452c94f02e816801516ab5d8929)
-- Sploitus.com Exploits RSS Feed
-  - [mav-raiders exploit](https://sploitus.com/exploit?id=E6F5D9E9-E637-5B91-8602-3A949F0EEF3F&utm_source=rss&utm_medium=rss)
-  - [ai_bobao exploit](https://sploitus.com/exploit?id=C67994F7-7BEE-5B6C-8341-7C713D433C41&utm_source=rss&utm_medium=rss)
-  - [metasploitable2-red-team-assessment exploit](https://sploitus.com/exploit?id=D443F962-3140-53CE-AC7C-A200B126213D&utm_source=rss&utm_medium=rss)
-  - [CVE-2024-9474 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ARATANE-CVE-2024-9474&utm_source=rss&utm_medium=rss)
-  - [Codeine exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DIEGO-TELLA-CODEINE&utm_source=rss&utm_medium=rss)
-  - [apache-httpd-path-traversal-checker exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-THELSA-APACHE-HTTPD-PATH-TRAVERSAL-CHECKER&utm_source=rss&utm_medium=rss)
-  - [CVE-2025-55315-PoC-Exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ZEMARKHOS-CVE-2025-55315-POC-EXPLOIT&utm_source=rss&utm_medium=rss)
-  - [expel-intel exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-EXPEL-IO-EXPEL-INTEL&utm_source=rss&utm_medium=rss)
-  - [hstsparser exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-THEBEANOGAMER-HSTSPARSER&utm_source=rss&utm_medium=rss)
-  - [freddy exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NCCGROUP-FREDDY&utm_source=rss&utm_medium=rss)
-  - [EntraFalcon exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-COMPASSSECURITY-ENTRAFALCON&utm_source=rss&utm_medium=rss)
-  - [obsidian-osint-templates exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WEBBREACHER-OBSIDIAN-OSINT-TEMPLATES&utm_source=rss&utm_medium=rss)
-  - [WORDPRESS-CVE-2024-25600-EXPLOIT-RCE](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-X-PROJETION-WORDPRESS-CVE-2024-25600-EXPLOIT-RCE&utm_source=rss&utm_medium=rss)
-  - [Baron-Samedit-Heap-Buffer-Overflow-CVE-2021-3156 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SHUHAIB88-BARON-SAMEDIT-HEAP-BUFFER-OVERFLOW-CVE-2021-3156&utm_source=rss&utm_medium=rss)
-  - [cve-2019-10678 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CVED-SOURCES-CVE-2019-10678&utm_source=rss&utm_medium=rss)
-  - [CVE-2023-27350 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MONKE443-CVE-2023-27350&utm_source=rss&utm_medium=rss)
-  - [Freeko exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-0ALEX1010-FREEKO&utm_source=rss&utm_medium=rss)
-  - [mitm-proxy exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WELFORDIAN-MITM-PROXY&utm_source=rss&utm_medium=rss)
-  - [vulnrepro-benchmark exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FARHADALIMOHAMMADI-DIR-VULNREPRO-BENCHMARK&utm_source=rss&utm_medium=rss)
-  - [om-research exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ALKERSAN-OM-RESEARCH&utm_source=rss&utm_medium=rss)
-  - [byvalver exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-UMPOLUNGFISH-BYVALVER&utm_source=rss&utm_medium=rss)
-  - [CVE-2026-24055-OAuth-Langfuse exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-IMZANGGG-CVE-2026-24055-OAUTH-LANGFUSE&utm_source=rss&utm_medium=rss)
-  - [Keycloak-12.0.1-CVE-2020-10770 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-COLDFUSIONX-KEYCLOAK-12.0.1-CVE-2020-10770&utm_source=rss&utm_medium=rss)
-  - [pidrila exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ENEMY-SUBMARINE-PIDRILA&utm_source=rss&utm_medium=rss)
-  - [DataPrivacy-CVE-2025-23211 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-IIXOSKELETONII-DATAPRIVACY-CVE-2025-23211&utm_source=rss&utm_medium=rss)
-  - [zuthaka exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PUCARASEC-ZUTHAKA&utm_source=rss&utm_medium=rss)
 - SecWiki News
   - [SecWiki News 2026-10-04 Review](http://www.sec-wiki.com/?2026-10-04)
 - Kitploit — Hacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!
@@ -56,32 +29,50 @@
   - [AI-FILE](https://kitploit.com/en/tools/github/kyle41111/ai-file)
 - Hacking Dream
   - [Abliteration Workbench: My Llama 3.2 Refusal Research](https://www.hackingdream.net/2026/10/llama-3-2-refusal-research-abliteration-workbench.html)
-- Malware-Traffic-Analysis.net - Blog Entries
-  - [2026-09-30: SmartApeSG ClickFix pushes CNCmachineRMS RAT](https://www.malware-traffic-analysis.net/2026/09/30/index.html)
 - Reverse Engineering
   - [Loading a Samsung Shannon baseband into Ghidra 12.1.4](https://www.reddit.com/r/ReverseEngineering/comments/1wxs70y/loading_a_samsung_shannon_baseband_into_ghidra/)
   - [iOS 27 kernelcache RE writeup — full SEP dispatch map (96 selectors), AMFI diff, Ghidra workflow (zero new vulns, but full methodology public)](https://www.reddit.com/r/ReverseEngineering/comments/1wxqpf9/ios_27_kernelcache_re_writeup_full_sep_dispatch/)
   - [Bug hunt: Pizza Tycoon's missing pizza boxes](https://www.reddit.com/r/ReverseEngineering/comments/1wxepbe/bug_hunt_pizza_tycoons_missing_pizza_boxes/)
   - [I built Gu3ssWeak — a deliberately vulnerable Android app for mobile security research & pentesting](https://www.reddit.com/r/ReverseEngineering/comments/1wx493p/i_built_gu3ssweak_a_deliberately_vulnerable/)
+- Malware-Traffic-Analysis.net - Blog Entries
+  - [2026-09-30: SmartApeSG ClickFix pushes CNCmachineRMS RAT](https://www.malware-traffic-analysis.net/2026/09/30/index.html)
+- 奇客Solidot–传递最新科技情报
+  - [太阳系可能没有以前认为的能存在千亿年](https://www.solidot.org/story?sid=85535)
+  - [AI 聊天机器人会成为意识形态回音室](https://www.solidot.org/story?sid=85534)
+- 黑鸟
+  - [关于Anthropic秘密联动全球宗教学者一事](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189130&idx=1&sn=b3600013ad1236bac4f3f4854a477dc0)
+- 安全分析与研究
+  - [AI事件归因与责任追踪](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497238&idx=1&sn=03964a9bf67b9c12d05aacd272f86c02)
+- 安全圈
+  - [【安全圈】苹果确认缺陷！新机信号瘫痪](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079241&idx=1&sn=ae1ce80834d6928964edefeda1e490e0)
+  - [【安全圈】300万条市民投诉被挂暗网](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079241&idx=2&sn=274db5f2487ae3b91f667168f252a6e1)
+  - [【安全圈】Edge爆25个漏洞！快升级154版本](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079241&idx=3&sn=4090c0f568b1446a98717788cce02e59)
+- KCon 黑客大会
+  - [KCon 2026 大会主视觉发布 — AI 与安全 | 弈智破局，善用智能](https://mp.weixin.qq.com/s?__biz=MzIzOTAwNzc1OQ==&mid=2651138188&idx=1&sn=10ed610f8eba4cc7b56271a5cd6a56b3)
 - 极客公园
   - [Jev 之后，中国团队开始深挖 AI 的「直觉层」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114436&idx=1&sn=fefdf92776bff0858cd12aad0743211d)
   - [苹果确认美版 iPhone 18 Pro Max 有问题；OpenAI 每天烧超 50 万美元查 AI 入侵事故；求职者吐槽 AI 面试「恐怖谷」上热搜｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114435&idx=1&sn=543bad3ca798fa141d661dcdf6e4d6d2)
-- Over Security
-  - [Citrix patches NetScaler SAML zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/)
-  - [Anthropic asks Claude users to share voice data for AI model training](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/)
-  - [Perché i colossi dell’AI distruggono i libri?](https://guerredirete.substack.com/p/perche-i-colossi-dellai-distruggono)
+- 网络空间安全科学学报
+  - [重磅预告｜张小松教授将在2026年网络空间安全学术会议作主旨报告](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247509911&idx=1&sn=beca03b10e65824dbaf14b4949c1343d)
 - Arturo Di Corinto
   - [RomHack, presentazione del libro Guerra profonda](https://dicorinto.it/guerra-profonda/romhack-presentazione-del-libro-guerra-profonda/)
 - Dark Space Blogspot
   - [L'Attacco Alla Banca Fideuram Tramite AI e Voice Cloning](http://darkwhite666.blogspot.com/2026/10/lattacco-alla-banca-fideuram-tramite-ai.html)
+- ICT Security Magazine
+  - [NIS2 e AI Act: cybersecurity e cyber risk tra gestione del rischio e responsabilità nell’ecosistema digitale europeo](https://www.ictsecuritymagazine.com/articoli/nis2-ai-act-cyber-risk/)
+- Over Security
+  - [Citrix patches NetScaler SAML zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/)
+  - [Anthropic asks Claude users to share voice data for AI model training](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/)
+  - [Perché i colossi dell’AI distruggono i libri?](https://guerredirete.substack.com/p/perche-i-colossi-dellai-distruggono)
+- 丁爸 情报分析师的工具箱
+  - [情报分析师培训课程（三）情报学科与全源分析（1）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157677&idx=1&sn=44dc5afbc2f75bfb8203bfe2a4921708)
+- SANS Internet Storm Center, InfoCON: green
+  - [User Agent Strings Curiosities, (Sun, Oct 4th)](https://isc.sans.edu/diary/rss/33394)
+- The Hacker News
+  - [ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html)
+  - [China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing](https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html)
 - Troy Hunt's Blog
   - [Weekly Update 524: Live From Copenhagen](https://www.troyhunt.com/weekly-update-524/)
-- Security Affairs
-  - [SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 2](https://securityaffairs.com/200367/ai/security-affairs-ai-cybersecurity-newsletter-round-2.html)
-  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 117](https://securityaffairs.com/200354/security/security-affairs-malware-newsletter-round-117.html)
-  - [ShinyHunters Suspect Detained in Jordan Helps FBI Track Down the Group](https://securityaffairs.com/200338/cyber-crime/shinyhunters-suspect-detained-in-jordan-helps-fbi-track-down-the-group.html)
-  - [Security Affairs newsletter Round 598 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/200326/breaking-news/security-affairs-newsletter-round-598-by-pierluigi-paganini-international-edition.html)
-  - [Warlock Ransomware Still Exploits Year-Old SharePoint Flaws to Hit Critical Infrastructure](https://securityaffairs.com/200304/malware/warlock-ransomware-still-exploits-year-old-sharepoint-flaws-to-hit-critical-infrastructure.html)
 - KitPloit - PenTest Tools!
   - [veneficus](https://kitploit.com/en/tools/github/abraxas/veneficus)
   - [Gu3ssWeak](https://kitploit.com/en/tools/github/b4sith-sec/gu3ssweak)
@@ -105,14 +96,15 @@
   - [prompt-injection-email-samples](https://kitploit.com/en/tools/github/cyb3rmik3/prompt-injection-email-samples)
   - [Scrapling — Updated!](https://kitploit.com/en/posts/scrapling-161a836c30cc5203)
   - [AI-FILE](https://kitploit.com/en/tools/github/kyle41111/ai-file)
-- Blackhat Library: Hacking techniques and research
-  - [Combining TOR, WebRTC and Git into a Decentralized E2EE P2P Messaging App](https://www.reddit.com/r/blackhat/comments/1wxk3gn/combining_tor_webrtc_and_git_into_a_decentralized/)
-- ICT Security Magazine
-  - [NIS2 e AI Act: cybersecurity e cyber risk tra gestione del rischio e responsabilità nell’ecosistema digitale europeo](https://www.ictsecuritymagazine.com/articoli/nis2-ai-act-cyber-risk/)
 - OnionSec
   - [那只黄色的小狗](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247486070&idx=1&sn=25b595455f3c17e4fb9b1cf50ced833d)
-- SANS Internet Storm Center, InfoCON: green
-  - [User Agent Strings Curiosities, (Sun, Oct 4th)](https://isc.sans.edu/diary/rss/33394)
-- The Hacker News
-  - [ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html)
-  - [China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing](https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html)
+- Blackhat Library: Hacking techniques and research
+  - [Combining TOR, WebRTC and Git into a Decentralized E2EE P2P Messaging App](https://www.reddit.com/r/blackhat/comments/1wxk3gn/combining_tor_webrtc_and_git_into_a_decentralized/)
+- Security Affairs
+  - [SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 2](https://securityaffairs.com/200367/ai/security-affairs-ai-cybersecurity-newsletter-round-2.html)
+  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 117](https://securityaffairs.com/200354/security/security-affairs-malware-newsletter-round-117.html)
+  - [ShinyHunters Suspect Detained in Jordan Helps FBI Track Down the Group](https://securityaffairs.com/200338/cyber-crime/shinyhunters-suspect-detained-in-jordan-helps-fbi-track-down-the-group.html)
+  - [Security Affairs newsletter Round 598 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/200326/breaking-news/security-affairs-newsletter-round-598-by-pierluigi-paganini-international-edition.html)
+  - [Warlock Ransomware Still Exploits Year-Old SharePoint Flaws to Hit Critical Infrastructure](https://securityaffairs.com/200304/malware/warlock-ransomware-still-exploits-year-old-sharepoint-flaws-to-hit-critical-infrastructure.html)
+- 安全学术圈
+  - [行业会议 | 2026年网络空间安全学术会议（青年学者专题议题）](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495983&idx=1&sn=c3d095962ce33764d4fb4a2d2b65e158)
