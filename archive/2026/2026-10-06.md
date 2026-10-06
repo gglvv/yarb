@@ -1,47 +1,19 @@
 # 每日安全资讯（2026-10-06）
 
-- Sploitus.com Exploits RSS Feed
-  - [proof-of-exploit](https://sploitus.com/exploit?id=9425E0B6-6BA7-5C80-9FA0-0D15D4376398&utm_source=rss&utm_medium=rss)
-  - [Exploit for Injection in Dlink Dir-868L_B1_Firmware](https://sploitus.com/exploit?id=18E87B01-A14E-57E8-A3AB-E3DA945FB6B4&utm_source=rss&utm_medium=rss)
-  - [VaultSandbox exploit](https://sploitus.com/exploit?id=65ED52E1-A667-519F-AF19-4E3B5B85CAF0&utm_source=rss&utm_medium=rss)
-  - [Exploit for Use After Free in Linux Linux_Kernel](https://sploitus.com/exploit?id=DF775183-7DF1-5BC7-BBDC-1EA34A5B6E53&utm_source=rss&utm_medium=rss)
-  - [APKHunt exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CYBER-BUDDY-APKHUNT&utm_source=rss&utm_medium=rss)
-  - [CVE-2011-2523-vsFTPd-2.3.4-Writeup exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KN9ANNIHILATOR-CVE-2011-2523-VSFTPD-2.3.4-WRITEUP&utm_source=rss&utm_medium=rss)
-  - [cnitch exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NICHOLASJACKSON-CNITCH&utm_source=rss&utm_medium=rss)
-  - [CVE-2024-26229-exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RALFHACKER-CVE-2024-26229-EXPLOIT&utm_source=rss&utm_medium=rss)
-  - [-CVE-2014-6271 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KALETH4--CVE-2014-6271&utm_source=rss&utm_medium=rss)
-  - [CVE-2021-21315-PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FORBIDDENPROGRAMMER-CVE-2021-21315-POC&utm_source=rss&utm_medium=rss)
-  - [Webmin-CVE-2022-0824-revshell exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FAISALFS10X-WEBMIN-CVE-2022-0824-REVSHELL&utm_source=rss&utm_medium=rss)
-  - [CVE-2024-31819 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DREAM434-CVE-2024-31819&utm_source=rss&utm_medium=rss)
-  - [FireShodanMap exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WARFLOP-FIRESHODANMAP&utm_source=rss&utm_medium=rss)
-  - [trajan exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PRAETORIAN-INC-TRAJAN&utm_source=rss&utm_medium=rss)
-  - [CVE-2024-53407 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SYFI-CVE-2024-53407&utm_source=rss&utm_medium=rss)
-  - [swap_digger exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SEVAGAS-SWAP_DIGGER&utm_source=rss&utm_medium=rss)
-  - [omnisci3nt exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SPYBOY-PRODUCTIONS-OMNISCI3NT&utm_source=rss&utm_medium=rss)
-  - [camoufox exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DAIJRO-CAMOUFOX&utm_source=rss&utm_medium=rss)
-  - [CVE-2023-36845 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HALENCARJUNIOR-CVE-2023-36845&utm_source=rss&utm_medium=rss)
-  - [CVE-2011-0104-reproduction exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SUNQIZ-CVE-2011-0104-REPRODUCTION&utm_source=rss&utm_medium=rss)
-  - [CVE-2010-3333-reproduction exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SUNQIZ-CVE-2010-3333-REPRODUCTION&utm_source=rss&utm_medium=rss)
-  - [CVE-2025-29927-test exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KUZUSHIKI-CVE-2025-29927-TEST&utm_source=rss&utm_medium=rss)
-  - [CVE-2026-49975-POC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MRX-ARAFAT-CVE-2026-49975-POC&utm_source=rss&utm_medium=rss)
-  - [ntdissector exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SYNACKTIV-NTDISSECTOR&utm_source=rss&utm_medium=rss)
-  - [AtlasC2 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GR1MMIE-ATLASC2&utm_source=rss&utm_medium=rss)
-  - [DriverBuddyReloaded exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-VOIDSEC-DRIVERBUDDYRELOADED&utm_source=rss&utm_medium=rss)
-  - [linux-malware exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TIMB-MACHINE-LINUX-MALWARE&utm_source=rss&utm_medium=rss)
-  - [CVE-2026-14762-PoC-Exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TC4DY-CVE-2026-14762-POC-EXPLOIT&utm_source=rss&utm_medium=rss)
-  - [CVE-2025-32433_Erlang-OTP_PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ABREWER251-CVE-2025-32433_ERLANG-OTP_POC&utm_source=rss&utm_medium=rss)
-- Jiajun的技术笔记
-  - [读 《明朝那些事儿》](https://jiajunhuang.com/articles/2026_10_05-mingchaonaxieshier.md.html)
 - SecWiki News
   - [SecWiki News 2026-10-05 Review](http://www.sec-wiki.com/?2026-10-05)
-- Darknet – Hacking Tools, Hacker News & Cyber Security
-  - [Response Overview and Colonel Clustered – Grouping Burp Responses by Content](https://www.darknet.org.uk/2026/10/response-overview-colonel-clustered-burp-response-grouping/)
 - Recent Commits to cve:main
   - [Update Mon Oct  5 13:14:12 UTC 2026](https://github.com/trickest/cve/commit/325fdd80f7166a034fee4afb2d3195baaa8f7e20)
-- Shell is Only the Beginning
-  - [MFA Passed. The Attacker Still Got In.](https://www.darkoperator.com/blog/2026/10/5/mfa-passed-the-attacker-still-got-in)
 - Darknet – Hacking Tools, Hacker News & Cyber Security
   - [Response Overview and Colonel Clustered – Grouping Burp Responses by Content](https://www.darknet.org.uk/2026/10/response-overview-colonel-clustered-burp-response-grouping/)
+- Jiajun的技术笔记
+  - [读 《明朝那些事儿》](https://jiajunhuang.com/articles/2026_10_05-mingchaonaxieshier.md.html)
+- Darknet – Hacking Tools, Hacker News & Cyber Security
+  - [Response Overview and Colonel Clustered – Grouping Burp Responses by Content](https://www.darknet.org.uk/2026/10/response-overview-colonel-clustered-burp-response-grouping/)
+- Shell is Only the Beginning
+  - [MFA Passed. The Attacker Still Got In.](https://www.darkoperator.com/blog/2026/10/5/mfa-passed-the-attacker-still-got-in)
+- Shell is Only the Beginning
+  - [MFA Passed. The Attacker Still Got In.](https://www.darkoperator.com/blog/2026/10/5/mfa-passed-the-attacker-still-got-in)
 - Kitploit — Hacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!
   - [qyvora-anansi](https://kitploit.com/en/tools/github/qyvora/qyvora-anansi)
   - [RedditOSINT](https://kitploit.com/en/tools/github/albertrg99/redditosint)
@@ -73,12 +45,6 @@
   - [[2026]ClaudeCode(2.1.283)逆向和完整遥测分析](https://key08.com/index.php/2026/10/05/3348.html)
 - GuidePoint Security
   - [7 Ways to Make Security Awareness Actually Work](https://www.guidepointsecurity.com/blog/7-ways-to-make-security-awareness-actually-work/)
-- Reverse Engineering
-  - [/r/ReverseEngineering's Weekly Questions Thread](https://www.reddit.com/r/ReverseEngineering/comments/1wy1wqk/rreverseengineerings_weekly_questions_thread/)
-  - [iOS 27.0.1 ImageIO — GPSCopy OOB-write (silently patched in 27.2 beta)](https://www.reddit.com/r/ReverseEngineering/comments/1wykp9y/ios_2701_imageio_gpscopy_oobwrite_silently/)
-  - [Testing my Browser Based SaavyCAN-style Program](https://www.reddit.com/r/ReverseEngineering/comments/1wykhcx/testing_my_browser_based_saavycanstyle_program/)
-  - [I turned a low-cost RP2040-Zero into a FIDO2/WebAuthn security key](https://www.reddit.com/r/ReverseEngineering/comments/1wyivrg/i_turned_a_lowcost_rp2040zero_into_a/)
-  - [Python Shellcode-Anydesk-Apc-injection-Remote-IP-Address](https://www.reddit.com/r/ReverseEngineering/comments/1wy3mv8/python_shellcodeanydeskapcinjectionremoteipaddress/)
 - Malwarebytes
   - [Google pauses open source bug bounty program after rise in AI submissions](https://www.malwarebytes.com/blog/news/2026/10/google-pauses-open-source-bug-bounty-program-after-rise-in-ai-submissions)
   - [Proposed anti-Flock bills could spell trouble for license plate readers](https://www.malwarebytes.com/blog/news/2026/10/proposed-anti-flock-bills-could-spell-trouble-for-license-plate-readers)
@@ -86,10 +52,14 @@
 - Malware-Traffic-Analysis.net - Blog Entries
   - [2026-10-02: Atomic macOS (AMOS) Stealer infection from malicious ad impersonating Claude Code](https://www.malware-traffic-analysis.net/2026/10/02/index.html)
   - [2026-10-01: Traffic analysis exercise - Natureforce](https://www.malware-traffic-analysis.net/2026/10/01/index.html)
-- Shell is Only the Beginning
-  - [MFA Passed. The Attacker Still Got In.](https://www.darkoperator.com/blog/2026/10/5/mfa-passed-the-attacker-still-got-in)
 - PortSwigger Research
   - [Smashing the token limit with overlapping fragments](https://portswigger.net/research/smashing-the-token-limit)
+- Reverse Engineering
+  - [/r/ReverseEngineering's Weekly Questions Thread](https://www.reddit.com/r/ReverseEngineering/comments/1wy1wqk/rreverseengineerings_weekly_questions_thread/)
+  - [iOS 27.0.1 ImageIO — GPSCopy OOB-write (silently patched in 27.2 beta)](https://www.reddit.com/r/ReverseEngineering/comments/1wykp9y/ios_2701_imageio_gpscopy_oobwrite_silently/)
+  - [Testing my Browser Based SaavyCAN-style Program](https://www.reddit.com/r/ReverseEngineering/comments/1wykhcx/testing_my_browser_based_saavycanstyle_program/)
+  - [I turned a low-cost RP2040-Zero into a FIDO2/WebAuthn security key](https://www.reddit.com/r/ReverseEngineering/comments/1wyivrg/i_turned_a_lowcost_rp2040zero_into_a/)
+  - [Python Shellcode-Anydesk-Apc-injection-Remote-IP-Address](https://www.reddit.com/r/ReverseEngineering/comments/1wy3mv8/python_shellcodeanydeskapcinjectionremoteipaddress/)
 - rtl-sdr.com
   - [HamRadioWeb FT8 WSJTx JTDX Remote Control Android App](https://www.rtl-sdr.com/hamradioweb-ft8-wsjtx-jtdx-remote-control-android-app/)
   - [OFFgrid-SDR: A Fully Offline RTL-SDR Receiver Program in a Single Index.html File](https://www.rtl-sdr.com/offgrid-sdr-a-fully-offline-rtl-sdr-receiver-program-in-a-single-index-html-file/)
@@ -100,22 +70,23 @@
   - [因涌入大量 AI 报告 Google 冻结其 Bug 悬赏计划](https://www.solidot.org/story?sid=85538)
   - [2026 年诺贝尔生理学或医学奖授予了三位研究光遗传学的科学家](https://www.solidot.org/story?sid=85537)
   - [Riot Games 否认根据 CPU 封禁玩家](https://www.solidot.org/story?sid=85536)
-- 我的安全视界观
-  - [我的读书笔记：禁止脱离一线](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488087&idx=1&sn=fde5f67279ea0dc7de25e9b1ff33d325)
 - 黑鸟
   - [当间谍软件CEO称：我们看不见客户在监视谁也没有终止开关](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189137&idx=1&sn=df37a63c47130119b37045d3f813bcb6)
-- 看雪学苑
-  - [Frida 脚本运行时机与Java.perform的原理](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622476&idx=2&sn=9a48dac0ed0ce562e5101b3a71be950d)
-- 安全分析与研究
-  - [AI事件取证与证据保全](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497242&idx=1&sn=159fdc61bbe585b929fb705e708616b0)
+- 我的安全视界观
+  - [AI加持事件解剖：重排安全建设优先级](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488112&idx=1&sn=371359380a4ab03750cb2bde66fc23a2)
+  - [我的读书笔记：禁止脱离一线](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488087&idx=1&sn=fde5f67279ea0dc7de25e9b1ff33d325)
 - 天御攻防实验室
   - [进攻前沿：人工智能即攻击者](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487224&idx=1&sn=e65a318daa7175f9adcbc262add3a835)
-- 极客公园
-  - [马斯克将旗下人工智能业务更名为 SpaceXSI；Altman 称 AI 发展应容忍一定风险；小米 Vision GT 将入驻《GT7》游戏｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114448&idx=1&sn=cd8f9eb081a3d5f656d1c94db69addf7)
 - 安全圈
   - [【安全圈】Rejetto HFS曝9.3分严重漏洞：弱伪随机数致伪造Session，攻击者已发起在野RCE](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079252&idx=1&sn=27d52e5023be1b08d85484694c83e55f)
   - [【安全圈】Citrix NetScaler曝在野0day漏洞：内存溢出瘫痪SAML认证，官方发布紧急更新](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079252&idx=2&sn=d59ca16d10d3aae18e8132acfefda2bd)
   - [【安全圈】FortiMail曝9.8分零日漏洞遭在野利用：未认证任意写入文件，官方发布应急工单与IoC](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079252&idx=3&sn=b498b139b0b5663aaf0c2f9128dc5504)
+- 安全分析与研究
+  - [AI事件取证与证据保全](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497242&idx=1&sn=159fdc61bbe585b929fb705e708616b0)
+- 看雪学苑
+  - [Frida 脚本运行时机与Java.perform的原理](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622476&idx=2&sn=9a48dac0ed0ce562e5101b3a71be950d)
+- 极客公园
+  - [马斯克将旗下人工智能业务更名为 SpaceXSI；Altman 称 AI 发展应容忍一定风险；小米 Vision GT 将入驻《GT7》游戏｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114448&idx=1&sn=cd8f9eb081a3d5f656d1c94db69addf7)
 - Over Security
   - [OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/)
   - [Wikimedia Foundation: OpenAI agents tried to edit pages and compromise notes tool](https://therecord.media/wikimedia-foundation-openai-agents-report)
@@ -153,17 +124,19 @@
   - [Japan Plans Major Cyber Hunt to Detect Hidden Attacks on Critical Infrastructure](https://thecyberexpress.com/japan-threat-hunting-plan/)
 - IT Service Management News
   - [Stato degli standard ISO/IEC 270xx (ottobre 2026)](http://blog.cesaregallotti.it/2026/10/stato-degli-standard-isoiec-270xx.html)
+- Schneier on Security
+  - [Another Historic Cipher Falls to AI](https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html)
+- Krypt3ia
+  - [Weekly All-Source Espionage Intelligence Brief 10.5.26](https://krypt3ia.wordpress.com/2026/10/05/weekly-all-source-espionage-intelligence-brief-10-5-26/)
+- Javvad Malik
+  - [Breach of Confidence — 05 October 2026](https://javvadmalik.com/2026/10/05/breach-of-confidence-05-october-2026/)
+- 丁爸 情报分析师的工具箱
+  - [情报分析师培训课程（三）情报学科与全源分析（2）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157684&idx=1&sn=d3bff400fa11ce665c20978b50035b2a)
 - SANS Internet Storm Center, InfoCON: green
   - [ISC Stormcast For Monday, October 5th, 2026 https://isc.sans.edu/podcastdetail/10122, (Mon, Oct 5th)](https://isc.sans.edu/diary/rss/33398)
   - [TTY Logs and the Data it Captures, (Sun, Oct 4th)](https://isc.sans.edu/diary/rss/33396)
-- Javvad Malik
-  - [Breach of Confidence — 05 October 2026](https://javvadmalik.com/2026/10/05/breach-of-confidence-05-october-2026/)
 - Shell is Only the Beginning
   - [MFA Passed. The Attacker Still Got In.](https://www.darkoperator.com/blog/2026/10/5/mfa-passed-the-attacker-still-got-in)
-- Schneier on Security
-  - [Another Historic Cipher Falls to AI](https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html)
-- Computer Forensics
-  - [Free resources for FOR500](https://www.reddit.com/r/computerforensics/comments/1wykf25/free_resources_for_for500/)
 - Security Affairs
   - [Anthropic Mythos Found A Bug in Rejetto HFS. Attackers Are Now Exploiting It.](https://securityaffairs.com/200444/ai/anthropic-mythos-found-a-bug-in-rejetto-hfs-attackers-are-now-exploiting-it.html)
   - [Denmark ’s Population Registry Breached, 8.8 Million Affected](https://securityaffairs.com/200437/data-breach/denmark-s-population-registry-breached-8-8-million-affected.html)
@@ -171,6 +144,16 @@
   - [MI5 Raises Alarm Over Chinese Funding of UK Academic Research](https://securityaffairs.com/200396/intelligence/mi5-raises-alarm-over-chinese-funding-of-uk-academic-research.html)
   - [Iranian hacker accused of draining 31TB from university inboxes extradited to the US](https://securityaffairs.com/200387/security/iranian-hacker-accused-of-draining-31tb-from-university-inboxes-extradited-to-the-us.html)
   - [Another OpenAI Safety Expert Quits and Raises New AI Safety Concerns](https://securityaffairs.com/200372/security/another-openai-safety-expert-quits-and-raises-new-ai-safety-concerns.html)
+- The Hacker News
+  - [Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes](https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html)
+  - [⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests](https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html)
+  - [The Credential Layer Is Expanding Faster Than Security Teams Can See It](https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html)
+  - [Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2](https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html)
+  - [Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access](https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html)
+  - [Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE](https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html)
+  - [New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline](https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html)
+- Computer Forensics
+  - [Free resources for FOR500](https://www.reddit.com/r/computerforensics/comments/1wykf25/free_resources_for_for500/)
 - KitPloit - PenTest Tools!
   - [qyvora-anansi](https://kitploit.com/en/tools/github/qyvora/qyvora-anansi)
   - [RedditOSINT](https://kitploit.com/en/tools/github/albertrg99/redditosint)
@@ -198,17 +181,5 @@
   - [advisories](https://kitploit.com/en/tools/github/atredispartners/advisories)
   - [dbeaver v26.2.2](https://kitploit.com/en/posts/dbeaver-03454b83e34d0138)
   - [bruno](https://kitploit.com/en/tools/github/usebruno/bruno)
-- The Hacker News
-  - [Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes](https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html)
-  - [⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests](https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html)
-  - [The Credential Layer Is Expanding Faster Than Security Teams Can See It](https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html)
-  - [Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2](https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html)
-  - [Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access](https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html)
-  - [Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE](https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html)
-  - [New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline](https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html)
-- Krypt3ia
-  - [Weekly All-Source Espionage Intelligence Brief 10.5.26](https://krypt3ia.wordpress.com/2026/10/05/weekly-all-source-espionage-intelligence-brief-10-5-26/)
-- Security Weekly Podcast Network (Audio)
-  - [State of the AI SOC, regulating AI, and can AI agents feel pain? - Aqsa Taylor - ESW #479](http://sites.libsyn.com/18678/state-of-the-ai-soc-regulating-ai-and-can-ai-agents-feel-pain-aqsa-taylor-esw-479)
 - 希潭实验室
   - [第175篇：JPQL 注入在 Oracle 数据库中的利用研究（突破ORM限制）](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247488605&idx=1&sn=1d870b029518a8c30c2b2e6072c98c85)
