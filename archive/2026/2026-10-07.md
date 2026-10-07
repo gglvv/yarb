@@ -1,15 +1,15 @@
 # 每日安全资讯（2026-10-07）
 
-- SecWiki News
-  - [SecWiki News 2026-10-06 Review](http://www.sec-wiki.com/?2026-10-06)
 - Armin Ronacher's Thoughts and Writings
   - [What is Codemode](https://lucumr.pocoo.org/2026/10/6/codemode/)
-- Recent Commits to cve:main
-  - [Update Tue Oct  6 12:13:24 UTC 2026](https://github.com/trickest/cve/commit/c6af2252b86f1dba00e2ecf1a58b91efa49a0611)
+- SecWiki News
+  - [SecWiki News 2026-10-06 Review](http://www.sec-wiki.com/?2026-10-06)
 - Tenable Blog
   - [How to mitigate the risk from AI-generated apps built by your 'citizen coder' employees](https://www.tenable.com/blog/how-to-secure-mitigate-ai-risk-vibe-coding-ai-apps-citizen-coders)
 - Microsoft Security Blog
   - [CISO perspectives on managing vulnerability risks in the age of AI](https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/)
+- Recent Commits to cve:main
+  - [Update Tue Oct  6 12:13:24 UTC 2026](https://github.com/trickest/cve/commit/c6af2252b86f1dba00e2ecf1a58b91efa49a0611)
 - 博客
   - [install sshd on windows11](https://dyrnq.com/install-sshd-on-windows11/)
 - Pentest Blog
@@ -43,6 +43,12 @@
   - [CVE-2026-21589 | Atlassian Data Center Products Unauthenticated Arbitrary File Read Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-21589/)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]一个token问题导致tsecbench-CTF的A-18(CloudFunc)做不出来](https://key08.com/index.php/2026/10/06/3360.html)
+- Binary Ninja
+  - [Reversing Engineering a Captive Portal](https://binary.ninja/2026/10/06/reverse-engineering-airbnb-captive-portal.html)
+- Malwarebytes
+  - [ASOS “hackers” send push notifications to customers](https://www.malwarebytes.com/blog/news/2026/10/asos-hackers-send-push-notifications-to-customers)
+  - [Facebook Marketplace scam uses your name and number](https://www.malwarebytes.com/blog/threat-intel/2026/10/facebook-marketplace-phish-uses-your-name-and-number)
+  - [Domino’s customers targeted in credential stuffing attacks](https://www.malwarebytes.com/blog/news/2026/10/dominos-customers-targeted-in-credential-stuffing-attacks)
 - Reverse Engineering
   - [Reverse engineering a Magelight XP glitch in Skyrim](https://www.reddit.com/r/ReverseEngineering/comments/1wzexqi/reverse_engineering_a_magelight_xp_glitch_in/)
   - [I made this javascript deobfuscator for https://github.com/javascript-obfuscator/javascript-obfuscator](https://www.reddit.com/r/ReverseEngineering/comments/1wz4yj8/i_made_this_javascript_deobfuscator_for/)
@@ -51,29 +57,23 @@
   - [iOS 27.2 beta: silent hardening in ImageIO ASTC decoder — structural, zero-click candidate](https://www.reddit.com/r/ReverseEngineering/comments/1wz9rrk/ios_272_beta_silent_hardening_in_imageio_astc/)
   - [Testing my Browser Based SaavyCAN-style Program](https://www.reddit.com/r/ReverseEngineering/comments/1wyqnrr/testing_my_browser_based_saavycanstyle_program/)
   - [Is it possible to decompile the source code of Mario Kart Arcade GP DX with AI?](https://www.reddit.com/r/ReverseEngineering/comments/1wz0cdf/is_it_possible_to_decompile_the_source_code_of/)
-- Malwarebytes
-  - [ASOS “hackers” send push notifications to customers](https://www.malwarebytes.com/blog/news/2026/10/asos-hackers-send-push-notifications-to-customers)
-  - [Facebook Marketplace scam uses your name and number](https://www.malwarebytes.com/blog/threat-intel/2026/10/facebook-marketplace-phish-uses-your-name-and-number)
-  - [Domino’s customers targeted in credential stuffing attacks](https://www.malwarebytes.com/blog/news/2026/10/dominos-customers-targeted-in-credential-stuffing-attacks)
-- Binary Ninja
-  - [Reversing Engineering a Captive Portal](https://binary.ninja/2026/10/06/reverse-engineering-airbnb-captive-portal.html)
-- PortSwigger Research
-  - [The model isn't cooperating](https://portswigger.net/research/the-model-isnt-cooperating)
 - Whwlsfb's Tech Blog
   - [hacked by trenggalek6etar](https://blog.wanghw.cn/uncategorized/cox-htm-2.html)
-- Light Cube
-  - [LightCube 11 周年：AI 一天，人间一年](https://github.red/lightcube-11th/)
+- PortSwigger Research
+  - [The model isn't cooperating](https://portswigger.net/research/the-model-isnt-cooperating)
 - rtl-sdr.com
   - [ESPsoup: Turn an ESP32-C5 into a 2.4 & 5 GHz Pocket Scanner with a Connected Phone or PC](https://www.rtl-sdr.com/espsoup-turn-an-esp32-c5-into-a-2-4-5-ghz-pocket-scanner-with-a-connected-phone-or-pc/)
   - [ChronAlert: Live Dashboard for Radio, Weather, Alerts with RTL-SDR Integration for APRS, ADS-B and AIS](https://www.rtl-sdr.com/chronalert-live-dashboard-for-radio-weather-alerts-with-rtl-sdr-integration-for-aprs-ads-b-and-ais/)
-- 安全小飞侠
-  - [看我如何使用Trae全程用AI开发了Dota游戏](https://mp.weixin.qq.com/s?__biz=MzAwMzAwOTQ5Nw==&mid=2650942092&idx=1&sn=00d6ca3834148cc43f14020a86115af3)
-- 黑鸟
-  - [德国前联邦情报局局长涉嫌叛国性间谍活动被捕](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189146&idx=1&sn=d810b9ff19978d7df8ef9e49de36c643)
 - 奇客Solidot–传递最新科技情报
   - [Anthropic 举报了与 Claude 聊天中发出威胁的佛罗里达女子](https://www.solidot.org/story?sid=85542)
   - [2026 年诺贝尔物理奖授予了冰立方中微子天文台提出者 Francis Halzen](https://www.solidot.org/story?sid=85541)
   - [俄罗斯女研究员因感染肺鼠疫死亡](https://www.solidot.org/story?sid=85540)
+- Light Cube
+  - [LightCube 11 周年：AI 一天，人间一年](https://github.red/lightcube-11th/)
+- 安全小飞侠
+  - [看我如何使用Trae全程用AI开发了Dota游戏](https://mp.weixin.qq.com/s?__biz=MzAwMzAwOTQ5Nw==&mid=2650942092&idx=1&sn=00d6ca3834148cc43f14020a86115af3)
+- 黑鸟
+  - [德国前联邦情报局局长涉嫌叛国性间谍活动被捕](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189146&idx=1&sn=d810b9ff19978d7df8ef9e49de36c643)
 - 看雪学苑
   - [SDC2026议题预告 | Storm: AI审计时代下，Fuzzing还有用吗？](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622477&idx=1&sn=f2c191d14db906abbec6c22d22c45510)
   - [基于CVD的云手机定制与风控分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622477&idx=2&sn=6718ce5fec2766d9640c83654337421b)
@@ -83,6 +83,13 @@
   - [【安全圈】Atlassian曝9.3分严重漏洞：未授权遍历直读8款企业核心系统文件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079263&idx=3&sn=47f789aeec583972796579ec1b4b8172)
 - 安全分析与研究
   - [自主漏洞发现与利用生成](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497246&idx=1&sn=c4c0d6bb4764198995a717bbf5bc1cef)
+- 极客公园
+  - [不写代码的人，正在涌入 GitHub](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114305&idx=1&sn=041b930f33fa9034c1cf24442c8e1791)
+  - [OpenAI 宣布「28 天计划」，持续改进 Codex、Work；TikTok 上线一系列 AI 电商功能；蓝色起源公布月球「动力塔计划」 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114463&idx=1&sn=ba38afc84276dd04583e6f1c729e9ff9)
+- TrustedSec
+  - [Logging is a Discipline, Not a Switch](https://trustedsec.com/blog/logging-is-a-discipline-not-a-switch)
+- NETRESEC Network Security Blog
+  - [Stop Feeding the SOC Garbage](https://www.netresec.com/?page=Blog&month=2026-10&post=Stop-Feeding-the-SOC-Garbage)
 - Over Security
   - [Ninja Forms plugin flaw exploited to hack WordPress sites](https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/)
   - [Hackers exploit 32 zero-days on first day of Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/)
@@ -102,15 +109,19 @@
   - [Shares in British clothing company ASOS dive after hackers apparently send push notification](https://therecord.media/asos-push-notification-apparently-sent-by-hackers)
   - [Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits](https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/)
   - [IronChain Ransomware Threatens Businesses with Permanent Data Loss and Costly Downtime](https://any.run/cybersecurity-blog/ironchain-analysis/)
-  - [Cybertech Europe 2026: AI e resilienza ridisegnano la cyber security europea](https://www.cybersecurity360.it/cultura-cyber/cybertech-europe-2026-ai-e-resilienza-ridisegnano-la-cyber-security-europea/)
-  - [Torna la “truffa della ballerina”: falsi concorsi su WhatsApp per sottrarre gli account](https://cert-agid.gov.it/news/torna-la-truffa-della-ballerina-falsi-concorsi-su-whatsapp-per-sottrarre-gli-account/)
-  - [Dipendenza cognitiva dall’AI: quando deleghiamo alla macchina anche il dubbio](https://www.cybersecurity360.it/cultura-cyber/dipendenza-cognitiva-dallai-quando-deleghiamo-alla-macchina-anche-il-dubbio/)
-  - [From Detonation to Detection: The Sandbox Now Writes the Rules](https://www.group-ib.com/blog/from-detonation-to-detection-sandbox-rules/)
-- 极客公园
-  - [不写代码的人，正在涌入 GitHub](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114305&idx=1&sn=041b930f33fa9034c1cf24442c8e1791)
-  - [OpenAI 宣布「28 天计划」，持续改进 Codex、Work；TikTok 上线一系列 AI 电商功能；蓝色起源公布月球「动力塔计划」 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114463&idx=1&sn=ba38afc84276dd04583e6f1c729e9ff9)
+- Microsoft Security Blog
+  - [CISO perspectives on managing vulnerability risks in the age of AI](https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/)
 - ICT Security Magazine
   - [Sicurezza digitale e vulnerabilità al phishing: profilo demografico e abitudini](https://www.ictsecuritymagazine.com/articoli/vulnerabilita-al-phishing/)
+- bellingcat
+  - [Groups Associated With India’s Far-Right Receive Millions Through US Donor-Advised Funds](https://www.bellingcat.com/news/2026/10/06/dafs-india-rss-donations/)
+- SEI Blog
+  - [Navigating Program Complexity with the Waypoints Framework](https://www.sei.cmu.edu/blog/navigating-program-complexity-with-the-waypoints-framework/?utm_source=blog&utm_medium=rss&utm_campaign=my_site_updates)
+- SANS Internet Storm Center, InfoCON: green
+  - [More RMM Tools In the Wild, (Tue, Oct 6th)](https://isc.sans.edu/diary/rss/33400)
+  - [ISC Stormcast For Tuesday, October 6th, 2026 https://isc.sans.edu/podcastdetail/10124, (Tue, Oct 6th)](https://isc.sans.edu/diary/rss/33402)
+- Schneier on Security
+  - [Possible Vulnerability in Apple’s Automatic Reboot](https://www.schneier.com/blog/archives/2026/10/possible-vulnerability-in-apples-automatic-reboot.html)
 - Full Disclosure
   - [[0day-rubbish] StreamSets Transformer 3.17.0 auth-mode none fallback and un-sandboxed ScalaDTransform execution to container root (8.1 primary)](https://seclists.org/fulldisclosure/2026/Oct/8)
   - [[0day-rubbish] RCDevs WebADM 2.4.14 authenticated log viewer sid command injection to webadm uid 999 code execution (7.2)](https://seclists.org/fulldisclosure/2026/Oct/7)
@@ -121,19 +132,24 @@
   - [[0day-rubbish] Advantech WebAccess Node 9.2.3 unauthenticated CrystalRpt.aspx file upload and path traversal to code execution in w3wp.exe (9.8)](https://seclists.org/fulldisclosure/2026/Oct/2)
   - [SEC Consult Research 20261001 :: Arbitrary Email sender spoofing in Apple iCloud mail](https://seclists.org/fulldisclosure/2026/Oct/1)
   - [SEC Consult SA-20260924-0 :: Multiple Vulnerabilities in Paessler PRTG Network Monitor #CVE-2026-4637 #CVE-2026-4638](https://seclists.org/fulldisclosure/2026/Oct/0)
-- Microsoft Security Blog
-  - [CISO perspectives on managing vulnerability risks in the age of AI](https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/)
-- Schneier on Security
-  - [Possible Vulnerability in Apple’s Automatic Reboot](https://www.schneier.com/blog/archives/2026/10/possible-vulnerability-in-apples-automatic-reboot.html)
+- Deep Web
+  - [Hello guys..back with new question](https://www.reddit.com/r/deepweb/comments/1wzcgac/hello_guysback_with_new_question/)
 - Security Affairs
   - [CVE-2026-96940: Microsoft Fixes Exchange Server Flaw For Which Exploitation Is More Likely](https://securityaffairs.com/200476/security/cve-2026-96940-microsoft-fixes-high-severity-exchange-server-flaw.html)
   - [FBI Drops Accenture Contractor After Sensitive Data Breach](https://securityaffairs.com/200468/data-breach/fbi-drops-accenture-contractor-after-sensitive-data-breach.html)
   - [Dell Urges Customers to Patch Critical DSU Flaw That Can Give Attackers Root Access](https://securityaffairs.com/200458/security/dell-urges-customers-to-patch-critical-dsu-flaw-that-can-give-attackers-root-access.html)
   - [ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure](https://securityaffairs.com/200450/uncategorized/clingstun-linux-backdoor-abuses-public-stun-infrastructure.html)
-- Blackhat Library: Hacking techniques and research
-  - [I rebuilt Hacker Experience for browser: Zero Traced is now in open beta and free.](https://www.reddit.com/r/blackhat/comments/1wz551x/i_rebuilt_hacker_experience_for_browser_zero/)
-- TrustedSec
-  - [Logging is a Discipline, Not a Switch](https://trustedsec.com/blog/logging-is-a-discipline-not-a-switch)
+- The Hacker News
+  - [Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes](https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html)
+  - [Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan](https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html)
+  - [LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings](https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html)
+  - [Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies](https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html)
+  - [Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers](https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html)
+  - [Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports](https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html)
+  - [Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products](https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html)
+  - [FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach](https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html)
+  - [Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account](https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html)
+  - [ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits](https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html)
 - KitPloit - PenTest Tools!
   - [Decretum](https://kitploit.com/en/tools/github/opposum0112/decretum)
   - [vedas-signatures](https://kitploit.com/en/tools/github/arpsyndicate/vedas-signatures)
@@ -159,28 +175,5 @@
   - [sliver-gui](https://kitploit.com/en/tools/github/sliverarmory/sliver-gui)
   - [trufflehog v3.98.0](https://kitploit.com/en/posts/trufflehog-7a1802670dd7e275)
   - [rea](https://kitploit.com/en/tools/github/morluto/rea)
-- The Hacker News
-  - [Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes](https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html)
-  - [Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan](https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html)
-  - [LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings](https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html)
-  - [Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies](https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html)
-  - [Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers](https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html)
-  - [Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports](https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html)
-  - [Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products](https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html)
-  - [FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach](https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html)
-  - [Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account](https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html)
-  - [ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits](https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html)
-- SEI Blog
-  - [Navigating Program Complexity with the Waypoints Framework](https://www.sei.cmu.edu/blog/navigating-program-complexity-with-the-waypoints-framework/?utm_source=blog&utm_medium=rss&utm_campaign=my_site_updates)
-- SANS Internet Storm Center, InfoCON: green
-  - [More RMM Tools In the Wild, (Tue, Oct 6th)](https://isc.sans.edu/diary/rss/33400)
-  - [ISC Stormcast For Tuesday, October 6th, 2026 https://isc.sans.edu/podcastdetail/10124, (Tue, Oct 6th)](https://isc.sans.edu/diary/rss/33402)
-- NETRESEC Network Security Blog
-  - [Stop Feeding the SOC Garbage](https://www.netresec.com/?page=Blog&month=2026-10&post=Stop-Feeding-the-SOC-Garbage)
-- bellingcat
-  - [Groups Associated With India’s Far-Right Receive Millions Through US Donor-Advised Funds](https://www.bellingcat.com/news/2026/10/06/dafs-india-rss-donations/)
-- Security Weekly Podcast Network (Audio)
-  - [Typing, textGrain, NetScaler, Fortinet, Copilot, LibreOffice, Dots, Aaran Leyland - SWN #622](http://sites.libsyn.com/18678/typing-textgrain-netscaler-fortinet-copilot-libreoffice-dots-aaran-leyland-swn-622)
-  - [Getting Granular with Access, Attributes, and Intent - Alex Olivier - ASW #403](http://sites.libsyn.com/18678/getting-granular-with-access-attributes-and-intent-alex-olivier-asw-403)
 - Project Zero
   - [How to fix a bug in a fix](https://projectzero.google/2026/10/emergency-patching.html)
