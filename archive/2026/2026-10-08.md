@@ -2,13 +2,13 @@
 
 - Recent Commits to cve:main
   - [Update Wed Oct  7 12:41:07 UTC 2026](https://github.com/trickest/cve/commit/a6dfe9afee6759363e680c57338ea9c2017f3903)
-- SecWiki News
-  - [SecWiki News 2026-10-07 Review](http://www.sec-wiki.com/?2026-10-07)
 - obaby 𝐢‍𝐧⃝ void
   - [好好吃饭](https://zhongxiaojie.cn/2026/10/2065/)
   - [低配机器也能跑的大模型 qwen3.8-flash-next-iq3_xxs](https://zhongxiaojie.cn/2026/10/2058/)
 - Microsoft Security Blog
   - [3 lessons from frontier AI vulnerability research](https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/)
+- SecWiki News
+  - [SecWiki News 2026-10-07 Review](http://www.sec-wiki.com/?2026-10-07)
 - Kitploit — Hacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!
   - [Perturbed-Embedding-Vectors](https://kitploit.com/en/tools/github/abhinavdubey30/perturbed-embedding-vectors)
   - [Aliens_eye](https://kitploit.com/en/tools/github/arxhr007/aliens_eye)
@@ -31,12 +31,6 @@
   - [Scrapegraph-ai v2.3.1](https://kitploit.com/en/posts/scrapegraph-ai-8f1af56e9e493854)
   - [javascript-deobfuscator](https://kitploit.com/en/tools/github/lolcaken/javascript-deobfuscator)
   - [shannon v3.4.0](https://kitploit.com/en/posts/shannon-de25aed19d8084f1)
-- GuidePoint Security
-  - [aws-auth ConfigMap Deprecated – EKS Access Entries Are the Way Forward](https://www.guidepointsecurity.com/blog/aws-auth-config-map-deprecated/)
-- Reverse Engineering
-  - [Rebuilding Moonstone (1991) from 68k machine code into readable, moddable C++ for the Amiga 1200](https://www.reddit.com/r/ReverseEngineering/comments/1x03pux/rebuilding_moonstone_1991_from_68k_machine_code/)
-- Whwlsfb's Tech Blog
-  - [hacked by trenggalek6etar](https://blog.wanghw.cn/uncategorized/f12ecb1032b0.html)
 - Horizon3
   - [Zammad CVE-2026-102489: Session Leak to RCE](https://horizon3.ai/attack-research/disclosures/cve-2026-102489-zammad-session-leak-rce/)
 - Malwarebytes
@@ -44,45 +38,45 @@
   - [AI-powered phishkit arms criminals with account-hijacking tools in 10 minutes](https://www.malwarebytes.com/blog/threat-intel/2026/10/ai-powered-phishkit-arms-criminals-with-account-hijacking-tools-in-10-minutes)
   - [Update Chrome and ChromeOS to fix critical security issues](https://www.malwarebytes.com/blog/bugs/2026/10/update-chrome-and-chromeos-to-fix-critical-security-issues)
   - [Another ShinyHunters suspect arrested](https://www.malwarebytes.com/blog/news/2026/10/another-shinyhunters-suspect-arrested)
+- Reverse Engineering
+  - [Rebuilding Moonstone (1991) from 68k machine code into readable, moddable C++ for the Amiga 1200](https://www.reddit.com/r/ReverseEngineering/comments/1x03pux/rebuilding_moonstone_1991_from_68k_machine_code/)
+- GuidePoint Security
+  - [aws-auth ConfigMap Deprecated – EKS Access Entries Are the Way Forward](https://www.guidepointsecurity.com/blog/aws-auth-config-map-deprecated/)
 - Intigriti
   - [Beyond asset discovery. Real-life CrowdRecon use case explored](https://www.intigriti.com/blog/business-insights/beyond-asset-discovery-real-life-crowdrecon-use-case-explored)
-- daniel.haxx.se
-  - [Twenty-two pending curl vulnerabilities](https://daniel.haxx.se/blog/2026/10/07/twenty-two-pending-curl-vulnerabilities/)
 - rtl-sdr.com
   - [ESP32-SDR: Turbo Mode Throughput Improvement + Real I/Q Output](https://www.rtl-sdr.com/esp32-sdr-turbo-mode-throughput-improvement-real-i-q-output/)
   - [esp32-sdr-trx: Use an ESP32-S3 as a Receiver for SDR++ and as an FM/SSB Voice Transmitter on 13cm](https://www.rtl-sdr.com/esp32-sdr-trx-use-an-esp32-s3-as-a-receiver-for-sdr-and-as-an-fm-ssb-voice-transmitter-on-13cm/)
-- 奇客Solidot–传递最新科技情报
-  - [2026 年诺贝尔化学奖授予了日法科学家](https://www.solidot.org/story?sid=85543)
-- 黑鸟
-  - [一环扣一环的求职骗局，从简历投递到内网隧道完整入侵](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189173&idx=1&sn=920a0ccc154ccdb3445c3e3c1a3d8648)
+- Whwlsfb's Tech Blog
+  - [hacked by trenggalek6etar](https://blog.wanghw.cn/uncategorized/f12ecb1032b0.html)
 - 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
   - [Muse.ai 注册教程：每周 10 亿 Tokens，AI 智能体+视频生成实测](https://blog.upx8.com/Muse-ai-10-Tokens-AI)
-- 看雪学苑
-  - [SDC2026议题预告 | 从漏洞检测到利用：知识驱动的 RISC-V 硬件安全分析技术](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622478&idx=1&sn=7a92ebdda86657e461928698f749424a)
-  - [当漏洞挖掘遇上 AI Agent：主流企业防火墙 0day 挖掘实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622478&idx=2&sn=2493f1ae2222a727e9420c80bc719906)
+- 黑鸟
+  - [一环扣一环的求职骗局，从简历投递到内网隧道完整入侵](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189173&idx=1&sn=920a0ccc154ccdb3445c3e3c1a3d8648)
+- daniel.haxx.se
+  - [Twenty-two pending curl vulnerabilities](https://daniel.haxx.se/blog/2026/10/07/twenty-two-pending-curl-vulnerabilities/)
+- 奇客Solidot–传递最新科技情报
+  - [2026 年诺贝尔化学奖授予了日法科学家](https://www.solidot.org/story?sid=85543)
+- 安全分析与研究
+  - [AI完整CyberKillChain可行性评估](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497260&idx=1&sn=64e49cc6f7f9a371f5f98ae21168679a)
+- 网络空间安全科学学报
+  - [重磅预告 | 贾焰研究员将在2026年网络空间安全学术会议作主旨报告](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247510034&idx=2&sn=fa093343f0e0dc1e6a02bf3267172fe3)
+- 丁爸 情报分析师的工具箱
+  - [情报分析师培训课程（三）情报学科与全源分析（3）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157688&idx=1&sn=d497a650ea96998cbcde43e8dad2e9c5)
 - 安全圈
   - [【安全圈】百余网站遭挂马植入伪Cloudflare：智能合约派发木马](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079274&idx=1&sn=15cf3e01caa2b91119ad90f970c2db20)
   - [【安全圈】Anthropic放开Claude安全限制：实测挖出12.9万漏洞引发争议](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079274&idx=2&sn=2ac9ed707c794a32564ec1e4c3ba5722)
   - [【安全圈】伪造ChatGPT与Claude广告后台：真人操盘钓鱼收割MFA令牌](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079274&idx=3&sn=d6e6368a840032a5ddfe2bf7bb4cdd84)
-- 安全分析与研究
-  - [AI完整CyberKillChain可行性评估](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497260&idx=1&sn=64e49cc6f7f9a371f5f98ae21168679a)
-- 极客公园
-  - [派拉蒙 1100 亿美元收购时代华纳；月之暗面被曝完成 500 亿美元 PreIPO 融资；微软、Meta 被曝要求员工减少使用 Claude｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114510&idx=1&sn=50189ec6aaf86b749165dcf4a1e83d44)
-- 丁爸 情报分析师的工具箱
-  - [情报分析师培训课程（三）情报学科与全源分析（3）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157688&idx=1&sn=d497a650ea96998cbcde43e8dad2e9c5)
-- 网络空间安全科学学报
-  - [重磅预告 | 贾焰研究员将在2026年网络空间安全学术会议作主旨报告](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247510034&idx=2&sn=fa093343f0e0dc1e6a02bf3267172fe3)
 - 谛听ditecting
   - [谛听 工控安全月报 | 9月](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247503872&idx=1&sn=ed70202a427e87d221765630f1de09ce)
-- SANS Internet Storm Center, InfoCON: green
-  - [Scans for Atlassian vulnerablity (CVE-2026-21589), (Wed, Oct 7th)](https://isc.sans.edu/diary/rss/33406)
-  - [ISC Stormcast For Wednesday, October 7th, 2026 https://isc.sans.edu/podcastdetail/10126, (Wed, Oct 7th)](https://isc.sans.edu/diary/rss/33404)
-- Microsoft Security Blog
-  - [3 lessons from frontier AI vulnerability research](https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/)
-- Schneier on Security
-  - [Apple’s Verified Photography System](https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html)
-- Arturo Di Corinto
-  - [Guerra Profonda Book Tour](https://dicorinto.it/tipologia/presentazioni/guerra-profonda-book-tour/)
+- NETRESEC Network Security Blog
+  - [NetworkMiner 3.2 Released](https://www.netresec.com/?page=Blog&month=2026-10&post=NetworkMiner-3-2-Released)
+- 看雪学苑
+  - [SDC2026议题预告 | 从漏洞检测到利用：知识驱动的 RISC-V 硬件安全分析技术](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622478&idx=1&sn=7a92ebdda86657e461928698f749424a)
+  - [当漏洞挖掘遇上 AI Agent：主流企业防火墙 0day 挖掘实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622478&idx=2&sn=2493f1ae2222a727e9420c80bc719906)
+- ICT Security Magazine
+  - [Cyber Resilience Act in Italia: il decreto affida ad ACN la vigilanza del mercato, ma il procedimento sanzionatorio non risulta ancora disciplinato](https://www.ictsecuritymagazine.com/articoli/cyber-resilience-act-italia-decreto-acn-vigilanza-mercato/)
+  - [Zero trust e modello Purdue: perché i controlli IT non bastano nell’OT](https://www.ictsecuritymagazine.com/articoli/zero-trust-modello-purdue-ot/)
 - Over Security
   - [Ransomware recovery CEO charged over secret ransom payments](https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/)
   - [FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins](https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/)
@@ -102,35 +96,37 @@
   - [Ransomware has a new target. Is your backup ready?](https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/)
   - [Senate passes healthcare cybersecurity bill after 190 million impacted by Change Healthcare breach](https://therecord.media/senate-passes-healthcare-cyber-bill-after-change-breach)
   - [ShinyHunters Extorted Boeing Spin-off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/)
-  - [Russian cyberattacks against UK are 'Putin Tax' costing $3.3 billion, says lawmaker](https://therecord.media/russia-cyberattacks-on-britain-putin-tax-graeme-downie)
-  - [CRA, il decreto italiano affida ad ACN la vigilanza: obblighi e nodi aperti](https://www.cybersecurity360.it/news/cra-il-decreto-italiano-affida-ad-acn-la-vigilanza-obblighi-e-nodi-aperti/)
-  - [FBI, Secret Service add to warnings of FortiBleed credential stealing campaign](https://therecord.media/fortibleed-warning-fbi-secret-service)
-  - [Hackers exploit critical Atlassian flaw after public PoC release](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/)
-  - [SonicWall warns of max severity SSRF flaw in SMA1000 gateways](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/)
-  - [Il ruolo del detection engineer nell’era dell’intelligenza artificiale](https://www.cybersecurity360.it/cultura-cyber/il-ruolo-del-detection-engineer-nellera-dellintelligenza-artificiale/)
-  - [Tracking pixel: entro il 29 ottobre le aziende devono adeguarsi alle regole del Garante](https://www.cybersecurity360.it/news/tracking-pixel-entro-il-29-ottobre-le-aziende-devono-adeguarsi-alle-regole-del-garante/)
-  - [Advantest confirms personal information stolen in ransomware attack](https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/)
-  - [Musician sent to prison for $10 million streaming fraud using AI bots](https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/)
-  - [One breach, please, and make no mistakes](https://blog.talosintelligence.com/one-breach-please-and-make-no-mistakes/)
-- ICT Security Magazine
-  - [Cyber Resilience Act in Italia: il decreto affida ad ACN la vigilanza del mercato, ma il procedimento sanzionatorio non risulta ancora disciplinato](https://www.ictsecuritymagazine.com/articoli/cyber-resilience-act-italia-decreto-acn-vigilanza-mercato/)
-  - [Zero trust e modello Purdue: perché i controlli IT non bastano nell’OT](https://www.ictsecuritymagazine.com/articoli/zero-trust-modello-purdue-ot/)
-- NETRESEC Network Security Blog
-  - [NetworkMiner 3.2 Released](https://www.netresec.com/?page=Blog&month=2026-10&post=NetworkMiner-3-2-Released)
-- GRAHAM CLULEY
-  - [Smashing Security podcast #487: Clippy’s crypto comeback](https://grahamcluley.com/smashing-security-podcast-487/)
+- Schneier on Security
+  - [Apple’s Verified Photography System](https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html)
 - Have I Been Pwned latest breaches
   - [CyrusOne - 373,460 breached accounts](https://haveibeenpwned.com/Breach/CyrusOne)
   - [Double Counter - 274,922 breached accounts](https://haveibeenpwned.com/Breach/DoubleCounter)
   - [Angel One - 6,765,054 breached accounts](https://haveibeenpwned.com/Breach/AngelOne)
-- Krebs on Security
-  - [ShinyHunters Extorted Boeing Spin-off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/)
+- SANS Internet Storm Center, InfoCON: green
+  - [Scans for Atlassian vulnerablity (CVE-2026-21589), (Wed, Oct 7th)](https://isc.sans.edu/diary/rss/33406)
+  - [ISC Stormcast For Wednesday, October 7th, 2026 https://isc.sans.edu/podcastdetail/10126, (Wed, Oct 7th)](https://isc.sans.edu/diary/rss/33404)
+- 极客公园
+  - [派拉蒙 1100 亿美元收购时代华纳；月之暗面被曝完成 500 亿美元 PreIPO 融资；微软、Meta 被曝要求员工减少使用 Claude｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114510&idx=1&sn=50189ec6aaf86b749165dcf4a1e83d44)
+- Arturo Di Corinto
+  - [Guerra Profonda Book Tour](https://dicorinto.it/tipologia/presentazioni/guerra-profonda-book-tour/)
 - Security Affairs
   - [SonicWall Fixes Max Severity Pre-Auth Flaw in SMA1000 Appliances](https://securityaffairs.com/200569/security/sonicwall-fixes-max-severity-pre-auth-flaw-in-sma1000-appliances.html)
   - [FortiBleed hit 86,000 firewalls by exploiting something nobody can patch away](https://securityaffairs.com/200558/cyber-crime/fortibleed-hit-86000-firewalls-by-exploiting-something-nobody-can-patch-away.html)
   - [CERT-UA: Fake Cloudflare Checks Deliver LunexStealer Malware](https://securityaffairs.com/200537/hacking/cert-ua-fake-cloudflare-checks-deliver-lunexstealer-malware.html)
   - [Anthropic Creates Three Tiers for Claude Cyber Access](https://securityaffairs.com/200521/ai/anthropic-creates-three-tiers-for-claude-cyber-access.html)
   - [Wikimedia Finds Unauthorized OpenAI Agent Activity on Wikipedia](https://securityaffairs.com/200506/ai/wikimedia-finds-unauthorized-openai-agent-activity-on-wikipedia.html)
+- The Hacker News
+  - [Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains](https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html)
+  - [Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer](https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html)
+  - [SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances](https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html)
+  - [Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely](https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html)
+  - [PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet](https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html)
+  - [The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow](https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html)
+  - [FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials](https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html)
+  - [Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details](https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html)
+  - [What Is Agentic Pentesting? What It Proves, and Where It Stops.](https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html)
+  - [Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws](https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html)
+  - [100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer](https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html)
 - KitPloit - PenTest Tools!
   - [Perturbed-Embedding-Vectors](https://kitploit.com/en/tools/github/abhinavdubey30/perturbed-embedding-vectors)
   - [Aliens_eye](https://kitploit.com/en/tools/github/arxhr007/aliens_eye)
@@ -153,17 +149,11 @@
   - [Scrapegraph-ai v2.3.1](https://kitploit.com/en/posts/scrapegraph-ai-8f1af56e9e493854)
   - [javascript-deobfuscator](https://kitploit.com/en/tools/github/lolcaken/javascript-deobfuscator)
   - [shannon v3.4.0](https://kitploit.com/en/posts/shannon-de25aed19d8084f1)
-- The Hacker News
-  - [Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains](https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html)
-  - [Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer](https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html)
-  - [SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances](https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html)
-  - [Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely](https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html)
-  - [PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet](https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html)
-  - [The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow](https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html)
-  - [FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials](https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html)
-  - [Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details](https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html)
-  - [What Is Agentic Pentesting? What It Proves, and Where It Stops.](https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html)
-  - [Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws](https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html)
-  - [100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer](https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html)
+- Microsoft Security Blog
+  - [3 lessons from frontier AI vulnerability research](https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/)
+- Krebs on Security
+  - [ShinyHunters Extorted Boeing Spin-off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/)
+- GRAHAM CLULEY
+  - [Smashing Security podcast #487: Clippy’s crypto comeback](https://grahamcluley.com/smashing-security-podcast-487/)
 - Security Weekly Podcast Network (Audio)
   - [Building Quantum Safe Security as AI Safety and Governance Won't Save You - Vijay Viswanathan - BSW #468](http://sites.libsyn.com/18678/building-quantum-safe-security-as-ai-safety-and-governance-wont-save-you-vijay-viswanathan-bsw-468)
